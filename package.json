@@ -1,0 +1,26 @@
+{
+	"name": "eay.cc-static-archive",
+	"version": "1.0.0",
+	"description": "A static archive of eay.cc with all posts as static site generator compatible markdown files.",
+	"repository": "https://github.com/lonekorean/wordpress-export-to-markdown.git",
+	"scripts": {
+		"build": "node ./scripts/wordpress-export-to-markdown/index.js --wizard=false --input=export.xml --output=posts --year-folders=true --month-folders=false --post-folders=false --prefix-date=true --save-attached-images=false --save-scraped-images=false",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "Stefan Grund <stefan@grund.email> (https://stefangrund.eu)",
+	"license": "MIT",
+	"engines": {
+		"node": ">= 12.14.1"
+	},
+	"devDependencies": {
+		"camelcase": "^5.3.1",
+		"chalk": "^3.0.0",
+		"commander": "^4.0.1",
+		"inquirer": "^7.0.3",
+		"luxon": "^1.21.3",
+		"request": "^2.88.0",
+		"request-promise-native": "^1.0.8",
+		"turndown": "^5.0.3",
+		"xml2js": "^0.4.22"
+	}
+}
