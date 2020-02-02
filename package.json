@@ -8,7 +8,7 @@
 		"test": "echo \"Error: no test specified\" && exit 1"
 	},
 	"author": "Stefan Grund <stefan@grund.email> (https://stefangrund.eu/)",
-	"license": "MIT",
+	"license": "CC BY-NC-ND 3.0",
 	"engines": {
 		"node": ">= 12.14.1"
 	},
