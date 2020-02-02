@@ -1,6 +1,6 @@
 ---
 title: "Andrea Voßhoff: Die Unsichtbare"
-date: "null"
+date: "2016-01-04"
 datetime: "2016-01-04 22:36:27"
 id: "31201"
 slug: "andrea-vosshoff-die-unsichtbare"
