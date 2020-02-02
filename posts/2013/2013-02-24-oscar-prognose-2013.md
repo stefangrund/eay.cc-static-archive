@@ -1,0 +1,37 @@
+---
+title: "Oscar-Prognose 2013"
+date: "2013-02-24"
+datetime: "2013-02-24 22:38:17"
+id: "22203"
+slug: "oscar-prognose-2013"
+url: "https://eay.cc/2013/oscar-prognose-2013/"
+author: "eay"
+format: "post"
+categories:
+  - 0815
+tags:
+  - filme
+  - oscar-prognose
+  - oscars
+  - wetten
+meta:
+  - yourls_shorturl: "http://eay.li/1t2"
+---
+
+![](https://eay.cc/uploads/2010/oscar.jpg)In wenigen Stunden ist es soweit, die Academy of Motion Picture Arts and Sciences verleiht [zum 85. Mal die Annual Academy Awards](http://en.wikipedia.org/wiki/85th_Academy_Awards). Und wie schon in den [letzten](//eay.cc/2010/oscar-prognose-2010/) [drei](//eay.cc/2011/oscar-prognose-2011/) [Jahren](//eay.cc/2012/oscar-prognose-2012/) versuche ich mich wieder an einer Prognose und werde die Nacht gebannt vor dem Fernseher verbringen. Dieses Jahr leider jedoch ohne meinen geschätzten Oscar-Nacht-Kumpanen [Sebastian](http://twitter.com/mod85) und zwei, drei siebenunddreißig Bier, da ich morgen früh relativ fit sein muss, um die Lieferung unserer neuen Couch entgegen zu nehmen. ((Ja, es ist tragisch: Im Dolby Theatre zelebrieren die Reichen und Schönen heute diejenigen von ihnen, die gerade den Höhepunkt ihrer Karriere erreichen und ich sitze allein und nüchtern vorm heimischen Fernsehgerät, um morgen die Lieferung einer Couch auf die Reihe zu bekommen...))
+
+Jedenfalls habe ich das Gefühl, dass es in diesem Jahr sehr viel schwerer ist, die richtigen Oscar-Gewinner zu tippen, da diesmal kein wirklich umwerfender Film dabei ist. Dieses Jahr habe ich das Kunststück vollbracht, alle als Best Picture nominierten Filme zu sehen und obwohl da definitiv gute Filme drunter sind, fehlen Kracher wie in den letzten Jahren. Kein »Hurt Locker«, kein »Avatar«, kein »Social Network«, »King's Speech«, »The Artist« oder »Hugo«. Stattdessen nur ein guter, aber keinesfalls herausragender Tarantino (»Django Unchained«), sehr viel amerikanisches Mittelmaß (»Lincoln«, »Zero Dark Thirty«) und die erfolgreichste Musicalverfilmung aller Zeiten (»Les Misérables«), die wenn daran scheitert, dass sie ein Musical ist. Und »Argo«, der wahrscheinlich beste Film, muss ohne Nominierung zur besten Regie auskommen - bis auf zwei Mal (1932: »[Grand Hotel](http://www.imdb.com/title/tt0022958/)«, 1990: »[Driving Miss Daisy](http://www.imdb.com/title/tt0097239/)«) ein Ausschlusskriterium.
+
+Ich bin also mal gespannt, wie ich mit meinem Tipp so abschneide, und ob ich mit meiner Prognose richtig liege oder ob sich der Abwärtstrend der letzten Jahre fortsetzt (2010: fünf mal daneben, 2011: zehn mal daneben, 2012: zwölf mal daneben).
+
+**Best Picture:** Argo ![](https://eay.cc/uploads/2011/icon_check.png) **Directing: ** Michael Haneke, Amour ((Wahrscheinlich ist Spielberg der sichere Tipp, aber wenn man »Lincoln« gesehen hat (ein besserer TV-Zweiteiler), weiß man, wie ungerechtfertigt das wäre.)) ![](https://eay.cc/uploads/2011/icon_cross.png) Ang Lee, Life of Pi **Leading Actress:** Emmanuelle Riva, Amour ![](https://eay.cc/uploads/2011/icon_cross.png) Jennifer Lawrence, Silver Linings Playbook **Leading Actor:** Hugh Jackman, Les Misérables ![](https://eay.cc/uploads/2011/icon_cross.png) Daniel Day-Lewis, Lincoln **Supporting Actress:** Anne Hathaway, Les Misérables ![](https://eay.cc/uploads/2011/icon_check.png) **Supporting Actor:** Tommy Lee Jones, Lincoln ![](https://eay.cc/uploads/2011/icon_cross.png) Christoph Waltz, Django Unchained **Original Screenplay:** Moonrise Kingdom, Wes Anderson & Roman Coppola ((Mein absoluter Favorit unter allen nominierten. Wenn schon sonst nichts, dann _muss_ »Moonrise Kingdom« wenigstens hier gewinnen.)) ![](https://eay.cc/uploads/2011/icon_cross.png) Django Unchained, Quentin Tarantino **Adapted Screenplay: ** Argo ![](https://eay.cc/uploads/2011/icon_check.png) **Foreign Language Film:** Amour ![](https://eay.cc/uploads/2011/icon_check.png) **Animated Feature:** Wreck-It Ralph ((Aber wahrscheinlich bekommt »Brave« den Pixar-Oscar, obwohl der mehr als mittelmäßig war und mir überhaupt nicht gefallen hat...)) ![](https://eay.cc/uploads/2011/icon_cross.png) Brave **Cinematography:** Life of Pi ![](https://eay.cc/uploads/2011/icon_check.png) **Makeup and Hairstyling:** Les Misérables ![](https://eay.cc/uploads/2011/icon_check.png) **Original Score:** Life of Pi ![](https://eay.cc/uploads/2011/icon_check.png) **Original Song:** Skyfall, Adele ![](https://eay.cc/uploads/2011/icon_check.png) **Production Design:** Les Misérables ![](https://eay.cc/uploads/2011/icon_cross.png) Lincoln **Costume Design:** Anna Karenina ![](https://eay.cc/uploads/2011/icon_check.png) **Animated Short Film:** Paperman ![](https://eay.cc/uploads/2011/icon_check.png) **Live Action Short Film:** Curfew ![](https://eay.cc/uploads/2011/icon_check.png) **Film Editing: ** Zero Dark Thirty ![](https://eay.cc/uploads/2011/icon_cross.png) Argo **Sound Editing:** Zero Dark Thirty ![](https://eay.cc/uploads/2011/icon_check.png) \+ Skyfall **Sound Mixing:** Les Misérables ![](https://eay.cc/uploads/2011/icon_check.png) **Visual Effects:** Life of Pi ![](https://eay.cc/uploads/2011/icon_check.png) **Documentary Feature:** Searching for Sugar Man ![](https://eay.cc/uploads/2011/icon_check.png) **Documentary Short:** Mondays at Racine ![](https://eay.cc/uploads/2011/icon_cross.png) Inocente
+
+\= **5x** Les Misérables, **3x** Amour, **3x** Life of Pi, **2x** Argo, **2x** Zero Dark Thirty ![](https://eay.cc/uploads/2011/icon_cross.png) \= **4x** Life of Pi, **3x** Argo, **3x** Les Misérables, **2x** Django Unchained, **2x** Lincoln, **2x** Skyfall
+
+Selbstredend gebe ich während der Verleihung wieder [per Twitter](http://twitter.com/eay) meinen Senf zu den Geschehnissen in L.A. ab und morgen, wenn wir alle mehr wissen, wird dieser Beitrag natürlich aktualisiert und die Richtigkeit meines Tipps für alle Zeit festgehalten.
+
+**Update, 25.02.2013:** Die Couch wurde fünf Minuten vor Ende des siebenstündigen (!) Zeitfensters geliefert und steht mittlerweile, sieht gut aus und ist bequem. Aber das interessiert euch nicht wirklich, ihr wollt was zu den Oscar-Ergebnissen hören. Wie ihr oben sehen könnt, lag ich 15 von 24 Mal richtig. Mit neun falschen bin ich also immerhin wieder besser als [2011](//eay.cc/2011/oscar-prognose-2011/) und [2012](//eay.cc/2012/oscar-prognose-2012/).
+
+Ansonsten gab es keine großen Überraschungen: Der überschätzte, da inhaltlich mehr als dünne »Life of Pi« war der Abräumer des Abends und Jennifer Lawrence wurde für ihr meiner Meinung nach _nur_ gutes Spiel in »Silver Linings Playbook« als beste Hauptdarstellerin ausgezeichnet. Ansonsten wurde Pixars Abo auf's Animated Feature verlängert und Waltz gewann für Doktor King Schulz eine weitere Goldtrophäe. »Moonrise Kingdom« ging leider leer aus, aber das war auch zu erwarten.
+
+Der Höhepunkt der Abends war gleich zu Beginn [der Auftakt von und mit Seth MacFarlane](http://www.dailymotion.com/video/xxrh9l_oscars-2013-opening-number-with-seth-macfarlane-william-shatner_shortfilms), der erstmals die Oscars moderiert hat und das, auch wenn's zum Ende hin langweiliger wurde, besser als sonst irgendjemand in den letzten Jahren gemacht hat. Vor allem als Billy Crystal. MacFarlanes ["We saw your Boobs"-Song](http://www.dailymotion.com/video/xxrh9l_oscars-2013-opening-number-with-seth-macfarlane-william-shatner_shortfilms?start=54) war jedenfalls ein Instant-Klassiker und wenn er's nächstes Jahr wieder macht, hätte ich absolut nichts dagegen. Im Gegenteil.

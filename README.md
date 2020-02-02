@@ -2,11 +2,11 @@
 
 This is a static archive of [eay.cc](https://eay.cc/), the weblog of [Stefan Grund](https://stefangrund.eu/).
 
-It consists of every blog post published between 2007 and today (2020-02-02). The posts are saved as Markdown files with static site generator compatible front matters. These contain all meta data about each post (e.g. original URL, datetime, tags, geolocation, and so on).
+It consists of every blog post published between 2007-02-02 and 2020-02-02. The posts are saved as Markdown files with static site generator compatible front matters. These contain all meta data about each post (e.g. original URL, datetime, tags, geolocation, and so on).
 
-##### Example post:
+#### Example post:
 
-```
+```yaml
 ---
 title: "Kinostatistik 2019"
 date: "2019-12-31"
@@ -47,7 +47,7 @@ The compatility with static site generators was tested with [Eleventy](https://g
 
 ## About Stefan and eay.cc
 
-[Stefan Grund](https://stefangrund.eu/), born in 1985, is a media scientist, developer and entrepreneur from Cologne, Germany. He is the CEO of [Hypercode](https://hypercode.de/), a digital product studio, which focuses on creating high-quality web and mobile apps. Stefan, whose online alias is “eay“, started blogging in 2003. He writes about media, pop culture, technology and their intersection.
+[Stefan Grund](https://stefangrund.eu/), born in 1985, is an entrepreneur, developer and media scientist from Cologne, Germany. He is the CEO and co-founder of [Hypercode](https://hypercode.de/), a digital product studio, which focuses on creating high-quality web and mobile apps. Stefan, whose online alias is “eay“, started blogging on [eay.cc](https://eay.cc/) in 2003. In his mostly German blog he writes about media, pop culture, technology and their intersection.
 
 
 ## Setup
