@@ -12,6 +12,7 @@ categories:
 tags:
   - autos
   - bizarres
+  - cybertruck
   - elon-musk
   - mars
   - technologie
