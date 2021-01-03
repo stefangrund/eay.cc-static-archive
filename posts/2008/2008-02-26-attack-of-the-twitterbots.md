@@ -15,7 +15,7 @@ tags:
   - twitter
   - twitterbot
 meta:
-  - yourls_shorturl: "http://eay.li/v8"
+  - yourls_shorturl: "https://eay.li/v8"
 ---
 
 Nachdem ich letztens™ bereits [einen Twitterbot](http://twitter.com/rivva) für unser aller Lieblingsblogaggregator [Rivva](http://rivva.de/) aufgesetzt habe, ist nun euer Lieblingsblog persönlich an der Reihe: Seit eben gibt es einen [Twitterbot für eayz](http://twitter.com/eayz), der euch eine Twitter-mäßige Übersicht über die aktuellen Blogeinträge und Kommentare bietet. Und - abwarten! - demnächst folgen noch ein, zwei weitere Bots.

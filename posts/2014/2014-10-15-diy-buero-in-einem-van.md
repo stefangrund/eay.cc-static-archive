@@ -16,7 +16,7 @@ tags:
   - diy
 meta:
   - linked_list_url: "http://davidmckinney.com/blog/2013/12/29/redesigning-the-office"
-  - yourls_shorturl: "http://eay.li/2jp"
+  - yourls_shorturl: "https://eay.li/2jp"
 ---
 
 ![](https://eay.cc/uploads/2014/officevan.jpg)

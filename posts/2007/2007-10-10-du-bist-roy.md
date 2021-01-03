@@ -12,7 +12,7 @@ categories:
 tags:
   - it-crowd
 meta:
-  - yourls_shorturl: "http://eay.li/4b"
+  - yourls_shorturl: "https://eay.li/4b"
 ---
 
 ![](/uploads/2007/dubistroy.jpg) Sind wir nicht alle ein bisschen [Roy](//eay.cc/2007/have-you-tried-turning-it-off-and-on-again/)? Geklaut [bei Jeriko](http://www.i-jeriko.de/2007/10/09/du-bist-roy/).

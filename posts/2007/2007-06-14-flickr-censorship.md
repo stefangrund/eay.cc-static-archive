@@ -19,7 +19,7 @@ tags:
   - yahoo
   - zensur
 meta:
-  - yourls_shorturl: "http://eay.li/ad"
+  - yourls_shorturl: "https://eay.li/ad"
 ---
 
 [![](/uploads/2007/flickrcensorship.jpg "licensed under Creative Commons, by net efekt")](http://www.flickr.com/photos/wheatfields/546878452/)Leser, Freunde, befreundete Leser, es tut mir leid! Jahrelang habe ich euch gegenüber die frohe Botschaft von flickr verkündet. Habe eine [eayz-Gruppe](http://www.flickr.com/groups/eayz/) und die größte [Germany-Gruppe](http://www.flickr.com/groups/germany/) gegründet und habe stets gesagt, dass flickr eindeutig das beste ist, was das so genannte Web 2.0 hervorgebracht hat. Und das finde ich eigentlich immer noch, wenn da nicht dieser dunkle, fiese Schandfleck wäre: Seitdem [Yahoo](http://de.wikipedia.org/wiki/Yahoo%21) eine deutsch lokalisierte Version von flickr gestartet hat, werden für deutsche Nutzer keine Bilder mehr angezeigt, die als 'moderate' oder 'restricted' markiert sind. Ändern lässt sich das nicht - sie werden einfach wegzensiert. [Angeblich](http://www.spreeblick.com/2007/06/14/filtr/) wegen der fragwürdigen rechtlichen Lage zur Betreibung von [Foren](http://eay.cc/board/) in Deutschland. Dennoch: Eine Frechheit, eine Bevormundung und eine Beleidigung für alle deutschen User! Deshalb wird nun [heftig protestiert](http://www.flickr.com/groups/againstcensorship/pool/). [Mitmachen!](http://www.flickr.com/photos/atomtigerzoo/543864623/)

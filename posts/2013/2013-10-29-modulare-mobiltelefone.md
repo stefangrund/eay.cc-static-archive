@@ -15,7 +15,7 @@ tags:
   - motorola
   - technologie
 meta:
-  - yourls_shorturl: "http://eay.li/290"
+  - yourls_shorturl: "https://eay.li/290"
 ---
 
 Der holländische Industriedesigner [Dave Hakkens](http://news.davehakkens.nl/) hat Anfang September das folgende Video veröffentlicht, in dem er das Konzept eines modularen Handys vorstellt. Jede Komponente besteht dabei aus einem eigenen Block, der sich bei Bedarf austauschen lässt. Der Wechsel eines kaputten Displays oder das Aufrüsten des Prozessors soll mit den so geannten "[Phonebloks](https://phonebloks.com/)" problemlos möglich sein. Lego(-Technik) lässt grüßen.

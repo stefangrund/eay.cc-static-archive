@@ -13,7 +13,7 @@ tags:
   - geschenk
   - tiere
 meta:
-  - yourls_shorturl: "http://eay.li/fx"
+  - yourls_shorturl: "https://eay.li/fx"
 ---
 
 ![](/uploads/2008/nofatchicks.jpg) [Kollege Asphar](http://so-war-das-damals.de/) hat mich beschenkt! Und zwar mit obigem Roadsign, das er mir aus Australien mitgebracht hat (vgl. [Melbourne 2008](http://so-war-das-damals.de/2008/02/22/melbourne-2008-perfektes-timing-down-under/)) und beleibte Hühner diskriminiert. Vielen Dank dafür!

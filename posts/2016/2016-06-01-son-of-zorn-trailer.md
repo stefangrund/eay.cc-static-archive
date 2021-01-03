@@ -16,7 +16,7 @@ tags:
   - serien
   - trailer
 meta:
-  - yourls_shorturl: "http://eay.li/2tv"
+  - yourls_shorturl: "https://eay.li/2tv"
 ---
 
 \[youtube id="kPnlQTi8heM"\]

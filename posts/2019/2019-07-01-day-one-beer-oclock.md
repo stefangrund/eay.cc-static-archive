@@ -17,7 +17,7 @@ tags:
   - serious-business-eay
 meta:
   - content_copy: "https://www.instagram.com/p/BzYsXW6o3cF/"
-  - yourls_shorturl: "http://eay.li/3am"
+  - yourls_shorturl: "https://eay.li/3am"
 ---
 
 ![](https://eay.cc/uploads/2019/feierabend.jpeg)

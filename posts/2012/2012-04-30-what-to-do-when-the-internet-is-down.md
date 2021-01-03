@@ -13,7 +13,7 @@ tags:
   - infografik
   - netzkultur
 meta:
-  - yourls_shorturl: "http://eay.li/1y6"
+  - yourls_shorturl: "https://eay.li/1y6"
   - linked_list_url: "http://9gag.com/gag/4015173"
 ---
 

@@ -20,7 +20,7 @@ tags:
   - theme
   - wordpress
 meta:
-  - yourls_shorturl: "http://eay.li/48"
+  - yourls_shorturl: "https://eay.li/48"
 ---
 
 [![](/uploads/2008/stanley.jpg "kubrick by ~saala")](http://saala.deviantart.com/art/kubrick-67988581)Als ich letzte Nacht am [da noch aktuellen Design](http://www.flickr.com/photos/eay/447084373/) dieser Webseite schraubte, landete ich mitunter immer wieder beim Wordpress-Standard-Theme [Kubrick](http://www.flickr.com/photos/eay/2501309409/). Eigentlich hatte ich immer eine Abneigung gegen dieses Standard-Theme und, ja, auch gegen Blogs, die mir mit dieser 08/15-Optik entgegen traten. Die Erleuchtung, dass dieses Vorurteil natürlich schwachsinnig ist (wie wohl alle Vorurteile), ist mir dann auch beim nächtlichen Basteln gekommen. Oder vielmehr: So schlecht sieht eayz gar nicht mal in Kubrick aus. Da haben [Michael Heilemann](http://binarybonsai.com/) und die anderen [Wordpress](http://wordpress.org/)\-Jungs wohl doch gute Arbeit geleistet. Diese Erkenntnis - besser spät als nie.

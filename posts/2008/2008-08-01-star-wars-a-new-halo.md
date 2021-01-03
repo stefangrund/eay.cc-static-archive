@@ -13,7 +13,7 @@ tags:
   - star-wars
   - toys
 meta:
-  - yourls_shorturl: "http://eay.li/qj"
+  - yourls_shorturl: "https://eay.li/qj"
 ---
 
 Wie würde sich das galaktische Imperium verändern, wenn man anstelle der inkompetenten, gutgläubigen Stormtrooper die knallharten Spartans aus Halo beschäftigt hätte? Benny und Rafi Fine haben sich genau mit dieser Frage beschäftigt und die einschlägigen Szenen mal mit Actionfiguren nachgestellt - und es wird blutig! Video nach dem Klick.

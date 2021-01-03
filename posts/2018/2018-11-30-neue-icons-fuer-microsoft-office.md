@@ -16,7 +16,7 @@ tags:
   - office
 meta:
   - linked_list_url: "https://www.theverge.com/2018/11/29/18117580/microsoft-office-new-icons-2018-design-features"
-  - yourls_shorturl: "http://eay.li/380"
+  - yourls_shorturl: "https://eay.li/380"
 ---
 
 ![](https://eay.cc/uploads/2018/office-icons.jpeg)

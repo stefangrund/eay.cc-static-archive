@@ -16,7 +16,7 @@ tags:
   - sequel
   - trailer
 meta:
-  - yourls_shorturl: "http://eay.li/32l"
+  - yourls_shorturl: "https://eay.li/32l"
 ---
 
 \[youtube id="vn9mMeWcgoM"\]

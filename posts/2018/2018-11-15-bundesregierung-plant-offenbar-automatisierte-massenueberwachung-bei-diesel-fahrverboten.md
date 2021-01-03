@@ -18,7 +18,7 @@ tags:
   - verkehr
 meta:
   - linked_list_url: "https://www.heise.de/newsticker/meldung/Bundesregierung-plant-offenbar-Massenueberwachung-bei-Diesel-Fahrverboten-4221457.html"
-  - yourls_shorturl: "http://eay.li/37o"
+  - yourls_shorturl: "https://eay.li/37o"
 ---
 
 Natürlich: anstelle von Hardware-Nachrüstung auf Kosten der schuldigen Hersteller bekommen wir jetzt einen vom Steuerzahler finanzierten Überwachungsapparat und bestrafen den Otto-Normal-Fahrer damit gleich doppelt. Welch schöne neue Welt!

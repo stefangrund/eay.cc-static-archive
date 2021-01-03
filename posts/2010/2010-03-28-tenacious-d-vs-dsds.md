@@ -16,7 +16,7 @@ tags:
   - single
   - tenacious-d
 meta:
-  - yourls_shorturl: "http://eay.li/47"
+  - yourls_shorturl: "https://eay.li/47"
 ---
 
 Leser Dominik hat mich dankenswerterweise darauf aufmerksam gemacht, dass man hierzulande zur Zeit versucht dem Vorbild der Briten, die im Dezember den [RATM](http://de.wikipedia.org/wiki/Rage_Against_the_Machine)\-Oldie "[Killing in the name](http://www.youtube.com/watch?v=fkuOAY-S6OY)" anstelle des Weihnachtssongs einer schnöden TV-Casting-Combo auf Platz 1 der Single-Charts brachten, nachzueifern.

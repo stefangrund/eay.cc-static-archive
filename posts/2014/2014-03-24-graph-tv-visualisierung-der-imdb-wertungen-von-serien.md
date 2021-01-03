@@ -17,7 +17,7 @@ tags:
   - webservice
 meta:
   - linked_list_url: "http://graphtv.kevinformatics.com/"
-  - yourls_shorturl: "http://eay.li/2e2"
+  - yourls_shorturl: "https://eay.li/2e2"
 ---
 
 > Graph TV is a visualization tool which graphs tv show ratings by episode. Each season is assigned a different color and linear regressions are calculated for each season as well as for the entire series. Each point on the graph displays the episode title, rating, and other data.

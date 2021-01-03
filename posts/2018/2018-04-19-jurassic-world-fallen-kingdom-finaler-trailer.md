@@ -15,7 +15,7 @@ tags:
   - jurassic-park
   - trailer
 meta:
-  - yourls_shorturl: "http://eay.li/34w"
+  - yourls_shorturl: "https://eay.li/34w"
 ---
 
 Nach den vielversprechenden [ersten](https://eay.cc/2017/jurassic-world-fallen-kingdom-trailer/) [zwei](https://eay.cc/2018/super-bowl-lii-movie-trailers/) Trailern hier nun der weiterhin großartig ausschauende finale Trailer, der nun auch mehr von der Handlung jenseits der Isla Nublar offenbart.

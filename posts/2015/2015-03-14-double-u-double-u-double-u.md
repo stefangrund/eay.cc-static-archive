@@ -14,7 +14,7 @@ tags:
   - netzkultur
   - sprache
 meta:
-  - yourls_shorturl: "http://eay.li/2ns"
+  - yourls_shorturl: "https://eay.li/2ns"
 ---
 
 > The World Wide Web is the only thing I know of whose shortened form takes three times longer to say than what it's short for.

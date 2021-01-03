@@ -14,7 +14,7 @@ tags:
   - diy
   - netzkultur
 meta:
-  - yourls_shorturl: "http://eay.li/2va"
+  - yourls_shorturl: "https://eay.li/2va"
 ---
 
 [![](https://eay.cc/uploads/2016/diyordie.png)](https://twitter.com/eay/status/793904835951230976)

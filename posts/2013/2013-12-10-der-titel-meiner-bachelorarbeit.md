@@ -15,7 +15,7 @@ tags:
   - personal-api
   - studium
 meta:
-  - yourls_shorturl: "http://eay.li/2am"
+  - yourls_shorturl: "https://eay.li/2am"
 ---
 
 Der Titel meiner Bachelorarbeit steht übrigens fest: »Implementierung einer personenbezogenen Programmierschnittstelle ("Personal API") zur Abbildung des digitalen Ichs im Social Web«

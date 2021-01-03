@@ -17,7 +17,7 @@ tags:
   - retro
   - sega
 meta:
-  - yourls_shorturl: "http://eay.li/fy"
+  - yourls_shorturl: "https://eay.li/fy"
 ---
 
 ![](/uploads/2008/megadriveportable.jpg) Es ist ja kein Geheimnis: Ich halte das [Sega Mega Drive](http://de.wikipedia.org/wiki/Sega_Mega_Drive) für die beste Konsole, die jemals produziert wurde (gefolgt vom [Dreamcast](//eay.cc/2007/jubilaum/)). Als ich nun erfuhr, dass es einen so genannten "Mega Drive Portable" gibt, war ich erstmal hellauf begeistert. Doch dann Ernüchterung: Sega hat die Lizenz an irgendwelche Dritthersteller verkauft und die 20 Spiele, die sich auf dem 5,8cm-Minidisplay spielen lassen, sind fest implementiert. Alternativ soll auch der Anschluss ans Fernsehgerät möglich sein, wovon aber [laut Test bei 4Players](http://www.4players.de/4players.php/dispbericht/PC-CDROM/Special/10473/7153/0/Mega_Drive_Portable.html) eher abzuraten ist.

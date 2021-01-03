@@ -15,7 +15,7 @@ tags:
   - indiegames
   - video-essay
 meta:
-  - yourls_shorturl: "http://eay.li/2h9"
+  - yourls_shorturl: "https://eay.li/2h9"
 ---
 
 [Adam Butcher](http://www.adam-butcher.co.uk/) hat die vergangenen 13 Jahre, seit er 14 Jahre alt ist, an einem eigenen Indie-Game gewerkelt – die zu diesem Zeitpunkt noch nicht mal Indie-Games hießen. Vor ein paar Tagen hat er sein Spiel mit dem Titel »[Tobias and the Dark Sceptres](http://www.tobiasgame.co.uk/)« endlich veröffentlicht und dazu das nachfolgende Video produziert, das Spielentwicklung und Leidensweg sehr schön dokumentiert.

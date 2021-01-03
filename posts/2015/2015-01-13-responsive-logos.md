@@ -16,7 +16,7 @@ tags:
   - webdesign
 meta:
   - linked_list_url: "http://www.responsivelogos.co.uk/"
-  - yourls_shorturl: "http://eay.li/2mg"
+  - yourls_shorturl: "https://eay.li/2mg"
 ---
 
 ![](https://eay.cc/uploads/2015/responsivelogos.gif)

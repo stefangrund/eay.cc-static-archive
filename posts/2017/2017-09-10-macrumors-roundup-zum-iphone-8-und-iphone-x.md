@@ -16,7 +16,7 @@ tags:
   - technologie
 meta:
   - linked_list_url: "https://www.macrumors.com/roundup/iphone-8/"
-  - yourls_shorturl: "http://eay.li/311"
+  - yourls_shorturl: "https://eay.li/311"
   - geo_latitude: "52.381344540249"
   - geo_longitude: "5.700526231041"
   - geo_public: "1"

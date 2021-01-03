@@ -15,7 +15,7 @@ tags:
   - star-wars
 meta:
   - linked_list_url: "http://www.starwars.com/news/the-official-title-for-star-wars-episode-viii-revealed"
-  - yourls_shorturl: "http://eay.li/2wf"
+  - yourls_shorturl: "https://eay.li/2wf"
 ---
 
 Damit wird wohl der gealterte Luke gemeint sein – bevor er stirbt und Reys Training zur nächsten Jedi-Generation beginnt. Außerdem spannend, dass Lucasfilm/Disney bei den eigentlichen Star Wars-Episoden nun halboffiziell von der "Skywalker Saga" spricht.

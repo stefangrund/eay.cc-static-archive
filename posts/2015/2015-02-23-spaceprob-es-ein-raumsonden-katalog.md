@@ -15,7 +15,7 @@ tags:
   - weltall
   - wissenschaft
 meta:
-  - yourls_shorturl: "http://eay.li/2n4"
+  - yourls_shorturl: "https://eay.li/2n4"
 ---
 
 > Spaceprob.es catalogs the active human-made machines that freckle our solar system and dot our galaxy. For each space probe, we've affectionately crafted a short-and-sweet summary as well as handpicked geeky hyperlinks we think are worth exploring.

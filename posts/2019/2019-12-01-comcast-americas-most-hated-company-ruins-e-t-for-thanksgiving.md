@@ -15,7 +15,7 @@ tags:
   - werbung
 meta:
   - linked_list_url: "https://boingboing.net/2019/11/28/americas-most-hated-company.html"
-  - yourls_shorturl: "http://eay.li/3c2"
+  - yourls_shorturl: "https://eay.li/3c2"
 ---
 
 \[youtube id="Pdgk3ERKdug"\]

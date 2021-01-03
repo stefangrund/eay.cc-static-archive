@@ -15,7 +15,7 @@ tags:
   - postal
   - uwe-boll
 meta:
-  - yourls_shorturl: "http://eay.li/qi"
+  - yourls_shorturl: "https://eay.li/qi"
 ---
 
 [Uwe Boll](http://de.wikipedia.org/wiki/Uwe_Boll), der seine Kritiker gerne mal zum Boxen herausfordert, tourt dieser Tage durch die Welt und zeigt seinen neuen Film [Postal](http://www.imdb.com/title/tt0486640/), die Verfilmung des umstrittenen gleichnamigen [Computerspiels](http://de.wikipedia.org/wiki/Postal). Einem Wired-Redakteur, der ein offensichtlich negatives [Review zu Postal](http://blog.wired.com/games/2007/08/having-a-boll-s.html) veröffentlicht, schreibt der gute Herr Boll dann schon mal, dass er Postal nicht verstanden habe, weil "you dont see courage because you are nothing. and no go to your mum and fuck her ...because she cooks for you now since 30 years ..so she deserves it." Plötzlich findet man sich in einem [wilden Mail-Wechsel](http://blog.wired.com/games/2007/08/you-dumb-fck-uw.html) mit dem Regisseur wieder. (via [Popmoderne](http://news.antville.org/stories/1675937/))

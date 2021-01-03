@@ -17,7 +17,7 @@ tags:
   - kosten
   - statistik
 meta:
-  - yourls_shorturl: "http://eay.li/3r"
+  - yourls_shorturl: "https://eay.li/3r"
 ---
 
 Wie schon [in den letzten zwei Jahren](//eay.cc/2008/kino-statistik-2008/) habe ich auch in diesem Jahr wieder meinen Abakus rausgeholt und nachgeguckt, wie oft ich 2009 im Kino war und wieviel mich der Spaß (ohne Getränke und Futter) gekostet hat. ![](https://eay.cc/uploads/2009/kinostatistik2009.gif) Und siehe da: Obwohl ich dieses Jahr _nur_ 43 Mal die Lichtspielhäuser der Republik aufsuchte, sind die Kosten immens gestiegen. Weiter verwunderlich ist das nicht, denn zumindest meine Stammkinos haben wohl wegen Weltwirtschaftskrise und / oder Einkauf der 3D-Technik die Preise angehoben. Ein [Avatar mit Plastikbrille](//eay.cc/2009/review-avatar-aufbruch-nach-pandora/) kann da schon mal mit mehreren Fantastilliarden zu Buche schlagen und selbst am Kinotag muss man mittlerweile sechs Euro blechen (Anfang des Jahres waren es noch fünf).

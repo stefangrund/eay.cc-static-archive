@@ -14,7 +14,7 @@ tags:
   - pixar
   - sneak-preview
 meta:
-  - yourls_shorturl: "http://eay.li/cl"
+  - yourls_shorturl: "https://eay.li/cl"
 ---
 
 ![](/uploads/2008/walle.jpg)Durch all die Reinfälle, die uns im hiesigen [Sneak Preview](//eay.cc/tag/sneak-preview/) in all den Jahren schon vorgesetzt wurden, glaubte ich ja selbst nicht mehr dran: Ein Film vom Kaliber eines WALL-E in der Sneak? Never! Doch, als ich den Vorfilm [Presto](http://tinyurl.com/44cpem) sah, wusste ich, dass man mich heute eines besseren belehren würde. Ich habe also schon den neuen, in der englischsprachigen Presse so hochgejubelten Pixar-Film gesehen. [WALL-E](http://www.imdb.com/title/tt0910970/) ist bekanntermaßen der Name des kleinen Roboters, der die Erde aufräumen muss, die von den Menschen total zugemüllt wurde. Für ein paar Jahre haben sich die Übeltäter daher auf Raumschiffe ins All gerettet. Was eigentlich als fünfjähriger Kurztrip geplant war, dauert nun schon 700 Jahre und eigentlich ist keine Besserung in Sicht, denn WALL-E ist der letzte seiner Art. Und das ist ganz schön viel Müll für so nen kleinen Roboter.

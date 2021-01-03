@@ -15,7 +15,7 @@ tags:
   - ios
   - twitter
 meta:
-  - yourls_shorturl: "http://eay.li/1z4"
+  - yourls_shorturl: "https://eay.li/1z4"
   - linked_list_url: "http://tapbots.com/software/netbot/"
 ---
 

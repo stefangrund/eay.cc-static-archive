@@ -15,7 +15,7 @@ tags:
   - piraterie
   - torrent
 meta:
-  - yourls_shorturl: "http://eay.li/13g"
+  - yourls_shorturl: "https://eay.li/13g"
 ---
 
 [TorrentFreak](http://torrentfreak.com/avatar-crowned-the-most-pirated-movie-of-2010-101220/), everybody's favorite filesharing news blog, hat eine Top 10-Liste der 2010 am häufigsten per BitTorrent heruntergeladenen Filme zusammengestellt. Zwar sind mit The Hurt Locker, dem [diesjährigen](//eay.cc/2010/stand-der-dinge-2/) "Best Motion Picture"-Oscar-Preisträger, und dem sowohl im Kino als auch im Handel re-releaseten Avatar erwartungsgemäß zwei alte Bekannte dabei, aber die Abwesenheit von [Toy Story 3](//eay.cc/2010/review-rundumschlag-11/) und [Alice](//eay.cc/2010/review-rundumschlag-9-teil-1/) - immerhin Nummer 5 und 6 der erfolgreichsten Filme aller Zeiten - überrascht dann schon. Aber dass die raubkopierenden Kriminellen Kids von allen 2010er Filmen zumeist Kick-Ass gezogen haben, spricht (trotz der Plätze 5, 6 und 8) dann doch wieder für sie.

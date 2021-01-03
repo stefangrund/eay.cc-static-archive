@@ -13,7 +13,7 @@ tags:
   - twitter
   - twitter-review
 meta:
-  - yourls_shorturl: "http://eay.li/x9"
+  - yourls_shorturl: "https://eay.li/x9"
 ---
 
 Da ich zuletzt nicht immer die Zeit gefunden habe, ausführliche Film-Reviews zu verfassen, habe ich einige in 140 Zeichen gepresst und [zu Twitter](http://twitter.com/Eay) ausgelagert. Auch in Zukunft kann das immer mal wieder vorkommen, grundsätzlich werde ich aber weiterhin versuchen, fleißig das [Kinolog](//eay.cc/themen/kinolog/) zu befüllen. Kurzreviews die ihr bisher eventuell verpasst habt:

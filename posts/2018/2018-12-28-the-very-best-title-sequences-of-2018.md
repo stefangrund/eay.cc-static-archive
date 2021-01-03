@@ -18,7 +18,7 @@ meta:
   - linked_list_url: "http://www.artofthetitle.com/feature/top-10-title-sequences-of-2018/"
   - linked_list_url: "http://www.artofthetitle.com/feature/top-10-title-sequences-of-2018/"
   - linked_list_url: "http://www.artofthetitle.com/feature/top-10-title-sequences-of-2018/"
-  - yourls_shorturl: "http://eay.li/389"
+  - yourls_shorturl: "https://eay.li/389"
 ---
 
 Art of the Title hat die besten Titelsequenzen des vergangenen Film- und Fernsehjahres gekürt. Mein Pick »Into the Spiderverse«, seit dessen Sichtung ich mich schon auf den entsprechenden "Art of the Title"-Beitrag vorfreue, ist unverständlicherweise nur auf Platz 6 gelandet. Platz 1 konnte [Saskia Marka](https://saskiamarka.com/) mit ihrem wahrlich guten Intro zu »Babylon Berlin« ergattern.

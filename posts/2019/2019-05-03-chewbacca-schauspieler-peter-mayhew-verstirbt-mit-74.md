@@ -11,7 +11,7 @@ categories:
   - 0815
 meta:
   - linked_list_url: "https://www.hollywoodreporter.com/heat-vision/peter-mayhew-chewbacca-star-wars-dies-at-74-1207099"
-  - yourls_shorturl: "http://eay.li/3a5"
+  - yourls_shorturl: "https://eay.li/3a5"
 ---
 
 😔 John Gruber findet dazu [die richtigen Worte](https://daringfireball.net/linked/2019/05/02/mayhew-rip). Und hier habe ich damals mein [Lieblings­petermayhew­starwarssetfoto](https://eay.cc/2011/peter-mayhew/) gepostet. RIP.

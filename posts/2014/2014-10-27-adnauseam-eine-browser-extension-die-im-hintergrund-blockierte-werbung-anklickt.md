@@ -17,7 +17,7 @@ tags:
   - ueberwachung
   - werbung
 meta:
-  - yourls_shorturl: "http://eay.li/2kd"
+  - yourls_shorturl: "https://eay.li/2kd"
   - linked_list_url: "http://dhowe.github.io/AdNauseam/"
 ---
 

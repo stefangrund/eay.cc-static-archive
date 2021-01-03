@@ -16,7 +16,7 @@ tags:
   - microsoft
   - office
 meta:
-  - yourls_shorturl: "http://eay.li/204"
+  - yourls_shorturl: "https://eay.li/204"
   - linked_list_url: "http://www.heise.de/mac-and-i/meldung/Bericht-Office-fuer-iOS-und-Android-erscheint-Anfang-2013-1745890.html"
 ---
 

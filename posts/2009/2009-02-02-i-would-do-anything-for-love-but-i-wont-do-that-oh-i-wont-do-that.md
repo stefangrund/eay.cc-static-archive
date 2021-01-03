@@ -15,7 +15,7 @@ tags:
   - meat-loaf
   - musik
 meta:
-  - yourls_shorturl: "http://eay.li/1w"
+  - yourls_shorturl: "https://eay.li/1w"
 ---
 
 ![](/uploads/2009/meatloaf.jpg)  ([via](http://www.delphinehauen.de/2009/02/02/3204/))

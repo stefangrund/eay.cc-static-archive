@@ -15,7 +15,7 @@ tags:
   - ueberwachung
 meta:
   - linked_list_url: "https://krautreporter.de/163--ein-ausflug-in-die-datenminen"
-  - yourls_shorturl: "http://eay.li/2l9"
+  - yourls_shorturl: "https://eay.li/2l9"
 ---
 
 Die Krautreporter Theresia Enzensberger und Hannes Grassegger berichten am Beispiel der "Zeit" darüber wie Zeitungsverlage die Daten ihrer Abonnenten weiterverkaufen (Hintergrund ist [diese Studie zur "kommerziellen digitalen Überwachung im Alltag"](http://crackedlabs.org/studie-kommerzielle-ueberwachung/) des österreichischen Netzforschers [Wolfie Christl](http://wolfie.crackedlabs.org/)):

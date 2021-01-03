@@ -13,7 +13,7 @@ tags:
   - synchronisation
   - the-dark-knight
 meta:
-  - yourls_shorturl: "http://eay.li/2y"
+  - yourls_shorturl: "https://eay.li/2y"
 ---
 
 ![](/uploads/2008/darkknight_oton.jpg)Der Vollständigkeit halber: Ich war diese Woche ein zweites Mal in [The Dark Knight](//eay.cc/2008/christopher-nolans-batman/). Dieses mal jedoch im O-Ton - quasi um Heath Ledger die letzte Ehre zu erweisen. Und im Original bekäme der Film von mir nochmal nen halben Stern mehr, hätte er nicht schon die volle [EMDb](http://eay.cc/emdb/)\-Wertung bekommen.

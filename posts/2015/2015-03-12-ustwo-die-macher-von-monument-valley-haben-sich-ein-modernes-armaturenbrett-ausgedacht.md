@@ -21,7 +21,7 @@ meta:
   - linked_list_url: "http://ustwo.com/blog/cluster/"
   - linked_list_url: "http://ustwo.com/blog/cluster/"
   - linked_list_url: "http://ustwo.com/blog/cluster/"
-  - yourls_shorturl: "http://eay.li/2nq"
+  - yourls_shorturl: "https://eay.li/2nq"
 ---
 
 ![](https://eay.cc/uploads/2015/ustwo_car_ui.gif)

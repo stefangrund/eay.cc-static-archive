@@ -14,7 +14,7 @@ tags:
   - stephen-wolfram
   - zukunft
 meta:
-  - yourls_shorturl: "http://eay.li/2df"
+  - yourls_shorturl: "https://eay.li/2df"
 ---
 
 \[youtube id="\_P9HqHVPeik"\]

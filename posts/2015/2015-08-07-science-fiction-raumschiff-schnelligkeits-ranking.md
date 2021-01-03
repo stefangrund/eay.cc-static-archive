@@ -19,7 +19,7 @@ tags:
 meta:
   - linked_list_url: "http://www.fatwallet.com/blog/fastest-ship-in-the-universe/"
   - linked_list_url: "http://www.fatwallet.com/blog/fastest-ship-in-the-universe/"
-  - yourls_shorturl: "http://eay.li/2ph"
+  - yourls_shorturl: "https://eay.li/2ph"
 ---
 
 > From the Millennium Falcon to the USS Enterprise, science fiction has shown us a vast array of out-of-this-world spaceships that defy our rules of physics. We´ve rounded up some of your favorite intergalactic crafts from television, film and video games, along with real NASA spacecraft, to compare and speculate who has the fastest ship in the universe.

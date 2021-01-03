@@ -11,7 +11,7 @@ tags:
   - filme
   - mark-kermode
 meta:
-  - yourls_shorturl: "http://eay.li/wc"
+  - yourls_shorturl: "https://eay.li/wc"
 ---
 
 [Mark Kermode](http://en.wikipedia.org/wiki/Mark_Kermode) ist ein bekannter, englischer Filmkritiker, der u.a. für die renommierte (und bei Film-Hausarbeiten unausweichliche) [Sight & Sound](http://www.bfi.org.uk/sightandsound/) schreibt und jeden Freitag [bei BBC Radio 5](http://www.bbc.co.uk/fivelive/entertainment/kermode.shtml) zu unterhalten weiß. Außerdem ist er wegen seiner Vorliebe für Genre-Filme und sein erzkonservatives Festhalten an deren Konventionen ziemlich umstritten (so kommt's, dass er Star Wars wegen der Infantilisierung der Science Fiction verabscheut, einem High School Musical hingegen positiv gegenüber steht, weil es die Genre-Erwartungen erfüllt. At least he loves [Cannibal Holocaust](http://en.wikipedia.org/wiki/Cannibal_Holocaust)...).

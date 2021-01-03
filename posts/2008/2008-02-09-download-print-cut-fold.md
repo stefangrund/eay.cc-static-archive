@@ -16,7 +16,7 @@ tags:
   - papercraft
   - star-wars
 meta:
-  - yourls_shorturl: "http://eay.li/76"
+  - yourls_shorturl: "https://eay.li/76"
 ---
 
 ![](/uploads/2008/cubeecraft.gif "by Cubeecraft") [Bei Cubeecraft](http://home.comcast.net/~kymcat3/index.html) gibt's sehr coole Paparcraft-Basteleien, die jede Woche um eine weitere ergänzt werden sollen. Hätte man mir die Lust am Basteln nicht schon im Kindergarten ausgetrieben, würde auch ich mich dazu durchringen, sowas mal zu machen... ([via](http://www.plockhead.com/?p=744))

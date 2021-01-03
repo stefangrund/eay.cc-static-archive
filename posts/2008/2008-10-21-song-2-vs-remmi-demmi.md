@@ -16,7 +16,7 @@ tags:
   - mp3
   - musik
 meta:
-  - yourls_shorturl: "http://eay.li/88"
+  - yourls_shorturl: "https://eay.li/88"
 ---
 
 Schon etwas älter, aber trotzdem großartig: [dieses Mashup](http://ranafout.net/mr.mim/index.php?2008/01/07/17-remmy-demmi-versus-blur-s-song-2) von Blurs eh schon genialem "Song 2" und Deichkinds Straßenfeger "Remmi Demmi". Angefertigt vom Berliner [Mr. Mim](http://ranafout.net/mr.mim/), der auch schon The Strokes und Velvet Underground mit Queen gekreuzt hat.

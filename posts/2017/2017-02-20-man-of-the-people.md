@@ -17,7 +17,7 @@ tags:
   - radio
 meta:
   - linked_list_url: "https://gimletmedia.com/episode/86-man-of-the-people/"
-  - yourls_shorturl: "http://eay.li/2wq"
+  - yourls_shorturl: "https://eay.li/2wq"
 ---
 
 Bei [Reply All](https://gimletmedia.com/reply-all/) gab's zuletzt eine großartige Folge ([MP3-Direktlink](http://traffic.megaphone.fm/GLT1103232835.mp3)) über das wahnwitzige Leben von [Dr. John Romulus Brinkley](https://en.wikipedia.org/wiki/John_R._Brinkley), einem Quacksalber und Self-Made-Man aus dem frühen 20. Jahrhundert, der impotente Männer mit Ziegenhoden bestückte, Radiowerbung erfandt, fast Gouverneur von Kansas wurde, zahlreiche Menschen tötete, so die Gründung der Ärztevereinigung provozierte, Country- und Westernmusik populär machte und mit einem Radiosender nach Mexiko zog, um von dort aus die USA zu bespielen, ohne sich an deren Gesetzen halten zu müssen.

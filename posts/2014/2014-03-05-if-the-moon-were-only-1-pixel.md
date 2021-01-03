@@ -17,7 +17,7 @@ tags:
   - wissenschaft
 meta:
   - linked_list_url: "http://joshworth.com/dev/pixelspace/pixelspace_solarsystem.html"
-  - yourls_shorturl: "http://eay.li/2dm"
+  - yourls_shorturl: "https://eay.li/2dm"
 ---
 
 Josh Worth hat ähnlich der Pixel-basierten [Mars-Distanz-Visualisierung von letztem Jahr](//eay.cc/2013/how-far-is-it-to-mars/), eine sehr tolles Modell des Sonnensystems gebaut, bei dem der Mond mit einem Pixel die kleinste Einheit ist. (via [Kottke](http://kottke.org/14/03/if-the-moon-was-only-1-pixel))

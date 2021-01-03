@@ -15,7 +15,7 @@ tags:
   - webservice
 meta:
   - linked_list_url: "https://tldrlegal.com/"
-  - yourls_shorturl: "http://eay.li/2dr"
+  - yourls_shorturl: "https://eay.li/2dr"
 ---
 
 Ideal um sich schnell eine Übersicht über Software-Lizenzen zu verschaffen.

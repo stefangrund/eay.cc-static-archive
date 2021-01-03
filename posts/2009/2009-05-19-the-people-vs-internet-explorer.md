@@ -17,7 +17,7 @@ tags:
   - satire
   - verbot
 meta:
-  - yourls_shorturl: "http://eay.li/vn"
+  - yourls_shorturl: "https://eay.li/vn"
 ---
 
 Nach Paintball-Verbot und Sperrlisten-Blödsinn wollen auch wir unsere Spaßgesetze an den Mann bringen: [Ein deutschlandweites Verbot des Internet Explorers.](http://so-war-das-damals.de/2009/05/19/wird-der-internet-explorer-in-deutschland-bald-verboten/) Weil der _mindestens_ zum Töten von Menschen ermutigt; auch wenn es nur Microsoft-Mitarbeiter sind.

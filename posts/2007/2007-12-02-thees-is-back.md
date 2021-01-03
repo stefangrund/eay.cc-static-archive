@@ -16,7 +16,7 @@ tags:
   - thees-uhlmann
   - tomte
 meta:
-  - yourls_shorturl: "http://eay.li/qw"
+  - yourls_shorturl: "https://eay.li/qw"
 ---
 
 Eben nach langer Zeit wieder das AOL E-Mail Postfach abgecheckt und den [GHvC](http://www.ghvc.de/)\-Newsletter entdeckt. Beste und wichtigste Information des ganzen Geschreibsels war, dass Thees Uhlmann wieder bloggt (Er war anscheined weg!?). Nachzulesen ist das ganze [hier](http://croc.antville.org/).

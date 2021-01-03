@@ -16,7 +16,7 @@ tags:
   - kunst
   - usa
 meta:
-  - yourls_shorturl: "http://eay.li/my"
+  - yourls_shorturl: "https://eay.li/my"
 ---
 
 ![](/uploads/2009/badobamapaintings.jpg) [\-------------------------------------------------------------------------------------------->](http://badpaintingsofbarackobama.com/)

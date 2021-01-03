@@ -13,7 +13,7 @@ tags:
   - deutschland
   - how-to
 meta:
-  - yourls_shorturl: "http://eay.li/20b"
+  - yourls_shorturl: "https://eay.li/20b"
   - linked_list_url: "http://venturevillage.eu/how-to-be-german-part-1"
 ---
 

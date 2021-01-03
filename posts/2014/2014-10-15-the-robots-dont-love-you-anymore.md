@@ -10,7 +10,7 @@ format: "post"
 categories:
   - 0815
 meta:
-  - yourls_shorturl: "http://eay.li/2jw"
+  - yourls_shorturl: "https://eay.li/2jw"
 ---
 
 \[youtube id="\_zcTPFQitEs"\]

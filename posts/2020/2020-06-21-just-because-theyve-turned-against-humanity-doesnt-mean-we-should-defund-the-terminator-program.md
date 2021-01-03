@@ -15,7 +15,7 @@ tags:
   - usa
 meta:
   - linked_list_url: "https://www.mcsweeneys.net/articles/just-because-theyve-turned-against-humanity-doesnt-mean-we-should-defund-the-terminator-program"
-  - yourls_shorturl: "http://eay.li/3ep"
+  - yourls_shorturl: "https://eay.li/3ep"
 ---
 
 > Don’t get me wrong, we all remember Judgement Day, when the Skynet gained self-awareness and initiated a nuclear holocaust, killing millions. That was a terrible moment in our nation’s history. And the human uprising led by John Connor was definitely justified even though we felt like some of the violence and destruction of Skynet property was a bit unnecessary. But it’s important to remember that Judgement Day was initiated by a few rogue Terminators, and isn’t indicative of a widespread problem with Skynet.

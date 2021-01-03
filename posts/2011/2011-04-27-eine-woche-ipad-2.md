@@ -18,7 +18,7 @@ tags:
   - tablet
   - technologie
 meta:
-  - yourls_shorturl: "http://eay.li/ipad2"
+  - yourls_shorturl: "https://eay.li/ipad2"
 ---
 
 Ich bin nun seit einer Woche im Besitz eines [iPad 2](http://www.apple.com/de/ipad/) (16 GB, Wifi only, schwarz) und möchte die Chance, die ich einst beim ersten iPod touch, beim iPhone 3G und beim iPhone 4, jeweils aus Schreibfaulheitsgründen, vertan habe, nutzen, dem geneigten Leser von meinen Eindrücken zu berichten. Dabei soll das hier weder Test noch Fanboy-Schwärmerei sein, sondern einfach das zusammenfassen ausführen, was ich ab sofort Freunden und Bekannten beim Grillen und in der Kneipe erzähle, wenn sie mich nach "dem Apple-Dingen" fragen.

@@ -14,7 +14,7 @@ tags:
   - unternehmen
   - valve
 meta:
-  - yourls_shorturl: "http://eay.li/1hy"
+  - yourls_shorturl: "https://eay.li/1hy"
 ---
 
 ![](https://eay.cc/uploads/2012/valvehandbook.jpg) Es gibt ja so Firmen, bei denen möchte ein jeder, der seinen Stift gerade halten kann, arbeiten. Pixar zum Beispiel. Weil es da eine kostenlose, legendäre [Cereal Bar](http://www.youtube.com/watch?v=5rkfp1zTPWc) gibt. Oder Google. Weil man dort nicht nur in quietschbunten Büros sitzt, sondern auch ein Drittel seiner Zeit für eigene Projekte nutzen darf (die dann jedoch beim nächsten [Frühjahrsputz](http://googleblog.blogspot.de/2012/04/spring-cleaning-in-spring.html) wieder der Schere zum Opfer fallen). Und selbst bei Apple soll es sich ja mittlerweile ganz gut leben lassen.

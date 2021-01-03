@@ -15,7 +15,7 @@ tags:
   - godzilla
   - haus
 meta:
-  - yourls_shorturl: "http://eay.li/2si"
+  - yourls_shorturl: "https://eay.li/2si"
   - content_copy: "https://www.instagram.com/p/BDXo3KZHSxt/"
 ---
 

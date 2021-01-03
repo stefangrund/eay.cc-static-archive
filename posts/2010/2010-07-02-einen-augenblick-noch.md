@@ -13,7 +13,7 @@ tags:
   - mcdonalds
   - pause
 meta:
-  - yourls_shorturl: "http://eay.li/z0"
+  - yourls_shorturl: "https://eay.li/z0"
 ---
 
 ![](https://eay.cc/uploads/2010/mc12.jpg)

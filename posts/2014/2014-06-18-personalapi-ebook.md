@@ -15,7 +15,7 @@ tags:
   - fotos
   - personal-api
 meta:
-  - yourls_shorturl: "http://eay.li/2h4"
+  - yourls_shorturl: "https://eay.li/2h4"
   - content_copy: "https://www.instagram.com/p/pZDWEsnS3p/"
 ---
 

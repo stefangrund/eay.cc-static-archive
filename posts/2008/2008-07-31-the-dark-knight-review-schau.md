@@ -14,7 +14,7 @@ tags:
   - filme
   - the-dark-knight
 meta:
-  - yourls_shorturl: "http://eay.li/yp"
+  - yourls_shorturl: "https://eay.li/yp"
 ---
 
 Bleiben wir [nochmal](//eay.cc/2008/joker-kubrick-bearbrick/) bei The Dark Knight: Während die Großteil der wartenden Fans am 19. und 20. August die Vorpremieren des neuen Batman-Streifens stürmen wird, haben einige Pressemenschen und Australienbesucher da mehr Glück gehabt und den Film schon gesehen. Im folgenden daher ein paar Eindrücke einiger erster deutscher Blogreviews:

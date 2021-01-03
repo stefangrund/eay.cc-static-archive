@@ -19,7 +19,7 @@ tags:
   - shenmue
 meta:
   - linked_list_url: "https://www.kickstarter.com/projects/ysnet/shenmue-3/description"
-  - yourls_shorturl: "http://eay.li/2om"
+  - yourls_shorturl: "https://eay.li/2om"
 ---
 
 14 bzw. 15 Jahre nach dem Release von [Shenmue](https://en.wikipedia.org/wiki/Shenmue) und [Shenmue II](https://en.wikipedia.org/wiki/Shenmue_II) ist es endlich soweit: Shenmue 3 steht in den Startlöchern. Endlich erfahren wir, wie es mit Ryo und der Suche nach dem Mörder seines Vater weitergeht. Kein Konjunktiv, denn bereits wenige Stunden nach der [Ankündigung auf der E3](http://www.polygon.com/e3-2015/2015/6/15/8787231/shenmue-3-kickstarter) ist die dazugehörige Kickstarter-Kampagne finanziert. Wahrscheinlich werden innerhalb des nächsten Monats alle Goals erreicht, so dass einem umfassenden Release im Dezember 2017 (fast) nichts mehr im Weg steht.

@@ -15,7 +15,7 @@ tags:
   - iphone
   - tim-cook
 meta:
-  - yourls_shorturl: "http://eay.li/1yy"
+  - yourls_shorturl: "https://eay.li/1yy"
   - linked_list_url: "http://www.apple.com/letter-from-tim-cook-on-maps/"
 ---
 

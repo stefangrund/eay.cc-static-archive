@@ -15,7 +15,7 @@ tags:
   - technologie
 meta:
   - linked_list_url: "https://www.microsoft.com/en-us/seeing-ai/"
-  - yourls_shorturl: "http://eay.li/306"
+  - yourls_shorturl: "https://eay.li/306"
 ---
 
 > A free app that narrates the world around you. Designed for the low vision community, this research project harnesses the power of AI to describe people, text and objects.

@@ -18,7 +18,7 @@ tags:
   - ps3
   - xbox
 meta:
-  - yourls_shorturl: "http://eay.li/3g"
+  - yourls_shorturl: "https://eay.li/3g"
 ---
 
 [Kollege Asphar](http://so-war-das-damals.de/2008/08/18/soul-calibur-iv-he-man-vs-super-mario/) ist dem Zauber von [Soul Calibur IV](http://www.amazon.de/exec/obidos/ASIN/B001B3IM3M/eayznet-21) vollends verfallen und bezeichnet es als "das beste Prügelspiel aller Zeiten". Auch ich, selbst seit Dreamcast-Tagen bei Soul Calibur dabei, bin begeistert - und dass man sich im Figureneditor einen eigenen [He-Man](//eay.cc/tag/he-man/) basteln kann, ist natürlich auf lange Zeit das Nonplusultra im Beat ´em up-Bereich. "Kein He-Man, kein Eay" heißt's dann. Aber wer weiß: vielleicht gelangen die Masters of the Universe ja per Wurmloch in Soul Calibur V? Bis dahin muss halt selbst nachgeholfen werden...

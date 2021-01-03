@@ -14,7 +14,7 @@ tags:
   - funfacts
   - marvel
 meta:
-  - yourls_shorturl: "http://eay.li/qb"
+  - yourls_shorturl: "https://eay.li/qb"
 ---
 
 Zur Feier des Tages und falls ihr euch den [zweiten Fantastic Four](//eay.cc/2007/ruin-of-the-silver-surfer/) doch geben wollt, damit ihr vor euren Freunden (oder im Monolog vor Fremden) mit unnützem Fachwissen glänzen könnt:

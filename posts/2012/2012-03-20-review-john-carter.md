@@ -21,7 +21,7 @@ tags:
   - kinolog
   - science-fiction
 meta:
-  - yourls_shorturl: "http://eay.li/1h3"
+  - yourls_shorturl: "https://eay.li/1h3"
 ---
 
 ![](https://eay.cc/uploads/2012/johncarter.jpg)Bevor ich »[John Carter](http://www.imdb.com/title/tt0401729/)« im Kino sah, hatte ich keine Ahnung von [der Materie](//eay.cc/2012/john-carter-bucher-als-ebooks/). Nur vom Hickhack, das um die Verfilmung gemacht wurde, hatte ich dann und wann etwas mitbekommen.

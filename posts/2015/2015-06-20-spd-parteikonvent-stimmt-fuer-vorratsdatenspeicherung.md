@@ -18,7 +18,7 @@ tags:
   - vorratsdatenspeicherung
 meta:
   - linked_list_url: "https://netzpolitik.org/2015/spd-parteikonvent-stimmt-fuer-vorratsdatenspeicherung/"
-  - yourls_shorturl: "http://eay.li/2op"
+  - yourls_shorturl: "https://eay.li/2op"
 ---
 
 Sie ist wieder da! [Netzpolitik.org](https://netzpolitik.org/2015/spd-parteikonvent-stimmt-fuer-vorratsdatenspeicherung/):

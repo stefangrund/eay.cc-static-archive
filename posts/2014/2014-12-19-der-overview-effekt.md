@@ -15,7 +15,7 @@ tags:
   - umweltschutz
   - weltall
 meta:
-  - yourls_shorturl: "http://eay.li/2lr"
+  - yourls_shorturl: "https://eay.li/2lr"
 ---
 
 > Once a photograph of the Earth, taken from the outside, is available... a new idea as powerful as any in history will be let loose.

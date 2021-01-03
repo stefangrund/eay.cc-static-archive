@@ -17,7 +17,7 @@ tags:
   - wikipedia
 meta:
   - linked_list_url: "https://www.wikitribune.com/"
-  - yourls_shorturl: "http://eay.li/2xw"
+  - yourls_shorturl: "https://eay.li/2xw"
 ---
 
 > The news is broken and we can fix it.

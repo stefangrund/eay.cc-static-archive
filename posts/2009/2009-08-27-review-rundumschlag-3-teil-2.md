@@ -18,7 +18,7 @@ tags:
   - romantic-comedy
   - sneak-preview
 meta:
-  - yourls_shorturl: "http://eay.li/uu"
+  - yourls_shorturl: "https://eay.li/uu"
 ---
 
 Und weiter geht's mit dem [dritten Review-Rundumschlag](//eay.cc/2009/review-rundumschlag-3-teil-1/), der ganz - wir erinnern uns - im Zeichen von Filmen stand, die meine Erwartungen nicht erfüllten.

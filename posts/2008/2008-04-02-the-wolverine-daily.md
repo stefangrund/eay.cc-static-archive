@@ -14,7 +14,7 @@ tags:
   - marvel
   - wolverine
 meta:
-  - yourls_shorturl: "http://eay.li/x4"
+  - yourls_shorturl: "https://eay.li/x4"
 ---
 
 ![](/uploads/2008/dailywolverine.jpg "by Gideon Boomer") Jeden Mittwoch gibt's ja [Wonder Women](//eay.cc/2008/wacky-wonder-woman-wednesday/). Doch was tun in der Zwischenzeit? Etwa bei [The Daily Wolverine](http://wolverinedaily.blogspot.com/) reinschauen. Hier veröffentlicht [Gideon Boomer](http://www.gideonboomer.com/) jeden Tag einen von ihm zwanghaft gezeichneten Wolverine. -- Ach ja, den täglichen Batman gibt's ja [auch noch](//eay.cc/2008/kostliches-osterfreie-edition/).

@@ -25,7 +25,7 @@ meta:
   - linked_list_url: "https://www.theverge.com/circuitbreaker/2018/2/3/16965900/nintendo-switch-labo-cardboard-features-youtube-video"
   - linked_list_url: "https://www.theverge.com/circuitbreaker/2018/2/3/16965900/nintendo-switch-labo-cardboard-features-youtube-video"
   - linked_list_url: "https://www.theverge.com/circuitbreaker/2018/2/3/16965900/nintendo-switch-labo-cardboard-features-youtube-video"
-  - yourls_shorturl: "http://eay.li/33j"
+  - yourls_shorturl: "https://eay.li/33j"
 ---
 
 The Verge hat ein interessantes Hands-On inkl. Video zu "Labo", der letzten Monat vorgestellten Kartonerweiterung zur Nintendo Switch. Während das [bisher vorgestellte Promovideo](https://www.youtube.com/watch?v=P3Bd3HUMkyU) noch nicht auf die eigentliche Technik einging, ist nun bekannt, dass die Karton-Sets exzessiven Gebrauch von den Infrarot­sensoren der Joy-Cons machen, um z.B. "zu sehen" oder spezielle Barcodes auszulesen.

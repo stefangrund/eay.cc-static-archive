@@ -18,7 +18,7 @@ tags:
   - streaming
 meta:
   - linked_list_url: "http://www.wired.com/2014/08/netflix-is-beating-hbo-in-revenue-but-its-still-the-underdog/"
-  - yourls_shorturl: "http://eay.li/2hy"
+  - yourls_shorturl: "https://eay.li/2hy"
 ---
 
 Nachdem Netflix HBO bereits [im Oktober in der Anzahl der Abonnenten überholte](//eay.cc/2013/netflix-hat-nun-mehr-abonnenten-als-hbo/), zeigt sich das nun auch in den Bilanzen, wie Netflix-CEO [Reed Hastings](http://en.wikipedia.org/wiki/Reed_Hastings) nun [auf Facebook verkündete](https://www.facebook.com/reed1960/posts/10152414721999584) (Mark Zuckerberg gefällt das, [ernsthaft](http://cl.ly/Wyth)):

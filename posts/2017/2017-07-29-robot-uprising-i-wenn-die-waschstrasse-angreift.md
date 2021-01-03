@@ -19,7 +19,7 @@ meta:
   - geo_latitude: "50.973837003986"
   - geo_longitude: "6.6827419299234"
   - geo_public: "1"
-  - yourls_shorturl: "http://eay.li/30n"
+  - yourls_shorturl: "https://eay.li/30n"
 ---
 
 > Sicherheitsforscher haben diverse Schwachstellen in automatisierten Autowaschstrßen gefunden, die sich sogar übers Internet missbrauchen lassen. Durch ferngesteuerte Tore, Roboterarme und Hochdruck-Wasserstrahle könnte es sogar zu Personenschäden kommen.

@@ -19,7 +19,7 @@ tags:
   - spd
 meta:
   - linked_list_url: "http://wiwo.de/politik/deutschland/digitalpolitik-altkanzler-schmidt-wollte-glasfaser-spitzenreiter-werden/20811640.html"
-  - yourls_shorturl: "http://eay.li/332"
+  - yourls_shorturl: "https://eay.li/332"
 ---
 
 > Bereits Anfang der Achtzigerjahre wurde der Ausbau des Glasfasernetzes von der damaligen Bundesregierung geplant. Wäre der Plan umgesetzt worden, hätte Deutschland heute das beste Glasfasernetz der Welt.

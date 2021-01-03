@@ -15,7 +15,7 @@ tags:
   - kunst
   - poster
 meta:
-  - yourls_shorturl: "http://eay.li/15p"
+  - yourls_shorturl: "https://eay.li/15p"
 ---
 
 ![](https://eay.cc/uploads/2011/reelizer1.jpg) ![](https://eay.cc/uploads/2011/reelizer2.jpg) [Reelizer](http://www.reelizer.com/), ein gutes Blogdings, das gute alternative Filmposter sammelt. Nicht mehr und nicht weniger, aber quasi Dauergast in [meinem ffffound](http://ffffound.com/home/eay/found/). (via [Daring Fireball](http://daringfireball.net/linked/2011/02/13/reelizer))

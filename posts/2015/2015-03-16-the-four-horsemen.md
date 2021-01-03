@@ -21,7 +21,7 @@ tags:
   - vortrag
   - zukunft
 meta:
-  - yourls_shorturl: "http://eay.li/2nt"
+  - yourls_shorturl: "https://eay.li/2nt"
 ---
 
 \[youtube id="XCvwCcEP74Q"\]

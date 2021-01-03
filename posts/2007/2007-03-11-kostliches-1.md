@@ -15,7 +15,7 @@ tags:
   - mp3
   - usa
 meta:
-  - yourls_shorturl: "http://eay.li/lj"
+  - yourls_shorturl: "https://eay.li/lj"
 ---
 
 (In dieser neuen Serie namens [köst.lich.es](//eay.cc/taxonomy/tags/koestliches/) werden absofort Links gesammelt, die ich sonst nirgends unterbringen kann, auf die ich euch aber trotzdem aufmerksam machen möchte. Wer gute Links hat, darf sie mir an ![](/task/images/f5n7x.gif) mailen oder ins [Forum](/board/) posten.)

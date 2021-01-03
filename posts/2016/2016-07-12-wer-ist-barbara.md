@@ -11,7 +11,7 @@ categories:
   - 0815
 meta:
   - linked_list_url: "http://www.tagesspiegel.de/themen/reportage/deutschlands-bekannteste-streetart-kuenstlerin-wer-ist-barbara/13823764-all.html"
-  - yourls_shorturl: "http://eay.li/2un"
+  - yourls_shorturl: "https://eay.li/2un"
 ---
 
 Die Frage beantwortet der Tagesspiegel zwar glücklicherweise nicht, sondern nur, dass sie vom "Typ grün wählender Popkulturjunkie" sei. Aber hey, ein Artikel über Barbara.! Und es ist nicht verkehrt, wenn mehr Menschen um sie und ihre Schilder wissen.

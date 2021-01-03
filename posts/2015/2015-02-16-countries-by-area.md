@@ -14,7 +14,7 @@ tags:
   - visualisierung
 meta:
   - linked_list_url: "http://www.jasondavies.com/maps/countries-by-area/"
-  - yourls_shorturl: "http://eay.li/2mx"
+  - yourls_shorturl: "https://eay.li/2mx"
 ---
 
 [Jason Davies](http://www.jasondavies.com/) hat Länder nach ihrer Größe sortiert. Schland landete auf Platz 64.

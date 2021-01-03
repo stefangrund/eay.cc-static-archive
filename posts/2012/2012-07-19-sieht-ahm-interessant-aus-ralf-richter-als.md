@@ -14,7 +14,7 @@ tags:
   - trailer
   - zombies
 meta:
-  - yourls_shorturl: "http://eay.li/1wi"
+  - yourls_shorturl: "https://eay.li/1wi"
   - linked_list_url: "http://www.mindsdelight.de/2012/07/ralf-richter-als-ralf-richter-gegen-zombies-in-richter-der-film/"
 ---
 

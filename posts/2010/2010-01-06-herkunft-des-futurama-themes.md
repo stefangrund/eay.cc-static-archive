@@ -16,7 +16,7 @@ tags:
   - musik
   - theme
 meta:
-  - yourls_shorturl: "http://eay.li/d4"
+  - yourls_shorturl: "https://eay.li/d4"
 ---
 
 Da [man](http://riesenbuechseidioten.wordpress.com/2010/01/05/wer-hatte-das-gedacht/) mich schon [hierauf](//eay.cc/2010/diy-or-die/) festnagelt, verlinke ich gerade doch wieder was das Zeug hält, weil ich für Enttäuschungen immer zu haben bin gutes Zeugs natürlich weiterhin verlinkt werden sollte.

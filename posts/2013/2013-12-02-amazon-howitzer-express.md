@@ -15,7 +15,7 @@ tags:
   - satire
 meta:
   - linked_list_url: "http://www.der-postillon.com/2013/12/amazon-plant-pakete-mit-riesigen.html"
-  - yourls_shorturl: "http://eay.li/2a6"
+  - yourls_shorturl: "https://eay.li/2a6"
 ---
 
 Nach Amazons eben erst angekündigtem [Drohnenprogramm "Prime Air"](//eay.cc/2013/amazon-prime-air/) offenbart Der Postillon bereits Bezos' nächsten Coup, wonach Amazon plant, Pakete mit riesigen Kanonen direkt vor die Haustür zu schießen:

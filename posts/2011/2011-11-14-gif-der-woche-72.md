@@ -16,7 +16,7 @@ tags:
   - star-wars
   - tiere
 meta:
-  - yourls_shorturl: "http://eay.li/1cc"
+  - yourls_shorturl: "https://eay.li/1cc"
 ---
 
 ![](https://eay.cc/uploads/2011/turtlesaber.gif) Das dieswöchige .gif vereint meine drei großen Leidenschaften: Schildkröten, Lichtschwerter und Lens-Flare-Effekte. (via [mlkshk](http://mlkshk.com/p/9A5F))

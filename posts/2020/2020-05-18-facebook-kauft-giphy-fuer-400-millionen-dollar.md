@@ -15,7 +15,7 @@ tags:
   - webservice
 meta:
   - linked_list_url: "https://www.axios.com/scoop-facebook-to-buy-giphy-for-400-million-4a75a359-833b-484d-b15b-87e94d3de017.html"
-  - yourls_shorturl: "http://eay.li/3e8"
+  - yourls_shorturl: "https://eay.li/3e8"
   - geo_latitude: "50.973884737946"
   - geo_longitude: "6.6831087344814"
   - geo_public: "1"

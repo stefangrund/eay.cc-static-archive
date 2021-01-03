@@ -11,7 +11,7 @@ tags:
   - filme
   - spoof
 meta:
-  - yourls_shorturl: "http://eay.li/wz"
+  - yourls_shorturl: "https://eay.li/wz"
 ---
 
 **Auf der einen Seite:** Das Publikum. Es hat den neuen Spoof-Film [Meet the Spartans](http://meetthespartans.com/) am gestrigen US-Releasedate besser anlaufen lassen als die lang erwartete Fortsetzung des Nationalhelden Rambo. Und das obwohl schon der [Epic Movie](//eay.cc/2007/ein-fantastischer-film/) alles andere als gut war.

@@ -12,7 +12,7 @@ tags:
   - fernsehen
   - netzkultur
 meta:
-  - yourls_shorturl: "http://eay.li/br"
+  - yourls_shorturl: "https://eay.li/br"
 ---
 
 Bin gerade durch @[ulmen.tv](http://twitter.com/ulmentv) auf die [gleichnamige Webseite](http://www.ulmen.tv/) aufmerksam geworden, hinter der sich Christian Ulmens Debüt im Webvideo-Bereich und die Rückkehr seiner Figuren aus [Mein neuer Freund](http://de.wikipedia.org/wiki/Mein_neuer_Freund) verbirgt. Wer die Sendung nicht kennt, sollte sie unbedingt nachholen: bei MySpass, dem Videoportal von Brainpool mit dem furchtbar innovativen Namen, kann man sich [alle Folgen kostenlos ansehen](http://www.myspass.de/de/shows/mein_neuer_freund/staffel1/index.html). Am 27.8. gibt's dann besagte Rückkehr und den Trailer dazu gibt's schon mal nach dem Klick.

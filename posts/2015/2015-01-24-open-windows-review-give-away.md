@@ -15,7 +15,7 @@ tags:
   - thriller
   - ueberwachung
 meta:
-  - yourls_shorturl: "http://eay.li/2mq"
+  - yourls_shorturl: "https://eay.li/2mq"
 ---
 
 ![](https://eay.cc/uploads/movies/open-windows_2014.jpg)Das Fanleben ist wahrlich kein leichtes: Einmal verguckt, sammelt und verfolgt man bedingungslos alles, was Star und Medien hergeben. Meist ohne Gegenleistung und spätestens beim Aufeinandertreffen mit seinem Idol (oder beim Release des nächsten ach-so-innovativen Albums) regelmäßig eine große Enttäuschung.

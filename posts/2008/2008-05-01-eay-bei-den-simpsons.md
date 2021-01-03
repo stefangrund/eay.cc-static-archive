@@ -12,7 +12,7 @@ tags:
   - fernsehen
   - simpsons
 meta:
-  - yourls_shorturl: "http://eay.li/dr"
+  - yourls_shorturl: "https://eay.li/dr"
 ---
 
 ![](/uploads/2008/simpsonseay.jpg) Filed under Wunschdenken: In der Simpsons-Folge "Dial 'N' for Nerder" gibt's eine versteckte Grußbotschaft an mich. Zu schön, um wahr zu sein.

@@ -15,7 +15,7 @@ tags:
   - output
   - umfrage
 meta:
-  - yourls_shorturl: "http://eay.li/jj"
+  - yourls_shorturl: "https://eay.li/jj"
 ---
 
 Nachdem ihr euch nun über einen Monat beraten habt, um die Mutter aller Fragen, [die Brötchenfrage](//eay.cc/2009/die-broetchenfrage/), zu beantworten und sich am Ergebnis zuletzt auch nichts mehr getan hat, ist es jetzt wohl an der Zeit einen Gewinner zu küren.

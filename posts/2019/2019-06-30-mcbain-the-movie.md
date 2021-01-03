@@ -15,7 +15,7 @@ tags:
   - simpsons
 meta:
   - linked_list_url: ""
-  - yourls_shorturl: "http://eay.li/3aj"
+  - yourls_shorturl: "https://eay.li/3aj"
 ---
 
 \[youtube id="BzjfrdcN1Z8"\]

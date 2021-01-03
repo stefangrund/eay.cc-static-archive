@@ -17,7 +17,7 @@ tags:
   - redesign
   - video
 meta:
-  - yourls_shorturl: "http://eay.li/269"
+  - yourls_shorturl: "https://eay.li/269"
 ---
 
 <iframe src="//instagram.com/p/c7a5bXHS3v/embed/" width="520" height="603" frameborder="0" scrolling="no" allowtransparency="true"></iframe>

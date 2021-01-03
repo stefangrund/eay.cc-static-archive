@@ -15,7 +15,7 @@ tags:
   - oliver-pocher
   - parodie
 meta:
-  - yourls_shorturl: "http://eay.li/a3"
+  - yourls_shorturl: "https://eay.li/a3"
 ---
 
 ![](/uploads/2008/switch2008.jpg "abfotografiert von mir") Die armselige Gestalt namens Johannes Baptist Kerner und den selbstgefälligen Möchtegern-Intellektuellen Günther Jauch können Sie getrost in der Pfeife rauchen, wie man so schön sagt. Die von den beiden präsentierten Jahresrückblicke am vergangenen Sonntag überboten sich Gegenseitig an Irrelevanz und wenn man das ganze Jahr im Koma gelegen hätte, man wäre beim Zusehen zum Entschluss gekommen, dass man 2008 rein gar nichts verpasst hat. (Wahrscheinlich aber hätte man bei einer der beiden Sendungen auf der Couch gesessen und dem mitleidigen Publikum erzählen dürfen, wie es ist, ein Jahr im Koma zu liegen.)

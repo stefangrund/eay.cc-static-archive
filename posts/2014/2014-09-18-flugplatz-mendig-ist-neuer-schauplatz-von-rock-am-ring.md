@@ -15,7 +15,7 @@ tags:
   - rock-am-ring
 meta:
   - linked_list_url: "http://www.rock-am-ring.com/2015/news/wir-sind-der-ring"
-  - yourls_shorturl: "http://eay.li/2j6"
+  - yourls_shorturl: "https://eay.li/2j6"
 ---
 
 War wohl nichts mit [Mönchengladbach](//eay.cc/2014/marek-lieberberg-darf-rock-am-ring-behalten/). ((Was mich als FC-Fan, vor allem so kurz vor dem Derby, schon irgendwie freut.)) Rock am Ring, mein Haus- und Hoffestival, findet fortan am Flugplatz Mendig ([Google Maps-Link](https://www.google.de/maps/@50.3628713,7.3096271,15z), [Wikipedia-Artikel](https://de.wikipedia.org/wiki/Flugplatz_Mendig) und [offizielle Homepage](http://www.mendig-flugplatz.de/), die allerdings direkt aus den 90ern kommt und mit dem neuen Reichtum hoffentlich auf Vordermann gebracht wird), 30 Kilometer von der alten Wirkungsstätte am Nürburgring entfernt, statt. Hier ein offizielles Werbevideo von der neuen Location:

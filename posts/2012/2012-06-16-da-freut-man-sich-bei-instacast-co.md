@@ -15,7 +15,7 @@ tags:
   - iphone
   - podcast
 meta:
-  - yourls_shorturl: "http://eay.li/1xw"
+  - yourls_shorturl: "https://eay.li/1xw"
   - linked_list_url: "http://www.marco.org/2012/06/15/ios6-moves-podcasts-to-separate-app"
 ---
 

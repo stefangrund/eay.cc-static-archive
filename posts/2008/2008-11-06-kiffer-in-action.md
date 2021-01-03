@@ -13,7 +13,7 @@ tags:
   - judd-apatow
   - kinolog
 meta:
-  - yourls_shorturl: "http://eay.li/t9"
+  - yourls_shorturl: "https://eay.li/t9"
 ---
 
 ![](/uploads/2008/pineappleexpress.jpg)Mit [Ananas Express](http://www.imdb.com/title/tt0910936/) (was schon etwas lächerlich klingt und eher einen Film von [diesem Kaliber](http://german.imdb.com/title/tt0338348/) vermuten lässt) ist dieser Tage der neueste Streich aus dem [Judd Apatow](//eay.cc/tag/judd-apatow/)\-Konglomerat in die deutschen Kinos eingezogen. Wie es bei der Clique, die u.a. mit [Superbad](//eay.cc/2007/nennt-mich-mclovin/) schon die Teenie-Komödie neu erfunden hat, üblich ist, besteht die halbe Belegschaft des Films wieder aus alten Bekannten. Federführend in Ananas Express ist Seth Rogen, unterstützt von James Franco, der den meisten als der schmierige [Green Goblin Jr.](http://img143.imageshack.us/img143/6217/greengoblinfrancoum8.jpg) aus Spider-Man bekannt sein dürfte. Und auch wenn er der Neuzugang der Truppe ist, kann er - soviel soll hier bereits verraten werden - überzeugen. Als Drogendealer. Aber erstmal der Reihe nach:

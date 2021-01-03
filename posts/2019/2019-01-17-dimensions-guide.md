@@ -15,7 +15,7 @@ tags:
   - webservice
 meta:
   - linked_list_url: "https://www.dimensions.guide/"
-  - yourls_shorturl: "http://eay.li/38q"
+  - yourls_shorturl: "https://eay.li/38q"
   - content_copy: "https://twitter.com/eay/status/1086166304489463809"
   - content_copy: "https://eay.social/@eay/101434415848691714"
 ---

@@ -17,7 +17,7 @@ tags:
   - service
 meta:
   - linked_list_url: "https://hey-siri.io/"
-  - yourls_shorturl: "http://eay.li/2uu"
+  - yourls_shorturl: "https://eay.li/2uu"
 ---
 
 > Hey-Siri.io is a large list of commands you can use on your iOS and macOS Devices.

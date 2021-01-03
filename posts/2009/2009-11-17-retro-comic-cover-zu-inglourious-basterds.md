@@ -21,7 +21,7 @@ tags:
   - nazis
   - retro
 meta:
-  - yourls_shorturl: "http://eay.li/1y"
+  - yourls_shorturl: "https://eay.li/1y"
 ---
 
 ![](https://eay.cc/uploads/2009/basterdscomic.jpg) Wie hier oben und [bei Nerdcore noch mehrmals](http://www.nerdcore.de/wp/2009/11/16/jack-kirby-style-inglourious-basterds-comicbook-cover/) zu sehen ist, hat sich jemand "[fankreativ](//eay.cc/tag/fanart/)" ausgetobt und zu Tarantinos großartigen/m [Inglourious Basterds](//eay.cc/2009/inglourious-basterds-review/) ein paar Retro-Cover im Jack Kirby-/Marvel-Stil gezaubert. Gefällt.

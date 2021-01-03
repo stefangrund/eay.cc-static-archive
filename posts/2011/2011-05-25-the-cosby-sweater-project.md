@@ -19,7 +19,7 @@ tags:
   - kunst
   - tumblr
 meta:
-  - yourls_shorturl: "http://eay.li/18a"
+  - yourls_shorturl: "https://eay.li/18a"
 ---
 
 ![](https://eay.cc/uploads/2011/cosbysweaters.jpg)

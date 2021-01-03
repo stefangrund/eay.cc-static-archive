@@ -15,7 +15,7 @@ tags:
   - theodor-w-adorno
   - weltgeschehen
 meta:
-  - yourls_shorturl: "http://eay.li/2ur"
+  - yourls_shorturl: "https://eay.li/2ur"
 ---
 
 ![](https://eay.cc/uploads/2016/adorno-antwortet.jpg)

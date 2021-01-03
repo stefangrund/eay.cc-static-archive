@@ -14,7 +14,7 @@ tags:
   - nahrung
   - werbung
 meta:
-  - yourls_shorturl: "http://eay.li/1h2"
+  - yourls_shorturl: "https://eay.li/1h2"
 ---
 
 \[[Dailymotion Direktsupermix](http://www.dailymotion.com/video/xl176x_haribo-super-mix-advert_shortfilms)\]

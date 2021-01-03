@@ -14,7 +14,7 @@ tags:
   - netzkultur
 meta:
   - linked_list_url: "http://kottke.org/tag/best%20of%20the%20web"
-  - yourls_shorturl: "http://eay.li/2xu"
+  - yourls_shorturl: "https://eay.li/2xu"
 ---
 
 [Tim Carmody](https://twitter.com/tcarmody), seineszeichens regelmäßige Urlaubsvertretung von Jason Kottke, sammelt [seit ein paar Tagen](http://kottke.org/17/04/a-time-capsule-for-the-world-wide-web) mit Hilfe der Leser von und auf kottke.org das Beste, was das Web zu bieten hat. Mittlerweile fast ein Dutzend Beiträge, randvoll mit Internetgold. Blogging at it's best.

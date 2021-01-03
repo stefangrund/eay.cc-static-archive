@@ -18,7 +18,7 @@ tags:
   - streaming
 meta:
   - linked_list_url: "http://www.pewpewpew.de/2016/07/28/6-neue-black-mirror-folgen-ab-oktober-auf-netflix/"
-  - yourls_shorturl: "http://eay.li/2us"
+  - yourls_shorturl: "https://eay.li/2us"
 ---
 
 Ich feiere gerade ziemlich »Stranger Things« ab. Am 25. November gibt's außerdem die vierteilige [Reunion der »Gilmore Girls«](https://twitter.com/eay/status/758396298815045632). Netflix zimmert sich da wirklich immer weiter einen fantastischen Katalog an exklusivem Content, so das mir z.B. [die bevorstehende Preiserhöhung](http://m.moviepilot.de/news/netflix-wird-fur-alle-teurer-preiserhohung-gilt-ab-august-fur-jeden-175765) sowas von egal ist.

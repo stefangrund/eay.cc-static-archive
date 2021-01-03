@@ -15,7 +15,7 @@ tags:
   - matrix
 meta:
   - linked_list_url: "https://variety.com/2019/film/news/matrix-4-keanu-reeves-carrie-anne-moss-lana-wachowski-1203307955/"
-  - yourls_shorturl: "http://eay.li/3b6"
+  - yourls_shorturl: "https://eay.li/3b6"
 ---
 
 > Get ready to re-enter the Matrix.

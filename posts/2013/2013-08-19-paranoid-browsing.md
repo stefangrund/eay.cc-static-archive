@@ -16,7 +16,7 @@ tags:
   - ueberwachung
 meta:
   - linked_list_url: "http://boingboing.net/2013/08/18/paranoid-browsing-anti-profil.html"
-  - yourls_shorturl: "http://eay.li/26h"
+  - yourls_shorturl: "https://eay.li/26h"
 ---
 
 Chrome-Plugin, das automatisch auf bestimmten Webseiten rumsurft, um so die Analyse eures Surfverhaltens zu erschweren.

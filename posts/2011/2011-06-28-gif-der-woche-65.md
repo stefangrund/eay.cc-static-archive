@@ -15,7 +15,7 @@ tags:
   - star-wars
   - vergnugungspark
 meta:
-  - yourls_shorturl: "http://eay.li/19g"
+  - yourls_shorturl: "https://eay.li/19g"
 ---
 
 ![](https://eay.cc/uploads/2011/vaderdisney.gif) Darth Vader und seine Mannen in Disneyland. Was will ein Stormtrooper eigentlich mehr? Na, vor allen Dingen mehr! Und dieses "mehr" findet er hier bei [Plopper Spaloo Graval Owley](http://plopper.wordpress.com/2011/06/04/i-%E2%99%A5-star-wars-15/). :D

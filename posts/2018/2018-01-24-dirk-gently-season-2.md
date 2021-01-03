@@ -16,7 +16,7 @@ tags:
   - netflix
   - serien
 meta:
-  - yourls_shorturl: "http://eay.li/33d"
+  - yourls_shorturl: "https://eay.li/33d"
 ---
 
 📺 Das Märchen-Setting der zweiten Staffel von »[Dirk Gently's Holistic Detective Agency](https://en.wikipedia.org/wiki/Dirk_Gently%27s_Holistic_Detective_Agency_(TV_series))« ist zwar etwas befremdlich und der Story Arc zum Schwarzen Flügel leicht nervig, aber all die WTFs (Scherenschwertkämpfe!), die neuen Figuren (Sherlock Hobbes & Tina ftw!) und kleinen Momente ("War das deine Hobbit-Stimme?") machen auch den zweiten Rundgang zu einem großen Vergnügen.

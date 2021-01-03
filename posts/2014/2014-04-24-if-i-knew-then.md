@@ -14,7 +14,7 @@ tags:
   - leben
 meta:
   - linked_list_url: "http://hbs1963.com/"
-  - yourls_shorturl: "http://eay.li/2ew"
+  - yourls_shorturl: "https://eay.li/2ew"
 ---
 
 > As the 50th reunion of Harvard Business School's Class of 1963 approached, we asked the class members if they had any advice to pass along to younger generations.

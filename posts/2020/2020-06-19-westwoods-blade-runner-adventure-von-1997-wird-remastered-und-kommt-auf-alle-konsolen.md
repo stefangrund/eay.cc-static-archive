@@ -15,7 +15,7 @@ tags:
   - games
 meta:
   - linked_list_url: "https://www.hollywoodreporter.com/heat-vision/classic-blade-runner-video-game-be-restored-consoles-steam-1283768"
-  - yourls_shorturl: "http://eay.li/3eo"
+  - yourls_shorturl: "https://eay.li/3eo"
 ---
 
 Eine Meldung die im März vollkommen an mir vorbei gegangen ist (call it "Versagen der Filterbubble"):

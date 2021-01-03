@@ -14,7 +14,7 @@ tags:
   - fanart
   - webcomic
 meta:
-  - yourls_shorturl: "http://eay.li/1wq"
+  - yourls_shorturl: "https://eay.li/1wq"
   - linked_list_url: "http://munchanka.blogspot.ca/2012/07/bane-teaser.html"
 ---
 

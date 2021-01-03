@@ -16,7 +16,7 @@ tags:
   - technologie
   - zukunft
 meta:
-  - yourls_shorturl: "http://eay.li/gx"
+  - yourls_shorturl: "https://eay.li/gx"
 ---
 
 > Noch ist das Internet nicht zu einer ausgereiften Form gelangt, und es ist fraglich, ob es diese in den nächsten Jahrzehnten erreichen wird.

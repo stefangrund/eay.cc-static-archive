@@ -17,7 +17,7 @@ tags:
   - musik
   - remix
 meta:
-  - yourls_shorturl: "http://eay.li/hh"
+  - yourls_shorturl: "https://eay.li/hh"
 ---
 
 Weil wir lange keinen [GHvC-Conent](//eay.cc/tag/ghvc/) mehr hatten und der fantastische Song ["Mindestens in 1000 Jahren" von Frittenbude](https://itunes.apple.com/de/album/mindestens-in-1000-jahren/id299368233?i=299368235&uo=4&at=11lohW) ((iTunes-Partnerlink. Support the artist, support The E.)) gerade von den einschlägig bekannten Sendern, Sendungen und Etablissements rauf und runter gespielt wird, hier zwei wirklich tolle, mehr oder weniger ohrwurmförmige Remixe von Kettcar und Frittenbude, jeweils von einem Song des anderen.

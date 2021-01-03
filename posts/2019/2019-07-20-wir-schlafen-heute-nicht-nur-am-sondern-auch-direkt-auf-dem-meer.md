@@ -15,7 +15,7 @@ tags:
   - niederlande
 meta:
   - content_copy: "https://www.instagram.com/p/B0I_1mboKym/"
-  - yourls_shorturl: "http://eay.li/3ar"
+  - yourls_shorturl: "https://eay.li/3ar"
   - geo_latitude: "52.117818137348"
   - geo_longitude: "4.2798265247459"
   - geo_public: "1"

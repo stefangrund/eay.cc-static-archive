@@ -15,7 +15,7 @@ tags:
   - twitter
 meta:
   - linked_list_url: "http://www.nytimes.com/2013/10/13/magazine/all-is-fair-in-love-and-twitter.html?pagewanted=1&_r=1&pagewanted=all"
-  - yourls_shorturl: "http://eay.li/286"
+  - yourls_shorturl: "https://eay.li/286"
 ---
 
 (Massive New York Times Tech Read 2/[2](//eay.cc/2013/hintergruende-zur-entstehung-des-iphones/))

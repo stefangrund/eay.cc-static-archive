@@ -17,7 +17,7 @@ tags:
   - serien
   - video-essay
 meta:
-  - yourls_shorturl: "http://eay.li/2tz"
+  - yourls_shorturl: "https://eay.li/2tz"
 ---
 
 \[youtube id="PDdKmx0PW7s"\]

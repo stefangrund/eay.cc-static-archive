@@ -11,7 +11,7 @@ tags:
   - buecher
   - ebooks
 meta:
-  - yourls_shorturl: "http://eay.li/i4"
+  - yourls_shorturl: "https://eay.li/i4"
 ---
 
 weil man sie sich nicht ins Regal stellen kann. So einfach ist das. Diskussion Ende.

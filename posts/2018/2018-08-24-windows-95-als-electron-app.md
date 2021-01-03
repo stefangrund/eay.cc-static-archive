@@ -18,7 +18,7 @@ tags:
   - windows
 meta:
   - linked_list_url: "https://github.com/felixrieseberg/windows95"
-  - yourls_shorturl: "http://eay.li/36i"
+  - yourls_shorturl: "https://eay.li/36i"
 ---
 
 ![](https://eay.cc/uploads/2018/windows-electron.jpg)

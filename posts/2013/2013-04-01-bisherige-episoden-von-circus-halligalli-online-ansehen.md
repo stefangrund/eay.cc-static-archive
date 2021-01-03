@@ -14,7 +14,7 @@ tags:
   - fernsehen
   - prosieben
 meta:
-  - yourls_shorturl: "http://eay.li/22n"
+  - yourls_shorturl: "https://eay.li/22n"
   - linked_list_url: "http://www.prosieben.de/tv/circus-halligalli/episodenguide/"
 ---
 

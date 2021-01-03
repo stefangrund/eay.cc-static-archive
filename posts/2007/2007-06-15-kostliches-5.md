@@ -17,7 +17,7 @@ tags:
   - koestliches
   - typographie
 meta:
-  - yourls_shorturl: "http://eay.li/is"
+  - yourls_shorturl: "https://eay.li/is"
 ---
 
 - [10 Minuten von Die Hard 4.0](http://www.movieweb.com/news/93/20493.php) · Hier gibt's zwei (leider relativ unspektakuläre) Szenen aus dem neuen Stirb Langsam, der am 27.6. weltweit in die Kinos kommt. (via [Peter Noster](http://www.peter-noster.de/wordpress/2007-06-15/linktour-14-juni-2007))

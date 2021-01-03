@@ -12,7 +12,7 @@ tags:
   - eayz
   - stoeckchen
 meta:
-  - yourls_shorturl: "http://eay.li/7a"
+  - yourls_shorturl: "https://eay.li/7a"
 ---
 
 Hooray, Blogeintrag #1000 auf eayz. In Folge. Seit Juli 2005. (Eigentlich wären's ein paar mehr, aber ich hab das Blog ja schon mehrmals [rebootet](http://eay.cc/blog/2005/07/rebooting_this.shtml).) Zur Feier des Tages möchte ich ein ziemlich exhibitionistisches Stöckchen beantworten, das mir [Andi](http://www.andisblog.de/2008/02/10/stoeckchen-mein-blog-und-bedeutung-und-so/) zugeworfen wurde. Es geht um mein innerstes Bloggerleben und meine Beziehung zu, mit und rund um diese Webseite. Also aufgepasst: es folgt mein Blogger-Seelenstriptease.

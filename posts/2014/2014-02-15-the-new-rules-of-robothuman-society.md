@@ -15,7 +15,7 @@ tags:
   - technologie
   - zukunft
 meta:
-  - yourls_shorturl: "http://eay.li/2cz"
+  - yourls_shorturl: "https://eay.li/2cz"
 ---
 
 \[youtube id="FfwxQn3AmUQ"\]

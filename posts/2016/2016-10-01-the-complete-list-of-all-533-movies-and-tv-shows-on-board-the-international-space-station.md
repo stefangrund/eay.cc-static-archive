@@ -16,7 +16,7 @@ tags:
   - weltall
 meta:
   - linked_list_url: "http://paleofuture.gizmodo.com/the-complete-list-of-movies-and-tv-shows-on-the-interna-1782918945"
-  - yourls_shorturl: "http://eay.li/2v5"
+  - yourls_shorturl: "https://eay.li/2v5"
 ---
 
 > Astronauts on the International Space Station need to relax, just like the rest of us. So it’s no surprise that there are movies and TV shows on board for them to watch. I’ve obtained the complete list through a Freedom of Information request.

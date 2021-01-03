@@ -14,7 +14,7 @@ tags:
   - konsum
   - star-wars
 meta:
-  - yourls_shorturl: "http://eay.li/2sy"
+  - yourls_shorturl: "https://eay.li/2sy"
 ---
 
 ![](https://eay.cc/uploads/2016/starwars-geschirrtuecher.png)

@@ -14,7 +14,7 @@ tags:
   - fernsehen
   - your-favorite-tumblr-for-the-next-5-minutes
 meta:
-  - yourls_shorturl: "http://eay.li/1mo"
+  - yourls_shorturl: "https://eay.li/1mo"
 ---
 
 ![](https://eay.cc/uploads/2012/davecoulier.jpg)

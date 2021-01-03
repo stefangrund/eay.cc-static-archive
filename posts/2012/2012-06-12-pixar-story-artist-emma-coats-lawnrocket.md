@@ -14,7 +14,7 @@ tags:
   - pixar
   - schreiben
 meta:
-  - yourls_shorturl: "http://eay.li/1xq"
+  - yourls_shorturl: "https://eay.li/1xq"
   - linked_list_url: "http://www.pixartouchbook.com/blog/2011/5/15/pixar-story-rules-one-version.html"
 ---
 

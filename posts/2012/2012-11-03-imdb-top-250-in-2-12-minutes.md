@@ -15,7 +15,7 @@ tags:
   - mashup
   - musik
 meta:
-  - yourls_shorturl: "http://eay.li/200"
+  - yourls_shorturl: "https://eay.li/200"
   - linked_list_url: "http://www.youtube.com/watch?v=U0x9HtYgVqA"
 ---
 

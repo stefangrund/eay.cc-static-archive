@@ -18,7 +18,7 @@ tags:
   - output
   - projekte
 meta:
-  - yourls_shorturl: "http://eay.li/alfredimessage"
+  - yourls_shorturl: "https://eay.li/alfredimessage"
 ---
 
 ![](https://eay.cc/uploads/2012/alfred_imessage_1.png)

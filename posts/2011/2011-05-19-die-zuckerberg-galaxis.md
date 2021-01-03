@@ -17,7 +17,7 @@ tags:
   - twitter
   - web-2-0
 meta:
-  - yourls_shorturl: "http://eay.li/24z"
+  - yourls_shorturl: "https://eay.li/24z"
 ---
 
 > Until the 15th century, people were taught to remember vast quantities of information. Feats of memory that would today qualify you as a freak â the ability to recite entire books â were not unheard of.

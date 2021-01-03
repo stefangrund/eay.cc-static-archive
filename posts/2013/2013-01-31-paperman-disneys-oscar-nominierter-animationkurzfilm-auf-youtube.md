@@ -16,7 +16,7 @@ tags:
   - kurzfilm
   - oscars
 meta:
-  - yourls_shorturl: "http://eay.li/21p"
+  - yourls_shorturl: "https://eay.li/21p"
   - linked_list_url: "http://www.youtube.com/watch?v=aTLySbGoMX0"
 ---
 

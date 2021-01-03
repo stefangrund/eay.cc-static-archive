@@ -15,7 +15,7 @@ tags:
   - netzkultur
   - safari
 meta:
-  - yourls_shorturl: "http://eay.li/kv"
+  - yourls_shorturl: "https://eay.li/kv"
 ---
 
 Nachdem ich Safari 3 [für Windows](//eay.cc/2007/eayz-auf-safari/) schon längst getestet habe (und mittlerweile ist's wirklich okay), wollte ich's eben aufm Mac installieren. Aber nichts: Safari startet nicht mehr nach der Installation. Hat ein kluger Leser eine Ahnung warum? Liegt's vielleicht an den Addons Saft oder Safari Plus? Hilfe!

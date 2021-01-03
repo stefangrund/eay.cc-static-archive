@@ -13,7 +13,7 @@ tags:
   - gif-der-woche
   - star-wars
 meta:
-  - yourls_shorturl: "http://eay.li/s7"
+  - yourls_shorturl: "https://eay.li/s7"
 ---
 
 ![](/uploads/2008/hungertrooper.gif) Wir bleiben uns [treu](//eay.cc/2008/gif-der-woche-1/) - deswegen auch heute ein [Star Wars](//eay.cc/tag/star-wars/)\-related .gif. (by [c\_kick](http://totalleh.com/)) _eayz.net - Jetzt neu: mit noch höheren Ladezeiten!_

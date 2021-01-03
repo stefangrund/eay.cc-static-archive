@@ -18,7 +18,7 @@ tags:
   - podcast
   - urlaub
 meta:
-  - yourls_shorturl: "http://eay.li/68"
+  - yourls_shorturl: "https://eay.li/68"
 ---
 
 Wie die meisten von euch ja [bereits wissen](//eay.cc/2008/diggnation-feat-eayz-in-amsterdam/) dürften, waren wir (= [Herr Lee](http://twitter.com/The_McLee), [Frau Limpi](http://spaetz.eayz.net/) und meine Wenigkeit) vor ein paar Tagen in Amsterdam, wo im Rahmen der [Next Web Conference](http://2008.thenextweb.org/) die erste kontinentaleuropäische Aufnahme von [Diggnation](http://revision3.com/diggnation/), dem Kultpodcast zur beliebten Webseite [digg.com](http://www.digg.com/), stattfand. Obwohl wir keinerlei Ahnung von gar nichts hatten (als das Navi ausfiel, haben wir uns an der hinter einer Wolkendecke versteckten Sonne orientiert), hat alles fast problemlos funktioniert und wir waren rechtzeitig vorm Konferenzgebäude, um - nach dem standesgemäßen Leeren unserer Heinekens - die Next Web zu stürmen.

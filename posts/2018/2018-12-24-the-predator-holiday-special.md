@@ -15,7 +15,7 @@ tags:
   - stopmotion
   - weihnachten
 meta:
-  - yourls_shorturl: "http://eay.li/388"
+  - yourls_shorturl: "https://eay.li/388"
 ---
 
 \[youtube id="rVrRjt69lhU"\]

@@ -18,7 +18,7 @@ tags:
   - star-wars
   - video-essay
 meta:
-  - yourls_shorturl: "http://eay.li/2tl"
+  - yourls_shorturl: "https://eay.li/2tl"
 ---
 
 \[youtube id="PKvsc6a03Es"\]

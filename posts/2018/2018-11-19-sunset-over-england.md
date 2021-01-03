@@ -15,7 +15,7 @@ tags:
   - london
 meta:
   - content_copy: "https://instagram.com/p/BqXzMxFHee1/"
-  - yourls_shorturl: "http://eay.li/37t"
+  - yourls_shorturl: "https://eay.li/37t"
   - geo_latitude: "51.890000962848"
   - geo_longitude: "0.26152610778809"
   - geo_public: "1"

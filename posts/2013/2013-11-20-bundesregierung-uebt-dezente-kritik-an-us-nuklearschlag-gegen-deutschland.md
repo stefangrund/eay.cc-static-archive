@@ -19,7 +19,7 @@ tags:
   - usa
 meta:
   - linked_list_url: "http://www.der-postillon.com/2013/11/bundesregierung-ubt-dezente-kritik-us.html"
-  - yourls_shorturl: "http://eay.li/29o"
+  - yourls_shorturl: "https://eay.li/29o"
 ---
 
 > Die Bundesregierung hat einen am Montag durchgeführten nuklearen Angriff auf deutsches Gebiet durch US-amerikanische Streitkräfte mit ungewohnt scharfen Worten verurteilt. Bundeskanzlerin Angela Merkel ließ durch ihren Sprecher mitteilen, sie sei enttäuscht darüber, dass der Atomschlag, der bislang bereits drei Millionen Menschenleben gekostet hat, nicht nur nicht mit Deutschland abgesprochen, sondern aus Sicht der Bundesregierung auch völlig unnötig war. Merkel: "Befreundete Staaten machen so etwas eigentlich nicht."

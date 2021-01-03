@@ -17,7 +17,7 @@ tags:
   - serien
 meta:
   - linked_list_url: "https://www.seinfeldgame.com/"
-  - yourls_shorturl: "http://eay.li/3du"
+  - yourls_shorturl: "https://eay.li/3du"
   - geo_latitude: "50.973785378605"
   - geo_longitude: "6.6830973967648"
   - geo_public: "1"

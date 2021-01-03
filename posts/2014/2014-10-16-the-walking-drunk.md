@@ -17,7 +17,7 @@ tags:
   - serien
   - the-walking-dead
 meta:
-  - yourls_shorturl: "http://eay.li/2k1"
+  - yourls_shorturl: "https://eay.li/2k1"
 ---
 
 \[youtube id="3pmmtQwUZz0"\]

@@ -15,7 +15,7 @@ tags:
   - sega
   - sonic
 meta:
-  - yourls_shorturl: "http://eay.li/34g"
+  - yourls_shorturl: "https://eay.li/34g"
   - content_copy: "https://twitter.com/eay/status/977849214154805248"
 ---
 

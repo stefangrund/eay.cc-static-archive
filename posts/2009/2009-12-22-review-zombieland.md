@@ -18,7 +18,7 @@ tags:
   - woody-harrelson
   - zombies
 meta:
-  - yourls_shorturl: "http://eay.li/p0"
+  - yourls_shorturl: "https://eay.li/p0"
 ---
 
 ![](https://eay.cc/uploads/2009/zombieland.jpg)Wie Freunde, Kommilitonen und Arbeitskollegen zu berichten wissen, bin ich in den letzten Monaten vollends dem Zombiekult verfallen. Ich weiß nicht, ob das auf einen übermäßigen [Nerdcore](http://www.nerdcore.de/wp/)\-Konsum zurückzuführen oder meine Antwort auf die Schweinegrippenpanik ist, aber Fakt ist, dass ich in letzter Zeit etliche Zombiefilme nachgeholt, [The Walking Dead](http://www.amazon.de/gp/search?ie=utf8mb4&keywords=The%20Walking%20Dead&tag=eayznet-21&index=blended&linkCode=ur2&camp=1638&creative=6742) regelrecht verschlungen und [Zombify](http://zombify.tumblr.com/) zu meinem Lieblingstumblr gekürt habe. Nicht weiter verwunderlich also, dass ich mich auch auf [Zombieland](http://www.imdb.com/title/tt1156398/), den Überraschungserfolg aus den USA, besonders gefreut habe. Doch ob Ruben Fleischer hier endlich Hollywoods längst überfällige Antwort auf den fünf Jahre alten Zombiekomödien-Platzhirsch [Shaun of the Dead](http://www.amazon.de/exec/obidos/ASIN/B0007M2XLU/eayznet-21) gefunden hat, wird sich trotz der durchweg positiven Stimmen erst zeigen müssen.

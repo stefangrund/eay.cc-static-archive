@@ -15,7 +15,7 @@ tags:
   - oscars
 meta:
   - linked_list_url: "https://www.slashfilm.com/2019-oscar-nominations/"
-  - yourls_shorturl: "http://eay.li/38t"
+  - yourls_shorturl: "https://eay.li/38t"
 ---
 
 > »Roma« and »The Favourite« lead the pack with 10 nominations apiece. »A Star is Born« and »Vice« landed eight nominations each, while »Black Panther« received seven, including a nod for Best Picture (the first for a superhero movie). »BlacKkKlansman« received six nominations, edging out »Green Book« and »Bohemian Rhapsody,« which received five. »Can You Ever Forgive Me« and »If Beale Street Could« talk received three nominations each.

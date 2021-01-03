@@ -15,7 +15,7 @@ tags:
   - musik
   - netzkultur
 meta:
-  - yourls_shorturl: "http://eay.li/3d"
+  - yourls_shorturl: "https://eay.li/3d"
 ---
 
 Es war einmal 2002 eine Kölner Band namens Angelika Express, die, [so sagt es Wikipedia](http://de.wikipedia.org/wiki/Angelika_Express), "Popmelodien mit Gitarre, Bass und Schlagzeug sehr hart und laut im Punkstil" spielten. Thematisch ging's, klar, um die "Erlebniswelten im Leben junger Erwachsener". Klar, oder? Nee? Na dann: so hören sich unsere auditiven Erlebniswelten an: \[mp3 url="http://www.reverbnation.com/controller/audio\_player/download\_song/983118"\]Angelika Express - Geh doch nach Berlin\[/mp3\] Im August 2005 lösten sich besagte Band und ihre Erlebniswelten jedoch auf. Bis sich im April diesen Jahres der Angelika-Gitarrist Robert Drakogiannakis der Sache annahm und Angelika Express kurzerhand als Soloprojekt reaktivierte. Hier ein Bild:

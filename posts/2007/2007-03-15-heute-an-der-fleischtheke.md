@@ -15,7 +15,7 @@ tags:
   - nahrung
   - supermarkt
 meta:
-  - yourls_shorturl: "http://eay.li/a6"
+  - yourls_shorturl: "https://eay.li/a6"
 ---
 
 Bei den Aufnahmen zu unserer neuen Familienunterhaltungsserie "Heute an der Fleischtheke" haben wir [folgende Entdeckung](http://www.flickr.com/photos/eay/422154077/) gemacht. Tja, wenn der Metzgermeister kreativ sein darf, dann hat der Eay was zum bloggen. Und morgen gibt es dann 'nen Euter aus Rindfleisch.

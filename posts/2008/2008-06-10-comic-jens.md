@@ -14,7 +14,7 @@ tags:
   - download
   - typographie
 meta:
-  - yourls_shorturl: "http://eay.li/lx"
+  - yourls_shorturl: "https://eay.li/lx"
 ---
 
 ![](/uploads/2008/jens_01.gif)[![](/uploads/2008/jens_02.gif)](//eay.cc/2007/comic-sans/) ![](/uploads/2008/jens_03.gif) ![](/uploads/2008/jens_04.gif)[![](/uploads/2008/jens_05.gif)](http://www.kutilek.de/download/comic-jens.zip)![](/uploads/2008/jens_06.gif)[![](/uploads/2008/jens_07.gif)](http://www.fontblog.de/alternative-zur-comic-sans)![](/uploads/2008/jens_08.gif)

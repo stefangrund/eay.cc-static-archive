@@ -17,7 +17,7 @@ tags:
   - oesterreich
   - sport
 meta:
-  - yourls_shorturl: "http://eay.li/dw"
+  - yourls_shorturl: "https://eay.li/dw"
 ---
 
 Ich bin wieder der Spielsucht verfallen und habe sämtliche Ersparnisse auf folgenden Spielverlauf gesetzt: Endergebnis 0:2, geschossen von Podolski und Klose. Eure Tipps? (Wer richtig tippt, gewinnt Netzer & Delling. Nur solange der Vorrat reicht.)

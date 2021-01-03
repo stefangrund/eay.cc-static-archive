@@ -15,7 +15,7 @@ tags:
   - filme
   - kino
 meta:
-  - yourls_shorturl: "http://eay.li/2d1"
+  - yourls_shorturl: "https://eay.li/2d1"
 ---
 
 Es ist passiert: Der Mann an der Kinokasse wusste direkt, welchen Film wir sehen wollen. "Alles andere habt ihr doch schon gesehen."

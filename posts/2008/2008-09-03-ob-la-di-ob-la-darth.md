@@ -16,7 +16,7 @@ tags:
   - star-wars
   - the-beatles
 meta:
-  - yourls_shorturl: "http://eay.li/c1"
+  - yourls_shorturl: "https://eay.li/c1"
 ---
 
 ![by Jim Hence](/uploads/2008/jimhance.jpg) Jim Hance malt Popkultur-Mashup-Ölgemälde. Star Wars, Tarantino, Heath Ledgers Joker, die Beatles, die Muppets, das A-Team - alle sind dabei. Ich würde am liebsten jedes einzelne seiner Bilder hier posten und mir an die Wand hängen. Hier [sein Portfolio](http://www.strangelydrawn.com/strangelydrawn/paintings.html) und hier [sein Blog](http://www.strangelydrawn.com/blog/) mit weiteren Bildern. Wenn's jetzt irgendwo Kunstdrucke davon gibt, bin ich glücklich... ([via](http://www.nerdcore.de/wp/2008/09/03/star-wars-mashup-artworks-von-jim-hance/))

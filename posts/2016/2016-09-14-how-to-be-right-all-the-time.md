@@ -14,7 +14,7 @@ tags:
   - fehler
   - how-to
 meta:
-  - yourls_shorturl: "http://eay.li/2v3"
+  - yourls_shorturl: "https://eay.li/2v3"
 ---
 
 Eigentlich hat John Gruber hier [über watchOS 3 und die neue Apple Watch](http://daringfireball.net/2016/09/apple_watch_series_2_and_watchos_3) (die ich haben will ((💸💸💸))) geschrieben, bevor er dann den folgenden, guten Rat gegeben hat:

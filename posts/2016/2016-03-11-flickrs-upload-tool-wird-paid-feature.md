@@ -16,7 +16,7 @@ tags:
   - yahoo
 meta:
   - linked_list_url: "http://www.theverge.com/2016/3/9/11184518/flickr-photo-uploader-now-paid-feature"
-  - yourls_shorturl: "http://eay.li/2s9"
+  - yourls_shorturl: "https://eay.li/2s9"
 ---
 
 Ein weiteres "WTF" in der Historie von Flickr (via [@AndiH](https://twitter.com/AndiH/status/707623714125438977)).

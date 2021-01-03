@@ -16,7 +16,7 @@ tags:
   - web-entwicklung
 meta:
   - linked_list_url: "https://brutalist-web.design/"
-  - yourls_shorturl: "http://eay.li/35y"
+  - yourls_shorturl: "https://eay.li/35y"
 ---
 
 > Guidelines for designing websites true to their materials: content.

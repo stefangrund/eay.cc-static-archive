@@ -15,7 +15,7 @@ tags:
   - oscars
   - wetten
 meta:
-  - yourls_shorturl: "http://eay.li/2ws"
+  - yourls_shorturl: "https://eay.li/2ws"
 ---
 
 ![](https://eay.cc/uploads/2010/oscar.jpg)Ich habe es in diesem Jahr leider nur geschafft eine Handvoll der insgesamt 63 nominierten Filme selbst zu sehen (nur drei der neun Best Picture-Nominierten 😕), dementsprechend vage fällt in diesem Jahr – der immerhin achten Prognose [in Folge](https://eay.cc/2016/oscar-prognose-2016/) (!) – mein Urteil aus. Aber die Rezensionen anderer und das Verfolgen der Hype Trains lassen mich für die [89\. Verleihung der Academy Awards](https://en.wikipedia.org/wiki/89th_Academy_Awards) zu folgendem Ergebnis kommen:

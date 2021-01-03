@@ -15,7 +15,7 @@ tags:
   - fanart
   - star-wars
 meta:
-  - yourls_shorturl: "http://eay.li/1nj"
+  - yourls_shorturl: "https://eay.li/1nj"
 ---
 
 Dass das hier großartig werden würde, hatte ich schon geahnt, als ich vor ein paar Wochen meinen Feedreader öffnete und etwas, von einem "Fanmade Star Wars Anime" las. Doch nach vorfreudigem Klicken auf den entsprechenden YouTube-Link, war die Enttäuschung groß: Irgendjemand, der seinen Lebensunterhalt höchstwahrscheinlich von Lucasfilm bezieht, hat das Video von YouTube-Nutzer [Paul "Otaking77077" J.](http://www.youtube.com/user/otaking77077) entfernen lassen. Eine Mirrorsuche bei DailyMotion & Co. blieb damals ohne Erfolg. Schade.

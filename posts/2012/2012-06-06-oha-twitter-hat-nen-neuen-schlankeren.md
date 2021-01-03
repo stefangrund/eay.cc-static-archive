@@ -13,7 +13,7 @@ tags:
   - logo
   - twitter
 meta:
-  - yourls_shorturl: "http://eay.li/1wa"
+  - yourls_shorturl: "https://eay.li/1wa"
   - linked_list_url: "https://blog.twitter.com/2012/taking-flight-twitterbird"
 ---
 

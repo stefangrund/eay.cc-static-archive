@@ -15,7 +15,7 @@ tags:
   - xkcd
 meta:
   - linked_list_url: "https://www.xkcd.com/1608/"
-  - yourls_shorturl: "http://eay.li/2r1"
+  - yourls_shorturl: "https://eay.li/2r1"
 ---
 
 Webcomic trifft auf Open World, [again](//eay.cc/2012/im-heutigen-xkcd-hat-randall-munroe-in-einem-panel-kurzerhand-eine-ganze-welt-erschaffen/). Ich habe gerade viel zu viel Zeit auf dem Sternenzerstörer verbracht. Großartig!

@@ -16,7 +16,7 @@ tags:
   - webcomic
   - zombies
 meta:
-  - yourls_shorturl: "http://eay.li/24o"
+  - yourls_shorturl: "https://eay.li/24o"
   - linked_list_url: "http://theoatmeal.com/comics/wwz"
 ---
 

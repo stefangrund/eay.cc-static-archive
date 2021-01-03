@@ -14,7 +14,7 @@ tags:
   - wissenschaft
 meta:
   - linked_list_url: "http://www.wired.com/2014/05/hangover-cure/"
-  - yourls_shorturl: "http://eay.li/2g9"
+  - yourls_shorturl: "https://eay.li/2g9"
 ---
 
 Der richtige Artikel für Montagmorgen. Sofern ihr in dem Alter seid, dass Samstags feiern, Montags immer noch weh tut. Darin erfahrt ihr dann auch von der [Alcohol Hangover Research Group](http://www.alcoholhangover.com/), der Forschergruppe zur Erforschung des Katers, die wahrscheinlich die härtesten und besten Partys feiert.

@@ -15,7 +15,7 @@ tags:
   - fussball
   - sport
 meta:
-  - yourls_shorturl: "http://eay.li/1jp"
+  - yourls_shorturl: "https://eay.li/1jp"
 ---
 
 Das Bier ist kalt gestellt, die Mettbrötchen liegen bereit, die Stimmung ist gut. Heute Abend trifft die DFB-Elf im Viertelfinale auf Griechenland, den krassen Außenseiter unter den letzten letzten Acht. In der Zeitung bringt es Gert auf der Heide auf den Punkt (Rundschau-Ausgabe von heute, Nr. 143):

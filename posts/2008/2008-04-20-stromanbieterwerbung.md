@@ -13,7 +13,7 @@ tags:
   - logo
   - strom
 meta:
-  - yourls_shorturl: "http://eay.li/md"
+  - yourls_shorturl: "https://eay.li/md"
 ---
 
 Energieanbieter RWE hat seine Corporate Identity um das s.g. Claimlogo "voRWEg gehen" erweitert (vgl. [Fontblog](http://www.fontblog.de/geht-rwe-jetzt-vorweg-oder-voran)). Dass dieses Logo jenseits von Gut und Böse ist, darüber ist man sich auch beim Forum [Supertopic](http://www.supertopic.de/9/vowtfg-gehen-5546-1.html) einig und hat direkt ein paar weitere Claim-Logo-Gemische gebraut (u.a. auch das, das für obigen Titel herhalten musste). [Hier](http://www.supertopic.de/9/vowtfg-gehen-5546-2.html#post187473) mein Favorit:

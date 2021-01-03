@@ -14,7 +14,7 @@ tags:
   - horror
   - nazis
 meta:
-  - yourls_shorturl: "http://eay.li/9c"
+  - yourls_shorturl: "https://eay.li/9c"
 ---
 
 Deutschlands beliebtestes _'Nazi & Popkultur'-Watchblog_ schlägt wieder zu: Bisher haben wir uns hier hauptsächlich nur mit [Nazis im Comic](//eay.cc/2008/der-braune-kapitan/) beschäftigt, weshalb wir uns heute [dem Medium Buch](//eay.cc/themen/buecher/) widmen wollen. Denn auch Buchautoren ziehen für ihre fiktionalen Geschichten, die braunen Trottel heran. Etwa John Christopher in seinem 1966 erschienen Horror-Roman "The Little People". Darum geht's: Bridget erbt ein Schloss in Irland und damit nimmt das ganze Elend seinen Lauf...

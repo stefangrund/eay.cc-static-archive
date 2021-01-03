@@ -15,7 +15,7 @@ tags:
   - fussball
   - sport
 meta:
-  - yourls_shorturl: "http://eay.li/1j0"
+  - yourls_shorturl: "https://eay.li/1j0"
 ---
 
 Heute geht's endlich los. Wordpress und ich haben schon mal alles vorbereitet:

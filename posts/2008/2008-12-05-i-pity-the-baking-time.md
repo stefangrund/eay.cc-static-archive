@@ -16,7 +16,7 @@ tags:
   - nahrung
   - werbung
 meta:
-  - yourls_shorturl: "http://eay.li/up"
+  - yourls_shorturl: "https://eay.li/up"
 ---
 
 (Hier stand ursprünglich ein etwas, sagen wir mal süffisanter Text über das nun folgende Produkt, für den ich im schlimmsten Fall eine Unterlassungserklärung hätte unterschreiben und sehr viel Geld bezahlen müssen. Da ich aber ungern Dinge unterlasse und noch weniger gern irgendwelchen Anwälten mein Geld in den Rachen werfe, habe ich den Text nun durch diese und die folgenden harmlosen Zeilen ersetzt. Ein Hoch auf die Selbstzensur!)

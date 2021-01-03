@@ -16,7 +16,7 @@ tags:
   - wordcamp-cologne
   - wordpress
 meta:
-  - yourls_shorturl: "http://eay.li/2ok"
+  - yourls_shorturl: "https://eay.li/2ok"
 ---
 
 ![](https://eay.cc/uploads/2015/wccgn_notification.png)

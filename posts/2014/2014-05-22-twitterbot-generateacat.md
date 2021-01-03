@@ -16,7 +16,7 @@ tags:
   - your-favorite-twitter-account-for-the-next-5-minutes
 meta:
   - linked_list_url: "https://twitter.com/GenerateACat"
-  - yourls_shorturl: "http://eay.li/2g1"
+  - yourls_shorturl: "https://eay.li/2g1"
 ---
 
 ![](https://eay.cc/uploads/2014/generatedcat.gif)

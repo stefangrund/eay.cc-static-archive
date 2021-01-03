@@ -15,7 +15,7 @@ tags:
   - netzneutralitat
   - telekom
 meta:
-  - yourls_shorturl: "http://eay.li/22h"
+  - yourls_shorturl: "https://eay.li/22h"
   - linked_list_url: "http://fanboys.fm/drossel/"
 ---
 

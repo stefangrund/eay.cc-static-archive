@@ -15,7 +15,7 @@ tags:
   - rollenspiel
   - xbox
 meta:
-  - yourls_shorturl: "http://eay.li/ph"
+  - yourls_shorturl: "https://eay.li/ph"
 ---
 
 ![](/uploads/2008/fable2.jpg)Fall ihr euch wundert, warum euer Feedreader seit mehr als 24 Stunden keine neuen Einträge aus Richtung eayz aufgeführt hat und/oder warum ich nicht in der Uni war, dann liegt das daran, dass mich das wunderbare [Fable 2](http://www.amazon.de/exec/obidos/ASIN/B001F20ZAC/eayznet-21) vollends eingespannt hat. Erst- und Zweiteindruck nach einigen Stunden Spiel: macht mir sehr viel Spaß und sieht wunderbar aus. Abzugspunkte gibt's nur für ein paar Interface-Patzer. Bisher aber auf jeden Fall weiterempfehlenswert!

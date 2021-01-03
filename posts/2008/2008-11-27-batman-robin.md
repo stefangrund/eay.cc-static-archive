@@ -12,7 +12,7 @@ tags:
   - fanart
   - musik
 meta:
-  - yourls_shorturl: "http://eay.li/xq"
+  - yourls_shorturl: "https://eay.li/xq"
 ---
 
 ![](/uploads/2008/batmanrobinrock.jpg) Hinter den Namen Batman und Robin verbergen sich nicht nur ein Superheld und sein Sidekick oder eine [homosexuelle Lebensgemeinschaft](http://www.heise.de/tp/r4/artikel/25/25939/1.html), sondern neuerdings auch zwei österreichische Musiker, die auf Konzerten das Wesen der Namensgeber gänzlich neu interpretieren und so grandiose Titel wie "Who the fuck is Superman?!" oder "I'm a Bat! I'm a Rock 'n' Roll Animal!" vortragen. Das ist verrückt, das ist guter, dreckiger Rock. Davon könnt ihr euch beim Anhören der Stücke auf Holy Maccaroni, der [MySpace-Seite der beiden](http://www.myspace.com/holymaccaroni), selbst überzeugen.

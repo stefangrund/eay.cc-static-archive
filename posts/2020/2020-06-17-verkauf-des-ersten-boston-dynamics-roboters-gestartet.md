@@ -15,7 +15,7 @@ tags:
   - roboter
 meta:
   - linked_list_url: "https://shop.bostondynamics.com/spot?cclcl=en_US&pid=aDl6g000000XdpZCAS"
-  - yourls_shorturl: "http://eay.li/3ek"
+  - yourls_shorturl: "https://eay.li/3ek"
 ---
 
 \[youtube id="VRm7oRCTkjE"\]

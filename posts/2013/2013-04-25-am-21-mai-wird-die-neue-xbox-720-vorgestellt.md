@@ -15,7 +15,7 @@ tags:
   - microsoft
   - xbox
 meta:
-  - yourls_shorturl: "http://eay.li/233"
+  - yourls_shorturl: "https://eay.li/233"
   - linked_list_url: "http://majornelson.com/2013/04/24/xboxreveal/"
 ---
 

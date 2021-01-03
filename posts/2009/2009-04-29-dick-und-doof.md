@@ -13,7 +13,7 @@ tags:
   - kinolog
   - komoedie
 meta:
-  - yourls_shorturl: "http://eay.li/im"
+  - yourls_shorturl: "https://eay.li/im"
 ---
 
 ![](/uploads/2009/kaufhauscop.jpg)Die Geschichte der Komödie ist eine Geschichte voller Missverständnisse. [Der Kaufhauscop](http://www.imdb.de/title/tt1114740/) hat dies erneut eindrucksvoll bewiesen. Es geht darum, dass Doug Heffernan Kevin James den motiviertesten Sicherheitsmann der örtlichen Mall mimt, eigentlich aber viel lieber ein richtiger Polizist geworden wäre. Doch dies hat wegen Übergewicht und Zuckerkrankheit nicht sollen sein - zumindest bis ein paar hyperaktive Möchtegern-Terroristen das Einkaufszentrum überfallen, Geißeln nehmen und der schwerfällige Kaufhauscop endlich die Chance wittert, sich zu beweisen.

@@ -11,7 +11,7 @@ tags:
   - bizarres
   - musik
 meta:
-  - yourls_shorturl: "http://eay.li/a2"
+  - yourls_shorturl: "https://eay.li/a2"
 ---
 
 Ein Lied über jede Zelle an jeder Stelle, die voll gut drauf ist. Ich höre beim GTA IV spielen praktisch nichts anderes mehr. Find ich so schön passend. Ja, das könnte der Sommerhit 2008 werden. Must-See-Glücksvideo nach dem Klick.

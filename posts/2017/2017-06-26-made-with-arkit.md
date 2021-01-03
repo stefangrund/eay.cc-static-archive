@@ -16,7 +16,7 @@ tags:
   - technologie
 meta:
   - linked_list_url: "http://www.madewitharkit.com/"
-  - yourls_shorturl: "http://eay.li/2zt"
+  - yourls_shorturl: "https://eay.li/2zt"
 ---
 
 > Hand-picked curation of the coolest stuff made with #ARKit.

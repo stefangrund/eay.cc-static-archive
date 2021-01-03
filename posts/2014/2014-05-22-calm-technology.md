@@ -13,7 +13,7 @@ tags:
   - technologie
 meta:
   - linked_list_url: "http://calmtechnology.com/"
-  - yourls_shorturl: "http://eay.li/2fy"
+  - yourls_shorturl: "https://eay.li/2fy"
 ---
 
 > We cannot interact with our everyday life in the same way we interact with a desktop computer. **Technology shouldn't require all of our attention**, just some of it, and only when necessary. Take a teapot, for example. It tells us when it is ready, and is off or quiet the rest of the time. If technology works well, we can ignore it most of the time.

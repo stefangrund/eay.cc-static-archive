@@ -17,7 +17,7 @@ tags:
   - motu
   - toys
 meta:
-  - yourls_shorturl: "http://eay.li/hr"
+  - yourls_shorturl: "https://eay.li/hr"
 ---
 
 Die [Gallery 1988](http://www.nineteeneightyeight.com/) in San Francisco richtet zur Zeit eine Ausstellung mit dem Titel "Under the Influence: He-Man and the Masters of the Universe" aus, in der Kunstwerke rund um [He-Man](//eay.cc/tag/he-man/) & Co. gezeigt werden. Freundlicherweise haben sie sämtliche Exponate [fotografiert und online gestellt](http://ihavethepowerart.blogspot.com/), so dass auch die MotU-Fans im Rest der Welt etwas davon haben. Hier ein paar Eindrücke:

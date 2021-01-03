@@ -19,7 +19,7 @@ meta:
   - content_copy: "https://twitter.com/eay/status/1080578862906523648"
   - content_copy: "https://twitter.com/eay/status/1080578864512946176"
   - content_copy: "https://twitter.com/eay/status/1080578866819801089"
-  - yourls_shorturl: "http://eay.li/38d"
+  - yourls_shorturl: "https://eay.li/38d"
   - geo_latitude: "50.973828540652"
   - geo_longitude: "6.6830661046568"
   - geo_public: "1"

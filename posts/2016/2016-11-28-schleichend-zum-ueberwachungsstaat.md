@@ -18,7 +18,7 @@ tags:
   - vorratsdatenspeicherung
 meta:
   - linked_list_url: "http://spiegel.de/netzwelt/netzpolitik/a-1121162.html"
-  - yourls_shorturl: "http://eay.li/2vg"
+  - yourls_shorturl: "https://eay.li/2vg"
 ---
 
 > BND-Gesetz, Vorratsdatenspeicherung, verschlüsselte Dienste wie WhatsApp knacken: In den vergangenen Monaten wurden in Deutschland teils drastische Überwachungsmaßnahmen auf den Weg gebracht.

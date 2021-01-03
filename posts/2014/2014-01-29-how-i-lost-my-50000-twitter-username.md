@@ -15,7 +15,7 @@ tags:
   - twitter
 meta:
   - linked_list_url: "https://medium.com/p/24eb09e026dd"
-  - yourls_shorturl: "http://eay.li/2ck"
+  - yourls_shorturl: "https://eay.li/2ck"
 ---
 
 Ziel der Attacke auf Naoki Hiroshima war dessen Twitter-Username @N. Wie schon Ende 2012 im [Fall von Mat Honan](http://www.wired.com/gadgetlab/2012/11/ff-mat-honan-password-hacker/all/) (Ziel: @mat) konnte der Angreifer per Telefon die letzten vier Ziffern der Kreditkarte abgreifen und damit bei anderen Anbietern _seine_ Identität belegen und alles munter zurücksetzen.

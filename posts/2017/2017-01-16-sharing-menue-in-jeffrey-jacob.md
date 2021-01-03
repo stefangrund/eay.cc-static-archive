@@ -15,7 +15,7 @@ tags:
   - in-eigener-sache
   - jeffrey-jacob
 meta:
-  - yourls_shorturl: "http://eay.li/2w7"
+  - yourls_shorturl: "https://eay.li/2w7"
 ---
 
 ![](https://d3vv6lp55qjaqc.cloudfront.net/items/2f003l0R1f0G3l3J0X2z/Screen%20Recording%202017-01-13%20at%2001.52%20PM.gif)

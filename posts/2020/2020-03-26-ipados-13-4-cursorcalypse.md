@@ -15,7 +15,7 @@ tags:
   - ipad
   - technologie
 meta:
-  - yourls_shorturl: "http://eay.li/3de"
+  - yourls_shorturl: "https://eay.li/3de"
 ---
 
 ![iPad zwischen Bildschirmen](https://eay.cc/uploads/2020/ipados.jpeg)

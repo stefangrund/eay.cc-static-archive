@@ -14,7 +14,7 @@ tags:
   - mockumentary
   - werbung
 meta:
-  - yourls_shorturl: "http://eay.li/2hr"
+  - yourls_shorturl: "https://eay.li/2hr"
 ---
 
 \[vimeo id="100851656"\]

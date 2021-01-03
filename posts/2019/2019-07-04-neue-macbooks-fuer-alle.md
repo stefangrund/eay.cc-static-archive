@@ -16,7 +16,7 @@ tags:
   - mac
 meta:
   - content_copy: "https://www.instagram.com/p/Bzf9tFYo55I/"
-  - yourls_shorturl: "http://eay.li/3an"
+  - yourls_shorturl: "https://eay.li/3an"
   - content_copy: "https://twitter.com/eay/status/1146909929887825920"
 ---
 

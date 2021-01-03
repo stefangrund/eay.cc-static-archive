@@ -18,7 +18,7 @@ tags:
   - titanic
   - tropic-thunder
 meta:
-  - yourls_shorturl: "http://eay.li/7t"
+  - yourls_shorturl: "https://eay.li/7t"
 ---
 
 - [**Dominic Monaghan: Happy accidents**](http://www.hamiltonselway.com/Monaghan1.html) · [Charlie](http://www.hamiltonselway.com/MonaghanDetail.php?image=SelfportraitV2&date=7&size=3&title=Self%20Portrait.%20Charlie) aus Lost (wann kommst du wieder?) fotografiert. Wäre ich Kunstsammler, würde ich ihm sofort [dieses Bild](http://www.hamiltonselway.com/MonaghanDetail.php?image=JJOffice&date=5&size=2&title=JJ%20Office) abnehmen. ([via](http://www.delphinehauen.de/2008/03/12/jj-office-2005/))

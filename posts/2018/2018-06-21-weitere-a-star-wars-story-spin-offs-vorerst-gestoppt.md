@@ -17,7 +17,7 @@ tags:
   - star-wars
 meta:
   - linked_list_url: "http://collider.com/star-wars-spinoffs-on-hold/"
-  - yourls_shorturl: "http://eay.li/35n"
+  - yourls_shorturl: "https://eay.li/35n"
 ---
 
 > It may be a while before we see any more movies like Solo: A Star Wars Story out of Lucasfilm. Sources with knowledge of the situation tell Collider that Lucasfilm has decided to put plans for more A Star Wars Story spinoff movies on hold, instead opting to focus their attention on Star Wars: Episode IX and what the next trilogy of Star Wars films will be after that film.

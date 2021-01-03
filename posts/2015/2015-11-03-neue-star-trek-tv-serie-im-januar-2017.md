@@ -15,7 +15,7 @@ tags:
   - star-trek
 meta:
   - linked_list_url: "http://www.startrek.com/article/new-star-trek-series-premieres-january-2017"
-  - yourls_shorturl: "http://eay.li/2qh"
+  - yourls_shorturl: "https://eay.li/2qh"
 ---
 
 > CBS Television Studios announced today it will launch a totally new Star Trek television series in January 2017. \[...\] Alex Kurtzman will serve as executive producer for the new Star Trek TV series. Kurtzman co-wrote and produced the blockbuster films Star Trek (2009) with Roberto Orci, and Star Trek Into Darkness (2013) with Orci and Damon Lindelof.

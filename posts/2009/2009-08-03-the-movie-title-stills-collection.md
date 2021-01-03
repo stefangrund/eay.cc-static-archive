@@ -14,7 +14,7 @@ tags:
   - filme
   - typographie
 meta:
-  - yourls_shorturl: "http://eay.li/1d"
+  - yourls_shorturl: "https://eay.li/1d"
 ---
 
 Weil ich hier vor einigen Monaten ja schon eine [Sammlung von Ende-Schriftzügen](//eay.cc/2008/this-is-the-end/) hatte, darf eine [Webseite wie diese](http://www.annyas.com/screenshots/2005-2009/), die sich dem Filmtitel verschrieben und welche von 1920 bis heute zusammengestellt hat, natürlich auch nicht fehlen. ([via](http://www.cinematze.de/2009/08/03/the-movie-title-stills-collection/))

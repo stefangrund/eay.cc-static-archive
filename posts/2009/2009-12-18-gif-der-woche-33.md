@@ -14,7 +14,7 @@ tags:
   - katzencontent
   - tiere
 meta:
-  - yourls_shorturl: "http://eay.li/ne"
+  - yourls_shorturl: "https://eay.li/ne"
 ---
 
 ![](https://eay.cc/uploads/2009/breakdancecat.gif) Wir bleiben [dem Katzen-gif](//eay.cc/2009/gif-der-woche-32/) treu und sehen uns heute an, was passiert, wenn man in der Nähe einer Katze seine Breakdance-Skills trainiert. Miaua! (thx, [HerrK](http://www.herrk.de/))

@@ -15,7 +15,7 @@ tags:
   - rock-am-ring
 meta:
   - linked_list_url: "http://www.spiegel.de/kultur/musik/rock-am-ring-lieberberg-siegt-gegen-nuerburgring-im-namensstreit-a-988796.html"
-  - yourls_shorturl: "http://eay.li/2il"
+  - yourls_shorturl: "https://eay.li/2il"
 ---
 
 Als im Mai das [Aus für Rock am Ring](//eay.cc/2014/aus-fuer-rock-am-ring/) am Nürburgring bekannt wurde, hatte der neue Betreiber der Rennstrecke ebenfalls Ansprüche an den traditionsreichen Namen angemeldet. Nachdem nun klar ist, dass die Rechte bei Lieberberg liegen, fehlt jetzt nur noch die verbindliche Ankündigung des neuen Veranstaltungsorts, wobei Mönchengladbach nach wie vor hoch gehandelt wird.

@@ -14,7 +14,7 @@ tags:
   - eayz
   - in-eigener-sache
 meta:
-  - yourls_shorturl: "http://eay.li/v"
+  - yourls_shorturl: "https://eay.li/v"
 ---
 
 Wow, so viele Mails hab ich ja selten an einem Tag bekommen - alle waren sie gespannt auf das [lang angekündigte](http://eay.cc/blog/2006/11/and_even_with_t.shtml) neue eayz, dessen Ankunft ich seit genau einem Tag mit der größten Guerilla-Marketingkampagne, die's je für ein Blog gab, in Form [dieses Flyers](http://www.flickr.com/photos/eay/401338282/) angpriesen habe. Das heißt die Zeit von [Affen und Sprechblasen](http://www.flickr.com/photos/eay/13879266/) ist vorbei und eure Lieblingswebseite basiert nun auf [Wordpress](http://www.wordpress.org/) und ist - ja, es tut mir schon irgendwie weh das so zu sagen - somit ein stinknormales Blog (das immerhin täglich die Farbe wechselt).

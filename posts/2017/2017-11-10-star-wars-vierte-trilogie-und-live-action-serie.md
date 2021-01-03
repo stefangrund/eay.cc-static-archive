@@ -17,7 +17,7 @@ tags:
   - star-wars
 meta:
   - linked_list_url: "http://variety.com/2017/biz/news/star-wars-tv-series-disney-streaming-service-1202611408/"
-  - yourls_shorturl: "http://eay.li/327"
+  - yourls_shorturl: "https://eay.li/327"
 ---
 
 [Episode 8](https://eay.cc/tag/episode-8/) ist noch nicht mal im Kino, da kündigt Disney schon an, wie es mit unser aller Lieblingssternenfranchise nach Episode 9 weitergehen wird. So wird [Rian Johnson](https://en.wikipedia.org/wiki/Rian_Johnson), der Regisseur und Autor von »The Last Jedi« (noch 33 Tage!), nämlich an einer neuen, von der bisherigen Skywalker-Saga komplett losgelösten Trilogie arbeiten.

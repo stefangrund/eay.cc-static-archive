@@ -13,7 +13,7 @@ tags:
   - mobel
   - star-wars
 meta:
-  - yourls_shorturl: "http://eay.li/1x5"
+  - yourls_shorturl: "https://eay.li/1x5"
   - linked_list_url: "http://laughingsquid.com/stormtrooper-wooden-lawn-chair/"
 ---
 

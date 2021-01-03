@@ -10,7 +10,7 @@ format: "post"
 categories:
   - 0815
 meta:
-  - yourls_shorturl: "http://eay.li/2o9"
+  - yourls_shorturl: "https://eay.li/2o9"
 ---
 
 Nicht nur, dass wir hierzulande [deutlich mehr als die meisten anderen Europäer](http://welt.de/wirtschaft/webwelt/article141320502/Deutsche-zahlen-gewaltig-fuer-winziges-Datenvolumen.html) für unsere Handytarife und Datenpakete bezahlen, nein, auch außerhalb unserer Landesgrenzen bezahlen wir uns dumm und dusselig, wie ich in der vergangenen Woche einmal mehr am eigenen Geldbeutel erfahren musste. Die verbrachte ich nämlich in Frankreich und einen Tag in England, wofür sie ich bei Congstar folgende Pakete buchen musste ((Ja, "musste", kein mobiles Internet ist nämlich keine Option. Wir leben schließlich in der Zukunft.)):

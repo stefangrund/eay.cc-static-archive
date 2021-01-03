@@ -17,7 +17,7 @@ tags:
   - usa
   - wdr
 meta:
-  - yourls_shorturl: "http://eay.li/202"
+  - yourls_shorturl: "https://eay.li/202"
   - linked_list_url: "http://www.wdr.de/mediathek/html/regional/2012/11/02/wdr-dok-ronald-reagan.xml"
 ---
 

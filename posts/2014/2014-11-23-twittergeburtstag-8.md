@@ -16,7 +16,7 @@ tags:
   - statistik
   - twitter
 meta:
-  - yourls_shorturl: "http://eay.li/2kr"
+  - yourls_shorturl: "https://eay.li/2kr"
 ---
 
 Heute vor acht Jahren, am 23. November 2006, habe ich mich als 16.563ster Nutzer bei Twitter angemeldet. Seitdem habe ich über 22.000 Tweets verfasst ((Wobei Twitters Zählung (22.400) sich _etwas_ von der [meines Twitter-Archivs](http://tweets.eay.cc/) (21.800) unterscheidet. Wahrscheinlich liegt die Wahrheit in den 600 Tweets dazwischen.)), tausendfach gefavt, unzählige Stunden in die Tasten gehämmert und meine Wirbelsäule mit ausufernder Smartphone-Starrerei [belastet](http://lifehacker.com/this-is-what-looking-down-at-your-cell-phone-does-to-yo-1660637854/). Grund genug um zur Feier des Tages die Statistik [vom sechsten Jahrestag](//eay.cc/2012/6-jahre-twitter/) mal wieder aufzufrischen:

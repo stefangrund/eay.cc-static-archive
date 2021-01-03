@@ -14,7 +14,7 @@ tags:
   - brillen
   - gif-der-woche
 meta:
-  - yourls_shorturl: "http://eay.li/1ew"
+  - yourls_shorturl: "https://eay.li/1ew"
 ---
 
 ![](https://eay.cc/uploads/2012/bigeyes.gif) Das ist der Grund, warum Mädels immer so riesige Sonnenbrillen tragen.

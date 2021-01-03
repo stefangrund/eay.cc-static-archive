@@ -12,7 +12,7 @@ tags:
   - magazine
   - urlaub
 meta:
-  - yourls_shorturl: "http://eay.li/pt"
+  - yourls_shorturl: "https://eay.li/pt"
 ---
 
 ![](/uploads/2007/gepaeck.jpg) Unwichtige Durchsage: Morgen startet der erste Part der zweiteiligen eayz-Urlaubssasion. In Teil 1 geht's in den Süden Deutschlands und ausgerüstet mit [DS](http://eay.cc/blog/2006/06/nintendo_ds_lit_1.shtml), iBook und viel Lesestoff sollte ich auch für schlechtestes Wetter am Indoor-Pool gerüstet sein.

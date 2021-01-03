@@ -15,7 +15,7 @@ tags:
   - technologie
 meta:
   - linked_list_url: "http://imgur.com/gallery/HK6Fo"
-  - yourls_shorturl: "http://eay.li/2q8"
+  - yourls_shorturl: "https://eay.li/2q8"
 ---
 
 > Meanwhile, faraway in a darkened room, Mark Zuckerberg sips his coffee, and whispers to himself, "Experiment 471 was a complete success."

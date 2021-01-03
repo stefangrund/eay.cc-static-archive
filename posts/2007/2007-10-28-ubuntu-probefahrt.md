@@ -15,7 +15,7 @@ tags:
   - konsum
   - linux
 meta:
-  - yourls_shorturl: "http://eay.li/qv"
+  - yourls_shorturl: "https://eay.li/qv"
 ---
 
 Während die ganze Blogwelt Lobeshymnen auf [Leopard](//eay.cc/2007/gutschein-fur-leopard/) scheibt und es sich einige, fuchsige Füchse sogar [auf ihren PCs installieren](http://laughingsquid.com/installing-leopard-on-a-pc-in-three-easy-steps/), habe ich heute einen Blick in die wunderbare Welt von Linux geworfen. Und das geht so: [Ubuntu-CD runterladen](http://www.ubuntu.com/getubuntu/download), brennen und neustarten und - tada! - das Live-System zaubert ein voll funktionsfähiges Ubuntu-System auf meinen fiesen Windows-Rechner. Betriebssystem testen war nie einfacher!

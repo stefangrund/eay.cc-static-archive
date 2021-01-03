@@ -14,7 +14,7 @@ tags:
   - retro
   - vinyl
 meta:
-  - yourls_shorturl: "http://eay.li/ez"
+  - yourls_shorturl: "https://eay.li/ez"
 ---
 
 Aus der [Abteilung gruselige Plattencover](//eay.cc/2008/do-you-know-jesus/): ![](/uploads/2008/heinomutter.jpg)

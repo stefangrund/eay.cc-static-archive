@@ -16,7 +16,7 @@ meta:
   - geo_latitude: "50.973802370905"
   - geo_longitude: "6.6829903829497"
   - geo_public: "1"
-  - yourls_shorturl: "http://eay.li/35h"
+  - yourls_shorturl: "https://eay.li/35h"
 ---
 
 ![](https://eay.cc/uploads/2017/shortfilms-masterplan.png)

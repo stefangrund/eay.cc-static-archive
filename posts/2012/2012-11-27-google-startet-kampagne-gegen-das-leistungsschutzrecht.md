@@ -15,7 +15,7 @@ tags:
   - holzmedien
   - leistungsschutzrecht
 meta:
-  - yourls_shorturl: "http://eay.li/20j"
+  - yourls_shorturl: "https://eay.li/20j"
   - linked_list_url: "https://www.google.de/campaigns/deinnetz/"
 ---
 

@@ -16,7 +16,7 @@ tags:
   - japan
   - usa
 meta:
-  - yourls_shorturl: "http://eay.li/2ie"
+  - yourls_shorturl: "https://eay.li/2ie"
 ---
 
 Doctor Who ist bekanntlich ein durch und durch britisches Format, auch wenn des Doctors Reisen unter Moffat deutlich internationaler geworden sind. Wie Doctor Who als US-amerikanische oder japanische Serie ausgesehen würde, zeigen die folgenden beiden Videos auf besonders eindringliche Weise.

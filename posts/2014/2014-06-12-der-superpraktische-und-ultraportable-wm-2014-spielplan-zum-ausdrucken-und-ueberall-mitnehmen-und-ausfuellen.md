@@ -16,7 +16,7 @@ tags:
   - wm-2014
 meta:
   - linked_list_url: "http://rekord.cc/wm-2014-spielplan/"
-  - yourls_shorturl: "http://eay.li/2gu"
+  - yourls_shorturl: "https://eay.li/2gu"
 ---
 
 Kurz vor knapp noch der beste Papierspielplan, der mir bisher untergekommen ist. Nicht nur wegen der TLD der [Macher](http://rekord.cc/) sympathisch, sondern auch gut, weil er neben den deutschen Uhrzeiten auch die jeweiligen Fernsehsender mit angibt. Außerdem gibt's eine Bastelanleitung, der sogar ich als Bastellegastheniker folgen konnte, was ein nicht zu unterschätzendes Plus ist.

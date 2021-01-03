@@ -16,7 +16,7 @@ tags:
   - stanley-kubrick
 meta:
   - linked_list_url: "http://www.federicomauro.eu/11918/1065935/works/instakubrick"
-  - yourls_shorturl: "http://eay.li/246"
+  - yourls_shorturl: "https://eay.li/246"
 ---
 
 Stanley Kubricks Selbstportraits als Instagram-Bilder.

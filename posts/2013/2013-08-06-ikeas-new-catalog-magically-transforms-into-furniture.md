@@ -16,7 +16,7 @@ tags:
   - technologie
 meta:
   - linked_list_url: "http://www.fastcodesign.com/1673164/ikeas-new-catalog-magically-transforms-into-your-furniture#1"
-  - yourls_shorturl: "http://eay.li/25w"
+  - yourls_shorturl: "https://eay.li/25w"
 ---
 
 IKEAs [2014 (US-)Katalog](http://info.ikea-usa.com/Catalog/) wird es ermöglichen, per [Augmented Reality](https://de.wikipedia.org/wiki/Erweiterte_Realit%C3%A4t)\-App überall Möbelstücke einzublenden. Dazu wird der gedruckte IKEA-Katalog einfach irgendwo in der Wohnung platziert, mit der App anvisiert und schon sieht man auf dem Smartphone-/Tablet-Display, wie sich z.B. der potentielle neue Esstisch an dieser Stelle so macht. Toller Einsatz von AR-Technologie. (via [UARRR](http://uarrr.org/2013/08/06/ikeas-new-catalog-magically-transforms-into-furniture/))

@@ -16,7 +16,7 @@ tags:
   - science-fiction
   - space-balls
 meta:
-  - yourls_shorturl: "http://eay.li/51"
+  - yourls_shorturl: "https://eay.li/51"
 ---
 
 Mit einem sensationellen Jahr Verspätung ist am Sonntag die [Spaceballs Animated Series](//eay.cc/2007/moge-der-saft-mit-dir-sein/) in den USA gestartet. Das ganze wäre mir normalerweise ja ein paar Zeilen wert, wäre diese Serie nicht absoluter Schrott - inhaltlich und äußerlich. Tja, versaut.

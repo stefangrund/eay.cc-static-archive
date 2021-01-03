@@ -14,7 +14,7 @@ tags:
   - webdesign
   - your-favorite-tumblr-for-the-next-5-minutes
 meta:
-  - yourls_shorturl: "http://eay.li/2rv"
+  - yourls_shorturl: "https://eay.li/2rv"
 ---
 
 ![](https://eay.cc/uploads/2016/four-zero-four.jpg)

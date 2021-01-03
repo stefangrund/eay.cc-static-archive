@@ -17,7 +17,7 @@ tags:
   - musik
   - technologie
 meta:
-  - yourls_shorturl: "http://eay.li/30l"
+  - yourls_shorturl: "https://eay.li/30l"
 ---
 
 \[youtube id="ZBdRAdSosv4"\]

@@ -14,7 +14,7 @@ tags:
   - the-beatles
   - urlaub
 meta:
-  - yourls_shorturl: "http://eay.li/64"
+  - yourls_shorturl: "https://eay.li/64"
 ---
 
 Von [Sebastian](http://blog.sebastian-krauss.de/?p=416) habe ich folgendes Stöckchen bekommen, dass mich über meine Vorlieben ausfragt. Weiter geht's nach dem Klick. Und damit ihr schon mal heiß drauf seid, die Themen: sexy Krankenschwestern, Bruce Willis, Ballermann 6 und die Beatles.

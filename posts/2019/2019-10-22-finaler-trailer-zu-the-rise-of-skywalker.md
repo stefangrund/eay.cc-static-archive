@@ -16,7 +16,7 @@ tags:
   - trailer
 meta:
   - content_copy: "https://twitter.com/eay/status/1186551039371165701"
-  - yourls_shorturl: "http://eay.li/3bo"
+  - yourls_shorturl: "https://eay.li/3bo"
 ---
 
 \[youtube id="8Qn\_spdM5Zg"\]

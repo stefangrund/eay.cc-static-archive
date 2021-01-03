@@ -14,7 +14,7 @@ tags:
   - muppets
   - serien
 meta:
-  - yourls_shorturl: "http://eay.li/2p8"
+  - yourls_shorturl: "https://eay.li/2p8"
 ---
 
 Nach der großen Leinwand kommen die Muppets nun auch endlich zurück ins Fernsehen. Zwar nicht als Show, aber immerhin als eine Art _Reality_\-Doku mit kursiv geschriebener "Reality". Das ist wahrscheinlich auch zeitgemäßer und zur Einstimmung ist hier schon mal die "First Look Presentation". Ich mag's.

@@ -14,7 +14,7 @@ tags:
   - niederlande
   - urlaub
 meta:
-  - yourls_shorturl: "http://eay.li/nk"
+  - yourls_shorturl: "https://eay.li/nk"
 ---
 
 ![](/uploads/2007/eu.jpg)El Jefe hat das Gebäude betreten und die Zügel [wieder](//eay.cc/2007/mod-ubernehmen-sie/) an sich gerissen, nachdem Ex-Schreiberling [MoD](/artikel/writingforce/) euch mit 3 (in Worten: drei!) sensationellen Blogeinträgen versorgt hat. Ich werde die konsequente Nennung des [Äffchens](//eay.cc/tag/kot%C3%A4ffchen/) nicht fortführen und setze mich stattdessen wieder vermehrt für Popkultur minderer Qualität und vulgäre Fäkalsprache ein. Wir wissen ja schließlich alle, dass es [genau das](http://eay.cc/blog/2006/05/was_zur_hoelle.shtml) ist, was diese Internetpräsenz für den gemeinen Leser so interessant macht und von den anderen sieben Webseiten im WWW unterscheidet.

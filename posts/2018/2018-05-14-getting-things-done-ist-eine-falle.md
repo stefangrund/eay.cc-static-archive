@@ -17,7 +17,7 @@ tags:
   - work-life-balance
 meta:
   - linked_list_url: "https://mkln.org/2018/05/gtd-mit-google-duplex/"
-  - yourls_shorturl: "http://eay.li/356"
+  - yourls_shorturl: "https://eay.li/356"
   - geo_latitude: "50.97373385194"
   - geo_longitude: "6.6832303865103"
   - geo_public: "1"

@@ -12,7 +12,7 @@ tags:
   - lost
   - serien
 meta:
-  - yourls_shorturl: "http://eay.li/oi"
+  - yourls_shorturl: "https://eay.li/oi"
 ---
 
 

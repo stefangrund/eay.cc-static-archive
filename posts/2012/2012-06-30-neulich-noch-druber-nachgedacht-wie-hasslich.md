@@ -13,7 +13,7 @@ tags:
   - design
   - microsoft
 meta:
-  - yourls_shorturl: "http://eay.li/1x2"
+  - yourls_shorturl: "https://eay.li/1x2"
   - linked_list_url: "http://www.microsoft.com/en-us/default.aspx"
 ---
 

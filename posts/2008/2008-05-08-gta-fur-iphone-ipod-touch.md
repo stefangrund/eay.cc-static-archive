@@ -16,7 +16,7 @@ tags:
   - iphone
   - ipod
 meta:
-  - yourls_shorturl: "http://eay.li/xv"
+  - yourls_shorturl: "https://eay.li/xv"
 ---
 
 ![](/uploads/2008/iphone_gta.jpg) ... wäre zu geil, oder? Ich meine, in der Grafik der 2D-Teile wäre es doch auf jeden Fall machbar. Sowas müssten die kleinen Apple Handhelds doch hergeben?!

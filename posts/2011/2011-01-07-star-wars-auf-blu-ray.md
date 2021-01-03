@@ -13,7 +13,7 @@ tags:
   - konsum
   - star-wars
 meta:
-  - yourls_shorturl: "http://eay.li/144"
+  - yourls_shorturl: "https://eay.li/144"
 ---
 
 Nachdem es letztes Jahr schon [angekündigt wurde](http://twitter.com/#!/starwars/statuses/21160185469), ist nun das Releasedate raus: Star Wars wird am 30. September auf Blu-ray erscheinen. Und zwar als Boxset für die alte und neue Trilogie, sowie als Komplettbox für 100 Euro. Letztere ist [bereits bei Amazon.de vorbestellbar](http://amzn.to/hJx0E6) und da ich seit Anfang der Woche im Besitz eines Blu-ray-Players bin, hab ich genau das direkt mal getan.

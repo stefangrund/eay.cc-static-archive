@@ -13,7 +13,7 @@ tags:
   - sprache
   - twitter
 meta:
-  - yourls_shorturl: "http://eay.li/1xx"
+  - yourls_shorturl: "https://eay.li/1xx"
   - linked_list_url: "http://www.sadanduseless.com/2012/04/twitter-cologne/"
 ---
 

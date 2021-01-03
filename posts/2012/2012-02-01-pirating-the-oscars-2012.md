@@ -16,7 +16,7 @@ tags:
   - piraterie
   - urheberrecht
 meta:
-  - yourls_shorturl: "http://eay.li/1fj"
+  - yourls_shorturl: "https://eay.li/1fj"
 ---
 
 ![](https://eay.cc/uploads/2012/piratingoscars.png)[Andy Baio](http://waxy.org/) hat auch in diesem Jahr wieder seinen alljährlichen "Pirating the Oscars"-Bericht veröffentlicht, in dem er jedes Jahr nachhält, wann, wie schnell und in welcher Form Kopien der Oscar-nominierten Filme im Netz aufgetaucht sind. Und nach zehn Jahren der Beobachtung kommt er dieses Mal zum Fazit, dass die MPAA erstmals den Kampf gegen das Veröffentlichen der Oscar-Screener gewonnen hat. Dennoch ist das nur ein Teilerfolg, denn:

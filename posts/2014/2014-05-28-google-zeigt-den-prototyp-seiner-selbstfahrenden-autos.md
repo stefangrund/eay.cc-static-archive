@@ -17,7 +17,7 @@ tags:
   - zukunft
 meta:
   - linked_list_url: "http://googleblog.blogspot.com/2014/05/just-press-go-designing-self-driving.html"
-  - yourls_shorturl: "http://eay.li/2gd"
+  - yourls_shorturl: "https://eay.li/2gd"
 ---
 
 > We´re now exploring what fully self-driving vehicles would look like by building some prototypes; they´ll be designed to operate safely and autonomously without requiring human intervention. They won´t have a steering wheel, accelerator pedal, or brake pedalâ¦ because they don´t need them. Our software and sensors do all the work.

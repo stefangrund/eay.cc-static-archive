@@ -14,7 +14,7 @@ tags:
   - netzkultur
   - supertopic
 meta:
-  - yourls_shorturl: "http://eay.li/cn"
+  - yourls_shorturl: "https://eay.li/cn"
 ---
 
 ob ich ein [Befreiphone](http://www.supertopic.de/forum/1/befreiphone-7006-1.html "Befreiphone") habe und ob ich jeden Scheiß mitmache: Nein und Ja. ([via](http://www.allyoucanfeed.de/2008/09/10/was-reimt-sich-auf-manipulation/))

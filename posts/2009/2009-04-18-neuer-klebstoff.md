@@ -18,7 +18,7 @@ tags:
   - sticker
   - streetart
 meta:
-  - yourls_shorturl: "http://eay.li/eu"
+  - yourls_shorturl: "https://eay.li/eu"
 ---
 
 ![](/uploads/2009/klebstoff.jpg) [Klebstoff](http://stickermag.com/) ist ein neues Sticker-Magazin, das 103 stylische Sticker auf 43 Seiten umfasst, die von 24 verschiedenen Künstlern kreiert wurden. Sieht sehr nett aus, weshalb ich mir direkt mal eines des auf 1000 Exemplare limitierten Magazins vorbestellt habe, auf das ich [nicht mehr nur eayzlies](http://eay.cc/projekte/eayzlyart/) rumkleben muss. [Hier](http://www.gute-seiten.net/site/magazines/klebstoff-stickermag) könnt ihr es mir gleich tun. ([via](http://www.rebelart.net/diary/?p=1253))

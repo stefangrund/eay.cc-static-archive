@@ -19,7 +19,7 @@ tags:
   - trailer
   - westworld
 meta:
-  - yourls_shorturl: "http://eay.li/33k"
+  - yourls_shorturl: "https://eay.li/33k"
 ---
 
 Diese Nacht fand in Minneapolis der Super Bowl, das NFL-Endspiel zwischen den New England Patriots und die Philadelphia Eagles, statt. Letztere konnten [erstmals gewinnen](http://www.spiegel.de/sport/sonst/super-bowl-2018-philadelphia-eagles-besiegen-new-england-patriots-a-1191373.html) und neben der Halbzeitshow mit Justin Timberlake gab es in den Unterbrechungen wieder das Beste zu sehen, was der Kapitalismus derzeit zu bieten hat. Unter anderem auch einige neue Filmtrailer oder -spots, um diese im folgenden gehen soll.

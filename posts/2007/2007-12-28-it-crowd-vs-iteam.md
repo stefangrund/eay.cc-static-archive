@@ -15,7 +15,7 @@ tags:
   - fernsehen
   - it-crowd
 meta:
-  - yourls_shorturl: "http://eay.li/4g"
+  - yourls_shorturl: "https://eay.li/4g"
 ---
 
 Oder: Original vs. Fälschung. Meiner Meinung nach ist es nämlich so (dieser Gedanke wurde von einem Werbespot der Filmindustrie gesponsert), als hätte jemand die [originale IT Crowd](//eay.cc/2007/have-you-tried-turning-it-off-and-on-again/) mit einer schlechten Kamera abgefilmt und ins Internet gestellt. Ja, für Freunde von [Roy](//eay.cc/2007/du-bist-roy/) und Moss ist es ein surreales Erlebnis, zu dem [hier](http://www.nerdcore.de/wp/2007/12/27/die-erste-folge-der-deutschen-it-crowd-online-bei-sat1/) und [hier](http://www.i-jeriko.de/2007/12/27/haha-deutsche-it-crowd-online-ha-haha-ha/) eigentlich schon alles gesagt wurde. Um aber zu verdeutlichen, dass es sich beim iTeam tatsächlich um eine 1:1-Umsetzung der IT Crowd handelt, die dem Original zwar keineswegs gerecht werden kann, dennoch aber Gags und Bilder übernimmt, so dass man sich fragt, ob eine Synchro nicht besser gewesen wäre, hier ein kleiner Bildvergleich:

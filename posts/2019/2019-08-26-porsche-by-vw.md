@@ -19,7 +19,7 @@ tags:
   - whatsapp
 meta:
   - linked_list_url: "https://www.profgalloway.com/porsche-by-vw"
-  - yourls_shorturl: "http://eay.li/3b9"
+  - yourls_shorturl: "https://eay.li/3b9"
   - geo_latitude: "50.973858459745"
   - geo_longitude: "6.6828261548193"
   - geo_public: "1"

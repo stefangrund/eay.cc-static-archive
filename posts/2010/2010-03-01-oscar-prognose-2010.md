@@ -15,7 +15,7 @@ tags:
   - oscars
   - wetten
 meta:
-  - yourls_shorturl: "http://eay.li/45"
+  - yourls_shorturl: "https://eay.li/45"
 ---
 
 ![](https://eay.cc/uploads/2010/oscar.jpg)Ende der Woche, am 7. März, finden die [82nd Academy Awards](http://en.wikipedia.org/wiki/82nd_Academy_Awards) statt. Oscar-nominiert ist wieder ein jeder der Rang und Namen hat und dank der werbeträchtigen Ausweitung von fünf auf zehn Nominierungen beim "Best Picture" hat dieses Jahr auch der ein oder andere Film, der es sonst nicht in die Mutter aller Oscar-Kategorien geschafft hätte (Stichwort: [District 9](//eay.cc/2009/district-9-review/)), den Hauch einer Chance auf eine der Über-Trophäen.

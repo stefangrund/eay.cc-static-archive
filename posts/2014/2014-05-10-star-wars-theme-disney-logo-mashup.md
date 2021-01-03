@@ -18,7 +18,7 @@ tags:
   - musik
   - star-wars
 meta:
-  - yourls_shorturl: "http://eay.li/2fm"
+  - yourls_shorturl: "https://eay.li/2fm"
 ---
 
 \[youtube id="-0zZgEIAqmI"\]

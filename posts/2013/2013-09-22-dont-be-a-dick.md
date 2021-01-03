@@ -14,7 +14,7 @@ tags:
   - webcomic
 meta:
   - linked_list_url: "http://kateordiecomics.com/archive/dont-be-a-dick/"
-  - yourls_shorturl: "http://eay.li/27j"
+  - yourls_shorturl: "https://eay.li/27j"
 ---
 
 > There are enough assholes on the internet. Don't be one.

@@ -17,7 +17,7 @@ tags:
   - ipod
   - kunst
 meta:
-  - yourls_shorturl: "http://eay.li/fr"
+  - yourls_shorturl: "https://eay.li/fr"
 ---
 
 An alle männlichen Leser: stellt euch folgende Situation bitte einmal vor – ihr klickt euch auf [YouTube](http://www.youtube.com) durch die Videos und bleibt bei einem hängen, in dem eine hübsche junge Frau im Bikini zu sehen ist. Ihr denkt euch, hey cool, mal eine die nicht nackt ist ( ;) ) und schaut euch das Video an. Was dann folgt wird euch wahrscheinlich verwirren, weil ihr nicht wisst, ob ihr hin- oder wegsehen sollt: die attraktive Amazone mit durchaus zornigen Zügen zerstört euer heißgeliebtes iPhone, den iPod shuffle, oder einen Fernseher (glücklicherweise kein LCD- oder Plasma-TV- Gerät).

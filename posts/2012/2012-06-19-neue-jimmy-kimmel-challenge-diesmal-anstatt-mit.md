@@ -14,7 +14,7 @@ tags:
   - jimmy-kimmel
   - kinder
 meta:
-  - yourls_shorturl: "http://eay.li/1wz"
+  - yourls_shorturl: "https://eay.li/1wz"
   - linked_list_url: "http://www.youtube.com/watch?v=6hs_m46toTc"
 ---
 

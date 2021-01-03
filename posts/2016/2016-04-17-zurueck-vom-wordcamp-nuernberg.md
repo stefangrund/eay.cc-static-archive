@@ -16,7 +16,7 @@ tags:
   - wordpress
 meta:
   - content_copy: "https://www.instagram.com/p/BETwJanHS9i/"
-  - yourls_shorturl: "http://eay.li/2yp"
+  - yourls_shorturl: "https://eay.li/2yp"
 ---
 
 ![](https://eay.cc/uploads/2016/wordcamp-nuernberg.jpg)

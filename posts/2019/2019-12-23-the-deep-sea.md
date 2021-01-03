@@ -18,7 +18,7 @@ meta:
   - linked_list_url: "https://neal.fun/deep-sea/"
   - linked_list_url: "https://neal.fun/deep-sea/"
   - linked_list_url: "https://neal.fun/deep-sea/"
-  - yourls_shorturl: "http://eay.li/3c5"
+  - yourls_shorturl: "https://eay.li/3c5"
 ---
 
 Nach [The Size of Space](https://eay.cc/2019/the-size-of-space/) aus dem letzten Monat hier das nächste höchst interessante Projekt von [Neal Agarwal](https://neal.fun/), bei dem er uns diesmal in die Tiefen der Ozeane scrollen lässt.

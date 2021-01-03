@@ -16,7 +16,7 @@ tags:
   - lernen
   - star-wars
 meta:
-  - yourls_shorturl: "http://eay.li/gr"
+  - yourls_shorturl: "https://eay.li/gr"
 ---
 
 Für Fanboys im Grundschulalter hat Illustrator [Michael Fleming](http://tweedlebop.com/) das [Star Wars ABC](http://www.flickr.com/photos/tweedlebopper/sets/72157600166417445/detail/) kreiert. No more "B is for Ballons", denn hier steht B für Bantha. Toll auch, dass Fleming scheinbar wert darauf gelegt hat, hauptsächlich unbekanntere Namensgeber zu nutzen ("R is for R5-D4"). Hier bei flickr könnt ihr euch [alle Buchstaben samt Erklärung ansehen](http://www.flickr.com/photos/tweedlebopper/sets/72157600166417445/detail/). ([via](http://daringfireball.net/linked/2009/05/26/star-wars-abc))

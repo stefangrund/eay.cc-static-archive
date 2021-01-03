@@ -17,7 +17,7 @@ tags:
   - quantified-self
   - statistik
 meta:
-  - yourls_shorturl: "http://eay.li/1bv"
+  - yourls_shorturl: "https://eay.li/1bv"
 ---
 
 Der [Knuspermagier](http://knuspermagier.de/2011-amazoneinkaufsstatistiken.html) und [Yayayayannick](http://yayayay.org/2011/07/06/amazoneinkaufsstatistik/) haben's vorgemacht, ich mach's (mit einigen Monaten Verspätung) nach: Eine Einkaufsstatistik der letzten Jahre zu _everybody's favorite e-commerce website_ (("e-commerce". Auch so ein furchtbares Buzzword. Benutzt das eigentlich noch irgendwer ernsthaft? "Ich bin e-commerce-Experte.")) [Amazon](http://www.amazon.de/exec/obidos/redirect-home/eayznet-21). Allerdings nur .de; .com und .co.uk wurden von mir nicht berücksichtigt.

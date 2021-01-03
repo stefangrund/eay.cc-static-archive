@@ -18,7 +18,7 @@ tags:
   - poster
   - trigami
 meta:
-  - yourls_shorturl: "http://eay.li/a4"
+  - yourls_shorturl: "https://eay.li/a4"
 ---
 
 ![](/uploads/2008/eayzposter.jpg) Die freundlichen Menschen von [posterXXL](http://www.posterxxl.de/) haben mir per [Trigami](http://www.trigami.com/?ref=Eay) die Möglichkeit gegeben, kostenlos ein Poster bei ihnen produzieren zu lassen. Klar, dass ich mir diese Chance nicht entgehen lassen konnte und klar, dass meine Motivwahl was mit eayz zu tun haben musste. Frei nach dem Motto "Unsere (fiktionalen) Redaktionsräume sollen schöner werden!" habe ich mich für ein Bild aus dem [neulich](//eay.cc/2008/the-museum-of-eayzly-art/) eröffneten [Museum of eayzly Art](http://eay.cc/projekte/eayzlyart/) entschieden.

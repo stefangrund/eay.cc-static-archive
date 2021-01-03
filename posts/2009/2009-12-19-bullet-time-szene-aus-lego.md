@@ -15,7 +15,7 @@ tags:
   - lego
   - the-matrix
 meta:
-  - yourls_shorturl: "http://eay.li/k7"
+  - yourls_shorturl: "https://eay.li/k7"
 ---
 
 > Zehn Jahre nachdem der Film Matrix erschien, haben zwei Fans eine Schlüsselszene mit Lego nachgefilmt. Für eine 44-sekündige Schießerei brauchten sie länger als ein Jahr. ([TAZ](http://www.taz.de/1/leben/internet/artikel/1/die-bausteine-der-matrix/))

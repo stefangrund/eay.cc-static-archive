@@ -14,7 +14,7 @@ tags:
   - musik
   - single
 meta:
-  - yourls_shorturl: "http://eay.li/kd"
+  - yourls_shorturl: "https://eay.li/kd"
 ---
 
 [![](/uploads/2008/kettcargraceland.jpg)](http://www.amazon.de/exec/obidos/ASIN/B0013LTUWE/eayznet-21) [![](/uploads/2008/kettcarsylt.jpg)](http://www.amazon.de/exec/obidos/ASIN/B0014G00HW/eayznet-21)

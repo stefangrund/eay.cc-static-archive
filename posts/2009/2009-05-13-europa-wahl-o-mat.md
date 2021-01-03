@@ -15,7 +15,7 @@ tags:
   - politik
   - wahlen
 meta:
-  - yourls_shorturl: "http://eay.li/ka"
+  - yourls_shorturl: "https://eay.li/ka"
 ---
 
 ![](https://eay.cc/uploads/2009/wahlomateuropa.gif) [Und ihr so?](http://www.wahl-o-mat.de/europa/) (Wer oben CDU stehen hat, braucht gar nicht mehr wiederkommen.)

@@ -15,7 +15,7 @@ tags:
   - kinolog
   - science-fiction
 meta:
-  - yourls_shorturl: "http://eay.li/26"
+  - yourls_shorturl: "https://eay.li/26"
 ---
 
 ![](https://eay.cc/uploads/2009/avatar.jpg)Und dann war da natürlich noch [Avatar](http://www.imdb.com/title/tt0499549/), der letzte große Film des Jahres und - auch auf die Gefahr hin, mein Fazit bereits vorweg zu nehmen - ich bin sogar gewillt, _der_ größte Film des Jahres zu sagen. Und klar: wenn James Cameron, der [selbsternannte](http://www.youtube.com/watch?v=xJp7Wd6Af2A) "König der Welt", nach zwölf Jahren Kinoabstinenz endlich wieder über den Abspann läuft, dann darf man schon mal die Superlative auspacken. Doch um ehrlich zu sein: Trotzdem ließ mich die "Vorberichterstattung" zu Avatar für meine (SciFi-Fanboy-)Verhältnisse außergewöhnlich kalt. Irgendwie haben Comic Con-Panels, Trailer und Previews keinen bleibenden Eindruck hinterlassen, so dass ich in Anbetracht des großen Namens zwar gespannt, aber auch ohne jegliche Erwartung das hiesige, mittlerweile auch mit 3D-Klimbim ausgestattete Kino aufsuchte. (Denn dass man unbedingt dreidimensional nach Pandora aufbrechen sollte, ging auch nicht an mir vorbei.)

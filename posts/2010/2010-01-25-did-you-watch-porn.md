@@ -13,7 +13,7 @@ tags:
   - netzkultur
   - pornographie
 meta:
-  - yourls_shorturl: "http://eay.li/j"
+  - yourls_shorturl: "https://eay.li/j"
 ---
 
 Achtung, die folgende Webseite macht sich eine kleine CSS-Sicherheitslücke des Browsers zu eigen und treibt damit ganz, ganz bösen, aber ziemlich unterhaltsamen Unfug: [http://www.didyouwatchporn.com/](http://www.didyouwatchporn.com/) (via [@derzw3rg](http://twitter.com/derzw3rg/status/8212834393))

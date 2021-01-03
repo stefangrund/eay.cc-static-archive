@@ -16,7 +16,7 @@ tags:
   - yahoo
 meta:
   - linked_list_url: "https://blog.pinboard.in/2017/06/pinboard_acquires_delicious/"
-  - yourls_shorturl: "http://eay.li/2zf"
+  - yourls_shorturl: "https://eay.li/2zf"
 ---
 
 Nach einer verrückten Aneinanderreihung von Übernahmen und Missmanagement hat Delicious a.k.a. del.icio.us heute zum fünften Mal den Besitzer gewechselt und gehört nun zu Pinboard, dem großartigen Delicious-Klon vom ebenso großartigen [Maciej Cegłowski](http://idlewords.com/).

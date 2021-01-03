@@ -14,7 +14,7 @@ tags:
   - google
   - umzug
 meta:
-  - yourls_shorturl: "http://eay.li/tg"
+  - yourls_shorturl: "https://eay.li/tg"
 ---
 
 Der eayz-Feed ist soeben von Google's Feedburner zum Google Feedburner umgezogen (verrückt, nicht wahr?). Falls es also wider Erwarten zu Problemen mit eurem Abonnement kommen sollte, versuche ich euch gerne in den Kommentaren zu helfen. Solange ihr aber [http://eay.cc/feed/](http://eay.cc/feed/) abonniert habt, ist alles paletti. Schätze ich.

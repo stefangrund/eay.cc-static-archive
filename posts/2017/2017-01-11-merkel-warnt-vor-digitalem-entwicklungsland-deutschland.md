@@ -17,7 +17,7 @@ tags:
   - technologie
 meta:
   - linked_list_url: "http://www.sueddeutsche.de/politik/digitalisierung-merkel-deutschland-droht-digitales-entwicklungsland-zu-werden-1.3326389"
-  - yourls_shorturl: "http://eay.li/2w3"
+  - yourls_shorturl: "https://eay.li/2w3"
 ---
 
 > Angela Merkel warnt davor, dass Deutschland zum digitalen Entwicklungsland wird - und zwar wegen eines überzogenen Datenschutzes. \[...\] In Deutschland müsse man sich von dem Prinzip der Datensparsamkeit verabschieden und sich der Verarbeitung großer Datenmengen für neue Produkte öffnen. Daran messe sich auch die Innovationsfähigkeit einer Gesellschaft.

@@ -16,7 +16,7 @@ tags:
   - social-media
   - twitter
 meta:
-  - yourls_shorturl: "http://eay.li/20u"
+  - yourls_shorturl: "https://eay.li/20u"
   - linked_list_url: "https://blog.twitter.com/2012/twitter-photos-put-filter-it"
 ---
 

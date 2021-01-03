@@ -17,7 +17,7 @@ tags:
   - siri
 meta:
   - linked_list_url: "http://delian.io/siri-open-the-garage"
-  - yourls_shorturl: "http://eay.li/2er"
+  - yourls_shorturl: "https://eay.li/2er"
 ---
 
 [Delian Asparouhov](http://delian.io/) hat seinen Garagentorantrieb mit dem Netz verbunden und zwei simple iOS-Apps namens "Open the garage" und "Close the garage" gebaut und voilÃ : Siri kann sein Garagentor bedienen. (via [Aaron Parecki](http://aaronparecki.com/notes/2014/04/06/2/siri))

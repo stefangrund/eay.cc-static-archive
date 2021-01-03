@@ -15,7 +15,7 @@ tags:
   - gif-der-woche
   - tiere
 meta:
-  - yourls_shorturl: "http://eay.li/1aj"
+  - yourls_shorturl: "https://eay.li/1aj"
 ---
 
 ![](https://eay.cc/uploads/2011/peterhorse.gif) Ich hab's [schon gesagt](//eay.cc/2011/review-rundumschlag-16-1/): die Sommerpause ist vorbei. Wie obiges .gif eindrucksvoll beweist, starten wir mit neuem Niveau in die neue Saison.

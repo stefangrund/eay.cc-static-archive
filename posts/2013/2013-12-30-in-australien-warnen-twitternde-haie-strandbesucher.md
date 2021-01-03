@@ -17,7 +17,7 @@ tags:
   - twitter
 meta:
   - linked_list_url: "http://news.sky.com/story/1187066/australia-sharks-use-twitter-to-warn-swimmers"
-  - yourls_shorturl: "http://eay.li/2b7"
+  - yourls_shorturl: "https://eay.li/2b7"
 ---
 
 Großartiger Einsatz von Technologie und Twitter an den Küsten Australiens:

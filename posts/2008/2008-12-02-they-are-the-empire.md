@@ -15,7 +15,7 @@ tags:
   - star-wars
   - urheberrecht
 meta:
-  - yourls_shorturl: "http://eay.li/qu"
+  - yourls_shorturl: "https://eay.li/qu"
 ---
 
 Seien wir doch mal ehrlich: seit Jahren ist fast alles, was aus den heiligen Hallen der [Skywalker Ranch](http://www.insideskywalkerranch.com/skywalker-ranch-tour.htm) kam, also von George Lucas ([hier ein Bild](//eay.cc/2008/georgelucas/)) abgesegnet wurde und den Fans zum Fraß vorgeworfen wurde, absoluter Scheiß. Ich meine: ein [Vader-Toaster](//eay.cc/2008/darth-toast/)? [The Clone Wars](//eay.cc/2008/worst-star-wars-ever/), der wahrscheinlich schlechteste Animationsfilm aller Zeiten? [Indy 4](//eay.cc/2008/shooting-guys-in-the-dick-is-not-cool/) und die Aliens?

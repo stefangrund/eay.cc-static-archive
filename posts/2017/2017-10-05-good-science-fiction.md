@@ -16,7 +16,7 @@ tags:
   - strasenverkehr
   - zukunft
 meta:
-  - yourls_shorturl: "http://eay.li/31g"
+  - yourls_shorturl: "https://eay.li/31g"
 ---
 
 > A good science fiction story should be able to predict not the automobile but the traffic jam.

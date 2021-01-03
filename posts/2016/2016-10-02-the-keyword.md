@@ -15,7 +15,7 @@ tags:
   - netzkultur
 meta:
   - linked_list_url: "https://blog.google/"
-  - yourls_shorturl: "http://eay.li/2v6"
+  - yourls_shorturl: "https://eay.li/2v6"
 ---
 
 Google hat ein neues, schön umgesetztes Blog namens "The Keyword", in dem sie fortan all ihre Blogs vereinen.

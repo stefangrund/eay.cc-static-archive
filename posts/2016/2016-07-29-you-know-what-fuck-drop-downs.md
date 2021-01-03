@@ -15,7 +15,7 @@ tags:
   - vortrag
   - webdesign
 meta:
-  - yourls_shorturl: "http://eay.li/2ut"
+  - yourls_shorturl: "https://eay.li/2ut"
 ---
 
 \[youtube id="hcYAHix-riY"\]

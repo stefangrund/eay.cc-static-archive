@@ -14,7 +14,7 @@ tags:
   - netzkultur
   - piraterie
 meta:
-  - yourls_shorturl: "http://eay.li/15g"
+  - yourls_shorturl: "https://eay.li/15g"
 ---
 
 > I promise never to illegally download a movie if there was a legal alternative following the criteria [on this page](http://www.dontmakemesteal.com/).

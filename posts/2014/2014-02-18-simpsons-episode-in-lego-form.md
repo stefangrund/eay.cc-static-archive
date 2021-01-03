@@ -17,7 +17,7 @@ tags:
   - simpsons
 meta:
   - linked_list_url: "http://www.theguardian.com/media/2014/feb/17/lego-movie-simpsons-episode-futurama"
-  - yourls_shorturl: "http://eay.li/2d2"
+  - yourls_shorturl: "https://eay.li/2d2"
 ---
 
 > For the 550th episode of the show, titled "Brick Like Me", Homer wakes up to find that everyone in Springfield is made of Lego. He then has to "put together" how he got there and work out how to get home.

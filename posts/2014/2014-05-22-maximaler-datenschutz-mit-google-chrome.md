@@ -18,7 +18,7 @@ tags:
   - privatsphare
 meta:
   - linked_list_url: "https://mkln.org/2014/05/maximaler-datenschutz-mit-google-chrome/"
-  - yourls_shorturl: "http://eay.li/2g2"
+  - yourls_shorturl: "https://eay.li/2g2"
 ---
 
 Gute, detaillierte Anleitung von [@mkalina](https://twitter.com/mkalina/).

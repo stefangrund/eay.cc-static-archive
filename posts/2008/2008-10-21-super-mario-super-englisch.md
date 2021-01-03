@@ -17,7 +17,7 @@ tags:
   - retro
   - super-mario
 meta:
-  - yourls_shorturl: "http://eay.li/rz"
+  - yourls_shorturl: "https://eay.li/rz"
 ---
 
 Da war ich doch neulich auf der Suche nach einem handlichen Englisch-Wörterbuch in meinem verstaubten Schulbuchschrank unterwegs. Zwischen den NoNames, Oxfords, Langenscheidts und Ponsen von Sprachen, an deren Erlernen ich mich nicht mal mehr erinnern kann und dies dementsprechend stark bezweifele, fand ich dann diesen bizarren Beweis dafür, dass man bei Langenscheidt schon lange vor [Deutsch-Frau / Frau-Deutsch](http://www.amazon.de/exec/obidos/ASIN/3468731221/eayznet-21) auf Lizenz-Wörterbücher und Marios gesetzt hat: ![](/uploads/2008/superenglisch.jpg) Dieses für Englisch-Anfänger, also zumeist Kinder, konzipierte Wörterbuch erschien laut Angaben im Buch erstmals 1993 und wurde scheinbar ein letztes Mal 1997 in fünfter Auflage veröffentlicht. Ich denke, wir können daraus schließen, dass Eltern, Onkels und Tanten von der Idee begeistert waren, ihre Schützlinge mit dem kleinen Klempner, der eh schon die Freizeit der "Kids" beanspruchte, an die neue Fremdsprache heranzuführen.

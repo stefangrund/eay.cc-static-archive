@@ -16,7 +16,7 @@ tags:
   - selfies
 meta:
   - linked_list_url: "http://feelingcagey.com/"
-  - yourls_shorturl: "http://eay.li/29s"
+  - yourls_shorturl: "https://eay.li/29s"
 ---
 
 Ein Echtzeit-Stream von Selfies auf Instagram - allesamt Nic-Cage-isiert™. (via [Waxy](http://waxy.org/links/))

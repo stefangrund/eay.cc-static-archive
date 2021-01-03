@@ -15,7 +15,7 @@ tags:
   - wikipedia
 meta:
   - linked_list_url: "https://en.wikipedia.org/wiki/List_of_stories_set_in_a_future_now_past"
-  - yourls_shorturl: "http://eay.li/3br"
+  - yourls_shorturl: "https://eay.li/3br"
   - geo_latitude: "55.958524494854"
   - geo_longitude: "-3.1989186552926"
   - geo_public: "1"

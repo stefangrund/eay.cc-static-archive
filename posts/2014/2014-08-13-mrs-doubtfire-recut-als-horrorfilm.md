@@ -15,7 +15,7 @@ tags:
   - robin-williams-2
   - trailer
 meta:
-  - yourls_shorturl: "http://eay.li/2i1"
+  - yourls_shorturl: "https://eay.li/2i1"
 ---
 
 \[youtube id="1Ckv\_Dz-Sio"\]

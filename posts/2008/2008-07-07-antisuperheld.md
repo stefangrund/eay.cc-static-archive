@@ -15,7 +15,7 @@ tags:
   - twist
   - will-smith
 meta:
-  - yourls_shorturl: "http://eay.li/d5"
+  - yourls_shorturl: "https://eay.li/d5"
 ---
 
 ![](/uploads/2008/hancock.jpg)Pünktlich am Freitag habe ich mir das vermeintlich beste angesehen, was die Filmbranche diese Woche zu bieten hat: [Hancock](http://www.imdb.com/title/tt0448157/), "der neue Will Smith-Film". Darum geht's: Will Smith ist John Hancock, ein Superheld, der nicht weiß, wer er ist und wo er herkommt, weshalb er seine Zuflucht im Alkohol gefunden hat. Nicht gerade verwunderlich, dass er bei seinen "Missionen" dementsprechend die halbe Stadt verwüstet und Passanten anpöbelt. Als er jedoch dem PR-Berater Ray das Leben rettet, revanchiert dieser sich, indem er Hancocks Image aufbessert: Entzug und Knastaufenthalt solange bis die Bevölkerung ihn wegen der steigenden Kriminalitätsrate vermissen wird. Nach seiner 180Â°-Drehung trägt Hancock ein Superhelden-gerechtes Outfit und rettet verlässig Menschenleben. Doch dann betritt ein weiterer Superheld die Bühne...

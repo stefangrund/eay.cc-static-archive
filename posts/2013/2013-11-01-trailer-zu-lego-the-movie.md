@@ -15,7 +15,7 @@ tags:
   - lego
   - trailer
 meta:
-  - yourls_shorturl: "http://eay.li/295"
+  - yourls_shorturl: "https://eay.li/295"
 ---
 
 Das sieht so bizarr aus, eigentlich kann das nur was werden:

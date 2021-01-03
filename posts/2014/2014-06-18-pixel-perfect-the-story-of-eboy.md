@@ -16,7 +16,7 @@ tags:
   - pixelart
 meta:
   - linked_list_url: "http://www.theverge.com/2014/6/17/5803850/pixel-perfect-the-story-of-eboy"
-  - yourls_shorturl: "http://eay.li/2h3"
+  - yourls_shorturl: "https://eay.li/2h3"
 ---
 
 Ich habe das Verge-Feature über die Berliner Pixeltruppe [eBoy](http://hello.eboy.com/eboy/) ja schon vor ein paar Tagen [auf Twitter angekündigt](https://twitter.com/eay/status/477508298762383360), jetzt ist es in Form eines ausführlichen Artikels und einer netten und vor allem nett animierten Mini-Doku da. Für mich als eBoy-FanBoy natürlich ein Must-Read & -See.

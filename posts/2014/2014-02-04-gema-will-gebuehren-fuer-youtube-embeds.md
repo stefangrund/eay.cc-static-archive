@@ -17,7 +17,7 @@ tags:
   - youtube
 meta:
   - linked_list_url: "http://www.golem.de/news/urheberrecht-auch-die-gema-fordert-geld-fuer-youtube-einbettungen-1402-104358.html"
-  - yourls_shorturl: "http://eay.li/2cs"
+  - yourls_shorturl: "https://eay.li/2cs"
 ---
 
 > "A HREF" ist kein Problem, "Video SRC" soll dagegen bald Geld kosten. Dies fordert nun auch die deutsche Gema. Danach soll das Einbetten von urheberrechtlich geschützten Youtube-Videos eine Lizenz kosten.

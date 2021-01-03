@@ -15,7 +15,7 @@ tags:
   - games
   - retro
 meta:
-  - yourls_shorturl: "http://eay.li/31n"
+  - yourls_shorturl: "https://eay.li/31n"
 ---
 
 ![](https://eay.cc/uploads/2017/blade-runner-game.jpg)Die Sichtung von »[Blade Runner 2049](https://eay.cc/2017/blade-runner-2049-2017/)« hat mir – wie auch jede Sichtung des Originals –, eines der besten Gaming­erlebnisse meiner Jugend ((Hach, damals™ 😘)) in Erinnerung gerufen: Westwoods offiziell lizensiertes [Blade Runner-Game](https://en.wikipedia.org/wiki/Blade_Runner_(1997_video_game)) von 1997.

@@ -16,7 +16,7 @@ tags:
   - politik
   - usa
 meta:
-  - yourls_shorturl: "http://eay.li/38h"
+  - yourls_shorturl: "https://eay.li/38h"
   - content_copy: "https://twitter.com/eay/status/1081832745117122561"
 ---
 

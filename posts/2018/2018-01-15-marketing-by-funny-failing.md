@@ -16,7 +16,7 @@ tags:
   - technologie
 meta:
   - linked_list_url: "http://spiegel.de/netzwelt/gadgets/sprachsteuerung-im-alltag-ohne-geht-es-nicht-mehr-kolumne-a-1187056.html"
-  - yourls_shorturl: "http://eay.li/337"
+  - yourls_shorturl: "https://eay.li/337"
 ---
 
 In der letzten Kolumne von Sascha Lobo ging es um die Revolution der Interaktion von Mensch und Maschine durch Sprachassistenten wie Alexa und Google Home. So unstrittig, wie absehbar.

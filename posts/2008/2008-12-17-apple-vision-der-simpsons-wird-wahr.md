@@ -15,7 +15,7 @@ tags:
   - macworld
   - simpsons
 meta:
-  - yourls_shorturl: "http://eay.li/5e"
+  - yourls_shorturl: "https://eay.li/5e"
 ---
 
 ![](/uploads/2008/stevemobbs.jpg)

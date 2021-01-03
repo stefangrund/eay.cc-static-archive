@@ -13,7 +13,7 @@ tags:
   - 2012
   - wikipedia
 meta:
-  - yourls_shorturl: "http://eay.li/215"
+  - yourls_shorturl: "https://eay.li/215"
   - linked_list_url: "http://toolserver.org/~johang/2012.html"
 ---
 

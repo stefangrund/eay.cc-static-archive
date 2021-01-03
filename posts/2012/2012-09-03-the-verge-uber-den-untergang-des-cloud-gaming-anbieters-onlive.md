@@ -14,7 +14,7 @@ tags:
   - games
   - the-verge
 meta:
-  - yourls_shorturl: "http://eay.li/1yd"
+  - yourls_shorturl: "https://eay.li/1yd"
   - linked_list_url: "http://www.theverge.com/2012/8/28/3274739/onlive-report"
 ---
 

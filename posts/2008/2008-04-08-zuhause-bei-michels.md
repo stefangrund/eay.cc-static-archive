@@ -12,7 +12,7 @@ tags:
   - musik
   - trigami
 meta:
-  - yourls_shorturl: "http://eay.li/p5"
+  - yourls_shorturl: "https://eay.li/p5"
 ---
 
 \[[Trigami-Review](http://www.trigami.com?blog=http://eay.cc/)\]

@@ -16,7 +16,7 @@ tags:
   - star-trek
   - star-wars
 meta:
-  - yourls_shorturl: "http://eay.li/xx"
+  - yourls_shorturl: "https://eay.li/xx"
 ---
 
 ![](/uploads/2007/lucasabrams.jpg) [Clash of the Fanboys](//eay.cc/2007/clash-of-the-fanboys/) - ich hab es euch ja gesagt! (Foto von [Joi Ito](http://www.flickr.com/photos/joi/1088700233/))

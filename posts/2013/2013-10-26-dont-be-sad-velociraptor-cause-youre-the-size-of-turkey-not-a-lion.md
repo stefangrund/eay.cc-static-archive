@@ -15,7 +15,7 @@ tags:
   - jurassic-park
   - musik
 meta:
-  - yourls_shorturl: "http://eay.li/28x"
+  - yourls_shorturl: "https://eay.li/28x"
 ---
 
 \[youtube id="eU97SKDX3os"\]

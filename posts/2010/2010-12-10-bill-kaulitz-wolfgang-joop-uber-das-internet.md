@@ -13,7 +13,7 @@ tags:
   - bizarres
   - netzkultur
 meta:
-  - yourls_shorturl: "http://eay.li/137"
+  - yourls_shorturl: "https://eay.li/137"
 ---
 
 \[youtube id="aKV2VkINt98"\]

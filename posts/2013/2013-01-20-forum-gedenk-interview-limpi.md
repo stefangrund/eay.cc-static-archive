@@ -13,7 +13,7 @@ tags:
   - forum
   - forum-gedenk-interview
 meta:
-  - yourls_shorturl: "http://eay.li/1rw"
+  - yourls_shorturl: "https://eay.li/1rw"
 ---
 
 Vor ziemlich genau fünf Jahren wurde das eayz.net Forum geschlossen, das bis dahin einer kleinen, aber außerordentlich feinen Community ein digitales Dach über dem Kopf bot. [Im Gedenken ans Forum](//eay.cc/2013/remembering-das-forum/) habe ich mich gefragt, was die Leute, die hier damals zum Mobiliar gehörten, heute eigentlich so machen. Ein paar Emails später hatte ich dankenswerterweise einige interessante Antworten zusammen. [Unter anderem](//eay.cc/tag/forum-gedenk-interview/) von Kira, deren Netz-Pseudonym Limpi lautet, und die mich schon doppelt so lange begleitet, wie das Forum existierte.

@@ -14,7 +14,7 @@ tags:
   - kreativitat
 meta:
   - linked_list_url: "http://foryourself.co/"
-  - yourls_shorturl: "http://eay.li/2jd"
+  - yourls_shorturl: "https://eay.li/2jd"
 ---
 
 Daniel Agee hat beim [diesjährigen XOXO-Festival](http://2014.xoxofest.com/) 80 Teilnehmern folgende Frage gestellt: "What is it you do or make only for yourself?" Ihre Antworten und ein Porträt hat er hier festgehalten.

@@ -18,7 +18,7 @@ tags:
   - politik
 meta:
   - linked_list_url: "http://frank-stauss.de/index.php/verdruckst-verlogen-und-verzockt/"
-  - yourls_shorturl: "http://eay.li/2zv"
+  - yourls_shorturl: "https://eay.li/2zv"
 ---
 
 [Frank Stauss](http://frank-stauss.de/), Politologe, Werber und Wahlkämpfer, über Merkels "Vorstoß" in der Gleichstellung der Ehe für homosexuelle Paare:

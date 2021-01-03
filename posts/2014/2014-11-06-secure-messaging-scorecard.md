@@ -18,7 +18,7 @@ tags:
   - ueberwachung
 meta:
   - linked_list_url: "https://www.eff.org/de/secure-messaging-scorecard"
-  - yourls_shorturl: "http://eay.li/2kj"
+  - yourls_shorturl: "https://eay.li/2kj"
 ---
 
 Die EFF hat die Sicherheitsaspekte verschiedener Messaging-Apps und -Dienste gegenüber gestellt. iMessage und Facetime schneiden ganz gut ab, ebenso Threema ([meine ID steht hier](//eay.cc/2014/meine-threema-id/)). Hauptsache ist, ihr kehrt dem Facebook-Konglomerat den Rücken zu. Blaue Häkchen hin oder her.

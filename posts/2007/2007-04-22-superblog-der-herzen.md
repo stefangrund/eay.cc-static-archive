@@ -11,7 +11,7 @@ tags:
   - eayz
   - nominierung
 meta:
-  - yourls_shorturl: "http://eay.li/fq"
+  - yourls_shorturl: "https://eay.li/fq"
 ---
 
 ![](/uploads/2007/superblog.gif "eayz, das Superblog der Herzen") Leute, [Superblog der Herzen](http://eay.cc/), das wär doch nicht nötig gewesen. Das ist ja schon fast zuviel des Guten. Wenn ich euch nicht hätte?! Und auch noch so eindeutig - ein großes Dankeschön! Außerdem möchte ich meiner Freundin, meiner Familie und meinen Freunden, die mich immer unterstützt haben, danken - ihr steht heute mit mir hier oben! Woo yay! 

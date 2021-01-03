@@ -17,7 +17,7 @@ tags:
   - franz-walter-steinmeier
   - wahlkampf
 meta:
-  - yourls_shorturl: "http://eay.li/3y"
+  - yourls_shorturl: "https://eay.li/3y"
 ---
 
 Ihr erinnert euch sicherlich an die [Gum Election 2008](//eay.cc/2008/kaugummiwahl/), bei der Poster mit der Frage, welcher US-Präsidentschaftskandidat ätzender ist, an öffentlichen Orten aufgehängt wurden und die vorbeiziehenden Menschen mit ihren Kaugummis abstimmten. Ein entsprechendes Poster [gibt's jetzt auch](http://gumelection2009.wordpress.com/) für die bevorstehende Bundestagswahl:

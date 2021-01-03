@@ -15,7 +15,7 @@ tags:
   - koeln
   - kunst
 meta:
-  - yourls_shorturl: "http://eay.li/2ua"
+  - yourls_shorturl: "https://eay.li/2ua"
 ---
 
 ![](https://eay.cc/uploads/2016/eboy-wohnzimmer.jpg)

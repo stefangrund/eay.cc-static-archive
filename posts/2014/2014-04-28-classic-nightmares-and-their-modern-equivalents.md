@@ -14,7 +14,7 @@ tags:
   - webcomic
 meta:
   - linked_list_url: "http://www.collegehumor.com/post/6879077/6-classic-nightmares-and-their-modern-equivalents"
-  - yourls_shorturl: "http://eay.li/2f0"
+  - yourls_shorturl: "https://eay.li/2f0"
 ---
 
 [![](https://eay.cc/uploads/2014/modernnightmares.jpg)](http://www.collegehumor.com/post/6879077/6-classic-nightmares-and-their-modern-equivalents)

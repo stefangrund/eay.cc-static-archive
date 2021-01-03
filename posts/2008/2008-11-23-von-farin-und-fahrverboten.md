@@ -15,7 +15,7 @@ tags:
   - konzerte
   - musik
 meta:
-  - yourls_shorturl: "http://eay.li/cp"
+  - yourls_shorturl: "https://eay.li/cp"
 ---
 
  ([YouTube Direktsymbolvideo](http://www.youtube.com/watch?v=VRBdXmP8qxA) vom Konzert des Vortages, auch im Kölner Palladium)

@@ -16,7 +16,7 @@ tags:
   - ios
   - motu
 meta:
-  - yourls_shorturl: "http://eay.li/1ze"
+  - yourls_shorturl: "https://eay.li/1ze"
   - linked_list_url: "http://www.he-man.org/news_article.php?id=2943"
 ---
 

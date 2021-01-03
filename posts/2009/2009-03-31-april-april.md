@@ -14,7 +14,7 @@ tags:
   - nachrichten
   - netzkultur
 meta:
-  - yourls_shorturl: "http://eay.li/8p"
+  - yourls_shorturl: "https://eay.li/8p"
 ---
 
 Die Headlines des Tages. Bisher hätten wir da:

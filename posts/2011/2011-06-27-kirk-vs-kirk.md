@@ -13,7 +13,7 @@ tags:
   - star-trek
   - william-shatner
 meta:
-  - yourls_shorturl: "http://eay.li/19c"
+  - yourls_shorturl: "https://eay.li/19c"
 ---
 
 ![](https://eay.cc/uploads/2011/kirkvskirk.jpg)

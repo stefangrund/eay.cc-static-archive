@@ -13,7 +13,7 @@ tags:
   - app-net
   - monetarisierung
 meta:
-  - yourls_shorturl: "http://eay.li/1ms"
+  - yourls_shorturl: "https://eay.li/1ms"
 ---
 
 Während Twitter zurzeit bekanntlich im Wochentakt lieb gewonnene Features streicht, vergeht beim kostenpflichtigen Underdog [App.net](//eay.cc/tag/app-net/) kaum eine Woche, in der keine Neuerungen vorgestellt werden. Die letzten zwei davon sind nicht nur für die anwesenden Sparkassenfinanzoptimierer (ja, ich weiß wer ihr seid) interessant:

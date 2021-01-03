@@ -19,7 +19,7 @@ tags:
   - video-essay
   - wonder-woman
 meta:
-  - yourls_shorturl: "http://eay.li/2y2"
+  - yourls_shorturl: "https://eay.li/2y2"
 ---
 
 \[youtube id="j73IkjslvoM"\]

@@ -17,7 +17,7 @@ tags:
   - sexman
   - youtube
 meta:
-  - yourls_shorturl: "http://eay.li/r1"
+  - yourls_shorturl: "https://eay.li/r1"
 ---
 
 ![](/uploads/2008/ramborev.jpg)Am 14. Februar, dem Tag der Liebe, kommt der neue [Rambo](http://www.imdb.com/title/tt0462499/), sicherlich einer der liebenswertesten Liebesfilme aller Zeiten, hierzulande in die Kinos. In den USA ist der Film bereits vergangenes Wochenende angelaufen. Auch der 54 Jahre alte YouTube-User [Sexman](http://www.youtube.com/user/Pruane2Forever) (siehe Foto), der seinen Lebensunterhalt mit seiner Firma "Gang Bang Prodouctions" bestreitet, hat sich Rambo IV angesehen.

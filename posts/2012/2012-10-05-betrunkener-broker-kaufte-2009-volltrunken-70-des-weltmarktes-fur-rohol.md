@@ -14,7 +14,7 @@ tags:
   - smart-phones-stupid-people
   - wirtschaft
 meta:
-  - yourls_shorturl: "http://eay.li/1z7"
+  - yourls_shorturl: "https://eay.li/1z7"
   - linked_list_url: "http://www.cnbc.com/id/49197769"
 ---
 

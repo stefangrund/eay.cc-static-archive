@@ -16,7 +16,7 @@ tags:
   - zukunft
 meta:
   - linked_list_url: "http://www.openculture.com/2014/01/isaac-asimov-predicts-what-the-world-will-look-in-2014.html"
-  - yourls_shorturl: "http://eay.li/2b9"
+  - yourls_shorturl: "https://eay.li/2b9"
 ---
 
 Und ist erstaunlich nah dran.

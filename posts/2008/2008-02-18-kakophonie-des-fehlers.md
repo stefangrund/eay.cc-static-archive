@@ -16,7 +16,7 @@ tags:
   - mp3
   - windows
 meta:
-  - yourls_shorturl: "http://eay.li/7o"
+  - yourls_shorturl: "https://eay.li/7o"
 ---
 
 Dass man den Fehlern unserer Betriebssysteme auch etwas positives, gar inspirierendes abgewinnen kann, zeigen die beiden folgenden so genannten Error Songs (zum Teil [via](http://www.fscklog.com/2008/02/die-kakophonie.html)):

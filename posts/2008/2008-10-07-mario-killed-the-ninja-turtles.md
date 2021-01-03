@@ -12,7 +12,7 @@ tags:
   - ninja-turtles
   - super-mario
 meta:
-  - yourls_shorturl: "http://eay.li/bk"
+  - yourls_shorturl: "https://eay.li/bk"
 ---
 
 ![](/uploads/2008/marioturtles.jpg) Der Nintendo-Klempner hat die falschen Schildkröten eingestampft... ([via](http://geekadelphia.com/2008/10/01/marios-unfortunate-mistake/))

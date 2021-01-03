@@ -13,7 +13,7 @@ tags:
   - comics
   - urlaub
 meta:
-  - yourls_shorturl: "http://eay.li/1ak"
+  - yourls_shorturl: "https://eay.li/1ak"
 ---
 
 ![](https://eay.cc/uploads/2011/urlaubslektuere.jpg) Falls sich jemand von euch fragt, was ich zur Zeit so lese - und sind wir mal ehrlich, das ist die Frage, die euch alle nächtelang wach hält –, obige Bücher und Comics habe ich mir für den Urlaub vorgenommen. Zwar noch nicht alle geschafft, aber auch kein Problem, es gibt ja Nachtlichter.

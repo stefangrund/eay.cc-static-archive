@@ -15,7 +15,7 @@ tags:
   - puppen
   - queen
 meta:
-  - yourls_shorturl: "http://eay.li/er"
+  - yourls_shorturl: "https://eay.li/er"
 ---
 
 Wir [bleiben](//eay.cc/2009/the-beatles-in-the-year-3000/) bei Musik. Und zwar weiterhin bei englischer Musik - nämlich von Queen, der zweitbesten Band, die die Insel jemals hervorgebracht hat. Performt von niemand geringerem als den Figuren der besten Fernsehshow, die Großbritannien (okay, zusammen mit den US of A) jemals hervorgebracht hat: [den Muppets](//eay.cc/tag/muppets/). Fehlen nur noch Sean Connery, Katie Price und Roy.

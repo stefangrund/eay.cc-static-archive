@@ -14,7 +14,7 @@ tags:
   - google
   - webservice
 meta:
-  - yourls_shorturl: "http://eay.li/23j"
+  - yourls_shorturl: "https://eay.li/23j"
   - linked_list_url: "http://www.macstories.net/news/google-launches-hangouts-messaging-service-for-ios-android-and-web/"
 ---
 

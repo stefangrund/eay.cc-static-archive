@@ -16,7 +16,7 @@ tags:
   - reddit
 meta:
   - linked_list_url: "http://www.reddit.com/r/IAmA/comments/1vhjag/bill_murray_here_ok_ill_talk_ill_talk/"
-  - yourls_shorturl: "http://eay.li/2c1"
+  - yourls_shorturl: "https://eay.li/2c1"
 ---
 
 Bestes AMA seit langem. [Bill fucking Murray](http://youtube.com/watch?v=KugiqORzaPs). (via [PewPewPew](http://www.pewpewpew.de/2014/01/18/bill-murrays-ama-and-how-he-got-to-make-garfield/))

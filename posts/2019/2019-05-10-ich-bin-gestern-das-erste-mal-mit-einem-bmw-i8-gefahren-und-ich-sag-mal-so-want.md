@@ -14,7 +14,7 @@ tags:
   - bmw
 meta:
   - content_copy: "https://www.instagram.com/p/BxRdjoXH9US/"
-  - yourls_shorturl: "http://eay.li/3a8"
+  - yourls_shorturl: "https://eay.li/3a8"
   - content_copy: "https://twitter.com/eay/status/1126744167923585024"
   - content_copy: "https://eay.social/@eay/102070466405989258"
 ---

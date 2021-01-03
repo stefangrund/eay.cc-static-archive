@@ -15,7 +15,7 @@ tags:
   - robot-chicken
   - star-wars
 meta:
-  - yourls_shorturl: "http://eay.li/7x"
+  - yourls_shorturl: "https://eay.li/7x"
 ---
 
 ![](/uploads/2008/robotchickenstarwars2.jpg "Â© Eigentum des Studios/Vertriebes")

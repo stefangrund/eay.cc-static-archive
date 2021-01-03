@@ -17,7 +17,7 @@ tags:
   - psp
   - sega
 meta:
-  - yourls_shorturl: "http://eay.li/77"
+  - yourls_shorturl: "https://eay.li/77"
 ---
 
 ![](/uploads/2008/pspdreamcast.jpg) Als ich gerade die auch hier verwendete Überschrift [bei OniPepper](http://onipepper.de/2008/07/29/dreamcast-spiele-auf-der-psp/), meinem Lieblings-Game-News-Blog, erblickte, hätte ich fast den nächsten Elektronikmarkt gestürmt und mir eine PSP gekauft. Denn da hat doch tatsächlich jemand den Dreamcast-Emulator [nullDC](http://en.wikipedia.org/wiki/NullDC) für Sonys Handheld portiert!

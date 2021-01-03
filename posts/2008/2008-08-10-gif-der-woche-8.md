@@ -13,7 +13,7 @@ tags:
   - gif-der-woche
   - william-shatner
 meta:
-  - yourls_shorturl: "http://eay.li/mw"
+  - yourls_shorturl: "https://eay.li/mw"
 ---
 
 ![](/uploads/2008/shatner.gif) Because William Shatner is evil!

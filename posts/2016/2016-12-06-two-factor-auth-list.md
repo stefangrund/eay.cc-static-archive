@@ -15,7 +15,7 @@ tags:
   - technologie
 meta:
   - linked_list_url: "https://twofactorauth.org/"
-  - yourls_shorturl: "http://eay.li/2vl"
+  - yourls_shorturl: "https://eay.li/2vl"
 ---
 
 > List of websites and whether or not they support 2FA.

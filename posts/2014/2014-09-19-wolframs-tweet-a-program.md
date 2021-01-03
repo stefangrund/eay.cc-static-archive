@@ -14,7 +14,7 @@ tags:
   - twitterbot
 meta:
   - linked_list_url: "http://blog.wolfram.com/2014/09/18/introducing-tweet-a-program/"
-  - yourls_shorturl: "http://eay.li/2j7"
+  - yourls_shorturl: "https://eay.li/2j7"
 ---
 
 > Compose a tweet-length Wolfram Language program, and tweet it to [@WolframTaP](https://twitter.com/wolframtap). Our Twitter bot will run your program in the Wolfram Cloud and tweet back the result.

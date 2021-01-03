@@ -17,7 +17,7 @@ tags:
   - star-wars
   - star-wars-uncut
 meta:
-  - yourls_shorturl: "http://eay.li/1mm"
+  - yourls_shorturl: "https://eay.li/1mm"
 ---
 
 Ich hatte es ja bereits mit [meinem R2-Kopf-Foto](//eay.cc/2012/r2-d2s-kopf/) angekündigt: Wir haben eine Szene für »[Empire Uncut](//eay.cc/2012/empire-uncut/)« gedreht, dem Crowdsourcing-Projekt von [Casey Pugh](http://caseypugh.com/), bei dem »The Empire strikes back« in hunderte 15 Sekunden kurze Clips aufgeteilt wird und diese von [Star Wars](//eay.cc/tag/star-wars/)\-Fans aus aller Welt nachgefilmt werden.

@@ -14,7 +14,7 @@ tags:
   - filme
   - sequel
 meta:
-  - yourls_shorturl: "http://eay.li/31f"
+  - yourls_shorturl: "https://eay.li/31f"
 ---
 
 Dass James Cameron sein SciFi-Meisterwerk »[Avatar](https://eay.cc/2009/review-avatar-aufbruch-nach-pandora/)« mit zwei Sequels beehren wird, wusste ich. Dass es insgesamt vier Fortsetzungen sein sollen, die mit drei Jahren Unterbrechung von 2020 bis 2025 in die Kinos kommen, war mir neu:

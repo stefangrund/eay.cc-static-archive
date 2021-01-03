@@ -19,10 +19,10 @@ tags:
   - url-shortener
   - yourls
 meta:
-  - yourls_shorturl: "http://eay.li/urls"
+  - yourls_shorturl: "https://eay.li/urls"
 ---
 
-Vor über einem Jahr, am 17. Mai 2010, habe ich mit [eay.li](http://eay.li/) meinen eigenen URL-Shortener gestartet. Seitdem habe ich mehr als 1.500 URLs durch das eay.li-Admin-Panel gejagt, die insgesamt mehr als 70.000 Mal angeklickt wurden. Zusätzlich zu den rund 200 Links auf externe, nicht von mir erstellte Webseiten (die den Großteil der Klicks ausmachen), habe ich seitdem und auch rückwirkend alle Blogeinträge von [eayz.net](http://eay.cc/) mit einer eigenen, kleinen Short-URL ausgestattet.
+Vor über einem Jahr, am 17. Mai 2010, habe ich mit [eay.li](https://eay.li/) meinen eigenen URL-Shortener gestartet. Seitdem habe ich mehr als 1.500 URLs durch das eay.li-Admin-Panel gejagt, die insgesamt mehr als 70.000 Mal angeklickt wurden. Zusätzlich zu den rund 200 Links auf externe, nicht von mir erstellte Webseiten (die den Großteil der Klicks ausmachen), habe ich seitdem und auch rückwirkend alle Blogeinträge von [eayz.net](http://eay.cc/) mit einer eigenen, kleinen Short-URL ausgestattet.
 
 Und da ich alle paar Wochen gefragt werde, warum ich einen URL-Verkürzungsdienst mein Eigen nenne und wie man sowas aufsetzt, will ich das heute mal ansprechen. Die Gründe weshalb ich mich damals™ gegen [bit.ly](https://bit.ly/), [goo.gl](http://goo.gl/) & Co. und für eine eigene Lösung entschieden habe, waren folgende:
 
@@ -38,4 +38,4 @@ Jedenfalls halten wir fest: mehr Marke, mehr Klicks, mehr Kontrolle. Also durch 
 
 Also? Also: Wer es bis hierhin ausgehalten hat, hat keine Ausrede mehr - er braucht einen eigenen URL-Shortener, vor allem wenn man nicht nur ein popeliges Blog, sondern das ganz große Web-Business betreibt. IMHO zumindest. Und mit YOURLS, meiner _weapon of choice_, seit ihr im harten Verkürzungsgeschäft gut gewappnet.
 
-Ach ja, und zur Feier des Tages habe ich eay.li [eine Startseite spendiert](http://eay.li/).
+Ach ja, und zur Feier des Tages habe ich eay.li [eine Startseite spendiert](https://eay.li/).

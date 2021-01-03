@@ -14,7 +14,7 @@ tags:
   - liveticker
   - oscars
 meta:
-  - yourls_shorturl: "http://eay.li/el"
+  - yourls_shorturl: "https://eay.li/el"
 ---
 
 Hier der aktuelle und endgültige Stand bzgl. [meiner Prognose](//eay.cc/2010/oscar-prognose-2010/):

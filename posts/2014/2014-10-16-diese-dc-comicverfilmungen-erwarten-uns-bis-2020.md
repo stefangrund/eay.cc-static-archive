@@ -18,7 +18,7 @@ tags:
   - superhelden
   - superman
 meta:
-  - yourls_shorturl: "http://eay.li/2jy"
+  - yourls_shorturl: "https://eay.li/2jy"
   - linked_list_url: "http://www.comicbookresources.com/?page=article&id=56322"
 ---
 

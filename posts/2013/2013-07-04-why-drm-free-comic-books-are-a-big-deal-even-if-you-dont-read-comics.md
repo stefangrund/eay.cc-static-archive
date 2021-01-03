@@ -17,7 +17,7 @@ tags:
   - piraterie
 meta:
   - linked_list_url: "http://arstechnica.com/staff/2013/07/why-drm-free-comic-books-are-a-big-deal-even-if-you-dont-read-comics/"
-  - yourls_shorturl: "http://eay.li/24t"
+  - yourls_shorturl: "https://eay.li/24t"
 ---
 
 Image hat vorgestern erfreulicherweise angekündigt, die hauseigenen Digitalcomics, fortan DRM-frei in den gängigsten Formaten zu verkaufen:

@@ -15,7 +15,7 @@ tags:
   - kinolog
   - marvel
 meta:
-  - yourls_shorturl: "http://eay.li/2y0"
+  - yourls_shorturl: "https://eay.li/2y0"
 ---
 
 ![](https://eay.cc/uploads/2017/guardians-of-the-galaxy-vol2.jpg)Nicht nur dass »[Guardians of the Galaxy](http://www.imdb.com/title/tt2015381/)« 2014 aus dem Stand in die Top 2 der Marvel-Filme einstieg, nein, Regisseur und Autor [James Gunn](https://en.wikipedia.org/wiki/James_Gunn) schaffte damit auch noch das Unmögliche, indem er im streng reglementierten Marvel-Kosmos einen Film mit Herz und Seele produzierte, der durch seine ungewöhnliche Figuren, seinen Witz und seine unzähligen Popkultur­referenzen bestechen konnte. Wie sollte [Volume 2](http://www.imdb.com/title/tt3896198/) das toppen können?

@@ -17,7 +17,7 @@ tags:
   - streaming
 meta:
   - linked_list_url: "https://www.visualcapitalist.com/how-many-music-streams-to-earn-a-dollar/"
-  - yourls_shorturl: "http://eay.li/3bz"
+  - yourls_shorturl: "https://eay.li/3bz"
   - content_copy: "https://twitter.com/eay/status/1196160909686853638"
   - content_copy: "https://eay.social/@eay/103155107039236981"
 ---

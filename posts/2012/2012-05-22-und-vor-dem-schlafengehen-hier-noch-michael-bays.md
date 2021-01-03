@@ -14,7 +14,7 @@ tags:
   - video
   - werbung
 meta:
-  - yourls_shorturl: "http://eay.li/1xi"
+  - yourls_shorturl: "https://eay.li/1xi"
   - linked_list_url: "http://www.youtube.com/watch?v=JBP2jkcewRk"
 ---
 

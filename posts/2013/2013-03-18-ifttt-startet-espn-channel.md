@@ -16,7 +16,7 @@ tags:
   - web-2-0
   - webservice
 meta:
-  - yourls_shorturl: "http://eay.li/22b"
+  - yourls_shorturl: "https://eay.li/22b"
   - linked_list_url: "http://thenextweb.com/insider/2013/03/18/after-olympics-pilot-ifttt-launches-espn-channel-to-help-you-track-sports-teams-scores-and-more/"
 ---
 

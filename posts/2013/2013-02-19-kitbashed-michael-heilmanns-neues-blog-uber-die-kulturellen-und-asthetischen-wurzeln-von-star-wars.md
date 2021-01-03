@@ -15,7 +15,7 @@ tags:
   - geschichte
   - star-wars
 meta:
-  - yourls_shorturl: "http://eay.li/21x"
+  - yourls_shorturl: "https://eay.li/21x"
   - linked_list_url: "http://kitbashed.com/"
 ---
 

@@ -13,7 +13,7 @@ tags:
   - internet-explorer
   - wordpress
 meta:
-  - yourls_shorturl: "http://eay.li/v2"
+  - yourls_shorturl: "https://eay.li/v2"
 ---
 
 Zur Ablenkung vom [Staatsrecht](http://de.wikipedia.org/wiki/Staatsrecht) und der [finalen EM-Vorfreude](//eay.cc/2008/deutschland-spanien/) habe ich die letzten Stunden damit verbracht, eayz mal wieder auf den aktuellen Stand der Technik zu bringen. Heißt: alle Programme im Hintergrund sind nun up-to-date, alte Sicherheitslücken gestopft und neue geöffnet. Wer etwas runterscrollt, sieht zudem, dass ich hier nun auch direkt die letzten fünf [EMDb](//eay.cc/2008/the-eayz-movie-database/)\-Reviews ([EMDb-wtf?](//eay.cc/2008/the-eayz-movie-database/)) angezeigt werden. Toll, oder?

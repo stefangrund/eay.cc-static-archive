@@ -18,7 +18,7 @@ tags:
   - serien
 meta:
   - linked_list_url: "http://dirkloechel.deviantart.com/art/Size-Comparison-Science-Fiction-Spaceships-398790051"
-  - yourls_shorturl: "http://eay.li/2jc"
+  - yourls_shorturl: "https://eay.li/2jc"
 ---
 
 [![](https://eay.cc/uploads/2014/starshipsizecomparison.jpg)](http://dirkloechel.deviantart.com/art/Size-Comparison-Science-Fiction-Spaceships-398790051)

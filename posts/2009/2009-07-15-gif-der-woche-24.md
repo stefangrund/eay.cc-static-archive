@@ -13,7 +13,7 @@ tags:
   - gif-der-woche
   - power-rangers
 meta:
-  - yourls_shorturl: "http://eay.li/q"
+  - yourls_shorturl: "https://eay.li/q"
 ---
 
 ![](https://eay.cc/uploads/2009/powerspalter.gif) Keine Ahnung woraus das ist (vielleicht weiß es ja einer der trashverliebten Leser...), aber es sieht aus wie eine FSK18-Version der Power Rangers.

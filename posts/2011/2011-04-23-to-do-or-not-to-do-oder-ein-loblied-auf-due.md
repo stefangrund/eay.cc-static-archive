@@ -19,7 +19,7 @@ tags:
   - netzkultur
   - to-do
 meta:
-  - yourls_shorturl: "http://eay.li/17e"
+  - yourls_shorturl: "https://eay.li/17e"
 ---
 
 Auf die Frage, wie seine Eltern ihn beschreiben würden, entgegnete einer meiner Freunde neulich in einem Bewerbungsgespräch: "Als faule Socke." Obwohl das wahrscheinlich der Wahrheit entspricht (ich kenne seine Eltern, Gruß an der Stelle) und obwohl ich ihn ansonsten wegen genau dieser Mit-nichts-was-zu-tun-heit schätze, war das wohl nicht der klügste Moment seinen Humor spielen zu lassen. Die meisten anderen (und ich) hätten wohl irgendwas von "engagiert", "verantwortungsbewusst" und "zielstrebig" geschwafelt - und gelogen.
@@ -44,4 +44,4 @@ Aber, aber, so geht's ja nicht, werden die Korinthenkacker unter euch nun entgeg
 
 Aber Due, ich sag's nochmal, das ist richtig gut. Und hätte mir das vorher jemand gesagt, Mensch, was hätte ich ein Geld gespart...
 
-(**iTunes-Partnerlink:** [Due im AppStore](http://eay.li/due))
+(**iTunes-Partnerlink:** [Due im AppStore](https://eay.li/due))

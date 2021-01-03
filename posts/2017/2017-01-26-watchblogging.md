@@ -14,7 +14,7 @@ tags:
   - blogging
   - wordpress
 meta:
-  - yourls_shorturl: "http://eay.li/2wh"
+  - yourls_shorturl: "https://eay.li/2wh"
 ---
 
 Dieser Post ist auf meiner Apple Watch entstanden. Er wurde im Anschluss auf dem iPhone bearbeitet, von wo aus er über meinen [Drafts-zu-WordPress-Workflow](https://eay.cc/2015/post-to-wordpress-with-workflow/) auch veröffentlicht wurde.

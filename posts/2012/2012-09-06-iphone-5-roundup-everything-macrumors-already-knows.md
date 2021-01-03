@@ -15,7 +15,7 @@ tags:
   - iphone
   - technologie
 meta:
-  - yourls_shorturl: "http://eay.li/1yg"
+  - yourls_shorturl: "https://eay.li/1yg"
   - linked_list_url: "http://www.macrumors.com/roundup/iphone-5/"
 ---
 

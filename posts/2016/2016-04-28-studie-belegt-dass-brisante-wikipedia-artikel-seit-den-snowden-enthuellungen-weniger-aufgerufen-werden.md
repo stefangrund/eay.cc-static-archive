@@ -16,7 +16,7 @@ tags:
   - wikipedia
 meta:
   - linked_list_url: "http://heise.de/newsticker/meldung/Studie-zu-Chilling-Effects-Wikipedia-Artikel-zu-Terrorismus-werden-weniger-gelesen-3191301.html"
-  - yourls_shorturl: "http://eay.li/2sp"
+  - yourls_shorturl: "https://eay.li/2sp"
 ---
 
 > Die vorliegenden Daten zeigen einen nachhaltigen Einfluss der Überwachungsprogramme auf das Verhalten der Wikipedia-Nutzer. Wenn Bürger sich nicht trauten, sich über brisante Themen zu informieren, leide auch die öffentliche Diskussion und dadurch auch die politische Willensbildung.

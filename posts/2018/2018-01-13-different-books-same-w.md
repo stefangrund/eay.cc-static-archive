@@ -16,7 +16,7 @@ tags:
   - wes-anderson
 meta:
   - content_copy: "https://instagram.com/p/Bd5Q9kXlUoK/"
-  - yourls_shorturl: "http://eay.li/334"
+  - yourls_shorturl: "https://eay.li/334"
   - content_copy: "https://twitter.com/eay/status/952201636952379392"
 ---
 

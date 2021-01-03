@@ -14,7 +14,7 @@ tags:
   - games
   - koestliches
 meta:
-  - yourls_shorturl: "http://eay.li/dk"
+  - yourls_shorturl: "https://eay.li/dk"
 ---
 
 - [Glide Design-Toaster](http://www.designboom.com/contest/view.php?contest_pk=16&item_pk=11744&p=2) · Wenn Apple einen Toaster herstellen würde, dann würde der sicherlich so oder so ähnlich aussehen und funktionieren - und total innovativ iToaster heißen. ([via](http://www.electrobeans.de/archiv/2007/03/glide_toaster_toast_fuer_die_w.html))

@@ -16,7 +16,7 @@ tags:
   - shia-labeouf
   - transformers
 meta:
-  - yourls_shorturl: "http://eay.li/m7"
+  - yourls_shorturl: "https://eay.li/m7"
 ---
 
 ![](https://eay.cc/uploads/2009/transformers2.jpg)Ein Vogel? Ein Flugzeug? Superman? Oder ist das etwa ... nein, das kann doch nicht sein?! Aber doch: Verehrte Damen und Herren, liebe Kinder, der anzüglichste antizyklischste unter den Filmbloggern ist wieder da und liefert sensationelle dreiundzwanzig Tage nachdem er [Transformers 2](http://www.imdb.com/title/tt1055369/) gar an einem Premieren-Mittwoch rezipiert hat, endlich das Review zu selbigem nach, womit er endlich wieder up-to-date ist, was sein [Kinolog](//eay.cc/themen/kinolog/) betrifft (und hey, vielleicht wollen sich den Film ja einige von euch noch am Kinotag geben oder falls schon gesehen, mir die Birne abreißen oder nickend zustimmen...).

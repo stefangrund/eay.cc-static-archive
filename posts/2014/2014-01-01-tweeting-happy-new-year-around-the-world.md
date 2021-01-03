@@ -16,7 +16,7 @@ tags:
 meta:
   - linked_list_url: "http://twitter.github.io/interactive/newyear2014/"
   - linked_list_url: "http://twitter.github.io/interactive/newyear2014/"
-  - yourls_shorturl: "http://eay.li/2ba"
+  - yourls_shorturl: "https://eay.li/2ba"
 ---
 
 Tolle Visualisierung von Silvester, Tweets und Zeitzonen rund um die Welt.

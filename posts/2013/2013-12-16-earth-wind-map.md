@@ -15,7 +15,7 @@ tags:
   - wetter
 meta:
   - linked_list_url: "http://earth.nullschool.net/"
-  - yourls_shorturl: "http://eay.li/2ar"
+  - yourls_shorturl: "https://eay.li/2ar"
 ---
 
 > A visualization of global weather conditions, forecast by supercomputers, updated every three hours.

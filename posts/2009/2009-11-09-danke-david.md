@@ -17,7 +17,7 @@ tags:
   - mauerfall
   - musik
 meta:
-  - yourls_shorturl: "http://eay.li/2h"
+  - yourls_shorturl: "https://eay.li/2h"
 ---
 
  ([YouTube Direktmauerfall](http://www.youtube.com/watch?v=NxAd2sHtMf0))

@@ -12,7 +12,7 @@ tags:
   - kannibalismus
   - tiere
 meta:
-  - yourls_shorturl: "http://eay.li/kz"
+  - yourls_shorturl: "https://eay.li/kz"
 ---
 
 > Bauer vernachlässigt Schweine - Tiere fressen sich gegenseitig

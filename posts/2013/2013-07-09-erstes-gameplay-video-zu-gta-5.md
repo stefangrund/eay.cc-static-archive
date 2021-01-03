@@ -15,7 +15,7 @@ tags:
   - playstation
   - xbox
 meta:
-  - yourls_shorturl: "http://eay.li/24y"
+  - yourls_shorturl: "https://eay.li/24y"
 ---
 
 \[youtube id="N-xHcvug3WI"\]

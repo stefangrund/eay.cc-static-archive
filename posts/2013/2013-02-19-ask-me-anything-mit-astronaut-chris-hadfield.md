@@ -16,7 +16,7 @@ tags:
   - weltall
   - wissenschaft
 meta:
-  - yourls_shorturl: "http://eay.li/21w"
+  - yourls_shorturl: "https://eay.li/21w"
   - linked_list_url: "http://www.reddit.com/r/IAmA/comments/18pik4/i_am_astronaut_chris_hadfield_currently_orbiting/"
 ---
 

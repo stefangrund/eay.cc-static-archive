@@ -15,7 +15,7 @@ tags:
   - netzkultur
   - steve-jobs
 meta:
-  - yourls_shorturl: "http://eay.li/zy"
+  - yourls_shorturl: "https://eay.li/zy"
 ---
 
 ![](https://eay.cc/uploads/2010/jobsatapple.jpg) [**http://www.apple.com/jobs**](http://www.apple.com/jobs) ([via](http://www.patrickmoberg.com/blog/id:443/jobs-at-apple))

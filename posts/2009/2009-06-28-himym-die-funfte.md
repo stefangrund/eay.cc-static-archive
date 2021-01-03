@@ -12,7 +12,7 @@ tags:
   - himym
   - serien
 meta:
-  - yourls_shorturl: "http://eay.li/k5"
+  - yourls_shorturl: "https://eay.li/k5"
 ---
 
 > Mark your calendars, HIMYM fans! Season 5 premieres Monday, Sept. 21 @ 8:00/7:00c on CBS! ([via](http://www.supertopic.de/forum/8/how-i-met-your-mother-2284-29.html))

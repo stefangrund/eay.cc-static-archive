@@ -19,7 +19,7 @@ tags:
 meta:
   - linked_list_url: "http://theoatmeal.com/comics/insight"
   - linked_list_url: "http://theoatmeal.com/comics/insight"
-  - yourls_shorturl: "http://eay.li/37u"
+  - yourls_shorturl: "https://eay.li/37u"
   - geo_latitude: "50.938698785804"
   - geo_longitude: "6.9456597333459"
   - geo_public: "1"

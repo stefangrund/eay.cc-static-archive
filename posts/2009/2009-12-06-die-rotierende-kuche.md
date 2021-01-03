@@ -15,7 +15,7 @@ tags:
   - nahrung
   - wohnen
 meta:
-  - yourls_shorturl: "http://eay.li/hw"
+  - yourls_shorturl: "https://eay.li/hw"
 ---
 
  ([Vimeo Direktrotation](http://vimeo.com/7887463), [via](http://laughingsquid.com/kitchen-slowly-rotating-for-3-months/))

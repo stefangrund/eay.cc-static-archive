@@ -17,7 +17,7 @@ tags:
   - sequel
   - terminator
 meta:
-  - yourls_shorturl: "http://eay.li/g7"
+  - yourls_shorturl: "https://eay.li/g7"
 ---
 
 ![](https://eay.cc/uploads/2009/terminator4.jpg)Auch die Geschichte des Terminators ist eine Geschichte voller Missverständnisse: Arnold Schwarzenegger, der zuvor bereits in [Herkules in New York](http://www.amazon.de/exec/obidos/ASIN/B0000W5FTY/eayznet-21) und [Conan der Barbar](http://www.amazon.de/exec/obidos/ASIN/B000139QJC/eayznet-21) durch seine schauspielerische Ab- und seine körperliche Anwesenheit auf der Leinwand glänzte, wird als unzerstörbare Killermaschine gecastet und soll den ersten einer ganzen Reihe von so genannten Terminatoren zu seinem Besten geben. Wie bei den bereits genannten Filmen durfte man auch beim [Terminator](http://www.amazon.de/exec/obidos/ASIN/B000176MS6/eayznet-21) überrascht sein, wie gut Schwarzeneggers Körperlichkeit den personifizierten Einfallspinsel darzustellen vermag. Und ja, seien wir ehrlich, gerade Arnies Manko machte den Reiz des Terminators aus: ein gefühlloses Ungetüm, das in seinem todbringenden Feldzug nicht zu stoppen ist. Perfektioniert wurde das ganze spätestens in [Terminator 2](http://www.amazon.de/exec/obidos/ASIN/B0009EK71E/eayznet-21) vom nicht ganz so körperlich präsenten Robert Patrick als T-1000 und Kontrahent von Arnie. Dass die Logik dabei das ein oder andere Mal auf der Strecke bleibt, ließ sich verkraften, denn hey, ein praktisch unzerstörbarer Roboter auf Menschenjagd? Das kann nur gut gehen! Ein, zwei Mal.

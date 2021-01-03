@@ -14,7 +14,7 @@ tags:
   - kinolog
   - komoedie
 meta:
-  - yourls_shorturl: "http://eay.li/2b"
+  - yourls_shorturl: "https://eay.li/2b"
 ---
 
 ![](/uploads/2008/zohan.jpg)Man kommt ja zu nichts mehr. Nur: exzessives Feiern mit Italienern, exzessives Arbeiten für Italiener und exzessives Kümmern um erkrankte Familienmitglieder. Da bleiben Film-Reviews schon mal auf der Strecke, sorry. Trotzdem möchte ich euch heute ganz vorbildlich mitteilen, wie mir [Leg dich nicht mit Zohan an](http://www.imdb.com/title/tt0960144/) letzte Woche gefallen hat. Und ja, ich rede hier bewusst von "Leg dich nicht mit Zohan an" anstatt "You Don't Mess with the Zohan", weil der von mir gesichteten synchronisierten Fassung wohl viel Wortwitz abhanden kommt. Die Autoren haben nämlich eine Vielzahl von hebräisch-englischen Neologismen erdacht, die wohl im Deutschen nicht so zünden bzw. gar nicht möglich sind. Nichtsdestotrotz kann ich schon verraten, dass man sich auch um unsere Synchronfassung bemüht hat.

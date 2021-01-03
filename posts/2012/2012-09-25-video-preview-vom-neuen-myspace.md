@@ -14,7 +14,7 @@ tags:
   - myspace
   - social-media
 meta:
-  - yourls_shorturl: "http://eay.li/1yw"
+  - yourls_shorturl: "https://eay.li/1yw"
   - linked_list_url: "https://vimeo.com/50071857"
 ---
 

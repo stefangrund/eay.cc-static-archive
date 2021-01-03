@@ -14,7 +14,7 @@ tags:
   - wissenschaft
 meta:
   - linked_list_url: "https://spacehack.org/"
-  - yourls_shorturl: "http://eay.li/2tn"
+  - yourls_shorturl: "https://eay.li/2tn"
 ---
 
 > Spacehack.org is a directory of ways to participate in space exploration. We curate awesome projects that allow for anyone, with or without a formal science background, to make an active contribution to the furthering of space exploration and knowledge.

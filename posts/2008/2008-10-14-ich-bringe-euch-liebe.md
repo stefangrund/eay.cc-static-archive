@@ -13,7 +13,7 @@ tags:
   - nominierung
   - stoeckchen
 meta:
-  - yourls_shorturl: "http://eay.li/7l"
+  - yourls_shorturl: "https://eay.li/7l"
 ---
 
 ![](/uploads/2008/bloglove.jpg)Der Blogger-Kollege vom [Equilibirum Blog](http://www.equilibriumblog.de) wurde nach seinen Lieblingsblogs [gefragt](http://www.equilibriumblog.de/wordpress/2008/10/09/i-equilibrium/) und hat - oh Freude! - unter anderem diese kleine Webpräsenz genannt. Sowas erfreut euren Gastgeber natürlich und den gemeinen Blogger sowieso, weshalb ich diese Freude Stöckchen-like teilen möchte. Im folgenden also meine sieben Lieblingsblogs. Doch Obacht: Eigentlich gefallen mir natürlich noch sehr viel, viel, viel mehr Blogs (etwa [alle hier verlinkten](http://eay.cc/links/)), doch das würde ja den Rahmen sprengen und ihr wisst ja: Platz ist Geld im WWW.

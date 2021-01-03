@@ -14,7 +14,7 @@ tags:
   - gif-der-woche
   - single-serving-site
 meta:
-  - yourls_shorturl: "http://eay.li/1pd"
+  - yourls_shorturl: "https://eay.li/1pd"
 ---
 
 ![](https://eay.cc/uploads/2012/cosby.gif) Und wo dieses Cosby.gif herkommt, gibt's [noch viele weitere](http://www.instantcosby.com/). (via [Yewknee](http://yewknee.com/blog/instant-cosby/))

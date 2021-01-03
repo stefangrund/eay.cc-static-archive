@@ -14,7 +14,7 @@ tags:
   - how-to
   - maus
 meta:
-  - yourls_shorturl: "http://eay.li/q6"
+  - yourls_shorturl: "https://eay.li/q6"
 ---
 
 (Aus unserer losen Reihe "Hausmütterchen Eay hilft weiter"...)

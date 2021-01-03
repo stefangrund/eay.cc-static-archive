@@ -14,7 +14,7 @@ tags:
   - filme
   - your-favorite-tumblr-for-the-next-5-minutes
 meta:
-  - yourls_shorturl: "http://eay.li/1s2"
+  - yourls_shorturl: "https://eay.li/1s2"
 ---
 
 ![](https://eay.cc/uploads/2013/filmography.jpg) [FILMography](http://philmfotos.tumblr.com/) -- Es ist mir ein Rätsel, warum nicht jeder New Yorker das tut, was Hobby-Location-Scout [Christopher Moloney](https://twitter.com/Moloknee) da tut: Er nimmt Stills aus Filmen, die in New York spielen, und fotografiert diese an den entsprechenden Drehorten. Ganz, ganz großartig. Und wie [Michael Eades schon schreibt](http://yewknee.com/blog/filmography/), lediglich dadurch zu verbessern, dass Christopher die dazugehörigen Geo-Koordinaten mit veröffentlicht, damit man es ihm gleich tun kann.

@@ -17,7 +17,7 @@ tags:
   - webservice
   - youtube
 meta:
-  - yourls_shorturl: "http://eay.li/8m"
+  - yourls_shorturl: "https://eay.li/8m"
 ---
 
 Wie ihr hier [ab](//eay.cc/2008/eine-kleine-geschichte-an-der-sich-andere-musiker-ein-beispiel-nehmen-sollten/) und [zu](//eay.cc/2008/remix-wahnsinn/) sehen könnt, pimpe ich meine Blogeinträge schon mal gerne mit Musik. Diese wird dann hier in einem hübschen Flashplayer präsentiert und zumeist von mir selbst oder von anderen legalen Quellen gehostet. Gerade letzteres hat zur Folge, dass man immer nur Jahrzehnte alte Musik oder vom Urheber (wie auch immer) freigegebene MP3s einbinden kann, ohne dass mir irgendein unausgelasteter Sesselpupser gleich die ganze Bude zumacht.

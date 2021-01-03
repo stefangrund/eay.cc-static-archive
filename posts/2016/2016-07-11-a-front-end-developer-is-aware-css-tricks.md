@@ -14,7 +14,7 @@ tags:
   - web-development
 meta:
   - linked_list_url: "https://css-tricks.com/front-end-developer-aware/"
-  - yourls_shorturl: "http://eay.li/2um"
+  - yourls_shorturl: "https://eay.li/2um"
 ---
 
 Chris Coyier mit der vielleicht besten Beschreibung unseres Jobs bisher:

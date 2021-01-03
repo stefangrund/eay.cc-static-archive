@@ -17,7 +17,7 @@ tags:
   - star-trek
   - star-wars
 meta:
-  - yourls_shorturl: "http://eay.li/1s8"
+  - yourls_shorturl: "https://eay.li/1s8"
 ---
 
 Ihr wisst es bereits, doch der Vollständigkeit halber darf diese Neuigkeit hier natürlich nicht fehlen: JJ Abrams wird bei Episode VII auf dem Regiestuhl sitzen, was sowohl für viele [Star Wars](//eay.cc/tag/star-wars/)\-, als auch [Star Trek](//eay.cc/tag/star-trek/)\-Fans das allerschlimmste ist, was passieren konnte. ([Jeff Cannata](https://twitter.com/jeffcannata/status/294578680695504897): "Damn it, JJ. This is crossing the streams. And you never cross the streams.") Ich hingegen freue mich sehr! Seit [der Ankündigung](//eay.cc/2012/disney-kauft-lucasfilm/), dass der Sternenkrieg in eine dritte cineastische Runde geht, wünsche ich mir, dass Abrams dafür die Verantwortung bekommt. Schließlich halte ich den Mann für einen tollen Regisseur und, wie er zuletzt mit dem von mir geliebten »[Super 8](http://www.imdb.com/title/tt1650062/)« bewiesen hat, den - [so auch Saschas Worte](http://www.pewpewpew.de/2013/01/24/jj-abrams-dreht-star-wars-episode-vii/) - spirituellen Nachfolger Spielbergs. Was nicht die schlechtesten Voraussetzungen für Episode VII sein dürften. Dass Abrams dann auch noch selbst großer Star Wars-Fan ist, wie man nicht zuletzt an [seinem ersten Star Trek](//eay.cc/2009/star-trek-2-punkt-0/) sah (siehe auch [dieses Video](//eay.cc/2009/abrams-put-the-star-wars-into-star-trek/)), macht die Sache vollends rund.

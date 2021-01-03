@@ -16,7 +16,7 @@ tags:
   - smart-phones-stupid-people
   - twitter
 meta:
-  - yourls_shorturl: "http://eay.li/235"
+  - yourls_shorturl: "https://eay.li/235"
   - linked_list_url: "http://www.buzzfeed.com/daves4/what-happens-if-you-text-your-parents-pretending-to-be-a-dru"
 ---
 

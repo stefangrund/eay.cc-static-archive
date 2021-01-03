@@ -14,7 +14,7 @@ tags:
   - kleidung
   - kostum
 meta:
-  - yourls_shorturl: "http://eay.li/1wk"
+  - yourls_shorturl: "https://eay.li/1wk"
   - linked_list_url: "http://www.peopleofwalmart.com/53777/the-fall-of-the-dark-knight/"
 ---
 

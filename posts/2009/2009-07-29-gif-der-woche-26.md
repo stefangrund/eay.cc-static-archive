@@ -14,7 +14,7 @@ tags:
   - gif-der-woche
   - kevin-smith
 meta:
-  - yourls_shorturl: "http://eay.li/ck"
+  - yourls_shorturl: "https://eay.li/ck"
 ---
 
 ![](https://eay.cc/uploads/2009/jayandsilentbob.gif) Jay und/oder Silent Bob müsste man sein...

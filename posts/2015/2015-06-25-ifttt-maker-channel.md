@@ -16,7 +16,7 @@ tags:
   - webservice
 meta:
   - linked_list_url: "https://ifttt.com/maker"
-  - yourls_shorturl: "http://eay.li/2oq"
+  - yourls_shorturl: "https://eay.li/2oq"
 ---
 
 > The Maker Channel allows you to connect IFTTT to your personal DIY projects. With Maker, you can connect a Recipe to any device or service that can make or receive a web request.

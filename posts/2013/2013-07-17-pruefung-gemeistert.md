@@ -11,7 +11,7 @@ tags:
   - analogleben
   - studium
 meta:
-  - yourls_shorturl: "http://eay.li/28e"
+  - yourls_shorturl: "https://eay.li/28e"
 ---
 
 Bäm! Prüfung gemeistert. Mit Highscore.

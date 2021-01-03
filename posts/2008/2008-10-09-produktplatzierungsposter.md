@@ -18,7 +18,7 @@ tags:
   - the-dark-knight
   - werbung
 meta:
-  - yourls_shorturl: "http://eay.li/2o"
+  - yourls_shorturl: "https://eay.li/2o"
 ---
 
 ![](/uploads/2008/brandposter1.gif "by Antrepo") ![](/uploads/2008/brandposter2.gif "by Antrepo") Die Designgruppe [Antrepo](http://a2591.blogspot.com/) hat eine Hand voll alternativer Filmplakate entworfen, die quasi die Schleichwerbung Produktplatzierung eines Films bewerben. [Hier](http://a2591.blogspot.com/2008/09/movie-posters-with-brand-integration.html) könnt ihr euch die restlichen, doch recht ansehnlichen Werbeposter ansehen. ([via](http://laughingsquid.com/this-movie-has-been-branded-for-all-audiences/))

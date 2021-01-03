@@ -13,7 +13,7 @@ tags:
   - animation
   - cartoons
 meta:
-  - yourls_shorturl: "http://eay.li/1a"
+  - yourls_shorturl: "https://eay.li/1a"
 ---
 
 Keine Ahnung, ob es für die folgende Art der Animation einen Fachbegriff gibt, aber sie ist gleichermaßen zeitaufwändig wie beeindruckend, da hier sämtliche _Frames_ auf nebeneinander liegende Papierblätter gezeichnet werden, die im richtigen Moment hin und her gefalltet werden müssen. Umgesetzt wurde "Videogioco" von [Donato Sansone](http://www.myspace.com/milkyeyes), der Ton kommt von [Enrico Ascoli](http://www.enricoascoli.com/), und wie ihr im folgenden sehen könnt, ist's sogar auf auf einen Endlos-Loop ausgelegt. Sehr cool.

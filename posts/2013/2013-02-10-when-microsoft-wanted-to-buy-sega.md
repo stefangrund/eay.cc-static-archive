@@ -15,7 +15,7 @@ tags:
   - microsoft
   - sega
 meta:
-  - yourls_shorturl: "http://eay.li/21u"
+  - yourls_shorturl: "https://eay.li/21u"
   - linked_list_url: "http://uk.ign.com/articles/2013/02/08/why-did-microsofts-acquisition-of-sega-fall-through"
 ---
 

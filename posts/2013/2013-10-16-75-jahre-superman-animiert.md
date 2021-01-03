@@ -16,7 +16,7 @@ tags:
   - jubilaum
   - superman
 meta:
-  - yourls_shorturl: "http://eay.li/28b"
+  - yourls_shorturl: "https://eay.li/28b"
 ---
 
 \[youtube id="ebXB0lBoaQ0"\]

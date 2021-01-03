@@ -16,7 +16,7 @@ tags:
   - safari
 meta:
   - linked_list_url: "http://visnup.github.io/Minimal-Status-Bar/"
-  - yourls_shorturl: "http://eay.li/2ne"
+  - yourls_shorturl: "https://eay.li/2ne"
 ---
 
 Safari-Erweiterung, die die praktische kleine Statusbar vom Chrome in Apples Desktop-Browser nachrüstet. Gesehen bei [Garrett Murray](http://log.maniacalrage.net/)s neuem Weblog [Useful Mac](http://usefulmac.com/), das deswegen auch gleich in den Feedreader gewandet ist.

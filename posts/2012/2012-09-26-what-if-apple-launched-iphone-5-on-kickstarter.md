@@ -16,7 +16,7 @@ tags:
   - jason-kottke
   - kickstarter
 meta:
-  - yourls_shorturl: "http://eay.li/1yx"
+  - yourls_shorturl: "https://eay.li/1yx"
   - linked_list_url: "http://kottke.org/12/09/what-if-apple-launched-iphone-5-on-kickstarter"
 ---
 

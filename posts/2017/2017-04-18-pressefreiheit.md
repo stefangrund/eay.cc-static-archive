@@ -15,7 +15,7 @@ tags:
   - politik
   - pressefreiheit
 meta:
-  - yourls_shorturl: "http://eay.li/2xr"
+  - yourls_shorturl: "https://eay.li/2xr"
 ---
 
 > Die Presse muss die Freiheit haben, alles zu sagen, damit gewissen Leuten die Freiheit genommen wird, alles zu tun.

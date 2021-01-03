@@ -17,7 +17,7 @@ tags:
   - musikvideo
   - ninja-turtles
 meta:
-  - yourls_shorturl: "http://eay.li/17f"
+  - yourls_shorturl: "https://eay.li/17f"
 ---
 
 \[youtube id="VFsTr0kGAqU"\]

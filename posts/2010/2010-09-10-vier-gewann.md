@@ -17,7 +17,7 @@ tags:
   - konsum
   - the-incident
 meta:
-  - yourls_shorturl: "http://eay.li/10u"
+  - yourls_shorturl: "https://eay.li/10u"
 ---
 
 It's [Rate iOS App Friday](http://log.maniacalrage.net/post/1020835109/rate-ios-apps-friday) und so möchte ich hier mal vier Games vorstellen, die mich in den letzten zwei Wochen Bahnfahrten und Toilettengänge Langeweile überstehen ließen. Denn sind wir mal ehrlich: was man da manchmal für'n Kölsch an Spielspaß geboten bekommt, ist mitunter nicht weniger als sensationell. Wollen wir den Appstore-Millionären Entwicklern also ein bisschen danken und unter die Arme zu greifen:

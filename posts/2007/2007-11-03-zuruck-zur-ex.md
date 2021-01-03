@@ -14,7 +14,7 @@ tags:
   - playstation
   - sony
 meta:
-  - yourls_shorturl: "http://eay.li/15"
+  - yourls_shorturl: "https://eay.li/15"
 ---
 
 Man kann sich ja vorstellen wie wahnsinnig gut die PS3-Verkäufe laufen, wenn Sony Anfang 2008 eine [neue, noch kompaktere PlayStation 2](http://www.mcvuk.com/news/28753/New-low-price-compact-PS2-to-arrive-in-2008) für nun 99 Dollar auf den Markt bringt... ([via](http://www.electrobeans.de/archiv/2007/11/neue_kompakte_playstation_2_ko.html))

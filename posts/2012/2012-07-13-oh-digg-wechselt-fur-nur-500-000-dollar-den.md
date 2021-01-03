@@ -15,7 +15,7 @@ tags:
   - web-2-0
   - webservice
 meta:
-  - yourls_shorturl: "http://eay.li/1xb"
+  - yourls_shorturl: "https://eay.li/1xb"
   - linked_list_url: "http://online.wsj.com/article/SB10001424052702304373804577523181002565776.html"
 ---
 

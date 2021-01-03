@@ -16,7 +16,7 @@ tags:
   - webservice
   - workflowy
 meta:
-  - yourls_shorturl: "http://eay.li/29q"
+  - yourls_shorturl: "https://eay.li/29q"
 ---
 
 Anfang August bin ich auf [WorkFlowy](https://workflowy.com/?ref=15bd430a) ((Die Links auf WorkFlowy enthalten meinen Referrer, wodurch du und ich im Free-Account jeweils 250 Items mehr pro Monat bekommen.)) gestoßen, einen Service, der sich selbst als "world's best tool for taking notes and making lists" bezeichnet. Und da ich immer auf der Suche nach einer besseren Möglichkeit zur Organisation meiner Notizen und zum Anlegen von To-Do-Lists bin, konnte ich natürlich nicht anders, als den mir bis dahin gänzlich unbekannten Dienst auszuprobieren.

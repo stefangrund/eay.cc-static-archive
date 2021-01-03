@@ -15,7 +15,7 @@ tags:
   - redesign
   - whatsapp
 meta:
-  - yourls_shorturl: "http://eay.li/228"
+  - yourls_shorturl: "https://eay.li/228"
   - linked_list_url: "http://www.behance.net/gallery/WhatsApp-Redesign-Concept/7458635"
 ---
 

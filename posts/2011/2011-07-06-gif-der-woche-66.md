@@ -16,7 +16,7 @@ tags:
   - nintendo
   - retro
 meta:
-  - yourls_shorturl: "http://eay.li/19s"
+  - yourls_shorturl: "https://eay.li/19s"
 ---
 
 ![](https://eay.cc/uploads/2011/greatest_gif_of_all_time.gif) Greatest .gif of all time. Steht so [bei Superlevel](http://www.superlevel.de/spielkram/greatest-gif-of-all-time), wird wohl wahr sein.

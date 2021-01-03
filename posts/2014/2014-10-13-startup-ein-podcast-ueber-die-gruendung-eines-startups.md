@@ -15,7 +15,7 @@ tags:
   - startups
 meta:
   - linked_list_url: "http://hearstartup.com/"
-  - yourls_shorturl: "http://eay.li/2jr"
+  - yourls_shorturl: "https://eay.li/2jr"
 ---
 
 [Alex Blumberg](http://en.wikipedia.org/wiki/Alex_Blumberg) ist im Begriff ein Startup zu gründen und audiodokumentiert seine Erfahrungen vollkommen offen in diesem überaus hörenswerten, wenn auch etwas einfallslos betitelten Podcast.

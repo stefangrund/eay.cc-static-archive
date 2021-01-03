@@ -14,7 +14,7 @@ tags:
   - eayz
   - kunst
 meta:
-  - yourls_shorturl: "http://eay.li/lz"
+  - yourls_shorturl: "https://eay.li/lz"
 ---
 
 [![](https://eay.cc/uploads/2009/alphabetcity.gif)](http://www.teplin.com/images/alphabet-for-alphaville/) ([via](http://www.feingut.de/2009/12/05/scott-teplins-alphabet-city/))

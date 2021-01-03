@@ -15,7 +15,7 @@ tags:
   - trailer
 meta:
   - linked_list_url: "http://www.andisblog.de/2014/05/18/trailer-fast-aller-tv-shows-kommender-saison-herbst-2014/"
-  - yourls_shorturl: "http://eay.li/2fu"
+  - yourls_shorturl: "https://eay.li/2fu"
 ---
 
 Wie jedes Jahr dankenswerterweise von [@AndiH](http://twitter.com/andih) zusammengetragen.

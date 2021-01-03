@@ -13,7 +13,7 @@ tags:
   - fernsehen
   - sitcom
 meta:
-  - yourls_shorturl: "http://eay.li/ia"
+  - yourls_shorturl: "https://eay.li/ia"
 ---
 
 ![](/uploads/2008/stillstanding.jpg "Bild von CBS") Letztes Jahr im [Januar](http://eay.cc/blog/2007/01/) war die Welt noch in Ordnung: Da lief [Still Standing](http://www.imdb.com/title/tt0320970/), meine unsere Lieblingssitcom, noch jeden Abend im ansonsten durchweg verdorbenen Fernsehprogramm von RTL2 (übrigens heißt der Werbevermarkter von RTL2 passenderweise "El Cartel", sehr seriös wie ich finde). Doch nachdem die [88 Folgen](http://www.tvsi.de/comedyserien/still_standing.php) rund um Bill und Judy Miller und ihren Anhang abermals wiederholt wurden, landete Still Standing in der Schublade - aus der sie tragischerweise bis heute nicht zurückgekehrt ist. Nach Anfrage meinerseits und äußerst verwirrender Antwort seitens RTL2 ist offensichtlich auch keine Wiederholung in Sicht.

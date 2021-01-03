@@ -13,7 +13,7 @@ tags:
   - netzkultur
   - rock-am-ring
 meta:
-  - yourls_shorturl: "http://eay.li/wi"
+  - yourls_shorturl: "https://eay.li/wi"
 ---
 
 um euch eine ansehnliche Übersicht der deutschen 'Rock am Ring'-Blogger zu gewährleisten, bräuchten wir noch ein paar mehr Einträge. Also rührt die Werbetrommel für [diese wirklich fantastische Aktion](//eay.cc/2008/rock-am-ring-blogger-gesucht/). Vielen Dank, wir sehen uns am Ring! - Marek Lieberberg

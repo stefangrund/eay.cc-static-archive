@@ -14,7 +14,7 @@ tags:
   - musik
   - star-wars
 meta:
-  - yourls_shorturl: "http://eay.li/1bl"
+  - yourls_shorturl: "https://eay.li/1bl"
 ---
 
 Scheiß auf Kindle, Kindle Fire, iPhone 5 & Co.! _Das hier_ ist die höchste, beste und hörenswerteste technologische Errungenschaft ever! (via [Spreeblick](http://www.spreeblick.com/2011/09/29/star-wars-imperial-march-gespielt-von-zwei-floppy-drives/))

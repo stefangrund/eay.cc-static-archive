@@ -14,7 +14,7 @@ tags:
   - gif-der-woche
   - men-in-black
 meta:
-  - yourls_shorturl: "http://eay.li/1lb"
+  - yourls_shorturl: "https://eay.li/1lb"
 ---
 
 ![](https://eay.cc/uploads/2012/mib_sunglasses2.gif) Der Vollständigkeit halber: [Er hier](//eay.cc/2011/gif-der-woche-63/) hat es 28 GIFs später endlich geschafft.

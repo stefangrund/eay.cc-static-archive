@@ -16,7 +16,7 @@ tags:
   - starbucks
   - stoeckchen
 meta:
-  - yourls_shorturl: "http://eay.li/4i"
+  - yourls_shorturl: "https://eay.li/4i"
 ---
 
 Von [Andi](http://www.andisblog.de/?p=791) habe ich ein Stöckchen bekommen, dass mich über meine Kaffeegewohnheiten ausfragt. Wollen wir mal loslegen und nebenbei weltwirtschaftliche Missstände aufdecken.

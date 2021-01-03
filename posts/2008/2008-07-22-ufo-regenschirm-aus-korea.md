@@ -12,7 +12,7 @@ tags:
   - bizarres
   - konsum
 meta:
-  - yourls_shorturl: "http://eay.li/kc"
+  - yourls_shorturl: "https://eay.li/kc"
 ---
 
 Aus Korea kommt dieses Wunderwerk des Wetterschutzes: [Ufocap](http://anonym.to/?http://www.ufocap.com/), "your handle-free umbrella!" Einfach aufsetzen und schon bleibt man trocken und hat trotzdem noch die Hände frei, um angeln oder gar wandern zu gehen. Fantastisch! Das letzte Quäntchen Zivilisation, auf das wir alle gewartet haben! Und so sieht der neue UFO-artige Regenschirm dann aus:

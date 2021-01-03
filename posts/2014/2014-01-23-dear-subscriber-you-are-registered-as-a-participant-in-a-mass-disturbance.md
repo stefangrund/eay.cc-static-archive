@@ -15,7 +15,7 @@ tags:
   - ukraine
 meta:
   - linked_list_url: "http://motherboard.vice.com/en_ca/blog/maybe-the-most-orwellian-text-message-ever-sent"
-  - yourls_shorturl: "http://eay.li/2cd"
+  - yourls_shorturl: "https://eay.li/2cd"
 ---
 
 > That's a text message that thousands of Ukrainian protesters spontaneously received on their cell phones today, as a new law prohibiting public demonstrations went into effect. It was the regime's police force, sending protesters the perfectly dystopian text message to accompany the newly minted, perfectly dystopian legislation.

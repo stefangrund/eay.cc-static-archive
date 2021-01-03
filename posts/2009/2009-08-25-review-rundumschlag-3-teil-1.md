@@ -14,7 +14,7 @@ tags:
   - mockumentary
   - romantic-comedy
 meta:
-  - yourls_shorturl: "http://eay.li/4q"
+  - yourls_shorturl: "https://eay.li/4q"
 ---
 
 Dieser Tage habe ich ja bedingt durch mein Streetart-[Praktikum](//eay.cc/2009/8998/) eher weniger Zeit ausführliche Filmrezensionen in die Tasten zu zimmern, weshalb ich im folgenden [einmal mehr](//eay.cc/2009/review-rundumschlag-1/) ein paar Filme etwas verkürzt abhandeln möchte. Und auch wenn es sich dabei um äußerst unterschiedliche Filme handelt, haben sie doch alle etwas gemein: nie habe ich das bekommen, was ich eigentlich erwartete...

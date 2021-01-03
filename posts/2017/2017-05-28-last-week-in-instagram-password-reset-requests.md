@@ -13,7 +13,7 @@ tags:
   - instagram
   - sicherheit
 meta:
-  - yourls_shorturl: "http://eay.li/2z8"
+  - yourls_shorturl: "https://eay.li/2z8"
   - content_copy: "https://twitter.com/eay/status/869058584952291328"
 ---
 

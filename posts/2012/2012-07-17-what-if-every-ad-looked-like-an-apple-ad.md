@@ -14,7 +14,7 @@ tags:
   - parodie
   - werbung
 meta:
-  - yourls_shorturl: "http://eay.li/1wd"
+  - yourls_shorturl: "https://eay.li/1wd"
   - linked_list_url: "http://applefiedads.blogspot.com/"
 ---
 

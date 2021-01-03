@@ -14,7 +14,7 @@ tags:
   - inglourious-basterds
   - quentin-tarantino
 meta:
-  - yourls_shorturl: "http://eay.li/cs"
+  - yourls_shorturl: "https://eay.li/cs"
 ---
 
 > Wir casten als Komparsenagentur Komparsen und Kleindarsteller für die Dreharbeiten des neuen Kinofilmes von Kultregisseur Quentin Tarantino ("Kill Bill", "Pulp Fiction", "Death Proof"). Gedreht werden soll ab Oktober an Motiven in und um Berlin. Die dann durch uns besetzten Komparsen werden u.a. neben Hollywood-Schauspielern wie Brad Pitt vor der Kamera stehen, den Regisseur Quentin Tarantino für die Hauptrolle verpflichten konnte.

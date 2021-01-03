@@ -14,7 +14,7 @@ tags:
   - news
   - zombies
 meta:
-  - yourls_shorturl: "http://eay.li/1xj"
+  - yourls_shorturl: "https://eay.li/1xj"
   - linked_list_url: "http://www.spiegel.de/panorama/justiz/miami-nackter-mann-isst-gesicht-und-wird-erschossen-a-835550.html"
 ---
 

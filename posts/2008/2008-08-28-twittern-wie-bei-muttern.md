@@ -14,7 +14,7 @@ tags:
   - netzkultur
   - twitter
 meta:
-  - yourls_shorturl: "http://eay.li/ij"
+  - yourls_shorturl: "https://eay.li/ij"
 ---
 
 > @[peternoster](http://twitter.com/peternoster): Wenigstens zu Heiligabend twitterst du @[kirche](http://twitter.com/kirche) ([#](http://twitter.com/peternoster/statuses/901936896)) @[nerdyGrossOut](http://twitter.com/NerdyGrossOut): Andere Twitterer haben auch schöne Tweets! ([#](http://twitter.com/NerdyGrossOut/statuses/901950750)) @[vielsehen](http://twitter.com/vielsehen): du stehst erst auf, wenn du aufgetwittert hast! ([#](http://twitter.com/vielsehen/statuses/902066308)) @[rpl](http://twitter.com/rpl): Was sollen denn die Nachbarn twittern? ([#](http://twitter.com/rpl/statuses/902083768))

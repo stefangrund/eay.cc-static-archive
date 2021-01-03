@@ -14,7 +14,7 @@ tags:
   - outcast
   - trailer
 meta:
-  - yourls_shorturl: "http://eay.li/2xi"
+  - yourls_shorturl: "https://eay.li/2xi"
 ---
 
 Als die Macher von [Outcast](https://de.wikipedia.org/wiki/Outcast), einem meiner All-Time Top Ten Favorites, vor drei Jahren [eine Crowdfunding-Kampagne zur Finanzierung eines HD-Remakes starteten](https://eay.cc/2014/outcast-reboot-als-kickstarter-kampagne/), war die Freude bei den Fans des innovativen Action-Adventures von 1999 und meinerseits natürlich riesengroß – und die Trauer nach dem Scheitern des Kickstarters umso größer.

@@ -15,7 +15,7 @@ tags:
   - jon-stewart
   - usa
 meta:
-  - yourls_shorturl: "http://eay.li/1zo"
+  - yourls_shorturl: "https://eay.li/1zo"
   - linked_list_url: "http://www.thedailyshow.com/watch/thu-october-18-2012/exclusive---barack-obama-extended-interview-pt--1"
 ---
 

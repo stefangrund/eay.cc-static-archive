@@ -13,7 +13,7 @@ tags:
   - netzkultur
   - twitter
 meta:
-  - yourls_shorturl: "http://eay.li/v5"
+  - yourls_shorturl: "https://eay.li/v5"
 ---
 
 [SpOn: Passagier twittert sofort nach Flugzeugunglück](http://www.spiegel.de/netzwelt/mobil/0,1518,597935,00.html). @[2drinksbehind](http://twitter.com/2drinksbehind) ist der abgebrühte Mann der Stunde im ultraschnellen Twitterland. ([via](http://twitter.com/svenk/status/1072425621))

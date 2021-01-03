@@ -14,7 +14,7 @@ tags:
   - musik
 meta:
   - linked_list_url: "https://www.nicorola.de/beirut-neues-album-im-februar-titeltrack-gallipoli-bereits-jetzt/"
-  - yourls_shorturl: "http://eay.li/37b"
+  - yourls_shorturl: "https://eay.li/37b"
   - content_copy: "https://eay.social/@eay/100958783961721677"
   - content_copy: "https://twitter.com/eay/status/1055596485876858880"
 ---

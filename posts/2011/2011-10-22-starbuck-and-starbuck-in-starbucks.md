@@ -12,7 +12,7 @@ tags:
   - fernsehen
   - starbucks
 meta:
-  - yourls_shorturl: "http://eay.li/1c0"
+  - yourls_shorturl: "https://eay.li/1c0"
 ---
 
 ![](https://eay.cc/uploads/2011/starbuck.jpg) Tolles Bild von [Dirk Benedict](http://de.wikipedia.org/wiki/Dirk_Benedict), dem originalen Starbuck, und [Katee Sackhoff](http://de.wikipedia.org/wiki/Katee_Sackhoff), dem Starbuck der Neuauflage, das noch vor den ersten Drehs zur neuen »Battlestar Galactica«-Serie aufgenommen wurde. (via [Gavin Rothery](http://www.gavinrothery.com/my-blog/2011/10/21/starbuck-and-starbuck-in-starbucks-drinking-starbucks.html))

@@ -12,7 +12,7 @@ categories:
 tags:
   - your-favorite-tumblr-for-the-next-5-minutes
 meta:
-  - yourls_shorturl: "http://eay.li/1qe"
+  - yourls_shorturl: "https://eay.li/1qe"
 ---
 
 ![](https://eay.cc/uploads/2012/cabins.jpg) [Cabin Porn](http://freecabinporn.com/) - Falls du vorhast, der Tretmühle eines Tages den Rücken zu kehren, dich zurückzuziehen und in einem verlassenen Landstrich ein Einsiedlerleben in einer selbstgebauten Hütte zu führen, dann ist _das_ dein Blog. Hütten-Showcase und Inspirationen ohne Ende. Man beachte auch die großartige URL. (via [Alex](http://alex.pt/)' Blogroll)

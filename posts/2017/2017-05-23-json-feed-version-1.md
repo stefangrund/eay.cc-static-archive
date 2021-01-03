@@ -16,7 +16,7 @@ tags:
   - web-development
 meta:
   - linked_list_url: "https://jsonfeed.org/version/1"
-  - yourls_shorturl: "http://eay.li/2yy"
+  - yourls_shorturl: "https://eay.li/2yy"
 ---
 
 [Brent Simmons](http://inessential.com/) und [Manton Reece](http://manton.org/) haben einen neuen Feed-Standard spezifiziert, der die Arbeit mit diversen News-, Blog- und Whatever-Feeds erleichtern soll, indem auf JSON anstelle von XML gesetzt wird, das bei RSS und Atom zum Einsatz kommt.

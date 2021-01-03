@@ -16,7 +16,7 @@ tags:
   - parodie
   - trailer
 meta:
-  - yourls_shorturl: "http://eay.li/1t4"
+  - yourls_shorturl: "https://eay.li/1t4"
 ---
 
 Letztes Jahr hat Jimmy Kimmel in seinem Oscar-Special den Trailer zum "greatest motion picture ever not made", [Movie: The Movie](//eay.cc/2012/movie-the-movie/) gezeigt. Dieses Jahr hat er mit folgendem Trailer die Fortsetzung ankündigt, in der eine Truppe aus Superhelden die Sexpocalypse versucht zu verhindern.

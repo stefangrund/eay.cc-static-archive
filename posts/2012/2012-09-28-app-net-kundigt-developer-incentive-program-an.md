@@ -14,7 +14,7 @@ tags:
   - apps
   - monetarisierung
 meta:
-  - yourls_shorturl: "http://eay.li/1yz"
+  - yourls_shorturl: "https://eay.li/1yz"
   - linked_list_url: "http://blog.app.net/2012/09/27/announcing-the-app-net-developer-incentive-program/"
 ---
 

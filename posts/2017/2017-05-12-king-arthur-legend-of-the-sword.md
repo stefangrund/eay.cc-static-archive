@@ -15,7 +15,7 @@ tags:
   - guy-ritchie
   - kinolog
 meta:
-  - yourls_shorturl: "http://eay.li/2yk"
+  - yourls_shorturl: "https://eay.li/2yk"
   - geo_latitude: "50.973800512567"
   - geo_longitude: "6.6830050266438"
   - geo_public: "1"

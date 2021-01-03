@@ -15,7 +15,7 @@ tags:
   - logo
   - werbung
 meta:
-  - yourls_shorturl: "http://eay.li/1ct"
+  - yourls_shorturl: "https://eay.li/1ct"
 ---
 
 ![](https://eay.cc/uploads/2011/honestlogos.png)

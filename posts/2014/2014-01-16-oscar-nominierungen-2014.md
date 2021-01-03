@@ -15,7 +15,7 @@ tags:
   - oscars
 meta:
   - linked_list_url: "http://www.theguardian.com/film/2014/jan/16/oscars-2014-academy-awards-nominations-full-list"
-  - yourls_shorturl: "http://eay.li/2by"
+  - yourls_shorturl: "https://eay.li/2by"
 ---
 
 Die Nominierungen der diesjährigen 86th Academy Awards sind raus. Keine großen Überraschungen. Leo ist für seine Leistung in »The Wolf of Wall Street« nominiert, Tom Hanks (»Captain Phillips«, »Saving Mr. Banks«), Robert Redford (»All Is Lost«) und Oscar Isaac (»Inside Llewyn Davis«) nicht. Best Picture können die zu erwartenden Filme werden.

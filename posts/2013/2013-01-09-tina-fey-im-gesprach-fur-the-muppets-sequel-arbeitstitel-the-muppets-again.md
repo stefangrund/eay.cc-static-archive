@@ -15,7 +15,7 @@ tags:
   - muppets
   - tina-fey
 meta:
-  - yourls_shorturl: "http://eay.li/21b"
+  - yourls_shorturl: "https://eay.li/21b"
   - linked_list_url: "http://www.slashfilm.com/tina-fey-in-talks-for-the-muppets-sequel-working-title-revealed/"
 ---
 

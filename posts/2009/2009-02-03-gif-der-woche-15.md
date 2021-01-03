@@ -14,7 +14,7 @@ tags:
   - gif-der-woche
   - star-wars
 meta:
-  - yourls_shorturl: "http://eay.li/om"
+  - yourls_shorturl: "https://eay.li/om"
 ---
 
 ![](/uploads/2009/lukeandhan.gif) "Han!" "Luke..."

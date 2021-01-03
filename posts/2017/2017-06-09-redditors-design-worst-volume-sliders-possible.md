@@ -16,7 +16,7 @@ tags:
 meta:
   - linked_list_url: "https://www.designernews.co/stories/84443-redditors-design-worst-volume-sliders-possible"
   - linked_list_url: "https://www.designernews.co/stories/84443-redditors-design-worst-volume-sliders-possible"
-  - yourls_shorturl: "http://eay.li/2zm"
+  - yourls_shorturl: "https://eay.li/2zm"
 ---
 
 ![](https://eay.cc/uploads/2017/volume-controls.gif)

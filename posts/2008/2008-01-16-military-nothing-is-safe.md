@@ -13,7 +13,7 @@ tags:
   - musik
   - stoeckchen
 meta:
-  - yourls_shorturl: "http://eay.li/7z"
+  - yourls_shorturl: "https://eay.li/7z"
 ---
 
 Nach langer Zeit wurde ich direkt von zwei Seiten ([JeriC](http://jeric.wedigo.net/index.php?/archives/959-Eigentlich-halte-ich-ja-nichts-von-Stoeckchen..html) und [PlayStar](http://goldenterrabyte.blogspot.com/2008/01/shakeaway-reached-his-destiny.html)) mit einem [Stöckchen](//eay.cc/themen/stoeckchen/) beworfen. Die Aufgabe ist es, eine Band samt Album wie folgt zu basteln:

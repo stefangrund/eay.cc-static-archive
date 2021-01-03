@@ -14,7 +14,7 @@ tags:
   - konsum
   - kunst
 meta:
-  - yourls_shorturl: "http://eay.li/174"
+  - yourls_shorturl: "https://eay.li/174"
 ---
 
 Auf der Abschlussfahrt nach Italien haben wir unsere alkoholischen Getränke nicht etwa nach Alkoholgehalt oder - noch absurder - nach Geschmack gekauft, nein, wir haben ausschließlich Spirituosen erstanden, auf deren Flaschen und Etiketten Tiere abgebildet waren. So landet man bei viel zu viel Eierlikör als gut für einen ist, weil Tiere zwar auf vielen, aber halt doch nur auf begrenzt vielen Flaschen vorzufinden sind. Das wollte ich euch immer schon mal erzählt haben. ((Ach, einen haben wir doch nach Alkoholgehalt gekauft: Alcoholo Puro. 95%. Nur zum kochen geeignet, wie wir nach den ersten Erblindungen feststellen mussten.))

@@ -14,7 +14,7 @@ tags:
   - sicherheit
 meta:
   - linked_list_url: "http://www.andisblog.de/2013/12/14/passwortsicherung/"
-  - yourls_shorturl: "http://eay.li/2ao"
+  - yourls_shorturl: "https://eay.li/2ao"
 ---
 
 Den [Adobe-Passwörter-Hack](http://www.heise.de/security/meldung/Passwoerter-von-Adobe-Kunden-geknackt-2039972.html) hat Andi zum Anlass genommen, um "den Passwortscheiß mal sicherer zu machen". Deckt sich im Wesentlichen mit meinem Setup. Falls ihr noch überall dasselbe Passwort verwendet und nirgendwo auf Two-Factor-Authentifizierung setzt, solltet ihr euch mal hier einlesen.

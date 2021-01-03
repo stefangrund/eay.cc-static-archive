@@ -14,7 +14,7 @@ tags:
   - kreativitat
   - kunst
 meta:
-  - yourls_shorturl: "http://eay.li/2wp"
+  - yourls_shorturl: "https://eay.li/2wp"
 ---
 
 > Inspiration is for amateurs — the rest of us just show up and get to work.

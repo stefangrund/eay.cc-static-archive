@@ -15,7 +15,7 @@ tags:
   - urlaub
 meta:
   - content_copy: "https://instagram.com/p/Bli7jdnBIZf/"
-  - yourls_shorturl: "http://eay.li/362"
+  - yourls_shorturl: "https://eay.li/362"
   - content_copy: "https://twitter.com/eay/status/1021116236300734470"
   - geo_latitude: "48.137994"
   - geo_longitude: "11.559891"

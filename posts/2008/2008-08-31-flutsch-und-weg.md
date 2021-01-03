@@ -17,7 +17,7 @@ tags:
   - sneak-preview
   - usa
 meta:
-  - yourls_shorturl: "http://eay.li/e2"
+  - yourls_shorturl: "https://eay.li/e2"
 ---
 
 ![](/uploads/2008/graceisgone.jpg)Bereits vor einer Woche habe ich in der Sneak [Grace is Gone](http://www.imdb.com/title/tt0772168/) serviert bekommen. Seitdem drücke ich mich vor dieser Rezension. Ursprünglich hatte ich nämlich die befürchtende Hoffnung einen stupiden Action-Streifen Ã¡ la "Hey, wir haben keinerlei gute Ideen mehr, lasst uns einen Film übers um die Ecke schießen machen", namentlich [Wanted](http://www.imdb.com/title/tt0493464/), zu sehen. Statt kurzweiliger Berieselung gab's aber schwere Drama-Kost. Es geht nämlich darum, dass die (dem Zuschauer unbekannte) Grace, Mutter, Ehefrau und Soldatin, nicht mehr aus dem Irak zurückgekehrt. Ihr Mann Stanley Philipps (John Cusack) ist von der Todesnachricht restlos überfordert und flüchtet sich in Ablenkung: er schnappt sich seine zwei Töchter, klärt sie nicht über den Tod ihrer Mutter auf und begibt sich stattdessen kurzerhand auf einen Trip in einen ein paar Tage entfernten Vergnügungspark mit ihnen. Dabei kommt's natürlich zu allerhand Vater-Tochter-Gesprächen, Selbstzweifeln und so ziemlich allem, was das sentimentale Film-Repertoire hergibt.

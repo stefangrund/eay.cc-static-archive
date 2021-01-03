@@ -15,7 +15,7 @@ tags:
   - newsletter
 meta:
   - linked_list_url: "http://www.fimoculous.com/recs/"
-  - yourls_shorturl: "http://eay.li/3a2"
+  - yourls_shorturl: "https://eay.li/3a2"
   - content_copy: "https://twitter.com/eay/status/1115375585314922496"
 ---
 

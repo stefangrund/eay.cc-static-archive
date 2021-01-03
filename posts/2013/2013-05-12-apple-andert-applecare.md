@@ -14,7 +14,7 @@ tags:
   - garantie
   - konsum
 meta:
-  - yourls_shorturl: "http://eay.li/23g"
+  - yourls_shorturl: "https://eay.li/23g"
   - linked_list_url: "http://512pixels.net/2013/05/strange-things-are-afoot-at-applecare/"
 ---
 

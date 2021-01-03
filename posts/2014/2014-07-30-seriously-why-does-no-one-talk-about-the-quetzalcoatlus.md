@@ -13,7 +13,7 @@ tags:
   - dinosaurier
 meta:
   - linked_list_url: "http://jamietheignorantamerican.tumblr.com/post/52968339035/no-but-seriously"
-  - yourls_shorturl: "http://eay.li/2ht"
+  - yourls_shorturl: "https://eay.li/2ht"
 ---
 
 ![](https://eay.cc/uploads/2014/quetzalcoatlus.jpg)

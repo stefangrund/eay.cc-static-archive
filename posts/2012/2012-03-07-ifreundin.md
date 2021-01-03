@@ -14,7 +14,7 @@ tags:
   - comedy
   - nightwash
 meta:
-  - yourls_shorturl: "http://eay.li/1gq"
+  - yourls_shorturl: "https://eay.li/1gq"
 ---
 
 Am Wochenende waren wir bei [Nightwash Live](http://www.nightwash.de/nightwash/live/index.html?list=live) in Düsseldorf, wo wir zweieinhalb Stunden feinste Comedy von und mit Vera Deckers, Michael Krebs, John Doyle, Horst Fyrguth und einem türkischstämmigen Nachwuchscomedian, dessen Namen wir, um jedes Klischee zu bedienen, vergessen haben. Bis auf John Doyle kannte ich bis dahin noch keinen der Truppe, aber wirklich alle waren sehr gut und mit Sicherheit werden wir noch das ein oder andere Soloprogramm besuchen.

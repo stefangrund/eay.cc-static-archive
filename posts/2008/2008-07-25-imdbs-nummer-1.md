@@ -12,7 +12,7 @@ tags:
   - imdb
   - netzkultur
 meta:
-  - yourls_shorturl: "http://eay.li/4t"
+  - yourls_shorturl: "https://eay.li/4t"
 ---
 
 Jedem, der die [IMDb](http://www.imdb.com/) was häufiger nutzt, dürfte es schon aufgefallen sein: die Einträge werden durchnummeriert. The Dark Knight ist somit beispielsweise der [468569.](http://www.imdb.com/title/tt0468569/) Film in der IMDb-Datenbank. Grund genug sich mal näher damit zu beschäftigen und nachzusehen, welche Filme, Schauspieler, Studios und Charaktere als erste ihren Weg in die Allwissenheit der Internet Movie Database gefunden haben...

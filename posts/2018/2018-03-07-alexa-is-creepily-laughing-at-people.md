@@ -17,7 +17,7 @@ tags:
   - robot-uprising
 meta:
   - linked_list_url: "https://www.theverge.com/circuitbreaker/2018/3/7/17092334/amazon-alexa-devices-strange-laughter"
-  - yourls_shorturl: "http://eay.li/342"
+  - yourls_shorturl: "https://eay.li/342"
   - content_copy: "https://twitter.com/eay/status/971485346742620167"
 ---
 

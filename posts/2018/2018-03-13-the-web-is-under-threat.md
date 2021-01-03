@@ -17,7 +17,7 @@ tags:
   - tim-berners-lee
 meta:
   - linked_list_url: "https://webfoundation.org/2018/03/web-birthday-29/"
-  - yourls_shorturl: "http://eay.li/346"
+  - yourls_shorturl: "https://eay.li/346"
 ---
 
 [Tim Berners-Lee](https://de.wikipedia.org/wiki/Tim_Berners-Lee) bleibt auch zum am Montag stattgefundenen 29. Geburtstag des World Wide Web seiner [alten Tradition](https://eay.cc/2014/das-world-wide-web-ist-heute-25-jahre-alt-geworden/) treu und beschrieb den aktuellen Zustand seiner Erfindung. Neben der Herausforderung, die noch nicht vernetzte Hälfte der Weltbevölkerung online zu bringen, macht er als größtes Hindernis für ein innovatives, inklusives Web die dominanten Plattformen aus:

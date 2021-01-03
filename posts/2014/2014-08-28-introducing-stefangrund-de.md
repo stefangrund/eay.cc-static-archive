@@ -16,7 +16,7 @@ tags:
   - projekte
   - quantified-self
 meta:
-  - yourls_shorturl: "http://eay.li/2ii"
+  - yourls_shorturl: "https://eay.li/2ii"
 ---
 
 Nachdem ich zum Leidwesen aller anderen Stefan Grunds hier in Deutschland bereits 2004 die Domain [stefangrund.de](http://stefangrund.de/) erstanden habe, dachte ich, dass es langsam mal an der Zeit wäre, die Seite, die ein Jahrzehnt lang nur als Platzhalter für meine Email-Adresse fungierte, endlich mit Leben zu befüllen. Das habe ich die letzten Tage getan und präsentiere euch heute nun stolz das Ergebnis:

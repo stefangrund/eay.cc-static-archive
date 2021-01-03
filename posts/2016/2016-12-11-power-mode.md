@@ -14,7 +14,7 @@ tags:
   - programmieren
   - tool
 meta:
-  - yourls_shorturl: "http://eay.li/2vm"
+  - yourls_shorturl: "https://eay.li/2vm"
 ---
 
 Mein Kollege [Jens](https://twitter.com/HeydtJens/status/807125558387740672) hat am Freitag den [Power Mode für Atom](https://atom.io/packages/activate-power-mode) und [PhpStorm](https://plugins.jetbrains.com/plugin/8251) aufgetan, den ich selbstredend sofort ausprobieren musste. Die erste Stunde damit war cool, aber etwas irritierend. Ab der zweiten Stunde war es dann nur noch cool.

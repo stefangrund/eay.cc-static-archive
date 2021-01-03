@@ -13,7 +13,7 @@ tags:
   - app-net
   - monetarisierung
 meta:
-  - yourls_shorturl: "http://eay.li/1z3"
+  - yourls_shorturl: "https://eay.li/1z3"
   - linked_list_url: "http://blog.app.net/2012/10/01/app-net-pricing-changes/"
 ---
 

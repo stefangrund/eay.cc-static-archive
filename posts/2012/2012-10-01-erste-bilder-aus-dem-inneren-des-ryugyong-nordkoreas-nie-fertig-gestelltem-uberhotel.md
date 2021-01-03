@@ -13,7 +13,7 @@ tags:
   - architektur
   - nordkorea
 meta:
-  - yourls_shorturl: "http://eay.li/1z1"
+  - yourls_shorturl: "https://eay.li/1z1"
   - linked_list_url: "http://www.nknews.org/2012/09/finally-first-pics-inside-the-ryugyong-north-koreas-skyscraper-we-thought-theyd-never-finish/"
 ---
 

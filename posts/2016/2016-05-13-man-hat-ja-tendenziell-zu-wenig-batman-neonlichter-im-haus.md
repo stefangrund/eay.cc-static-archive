@@ -15,7 +15,7 @@ tags:
   - konsum
 meta:
   - content_copy: "https://www.instagram.com/p/BFXC4O2HS41/"
-  - yourls_shorturl: "http://eay.li/2yo"
+  - yourls_shorturl: "https://eay.li/2yo"
 ---
 
 ![](https://eay.cc/uploads/2016/batman-neon-light.jpg)

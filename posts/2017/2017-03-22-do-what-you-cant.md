@@ -15,7 +15,7 @@ tags:
   - creating
   - youtube
 meta:
-  - yourls_shorturl: "http://eay.li/2x5"
+  - yourls_shorturl: "https://eay.li/2x5"
 ---
 
 \[youtube id="jG7dSXcfVqE"\]

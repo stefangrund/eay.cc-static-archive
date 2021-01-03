@@ -12,7 +12,7 @@ tags:
   - tshirt
   - werbung
 meta:
-  - yourls_shorturl: "http://eay.li/78"
+  - yourls_shorturl: "https://eay.li/78"
 ---
 
 Es gibt ja Leute, die für Geld fast alles tun würden. Ich kann mich da ganz klar rausnehmen. Bei mir reicht schon ein Gratis-Shirt und schwuppdiwupps tue ich alles, was man von mir will. Zum Beispiel einen Blogeintrag schreiben, in dem ich auf den Shirt-Shop [3Dsupply](http://www.3dsupply.de/) verweise. (Verstehen Sie nur Bahnhof? [Klicken Sie hier](https://feedme.3dsupply.de/).)

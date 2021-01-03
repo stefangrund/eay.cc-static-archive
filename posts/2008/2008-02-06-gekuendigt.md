@@ -12,7 +12,7 @@ tags:
   - konsum
   - mobilfunk
 meta:
-  - yourls_shorturl: "http://eay.li/en"
+  - yourls_shorturl: "https://eay.li/en"
 ---
 
 Nach zehn Jahren (!) als treuer Kunde habe ich mich heute dazu entschlossen, meinen Mobilfunkvertrag bei den überteuerten, inkompetenten und schließlich kundenfeindlichen Vollidioten und -arschlöschern zu kündigen.

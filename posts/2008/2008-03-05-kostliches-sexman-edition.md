@@ -15,7 +15,7 @@ tags:
   - meme
   - sexman
 meta:
-  - yourls_shorturl: "http://eay.li/pe"
+  - yourls_shorturl: "https://eay.li/pe"
 ---
 
 Der 54 jährige Sexman war nicht untätig seit [seinem Rambo-Review](//eay.cc/2008/a-sexman-review-rambo/). Sehet, staunet und schämet euch fremd! (Ja, ich schätze auch, er wird in der Schule verprügelt.)

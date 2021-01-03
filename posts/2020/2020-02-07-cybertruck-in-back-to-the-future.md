@@ -15,7 +15,7 @@ tags:
   - fanart
   - tesla
 meta:
-  - yourls_shorturl: "http://eay.li/3ct"
+  - yourls_shorturl: "https://eay.li/3ct"
 ---
 
 \[youtube id="KUBEXK0\_R2Q"\]

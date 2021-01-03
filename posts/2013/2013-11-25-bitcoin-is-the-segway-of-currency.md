@@ -16,7 +16,7 @@ tags:
   - technologie
 meta:
   - linked_list_url: "http://www.theatlantic.com/business/archive/2013/11/bitcoin-is-the-segway-of-currency/281625/"
-  - yourls_shorturl: "http://eay.li/29x"
+  - yourls_shorturl: "https://eay.li/29x"
 ---
 
 Ich hätte den Text ja schon alleine wegen der Überschrift verlinkt, aber Matthew O'Brien erklärt hier auch schön, warum Bitcoins Blödsinn sind. (via [@dennishorn](https://twitter.com/dennishorn/status/405024552864194560))

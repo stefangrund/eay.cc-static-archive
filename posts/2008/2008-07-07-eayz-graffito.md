@@ -15,7 +15,7 @@ tags:
   - output
   - webservice
 meta:
-  - yourls_shorturl: "http://eay.li/69"
+  - yourls_shorturl: "https://eay.li/69"
 ---
 
 ![](/uploads/2008/eayzgraffiti.gif) (via [Graffiti Creator](http://www.graffiticreator.net/))

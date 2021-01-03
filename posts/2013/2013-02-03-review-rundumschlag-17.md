@@ -16,7 +16,7 @@ tags:
   - review-rundumschlag
   - rezension
 meta:
-  - yourls_shorturl: "http://eay.li/28c"
+  - yourls_shorturl: "https://eay.li/28c"
 ---
 
 Es folgen ein paar kurze Reviews und Gedanken, die ich zwischenzeitlich bei [Letterboxd](http://letterboxd.com/) abgesetzt habe. Generell ist es eine gute Idee, [mir dort zu folgen](http://letterboxd.com/eay/), weil ich neben Crossposts zu den hiesigen Rezensionen auch immer mal wieder kurze Statements fallen lasse und sich Letterboxd hervorragend zur Diskussion über's bewegte Bild mit Gleichgesinnten eignet.

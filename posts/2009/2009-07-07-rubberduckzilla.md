@@ -19,7 +19,7 @@ tags:
   - viral
   - werbung
 meta:
-  - yourls_shorturl: "http://eay.li/jp"
+  - yourls_shorturl: "https://eay.li/jp"
 ---
 
 > There's no such thing as a giant water-hating duck.

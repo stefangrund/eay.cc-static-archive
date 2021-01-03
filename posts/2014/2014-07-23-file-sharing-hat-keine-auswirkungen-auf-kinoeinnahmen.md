@@ -18,7 +18,7 @@ tags:
   - wissenschaft
 meta:
   - linked_list_url: "http://torrentfreak.com/filesharing-doesnt-hurt-box-office-revenue-research-finds-140715/"
-  - yourls_shorturl: "http://eay.li/2hm"
+  - yourls_shorturl: "https://eay.li/2hm"
 ---
 
 > New research by economist Koleman Strumpf shows that there is no significant effect of movie piracy on box office revenues. This conclusion is based on data from 150 blockbuster movies that were released over a period of six years, using the popular Hollywood exchange as an indication for the revenue impact.

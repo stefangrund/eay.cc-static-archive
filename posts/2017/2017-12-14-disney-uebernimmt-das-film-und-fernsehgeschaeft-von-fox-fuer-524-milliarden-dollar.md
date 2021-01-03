@@ -17,7 +17,7 @@ tags:
   - fox
 meta:
   - linked_list_url: "https://techcrunch.com/2017/12/14/its-official-disney-is-acquiring-foxs-film-and-tv-divisions/"
-  - yourls_shorturl: "http://eay.li/32p"
+  - yourls_shorturl: "https://eay.li/32p"
 ---
 
 Nach “[Disney’s Star Wars](http://disneysstarwars.tumblr.com/)” könnte ich jetzt ja auch ein “Disney’s The Simpsons”-Tumblelog starten…

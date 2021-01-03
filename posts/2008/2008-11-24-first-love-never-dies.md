@@ -13,7 +13,7 @@ tags:
   - kurzfilm
   - zombies
 meta:
-  - yourls_shorturl: "http://eay.li/7f"
+  - yourls_shorturl: "https://eay.li/7f"
 ---
 
 ![](/uploads/2008/ilovesarahjane.jpg) Der in diesem Jahr erschienene Kurzfilm [I love Sarah Jane](http://www.imdb.com/title/tt1157658/) betrachtet die alte Zombie- Thematik mal aus einem etwas anderen, aber nicht weniger interessanten Blickwinkel: Was tun Kinder in einer postapokalyptischen Welt, in denen ihre Eltern tot oder - noch schlimmer - untot sind? Die nahe liegende Antwort: Fast das, was sie auch so tun würden. Während der 13 jährige Jimbo nur Augen für die ältere Sarah Jane hat, vertreiben sich die anderen Jungs ihre Zeit damit, im Vorgarten einen Zombie zu quälen. Die Katastrophe ist vorprogrammiert...

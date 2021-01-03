@@ -13,7 +13,7 @@ tags:
   - games
   - kickstarter
 meta:
-  - yourls_shorturl: "http://eay.li/207"
+  - yourls_shorturl: "https://eay.li/207"
   - linked_list_url: "http://www.kickstarter.com/projects/shauninman/retro-game-crunch-six-games-in-six-months"
 ---
 

@@ -15,7 +15,7 @@ tags:
   - trailer
   - webservice
 meta:
-  - yourls_shorturl: "http://eay.li/2md"
+  - yourls_shorturl: "https://eay.li/2md"
   - linked_list_url: "http://projectionlist.com/"
 ---
 

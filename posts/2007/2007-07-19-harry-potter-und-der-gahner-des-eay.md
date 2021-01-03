@@ -15,7 +15,7 @@ tags:
   - kinolog
   - sequel
 meta:
-  - yourls_shorturl: "http://eay.li/u8"
+  - yourls_shorturl: "https://eay.li/u8"
 ---
 
 ![](/uploads/2007/harrypotter5.jpg)Ich habe keine Ahnung was Muggels sind, wer oder was ein Voldemort ist oder was an diesem Zauberer mit der blöden Brille so interessant sein soll. Das einzige was ich weiss, steht [auf dem T-Shirt](/uploads/2007/spoilershirt.jpg), das ich gerade trage. Bedeutung davon? Fehlanzeige! Kenne ich beide nicht und - Achtung, Achtung! - interessiert mich auch nicht die Bohne. Generell war der einzige Fantasy-Titel, der mich jemals begeistert hat ein Online-Rollenspiel von Blizzard. Ja, auch dem Herr der Ringe kann ich nichts abgewinnen. Ich brauche Wookiees statt Riesen und Lichtschwert statt Zauberstab.

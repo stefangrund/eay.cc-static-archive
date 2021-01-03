@@ -15,7 +15,7 @@ tags:
   - musikindustrie
 meta:
   - linked_list_url: "http://torrentfreak.com/getting-sampled-by-girl-talk-boosts-sales-research-finds-131021/"
-  - yourls_shorturl: "http://eay.li/28r"
+  - yourls_shorturl: "https://eay.li/28r"
 ---
 
 > An extensive study of the music sales of more than 350 tracks sampled on Girl Talk´s album All Day suggests that âunauthorizedâ use actually boosts sales.

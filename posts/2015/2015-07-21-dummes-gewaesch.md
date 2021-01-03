@@ -13,7 +13,7 @@ tags:
   - bizarres
   - simpsons
 meta:
-  - yourls_shorturl: "http://eay.li/duge"
+  - yourls_shorturl: "https://eay.li/duge"
 ---
 
 For future reference:

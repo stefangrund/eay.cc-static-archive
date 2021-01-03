@@ -14,7 +14,7 @@ tags:
   - project-glass
   - technologie
 meta:
-  - yourls_shorturl: "http://eay.li/1ve"
+  - yourls_shorturl: "https://eay.li/1ve"
 ---
 
 > I will never live a day of my life from now on without it (or a competitor). It's that significant. \[...\] This is the most interesting new product since the iPhone and I don't say that lightly.

@@ -15,7 +15,7 @@ tags:
   - technologie
 meta:
   - linked_list_url: "https://char.gd/blog/2017/wifi-has-been-broken-heres-the-companies-that-have-already-fixed-it"
-  - yourls_shorturl: "http://eay.li/31x"
+  - yourls_shorturl: "https://eay.li/31x"
 ---
 
 Was es mit dem "Krack"-Exploit auf sich hat, warum es nicht nur reicht den eigenen Router zu aktualisieren und welche Firmen bereits Fixes in der Pipeline haben, steht hier.

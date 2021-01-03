@@ -16,7 +16,7 @@ tags:
   - netzkultur
 meta:
   - linked_list_url: "https://www.webworldwide.io/"
-  - yourls_shorturl: "http://eay.li/2vn"
+  - yourls_shorturl: "https://eay.li/2vn"
 ---
 
 Spannendes Projekt, das die digitalen Gegebenheiten in verschiedenen Ländern aufzeigt. Laut Entwickler [Tim Kadlec](https://timkadlec.com/) u.a. auch dazu um seinen Kollegen ein Tool an die Hand zu geben, damit wir unsere Webseiten und Apps besser für andere Nutzungsszenarien optimieren können, [wie er hier schreibt](http://calendar.perfplanet.com/2016/meet-the-web-worldwide/):

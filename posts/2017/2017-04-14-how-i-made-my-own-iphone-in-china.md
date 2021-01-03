@@ -26,7 +26,7 @@ meta:
   - linked_list_url: "https://strangeparts.com/how-i-made-my-own-iphone-in-china/"
   - linked_list_url: "https://strangeparts.com/how-i-made-my-own-iphone-in-china/"
   - linked_list_url: "https://strangeparts.com/how-i-made-my-own-iphone-in-china/"
-  - yourls_shorturl: "http://eay.li/2xk"
+  - yourls_shorturl: "https://eay.li/2xk"
 ---
 
 > Coming to Shenzen is like visiting the future. But it's this crazy, dystopian, Blade-Runner-esque future.

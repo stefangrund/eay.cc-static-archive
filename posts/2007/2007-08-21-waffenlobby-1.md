@@ -15,7 +15,7 @@ tags:
   - urlaub
   - waffen
 meta:
-  - yourls_shorturl: "http://eay.li/a7"
+  - yourls_shorturl: "https://eay.li/a7"
 ---
 
 ![](/uploads/2007/gummipistolen.jpg) Ende der Woche geht's an den Strand (und hoffentlich in die Sonne). Ein heiß umkämpftes Gebiet. Hitze. Plötzlich sind Freund und Feind nicht mehr auseinander zu halten. Die Grenzen verlaufen und nur noch der eigene Bedarf an Kaltgetränken ist wichtig. Hier kommen unsere neu erstandenen AirBlaster ins Spiel, die SeÃ±or [McLee](/artikel/writingforce/) und meine Wenigkeit in mächtige Schlüsselpositionen des Urlauberdaseins bringen sollen. _¡Venceremos! Wir werden siegen!_

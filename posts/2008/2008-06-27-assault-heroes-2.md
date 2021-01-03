@@ -14,7 +14,7 @@ tags:
   - games
   - xbox
 meta:
-  - yourls_shorturl: "http://eay.li/ov"
+  - yourls_shorturl: "https://eay.li/ov"
 ---
 
 ![](/uploads/2008/assaultheroes2.gif)Ich habe gestern die Microsoft Points, die ich von Amazon für das [GTA-Liefer-Debakel](//eay.cc/2008/gta-iv-ich-habs/) bekommen habe, gegen [Assault Heroes 2](http://www.xbox.com/en-US/games/a/ah2xboxlivearcade/) eingetauscht. Der [Top-down shooter](http://en.wikipedia.org/wiki/Top-down_shooter) kostet 800 Gummipunkte, was in eine vernünftige richtige Währung [umgerechnet](http://www.mspconverter.com/) rund 9,30â¬ sind - und was man für diesen Unkostenbeitrag an Shooter-Spielspaß geboten bekommt, kann sich meines Erachtens mehr als sehen lassen: Hier, liebe Leser, bekommen wir "one of the best shooters on XBLA \[...\] especially if you've never played through the original", [so Nate Ahearn von IGN](http://uk.xbox360.ign.com/articles/873/873432p1.html) (Rating: 8,5/10). Und Recht hat der Mann! Ich habe Teil 1 nämlich nie gespielt, hatte aber/also beim zügigen Durchspielen der Fortsetzung viel Spaß, so dass ich mich nun an höhere Schwierigkeitsgrade und spezielle Achievements wagen werde.

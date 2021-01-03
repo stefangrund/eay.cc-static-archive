@@ -18,7 +18,7 @@ tags:
   - web-entwicklung
 meta:
   - linked_list_url: "https://github.com/rage8885/OpenSC2K"
-  - yourls_shorturl: "http://eay.li/33m"
+  - yourls_shorturl: "https://eay.li/33m"
 ---
 
 ![](https://eay.cc/uploads/2018/opensc2k.jpg)

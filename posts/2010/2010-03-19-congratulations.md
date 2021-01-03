@@ -14,7 +14,7 @@ tags:
   - piraterie
   - stream
 meta:
-  - yourls_shorturl: "http://eay.li/fv"
+  - yourls_shorturl: "https://eay.li/fv"
 ---
 
 > Hey everybody, the album leaked, and we wanted you to be able to hear it from us. We wanted to offer it as a free download but that didn't make sense to anyone but us

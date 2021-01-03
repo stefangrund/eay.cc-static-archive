@@ -16,7 +16,7 @@ tags:
   - politik
   - rassismus
 meta:
-  - yourls_shorturl: "http://eay.li/1wh"
+  - yourls_shorturl: "https://eay.li/1wh"
   - linked_list_url: "http://www.stefan-niggemeier.de/blog/nach-diesem-urteil-sollten-wir-uns-ueber-die-nsu-nicht-mehr-wundern/"
 ---
 

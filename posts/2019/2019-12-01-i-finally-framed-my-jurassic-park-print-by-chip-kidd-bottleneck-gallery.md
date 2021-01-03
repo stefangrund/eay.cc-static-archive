@@ -19,7 +19,7 @@ tags:
 meta:
   - content_copy: "https://www.instagram.com/p/B5i0Z-MoThM/"
   - content_copy: "https://twitter.com/eay/status/1201244127926587392"
-  - yourls_shorturl: "http://eay.li/3c3"
+  - yourls_shorturl: "https://eay.li/3c3"
 ---
 
 ![](https://eay.cc/uploads/2019/chipkidd-jurassicpark.jpeg)

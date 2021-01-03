@@ -15,7 +15,7 @@ tags:
   - konsum
   - kopfhoerer
 meta:
-  - yourls_shorturl: "http://eay.li/2y5"
+  - yourls_shorturl: "https://eay.li/2y5"
 ---
 
 ![](https://eay.cc/uploads/2017/airpods-waiting.png)

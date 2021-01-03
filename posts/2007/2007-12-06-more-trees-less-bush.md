@@ -14,7 +14,7 @@ tags:
   - konsum
   - tshirt
 meta:
-  - yourls_shorturl: "http://eay.li/4h"
+  - yourls_shorturl: "https://eay.li/4h"
 ---
 
 ![](/uploads/2007/moretreeslessbush.gif) Auch wenn George W. Bushs Tage bald gezählt sind, finde ich, [dieses T-Shirt](http://www.cafepress.com/politicalgetup.22482574) kann einfach nicht aus der Mode kommen. (Bei Interesse: kaufen könnt ihr dieses Prachtexemplar, welches übrigens schon von [Rachel Bilson](http://www.rachelstyle.org/) bei O.C. getragen wurde, bei [cafepress.com](http://www.cafepress.com))

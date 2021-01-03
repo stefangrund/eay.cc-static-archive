@@ -14,7 +14,7 @@ tags:
   - watchmen
   - webcomic
 meta:
-  - yourls_shorturl: "http://eay.li/ff"
+  - yourls_shorturl: "https://eay.li/ff"
 ---
 
 ![](/uploads/2009/joelovescrappymovies.jpg "by Joseph Dunn via digitalpimponline.com") Der Webcomic [Joe Loves Crappy Movies](http://digitalpimponline.com/strips.php?title=movie) wird zwar schon seit 2005 veröffentlicht, ist aber erst jetzt auf meinem Radar aufgetaucht, was wirklich schade ist, denn da sind mitunter richtig gute Sachen bei. Egal, jetzt klick ich mich erstmal durchs Archiv. Wer mehr wissen will, findet [bei Newsarama](http://blog.newsarama.com/2009/03/22/i-love-joe-loves-crappy-movies/) ein Interview mit Joe Dunn, dem Macher der Strips.

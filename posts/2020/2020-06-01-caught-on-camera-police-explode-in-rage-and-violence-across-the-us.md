@@ -16,7 +16,7 @@ tags:
   - usa
 meta:
   - linked_list_url: "https://www.theverge.com/2020/5/31/21276044/police-violence-protest-george-floyd"
-  - yourls_shorturl: "http://eay.li/3ee"
+  - yourls_shorturl: "https://eay.li/3ee"
   - geo_latitude: "50.973888631034"
   - geo_longitude: "6.6831007764996"
   - geo_public: "1"

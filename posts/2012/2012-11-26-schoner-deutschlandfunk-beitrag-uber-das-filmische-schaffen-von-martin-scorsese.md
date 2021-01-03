@@ -15,7 +15,7 @@ tags:
   - podcast
   - radio
 meta:
-  - yourls_shorturl: "http://eay.li/20i"
+  - yourls_shorturl: "https://eay.li/20i"
   - linked_list_url: "http://www.dradio.de/dlf/sendungen/essayunddiskurs/1918184/"
 ---
 

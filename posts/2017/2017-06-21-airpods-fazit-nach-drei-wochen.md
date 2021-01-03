@@ -15,7 +15,7 @@ tags:
   - konsum
   - wearables
 meta:
-  - yourls_shorturl: "http://eay.li/2zr"
+  - yourls_shorturl: "https://eay.li/2zr"
 ---
 
 Seit [mittlerweile drei Wochen](https://eay.cc/2017/all-cables-must-die/) laufe ich mit AirPods durch die Straßen Kölns – und werde on- wie offline angehalten und gefragt, was die Dinger denn so taugen. Zeit für ein kurzes Fazit im allseits beliebten Listicle-Format.

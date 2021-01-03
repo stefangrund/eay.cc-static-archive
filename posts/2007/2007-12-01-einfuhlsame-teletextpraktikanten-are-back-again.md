@@ -14,7 +14,7 @@ tags:
   - flugzeug
   - videotext
 meta:
-  - yourls_shorturl: "http://eay.li/6f"
+  - yourls_shorturl: "https://eay.li/6f"
 ---
 
 ![](/uploads/2007/alletot.jpg) So viel Einfühlungsvermögen kann ich euch einfach nicht vorenthalten.

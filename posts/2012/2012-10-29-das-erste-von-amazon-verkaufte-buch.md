@@ -14,7 +14,7 @@ tags:
   - buecher
   - netzkultur
 meta:
-  - yourls_shorturl: "http://eay.li/1zw"
+  - yourls_shorturl: "https://eay.li/1zw"
   - linked_list_url: "http://www.quora.com/Amazon-Company-History/What-was-the-first-book-ever-ordered-by-a-customer-on-Amazon"
 ---
 

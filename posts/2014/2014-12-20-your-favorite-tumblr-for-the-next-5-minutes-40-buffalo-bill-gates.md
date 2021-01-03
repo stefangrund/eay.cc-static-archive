@@ -13,7 +13,7 @@ tags:
   - mashup
   - your-favorite-tumblr-for-the-next-5-minutes
 meta:
-  - yourls_shorturl: "http://eay.li/2lt"
+  - yourls_shorturl: "https://eay.li/2lt"
 ---
 
 ![](https://eay.cc/uploads/2014/buffalobillgates.jpg)

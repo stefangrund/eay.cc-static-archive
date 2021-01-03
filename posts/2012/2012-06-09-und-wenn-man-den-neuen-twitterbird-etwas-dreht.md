@@ -15,7 +15,7 @@ tags:
   - mashup
   - twitter
 meta:
-  - yourls_shorturl: "http://eay.li/1xp"
+  - yourls_shorturl: "https://eay.li/1xp"
   - linked_list_url: "http://dribbble.com/shots/594562-Don-t-do-batman"
 ---
 

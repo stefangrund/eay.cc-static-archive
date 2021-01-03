@@ -15,7 +15,7 @@ tags:
   - ipod
   - wetter
 meta:
-  - yourls_shorturl: "http://eay.li/u7"
+  - yourls_shorturl: "https://eay.li/u7"
 ---
 
 ![](/uploads/2008/apokalypse.jpg) Heute haben wir gelernt, dass selbst ein Apple-Produkt am Tag der Apokalypse spinnt (die nutzen wohl Linux da oben): Obwohl das Wetter-Widget meines iPods 20Â° und Sonne anzeigt, ist es gerade stockfinster draußen. Wie Nachts. Und das am Vormittag. Im Mai. [Independence Day](http://twitter.com/jab_cgn/statuses/822349401). Sowas hab ich noch nicht gesehen. Verrückt.

@@ -14,7 +14,7 @@ tags:
   - rock-am-ring
   - video
 meta:
-  - yourls_shorturl: "http://eay.li/1k5"
+  - yourls_shorturl: "https://eay.li/1k5"
 ---
 
 MLK hat einen netten Zusammenschnitt vom diesjährigen Ring [online gestellt](https://vimeo.com/45135493). Einziger Wermutstropfen: die unrepräsentative Emo-Mukke von 30 Seconds to Mars. Das hat beim [25 Jahre-Video](//eay.cc/2010/mini-doku-uber-25-jahre-rock-am-ring/) noch besser geklappt (THE HIVES!!). Aber nun gut.

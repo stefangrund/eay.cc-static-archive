@@ -16,7 +16,7 @@ tags:
   - netzkultur
   - seo-battle
 meta:
-  - yourls_shorturl: "http://eay.li/73"
+  - yourls_shorturl: "https://eay.li/73"
 ---
 
 Das, was später als der Kampf der Kämpfe, die Krönung des menschlichen Schaffens, der Prototyp der sportlichen Auseinandersetzung und "the biggest âClash of the Titans´ in the history of mankind" ([via](http://www.time.com/) [via](http://so-war-das-damals.de/2008/10/26/swdd-vs-eayz-seo-battle-2008/)) in die Geschichtsbücher Einzug finden wird, began in der sonst so von Kreativen vernachlässigten, und generell (zu Unrecht!) unterschätzten Nacht von Donnerstag auf Freitag. Nach einer kleinen, aber heftigen und vor allem nicht ganz ernst gemeinten und mittlerweile Web-bekannten Auseinandersetzung per Twitter befand ich mich mit dem Blogger-Kollegen [Asphar](http://so-war-das-damals.de/) im wohl wahrlich gefährlichsten, offensichtlich attraktivsten, wahrscheinlich anstrengendsten und meist diskutierten Duell der Menschheitsgeschichte:

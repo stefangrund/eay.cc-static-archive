@@ -19,7 +19,7 @@ tags:
   - output
   - star-wars
 meta:
-  - yourls_shorturl: "http://eay.li/1i2"
+  - yourls_shorturl: "https://eay.li/1i2"
 ---
 
 Episode V  

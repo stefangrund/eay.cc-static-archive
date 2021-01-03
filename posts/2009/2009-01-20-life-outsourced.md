@@ -13,7 +13,7 @@ tags:
   - netzkultur
   - twitter
 meta:
-  - yourls_shorturl: "http://eay.li/mf"
+  - yourls_shorturl: "https://eay.li/mf"
 ---
 
 Ich glaube, die Kategorie [**Life, offline**](//eay.cc/themen/life/) könnte eigentlich wegrationalisiert werden. Alles, was ich über mein Privatleben preisgeben möchte, steht eh [bei Twitter](http://twitter.com/Eay). Und lässt sich weil ich so langweilig bin zumeist in 140 Zeichen sagen.

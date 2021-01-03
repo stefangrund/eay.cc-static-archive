@@ -15,7 +15,7 @@ tags:
   - lost
   - simpsons
 meta:
-  - yourls_shorturl: "http://eay.li/gj"
+  - yourls_shorturl: "https://eay.li/gj"
 ---
 
 ![](https://eay.cc/uploads/2009/lostsimpsonized2.gif) Derweil hat Dean T. Fraser, der hier [schon](//eay.cc/2008/marvel-simpsonized/) [oft](//eay.cc/2008/the-dark-knight-simpsonized/) [verlinkte](//eay.cc/2008/everyone-simpsonized/) Mann hinter den [Springfield Punx](http://springfieldpunx.blogspot.com/), sich [erneut](//eay.cc/2009/lost-simponized/) an unser aller Lost rangewagt und simpsonisierte™ Versionen von Saywer, Juliet, Desmond und Faraday angefertigt. [Hier anzusehen](http://springfieldpunx.blogspot.com/search/label/LOST). (via [electru](http://www.electru.de/2009-10-05/springfield-punx-more-lost-characters/))

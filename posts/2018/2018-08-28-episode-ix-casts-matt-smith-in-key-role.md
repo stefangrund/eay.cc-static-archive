@@ -16,7 +16,7 @@ tags:
   - star-wars
 meta:
   - linked_list_url: "https://variety.com/2018/film/news/star-wars-episode-ix-matt-smith-1202886507/"
-  - yourls_shorturl: "http://eay.li/36j"
+  - yourls_shorturl: "https://eay.li/36j"
 ---
 
 Vielleicht kann mein zweitliebster Doctor und liebster Prinz Philip ja noch irgendwas rausreißen.

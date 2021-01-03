@@ -14,7 +14,7 @@ tags:
   - tumblr
   - yahoo
 meta:
-  - yourls_shorturl: "http://eay.li/1w4"
+  - yourls_shorturl: "https://eay.li/1w4"
 ---
 
 Ich habe in der letzten Woche übrigens die Gunst der Stunde genutzt und passend zur [Tumblr-Übernahme durch Yahoo](http://www.theverge.com/2013/5/20/4347650/yahoo-acquires-tumblr-in-1-1-billion-cash-deal-promises-not-to-screw) meinem Tumblelog, das ich seit Jahren brav befülle (und es dabei zugegebenermaßen [manchmal übertreibe](https://twitter.com/BlackChester/status/336512854163345408)), mal ein schniekes Theme übergezogen, damit sich die 1,1 Milliarden für [Marissa](http://marissamayr.tumblr.com/) auch lohnen. Die jahrelang vor mir hergeschobene Entwicklung eines eigenen Themes musste nun einer leicht angepassten Version von [Star Aurora](http://www.tumblr.com/theme/32615) weichen, mit der ich soweit ganz zufrieden bin.

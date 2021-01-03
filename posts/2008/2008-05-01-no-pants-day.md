@@ -12,7 +12,7 @@ tags:
   - feiertage
   - kleidung
 meta:
-  - yourls_shorturl: "http://eay.li/qe"
+  - yourls_shorturl: "https://eay.li/qe"
 ---
 
 Für den wahrscheinlichen Fall, dass euch heute Leute ohne Hosen über den Weg laufen und damit ihr verwunderte Passanten grinsend aufklären könnt: "The first friday in may is always [No Pants Day](http://www.nopantsday.com/)." Oder macht gleich selbst mit! Macht auch keiner [Fotos](http://www.flickr.com/photos/tags/nopantsday/).

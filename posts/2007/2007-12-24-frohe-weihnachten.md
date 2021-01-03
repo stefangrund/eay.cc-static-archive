@@ -15,7 +15,7 @@ tags:
   - jla
   - weihnachten
 meta:
-  - yourls_shorturl: "http://eay.li/j3"
+  - yourls_shorturl: "https://eay.li/j3"
 ---
 
 ![](/uploads/2007/dcchristmas.jpg) Wünscht nicht nur die DC-Staff, sondern auch die eayz-Crew.

@@ -14,7 +14,7 @@ tags:
   - retro
   - sex
 meta:
-  - yourls_shorturl: "http://eay.li/nr"
+  - yourls_shorturl: "https://eay.li/nr"
 ---
 
 > I came up with the idea of like a cool sex movie that would take place in Stockholm, with a couple of Americans visiting a couple of Swedish friends ... Kind of like the girls in [Death Proof](//eay.cc/2007/todsicher-tarantino/), just going out drinking, having a good time, hooking up.

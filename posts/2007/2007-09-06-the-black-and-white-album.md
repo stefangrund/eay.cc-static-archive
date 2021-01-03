@@ -16,7 +16,7 @@ tags:
   - plattenschrank
   - thehives
 meta:
-  - yourls_shorturl: "http://eay.li/ac"
+  - yourls_shorturl: "https://eay.li/ac"
 ---
 
 > The Hives are more than pleased to announce their new album "The Black and White Album" \[...\] and the first single will be explosively titled "Tick Tick Boom".

@@ -21,7 +21,7 @@ meta:
   - linked_list_url: "http://www.zeit.de/digital/datenschutz/2016-12/europaeischer-gerichtshof-vorratsdatenspeicherung-urteil"
   - linked_list_url: "http://www.zeit.de/digital/datenschutz/2016-12/europaeischer-gerichtshof-vorratsdatenspeicherung-urteil"
   - linked_list_url: "http://www.zeit.de/digital/datenschutz/2016-12/europaeischer-gerichtshof-vorratsdatenspeicherung-urteil"
-  - yourls_shorturl: "http://eay.li/2vq"
+  - yourls_shorturl: "https://eay.li/2vq"
 ---
 
 [Die Zeit](http://www.zeit.de/digital/datenschutz/2016-12/europaeischer-gerichtshof-vorratsdatenspeicherung-urteil) mit einer guten Überschrift für eine gute Neuigkeit:

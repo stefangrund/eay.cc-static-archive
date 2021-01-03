@@ -15,7 +15,7 @@ tags:
   - netzkultur
 meta:
   - linked_list_url: "http://john.mcafee.usesthis.com/"
-  - yourls_shorturl: "http://eay.li/2du"
+  - yourls_shorturl: "https://eay.li/2du"
 ---
 
 John McAfee, [everybody's favorite IT psycho](//eay.cc/2012/john-mcafee-der-grunder-der-gleichnamigen-antivir-firma-wird-wegen-mordes-gesucht-und-ist-ziemlich-abgedreht/), macht bei [The Setup](http://usesthis.com/) mit, wo Leute _normalerweise_ ihr Hard- und Software-Setup vorstellen.

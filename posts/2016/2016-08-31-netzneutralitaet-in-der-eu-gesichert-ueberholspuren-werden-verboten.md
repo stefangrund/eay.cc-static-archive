@@ -16,7 +16,7 @@ tags:
   - politik
 meta:
   - linked_list_url: "https://netzpolitik.org/2016/einsetzen-lohnt-sich-netzneutralitaet-in-der-eu-gesichert-ueberholspuren-werden-verboten/"
-  - yourls_shorturl: "http://eay.li/2uy"
+  - yourls_shorturl: "https://eay.li/2uy"
 ---
 
 > Wir haben es geschafft: Die Netzneutralität bleibt in der Europäischen Union gesichert, die größten Schlupflöcher wurden heute geschlossen!

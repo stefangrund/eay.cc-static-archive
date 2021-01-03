@@ -15,7 +15,7 @@ tags:
   - musik
   - parodie
 meta:
-  - yourls_shorturl: "http://eay.li/1zt"
+  - yourls_shorturl: "https://eay.li/1zt"
   - linked_list_url: "http://www.youtube.com/watch?v=yTCRwi71_ns"
 ---
 

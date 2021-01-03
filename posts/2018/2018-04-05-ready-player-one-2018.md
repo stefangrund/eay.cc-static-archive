@@ -19,7 +19,7 @@ tags:
   - steven-spielberg
 meta:
   - content_copy: "https://twitter.com/eay/status/981803279775666176"
-  - yourls_shorturl: "http://eay.li/34m"
+  - yourls_shorturl: "https://eay.li/34m"
 ---
 
 Spielberg hat Ernest Clines überschätzter Buchvorlage Leben eingehaucht und macht aus der leblosen Referenzorgie eine zwar wenig tiefsinnige, dafür aber spektakuläre Videospielverfilmung, die das ein oder andere Schmankerl bereithält. \[rating value=7 inline=true\]

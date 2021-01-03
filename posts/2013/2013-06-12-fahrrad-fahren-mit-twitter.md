@@ -15,7 +15,7 @@ tags:
   - twitter
 meta:
   - linked_list_url: "http://fahrrad.knuspermagier.de/"
-  - yourls_shorturl: "http://eay.li/23t"
+  - yourls_shorturl: "https://eay.li/23t"
 ---
 
 Vor ein paar Tagen beging [Philipp](http://knuspermagier.de/) nach eigenen Angaben einen schweren Fehler:

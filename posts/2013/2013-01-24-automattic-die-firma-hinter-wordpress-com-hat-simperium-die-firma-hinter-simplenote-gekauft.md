@@ -15,7 +15,7 @@ tags:
   - simplenote
   - wordpress
 meta:
-  - yourls_shorturl: "http://eay.li/21m"
+  - yourls_shorturl: "https://eay.li/21m"
   - linked_list_url: "http://simplenote.com/2013/01/24/simplenote-supercharged/"
 ---
 

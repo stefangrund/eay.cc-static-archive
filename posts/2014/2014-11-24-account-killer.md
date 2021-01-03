@@ -16,7 +16,7 @@ tags:
   - social-media
 meta:
   - linked_list_url: "http://www.accountkiller.com/"
-  - yourls_shorturl: "http://eay.li/2kt"
+  - yourls_shorturl: "https://eay.li/2kt"
 ---
 
 > Instructions to remove your account or public profile on most popular websites.

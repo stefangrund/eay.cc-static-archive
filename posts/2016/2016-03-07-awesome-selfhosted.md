@@ -15,7 +15,7 @@ tags:
   - netzkultur
 meta:
   - linked_list_url: "https://github.com/Kickball/awesome-selfhosted"
-  - yourls_shorturl: "http://eay.li/2s7"
+  - yourls_shorturl: "https://eay.li/2s7"
 ---
 
 Umfassende Liste mit Free-Software-Lösungen, die sich als Alternative zu bestehenden Services selbst hosten lassen. (via [wirres](http://wirres.net/article/articleview/9491/1/6/))

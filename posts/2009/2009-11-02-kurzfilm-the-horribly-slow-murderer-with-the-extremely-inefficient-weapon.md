@@ -16,7 +16,7 @@ tags:
   - kurzfilm
   - trailer
 meta:
-  - yourls_shorturl: "http://eay.li/31"
+  - yourls_shorturl: "https://eay.li/31"
 ---
 
 Das hier ist - mindestens! - der epischste, verrückteste und wahrscheinlich beste Horrorkomödienkurzfilm des Jahres! Sensationelle zehn Minuten lang wird dem Zuschauer in Trailerform der fiktive und namensstiftende Streifen [The Horribly Slow Murderer with the Extremely Inefficient Weapon](http://www.imdb.com/title/tt1301160/) schmackhaft gemacht bzw. sowieso ganz gezeigt. Darin geht's um die erstmals verfilmte Geschichte, des legendären Löffelmörders, der sein Opfer über Jahre hinweg unentwegt mit einem Löffel malträtiert. Verantwortlich für dieses Spektakel, das nach eigenen Angaben auf fünf Kontinenten in über zwölf Jahren produziert wurde und bereits auf etlichen Festivals Preise abräumt hat, ist Regisseur, Autor und Produzent [Richard Gale](http://www.richard-gale.com/), der mich hier zutiefst unterhalten hat. Jedes Mal, wenn man mit dem Erflachen der Lach- und Wtf-Kurve rechnet, legt Gale nochmal einen drauf. Im folgenden könnt ihr's euch komplett ansehen - eure Mittagspause ist also gerettet!

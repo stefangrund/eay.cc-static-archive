@@ -16,7 +16,7 @@ tags:
   - webservice
   - youtube
 meta:
-  - yourls_shorturl: "http://eay.li/iq"
+  - yourls_shorturl: "https://eay.li/iq"
 ---
 
 Da wir alle [Muxtape](//eay.cc/2008/i-heart-muxtape/) vermissen und man bei YouTube praktisch ohne Ärger alles musikalische einspeisen kann, was man will, hat jemand obige Rechnung angestellt und [MixTube](http://mixtube.org/) gebastelt. Damit lassen sich Mixtapes aus dem YouTube-Repertoire zusammenstellen - und zwar ähnlich wie bei unserem [YouTube Music Player](//eay.cc/2008/youtube-music-player/) ohne Videos.

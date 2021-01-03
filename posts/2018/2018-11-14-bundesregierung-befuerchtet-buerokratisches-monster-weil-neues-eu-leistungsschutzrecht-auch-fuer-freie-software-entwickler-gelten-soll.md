@@ -18,7 +18,7 @@ tags:
   - urheberrecht
 meta:
   - linked_list_url: "https://www.welt.de/politik/deutschland/article183795474/Leistungsschutzrecht-Was-die-Digitalstrategie-der-Regierung-durchkreuzen-kann.html"
-  - yourls_shorturl: "http://eay.li/37n"
+  - yourls_shorturl: "https://eay.li/37n"
 ---
 
 Filed under: "Die Geister, die ich rief". Denn damit hätte jeder an einem Projekt beteiligte, freie Entwickler die Möglichkeit Anspruch auf einzelne Codezeilen zu erheben und das Projekt so rechtlich schachmatt zu setzen.

@@ -16,7 +16,7 @@ tags:
   - ueberwachung
 meta:
   - linked_list_url: "http://taz.de/Keylogger-Affaere-in-der-taz/!5307828/"
-  - yourls_shorturl: "http://eay.li/2u2"
+  - yourls_shorturl: "https://eay.li/2u2"
 ---
 
 > Anfang 2015 kam heraus, dass Computer in der taz mehr als ein Jahr lang ausgespäht wurden. Die Recherche zum Fall führt bis nach Asien.

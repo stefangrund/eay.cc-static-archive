@@ -16,7 +16,7 @@ tags:
   - usa
 meta:
   - linked_list_url: "https://kottke.org/18/01/murder-as-a-deterrent-to-nuclear-war"
-  - yourls_shorturl: "http://eay.li/338"
+  - yourls_shorturl: "https://eay.li/338"
 ---
 
 Wo wir gerade [schon fast](https://eay.cc/2018/bad-ux-will-destroy-the-world/) beim Atomkrieg waren: Jason Kottke hat eine "schöne" Idee des Rechtwissenschaftler [Roger Fisher](https://de.m.wikipedia.org/wiki/Roger_Fisher) zur Verhinderung eines Atomkriegs ausgegraben, die dieser 1981 in einem Artikel namens "Preventing nuclear war" propagierte. Danach sollte der US-Präsident, vor der Nutzung von Nuklearwaffen zunächst eine unschuldige Person mit bloßen Händen umbringen müssen, um an die Abschusscodes zu kommen – um so aus erster Hand zu erfahren, wie es ist, Mord an Unschuldigen zu begehen:

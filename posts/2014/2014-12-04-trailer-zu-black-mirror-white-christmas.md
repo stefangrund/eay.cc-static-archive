@@ -16,7 +16,7 @@ tags:
   - weihnachten
 meta:
   - linked_list_url: "https://www.youtube.com/watch?v=TDFcTmdQqIc"
-  - yourls_shorturl: "http://eay.li/2l8"
+  - yourls_shorturl: "https://eay.li/2l8"
 ---
 
 Am 16.12. wird [das Weihnachtsspecial](//eay.cc/2014/black-mirror-christmas-special-angekuendigt/) der großartigen Mini-Serie »[Black Mirror](//eay.cc/2012/black-mirror/)« von [Charlie Brooker](http://en.wikipedia.org/wiki/Charlie_Brooker) ausgestrahlt. Hier ist der Trailer dazu. Neben dem Christmas Special von »Doctor Who« und der x-ten Wiederholungen von »Die Hard« der audiovisuelle Höhepunkt des diesjährigen Weihnachtsfests. (via [Nerdcore](http://www.nerdcore.de/2014/12/04/black-mirror-white-christmas-trailer/))

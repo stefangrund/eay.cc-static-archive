@@ -17,7 +17,7 @@ tags:
   - politik
   - usa
 meta:
-  - yourls_shorturl: "http://eay.li/2di"
+  - yourls_shorturl: "https://eay.li/2di"
 ---
 
 Wenn wir mal kurz darüber hinwegsehen, dass das der Präsident des Landes ist, das uns die [digitale Totalüberwachung](//eay.cc/tag/ueberwachung) gebracht hat, und uns stattdessen an den Friedensnobelpreisträger und Siegessäulenredner erinnern, dann ist dieses [von Sascha](http://www.pewpewpew.de/2014/02/27/obama-were-building-iron-man/) aufgetane Video von einer Industrietagung im Weißen Haus eigentlich ziemlich lustig:

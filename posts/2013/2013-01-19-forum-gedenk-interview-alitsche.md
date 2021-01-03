@@ -13,7 +13,7 @@ tags:
   - forum
   - forum-gedenk-interview
 meta:
-  - yourls_shorturl: "http://eay.li/1rq"
+  - yourls_shorturl: "https://eay.li/1rq"
 ---
 
 Vor ziemlich genau fünf Jahren wurde das eayz.net Forum geschlossen, das bis dahin einer kleinen, aber außerordentlich feinen Community ein digitales Dach über dem Kopf bot. [Im Gedenken ans Forum](//eay.cc/2013/remembering-das-forum/) habe ich mich gefragt, was die Leute, die hier damals zum Mobiliar gehörten, heute eigentlich so machen. Ein paar Emails später hatte ich dankenswerterweise einige interessante Antworten zusammen. [Unter anderem](//eay.cc/tag/forum-gedenk-interview/) von Alice, die ihren Weg über den ominösen False a.k.a. Nils(i) zu uns gefunden hat und im Forum als Alitsche mitmischte. Außerdem war sie für überaus großartige Deadbunny/eayzlies-Streetart-Crossover (siehe [hier](https://www.facebook.com/photo.php?fbid=10150115806854897) und [hier](https://www.facebook.com/photo.php?fbid=10150115806929897)) und die weltweit einzigen [gestrickten eayzlies](https://www.facebook.com/photo.php?fbid=10150115807014897) verantwortlich.

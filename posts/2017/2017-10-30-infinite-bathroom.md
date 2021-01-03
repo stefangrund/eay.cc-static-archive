@@ -18,7 +18,7 @@ meta:
   - geo_longitude: "13.750032"
   - geo_public: "1"
   - geo_address: "Reischlhof"
-  - yourls_shorturl: "http://eay.li/323"
+  - yourls_shorturl: "https://eay.li/323"
 ---
 
 ![](https://eay.cc/uploads/2017/infinite-bathroom.jpeg)

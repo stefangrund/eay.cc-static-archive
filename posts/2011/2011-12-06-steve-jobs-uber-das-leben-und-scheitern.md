@@ -13,7 +13,7 @@ tags:
   - interview
   - steve-jobs
 meta:
-  - yourls_shorturl: "http://eay.li/1d6"
+  - yourls_shorturl: "https://eay.li/1d6"
 ---
 
 Die Monetarisierung von [Steve Jobs](//eay.cc/tag/steve-jobs/)' digitalen Überresten geht weiter mit einem 1994 geführten Interview der [Santa Clara Valley Historical Association](http://siliconvalleyhistorical.org/), die demnächst in Gänze käuflich zu erwerben sein wird. Hier zwei bemerkenswerte Ausschnitte daraus, in denen Jobs über das Leben und das Scheitern philosophiert:

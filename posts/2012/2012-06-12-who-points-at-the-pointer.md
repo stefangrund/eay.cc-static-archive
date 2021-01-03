@@ -14,7 +14,7 @@ tags:
   - netzkultur
   - single-serving-site
 meta:
-  - yourls_shorturl: "http://eay.li/1j4"
+  - yourls_shorturl: "https://eay.li/1j4"
 ---
 
 ![](https://eay.cc/uploads/2012/pointerpointer.jpg) [This website does.](http://www.pointerpointer.com/) (via [Nilz](https://www.facebook.com/weltfrieden))

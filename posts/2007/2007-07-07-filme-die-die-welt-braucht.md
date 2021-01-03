@@ -15,7 +15,7 @@ tags:
   - sequel
   - tekken
 meta:
-  - yourls_shorturl: "http://eay.li/qh"
+  - yourls_shorturl: "https://eay.li/qh"
 ---
 
 Definitv. Denn auch nach dem diesjährigen großartigen Kinosommer will der gemeine Zuschauer sein hart erarbeitetes Geld in den Schlund einer [kundenfeindlichen](//eay.cc/2007/liebe-filmindustrie/) Industrie werfen. Beispielsweise durch Betrachten der folgenden Filme:

@@ -14,7 +14,7 @@ tags:
   - games
   - musik
 meta:
-  - yourls_shorturl: "http://eay.li/1zb"
+  - yourls_shorturl: "https://eay.li/1zb"
   - linked_list_url: "http://www.youtube.com/watch?v=sAzzbrFgcUw"
 ---
 

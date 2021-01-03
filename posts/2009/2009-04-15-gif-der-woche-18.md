@@ -14,7 +14,7 @@ tags:
   - katzencontent
   - tiere
 meta:
-  - yourls_shorturl: "http://eay.li/je"
+  - yourls_shorturl: "https://eay.li/je"
 ---
 
 ![](/uploads/2009/starrendekatze.gif) Creepy Katzencontent, olé!

@@ -16,7 +16,7 @@ tags:
   - the-oatmeal
   - webcomic
 meta:
-  - yourls_shorturl: "http://eay.li/20a"
+  - yourls_shorturl: "https://eay.li/20a"
   - linked_list_url: "http://theoatmeal.com/comics/making_things"
 ---
 

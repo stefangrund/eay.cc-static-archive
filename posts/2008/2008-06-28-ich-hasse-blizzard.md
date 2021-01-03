@@ -16,7 +16,7 @@ tags:
   - konsum
   - starcraft
 meta:
-  - yourls_shorturl: "http://eay.li/d9"
+  - yourls_shorturl: "https://eay.li/d9"
 ---
 
 ... dafür, dass ich mir wahrscheinlich ein neues Computergerät (ausnahmsweise egal ob PC oder Mac) zulegen muss, sobald [StarCraft 2](http://eu.starcraft2.com/) und [Diablo 3](http://eu.blizzard.com/diablo3/) (!) erscheinen.

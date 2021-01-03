@@ -15,7 +15,7 @@ tags:
   - twilight
   - vampire
 meta:
-  - yourls_shorturl: "http://eay.li/17"
+  - yourls_shorturl: "https://eay.li/17"
 ---
 
 ![](https://eay.cc/uploads/2009/newmoon.jpg)Anfang des Jahres kam [der erste Teil](http://www.amazon.de/exec/obidos/ASIN/B001N2IKR4/eayznet-21) der Twilight-Saga in die hiesigen Kinos. [Damals schrieb ich](//eay.cc/2009/biss-zum-nachsten-mal/), dass ich - als jemand, der weder für's Fanstasy- , noch für's Liebesfilm-Genre allzu viel übrig hat - positiv überrascht war. Und weiter sogar, dass der Film das, was er erreichen möchte, nämlich ein Coming-of-Age-Szenario mit einer Vampir-Romanze zu kreuzen, mit Bravour meistert. Davon konnte ich mich vorletzten Sonntag erneut überzeugen als ich von meinem Mädel und mit ihren Mädels das Twilight-Doube-Feature besucht habe. Ja, Twilight 1 ist zwar alles andere als ein Vampirfilm nach meinem Geschmack, aber das Universum, das hier aufgerissen wird, ist in sich stimmig und dann kann man auch schon mal von den äußerst angestaubten Werten, die hier vermittelt werden, absehen. Wie also schlägt sich das Sequel [New Moon](http://www.imdb.com/title/tt1259571/) im Direktvergleich. Man & frau dürfen gespannt sein.

@@ -14,7 +14,7 @@ tags:
   - projekte
   - ze-frank
 meta:
-  - yourls_shorturl: "http://eay.li/2lo"
+  - yourls_shorturl: "https://eay.li/2lo"
 ---
 
 [Ze Frank](http://www.zefrank.com/) at its best on July 11th, 2006 in [The Show](http://www.zefrank.com/theshow/):

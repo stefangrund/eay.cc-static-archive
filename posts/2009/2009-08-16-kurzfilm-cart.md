@@ -14,7 +14,7 @@ tags:
   - konsum
   - kurzfilm
 meta:
-  - yourls_shorturl: "http://eay.li/19"
+  - yourls_shorturl: "https://eay.li/19"
 ---
 
  ([Vimeo Direkteinkaufswagen](http://vimeo.com/5843895) via [Feingut](http://www.feingut.de/2009/08/16/cart-a-film-by-jesse-rosten/))

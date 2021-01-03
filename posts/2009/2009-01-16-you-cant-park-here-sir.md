@@ -17,7 +17,7 @@ tags:
   - the-dark-knight
   - tshirt
 meta:
-  - yourls_shorturl: "http://eay.li/kk"
+  - yourls_shorturl: "https://eay.li/kk"
 ---
 
 ![](https://eay.cc/uploads/2009/batmanparking.jpg) Das perfekte Kleidungsstück für geekige Politessen und Liebhaber des Batmobils Batpanzers. Mit [rund 27 Dollars Unkostenbeitrag](http://www.redbubble.com/people/rubyred/t-shirts/2399398-2-you-cant-park-here-sir) zwar kein Schnäppchen, aber was ein wahrer Fan ist... Und zum Glück gibt's auch andere Farben als Gotham-City-Police-Department-Blau. ([via](http://www.slashfilm.com/2009/01/16/cool-stuff-batman-gets-a-parking-ticket-t-shirt/))

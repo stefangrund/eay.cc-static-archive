@@ -14,7 +14,7 @@ tags:
   - wikipedia
 meta:
   - linked_list_url: "http://meta.wikimedia.org/wiki/Cunningham's_Law"
-  - yourls_shorturl: "http://eay.li/2ix"
+  - yourls_shorturl: "https://eay.li/2ix"
 ---
 
 > Cunningham's Law states "the best way to get the right answer on the Internet is not to ask a question, it's to post the wrong answer."

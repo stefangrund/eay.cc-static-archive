@@ -14,7 +14,7 @@ tags:
   - kim-jong-un
   - nordkorea
 meta:
-  - yourls_shorturl: "http://eay.li/1uy"
+  - yourls_shorturl: "https://eay.li/1uy"
 ---
 
 [![](https://eay.cc/uploads/2013/kimjongfon.jpg)](http://d.pr/i/8KI)

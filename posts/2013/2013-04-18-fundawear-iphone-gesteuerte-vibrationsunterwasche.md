@@ -14,7 +14,7 @@ tags:
   - technologie
   - teledildonics
 meta:
-  - yourls_shorturl: "http://eay.li/22c"
+  - yourls_shorturl: "https://eay.li/22c"
   - linked_list_url: "http://laughingsquid.com/fundawear-iphone-controlled-vibrating-underwear-by-durex/"
 ---
 

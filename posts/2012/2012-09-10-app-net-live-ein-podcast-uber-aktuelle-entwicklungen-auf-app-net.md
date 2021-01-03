@@ -14,7 +14,7 @@ tags:
   - podcast
   - twitter
 meta:
-  - yourls_shorturl: "http://eay.li/1yj"
+  - yourls_shorturl: "https://eay.li/1yj"
   - linked_list_url: "http://adnlive.com/"
 ---
 

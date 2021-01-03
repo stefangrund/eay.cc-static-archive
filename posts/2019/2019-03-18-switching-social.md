@@ -16,7 +16,7 @@ tags:
   - social-web
 meta:
   - linked_list_url: "https://switching.social/"
-  - yourls_shorturl: "http://eay.li/39q"
+  - yourls_shorturl: "https://eay.li/39q"
 ---
 
 > switching.social is a grassroots website that is trying to let people know about more ethical alternatives to websites and apps that are threatening people’s privacy.

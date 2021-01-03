@@ -13,7 +13,7 @@ tags:
   - podcast
 meta:
   - linked_list_url: "https://www.twoupproductions.com/shows/limetown"
-  - yourls_shorturl: "http://eay.li/37c"
+  - yourls_shorturl: "https://eay.li/37c"
   - content_copy: "https://eay.social/@eay/100958785407966514"
   - content_copy: "https://twitter.com/eay/status/1055596578180947969"
 ---

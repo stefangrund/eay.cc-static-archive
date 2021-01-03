@@ -14,7 +14,7 @@ tags:
   - ninja-turtles
   - trailer
 meta:
-  - yourls_shorturl: "http://eay.li/2ea"
+  - yourls_shorturl: "https://eay.li/2ea"
 ---
 
 \[youtube id="mjtN9gh7hC4"\]

@@ -15,7 +15,7 @@ tags:
   - technologie
 meta:
   - linked_list_url: "http://www.therestartpage.com/"
-  - yourls_shorturl: "http://eay.li/2cw"
+  - yourls_shorturl: "https://eay.li/2cw"
 ---
 
 Schon was älter, aber immer noch großartig: Eine Webseite auf der man sich 1:1 ansehen kann, wie das Neustarten in verschiedenen älteren Betriebssystemen ausgesehen hat. (via [Yewknee](http://yewknee.com/blog/the-restart-page/))

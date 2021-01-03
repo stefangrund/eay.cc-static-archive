@@ -17,7 +17,7 @@ tags:
   - science-fiction
   - sex
 meta:
-  - yourls_shorturl: "http://eay.li/10b"
+  - yourls_shorturl: "https://eay.li/10b"
 ---
 
 Folgendes Musikvideo von und mit [Rachel Bloom](http://www.ucbcomedy.com/talent/view/1584/rachel-bloom) macht derzeit die internationale Blogosphäre unsicher, was in Anbetracht des Themas auch nicht verwundert: singt sie doch davon, dass sie gerne vom fast 90 jährigen Science-Fiction-Autor [Ray Bradbury](http://de.wikipedia.org/wiki/Ray_Bradbury) flachgelegt werden würde. Und wenn das ganze auch noch so perfekt produziert und mit Ohrwurmambitionen daherkommt, kein Wunder, dass alle und ihre Oma mit auf den Zug aufspringen. Den Download gibt's übrigens hier (für lau, versteht sich). (via [Minds Delight](http://www.mindsdelight.de/2010/08/fuck-me-ray-bradbury/) und eigentlich [alle anderen](http://eay.cc/links/))

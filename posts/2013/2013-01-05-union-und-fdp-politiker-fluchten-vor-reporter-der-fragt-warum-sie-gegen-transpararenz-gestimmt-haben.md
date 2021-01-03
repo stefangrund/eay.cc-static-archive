@@ -18,7 +18,7 @@ tags:
   - lobbyismus
   - politik
 meta:
-  - yourls_shorturl: "http://eay.li/214"
+  - yourls_shorturl: "https://eay.li/214"
   - linked_list_url: "http://beta.abgeordnetenwatch.de/2012/11/26/warum-haben-sie-gerade-gegen-transparenz-gestimmt-abgeordnete-fluchten-vor-reporter"
 ---
 

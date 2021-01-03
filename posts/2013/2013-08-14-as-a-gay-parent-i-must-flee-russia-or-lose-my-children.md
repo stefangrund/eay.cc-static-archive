@@ -16,7 +16,7 @@ tags:
   - russland
 meta:
   - linked_list_url: "http://www.theguardian.com/commentisfree/2013/aug/11/anti-gay-laws-russia"
-  - yourls_shorturl: "http://eay.li/26d"
+  - yourls_shorturl: "https://eay.li/26d"
 ---
 
 Die LGBT-Aktivistin Masha Gessen beschreibt im Guardian, wie neue, drakonische Gesetze Homosexuelle in Russland zu Menschen zweiter Klasse erklären. Für sich und ihre Familie kommt sie zu dem Entschluss, dass sie das Land verlassen müssen, da die Konsequenzen ansonsten nicht absehbar sind. (via [@theuer](https://twitter.com/theuer/status/367542770849697792))

@@ -14,7 +14,7 @@ tags:
   - futurama
   - zukunft
 meta:
-  - yourls_shorturl: "http://eay.li/eg"
+  - yourls_shorturl: "https://eay.li/eg"
 ---
 
 ![](https://eay.cc/uploads/2010/goodnewseveryone.jpg) (via [Fuck Yeah Slightly Amusing](http://fuckyeahslightlyamusing.tumblr.com/) via [@amyandpink](http://twitter.com/amyandpink/status/10538587587))

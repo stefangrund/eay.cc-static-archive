@@ -15,7 +15,7 @@ tags:
   - smart-phones-stupid-people
 meta:
   - linked_list_url: "http://www.dallasobserver.com/2014-02-13/news/the-facebook-comment-that-ruined-a-life/full/"
-  - yourls_shorturl: "http://eay.li/2cy"
+  - yourls_shorturl: "https://eay.li/2cy"
 ---
 
 Ein 18 jähriger Junge aus den USA verfasst auf Facebook einen blöden, unbedachten Amoklauf-Kommentar, der als Smartphone-Screenshot (?!) die kanadische Polizei erreicht, die den dann an die US-amerikanischen Behörden weitergibt, die den vermeintlichen Amokläufer einbuchten, seine Kaution unverhältnismäßig hoch ansetzen und ihn für 10 Jahre wegsperren wollen.

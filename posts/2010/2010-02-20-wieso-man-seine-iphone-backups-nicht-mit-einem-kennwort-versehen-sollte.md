@@ -15,7 +15,7 @@ tags:
   - iphone
   - itunes
 meta:
-  - yourls_shorturl: "http://eay.li/5d"
+  - yourls_shorturl: "https://eay.li/5d"
 ---
 
 ![](https://eay.cc/uploads/2010/iphonebackup.gif)

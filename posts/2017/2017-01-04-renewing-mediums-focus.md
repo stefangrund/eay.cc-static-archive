@@ -15,7 +15,7 @@ tags:
   - netzkultur
 meta:
   - linked_list_url: "https://blog.medium.com/renewing-mediums-focus-98f374a960be"
-  - yourls_shorturl: "http://eay.li/2w1"
+  - yourls_shorturl: "https://eay.li/2w1"
 ---
 
 Medium entlässt ein Drittel seiner Mitarbeiter und schließt seine Büros in Washington und New York. Laut CEO [Ev Williams](https://eay.cc/2016/ev-williams-is-the-forrest-gump-of-the-internet/) will man weg vom klassischen Werbegeschäft und neue Erlösmodelle und Wege finden. Für die Content­lieferanten... äh, Autoren... versteht sich.

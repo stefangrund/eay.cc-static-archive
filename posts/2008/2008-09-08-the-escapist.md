@@ -15,7 +15,7 @@ tags:
   - musik
   - the-streets
 meta:
-  - yourls_shorturl: "http://eay.li/mq"
+  - yourls_shorturl: "https://eay.li/mq"
 ---
 
 Passend zum Montagmorgen hier die Single "The Escapist" aus [Everything is Borrowed](http://www.amazon.de/exec/obidos/ASIN/B001DLU9MO/eayznet-21), dem neuen Album von Mike Skinner a.k.a. The Streets, das am 15. September erscheint.

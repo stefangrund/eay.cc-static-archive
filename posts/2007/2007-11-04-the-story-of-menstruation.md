@@ -19,7 +19,7 @@ tags:
   - retro
   - schule
 meta:
-  - yourls_shorturl: "http://eay.li/6o"
+  - yourls_shorturl: "https://eay.li/6o"
 ---
 
 > A basic explanation of the purpose and process of menstruation, told largely with diagrams (and completely avoiding the subject of sex).

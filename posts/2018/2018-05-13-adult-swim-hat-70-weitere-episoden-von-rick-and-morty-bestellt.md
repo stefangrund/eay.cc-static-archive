@@ -14,7 +14,7 @@ tags:
   - rick-and-morty
 meta:
   - linked_list_url: "https://nerdist.com/rick-and-morty-70-more-episodes/"
-  - yourls_shorturl: "http://eay.li/355"
+  - yourls_shorturl: "https://eay.li/355"
 ---
 
 ...so Serienerfinder [Justin Roiland](https://en.wikipedia.org/wiki/Justin_Roiland) vor ein paar Tagen [auf Instagram](https://instagram.com/p/BimnSEOhDNu/). 🎉

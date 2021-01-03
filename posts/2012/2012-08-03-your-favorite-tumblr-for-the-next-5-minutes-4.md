@@ -15,7 +15,7 @@ tags:
   - weltall
   - your-favorite-tumblr-for-the-next-5-minutes
 meta:
-  - yourls_shorturl: "http://eay.li/1l3"
+  - yourls_shorturl: "https://eay.li/1l3"
 ---
 
 ![](https://eay.cc/uploads/2012/catsinspace.gif) [OMG Cats in Space](http://omgcatsinspace.tumblr.com/) - Oh mein Gott, Katzen im Weltall! Und wo wir schon mal dabei sind, der Typ hat auch gleich [Weed](http://weedinspace.tumblr.com/), [(Fuck Yeah) Dogs](http://fuckyeahdogsinspace.tumblr.com/) und [Food](http://foodinspace.tumblr.com/) ins All geschickt. (via [Laughing Squid](http://laughingsquid.com/omg-cats-in-space-sends-cats-to-outer-space-with-animated-gifs/))

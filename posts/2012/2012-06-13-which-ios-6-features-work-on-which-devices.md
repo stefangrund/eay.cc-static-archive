@@ -14,7 +14,7 @@ tags:
   - ios
   - iphone
 meta:
-  - yourls_shorturl: "http://eay.li/1xr"
+  - yourls_shorturl: "https://eay.li/1xr"
   - linked_list_url: "http://www.macrumors.com/2012/06/12/new-features-in-ios-6-receive-spotty-support-from-older-devices/"
 ---
 

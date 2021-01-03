@@ -16,7 +16,7 @@ tags:
   - nvidia
   - project-shield
 meta:
-  - yourls_shorturl: "http://eay.li/218"
+  - yourls_shorturl: "https://eay.li/218"
   - linked_list_url: "http://www.theverge.com/2013/1/7/3845282/nvidia-announces-project-shield-handheld-gaming-system"
 ---
 

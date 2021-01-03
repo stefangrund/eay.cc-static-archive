@@ -20,7 +20,7 @@ meta:
   - content_copy: "https://www.instagram.com/p/B6yIVw4IOA7/"
   - content_copy: "https://twitter.com/eay/status/1212406323096240129"
   - content_copy: "https://eay.social/@eay/103408999632234864"
-  - yourls_shorturl: "http://eay.li/3c8"
+  - yourls_shorturl: "https://eay.li/3c8"
 ---
 
 ![](https://eay.cc/uploads/2020/kopenhagen.jpeg)

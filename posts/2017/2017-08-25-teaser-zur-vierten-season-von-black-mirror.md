@@ -15,7 +15,7 @@ tags:
   - serien
   - trailer
 meta:
-  - yourls_shorturl: "http://eay.li/30v"
+  - yourls_shorturl: "https://eay.li/30v"
 ---
 
 > Six new stories. Charlie Brooker's Black Mirror, coming soon.

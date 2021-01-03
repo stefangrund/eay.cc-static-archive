@@ -13,7 +13,7 @@ tags:
   - tiere
   - your-favorite-tumblr-for-the-next-5-minutes
 meta:
-  - yourls_shorturl: "http://eay.li/1vq"
+  - yourls_shorturl: "https://eay.li/1vq"
 ---
 
 ![](https://eay.cc/uploads/2013/dogshaming.jpg) [Dogshaming](http://dogshaming.tumblr.com/) - Ein Tumblelog über die Untaten des besten Freund des Menschen.

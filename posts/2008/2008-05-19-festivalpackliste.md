@@ -14,7 +14,7 @@ tags:
   - liste
   - rock-am-ring
 meta:
-  - yourls_shorturl: "http://eay.li/n"
+  - yourls_shorturl: "https://eay.li/n"
 ---
 
 [Hier](http://hodenmumps.to/2008/05/15/die-ultimative-festivalpackliste) gibt's eine wirklich brauchbare [Festivalpackliste (PDF)](http://hodenmumps.to/media/blogs/Hodenmumps/Festivalpackliste.pdf) zum Abhaken. Jeder der schon mal seinen Autoschlüssel im Kofferraum vergessen hat oder nach dem ersten Festivaltag nur noch Lumpen an den Füßen hatte, wird diese Erinnerungshilfe an Ersatzschlüssel und Gaffatape zu schätzen wissen. Die Festivalsaison kann kommen! ([via](http://twitter.com/The_McLee/statuses/812613201))

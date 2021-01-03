@@ -15,7 +15,7 @@ tags:
   - seinfeld
   - weihnachten
 meta:
-  - yourls_shorturl: "http://eay.li/2s"
+  - yourls_shorturl: "https://eay.li/2s"
 ---
 
 \[youtube id="DWcf7Ul1smY"\]

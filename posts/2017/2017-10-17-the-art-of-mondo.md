@@ -19,7 +19,7 @@ tags:
   - mondo
 meta:
   - content_copy: "https://instagram.com/p/BaXOIMqlWQ3/"
-  - yourls_shorturl: "http://eay.li/31w"
+  - yourls_shorturl: "https://eay.li/31w"
   - geo_latitude: "50.97382433985"
   - geo_longitude: "6.6830501318808"
   - geo_public: "1"

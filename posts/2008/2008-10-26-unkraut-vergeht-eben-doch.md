@@ -15,7 +15,7 @@ tags:
   - usa
   - wahlkampf
 meta:
-  - yourls_shorturl: "http://eay.li/sw"
+  - yourls_shorturl: "https://eay.li/sw"
 ---
 
 ![](/uploads/2008/bushkrieger.jpg) Das Cover des heute erscheinenden Spiegel greift ganz selbstreferenziell und Sequel-mäßig das Cover einer Ausgabe von 2002 auf. Im Cover Browser gibt's [größere Bilder](http://www.coverbrowser.com/bushwarriors) davon. ([via](http://www.nerdcore.de/wp/2008/10/26/spiegel-cover-%e2%80%9edie-bush-krieger%e2%80%9c-20022008/))

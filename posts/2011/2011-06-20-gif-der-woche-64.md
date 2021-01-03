@@ -14,7 +14,7 @@ tags:
   - gif-der-woche
   - star-wars
 meta:
-  - yourls_shorturl: "http://eay.li/190"
+  - yourls_shorturl: "https://eay.li/190"
 ---
 
 ![](https://eay.cc/uploads/2011/r2_and_c3po.gif) "Don't you call me a mindless philosopher, you overweight glob of grease!"

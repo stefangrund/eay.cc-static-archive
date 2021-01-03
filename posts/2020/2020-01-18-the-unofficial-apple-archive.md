@@ -16,7 +16,7 @@ tags:
   - werbung
 meta:
   - linked_list_url: "https://www.applearchive.org/"
-  - yourls_shorturl: "http://eay.li/3cg"
+  - yourls_shorturl: "https://eay.li/3cg"
   - content_copy: "https://twitter.com/eay/status/1218460446619054081"
   - content_copy: "https://eay.social/@eay/103503533341019882"
 ---

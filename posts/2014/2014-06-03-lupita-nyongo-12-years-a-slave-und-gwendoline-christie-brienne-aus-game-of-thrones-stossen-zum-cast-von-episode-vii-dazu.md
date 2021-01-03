@@ -16,7 +16,7 @@ tags:
   - star-wars
 meta:
   - linked_list_url: "http://starwars.com/star-wars-episode-vii-adds-academy-award-winner-lupita-nyongo-and-game-of-thrones-gwendoline-christie.html"
-  - yourls_shorturl: "http://eay.li/2gm"
+  - yourls_shorturl: "https://eay.li/2gm"
 ---
 
 Sehr gut, weil 1. zwei sehr tolle Schauspielerinnen und 2. endlich mehr Frauen als im [bereits angekündigten Cast](//eay.cc/2014/cast-von-star-wars-episode-vii-bekanntgegeben/).

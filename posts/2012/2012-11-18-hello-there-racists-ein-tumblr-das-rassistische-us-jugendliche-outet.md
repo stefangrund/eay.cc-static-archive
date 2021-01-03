@@ -15,7 +15,7 @@ tags:
   - tumblr
   - usa
 meta:
-  - yourls_shorturl: "http://eay.li/20c"
+  - yourls_shorturl: "https://eay.li/20c"
   - linked_list_url: "http://hellothereracists.tumblr.com/"
 ---
 

@@ -15,7 +15,7 @@ tags:
   - kunst
   - streetart
 meta:
-  - yourls_shorturl: "http://eay.li/1mx"
+  - yourls_shorturl: "https://eay.li/1mx"
 ---
 
 ![](https://eay.cc/uploads/2012/graffitigif.gif) Es sollte eindeutig viel mehr Graffitigifs geben!

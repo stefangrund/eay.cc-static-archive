@@ -17,7 +17,7 @@ tags:
   - star-wars
   - star-wars-uncut
 meta:
-  - yourls_shorturl: "http://eay.li/1my"
+  - yourls_shorturl: "https://eay.li/1my"
 ---
 
 Hier nochmal [unsere »Empire Uncut«-Szene](//eay.cc/2012/unsere-empire-uncut-szene/), diesmal ergänzt um das Original und einen Direktvergleich beider Szenen. Wir freuen uns natürlich weiterhin über Likes, Shares und Kommentare [auf der Star Wars Uncut-Webseite](http://www.starwarsuncut.com/scene/1191).

@@ -14,7 +14,7 @@ tags:
   - dinosaurier
   - lehrbuch
 meta:
-  - yourls_shorturl: "http://eay.li/15k"
+  - yourls_shorturl: "https://eay.li/15k"
 ---
 
 Natürlich möchte ich hier ab und zu auch meinem selbst auferlegten Bildungsauftrag nachkommen. Ihr habt's schließlich nötig. Und so wollen wir uns heute mit der Frage nach dem Aussterben der [Dinosaurier](//eay.cc/tag/dinosaurier/) beschäftigen. Denn von wegen Killermeteorit oder Megavulkan, es lag tatsächlich am Hunger, wie dieses leider unbekannte, aber sicherlich an US-amerikanischen Schulen eingesetzte Lehrbuch offenbart:

@@ -16,7 +16,7 @@ tags:
   - yahoo
 meta:
   - linked_list_url: "http://yahoo.tumblr.com/post/60332693287/introducing-our-new-logo"
-  - yourls_shorturl: "http://eay.li/26x"
+  - yourls_shorturl: "https://eay.li/26x"
 ---
 
 ...ist ja mal langweilig. Ich hätte ja ein Solo-Y mit Ausrufezeichen gut gefunden, wäre ein bisschen mehr Apple und weniger Google gewesen.

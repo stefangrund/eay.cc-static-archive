@@ -17,7 +17,7 @@ tags:
   - playstation
   - sport
 meta:
-  - yourls_shorturl: "http://eay.li/lo"
+  - yourls_shorturl: "https://eay.li/lo"
 ---
 
 ![](/uploads/2008/fccontroller.jpg) Gesehen im Elektronik"fach"handel in der Kölner Innenstadt.

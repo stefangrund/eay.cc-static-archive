@@ -15,7 +15,7 @@ tags:
   - technologie
 meta:
   - linked_list_url: "https://medium.com/@bryan/very-slow-movie-player-499f76c48b62"
-  - yourls_shorturl: "http://eay.li/38b"
+  - yourls_shorturl: "https://eay.li/38b"
 ---
 
 ![](https://eay.cc/uploads/2018/vsmp.jpg)

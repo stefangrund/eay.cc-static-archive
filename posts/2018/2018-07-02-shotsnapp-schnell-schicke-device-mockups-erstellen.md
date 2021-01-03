@@ -15,7 +15,7 @@ tags:
   - tool
 meta:
   - linked_list_url: "https://shotsnapp.com/"
-  - yourls_shorturl: "http://eay.li/35r"
+  - yourls_shorturl: "https://eay.li/35r"
 ---
 
 > A simple tool to let you quickly create beautiful mockup presentation for your app and website design.

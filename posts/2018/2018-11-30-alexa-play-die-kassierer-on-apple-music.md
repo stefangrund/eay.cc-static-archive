@@ -18,7 +18,7 @@ tags:
   - voice-assistants
 meta:
   - linked_list_url: "https://blog.aboutamazon.com/devices/alexa-play-bebe-rexha-on-apple-music"
-  - yourls_shorturl: "http://eay.li/381"
+  - yourls_shorturl: "https://eay.li/381"
 ---
 
 > Music has always been one of Alexa’s most popular features and today we’re excited to announce that Apple Music will be available on Echo devices beginning the week of December 17.

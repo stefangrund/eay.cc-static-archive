@@ -12,7 +12,7 @@ tags:
   - fernsehen
   - it-crowd
 meta:
-  - yourls_shorturl: "http://eay.li/io"
+  - yourls_shorturl: "https://eay.li/io"
 ---
 
 ![](/uploads/2007/itcrowd.jpg "Pressefoto von Channel4") Während meiner [Abwesenheit](//eay.cc/2007/ornithophobie/) ist die britische Computergeek-Comedy [The IT Crowd](http://en.wikipedia.org/wiki/The_IT_Crowd) in die zweite Staffel gestartet. Für mich [als alten ITler](//eay.cc/2007/serverschranke-sind-bose/) natürlich eine besondere Freude - für alle anderen aber auch. Ein Glück, dass sich einige Mitmenschen einen Dreck um Urheberrecht, Pipapo scheren und [Episode 1](http://www.youtube.com/watch?v=zSLrhtKmlSE) und [Episode 2](http://www.youtube.com/watch?v=rn6qc3zc0hQ) der zweiten Staffel bei YouTube hochgeladen haben. Beide sehr sehenswert. Heißt: ich hab mich weggeworfen.

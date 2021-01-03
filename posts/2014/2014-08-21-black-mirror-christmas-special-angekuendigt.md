@@ -17,7 +17,7 @@ tags:
   - weihnachten
 meta:
   - linked_list_url: "http://www.theguardian.com/tv-and-radio/2014/aug/21/charlie-brooker-black-mirror-christmas-special-channel-4"
-  - yourls_shorturl: "http://eay.li/2ia"
+  - yourls_shorturl: "https://eay.li/2ia"
 ---
 
 > The special is a single feature-length tale with three intertwined storylines. âI always enjoy a good ghost story at Christmas, and I´m a sucker for the Amicus compendium horror movies of the 70s,â Brooker told the Radio Times. âOur aim is to create the Black Mirror equivalent of that.â

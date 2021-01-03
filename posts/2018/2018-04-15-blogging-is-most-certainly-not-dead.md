@@ -20,7 +20,7 @@ tags:
 meta:
   - linked_list_url: "https://mailchi.mp/kottke/blogging-is-not-dead-edition-2575912502"
   - content_copy: "https://twitter.com/eay/status/985327089602752513"
-  - yourls_shorturl: "http://eay.li/34s"
+  - yourls_shorturl: "https://eay.li/34s"
 ---
 
 Really enjoyed the latest issue of [Kottke](https://kottke.org/)'s [“Noticing” newsletter](https://kottke.org/newsletter/). A great collection of reader recommended blogs and newsletters, ending with a great quote by [Kari](https://karigee.com/), about why she keeps on blogging:

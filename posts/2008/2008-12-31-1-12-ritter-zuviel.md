@@ -14,7 +14,7 @@ tags:
   - komoedie
   - til-schweiger
 meta:
-  - yourls_shorturl: "http://eay.li/1z"
+  - yourls_shorturl: "https://eay.li/1z"
 ---
 
 ![](/uploads/2008/112ritter.jpg)"Hey Stefan, kommst du heute Abend mit ins Kino und danach einen trinken?" Mit diesen Worten und vor allem dem letzten Satzteil lockten mich meine Freunde in der vergangenen Woche ins Kino. Und dann, gut, in ne Bar. Seit dieser Woche bin ich Nachts schweißgebadet aufgeschreckt und habe selbst im Tiefschlaf geschrien und gewimmert. Der Grund für meinen schlechten Schlaf war das, was mir im Kino vorgesetzt wurde - namentlich [1 1/2 Ritter](http://www.imdb.com/title/tt1187047/) und wahrhaftig der größte Mist, für den ich jemals Geld bezahlt habe. Und glaubt mir, ich habe für sehr viel großen Mist sehr viel Geld bezahlt...

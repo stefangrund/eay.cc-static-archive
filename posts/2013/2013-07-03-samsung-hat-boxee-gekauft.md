@@ -15,7 +15,7 @@ tags:
   - samsung
   - streaming
 meta:
-  - yourls_shorturl: "http://eay.li/24p"
+  - yourls_shorturl: "https://eay.li/24p"
   - linked_list_url: "http://bits.blogs.nytimes.com/2013/07/03/samsung-electronics-acquires-boxee-a-video-start-up/"
 ---
 

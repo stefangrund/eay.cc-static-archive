@@ -15,7 +15,7 @@ tags:
   - microsoft
   - xbox
 meta:
-  - yourls_shorturl: "http://eay.li/1wu"
+  - yourls_shorturl: "https://eay.li/1wu"
   - linked_list_url: "http://www.theverge.com/2012/6/16/3090944/microsoft-xbox-720-kinect-2-kinect-glasses-doc-leak-rumor"
 ---
 

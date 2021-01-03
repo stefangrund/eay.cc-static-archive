@@ -16,7 +16,7 @@ tags:
   - netzkultur
 meta:
   - linked_list_url: "http://arstechnica.com/apple/2015/09/os-x-10-11-el-capitan-the-ars-technica-review/"
-  - yourls_shorturl: "http://eay.li/2q5"
+  - yourls_shorturl: "https://eay.li/2q5"
 ---
 
 Meine Wochenendlektüre. (Es bedarf übrigens drei Autoren, um einen [John Siracusa](http://hypercritical.co/) zu ersetzen, der das Ars Technica Review ja bis zum letzten Jahr immer niedergeschrieben hat.)

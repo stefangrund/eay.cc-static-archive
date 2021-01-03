@@ -18,7 +18,7 @@ tags:
   - review-rundumschlag
   - the-wolf-of-wall-street
 meta:
-  - yourls_shorturl: "http://eay.li/2dk"
+  - yourls_shorturl: "https://eay.li/2dk"
 ---
 
 Nachdem ich [im letzten Jahr](//eay.cc/2013/oscar-prognose-2013/) das Kunststück vollbracht habe, sämtliche als Best Picture nominierten Filme zu sehen und keinen davon hier zu rezensieren, möchte ich es dieses Jahr anders herum versuchen: Kurz vor knapp ein Review-Rundumschlag mit den potentiellen Best Pictures, die ich in diesem Jahr gesehen habe. Und das waren neben »Gravity« mit »[The Wolf of Wall Street](#thewolfofwallstreet)«, »[12 Years a Slave](#12yearsaslave)« und »[American Hustle](#americanhustle)« die anderen drei besonders heiß gehandelten Kandidaten.

@@ -15,7 +15,7 @@ tags:
   - fanart
   - fernsehen
 meta:
-  - yourls_shorturl: "http://eay.li/2id"
+  - yourls_shorturl: "https://eay.li/2id"
 ---
 
 \[youtube id="ALcQh2HqKT4"\]

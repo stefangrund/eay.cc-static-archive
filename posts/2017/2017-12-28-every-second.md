@@ -18,7 +18,7 @@ meta:
   - linked_list_url: "http://www.everysecond.io/"
   - linked_list_url: "http://www.everysecond.io/"
   - linked_list_url: "http://www.everysecond.io/"
-  - yourls_shorturl: "http://eay.li/32u"
+  - yourls_shorturl: "https://eay.li/32u"
 ---
 
 > Every Second is a site aimed at visualizing the things that happen every second around the world.

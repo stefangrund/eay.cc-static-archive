@@ -18,7 +18,7 @@ tags:
   - sport
   - zeitung
 meta:
-  - yourls_shorturl: "http://eay.li/k9"
+  - yourls_shorturl: "https://eay.li/k9"
 ---
 
 Wenn's nach @[zuckerbrot](http://twitter.com/zuckerbrot) geht, sieht die morgige Bild-Zeitung so aus:

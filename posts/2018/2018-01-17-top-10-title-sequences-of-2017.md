@@ -20,7 +20,7 @@ meta:
   - linked_list_url: "http://www.artofthetitle.com/feature/top-10-title-sequences-of-2017/"
   - linked_list_url: "http://www.artofthetitle.com/feature/top-10-title-sequences-of-2017/"
   - linked_list_url: "http://www.artofthetitle.com/feature/top-10-title-sequences-of-2017/"
-  - yourls_shorturl: "http://eay.li/339"
+  - yourls_shorturl: "https://eay.li/339"
 ---
 
 > As chosen by Art of the Title.

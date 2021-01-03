@@ -11,7 +11,7 @@ tags:
   - bizarres
   - problem
 meta:
-  - yourls_shorturl: "http://eay.li/n0"
+  - yourls_shorturl: "https://eay.li/n0"
 ---
 
 Man erkläre mir bitte, warum das Bild meines Fernsehers umso mehr flackert je höher bzw. wärmer ich mein kleines Heizöfchen stelle? Wenn ich das Antennenkabel aus Videorekorder und D-Box nehme und direkt in den Fernseher stecke, flackert's auch nicht mehr. Sobald's wieder in einem anderen Gerät steckt, flackert das Bild. Ich versteh das nicht?! Kann ich Premiere jetzt nur noch im Kalten gucken? **HELP!**

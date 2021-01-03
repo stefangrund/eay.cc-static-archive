@@ -18,7 +18,7 @@ tags:
   - superhelden
 meta:
   - linked_list_url: "http://www.moviepilot.de/news/seht-alle-30-superhelden-filme-bis-2020-in-einer-liste-131998"
-  - yourls_shorturl: "http://eay.li/2hz"
+  - yourls_shorturl: "https://eay.li/2hz"
 ---
 
 Das wird sicherlich gut gehen. (via [Nerdcore](http://www.crackajack.de/2014/08/08/30-comic-movies-in-5-years/))

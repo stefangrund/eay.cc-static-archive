@@ -19,7 +19,7 @@ tags:
   - shortfil-ms
   - webservice
 meta:
-  - yourls_shorturl: "http://eay.li/2l6"
+  - yourls_shorturl: "https://eay.li/2l6"
 ---
 
 In der vergangenen Woche habe ich den ein oder anderen auf Twitter mit meinem täglichen Countdown zum [#SecretNewProject](https://twitter.com/search?f=realtime&q=%23SecretNewProject%20from%3Aeay&src=typd) in den Wahnsinn [getrieben](https://twitter.com/patsbin/status/537963109072523264). Gestern Nachmittag Abend hatte das [Rätseln](https://twitter.com/UARRR/status/537700466256515072) [und](https://twitter.com/AndiH/status/537882299459964928) [Warten](https://twitter.com/timomeh/status/538831085090918400) dann ein Ende und wir konnten endlich das Projekt, an dem wir die letzten Wochen gearbeitet haben, uraufführen: [**shortfil.ms**](http://shortfil.ms), eine neue Plattform zum Entdecken und Schauen von Kurzfilmen!

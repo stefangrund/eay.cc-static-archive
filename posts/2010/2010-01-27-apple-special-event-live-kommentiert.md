@@ -16,7 +16,7 @@ tags:
   - konsum
   - tablet
 meta:
-  - yourls_shorturl: "http://eay.li/4"
+  - yourls_shorturl: "https://eay.li/4"
 ---
 
 ![](https://eay.cc/uploads/2010/applespecialevent.gif) Heute findet das sagenumwobene Special Event ("Come see our latest creation") statt, bei dem Apple allem Anschein nach [das sagenumwobene Tablet](//eay.cc/2009/apples-flachmann/) präsentieren wird. Wie schon damals bei den Macworld Keynotes (hier [2009](//eay.cc/2009/macworld-2009/) und [2008](//eay.cc/2008/macworld-2008/)) werde ich auch dieses Event wieder beobachten, hier live kommentieren und zusammen mit euch die von unser aller Steve gedroschenen Phrasen auseinandernehmen. Gegen 19 Uhr geht's los; vielleicht sind ja einige von euch dabei. :)

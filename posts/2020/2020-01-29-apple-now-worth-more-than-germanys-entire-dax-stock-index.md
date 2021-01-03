@@ -16,7 +16,7 @@ tags:
   - geld
 meta:
   - linked_list_url: "https://www.macrumors.com/2020/01/29/apple-worth-more-than-germany-dax/"
-  - yourls_shorturl: "http://eay.li/3cl"
+  - yourls_shorturl: "https://eay.li/3cl"
   - geo_latitude: "50.940677358761"
   - geo_longitude: "6.9388882967813"
   - geo_public: "1"

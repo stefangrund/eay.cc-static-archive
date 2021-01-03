@@ -14,7 +14,7 @@ tags:
   - webdesign
 meta:
   - linked_list_url: "http://updateyourfooter.com/"
-  - yourls_shorturl: "http://eay.li/2m5"
+  - yourls_shorturl: "https://eay.li/2m5"
 ---
 
 > Change your static timestamp to an automatically updating copyright year or other dynamic timestamp.

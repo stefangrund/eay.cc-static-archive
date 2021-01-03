@@ -15,7 +15,7 @@ tags:
   - gif-der-woche
   - musik
 meta:
-  - yourls_shorturl: "http://eay.li/eo"
+  - yourls_shorturl: "https://eay.li/eo"
 ---
 
 ![](/uploads/2009/icantdance.gif)

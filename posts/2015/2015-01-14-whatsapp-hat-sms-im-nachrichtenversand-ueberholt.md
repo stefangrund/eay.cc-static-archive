@@ -27,7 +27,7 @@ meta:
   - linked_list_url: "http://ben-evans.com/benedictevans/2015/1/11/whatsapp-sails-past-sms-but-where-does-messaging-go-next"
   - linked_list_url: "http://ben-evans.com/benedictevans/2015/1/11/whatsapp-sails-past-sms-but-where-does-messaging-go-next"
   - linked_list_url: "http://ben-evans.com/benedictevans/2015/1/11/whatsapp-sails-past-sms-but-where-does-messaging-go-next"
-  - yourls_shorturl: "http://eay.li/2ml"
+  - yourls_shorturl: "https://eay.li/2ml"
 ---
 
 Aus Chronistenpflicht und weil es so schön zur zeitlichen Einordnung [beim 12 jährigen](//eay.cc/2015/12-jahre/) passt: Die 700 Millionen WhatsApp-Nutzer verschicken täglich rund 30 Milliarden Nachrichten (die Hälfte davon in den Gruppen meiner Frau), wohingegen weltweit nur noch 20 Milliarden SMS pro Tag verschickt werden.

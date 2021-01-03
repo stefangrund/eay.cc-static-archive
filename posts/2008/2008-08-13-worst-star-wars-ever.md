@@ -17,7 +17,7 @@ tags:
   - star-wars
   - the-clone-wars
 meta:
-  - yourls_shorturl: "http://eay.li/1x"
+  - yourls_shorturl: "https://eay.li/1x"
 ---
 
 ![](/uploads/2008/theclonewars.jpg)Zuallererst und [unschwer erkennbar](//eay.cc/tag/star-wars/): ich liebe Star Wars - so wie ein Junge ein paar Filme lieben kann. Ich mag sogar die neue Trilogie wenngleich meine große Liebe immer noch die klassische ist. Ja, ich habe unterdurchschnittliche Spiele gespielt, sehr öde Comics gelesen und sogar die [2003er Klonkriege](http://www.amazon.de/exec/obidos/ASIN/B0007PLFKC/eayznet-21) in meinem Besitz überführt. Und wenn irgendwo ein Lichtschwert auftaucht, bin ich [Feuer](http://twitter.com/Eay/statuses/884048591) und [Flamme](http://twitter.com/Eay/statuses/884085820). Weil: Star Wars. Nicht weiter verwunderlich also, dass ich mir eben auch [Star Wars: The Clone Wars](http://www.imdb.com/title/tt1185834/) blauäugig in der Vorpremiere gegeben habe.

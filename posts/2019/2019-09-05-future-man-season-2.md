@@ -15,7 +15,7 @@ tags:
   - serien
   - zeitreisen
 meta:
-  - yourls_shorturl: "http://eay.li/3bb"
+  - yourls_shorturl: "https://eay.li/3bb"
   - geo_latitude: "50.97387228227"
   - geo_longitude: "6.6829128028514"
   - geo_public: "1"

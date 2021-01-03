@@ -16,7 +16,7 @@ tags:
   - terroristen
 meta:
   - linked_list_url: "https://chrome.google.com/webstore/detail/terrorist-to-coward/camjpbmlpgfcgilkohfkglmeojghicik"
-  - yourls_shorturl: "http://eay.li/2qw"
+  - yourls_shorturl: "https://eay.li/2qw"
 ---
 
 > This chrome extension changes the word "terrorist" (and variations of) to "coward" on web pages.

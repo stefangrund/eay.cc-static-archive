@@ -13,7 +13,7 @@ tags:
   - bizarres
   - your-favorite-tumblr-for-the-next-5-minutes
 meta:
-  - yourls_shorturl: "http://eay.li/2de"
+  - yourls_shorturl: "https://eay.li/2de"
 ---
 
 ![](https://eay.cc/uploads/2014/willitbeard.jpg)

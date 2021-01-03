@@ -15,7 +15,7 @@ tags:
   - publishing
   - tumblr
 meta:
-  - yourls_shorturl: "http://eay.li/23o"
+  - yourls_shorturl: "https://eay.li/23o"
   - linked_list_url: "http://www.marco.org/2013/05/29/sold-the-magazine"
 ---
 

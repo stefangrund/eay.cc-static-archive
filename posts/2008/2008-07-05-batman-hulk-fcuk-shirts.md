@@ -16,7 +16,7 @@ tags:
   - the-dark-knight
   - tshirt
 meta:
-  - yourls_shorturl: "http://eay.li/ye"
+  - yourls_shorturl: "https://eay.li/ye"
 ---
 
 Nach dem hundersten Betrachten [jeglicher Trailer und Schnipsel](http://blog.affenheimtheater.de/tag/the-dark-knight/) von [The Dark Knight](http://www.imdb.com/title/tt0468569/), hat [Limpi](http://spaetz.eayz.net/) mich gerade darauf aufmerksam gemacht, dass es sehr coole [Batman-Shirts von French Connection](http://www.frenchconnection.com/category/mens+batmantees/batman+tees.htm) gibt. Quasi ein Muss für den Premierenbesuch.

@@ -13,7 +13,7 @@ tags:
   - gewalt
   - gif-der-woche
 meta:
-  - yourls_shorturl: "http://eay.li/a"
+  - yourls_shorturl: "https://eay.li/a"
 ---
 
 ![](https://eay.cc/uploads/2010/iamnotanartist.gif) Aus [I'm not an artist](http://www.iamnotanartist.org/index.php), einem Gemeinschaftsprojekt verschiedener Designer, die alle die Liebe zum animierten .gif teilen. ? Künstlerisch besonders wertvoll. (via [Feingut](http://feingut.com/2010/04/11/i-am-not-an-artist/))

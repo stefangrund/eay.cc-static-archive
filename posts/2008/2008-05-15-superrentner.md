@@ -13,7 +13,7 @@ tags:
   - fanart
   - superhelden
 meta:
-  - yourls_shorturl: "http://eay.li/np"
+  - yourls_shorturl: "https://eay.li/np"
 ---
 
 ![](/uploads/2008/alterbatman.jpg "by Donald Soffritti") In seinem [Blog](http://donaldsoffritti.blogspot.com/) lässt Donald Soffritti [Superhelden altern](http://donaldsoffritti.blogspot.com/search?q=decadence). Sehr sehenswert! ([via](http://www.i-jeriko.de/2008/05/14/alternde-superhelden/))

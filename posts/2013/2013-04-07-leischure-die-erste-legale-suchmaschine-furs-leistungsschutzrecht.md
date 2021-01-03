@@ -15,7 +15,7 @@ tags:
   - leistungsschutzrecht
   - suchmaschinen
 meta:
-  - yourls_shorturl: "http://eay.li/22t"
+  - yourls_shorturl: "https://eay.li/22t"
   - linked_list_url: "http://leischure.odem.org/"
 ---
 

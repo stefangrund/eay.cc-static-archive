@@ -18,7 +18,7 @@ tags:
   - streaming
 meta:
   - linked_list_url: "https://www.serieslyawesome.tv/disney-plus-deutschland-starttermin-preise-stehen-fest/"
-  - yourls_shorturl: "http://eay.li/3cj"
+  - yourls_shorturl: "https://eay.li/3cj"
 ---
 
 \[youtube id="6ZaPv6-7Eto"\]

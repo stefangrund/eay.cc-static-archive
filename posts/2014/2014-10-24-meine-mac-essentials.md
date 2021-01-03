@@ -16,7 +16,7 @@ tags:
   - empfehlungen
   - mac
 meta:
-  - yourls_shorturl: "http://eay.li/2kc"
+  - yourls_shorturl: "https://eay.li/2kc"
 ---
 
 Vor ein paar Wochen hat sich ein Freund seinen ersten Mac gekauft und mich um App-Empfehlungen gebeten. Da ich bereits seit fast einem Jahrzehnt auf die Maschinen aus Cupertino setze, passiert das relativ regelmäßig. Eine Bitte der ich dann auch immer gerne nachkomme, habe ich in den letzten Jahren doch keine Kosten und Mühen gescheut und im Netz und später im App Store nach den besten der besten Apps gefahndet.

@@ -15,7 +15,7 @@ tags:
   - netflix
   - serien
 meta:
-  - yourls_shorturl: "http://eay.li/36c"
+  - yourls_shorturl: "https://eay.li/36c"
 ---
 
 \[youtube id="Gp\_RnJcb8Ig"\]

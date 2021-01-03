@@ -18,7 +18,7 @@ tags:
   - politik
 meta:
   - linked_list_url: "http://www.slate.com/blogs/the_vault/2013/08/01/queen_elizabeth_speech_written_for_her_to_give_in_case_of_nuclear_war.html"
-  - yourls_shorturl: "http://eay.li/25s"
+  - yourls_shorturl: "https://eay.li/25s"
 ---
 
 > We all know the dangers facing us today are greater by far than at any time in our long history. The enemy is not the soldier with his rifle nor even the airman prowling the skies above our cities and towns but the deadly power of abused technology.

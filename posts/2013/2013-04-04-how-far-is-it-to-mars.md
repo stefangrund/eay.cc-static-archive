@@ -16,7 +16,7 @@ tags:
   - weltall
   - wissenschaft
 meta:
-  - yourls_shorturl: "http://eay.li/22s"
+  - yourls_shorturl: "https://eay.li/22s"
   - linked_list_url: "http://www.distancetomars.com/"
 ---
 

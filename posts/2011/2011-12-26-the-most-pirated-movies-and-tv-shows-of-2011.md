@@ -16,7 +16,7 @@ tags:
   - piraterie
   - torrent
 meta:
-  - yourls_shorturl: "http://eay.li/1du"
+  - yourls_shorturl: "https://eay.li/1du"
 ---
 
 Wie schon [im letzten Jahr](//eay.cc/2010/the-most-pirated-movies-of-2010/) hat [TorrentFreak](http://torrentfreak.com/), weiterhin everybody´s favorite filesharing news blog, Top 10-Listen der am häufigsten per BitTorrent heruntergeladenen Filme und TV-Serien zusammengestellt. Und wieder hat das piratische Publikum einen durchwachsenen Geschmack mit Tendenz zum hirnlosen Einheitsbrei bewiesen: So war der vor Testosteron strotzende Autos-/Action-/Frauen-Kracher »Fast & Furious Five« ((Den ich bezeichnenderweise neben »Rango« als einzigen auf der Liste nicht gesehen habe, was ich auch nicht unbedingt vorhabe zu ändern, solange ihr mir jetzt nicht von der Großartigkeit des Films vorschwärmt...)) der meist geladene Film 2011, dicht gefolgt vom Absturzzelebrationssequel »Hangover 2« und dem miesen Göttergeplänkel »Thor«. Aber immerhin reihen sich dann noch Perlen wie »Source Code« und »Sucker Punch« ((Der Film wurde nach dem Kinobesuch von den uns begleitenden Damen als "frauenfeindlich" bezeichnet, aber uns Jungs hat Zack Snyders knöchelhoch tiefgehende Männerphantasie zumindest optisch überaus gut gefallen.)) und diesjährige Oscar-Favorites wie »127 Hours« und »The King's Speech« dazu. Dass Mainstreams Lieblingssequels »[Transformers 3](//eay.cc/2011/review-transformers-3/)« und »[Fluch der Karibik 4](//eay.cc/2011/was-haben-diese-scheis-leguane-auf-meinem-couchtisch-verloren/)« es jedoch nicht in die Top 10 geschafft haben, verwundert dann doch.

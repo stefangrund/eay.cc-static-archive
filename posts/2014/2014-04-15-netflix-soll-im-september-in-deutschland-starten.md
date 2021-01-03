@@ -17,7 +17,7 @@ tags:
   - streaming
 meta:
   - linked_list_url: "https://curved.de/news/netflix-startet-ab-september-in-deutschland-46845"
-  - yourls_shorturl: "http://eay.li/2em"
+  - yourls_shorturl: "https://eay.li/2em"
 ---
 
 > Wie CURVED von mehreren mit dem Prozess vertrauten Personen erfahren konnte, geht der Deutschland-Ableger noch in diesem Herbst live. Im September soll Netflix dann seinen deutschen Service starten. Das Unternehmen will den Launchtermin auf Anfrage noch nicht kommentieren.

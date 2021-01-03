@@ -14,7 +14,7 @@ tags:
   - webcomic
   - wissenschaft
 meta:
-  - yourls_shorturl: "http://eay.li/1x6"
+  - yourls_shorturl: "https://eay.li/1x6"
   - linked_list_url: "https://vimeo.com/41038445"
 ---
 

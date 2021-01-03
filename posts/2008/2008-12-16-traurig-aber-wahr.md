@@ -12,7 +12,7 @@ tags:
   - netzkultur
   - weihnachten
 meta:
-  - yourls_shorturl: "http://eay.li/r8"
+  - yourls_shorturl: "https://eay.li/r8"
 ---
 
 ![](/uploads/2008/entrepreneure.jpg "vom grosseweltblog") Ich fordere die Bundesregierung hiermit auf, minderjährige Entrepreneure zu verbieten und / oder Glühweinbecherpfand zu subventionieren. (Graph [vom grosseweltblog](http://grosseweltblog.wordpress.com/2008/12/03/darf-ich-den-zuruck-bringen/), [via](http://www.physikblog.eu/2008/12/16/graphen-zum-advent-1-geoeffnete-tuerchen-im-adventskalender/))

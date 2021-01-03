@@ -20,7 +20,7 @@ tags:
   - quantified-self
   - statistik
 meta:
-  - yourls_shorturl: "http://eay.li/2ri"
+  - yourls_shorturl: "https://eay.li/2ri"
 ---
 
 Jahresende! Das heißt hier ganz traditionell – und von "Tradition" kann man beim [neunten Mal in Folge](//eay.cc/2014/kinostatistik-2014/) sicherlich schon sprechen –, dass es Zeit für meine on- und offline freudig erwartete Kinostatistik ist. Seit 2007 halte ich so fest, wie oft es mich im vergangenen Jahr ins Kino gezogen hat und wieviel mich der Spaß insgesamt und durchschnittlich (ohne Speisen und Getränke) kostete und wie sich die Kosten für einen Kinobesuch seitdem hierzulande entwickelt haben.

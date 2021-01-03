@@ -13,7 +13,7 @@ tags:
   - daft-punk
   - musik
 meta:
-  - yourls_shorturl: "http://eay.li/23h"
+  - yourls_shorturl: "https://eay.li/23h"
   - linked_list_url: "http://www.andisblog.de/2013/05/12/daft-punk-und-der-hype/"
 ---
 

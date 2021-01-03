@@ -14,7 +14,7 @@ tags:
   - edward-snowden
 meta:
   - linked_list_url: "https://netzpolitik.org/2014/edward-snowden-zum-neuen-rektor-der-universitaet-glasgow-gewaehlt/"
-  - yourls_shorturl: "http://eay.li/2d3"
+  - yourls_shorturl: "https://eay.li/2d3"
 ---
 
 Wait, what? [Ach so](https://en.m.wikipedia.org/wiki/Rector_of_the_University_of_Glasgow), ist ein symbolischer Akt und die wählen öfters mal Aktivisten.

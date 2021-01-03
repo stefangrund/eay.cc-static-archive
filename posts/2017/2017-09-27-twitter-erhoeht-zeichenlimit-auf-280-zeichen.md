@@ -14,7 +14,7 @@ tags:
   - twitter
 meta:
   - linked_list_url: "https://blog.twitter.com/official/en_us/topics/product/2017/Giving-you-more-characters-to-express-yourself.html"
-  - yourls_shorturl: "http://eay.li/31b"
+  - yourls_shorturl: "https://eay.li/31b"
 ---
 
 Ich persönlich fand die 256 Zeichen von [App.net](https://eay.cc/tag/app-net/) immer etwas angenehmer, weshalb ich diesen Schritt begrüße, aber nach elf Jahren wird das Twitter auch nicht mehr den Durchbruch bringen.

@@ -12,7 +12,7 @@ tags:
   - kirby-krackle
   - musik
 meta:
-  - yourls_shorturl: "http://eay.li/zd"
+  - yourls_shorturl: "https://eay.li/zd"
 ---
 
  ([YouTube Direktnerds](http://www.youtube.com/watch?v=-i1Gg7_K250); aus dem aktuellen Blumentopf-Album [Wir](http://www.amazon.de/exec/obidos/ASIN/B003KEPVRU/eayznet-21))

@@ -14,7 +14,7 @@ tags:
   - jimmy-kimmel
   - star-wars
 meta:
-  - yourls_shorturl: "http://eay.li/238"
+  - yourls_shorturl: "https://eay.li/238"
   - linked_list_url: "http://www.youtube.com/watch?v=7T0vs9gYydo"
 ---
 

@@ -15,7 +15,7 @@ tags:
   - jurassic-park
   - retro
 meta:
-  - yourls_shorturl: "http://eay.li/2i7"
+  - yourls_shorturl: "https://eay.li/2i7"
 ---
 
 \[youtube id="OT\_n5Xr2W9s"\]

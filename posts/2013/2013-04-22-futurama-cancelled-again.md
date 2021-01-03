@@ -13,7 +13,7 @@ tags:
   - fernsehen
   - futurama
 meta:
-  - yourls_shorturl: "http://eay.li/232"
+  - yourls_shorturl: "https://eay.li/232"
   - linked_list_url: "http://www.slashfilm.com/futurama-cancelled-again/"
 ---
 

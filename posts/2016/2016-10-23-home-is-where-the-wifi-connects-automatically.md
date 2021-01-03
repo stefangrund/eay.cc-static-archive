@@ -16,7 +16,7 @@ tags:
   - wlan
 meta:
   - content_copy: "https://instagram.com/p/BL6533qgxD1/"
-  - yourls_shorturl: "http://eay.li/2yg"
+  - yourls_shorturl: "https://eay.li/2yg"
 ---
 
 ![](https://eay.cc/uploads/2016/home-is-where-the-wifi-connects-automatically.jpeg)

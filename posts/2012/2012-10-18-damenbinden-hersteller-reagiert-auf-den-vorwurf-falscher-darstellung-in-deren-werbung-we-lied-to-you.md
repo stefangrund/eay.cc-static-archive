@@ -14,7 +14,7 @@ tags:
   - social-media
   - werbung
 meta:
-  - yourls_shorturl: "http://eay.li/1zn"
+  - yourls_shorturl: "https://eay.li/1zn"
   - linked_list_url: "http://www.youtube.com/watch?v=Bpy75q2DDow"
 ---
 

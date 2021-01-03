@@ -20,7 +20,7 @@ meta:
   - linked_list_url: "https://www.iphoneblog.de/2017/03/22/send-to-kindle/"
   - linked_list_url: "https://www.iphoneblog.de/2017/03/22/send-to-kindle/"
   - linked_list_url: "https://www.iphoneblog.de/2017/03/22/send-to-kindle/"
-  - yourls_shorturl: "http://eay.li/2xa"
+  - yourls_shorturl: "https://eay.li/2xa"
 ---
 
 > Send to Kindle – Now you can save documents and web pages to your Kindle library. Tap the share button in Safari and add Kindle as a destination. Web pages are converted to Kindle format so you can adjust the text, font and page color, and read on any Kindle app or device.

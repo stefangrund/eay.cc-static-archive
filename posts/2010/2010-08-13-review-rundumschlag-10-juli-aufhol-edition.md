@@ -14,7 +14,7 @@ tags:
   - tom-cruise
   - twilight
 meta:
-  - yourls_shorturl: "http://eay.li/106"
+  - yourls_shorturl: "https://eay.li/106"
 ---
 
 [Wie angekündigt](//eay.cc/2010/review-rundumschlag-9-teil-2/) geht's direkt mit den Juli-Reviews weiter. Diesmal sogar mit Filmen, die sogar noch im Kino laufen. Zwar nur noch sporadisch oder zur Spätvorstellung, aber immerhin! Bald sind wir jedenfalls wieder up-to-date...

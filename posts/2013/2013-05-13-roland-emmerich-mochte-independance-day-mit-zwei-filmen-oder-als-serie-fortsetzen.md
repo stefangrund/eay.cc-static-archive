@@ -15,7 +15,7 @@ tags:
   - roland-emmerich
   - sequel
 meta:
-  - yourls_shorturl: "http://eay.li/23i"
+  - yourls_shorturl: "https://eay.li/23i"
   - linked_list_url: "http://www.slashfilm.com/roland-emmerich-hopes-to-create-a-series-of-independence-day-films-jeff-goldblum-expected-to-returm/"
 ---
 

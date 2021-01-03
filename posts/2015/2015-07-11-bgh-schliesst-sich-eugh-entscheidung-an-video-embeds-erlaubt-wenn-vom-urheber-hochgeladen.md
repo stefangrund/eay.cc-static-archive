@@ -16,7 +16,7 @@ tags:
   - youtube
 meta:
   - linked_list_url: "http://www.faz.net/aktuell/feuilleton/bgh-erlaubt-einbetten-von-internetvideos-mit-einschraenkung-13694289.html"
-  - yourls_shorturl: "http://eay.li/2oy"
+  - yourls_shorturl: "https://eay.li/2oy"
 ---
 
 Der BGH hat die [Entscheidung des EuGH](//eay.cc/2014/eugh-eingebettete-videos-verstossen-nicht-gegen-das-urheberrecht/), die im letzten Jahr der Startschuss für die Entwicklung von shortfil.ms war, nun bestätigt. Dabei aber nochmal den Punkt, den das EuGH bereits nannte, explizit und verpflichtend herausgestellt:

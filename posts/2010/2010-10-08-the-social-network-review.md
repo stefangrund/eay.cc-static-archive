@@ -13,7 +13,7 @@ tags:
   - kinolog
   - mark-zuckerberg
 meta:
-  - yourls_shorturl: "http://eay.li/12j"
+  - yourls_shorturl: "https://eay.li/12j"
 ---
 
 ![](https://eay.cc/uploads/2010/thesocialnetwork1.jpg) [![](https://eay.cc/uploads/2010/thesocialnetwork2.gif)](http://www.facebook.com/stefangrund)

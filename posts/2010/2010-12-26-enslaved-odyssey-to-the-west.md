@@ -15,7 +15,7 @@ tags:
   - playstation
   - xbox
 meta:
-  - yourls_shorturl: "http://eay.li/13k"
+  - yourls_shorturl: "https://eay.li/13k"
 ---
 
 ![](https://eay.cc/uploads/2010/enslaved1.jpg)

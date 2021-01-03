@@ -20,7 +20,7 @@ tags:
   - quantified-self
   - statistik
 meta:
-  - yourls_shorturl: "http://eay.li/32y"
+  - yourls_shorturl: "https://eay.li/32y"
 ---
 
 Letzte Amtshandlung für dieses Jahr, ist wie immer meine alljährliche Kino­statistik! Auch [im elften Jahr in Folge](https://eay.cc/2016/kinostatistik-2016/) möchte ich den letzten Tag des Jahres nutzen, um nachzuhalten, wie oft es mich in den vergangenen 52 Wochen ins Kino zog und wieviel mich der Spaß insgesamt und durch­schnitt­lich (ohne Speisen und Getränke) kostete und ob der stetige Preisanstieg sich auch in diesem Jahr unaufhaltsam fortsetzte. Wollen wir mal gucken...

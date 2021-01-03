@@ -13,7 +13,7 @@ tags:
   - komoedie
   - spoof
 meta:
-  - yourls_shorturl: "http://eay.li/jc"
+  - yourls_shorturl: "https://eay.li/jc"
 ---
 
 ![](/uploads/2007/fantasticmovie.jpg)Als der Anruf mit der Anfrage kam, ob ich mein schwerverdientes Geld gegen das Ansehen des [Fantastic Movie](http://www.imdb.com/title/tt0799949/) tauschen will, war ich doch schwer erschrocken. (Oh Gott, was hast du für nur merk- würdige Freunde?) Ich verneinte ... und liess mich schließlich doch überreden. "Und wie wars?", höre ich euch kichern. Pah, lassen wir doch andere sprechen: Beim Tomatometer von [Rotten Tomatoes](http://www.rottentomatoes.com/m/epic_movie/) hat der Epic Movie, wie er im Original heißt, erschreckende 2 Prozent von 100 erlangt. "Everything you loved about the past couple of years' blockbusters, only much less entertaining and with a lot more urination", sagt Kritiker [Luke Y. Thompson](http://www.rottentomatoes.com/author-3290/) von E! Online. Bei der IMDb ist der Film spontan auf Platz 30 der [Bottom 100](http://www.imdb.com/chart/bottom) eingestiegen. Und bei [Metacritic](http://www.metacritic.com/film/titles/epicmovie) sieht's nicht besser aus: Ein Metascore, ein Durchschnitt der Rezensionen verschiedener Zeitungen, von 17 von 100 Punkten. Heißt _extreme dislike or disgust_.

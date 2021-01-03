@@ -16,7 +16,7 @@ tags:
   - web-entwicklung
 meta:
   - linked_list_url: "http://alexanderperrin.com.au/paper/shorttrip/"
-  - yourls_shorturl: "http://eay.li/31c"
+  - yourls_shorturl: "https://eay.li/31c"
 ---
 
 > Short Trip is the first instalment in a collection of interactive illustrations created for the web. It has been created as a study into capturing the essence of graphite on paper within a digital context, and to learn more about web-based graphics technologies. Short Trip will run on most devices supporting WebGL, including mobile devices.

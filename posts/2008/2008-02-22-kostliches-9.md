@@ -16,7 +16,7 @@ tags:
   - sesamstrasse
   - uwe-boll
 meta:
-  - yourls_shorturl: "http://eay.li/y"
+  - yourls_shorturl: "https://eay.li/y"
 ---
 
 - [**The Song of the Count**](http://youtube.com/watch?v=6AXPnH0C9UA) · "You know that I am called the count, because I really love to fuck." Graf Zahl singt von seiner Lieblingsbeschäftigung. Ohrwurmalarm! (via [McLee](http://twitter.com/The_McLee/statuses/739624212))

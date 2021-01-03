@@ -13,7 +13,7 @@ tags:
   - liam-neeson
   - ricky-gervais
 meta:
-  - yourls_shorturl: "http://eay.li/1cb"
+  - yourls_shorturl: "https://eay.li/1cb"
 ---
 
 In der neuen Mockumentary-Serie »[Life's Too Short](http://en.wikipedia.org/wiki/Life's_Too_Short)« von [Ricky Gervais](http://en.wikipedia.org/wiki/Ricky_Gervais) und [Stephen Merchant](http://en.wikipedia.org/wiki/Stephen_Merchant) geht's um das Leben des kleinwüchsigen Schauspielers [Warwick Davis](http://en.wikipedia.org/wiki/Warwick_Davis), der uns u.a. als Ewok in »Die Rückkehr der Jedi-Ritter«, [Willow](http://en.wikipedia.org/wiki/Willow_(film)) und [Leprechaun](http://en.wikipedia.org/wiki/Leprechaun_(film)) bekannt sein könnte. Der bisher ausgestrahlte Pilot ist eher so _na ja_ und wäre eigentlich eher einen Tweet als einen eigenen Blogeintrag wert, wäre da nicht eine völlig geniale Szene, die dann doch noch alles rausreißt und in Zeiten von YouTube & Co. natürlich auch alleine gefeatured werden kann. Und zwar eine Szene in der Ober-Badass [Liam Neeson](http://en.wikipedia.org/wiki/Liam_Neeson) Gervais, Merchant und Davis aufsucht, um Tipps für den Start seiner eigenen Stand-up-Comedian-Karriere zu bekommen. Das ganze ist pures Comedygold und Liam Neeson als _Most Serious Comic Ever_ einfach nur großartig. Ansehen!

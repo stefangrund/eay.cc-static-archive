@@ -12,7 +12,7 @@ tags:
   - fernsehen
   - seinfeld
 meta:
-  - yourls_shorturl: "http://eay.li/gy"
+  - yourls_shorturl: "https://eay.li/gy"
 ---
 
 Passend zum [.gif der Woche von neulich altlich](//eay.cc/2009/gif-der-woche-28/): Every single Kramer entrance in chronological order. Ja, das verspricht 370,2 Sekunden groben Unfug...

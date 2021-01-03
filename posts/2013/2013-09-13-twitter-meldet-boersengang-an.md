@@ -15,7 +15,7 @@ tags:
   - twitter
 meta:
   - linked_list_url: "http://dealbook.nytimes.com/2013/09/12/twitter-confidentially-submits-plans-for-i-p-o/?_r=1"
-  - yourls_shorturl: "http://eay.li/275"
+  - yourls_shorturl: "https://eay.li/275"
 ---
 
 > The company announced on Thursday â [in a tweet](https://twitter.com/twitter/status/378261932148416512) \[...\] â that it had filed paperwork with regulators to eventually sell shares in an initial public offering.

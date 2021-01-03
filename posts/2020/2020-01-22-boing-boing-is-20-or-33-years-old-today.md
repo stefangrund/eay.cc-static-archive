@@ -18,7 +18,7 @@ meta:
   - geo_latitude: "50.973889147138"
   - geo_longitude: "6.6828498282173"
   - geo_public: "1"
-  - yourls_shorturl: "http://eay.li/3ck"
+  - yourls_shorturl: "https://eay.li/3ck"
 ---
 
 Wow, [Boing Boing](https://boingboing.net/), das Gruppen-Blog von und um Mark Frauenfelder, Cory Doctorow, David Pescovitz und Xeni Jardin ist gestern in seiner Inkarnation als Weblog 20 (!) Jahre alt geworden.

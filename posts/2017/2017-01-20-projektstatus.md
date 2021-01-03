@@ -16,7 +16,7 @@ tags:
   - shortfil-ms
   - smarthome
 meta:
-  - yourls_shorturl: "http://eay.li/2wc"
+  - yourls_shorturl: "https://eay.li/2wc"
 ---
 
 Ich arbeite gerade übrigens wieder vermehrt an [shortfil.ms](http://shortfil.ms/) 2.0. Die im letzten Jahr begonnene Version habe ich mittlerweile wieder verworfen und stattdessen einen etwas anderen Ansatz verfolgt.

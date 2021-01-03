@@ -12,7 +12,7 @@ tags:
   - geruechte
   - lost
 meta:
-  - yourls_shorturl: "http://eay.li/kg"
+  - yourls_shorturl: "https://eay.li/kg"
 ---
 
 Nein, es geht um kein Prequel eines George-Clooney-Casino-Streifens, sondern um [Lost](//eay.cc/2007/4-8-15-16-23-42/). Vor knapp drei Wochen ist schließlich die vierte Staffel in den USA gestartet und die wirft [natürlich](//eay.cc/2008/die-zauberkiste-des-jj-abrams/) wieder einige Fragen auf. Und nachdem mein Lieblingsmitblogger (also abgesehen von den restlichen Lieblingsmitbloggern[\*](http://twitter.com/AndiH/statuses/727284082)) [Andi](http://www.andisblog.de/) mich [per Twitter](http://twitter.com/AndiH/statuses/732249012) schon zum rätseln aufgefordert hat, gebe ich dieses Los nun an euch weiter: (Falls ihr noch auf dem Stand der deutschen Staffeln seid, solltet ihr das Weiterklicken tunlichst vermeiden!)

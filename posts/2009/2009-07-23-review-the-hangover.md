@@ -14,7 +14,7 @@ tags:
   - komoedie
   - the-hangover
 meta:
-  - yourls_shorturl: "http://eay.li/sk"
+  - yourls_shorturl: "https://eay.li/sk"
 ---
 
 ![](/uploads/2009/hangover.jpg)Heute startet [The Hangover](http://www.imdb.com/title/tt1119646/), den ich [wie bereits erwähnt](//eay.cc/2009/dude-wheres-my-hangover/) schon vor zwei Wochen sehen durfte, in den deutschen Kinos. Und wie [meine](http://twitter.com/Eay) Follower und aufmerksame Leser dieses Blogs bereits wissen, hat mir Todd Phillips' neue Komödie ((Der Mann ist ein wahrer Quell einschlägiger Komödien: Regisseur von Road Trip, Old School, Starsky & Hutch, Autor von Borat...)) ausgesprochen gut gefallen. Aber, fragt ihr zu Recht, warum eigentlich?

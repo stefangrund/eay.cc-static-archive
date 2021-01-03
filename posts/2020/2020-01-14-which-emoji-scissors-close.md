@@ -18,7 +18,7 @@ meta:
   - linked_list_url: "https://wh0.github.io/2020/01/02/scissors.html"
   - linked_list_url: "https://wh0.github.io/2020/01/02/scissors.html"
   - linked_list_url: "https://wh0.github.io/2020/01/02/scissors.html"
-  - yourls_shorturl: "http://eay.li/3ce"
+  - yourls_shorturl: "https://eay.li/3ce"
 ---
 
 ![Which emoji scissors close](https://eay.cc/uploads/2020/scissors.png)

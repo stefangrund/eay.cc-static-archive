@@ -14,7 +14,7 @@ tags:
   - crowdfunding
   - kickstarter
 meta:
-  - yourls_shorturl: "http://eay.li/21a"
+  - yourls_shorturl: "https://eay.li/21a"
   - linked_list_url: "http://www.kickstarter.com/year/2012"
 ---
 

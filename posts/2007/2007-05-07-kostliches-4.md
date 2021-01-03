@@ -17,7 +17,7 @@ tags:
   - russland
   - zombies
 meta:
-  - yourls_shorturl: "http://eay.li/jk"
+  - yourls_shorturl: "https://eay.li/jk"
 ---
 
 - [Bible Fight](http://www.adultswim.com/games/biblefight/index.html) · Tekken war gestern und hiergegen ist sogar das jüngste Gericht ein Witz: Jesus, Eva, Moses, Noah, Maria und Satan treten gegeneinander an und rausgekommen ist das beste und schickste Flashgame ever! (Tipp: Tastaturschema auf Englisch stellen!) ([via](http://www.popnutten.de/archiv/2007/05/05/beat-em-up-jung/))

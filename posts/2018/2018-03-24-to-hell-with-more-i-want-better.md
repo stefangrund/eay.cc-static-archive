@@ -16,7 +16,7 @@ meta:
   - geo_latitude: "50.973705896369"
   - geo_longitude: "6.6831993943242"
   - geo_public: "1"
-  - yourls_shorturl: "http://eay.li/34f"
+  - yourls_shorturl: "https://eay.li/34f"
 ---
 
 > People ask me to predict the future, when all I want to do is prevent it. Better yet, build it. Predicting the future is much too easy, anyway. You look at the people around you, the street you stand on, the visible air you breathe, and predict more of the same.

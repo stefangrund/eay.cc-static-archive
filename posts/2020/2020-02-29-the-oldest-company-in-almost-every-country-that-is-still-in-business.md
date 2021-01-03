@@ -18,7 +18,7 @@ meta:
   - geo_latitude: "50.973896346332"
   - geo_longitude: "6.6830014235337"
   - geo_public: "1"
-  - yourls_shorturl: "http://eay.li/3cz"
+  - yourls_shorturl: "https://eay.li/3cz"
 ---
 
 Schöne Infografik(en). Und bei uns ist es natürlich ein Alkohol-related Business.

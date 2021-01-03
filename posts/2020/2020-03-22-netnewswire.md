@@ -15,7 +15,7 @@ tags:
   - ios
   - mac
 meta:
-  - yourls_shorturl: "http://eay.li/3d4"
+  - yourls_shorturl: "https://eay.li/3d4"
   - geo_latitude: "50.973819974372"
   - geo_longitude: "6.683094720609"
   - geo_public: "1"

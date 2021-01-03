@@ -16,7 +16,7 @@ tags:
   - rambo
   - werbung
 meta:
-  - yourls_shorturl: "http://eay.li/vm"
+  - yourls_shorturl: "https://eay.li/vm"
 ---
 
 Interessant Auweia: Die Rambo-Vermarkter haben anscheinend etwas Panik bekommen, dass der Action-Opa bei _der Jugend_ nicht mehr so zieht und bewerben den neuen Rambo daher als "a nasty, [Call of Duty 4](//eay.cc/2008/ruf-zum-pflichtspiel/) style Shoot 'em Up!":

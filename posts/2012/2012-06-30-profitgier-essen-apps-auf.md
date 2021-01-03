@@ -17,7 +17,7 @@ tags:
   - social-media
   - twitter
 meta:
-  - yourls_shorturl: "http://eay.li/1jy"
+  - yourls_shorturl: "https://eay.li/1jy"
 ---
 
 Wie wohl fast jeder _ernsthafte_ Twitter-User nutze ich den Service hauptsächlich durch Apps von Drittanbietern (mein Favorit ist seit jeher [Echofon](http://www.echofon.com/twitter/iphone/)). Die vielen guten Clients sind das, was Twitter groß gemacht hat und der (einzige?) große Vorteil gegenüber allen anderen Social Networks. Twitter scheint das aber zunehmend zu vergessen: [Im März 2011](http://mashable.com/2011/03/12/twitter-api-clients/) legte man externen Entwicklern bereits nahe, keine kompletten Clients mehr zu programmieren ([hier der Originalpost](https://groups.google.com/forum/#!msg/twitter-development-talk/yCzVnHqHIWo/sC34r_ZyMLYJ) von Twitter-Developer Ryan Sarver), gestern wurde Product Manager Michael Sippey dann [nochmal konkreter und kündigte an](https://dev.twitter.com/blog/delivering-consistent-twitter-experience), dass die API-Guidelines in den kommender Wochen verschärft werden. In Twitter-Neusprech liest sich das dann so:

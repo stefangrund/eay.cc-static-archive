@@ -16,7 +16,7 @@ tags:
   - zukunft
 meta:
   - amazon_id: "0316377554"
-  - yourls_shorturl: "http://eay.li/38z"
+  - yourls_shorturl: "https://eay.li/38z"
 ---
 
 > Jeff Bezos wollte sein Internetunternehmen ursprünglich Relentless nennen. Das heißt unerbittlich, unnachgiebig, erbarmungslos. Freunde rieten ihm ab. Dann wählte er den Namen Amazon, nach dem großen mitreißenden Fluss. Aber bis heute leitet die Website [relentless.com](http://relentless.com) direkt auf Amazon weiter.

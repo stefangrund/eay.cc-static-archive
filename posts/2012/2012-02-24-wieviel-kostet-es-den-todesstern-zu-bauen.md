@@ -16,7 +16,7 @@ tags:
   - geld
   - star-wars
 meta:
-  - yourls_shorturl: "http://eay.li/1g8"
+  - yourls_shorturl: "https://eay.li/1g8"
 ---
 
 > Building a massive space weapon is all very well, but you have to find the materials to build it with. It's easy to say that "sure, the Death Star would be expensive" but is there actually enough iron in the Earth to make the first Death Star?.

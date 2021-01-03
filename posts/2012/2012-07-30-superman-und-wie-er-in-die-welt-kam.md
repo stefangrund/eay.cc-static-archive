@@ -18,7 +18,7 @@ tags:
   - superhelden
   - superman
 meta:
-  - yourls_shorturl: "http://eay.li/1kw"
+  - yourls_shorturl: "https://eay.li/1kw"
 ---
 
 > Als Joe Shuster und Jerry Siegel den Mann mit der blauen Ganzkörperstrumpfhose erfanden, ihn nach Nietzsches Übermenschen benannten und ihn in Fritz Langs Metropolis auf Verbrecherjagd schickten, ahnten die bitterarmen jüdischen Einwandererkinder nicht, dass sie gerade den amerikanischen Mythos schlechthin und ein ganzes Genre erfunden hatten.

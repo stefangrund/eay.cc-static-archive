@@ -16,7 +16,7 @@ tags:
   - xkcd
 meta:
   - linked_list_url: "http://what-if.xkcd.com/78/"
-  - yourls_shorturl: "http://eay.li/2bi"
+  - yourls_shorturl: "https://eay.li/2bi"
 ---
 
 **Update, 12.01.2013:** [Und wie viel kostet es dann einen T-Rex zu füttern?](//eay.cc/2014/wie-viel-kostet-es-einen-t-rex-zu-fuettern/)

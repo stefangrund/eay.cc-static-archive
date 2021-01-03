@@ -13,7 +13,7 @@ tags:
   - netzkultur
   - rock-am-ring
 meta:
-  - yourls_shorturl: "http://eay.li/84"
+  - yourls_shorturl: "https://eay.li/84"
 ---
 
 ![](/uploads/2008/rarblogger.jpg) Da meine diesjährige Vorfreude auf den Ring die der [letzten Jahre](//eay.cc/tag/rockamring/) noch übersteigt, hab ich mir eine kleine Aktion ausgedacht: Ich würde hier gerne "sämtliche" Blogger (und Twitter\-Nutzer und flickr\-Fotografen und wie sie alle heißen...) auflisten, die dieses Jahr zum Nürburgring fahren **und** ihren Lesern davor/dabei/danach von ihren Eindrücken berichten. Glaube nämlich, dass es ganz nett ist, in den Tagen danach zu lesen, was andere so während des Festivals erlebt haben, wann ihre [Schuhe kaputt](http://www.flickr.com/photos/eay/161031260/) gegangen sind und welche Bands sie besonders gut fanden. Also:

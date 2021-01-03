@@ -14,7 +14,7 @@ tags:
   - google
   - ios
 meta:
-  - yourls_shorturl: "http://eay.li/20w"
+  - yourls_shorturl: "https://eay.li/20w"
   - linked_list_url: "https://itunes.apple.com/de/app/google-maps/id585027354?mt=8"
 ---
 

@@ -13,7 +13,7 @@ tags:
   - gif-der-woche
   - katzencontent
 meta:
-  - yourls_shorturl: "http://eay.li/3c"
+  - yourls_shorturl: "https://eay.li/3c"
 ---
 
 ![](/uploads/2008/catrock.gif "by some internet guy") Nachdem die ersten vier [.gifs der Woche](//eay.cc/tag/gif-der-woche/) noch regelmäßig erschienen, wird diese Serie nun wieder regelmäßig unregelmäßig erscheinen. Den Neuanfang macht eine Katze. Nicht irgendeine, sondern eine rockende Katze. [Katzencontent](//eay.cc/tag/katzencontent/) ahoi.

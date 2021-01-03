@@ -14,10 +14,10 @@ tags:
   - tumblr
   - yahoo
 meta:
-  - yourls_shorturl: "http://eay.li/23m"
+  - yourls_shorturl: "https://eay.li/23m"
   - linked_list_url: "http://www.theverge.com/2013/5/20/4347650/yahoo-acquires-tumblr-in-1-1-billion-cash-deal-promises-not-to-screw"
 ---
 
 "We promise not to screw it up." Das [offizielle Yahoo-Blog](http://yodel.yahoo.com/blogs/general/we-re-moving--120325712.html) ist schon [zu Tumblr umgezogen](http://yahoo.tumblr.com/).
 
-**Update:** Hier noch [David Karps Blogpost](http://eay.li/1vw) zur Übernahme von Tumblr durch Yahoo: "We´re not turning purple."
+**Update:** Hier noch [David Karps Blogpost](https://eay.li/1vw) zur Übernahme von Tumblr durch Yahoo: "We´re not turning purple."

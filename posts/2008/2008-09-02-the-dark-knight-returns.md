@@ -16,7 +16,7 @@ tags:
   - sequel
   - the-dark-knight
 meta:
-  - yourls_shorturl: "http://eay.li/bt"
+  - yourls_shorturl: "https://eay.li/bt"
 ---
 
 Da wir hier ja schon lange nichts [Batman](//eay.cc/tag/batman/)\-mäßiges mehr hatten, wollen wir heute mal die Gerüchteküche befeuern: Kommt The Dark Knight 2? Wann? Und wer wird der Bösewicht? Und kann man [Ledgers Leistung](//eay.cc/2008/christopher-nolans-batman/) überhaupt noch toppen? Was meint ihr?

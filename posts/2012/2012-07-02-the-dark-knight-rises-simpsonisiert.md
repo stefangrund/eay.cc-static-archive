@@ -18,7 +18,7 @@ tags:
   - simpsons
   - the-dark-knight-rises
 meta:
-  - yourls_shorturl: "http://eay.li/1k1"
+  - yourls_shorturl: "https://eay.li/1k1"
 ---
 
 ![](https://eay.cc/uploads/2012/simpsonsrises.jpg) Lange keine [simpsoniesierten Fan-Artworks](http://eay.cc/?s=simpsonisiert) mehr hier gehabt. Dank Christiaan Mateo, dessen [Blog hier](http://christiaanmateo.blogspot.com/) und [DeviantArt hier](http://moroteo56.deviantart.com/) zu finden ist, ändert sich das jedoch. Und wenn man dann noch mit »The Dark Knight Rises« daherkommt, hat man definitiv alles richtig gemacht. Wobei der Herr [außerdem noch Homer und Bart](http://moroteo56.deviantart.com/#/d55qyvr) ins Feldermaus- und Wunderknabenkostüm gesteckt hat. Gute Sache!

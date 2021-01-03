@@ -16,7 +16,7 @@ tags:
   - konsolen
   - open-source
 meta:
-  - yourls_shorturl: "http://eay.li/21f"
+  - yourls_shorturl: "https://eay.li/21f"
   - linked_list_url: "http://www.kickstarter.com/projects/gcw/gcw-zero-open-source-gaming-handheld"
 ---
 

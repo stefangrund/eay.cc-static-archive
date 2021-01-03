@@ -18,7 +18,7 @@ tags:
   - urheberrecht
 meta:
   - linked_list_url: "https://www.turi2.de/aktuell/urteil-eugh-verbietet-deutsches-leistungsschutzrecht/"
-  - yourls_shorturl: "http://eay.li/3be"
+  - yourls_shorturl: "https://eay.li/3be"
   - geo_latitude: "50.973906559"
   - geo_longitude: "6.6829749705661"
   - geo_public: "1"

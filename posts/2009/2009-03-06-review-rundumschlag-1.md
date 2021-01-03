@@ -13,7 +13,7 @@ tags:
   - komoedie
   - romantic-comedy
 meta:
-  - yourls_shorturl: "http://eay.li/9r"
+  - yourls_shorturl: "https://eay.li/9r"
 ---
 
 Damit die Reviews hier wieder halbwegs aktuell sind ([der Wrestler](//eay.cc/2009/the-ram/) und [die Watchmen](//eay.cc/2009/watchmen-film-review/) wollen ja besprochen werden!) und nicht weil die jetzt besprochenen Filme so wenig her geben folgt nun ein kleiner Review-Rundumschlag.

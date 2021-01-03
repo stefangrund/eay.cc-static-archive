@@ -16,7 +16,7 @@ tags:
   - usa
 meta:
   - linked_list_url: "https://www.seattletimes.com/seattle-news/inspiring-story-of-seattle-mans-coronavirus-survival-comes-with-a-1-1-million-dollar-hospital-bill/"
-  - yourls_shorturl: "http://eay.li/3ej"
+  - yourls_shorturl: "https://eay.li/3ej"
   - content_copy: "https://twitter.com/eay/status/1272162443654041600"
 ---
 

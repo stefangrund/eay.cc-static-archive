@@ -18,7 +18,7 @@ tags:
   - kinolog
   - warren-ellis
 meta:
-  - yourls_shorturl: "http://eay.li/12l"
+  - yourls_shorturl: "https://eay.li/12l"
 ---
 
 ![](https://eay.cc/uploads/2010/red1.gif)[Warren Ellis](http://en.wikipedia.org/wiki/Warren_Ellis) ist einer der ganz großen Autoren im Comic-Business. Sobald man "[Transmetropolitan](http://en.wikipedia.org/wiki/Transmetropolitan)" sagt, erstarren gewöhnlich alle vor Ehrfurcht. Im Normalfall kann man also nicht viel verkehrt machen, wenn man im Comicladen blindlings eins der Hefte greift, auf dem sein Name prangt.

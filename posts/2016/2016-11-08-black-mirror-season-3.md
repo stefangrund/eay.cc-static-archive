@@ -18,7 +18,7 @@ tags:
   - technologie
   - zukunft
 meta:
-  - yourls_shorturl: "http://eay.li/2ve"
+  - yourls_shorturl: "https://eay.li/2ve"
 ---
 
 ![](https://eay.cc/uploads/2012/blackmirror.jpg)

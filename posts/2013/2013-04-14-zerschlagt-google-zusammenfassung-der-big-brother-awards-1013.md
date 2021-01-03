@@ -15,7 +15,7 @@ tags:
   - datenschutz
   - google
 meta:
-  - yourls_shorturl: "http://eay.li/22x"
+  - yourls_shorturl: "https://eay.li/22x"
   - linked_list_url: "http://www.heise.de/newsticker/meldung/Big-Brother-Awards-2013-Zerschlagt-Google-1841162.html"
 ---
 

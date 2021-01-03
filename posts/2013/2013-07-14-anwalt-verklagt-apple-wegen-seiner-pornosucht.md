@@ -19,7 +19,7 @@ tags:
   - smart-phones-stupid-people
 meta:
   - linked_list_url: "http://abovethelaw.com/2013/07/lawyer-apple-should-protect-me-from-my-porn-addiction/"
-  - yourls_shorturl: "http://eay.li/25a"
+  - yourls_shorturl: "https://eay.li/25a"
 ---
 
 > The Plaintiff became totally out of synch in his romantic relationship with his wife, which was a consequence of his use of his Apple product. The Plaintiff began desiring, younger more beautiful girls featured in porn videos than his wife, who was no longer 21. \[...\] The Plaintiff could no longer tell the difference between internet pornography and tangible intercourse due to the content he accessed through the Apple products, which failed to provide him with warnings of the dangers of online pornography whatsoever.

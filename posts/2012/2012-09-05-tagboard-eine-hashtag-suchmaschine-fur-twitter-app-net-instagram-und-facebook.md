@@ -18,7 +18,7 @@ tags:
   - web-2-0
   - webservice
 meta:
-  - yourls_shorturl: "http://eay.li/1yh"
+  - yourls_shorturl: "https://eay.li/1yh"
   - linked_list_url: "http://tagboard.com/"
 ---
 

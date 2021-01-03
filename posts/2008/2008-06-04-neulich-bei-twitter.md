@@ -14,7 +14,7 @@ tags:
   - nonsens
   - twitter
 meta:
-  - yourls_shorturl: "http://eay.li/h1"
+  - yourls_shorturl: "https://eay.li/h1"
 ---
 
 Ich überlege ja schon länger, wie ich meine Twitter-Einträge hier besser einbringen kann. Klar, die Sprechblase oben ist schön und gut. Doch der Tatsache, dass manche Botschaften schnell an euch vorüberziehen, muss Einhalt geboten werden. Von daher im folgenden ein kleiner Rückblick meiner letzten Twittereien:

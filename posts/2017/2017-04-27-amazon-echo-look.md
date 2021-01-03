@@ -17,7 +17,7 @@ tags:
   - technologie
 meta:
   - linked_list_url: "https://www.amazon.com/dp/B0186JAEWK"
-  - yourls_shorturl: "http://eay.li/2xz"
+  - yourls_shorturl: "https://eay.li/2xz"
 ---
 
 Amazon hat mit dem Echo Look nun das erste Alexa-Device mit Kamera vorgestellt. Der beworbene Use-Case: Unterstützung bei der Auswahl von Outfits und _dass man sich auch mal von hinten sehen kann_. WTF.

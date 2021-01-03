@@ -15,7 +15,7 @@ tags:
   - kunst
   - retro
 meta:
-  - yourls_shorturl: "http://eay.li/bi"
+  - yourls_shorturl: "https://eay.li/bi"
 ---
 
 [Adam West](http://de.wikipedia.org/wiki/Adam_West), der Schauspieler des 60er-Jahre-Batman und der alternde Chick Checker auf den unten stehenden Bildern, scheint mir ein äußerst merkwürdiger Zeitgenosse zu sein. Und dass er sich seinerzeit als 38 jähriger Mann in hautengen Strumpfhosen durchs Kinderfernsehen bewegte und vor jedes Wort die Bat-Silbe hängte, meine ich nicht. Nein, ich beziehe mich auf sein Tun im Alter: Adam West malt Adam West.

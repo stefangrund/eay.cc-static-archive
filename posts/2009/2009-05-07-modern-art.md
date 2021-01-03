@@ -15,7 +15,7 @@ tags:
   - kunst
   - netzkultur
 meta:
-  - yourls_shorturl: "http://eay.li/qn"
+  - yourls_shorturl: "https://eay.li/qn"
 ---
 
 ![](/uploads/2009/ebayart.jpg) "Ebay", 2007 by [FranÃ§ois Curlet](http://www.curlet.com/). ([via](http://www.iheartpluto.de/kunst-und-design/ebay/))

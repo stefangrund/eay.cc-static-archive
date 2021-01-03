@@ -18,7 +18,7 @@ tags:
   - zensur
 meta:
   - linked_list_url: "http://www.zeit.de/digital/internet/2014-10/ifg-informationsfreiheitsgesetz-pornofilm-bundespruefstelle-jugendgefaehrdend"
-  - yourls_shorturl: "http://eay.li/2jn"
+  - yourls_shorturl: "https://eay.li/2jn"
 ---
 
 Genau das hat nämlich gerade ein Unbekannter gemacht, der auf der Suche nach dem vergriffenen Pornofilm »Carl Ludwig, 2. Teil – Carl Ludwigs heiße Träume« war. Das Kölner Verwaltungsgericht litt mit ihm gab ihm Recht und urteilte, die BPjM müsse den Film als amtliche Information nach Â§ 2 IFG herausgeben.

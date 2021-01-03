@@ -15,7 +15,7 @@ tags:
   - smart-phones-stupid-people
 meta:
   - linked_list_url: "http://www.heise.de/newsticker/meldung/Foto-als-Mutprobe-Polizei-warnt-vor-Handyfotos-an-Bahngleisen-2188039.html"
-  - yourls_shorturl: "http://eay.li/2fo"
+  - yourls_shorturl: "https://eay.li/2fo"
 ---
 
 > Das BKA schlägt Alarm: Immer mehr Mädchen setzten für eine Handy-Aufnahme im Gleisbett das Leben aufs Spiel. Bereits vier Todesfälle junger Mädchen ließen sich in den vergangenen drei Jahren auf diesen Trend zurückführen.

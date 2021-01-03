@@ -11,7 +11,7 @@ tags:
   - eayz
   - statistik
 meta:
-  - yourls_shorturl: "http://eay.li/g9"
+  - yourls_shorturl: "https://eay.li/g9"
 ---
 
 Kann mal bitte jeder, der das hier liest einen [Kommentar hinterlassen](//eay.cc/2007/volkszahlung/). Die Firma dankt!

@@ -14,7 +14,7 @@ tags:
   - technologie
   - your-favorite-tumblr-for-the-next-5-minutes
 meta:
-  - yourls_shorturl: "http://eay.li/2a8"
+  - yourls_shorturl: "https://eay.li/2a8"
 ---
 
 ![](https://eay.cc/uploads/2013/defekteinformationssysteme.jpg) Das Tumblelog [Defekte Informationssysteme](http://defekteinformationssysteme.tumblr.com/) sammelt bereits seit über zwei Jahren Sichtungen von abgestürzten, defekten und verwirrten Computern im öffentlichen Raum. Verkehrsbetriebe haben offensichtlich ein großes Problem.

@@ -17,7 +17,7 @@ tags:
   - pandemie
   - virus
 meta:
-  - yourls_shorturl: "http://eay.li/3d3"
+  - yourls_shorturl: "https://eay.li/3d3"
 ---
 
 \[youtube id="6Af6b\_wyiwI"\]

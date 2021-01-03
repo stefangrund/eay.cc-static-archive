@@ -13,7 +13,7 @@ tags:
   - 360-grad
   - fotos
 meta:
-  - yourls_shorturl: "http://eay.li/345"
+  - yourls_shorturl: "https://eay.li/345"
   - content_copy: "https://www.instagram.com/p/BgMcrqYjWN1/"
   - content_copy: "https://twitter.com/eay/status/972915676724826115"
 ---

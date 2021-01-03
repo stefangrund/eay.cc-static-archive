@@ -19,7 +19,7 @@ tags:
   - tablet
   - technologie
 meta:
-  - yourls_shorturl: "http://eay.li/18"
+  - yourls_shorturl: "https://eay.li/18"
 ---
 
 Die Apple-Gerüchteküche kocht wieder und erweist sich wohl einmal mehr als [self-fulfilling prophecy](http://www.geekculture.com/joyoftech/joyarchives/1270.html): wie auf den einschlägigen Fan-Blogs zu lesen ist, häufen sich Hinweise auf den unmittelbar ((Oder auch nicht. Aber spätestens 2010, da [ist man sich "beinahe sicher"](http://www.fscklog.com/2009/08/die-terminraterei-beginnt-apple-special-event-am-9-september.html).)) bevorstehenden Release eines Tablet-PCs aus Cupertino. In Zeiten von Netbooks und [Kindle](http://de.wikipedia.org/wiki/Amazon_Kindle) fast schon überfällig. Dass das Gerät mit einem aufgemotzten iPhone OS aufwarten und wie ein großes iPhone aussehen wird, ist dabei in Fan-Kreisen schon längst beschlossene Sache. Nur über den Namen (Apple Tablet, iTablet, MacBook touch...) ist man sich noch nicht einig.

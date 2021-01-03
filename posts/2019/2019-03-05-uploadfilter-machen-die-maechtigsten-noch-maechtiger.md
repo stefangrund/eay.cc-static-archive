@@ -18,7 +18,7 @@ tags:
   - zensur
 meta:
   - linked_list_url: "http://www.spiegel.de/netzwelt/netzpolitik/eu-urheberrechtsreform-uploadfilter-machen-die-maechtigsten-noch-maechtiger-a-1256281.html"
-  - yourls_shorturl: "http://eay.li/39c"
+  - yourls_shorturl: "https://eay.li/39c"
 ---
 
 Gastbeitrag von FDP-Chef Christian Lindner bei Spiegel Online, dem ich hier vollumfänglich zustimme.

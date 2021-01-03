@@ -13,7 +13,7 @@ tags:
   - filme
   - kinolog
 meta:
-  - yourls_shorturl: "http://eay.li/16s"
+  - yourls_shorturl: "https://eay.li/16s"
 ---
 
 ![](https://eay.cc/uploads/2011/fantasyfilmfestnights.gif)Am vorletzten Wochenende fanden in Köln die [Fantasy Filmfest Nights](http://www.fantasyfilmfest.com) statt. Und wie beim großen, sommerlichen Bruder heißt das, dass man endlich wieder ein paar Filme zu sehen bekam, die es hierzulande ansonsten eher selten bis gar nicht auf die große Leinwand schaffen. Und die Auswahl, die [Rosebud](http://www.rosebud-entertainment.de/) da aufgefahren hat, konnte sich einmal mehr sehen lassen.

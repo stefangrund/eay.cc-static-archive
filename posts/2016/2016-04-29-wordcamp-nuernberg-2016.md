@@ -16,7 +16,7 @@ tags:
   - wordpress
 meta:
   - linked_list_url: "http://www.ppw.de/blog/wordcamp-nuernberg-2016/"
-  - yourls_shorturl: "http://eay.li/2st"
+  - yourls_shorturl: "https://eay.li/2st"
 ---
 
 Wie schon [im letzten Jahr](//eay.cc/2015/wordcamp-cologne/) habe ich mit etwas Verspätung heute meinen Rückblick auf's WordCamp im PPW-Agenturblog veröffentlicht.

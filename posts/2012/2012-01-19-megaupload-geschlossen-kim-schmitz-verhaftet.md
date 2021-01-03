@@ -16,7 +16,7 @@ tags:
   - piraterie
   - urheberrecht
 meta:
-  - yourls_shorturl: "http://eay.li/1ez"
+  - yourls_shorturl: "https://eay.li/1ez"
 ---
 
 Ui, das ging schnell. [Wir erinnern uns](//eay.cc/2011/kimble-is-back-again/): Kim Schmitz alias Dr. Kimble alias Kim Dotcom alias Kim Tim Jim Vestor hatte Mitte Dezember langwährende Gerüchte bestätigt, nach denen er hinter dem dubiosen Filehoster Megaupload stehe, und großspurig getönt, dass er es diesmal mit ganz Hollywood aufnehmen werde. Doch wie das Leben halt so spielt, kam das FBI um die Ecke bzw. nach Hong Kong Neuseeland und hat ihn und alle anderen Beteiligten einkassiert, wie [Heise](http://www.heise.de/newsticker/meldung/Razzia-gegen-Megaupload-FBI-laesst-Kim-Schmitz-verhaften-1417529.html) und [Golem](http://www.golem.de/1201/89194.html) berichten. Das Unternehmen habe einen Schaden ((Bei immateriellen Gütern und Raubkopiererei von "Schaden" zu sprechen, fällt einem alten Piratensympathisanten wie mir natürlich nicht ganz so leicht...)) von rund 500 Millionen US-Dollar angerichtet und soll selbst 175 Millionen damit verdient haben. Nun drohen Kimble & Co. (mal wieder) fünf bis zwanzig Jahre Haft.

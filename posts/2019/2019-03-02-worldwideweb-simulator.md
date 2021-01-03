@@ -17,7 +17,7 @@ tags:
   - retro
 meta:
   - linked_list_url: "https://worldwideweb.cern.ch/"
-  - yourls_shorturl: "http://eay.li/399"
+  - yourls_shorturl: "https://eay.li/399"
   - geo_latitude: "50.973823358213"
   - geo_longitude: "6.683085272417"
   - geo_public: "1"

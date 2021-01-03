@@ -20,7 +20,7 @@ meta:
   - geo_longitude: "13.748338"
   - geo_public: "1"
   - geo_address: "Wegscheid, Bayern"
-  - yourls_shorturl: "http://eay.li/322"
+  - yourls_shorturl: "https://eay.li/322"
   - content_copy: "https://www.facebook.com/eay.cc/posts/10156631766779897"
 ---
 

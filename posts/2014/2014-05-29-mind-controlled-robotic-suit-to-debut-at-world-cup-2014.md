@@ -18,7 +18,7 @@ tags:
   - zukunft
 meta:
   - linked_list_url: "http://www.theguardian.com/technology/2014/apr/01/mind-controlled-robotic-suit-exoskeleton-world-cup-2014"
-  - yourls_shorturl: "http://eay.li/2ge"
+  - yourls_shorturl: "https://eay.li/2ge"
 ---
 
 Meine Verlobte und ich haben hier ja intern schon seit Jahren die Wette laufen, ob es robotische [Exoskelette](http://de.wikipedia.org/wiki/Exoskelett) für den Massenmarkt gibt, sobald wir alt und gebrechlich sind. Ich mit meinem unendlich Technologieoptimismus bin natürlich davon überzeugt, sie eher nicht.

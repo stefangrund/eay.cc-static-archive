@@ -14,7 +14,7 @@ tags:
   - design
   - microsoft
 meta:
-  - yourls_shorturl: "http://eay.li/1k3"
+  - yourls_shorturl: "https://eay.li/1k3"
 ---
 
 Andrew Kim hat sich ein [Rebranding für Microsoft](http://www.minimallyminimal.com/journal/2012/7/3/the-next-microsoft.html) ausgedacht. Und Redmond wäre gut damit beraten, den Mann mit Geld zu überschütten. (via [Waxy.org Links](http://waxy.org/links/))

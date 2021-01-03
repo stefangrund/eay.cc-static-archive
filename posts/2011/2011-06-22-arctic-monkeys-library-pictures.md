@@ -14,7 +14,7 @@ tags:
   - konzerte
   - musik
 meta:
-  - yourls_shorturl: "http://eay.li/194"
+  - yourls_shorturl: "https://eay.li/194"
 ---
 
 Zur Einstimmung auf die heutige Abendgestaltung.

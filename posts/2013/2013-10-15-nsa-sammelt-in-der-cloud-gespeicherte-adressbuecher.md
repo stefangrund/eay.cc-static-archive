@@ -19,7 +19,7 @@ tags:
   - ueberwachung
 meta:
   - linked_list_url: "http://www.washingtonpost.com/world/national-security/nsa-collects-millions-of-e-mail-address-books-globally/2013/10/14/8e58b5be-34f9-11e3-80c6-7e6dd8d22d8f_story.html"
-  - yourls_shorturl: "http://eay.li/289"
+  - yourls_shorturl: "https://eay.li/289"
 ---
 
 Berichtet die Washington Post heute basierend auf neuen Snowden-Leaks. Dabei werden täglich knapp 700.000 Kontaktlisten aus diversen Chat- und Email-Diensten dem Datenbestand der NSA hinzugefügt, damit diese ein Abbild eures Bekannten- und Freundeskreis hat und ganz genau weiß, wer mit wem und so.

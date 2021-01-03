@@ -13,8 +13,8 @@ tags:
   - apps
   - mac
 meta:
-  - yourls_shorturl: "http://eay.li/1zr"
-  - linked_list_url: "http://eay.li/1o3"
+  - yourls_shorturl: "https://eay.li/1zr"
+  - linked_list_url: "https://eay.li/1o3"
 ---
 
 Soeben in Version 1.0 erschienen und nur noch bis morgen für den halben (Beta-)Preis zu haben.

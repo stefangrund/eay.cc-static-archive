@@ -16,7 +16,7 @@ tags:
   - technologie
 meta:
   - linked_list_url: "http://www.engadget.com/2016/06/03/google-ai-killswitch/"
-  - yourls_shorturl: "http://eay.li/2u1"
+  - yourls_shorturl: "https://eay.li/2u1"
 ---
 
 I, for one, welcome our new robot overlords.

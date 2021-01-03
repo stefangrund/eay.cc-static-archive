@@ -17,7 +17,7 @@ tags:
   - kosten
   - statistik
 meta:
-  - yourls_shorturl: "http://eay.li/13r"
+  - yourls_shorturl: "https://eay.li/13r"
 ---
 
 Bereits [seit drei Jahren](//eay.cc/2009/kino-statistik-2009/) ist es hier Tradition, dass ich am Ende des Jahres meine kleine Kinostatistik veröffentliche, um der Frage aller Fragen nachzugehen: Wie oft war ich im gerade auslaufenden Jahr im Kino und wieviel hat mich das insgesamt und durchschnittlich (ohne Speisen und Getränke) gekostet?

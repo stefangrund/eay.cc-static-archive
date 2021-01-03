@@ -14,7 +14,7 @@ tags:
   - serien
   - webservice
 meta:
-  - yourls_shorturl: "http://eay.li/1zi"
+  - yourls_shorturl: "https://eay.li/1zi"
   - linked_list_url: "http://watched.li/"
 ---
 

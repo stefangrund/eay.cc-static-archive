@@ -23,7 +23,7 @@ meta:
   - linked_list_url: "http://www.spiegel.de/kultur/musik/rock-am-ring-kehrt-zurueck-an-den-nuerburgring-mendig-nicht-mehr-haltbar-a-1124475.html"
   - linked_list_url: "http://www.spiegel.de/kultur/musik/rock-am-ring-kehrt-zurueck-an-den-nuerburgring-mendig-nicht-mehr-haltbar-a-1124475.html"
   - linked_list_url: "http://www.spiegel.de/kultur/musik/rock-am-ring-kehrt-zurueck-an-den-nuerburgring-mendig-nicht-mehr-haltbar-a-1124475.html"
-  - yourls_shorturl: "http://eay.li/2vj"
+  - yourls_shorturl: "https://eay.li/2vj"
 ---
 
 [Nach zwei Jahren "auswärts"](https://eay.cc/2014/flugplatz-mendig-ist-neuer-schauplatz-von-rock-am-ring/) kehrt der Ring endlich wieder nach Hause zurück:

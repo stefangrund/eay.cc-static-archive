@@ -16,7 +16,7 @@ tags:
   - scifi
   - trailer
 meta:
-  - yourls_shorturl: "http://eay.li/33g"
+  - yourls_shorturl: "https://eay.li/33g"
   - content_copy: "https://twitter.com/eay/status/958617980383965185"
 ---
 

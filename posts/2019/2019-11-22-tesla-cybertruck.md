@@ -18,7 +18,7 @@ tags:
   - technologie
   - tesla
 meta:
-  - yourls_shorturl: "http://eay.li/3c0"
+  - yourls_shorturl: "https://eay.li/3c0"
   - geo_latitude: "50.973874113331"
   - geo_longitude: "6.6830492087414"
   - geo_public: "1"

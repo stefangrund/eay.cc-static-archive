@@ -16,7 +16,7 @@ tags:
   - geruechte
   - jurassic-park
 meta:
-  - yourls_shorturl: "http://eay.li/21e"
+  - yourls_shorturl: "https://eay.li/21e"
   - linked_list_url: "http://www.comingsoon.net/news/movienews.php?id=98802"
 ---
 

@@ -18,7 +18,7 @@ tags:
   - twitter
 meta:
   - linked_list_url: "https://alistapart.com/article/nothing-fails-like-success/"
-  - yourls_shorturl: "http://eay.li/3a3"
+  - yourls_shorturl: "https://eay.li/3a3"
   - content_copy: "https://twitter.com/eay/status/1117360597212045312"
 ---
 

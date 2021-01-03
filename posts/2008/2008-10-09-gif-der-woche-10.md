@@ -13,7 +13,7 @@ tags:
   - arnold-schwarzenegger
   - gif-der-woche
 meta:
-  - yourls_shorturl: "http://eay.li/i8"
+  - yourls_shorturl: "https://eay.li/i8"
 ---
 
 ![](/uploads/2008/flyingarnie.gif) Der Arnie-Anteil in Blogs ist einfach zu gering. **Ich rufe hiermit die Arnie-Aktionswochen™ aus!**

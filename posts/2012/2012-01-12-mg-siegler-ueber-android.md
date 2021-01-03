@@ -15,7 +15,7 @@ tags:
   - smartphones
   - technologie
 meta:
-  - yourls_shorturl: "http://eay.li/1es"
+  - yourls_shorturl: "https://eay.li/1es"
 ---
 
 > I hate Android for the same reason that Severus Snape hates Harry Potter â the very sight reminds me of something so beautiful, that was taken. Except it's worse. It's as if Harry Potter has grown up to become Voldemort.

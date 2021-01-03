@@ -15,7 +15,7 @@ tags:
   - kickstarter-der-woche
   - webservice
 meta:
-  - yourls_shorturl: "http://eay.li/230"
+  - yourls_shorturl: "https://eay.li/230"
   - linked_list_url: "http://www.kickstarter.com/projects/clintgc/space-monkey-taking-the-cloud-out-of-the-datacente"
 ---
 

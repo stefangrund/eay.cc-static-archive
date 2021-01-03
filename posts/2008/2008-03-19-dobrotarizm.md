@@ -14,7 +14,7 @@ tags:
   - ninja-turtles
   - portfolio
 meta:
-  - yourls_shorturl: "http://eay.li/rg"
+  - yourls_shorturl: "https://eay.li/rg"
 ---
 
 [![](/uploads/2008/ninjacream.jpg "by Protey Temen via flickr")](http://flickr.com/photos/protey_temen/2145507829/) [Protey Temen](http://protey.zungedesign.ru/) aus Russland macht Kunst, die erst selbst als "Dobrotarizm" oder verständlicher "Happytalism" bezeichnet. Dabei hat er's auch geschafft das _coolste_ Ninja-Turtles-Kunstwerk überhaupt zu kreieren. Mehr seiner Arbeiten gibt's [bei flickr](http://flickr.com/photos/protey_temen/).

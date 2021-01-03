@@ -16,7 +16,7 @@ tags:
   - science-fiction
   - steam
 meta:
-  - yourls_shorturl: "http://eay.li/2zc"
+  - yourls_shorturl: "https://eay.li/2zc"
 ---
 
 Neill Blomkamp, Regisseur von »District 9«, »Elysium« und »Chappie« und [Namensgeber des hiesigen Themes](https://eay.cc/2017/introducing-neill/), teasert [seit einigen Wochen](https://twitter.com/NeillBlomkamp/status/851168491277131776) seine neue Kurzfilmreihe an, für die er unter dem Namen "Oats Studios" firmieren wird. Nun ist der erste Trailer zu »Oats Volume 1« erschienen, was nach einer Anthologie von Blomkamp'schen SciFi-Kurzfilmen aussieht.

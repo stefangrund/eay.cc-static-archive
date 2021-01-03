@@ -18,7 +18,7 @@ tags:
   - star-trek
 meta:
   - linked_list_url: "http://www.reddit.com/r/startrekstabilized/"
-  - yourls_shorturl: "http://eay.li/2go"
+  - yourls_shorturl: "https://eay.li/2go"
 ---
 
 Passend zum [.gif der Woche von vorgestern](//eay.cc/2014/gif-der-woche-129/) hier nun ein Subreddit mit vielen weiteren stabilisierten Szenen aus den diversen [Star Trek](//eay.cc/tag/star-trek/)\-Serien. (via [/film](http://www.slashfilm.com/star-trek-motion-stabilized/))

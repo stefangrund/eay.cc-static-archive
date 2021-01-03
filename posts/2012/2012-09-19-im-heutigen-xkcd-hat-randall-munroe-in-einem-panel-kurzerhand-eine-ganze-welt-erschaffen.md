@@ -13,7 +13,7 @@ tags:
   - webcomic
   - xkcd
 meta:
-  - yourls_shorturl: "http://eay.li/1yr"
+  - yourls_shorturl: "https://eay.li/1yr"
   - linked_list_url: "http://xkcd.com/1110/"
 ---
 

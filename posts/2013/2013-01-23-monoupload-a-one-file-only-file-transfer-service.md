@@ -14,7 +14,7 @@ tags:
   - parodie
   - piraterie
 meta:
-  - yourls_shorturl: "http://eay.li/21k"
+  - yourls_shorturl: "https://eay.li/21k"
   - linked_list_url: "http://monoupload.biz/"
 ---
 

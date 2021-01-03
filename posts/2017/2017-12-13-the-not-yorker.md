@@ -14,7 +14,7 @@ tags:
   - kunst
   - magazine
 meta:
-  - yourls_shorturl: "http://eay.li/32n"
+  - yourls_shorturl: "https://eay.li/32n"
   - linked_list_url: "https://thenotyorker.com/"
 ---
 

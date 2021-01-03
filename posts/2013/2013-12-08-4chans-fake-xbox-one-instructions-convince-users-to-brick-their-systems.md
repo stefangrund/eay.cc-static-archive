@@ -18,7 +18,7 @@ tags:
   - xbox
 meta:
   - linked_list_url: "http://www.dailydot.com/lol/4chan-unlock-xbox-prank-brick/"
-  - yourls_shorturl: "http://eay.li/2aj"
+  - yourls_shorturl: "https://eay.li/2aj"
 ---
 
 > 4chan's prank is pure evil.

@@ -16,7 +16,7 @@ tags:
   - typographie
 meta:
   - content_copy: "https://instagram.com/p/Bi7zFjShvCu/"
-  - yourls_shorturl: "http://eay.li/35b"
+  - yourls_shorturl: "https://eay.li/35b"
   - geo_latitude: "50.941465"
   - geo_longitude: "6.951695"
   - geo_public: "1"

@@ -13,7 +13,7 @@ tags:
   - eltern
   - photoshop
 meta:
-  - yourls_shorturl: "http://eay.li/cc"
+  - yourls_shorturl: "https://eay.li/cc"
 ---
 
 ![](/uploads/2008/manbabies.jpg) Wir verabschieden uns ins Wochenende mit [Babies, die ihre Väter auf dem Arm halten](http://manbabies.com/). ([via](http://www.nerdcore.de/wp/2008/05/16/man-babies/))

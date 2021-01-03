@@ -14,7 +14,7 @@ tags:
   - krieg
   - star-wars
 meta:
-  - yourls_shorturl: "http://eay.li/rk"
+  - yourls_shorturl: "https://eay.li/rk"
 ---
 
 ![](/uploads/2009/clonewarsvet.jpg) ([via](http://thedw.us/post/87552468/morning-links-the-ocarina-of-rhyme-legend-of))

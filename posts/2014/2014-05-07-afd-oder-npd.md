@@ -15,7 +15,7 @@ tags:
   - politik
 meta:
   - linked_list_url: "http://afdodernpd.de/"
-  - yourls_shorturl: "http://eay.li/2ff"
+  - yourls_shorturl: "https://eay.li/2ff"
 ---
 
 > Ob eine Aussage von offen auftretenden Rechtsextremen oder von sich seriös und bürgerlich gebenden Vertreter\*innen der AfD stammt, ist nicht immer ganz einfach herauszufinden \[...\]. Daher haben wir Jungen Piraten dieses heitere Spiel für euch zusammengestellt.

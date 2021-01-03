@@ -12,7 +12,7 @@ tags:
   - trigami
   - weltall
 meta:
-  - yourls_shorturl: "http://eay.li/sl"
+  - yourls_shorturl: "https://eay.li/sl"
 ---
 
 \[[Trigami-Review](http://www.trigami.com?blog=http://eay.cc/)\]

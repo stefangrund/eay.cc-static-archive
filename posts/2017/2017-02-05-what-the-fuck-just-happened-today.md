@@ -16,7 +16,7 @@ tags:
   - usa
 meta:
   - linked_list_url: "https://whatthefuckjusthappenedtoday.com/"
-  - yourls_shorturl: "http://eay.li/2wi"
+  - yourls_shorturl: "https://eay.li/2wi"
 ---
 
 > WTF Just Happened Today is a personal project to log the daily shock and awe in Trump's America. The goal is to capture the most important news in a digestable form \[...\].

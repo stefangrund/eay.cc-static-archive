@@ -15,7 +15,7 @@ tags:
   - stranger-things
   - trailer
 meta:
-  - yourls_shorturl: "http://eay.li/31t"
+  - yourls_shorturl: "https://eay.li/31t"
 ---
 
 \[youtube id="R1ZXOOLMJ8s"\]

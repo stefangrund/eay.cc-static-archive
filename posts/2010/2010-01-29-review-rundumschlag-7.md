@@ -19,7 +19,7 @@ tags:
   - science-fiction
   - vampire
 meta:
-  - yourls_shorturl: "http://eay.li/oo"
+  - yourls_shorturl: "https://eay.li/oo"
 ---
 
 [Der Januar](//eay.cc/2010/01/) nähert sich seinem Ende und wie ihr vielleicht bemerkt habt, gab es im nun nicht mehr ganz so neuen Jahr noch kein einziges Film-Review. Weil ich als viel beschäftigter, viel gefragter und auch noch mit anderen Interessen ausgestatteter Mann mal wieder nicht dazu gekommen bin. Daher im folgenden fünf Review-Schnellschüsse, der Vollständigkeit halber (und wie ihr seht, habe ich eine Karte verbummelt; für [die Statistik](//eay.cc/2009/kino-statistik-2009/): Surrogates kostete 6,30 im UCI Hürth).

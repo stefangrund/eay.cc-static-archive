@@ -15,7 +15,7 @@ tags:
   - podcast
 meta:
   - linked_list_url: "https://www.gimletmedia.com/reply-all/the-founder"
-  - yourls_shorturl: "http://eay.li/397"
+  - yourls_shorturl: "https://eay.li/397"
   - geo_latitude: "50.973860410728"
   - geo_longitude: "6.6829651866407"
   - geo_public: "1"

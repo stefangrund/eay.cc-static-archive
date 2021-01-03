@@ -22,7 +22,7 @@ meta:
   - linked_list_url: "https://www.youtube.com/watch?v=4Xt6yolzcJQ"
   - linked_list_url: "https://www.youtube.com/watch?v=4Xt6yolzcJQ"
   - linked_list_url: "https://www.youtube.com/watch?v=4Xt6yolzcJQ"
-  - yourls_shorturl: "http://eay.li/2zk"
+  - yourls_shorturl: "https://eay.li/2zk"
 ---
 
 Guter Vortrag, vor allem bei diesem Rahmen. Snip von [Netzpolitik.org](https://netzpolitik.org/2017/bei-der-telekom-hauptversammlung-die-netzneutralitaet-verteidigen/):

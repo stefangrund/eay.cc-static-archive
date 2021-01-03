@@ -12,7 +12,7 @@ tags:
   - festival
   - rock-am-ring
 meta:
-  - yourls_shorturl: "http://eay.li/vt"
+  - yourls_shorturl: "https://eay.li/vt"
 ---
 
 Abfahrt. Die nächsten Tage befinde ich mich bei [Rock am Ring](//eay.cc/tag/rockamring/). Wenn ihr mich auf dem Zeltplatz antreffen wollt, haltet nach [Udo](http://www.flickr.com/photos/eay/531412213/) ausschau, der steht meistens Schmiere bei uns. Wenn ich gut gelaunt bin (wovon man ausgehen kann - weil ist ja schließlich Festivaaal!), geb ich sogar ne Runde [Graf](//eay.cc/2008/grafenwalder/) aus. Wir sehen uns also am Ring. Rock on!

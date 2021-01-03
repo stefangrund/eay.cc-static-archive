@@ -13,7 +13,7 @@ tags:
   - cartoons
   - fernsehen
 meta:
-  - yourls_shorturl: "http://eay.li/h8"
+  - yourls_shorturl: "https://eay.li/h8"
 ---
 
 Ich habe eine neue Lieblings(kinder)serie (neben [Kim Possible](http://de.wikipedia.org/wiki/Kim_Possible)): [Ruby Gloom](http://de.wikipedia.org/wiki/Ruby_Gloom). Die erste Folge habe ich mir samstags morgens um 11:00 angesehen, da ich einfach vom Stil der Sendung begeistert war. Ich wusste, dass dies "meine" Sendung ist, als ich den Pechvogel [Misery](http://de.wikipedia.org/wiki/Ruby_Gloom#Misery), die Mitglieder der Band RIP [Frank und Len](http://de.wikipedia.org/wiki/Ruby_Gloom#Frank_und_Len) und natürlich die hilfsbereite [Ruby](http://de.wikipedia.org/wiki/Ruby_Gloom#Ruby_Gloom) gesehen habe (jaja, alle anderen sind auch nett, aber das sind nun mal meine Lieblinge).

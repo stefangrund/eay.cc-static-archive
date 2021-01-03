@@ -13,7 +13,7 @@ tags:
   - macbook-air
   - macworld
 meta:
-  - yourls_shorturl: "http://eay.li/1t"
+  - yourls_shorturl: "https://eay.li/1t"
 ---
 
 ![](/uploads/2008/mwsf08.jpg)Heute Abend findet im [Moscone Center](http://en.wikipedia.org/wiki/Moscone_Center) in San Francisco die alljährliche Macworld Keynote mit Steve 'Boom!' Jobs statt, auf der His Steveness die neuesten Apple-Zaubereien vorstellt - neben dem Dschungelcamp mein Lieblingsevent im Januar. Was haben wir zu erwarten? Irgendetwas mit Luft, verrät uns der ebenso alljährliche [Nipple Slip](http://www.fscklog.com/2008/01/theres-somethin.html) (siehe Titel). Das und die Tatsache, dass bereits ein mysteriöses "MacBook Air" [in Statistiken](http://www.fscklog.com/2008/01/macbook-air.html) aufgetaucht ist und Apple sich sämtliche [macbookair-Domains](http://www.fscklog.com/2008/01/apple-sichert-s.html) gesichert hat, deuten darauf hin, dass wir dieses Jahr mit großer Wahrscheinlichkeit ein Subnotebook präsentiert bekommen. [Captain Gruber tippt](http://daringfireball.net/2008/01/macworld_expo_predictions) u.a. auch auf ein solches Gerät, sowie ein neues Apple TV und eine iTunes-Videothek. Zudem geht er davon aus, dass das iPhone-SDK, das Drittanbietern die Programmierung von iPhone-Apps ermöglichen wird, keinerlei Erwähnung finden wird.

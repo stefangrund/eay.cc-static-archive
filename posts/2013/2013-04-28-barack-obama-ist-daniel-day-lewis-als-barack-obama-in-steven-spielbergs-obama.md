@@ -16,7 +16,7 @@ tags:
   - steven-spielberg
   - usa
 meta:
-  - yourls_shorturl: "http://eay.li/23b"
+  - yourls_shorturl: "https://eay.li/23b"
   - linked_list_url: "http://www.youtube.com/watch?v=ZyU213nhrh0"
 ---
 

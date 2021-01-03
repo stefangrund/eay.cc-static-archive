@@ -16,7 +16,7 @@ tags:
   - technologie
 meta:
   - linked_list_url: "http://namethatblue.com/"
-  - yourls_shorturl: "http://eay.li/28z"
+  - yourls_shorturl: "https://eay.li/28z"
 ---
 
 Ein lustiges Farbratespiel für die ganze Familie Nerds.

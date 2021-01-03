@@ -13,7 +13,7 @@ tags:
   - preis
   - ziviler-ungehorsam
 meta:
-  - yourls_shorturl: "http://eay.li/2wv"
+  - yourls_shorturl: "https://eay.li/2wv"
 ---
 
 > You don’t change the world by doing what you’re told.

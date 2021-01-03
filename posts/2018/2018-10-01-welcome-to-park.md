@@ -14,7 +14,7 @@ tags:
   - filme
   - jurassic-park
 meta:
-  - yourls_shorturl: "http://eay.li/36x"
+  - yourls_shorturl: "https://eay.li/36x"
 ---
 
 Die berümte "Welcome to Jurassic Park"-Szene ohne Dinosaurier:

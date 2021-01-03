@@ -16,7 +16,7 @@ tags:
   - viral
   - werbung
 meta:
-  - yourls_shorturl: "http://eay.li/10v"
+  - yourls_shorturl: "https://eay.li/10v"
 ---
 
 \[youtube id="L70I0vTwYxg"\]

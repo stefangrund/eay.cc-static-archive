@@ -11,7 +11,7 @@ tags:
   - filme
   - kinolog
 meta:
-  - yourls_shorturl: "http://eay.li/oa"
+  - yourls_shorturl: "https://eay.li/oa"
 ---
 
 ![](/uploads/2007/smokinaces.jpg)_Für das Fußvolk:_ Eben [Smokin' Aces](http://www.imdb.com/title/tt0475394/) gesehen. Einen Film über ein Dutzend durchgeknallte Auftragskiller, die für eine Millionen Dollar einen Mafia-Kronzeugen ausschalten sollen. Wer [den Trailer](http://www.apple.com/trailers/universal/smokinaces/) gesehen hat, der erwartet einen soliden Actionfilm ohne weiteren Anspruch, doch den gibt es nicht so wirklich: Die erwartete Action gibt's zwar, auch wenn's nicht so konsequent durchgezogen wird wie im Trailer angedeutet. Außerdem tut der Film so als hätte er eine Handlung. Soll heißen, die Handlung wirkt bemüht verschachtelt und verschwörerisch, ist aber eigentlich nur Zierde. Dennoch bleiben ein paar kultige Szenen und ziemlich coole Charaktere, die den Film zu einem akzeptabelen "okay" abrunden.

@@ -16,7 +16,7 @@ tags:
   - usa
 meta:
   - linked_list_url: "https://www.washingtonpost.com/opinions/2020/05/15/if-trump-had-been-charge-during-world-war-ii-this-column-would-be-german/"
-  - yourls_shorturl: "http://eay.li/3e6"
+  - yourls_shorturl: "https://eay.li/3e6"
 ---
 
 > One day he says the war is already won; the next day that we will just have to accept the occupation of France because that’s the way life is.

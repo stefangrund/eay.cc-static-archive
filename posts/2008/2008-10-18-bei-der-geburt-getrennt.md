@@ -14,7 +14,7 @@ tags:
   - muppets
   - zwillinge
 meta:
-  - yourls_shorturl: "http://eay.li/hn"
+  - yourls_shorturl: "https://eay.li/hn"
 ---
 
 ![](/uploads/2008/balekermit.jpg) Hach, dieses verrückte Internetding: Da hat doch jemand eine [umfassende Foto-Reportage](http://community.livejournal.com/ohnotheydidnt/27350111.html) zusammengestellt, die aufzeigt, dass der Batman-Schauspieler Christian Bale und Kermit der Frosch sehr viel mehr gemeinsam haben als man gemeinhin vermuten würde. ([via](http://www.mindsdelight.de/quatsch/sind-christian-bale-und-kermit-der-frosch-ein-und-die-selbe-person/))

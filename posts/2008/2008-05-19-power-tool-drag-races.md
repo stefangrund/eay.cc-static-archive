@@ -10,7 +10,7 @@ format: "post"
 categories:
   - the-others
 meta:
-  - yourls_shorturl: "http://eay.li/b6"
+  - yourls_shorturl: "https://eay.li/b6"
 ---
 
 Vergangenes Wochenende fanden in San Francisco die [Power Tool Drag Races](http://powertooldragraces.com/) statt, bei denen Werkzeuge jeder Art zu Rennmaschinen umkonstruiert werden. Mein bisheriger Favorit sind eindeutig die [Kreissägen-Rennen](http://www.flickr.com/photos/laughingsquid/2504248150/), die, wie uns das folgende Video verdeutlich, leider nur relativ kurz sind:

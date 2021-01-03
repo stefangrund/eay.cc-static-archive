@@ -13,7 +13,7 @@ tags:
   - games
   - shaun-inman
 meta:
-  - yourls_shorturl: "http://eay.li/1y2"
+  - yourls_shorturl: "https://eay.li/1y2"
   - linked_list_url: "http://shauninman.com/ludumdare/millinaut/"
 ---
 

@@ -15,7 +15,7 @@ tags:
   - star-wars
   - trailer
 meta:
-  - yourls_shorturl: "http://eay.li/36u"
+  - yourls_shorturl: "https://eay.li/36u"
   - content_copy: "https://twitter.com/eay/status/1043874469943693312"
   - content_copy: "https://eay.social/@eay/100775630314823385"
 ---

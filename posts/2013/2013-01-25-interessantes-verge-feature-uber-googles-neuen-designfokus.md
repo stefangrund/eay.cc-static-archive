@@ -14,7 +14,7 @@ tags:
   - google
   - the-verge
 meta:
-  - yourls_shorturl: "http://eay.li/21o"
+  - yourls_shorturl: "https://eay.li/21o"
   - linked_list_url: "http://www.theverge.com/2013/1/24/3904134/google-redesign-how-larry-page-engineered-beautiful-revolution"
 ---
 

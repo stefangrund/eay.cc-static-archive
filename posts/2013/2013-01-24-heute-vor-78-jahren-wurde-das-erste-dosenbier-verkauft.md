@@ -13,7 +13,7 @@ tags:
   - alkohol
   - geschichte
 meta:
-  - yourls_shorturl: "http://eay.li/21l"
+  - yourls_shorturl: "https://eay.li/21l"
   - linked_list_url: "http://www.wired.com/thisdayintech/2011/01/0124first-us-canned-beer/"
 ---
 

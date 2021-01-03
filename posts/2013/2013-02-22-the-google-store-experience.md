@@ -15,7 +15,7 @@ tags:
   - the-joy-of-tech
   - webcomic
 meta:
-  - yourls_shorturl: "http://eay.li/21z"
+  - yourls_shorturl: "https://eay.li/21z"
   - linked_list_url: "http://tapastic.com/episode/1976"
 ---
 

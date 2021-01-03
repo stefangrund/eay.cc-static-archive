@@ -13,7 +13,7 @@ tags:
   - gamescom
   - koeln
 meta:
-  - yourls_shorturl: "http://eay.li/11"
+  - yourls_shorturl: "https://eay.li/11"
 ---
 
 ![](https://eay.cc/uploads/2009/gamescom.jpg)Natürlich habe ich am Wochenende auch mal bei der [Gamescom](http://www.gamescom.de/) vorbeigeschaut. Schließlich ist Köln näher als Leipzig und auf einer Games-Messe war ich bisher auch noch nicht. Was aber, wie sich alsbald herausstellte, auch besser war, denn: wir sind nicht kompatibel. Das ist nicht meine Welt. Stundenlanges anstellen, um was anzutesten oder gar nur Footage, das längst aus dem Web bekannt ist, zu sehen, geht mal gar nicht. Und Hersteller-Namen (oder "Bundeswehr") grölle ich auch nicht, wegen einem aufblasbaren Schwert oder eines T-Shirts.

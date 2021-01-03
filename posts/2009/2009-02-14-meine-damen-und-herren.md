@@ -13,7 +13,7 @@ tags:
   - angelika-express
   - musik
 meta:
-  - yourls_shorturl: "http://eay.li/c5"
+  - yourls_shorturl: "https://eay.li/c5"
 ---
 
 der Tag ist gekommen: Ich habe mein Buch veröffentlicht. Ich bin Vater geworden. Podcast #2 ist da. Ich stehe in einem Booklet. Und zwar im Booklet des überaus gelungenen Albums "Goldener Trash" von [Angelika Express](//eay.cc/tag/angelika-express/), bei dem ich [als Förderer](//eay.cc/2008/who-the-fuck-is-rick-rubin/) _mitgewirkt_ habe.

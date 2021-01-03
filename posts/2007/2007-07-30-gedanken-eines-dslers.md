@@ -15,7 +15,7 @@ tags:
   - nintendo
   - nintendo-ds
 meta:
-  - yourls_shorturl: "http://eay.li/tr"
+  - yourls_shorturl: "https://eay.li/tr"
 ---
 
 Heute endlich das DS-Spiel [Castlevania: Portrait of Ruin](http://en.wikipedia.org/wiki/Castlevania:_Portrait_of_Ruin) erstanden und es scheint - mal abgesehen vom berüchtigten Castlevania-Schwierigkeitsgrad - gut geworden zu sein. Vor allem den Mix aus Offline- und Online-Spiel finde ich interessant. Hat mich irgendwie an alte Diablo-2-Zeiten im Open-Battlenet erinnert. (Notiz an meine DS-WiFi-Freunde: [kaufen!](http://www.amazon.de/exec/obidos/ASIN/B000HLDDO2/eayznet-21))

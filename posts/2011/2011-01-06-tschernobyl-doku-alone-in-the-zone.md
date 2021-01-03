@@ -15,7 +15,7 @@ tags:
   - trailer
   - tschernobyl
 meta:
-  - yourls_shorturl: "http://eay.li/142"
+  - yourls_shorturl: "https://eay.li/142"
 ---
 
 \[youtube id="ti8uwMDgBLU"\]

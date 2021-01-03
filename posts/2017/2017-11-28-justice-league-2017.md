@@ -20,7 +20,7 @@ tags:
   - superman
   - wonder-woman
 meta:
-  - yourls_shorturl: "http://eay.li/32h"
+  - yourls_shorturl: "https://eay.li/32h"
   - content_copy: "https://twitter.com/eay/status/935649160933597184"
 ---
 

@@ -17,7 +17,7 @@ tags:
   - english
   - geschichte
 meta:
-  - yourls_shorturl: "http://eay.li/3dq"
+  - yourls_shorturl: "https://eay.li/3dq"
 ---
 
 ![](https://eay.cc/uploads/2016/dark-modern-age-of-dc-comics.jpg)

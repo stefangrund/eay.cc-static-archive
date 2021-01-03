@@ -16,7 +16,7 @@ tags:
   - output
   - umfrage
 meta:
-  - yourls_shorturl: "http://eay.li/mh"
+  - yourls_shorturl: "https://eay.li/mh"
 ---
 
 ![](https://eay.cc/uploads/2009/broetchen_oben.jpg)![](https://eay.cc/uploads/2009/broetchen_unten.jpg)

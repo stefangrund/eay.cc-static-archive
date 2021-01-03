@@ -12,7 +12,7 @@ tags:
   - karneval
   - koeln
 meta:
-  - yourls_shorturl: "http://eay.li/dx"
+  - yourls_shorturl: "https://eay.li/dx"
 ---
 
 Während der nächsten Tage könnte es hier aufgrund der [Ausgelassenheit, Fröhlichkeit und überschäumenden Lebensfreude](http://de.wikipedia.org/wiki/Karneval) zu inhaltlichen Lieferengpässen kommen. Des weiteren könnte die Leseerfahrung bis einschließlich Mittwoch eine gänzlich andere sein, die für Zuschauer unter 16 Jahren nicht geeignet ist. Ja, Eltern haften für ihre Kinder!

@@ -20,7 +20,7 @@ tags:
   - spatvorstellung
   - wordpress
 meta:
-  - yourls_shorturl: "http://eay.li/12v"
+  - yourls_shorturl: "https://eay.li/12v"
 ---
 
 ### Prolog

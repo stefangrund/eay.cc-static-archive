@@ -13,7 +13,7 @@ tags:
   - filme
   - neill-blomkamp
 meta:
-  - yourls_shorturl: "http://eay.li/1xt"
+  - yourls_shorturl: "https://eay.li/1xt"
   - linked_list_url: "http://www.slashfilm.com/synopsis-neill-blomkamp-elysium/"
 ---
 

@@ -18,7 +18,7 @@ tags:
   - zukunft
 meta:
   - linked_list_url: "http://qz.com/245142/should-your-driverless-car-kill-you-to-save-a-child/"
-  - yourls_shorturl: "http://eay.li/2hw"
+  - yourls_shorturl: "https://eay.li/2hw"
 ---
 
 > Consider this thought experiment: you are traveling along a single-lane mountain road in an autonomous car that is fast approaching a narrow tunnel. Just before entering the tunnel a child attempts to run across the road but trips in the centre of the lane, effectively blocking the entrance to the tunnel. The car has but two options: hit and kill the child, or swerve into the wall on either side of the tunnel, thus killing you.

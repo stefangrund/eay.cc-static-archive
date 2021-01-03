@@ -18,7 +18,7 @@ tags:
   - webcomic
   - xkcd
 meta:
-  - yourls_shorturl: "http://eay.li/lu"
+  - yourls_shorturl: "https://eay.li/lu"
 ---
 
 ![](/uploads/2008/piratecomic.gif) Spätestens beim Betrachten des obigen Pro-Piraterie-Comics [von xkcd](http://xkcd.com/488/) und seiner Verbreitung innerhalb eines Tages wird klar, wie lächerlich [solche](//eay.cc/2008/raubkopierer-lesen-comics/) Anti-Piraterie-Comicheftchen sind. ([via](http://www.nerdcore.de/wp/2008/10/13/steal-this-comic/))

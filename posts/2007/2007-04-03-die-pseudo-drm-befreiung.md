@@ -17,7 +17,7 @@ tags:
   - musik
   - netzkultur
 meta:
-  - yourls_shorturl: "http://eay.li/67"
+  - yourls_shorturl: "https://eay.li/67"
 ---
 
 ![](https://eay.cc/uploads/2007/premiumpreis.gif) Ich versteh euch wirklich nicht mehr (und das kann man auch den Kommentaren in [meinem Lifestream](/about/lifestream/) entnehmen): Da [gewähren euch Apple und EMI](http://www.fscklog.com/2007/04/drmfreie_emitit.html) für einen Aufpreis von 30 Cent ein Recht, das eigentlich selbstverständlich sein sollte - nämlich dass ich mit meiner rechtmäßig erstandenen Musik machen kann was ich will - und alle jubeln. Und damit keiner merkt, dass die Sache eigentlich stinkt und keiner meckert gibt's eine höhere Datenrate "für Genießer", deren arme Ohren ja schon seit Jahrzehnten von den grausamen CDs verprellt werden, zum DRM-freien Aufpreis dazu. Alles ist gut. Alle sind glücklich.

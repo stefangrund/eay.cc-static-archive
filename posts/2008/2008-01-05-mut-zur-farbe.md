@@ -12,7 +12,7 @@ tags:
   - konsum
   - roboter
 meta:
-  - yourls_shorturl: "http://eay.li/xh"
+  - yourls_shorturl: "https://eay.li/xh"
 ---
 
 [![](/uploads/2008/rotesocken.jpg)](http://www.flickr.com/photos/eay/2163318788/) Neues Jahr, [neue Socken](http://www.flickr.com/photos/eay/2163318788/)! Weil's ja nicht immer schwarz sein muss.

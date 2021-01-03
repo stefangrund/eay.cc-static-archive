@@ -14,7 +14,7 @@ tags:
   - musik
   - tenacious-d
 meta:
-  - yourls_shorturl: "http://eay.li/1i4"
+  - yourls_shorturl: "https://eay.li/1i4"
 ---
 
 Am 15. Mai erscheint [bekanntlich](//eay.cc/2012/rize-of-the-fenix/) »Rize of the Fenix«, das dritte Studioalbum von Tenacious D. Schon jetzt haben The D das Album [komplett bei Soundcloud](http://soundcloud.com/tenaciousd/sets/rize-of-the-fenix) hochgeladen, auf das wir unsere Gehörgänge bereits damit fluten können. Ein triftiger Grund mehr KG & JB [am Ring zu huldigen](https://www.facebook.com/events/345409435506830/).

@@ -17,7 +17,7 @@ tags:
   - serien
 meta:
   - linked_list_url: "http://variety.com/2018/tv/news/fx-y-the-last-man-pilot-1202745185/"
-  - yourls_shorturl: "http://eay.li/34o"
+  - yourls_shorturl: "https://eay.li/34o"
   - content_copy: "https://twitter.com/eay/status/982015259077734400"
 ---
 

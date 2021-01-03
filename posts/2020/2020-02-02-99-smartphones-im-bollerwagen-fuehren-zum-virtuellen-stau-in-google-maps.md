@@ -16,7 +16,7 @@ tags:
   - verkehr
 meta:
   - linked_list_url: "http://www.simonweckert.com/googlemapshacks.html"
-  - yourls_shorturl: "http://eay.li/3cr"
+  - yourls_shorturl: "https://eay.li/3cr"
 ---
 
 \[youtube id="k5eL\_al\_m7Q"\]

@@ -18,7 +18,7 @@ tags:
   - star-trek
   - trailer
 meta:
-  - yourls_shorturl: "http://eay.li/33b"
+  - yourls_shorturl: "https://eay.li/33b"
 ---
 
 Nach der überraschenden [Ankündigung von neulich](https://eay.cc/2017/a-quentin-tarantino-star-trek-movie-might-be-on-its-way/), dass Quentin Tarantino an einem [Star Trek](https://eay.cc/tag/star-trek/)\-Film arbeite, hier nun der passende Fan-made Mashup-Trailer dazu, der Kirk & Co. in Tarantinos Grindhouse-Welt verfrachtet:

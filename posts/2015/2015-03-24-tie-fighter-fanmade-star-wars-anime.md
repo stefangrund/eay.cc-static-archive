@@ -17,7 +17,7 @@ tags:
   - kurzfilm
   - star-wars
 meta:
-  - yourls_shorturl: "http://eay.li/2nv"
+  - yourls_shorturl: "https://eay.li/2nv"
 ---
 
 Erinnert ihr euch noch an den großartigen, mit nur zwei Minuten leider viel zu kurzen Fan-produzierten Star-Wars-Anime, der [2012 an dieser Stelle](//eay.cc/2012/fanmade-star-wars-anime/) gefeiert wurde? Heute ist nun endlich ein kompletter Kurzfilm dieser, wie ich es damals nannte, "wahrlich fabelhaft aussehenden Anime-Version eines Star Wars-Weltraumgefechts" veröffentlicht worden. Animiert wurde das ganze von [Paul Johnson](http://mightyotaking.deviantart.com/), der die Wochenenden von vier Jahren hier rein gesteckt hat.

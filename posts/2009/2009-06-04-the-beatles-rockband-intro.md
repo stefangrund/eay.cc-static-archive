@@ -16,7 +16,7 @@ tags:
   - musik
   - the-beatles
 meta:
-  - yourls_shorturl: "http://eay.li/fn"
+  - yourls_shorturl: "https://eay.li/fn"
 ---
 
 ![](https://eay.cc/uploads/2009/beatlesrockbandintro.jpg) [Hier das Intro](http://www.thebeatlesrockband.com/cinematic.php) zur [Beatles-Version von Rockband](http://www.amazon.de/exec/obidos/ASIN/B00284AGA0/eayznet-21), das im Rahmen der E3 uraufgeführt wurde und das an Surrealismus kaum zu übertreffen ist. Verantwortlich dafür ist Peter Candeland, der auch schon die Musikvideos der Gorillaz animiert hat. Jedenfalls ein Grund mehr, am 9.9. den Videospielhändler seines Vertrauens aufzusuchen.

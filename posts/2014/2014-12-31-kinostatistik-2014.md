@@ -21,7 +21,7 @@ tags:
   - quantified-self
   - statistik
 meta:
-  - yourls_shorturl: "http://eay.li/2m2"
+  - yourls_shorturl: "https://eay.li/2m2"
 ---
 
 2014 neigt sich dem Ende, Zeit für die allseits beliebte, alljährliche Kinostatistik! Den "Du bist ja wahnsinnig!"- und "Darauf freue ich mich das ganze Jahr"-Artikel, wie mir – auch offline – immer wieder mitgeteilt wird. Zum [achten Mal in Folge](//eay.cc/2013/kinostatistik-2013/) gehe ich heute also der Frage nach, wie oft es mich in den vergangenen 365 Tagen ins Kino gezogen hat, wieviel mich der Spaß insgesamt und durchschnittlich (ohne Speisen und Getränke) kostete und wie sich die Kinopreise hierzulande entwickelt haben. Also wollen wir mal sehen...

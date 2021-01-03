@@ -15,7 +15,7 @@ tags:
   - kickstarter
   - uhren
 meta:
-  - yourls_shorturl: "http://eay.li/1y1"
+  - yourls_shorturl: "https://eay.li/1y1"
   - linked_list_url: "http://www.kickstarter.com/projects/597507018/pebble-e-paper-watch-for-iphone-and-android"
 ---
 

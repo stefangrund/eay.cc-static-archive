@@ -16,7 +16,7 @@ tags:
   - scientology
   - tom-cruise
 meta:
-  - yourls_shorturl: "http://eay.li/pj"
+  - yourls_shorturl: "https://eay.li/pj"
 ---
 
 Heute läuft ja bekanntlich der neue Tom-Cruise-Film [Operation Walküre](http://www.imdb.com/title/tt0985699/) hierzulande an, der aufgrund der Tatsache, dass Cruise Scientologe ist _und_ einen deutschen Befreiungskämpfer spielt, bereits heftig in der Kritik stand. Ob diese Kritik (filmisch) gerechtfertigt ist, wird erst der Kinobesuch zeigen, aber im Rahmen der Premiere in Berlin ist etwas ziemlich WTF-artiges, berichtenswertes passiert.

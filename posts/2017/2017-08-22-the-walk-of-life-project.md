@@ -20,7 +20,7 @@ meta:
   - linked_list_url: "http://www.wolproject.com/"
   - linked_list_url: "http://www.wolproject.com/"
   - linked_list_url: "http://www.wolproject.com/"
-  - yourls_shorturl: "http://eay.li/30t"
+  - yourls_shorturl: "https://eay.li/30t"
 ---
 
 > Hypothesis: "Walk of Life" by Dire Straits is the perfect song to end any movie.

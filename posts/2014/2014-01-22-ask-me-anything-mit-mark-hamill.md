@@ -16,7 +16,7 @@ tags:
   - star-wars
 meta:
   - linked_list_url: "http://www.reddit.com/r/IAmA/comments/1vvul8/mark_hamill_here_in_an_ama_far_far_away/"
-  - yourls_shorturl: "http://eay.li/2cb"
+  - yourls_shorturl: "https://eay.li/2cb"
 ---
 
 Luke Skywalker beantwortet endlich alles entscheidende Fragen wie "Would you rather fight 100 Ewok sized AT-ATs or 1 AT-AT sized Ewok?".

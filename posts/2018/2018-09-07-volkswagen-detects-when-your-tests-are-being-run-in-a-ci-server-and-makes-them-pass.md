@@ -16,7 +16,7 @@ meta:
   - linked_list_url: "https://github.com/auchenberg/volkswagen"
   - linked_list_url: "https://github.com/auchenberg/volkswagen"
   - linked_list_url: "https://github.com/auchenberg/volkswagen"
-  - yourls_shorturl: "http://eay.li/36l"
+  - yourls_shorturl: "https://eay.li/36l"
 ---
 
 Hashtag Webentwicklerhumor.

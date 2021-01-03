@@ -14,7 +14,7 @@ tags:
   - netzkultur
   - tim-berners-lee
 meta:
-  - yourls_shorturl: "http://eay.li/2cv"
+  - yourls_shorturl: "https://eay.li/2cv"
 ---
 
 > I would have got rid of the slash slash after the colon. You don't really need it. It just seemed like a good idea at the time.

@@ -15,7 +15,7 @@ tags:
   - finanzen
   - technologie
 meta:
-  - yourls_shorturl: "http://eay.li/30w"
+  - yourls_shorturl: "https://eay.li/30w"
 ---
 
 Kurzes Update zur Entwicklung meiner [vor einem Monat gekauften Crypto Currencies](https://eay.cc/2017/einstieg-in-crypto-currencies/). Nachdem alle drei vor dem Bitcoin Cash-Fork und nach dem Etherum-Diebstahl direkt an Wert verloren haben, konnten die 20 Euro mittlerweile etwas zu legen:

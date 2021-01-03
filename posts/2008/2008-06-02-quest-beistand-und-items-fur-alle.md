@@ -16,7 +16,7 @@ tags:
   - trigami
   - world-of-warcraft
 meta:
-  - yourls_shorturl: "http://eay.li/rc"
+  - yourls_shorturl: "https://eay.li/rc"
 ---
 
 \[[Trigami-Anzeige](http://www.trigami.com?blog=http://eay.cc/)\]

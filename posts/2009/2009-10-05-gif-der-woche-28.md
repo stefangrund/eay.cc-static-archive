@@ -14,7 +14,7 @@ tags:
   - gif-der-woche
   - seinfeld
 meta:
-  - yourls_shorturl: "http://eay.li/qa"
+  - yourls_shorturl: "https://eay.li/qa"
 ---
 
 ![](https://eay.cc/uploads/2009/kramerslide.gif) Weil ich euch euer wöchentliches .gif zuletzt nicht oder nur unregelmäßig liefern konnte, hier zur Wiedergutmachung ein hin- und herslidender [Cosmo Kramer](http://de.wikipedia.org/wiki/Seinfeld#Cosmo_Kramer).

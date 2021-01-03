@@ -13,7 +13,7 @@ tags:
   - ghostbusters
   - karneval
 meta:
-  - yourls_shorturl: "http://eay.li/to"
+  - yourls_shorturl: "https://eay.li/to"
 ---
 
 Die letzten Tage waren verrückt. Ich bin ein Jahr älter geworden, hab dies gefeiert und feiern lassen, der FC erringt einen [undenkbaren Sieg](//eay.cc/2009/ein-karnevalswunder/) und als Rahmenhandlung für all das musste der Kölsche Karneval herhalten. Schön wars und ebenso anstrengend. Und erwartungsgemäß blieb das Blog in dieser Zeit größtenteils unangetastet.

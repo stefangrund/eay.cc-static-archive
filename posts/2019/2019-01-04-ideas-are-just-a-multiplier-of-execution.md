@@ -13,7 +13,7 @@ tags:
   - arbeit
 meta:
   - linked_list_url: "https://sivers.org/multiply"
-  - yourls_shorturl: "http://eay.li/38g"
+  - yourls_shorturl: "https://eay.li/38g"
   - geo_latitude: "50.976003473691"
   - geo_longitude: "6.849139187931"
   - geo_public: "1"

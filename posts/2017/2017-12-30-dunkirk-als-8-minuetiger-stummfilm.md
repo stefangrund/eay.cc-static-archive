@@ -16,7 +16,7 @@ tags:
   - mashup
   - recut
 meta:
-  - yourls_shorturl: "http://eay.li/32x"
+  - yourls_shorturl: "https://eay.li/32x"
 ---
 
 [Tom van der Linden](https://mobile.twitter.com/Tom_LSOO) hat für seinen abonnierenswerten Video-Essay-Kanal [Like Stories of Old](https://www.youtube.com/channel/UCs7nPQIEba0T3tGOWWsZpJQ) Christopher Nolans »Dunkirk« zu einem 8 minütigen Stummfilm umgeschnitten, was hervorragend funktioniert und wodurch Nolans vorbildliches visuelles Storytelling nochmals eindrucksvoll aufgezeigt wird.

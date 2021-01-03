@@ -12,7 +12,7 @@ tags:
   - analogleben
   - party
 meta:
-  - yourls_shorturl: "http://eay.li/4w"
+  - yourls_shorturl: "https://eay.li/4w"
 ---
 
 :voll:

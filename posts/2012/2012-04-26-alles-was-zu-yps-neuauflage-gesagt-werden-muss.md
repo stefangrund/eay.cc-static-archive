@@ -13,7 +13,7 @@ tags:
   - webcomic
   - yps
 meta:
-  - yourls_shorturl: "http://eay.li/1y5"
+  - yourls_shorturl: "https://eay.li/1y5"
   - linked_list_url: "http://de.selektive-erinnerung.com/post/21837668234/yps-reloaded"
 ---
 

@@ -14,7 +14,7 @@ tags:
   - james-bond
   - musik
 meta:
-  - yourls_shorturl: "http://eay.li/1z6"
+  - yourls_shorturl: "https://eay.li/1z6"
   - linked_list_url: "http://www.youtube.com/watch?v=7HKoqNJtMTQ"
 ---
 

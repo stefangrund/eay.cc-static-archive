@@ -16,7 +16,7 @@ tags:
   - webdesign
 meta:
   - linked_list_url: "https://pattle.github.io/simpsons-in-css/"
-  - yourls_shorturl: "http://eay.li/2h7"
+  - yourls_shorturl: "https://eay.li/2h7"
 ---
 
 [In seinem Blog](http://www.chrispattle.com/blog/simpsons-in-css/) erklärt [Chris Pattle](http://www.chrispattle.com/), wie er's gemacht hat.

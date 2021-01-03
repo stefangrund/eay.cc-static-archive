@@ -17,7 +17,7 @@ tags:
   - smarthome
 meta:
   - content_copy: "https://twitter.com/eay/status/835919388217913344"
-  - yourls_shorturl: "http://eay.li/30i"
+  - yourls_shorturl: "https://eay.li/30i"
 ---
 
 \[video src="https://eay.cc/uploads/video/smarthome-push-klingel.mp4" loop="on" height="400"\]

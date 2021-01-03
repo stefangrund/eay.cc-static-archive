@@ -14,7 +14,7 @@ tags:
   - social-media
   - the-verge
 meta:
-  - yourls_shorturl: "http://eay.li/21i"
+  - yourls_shorturl: "https://eay.li/21i"
   - linked_list_url: "http://www.theverge.com/2013/1/15/3880004/facebook-graph-search-hands-on"
 ---
 

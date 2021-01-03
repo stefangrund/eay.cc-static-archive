@@ -17,7 +17,7 @@ tags:
   - webcomic
 meta:
   - linked_list_url: "http://www.stanleycolors.com/2013/09/imagine-john-lennon/"
-  - yourls_shorturl: "http://eay.li/27n"
+  - yourls_shorturl: "https://eay.li/27n"
 ---
 
 Überaus tolle Arbeit von [Pablo Stanley](http://www.stanleycolors.com/).

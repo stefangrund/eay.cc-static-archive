@@ -16,7 +16,7 @@ tags:
   - magazine
   - usa
 meta:
-  - yourls_shorturl: "http://eay.li/uk"
+  - yourls_shorturl: "https://eay.li/uk"
 ---
 
 Was macht der olle Eay eigentlich wenn er sich nicht um eure Lieblingswebseite kümmert? Bisher nicht allzu viel erwähnenswertes, aber jetzt habe ich meinem Leben einen Sinn gegeben: I'm in the army now! Und in der Navy, der Airforce und nicht zu vergessen den Marines. Ein Supersoldat quasi. Mama hat's immer gewusst.

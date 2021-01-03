@@ -11,7 +11,7 @@ tags:
   - blogging
   - eayz
 meta:
-  - yourls_shorturl: "http://eay.li/3x"
+  - yourls_shorturl: "https://eay.li/3x"
 ---
 
 (und immerhin handelt es sich dabei um eine quasi unendlich große Gmail-Inbox): Alles in Ordnung, jetzt geht's weiter. Ich hatte nur einfach keine Zeit Lust Zeit.

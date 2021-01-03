@@ -15,7 +15,7 @@ tags:
   - mashup
 meta:
   - linked_list_url: "http://cartoonkevin.com/"
-  - yourls_shorturl: "http://eay.li/349"
+  - yourls_shorturl: "https://eay.li/349"
 ---
 
 ![](https://eay.cc/uploads/2018/cartoon-kevin.jpg)

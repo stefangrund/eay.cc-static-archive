@@ -16,7 +16,7 @@ tags:
   - serien
   - trailer
 meta:
-  - yourls_shorturl: "http://eay.li/2v7"
+  - yourls_shorturl: "https://eay.li/2v7"
 ---
 
 Nachdem wir erst Freitagnacht von unserem großen England-Trip zurückgekehrt sind, muss ich hier in Sachen Hype einiges nachholen. Daher hier zunächst der Trailer zur dritten Staffel von Charlie Brookers Science-Fiction-Anthologie »Black Mirror«, die ich hier bereits [seit der ersten Staffel abfeiere](https://eay.cc/2012/black-mirror/).

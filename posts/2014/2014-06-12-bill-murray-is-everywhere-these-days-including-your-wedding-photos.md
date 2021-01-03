@@ -15,7 +15,7 @@ tags:
   - hochzeiten
 meta:
   - linked_list_url: "http://www.postandcourier.com/article/20140611/PC0313/140619860/1177"
-  - yourls_shorturl: "http://eay.li/2gv"
+  - yourls_shorturl: "https://eay.li/2gv"
 ---
 
 > Charleston wedding photographer Raheel Gauba was shooting engagement photos of a young couple posing on the steps of a Meeting Street building last month when someone grabbed his subjects' attention. \[...\] "I turn around and it's Bill Murray with his shirt up, belly out, tapping his belly and trying to make them laugh."

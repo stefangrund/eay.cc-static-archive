@@ -20,7 +20,7 @@ meta:
   - geo_longitude: "4.8906596"
   - geo_public: "1"
   - content_copy: "https://twitter.com/eay/status/1097522393654878208"
-  - yourls_shorturl: "http://eay.li/39k"
+  - yourls_shorturl: "https://eay.li/39k"
 ---
 
 ![](https://eay.cc/uploads/2019/amsterdam-crew.jpeg)

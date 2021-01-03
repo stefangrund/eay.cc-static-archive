@@ -14,7 +14,7 @@ tags:
   - in-eigener-sache
   - sicherheit
 meta:
-  - yourls_shorturl: "http://eay.li/2tb"
+  - yourls_shorturl: "https://eay.li/2tb"
 ---
 
 Ich habe den gestrigen Hacking-Day [beim IndieWebCamp](https://eay.cc/2016/indiewebcamp-duesseldorf/) nicht nur dazu genutzt, mich weiter mit Webmentions vertraut zu machen, sondern auch, um diese Seite endlich mal mit einem SSL-Zertifikat auszustatten und auf HTTPS umzustellen.

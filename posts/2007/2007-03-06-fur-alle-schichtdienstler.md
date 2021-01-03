@@ -16,7 +16,7 @@ tags:
   - kurzfilm
   - nsfw
 meta:
-  - yourls_shorturl: "http://eay.li/dl"
+  - yourls_shorturl: "https://eay.li/dl"
 ---
 
 ... und Kunststudenten: Der Kurzfilm [Cashback](http://en.wikipedia.org/wiki/Cashback_(film)) hat zwar schon seine Runde durch Blogistan gedreht, aber hier & heute nochmal für alle, die gerade von der Arbeit kommen oder gerade hinfahren (es sind gerade 5:45 Uhr falls wer fragen sollte). Es geht um den Kunststudenten Ben, der Nachts im Supermarkt arbeitet, sich dort aber verständlicherweise in seine kleine Kunst-und-Frauenkörper-Traumwelt flüchtet. Letztes Jahr Oscar-nominiert für den besten Kurzfilm und mittlerweile zum Spielfilm [weiterverfilmt](http://cashback-lefilm.com/). Gut gemacht und sehenswert. Wegen der Nackeligkeit wohl nsfw. Das Video gibt's nach dem Klick.

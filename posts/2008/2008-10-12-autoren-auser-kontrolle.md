@@ -15,7 +15,7 @@ tags:
   - steven-spielberg
   - ueberwachung
 meta:
-  - yourls_shorturl: "http://eay.li/h9"
+  - yourls_shorturl: "https://eay.li/h9"
 ---
 
 ![](/uploads/2008/eagleeye.jpg)Politiker diesseits und jenseits des großen Teichs tauschen seit einigen Jahren sehenden Auges unsere Freiheit gegen eine vage Wunschvorstellung von Schutz vor irgendeinem Hirngespinst ein. Und unsere täglich (und gerne) verwendete Technik macht es ihnen einfacher denn je. Nun kann man sich der filmischen Kritik dieser Totalüberwachung auf die äußerst unterhaltsame und dementsprechend viel schwerer zu vermittelnde Art und Weise nähern, wie es [die Coens dieser Tage](//eay.cc/2008/du-weist-dass-du-nichts-weist/) getan haben, oder man geht den einfacheren Weg und produziert einen rasanten, erfolgsgarantierten Action-Kracher Ã¡ la [Eagle Eye](http://www.imdb.com/title/tt1059786/).

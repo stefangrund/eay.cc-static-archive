@@ -15,7 +15,7 @@ tags:
   - konsum
 meta:
   - linked_list_url: "http://www.baekdal.com/opinion/how-inapp-purchases-has-destroyed-the-industry"
-  - yourls_shorturl: "http://eay.li/2co"
+  - yourls_shorturl: "https://eay.li/2co"
 ---
 
 Thomas Baekdal ((Bei dem lustigerweise fast jeder Artikel ein kostenpflichtiges "eBook" ist.)) zeigt am Beispiel von Dungeon Keeper, wie das Spielerlebnis heutzutage durch echtes Geld kostende Schlumpfbeeren zerstört wird.

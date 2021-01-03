@@ -18,7 +18,7 @@ tags:
   - stephen-hawking
   - super-mario
 meta:
-  - yourls_shorturl: "http://eay.li/h0"
+  - yourls_shorturl: "https://eay.li/h0"
 ---
 
 - [The only Mario level that plays itself](http://my.break.com/media/view.aspx?ContentID=359313) · Wie dieses Video beweist, muss man in einem Level von Super Mario rein gar nichts machen. Da hat sich wohl ein Programmierer ausgelebt. ([via](http://www.boingboing.net/2007/09/11/mario-level-that-pla.html))

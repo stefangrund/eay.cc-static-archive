@@ -16,7 +16,7 @@ tags:
   - politik
   - zwillinge
 meta:
-  - yourls_shorturl: "http://eay.li/7p"
+  - yourls_shorturl: "https://eay.li/7p"
 ---
 
 CSU-Bezirksrätin [Barbara Titzsch](http://anonym.to/?http://www.barbara-titzsch.de/) looks like Oliver Kalkofe. Verblüffend, oder? ([via](http://www.nerdcore.de/wp/2008/09/25/gestatten-kalkofe/))

@@ -15,7 +15,7 @@ tags:
   - web-entwicklung
 meta:
   - linked_list_url: "https://www.websitecarbon.com/"
-  - yourls_shorturl: "http://eay.li/396"
+  - yourls_shorturl: "https://eay.li/396"
   - geo_latitude: "50.973818306229"
   - geo_longitude: "6.6830882690936"
   - geo_public: "1"

@@ -16,7 +16,7 @@ tags:
   - katzencontent
   - video
 meta:
-  - yourls_shorturl: "http://eay.li/1ws"
+  - yourls_shorturl: "https://eay.li/1ws"
   - linked_list_url: "http://www.youtube.com/watch?v=vEg4SEch27w"
 ---
 

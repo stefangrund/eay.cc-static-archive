@@ -17,7 +17,7 @@ tags:
   - star-wars
 meta:
   - linked_list_url: "http://shortfil.ms/film/star-wars-the-force-awakens-as-told-by-emoji-2016"
-  - yourls_shorturl: "http://eay.li/2sw"
+  - yourls_shorturl: "https://eay.li/2sw"
 ---
 
 Guter gemachter, kleiner Kurzfilm, der die Geschichte von Rey, Finn, Kylo & Co. auf einem Smartphone-Screen nacherzählt. ![](https://eay.cc/uploads/2016/bb8-emoji.png)

@@ -15,7 +15,7 @@ tags:
   - netzkultur
   - youtube
 meta:
-  - yourls_shorturl: "http://eay.li/jl"
+  - yourls_shorturl: "https://eay.li/jl"
 ---
 
 Scheint zwar schon was älter zu sein, aber ich bin gerade erst drauf gestoßen und es haut mich schon etwas vom medial-eingesessenen Hocker, wie der YouTube-Nutzer und Regisseur [Patrick Boivin](http://www.youtube.com/user/PatrickBoivin) Googles Videoportal etwas zweckentfremdet - oder besser: neu erfindet - und uns zeigt, wie Interaktivität in _diesem_ Web 2.0 jenseits von einem drunterstehenden Kommentarfeld aussehen kann. Nämlich wie **ein interaktiver, non-linearer Street Fighter-Klon, zusammengesetzt aus ein paar Dutzend YouTube-Videos und mit Actionfiguren als Hauptdarstellern!**

@@ -14,7 +14,7 @@ tags:
   - hochzeiten
   - kira-und-ich
 meta:
-  - yourls_shorturl: "http://eay.li/2hh"
+  - yourls_shorturl: "https://eay.li/2hh"
 ---
 
 Bester Hochzeitsumtrunk, den wir uns nur wünschen konnten gestern. Danke!

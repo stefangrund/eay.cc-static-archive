@@ -15,7 +15,7 @@ tags:
   - schlafen
   - zeit
 meta:
-  - yourls_shorturl: "http://eay.li/2p0"
+  - yourls_shorturl: "https://eay.li/2p0"
 ---
 
 > What, so everyone's supposed to sleep every single night now? You realize that nighttime makes up half of all time?

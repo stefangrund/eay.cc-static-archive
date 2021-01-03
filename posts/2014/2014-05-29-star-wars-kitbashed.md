@@ -15,7 +15,7 @@ tags:
   - mashup
   - star-wars
 meta:
-  - yourls_shorturl: "http://eay.li/2gf"
+  - yourls_shorturl: "https://eay.li/2gf"
 ---
 
 \[vimeo id="90747105"\]

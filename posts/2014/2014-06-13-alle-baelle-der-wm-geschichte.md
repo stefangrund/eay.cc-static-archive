@@ -17,7 +17,7 @@ tags:
   - wm-2014
 meta:
   - linked_list_url: "http://www.nytimes.com/interactive/2014/06/13/sports/worldcup/world-cup-balls.html"
-  - yourls_shorturl: "http://eay.li/2h0"
+  - yourls_shorturl: "https://eay.li/2h0"
 ---
 
 Nach dem [interaktiven Guide des Guardian über die Trikots](//eay.cc/2014/alle-trikots-der-wm-geschichte/) der teilnehmenden Mannschaften seit 1930 hier nun ein interaktiver Guide der New York Times über sämtliche Weltmeisterschaftsfußbälle seit 1930. (via [Kottke](http://kottke.org/14/06/world-cup-balls-1930-2014))

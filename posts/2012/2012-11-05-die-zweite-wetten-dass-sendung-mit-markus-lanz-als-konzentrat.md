@@ -14,7 +14,7 @@ tags:
   - fernsehen
   - markus-lanz
 meta:
-  - yourls_shorturl: "http://eay.li/201"
+  - yourls_shorturl: "https://eay.li/201"
   - linked_list_url: "http://www.youtube.com/watch?v=LcMBpDnwXFg"
 ---
 

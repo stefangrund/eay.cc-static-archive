@@ -19,7 +19,7 @@ tags:
   - star-trek
   - star-wars
 meta:
-  - yourls_shorturl: "http://eay.li/1tc"
+  - yourls_shorturl: "https://eay.li/1tc"
 ---
 
 [![](https://eay.cc/uploads/2013/pixarstarwars.jpg)](http://minionfactory.blogspot.de/2013/01/in-galaxy-far-far-away-pixar-did-star.html)

@@ -14,7 +14,7 @@ tags:
   - eayz
   - in-eigener-sache
 meta:
-  - yourls_shorturl: "http://eay.li/2nb"
+  - yourls_shorturl: "https://eay.li/2nb"
 ---
 
 Letzten Monat konnte ich mit diesem Blog [zwölfjähriges Bestehen feiern](//eay.cc/2015/12-jahre/). Heute vor [genau acht Jahren](//eay.cc/2007/introducing-v5/) erfolgte dann der Wechsel zu WordPress, das ich seitdem als treibende Kraft hinter diesen Zeilen verwende. Ein guter Anlass, um den zuvor da gewesenen, den Verblichenen, den Ex-CMSen mal die Ehre zu erweisen, dachte ich mir. Und das waren im Fall dieses Weblogs:

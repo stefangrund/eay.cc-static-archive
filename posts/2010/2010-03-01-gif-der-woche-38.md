@@ -14,7 +14,7 @@ tags:
   - panda
   - tiere
 meta:
-  - yourls_shorturl: "http://eay.li/ty"
+  - yourls_shorturl: "https://eay.li/ty"
 ---
 
 ![](https://eay.cc/uploads/2010/pandarutsche.gif) Weil's im Februar dank Klausurphase, Karneval und Maloche keine [wöchentlichen .gifs](//eay.cc/tag/gif-der-woche/) gab, heute zur Versöhnung ein Tierbildchen, das [Andi](http://www.andisblog.de/) mir freundlicherweise zusandte. Und .gifs mit tollpatschigen Tieren gehen ja sowieso immer.

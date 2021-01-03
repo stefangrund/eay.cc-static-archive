@@ -14,7 +14,7 @@ tags:
   - rtl
   - thomas-gottschalk
 meta:
-  - yourls_shorturl: "http://eay.li/1x0"
+  - yourls_shorturl: "https://eay.li/1x0"
   - linked_list_url: "http://www.dwdl.de/nachrichten/36430/rtl_bestaetigt_verpflichtung_von_thomas_gottschalk/"
 ---
 

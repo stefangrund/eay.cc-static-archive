@@ -13,7 +13,7 @@ tags:
   - twitter
   - zungenbrecher
 meta:
-  - yourls_shorturl: "http://eay.li/c4"
+  - yourls_shorturl: "https://eay.li/c4"
 ---
 
 [Titti Turner Titti Turner Titti Turner](http://twitter.com/Limpi/status/1034511630)

@@ -18,7 +18,7 @@ tags:
   - wonder-woman
 meta:
   - linked_list_url: "https://thenib.com/what-does-wonder-woman-actually-represent"
-  - yourls_shorturl: "http://eay.li/2zd"
+  - yourls_shorturl: "https://eay.li/2zd"
 ---
 
 > Her long journey from feminist icon to damsel in distress, and back again.

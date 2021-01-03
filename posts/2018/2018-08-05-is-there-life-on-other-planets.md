@@ -16,7 +16,7 @@ tags:
   - retro
   - wissenschaft
 meta:
-  - yourls_shorturl: "http://eay.li/36a"
+  - yourls_shorturl: "https://eay.li/36a"
   - geo_latitude: "50.973812525566"
   - geo_longitude: "6.6830785892493"
   - geo_public: "1"

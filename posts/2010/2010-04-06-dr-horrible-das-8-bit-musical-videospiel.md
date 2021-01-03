@@ -21,7 +21,7 @@ tags:
   - musik
   - retro
 meta:
-  - yourls_shorturl: "http://eay.li/9"
+  - yourls_shorturl: "https://eay.li/9"
 ---
 
 ![](https://eay.cc/uploads/2010/drhorriblegame.gif)

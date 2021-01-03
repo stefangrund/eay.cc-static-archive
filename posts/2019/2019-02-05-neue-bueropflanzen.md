@@ -15,7 +15,7 @@ tags:
   - ppw
 meta:
   - content_copy: "https://www.instagram.com/p/Btf4G69nlHQ/"
-  - yourls_shorturl: "http://eay.li/390"
+  - yourls_shorturl: "https://eay.li/390"
   - geo_latitude: "50.9388503"
   - geo_longitude: "6.9456676"
   - geo_public: "1"

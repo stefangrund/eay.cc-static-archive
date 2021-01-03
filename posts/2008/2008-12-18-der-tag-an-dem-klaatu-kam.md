@@ -15,7 +15,7 @@ tags:
   - retro
   - science-fiction
 meta:
-  - yourls_shorturl: "http://eay.li/4y"
+  - yourls_shorturl: "https://eay.li/4y"
 ---
 
 ![](/uploads/2008/dayearthstill.jpg)Vor einer Woche überlegten sich [die zwei New York City Boys](http://is.gd/c9ND) und meine neidische Wenigkeit den Abend mit leichtester Kost Ã¡ la [Death Race](http://www.imdb.com/title/tt0452608/) ausklingen zu lassen. Also Uhrzeit der Aufführung gecheckt, zum Kino gefahren und an der Kasse drei Karten bestellt. "Oh, die Herren, der läuft heute nicht." Aber, aber! "Es sind noch Plätze in der Premiere von [Der Tag, an dem die Erde stillstand](http://www.imdb.com/title/tt0970416/) frei..." Na gut! Drei Getränkebestellungen später betreten wir den menscheleersten Saal, den das Kino wahrscheinlich jemals bei einer Premiere hatte. Es handelt sich um ein Remake eines Sci-Fi-Streifen aus den 50ern, Neo spielt die Hauptrolle und auf dem [Original-Poster](http://img120.imageshack.us/img120/57/daytheearthstoodstill19lo5.jpg) ist ein Roboter, der Laserstrahlen aus seinem Auge schießt, zu sehen, soviel wussten wir. Und dass der Trailer beschissen war. Aber wir wollen ja fair bleiben und erst mal abwarten...

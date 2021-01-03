@@ -16,7 +16,7 @@ tags:
   - jurassic-park
   - trailer
 meta:
-  - yourls_shorturl: "http://eay.li/2l0"
+  - yourls_shorturl: "https://eay.li/2l0"
 ---
 
 [Bleiben](//eay.cc/2014/trailer-zu-neill-blomkamps-chappie/) wir bei Trailern: Eigentlich sollte der ja bereits mit [einem eigenen Teaser](//eay.cc/2014/jurassic-world-teaser/) beworbene Trailer ja erst am Donnerstag veröffentlicht werden, aber wie das mit dem Internet nun mal so ist, kam er jetzt doch schon gestern. Und... ich bin überaus angetan!

@@ -15,7 +15,7 @@ tags:
   - nsfw
   - religion
 meta:
-  - yourls_shorturl: "http://eay.li/5g"
+  - yourls_shorturl: "https://eay.li/5g"
 ---
 
 Sofern ihr im Vatikan arbeitet, ist folgender Link möglicherweise nsfw: [Hier die Rechnung](http://mlkshk.com/r/5ZJF) der Restaurierung der Kölner Pauluskirche aus dem Jahr 1941. Mit so fantastischen Aufstellungen wie "Dem Petrus die linke Hinterbacke geleimt und den Sack richtig gefüllt" oder natürlich "Den Beichtstuhl etwas gehoben und die Flecken entfernt". Da hatte einer Spaß bei der Arbeit. ([via](http://www.misterhonk.de/blog/2541/rechnung-uber-die-reparatur-der-st-pauluskirche-in-koln-aus-dem-jahr-1941/))

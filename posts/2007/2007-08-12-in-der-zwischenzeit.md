@@ -13,7 +13,7 @@ tags:
   - twitter
   - urlaub
 meta:
-  - yourls_shorturl: "http://eay.li/kf"
+  - yourls_shorturl: "https://eay.li/kf"
 ---
 
 Der ein oder andere hat es vielleicht [schon](//eay.cc/2007/optimus-prime-vs-megatron/) bemerkt: ich bin zurückgekehrt. Teil Eins des zweiteiligen Urlaubs ist abgeschlossen und hat folgende Erkenntnisse eingebracht: Das Vodafone-UMTS-Netz in Bayern ist absolute Scheiße[\*](http://twitter.com/Eay/statuses/186227872), das neue [Album der Sportfreunde Stiller](http://www.amazon.de/exec/obidos/ASIN/B000SZ94OK/eayznet-21) ist leider nur Durchschnitt[\*](http://twitter.com/Eay/statuses/186872982), es ist einfach anderen die Arbeit wegzunehmen[\*](http://twitter.com/Eay/statuses/191670902), wenn man DVDs verleiht, sollte man sich merken an wen[\*](http://twitter.com/Eay/statuses/196820032) und es macht Spaß zu schnell zu fahren, solange es nur 15 Euro kostet[\*](http://twitter.com/Eay/statuses/200463482).

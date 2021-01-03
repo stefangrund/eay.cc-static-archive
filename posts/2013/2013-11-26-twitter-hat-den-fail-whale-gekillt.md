@@ -14,7 +14,7 @@ tags:
   - twitter
 meta:
   - linked_list_url: "http://www.crackajack.de/2013/11/25/fail-whale-r-i-p/"
-  - yourls_shorturl: "http://eay.li/29z"
+  - yourls_shorturl: "https://eay.li/29z"
 ---
 
 Das heißt, dass bald noch weniger Leute verstehen, was es mit dem [Bild in unserem Badezimmer](http://d.pr/i/x7WH) auf sich hat.

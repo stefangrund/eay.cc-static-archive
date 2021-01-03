@@ -14,7 +14,7 @@ tags:
   - own-your-content
 meta:
   - linked_list_url: "https://www.jvt.me/posts/2019/07/22/why-website/"
-  - yourls_shorturl: "http://eay.li/3bc"
+  - yourls_shorturl: "https://eay.li/3bc"
   - content_copy: "https://twitter.com/eay/status/1170700528889802753"
   - content_copy: "https://eay.social/@eay/102757288618129530"
   - geo_latitude: "50.97389349454"

@@ -14,7 +14,7 @@ tags:
   - politik
   - zwillinge
 meta:
-  - yourls_shorturl: "http://eay.li/1k"
+  - yourls_shorturl: "https://eay.li/1k"
 ---
 
 ![](https://eay.cc/uploads/2009/diekmannguttenberg.jpg) Wahrscheinlich liegt es nur an mir, aber ich kann diese beiden Herren optisch einfach nicht auseinanderhalten: Kai Diekmann, Bundespropa... Chefredakteur der Bild-Zeitung, und Karl-Theodor zu Guttenberg, Bundeswirtschaftsminister und "[cooler Baron](http://www.stefan-niggemeier.de/blog/ein-stern-der-seinen-namen-traegt/)" (( Ja, ich dachte tatsächlich: was macht denn der Diekmann aufm Stern? (Und egal, was es gewesen wäre, es wäre eindeutig besser als diese peinliche Wahlwerbetitelstory gewesen...))), der seiner Chefin in Profillosigkeit wohl in nichts nachsteht.

@@ -15,7 +15,7 @@ tags:
   - own-your-content
 meta:
   - linked_list_url: "https://gilest.org/blog-brain.html"
-  - yourls_shorturl: "http://eay.li/2wj"
+  - yourls_shorturl: "https://eay.li/2wj"
 ---
 
 Giles Turnbull über eine der größten Stärken des Bloggens:

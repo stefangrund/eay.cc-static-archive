@@ -12,7 +12,7 @@ categories:
 tags:
   - gif-der-woche
 meta:
-  - yourls_shorturl: "http://eay.li/7h"
+  - yourls_shorturl: "https://eay.li/7h"
 ---
 
 ![](/uploads/2008/fallgif.gif) Heute ein _lustiges_ .gif für die RTL-Zuschauer, die hier mitlesen mitgucken.

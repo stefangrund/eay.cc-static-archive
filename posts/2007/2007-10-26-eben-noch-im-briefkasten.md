@@ -13,7 +13,7 @@ tags:
   - gez
   - post
 meta:
-  - yourls_shorturl: "http://eay.li/ll"
+  - yourls_shorturl: "https://eay.li/ll"
 ---
 
 ![](/uploads/2007/gezahlt.jpg) ... jetzt schon im Mülleimer. <- Spamordner für Oldschool-Spam

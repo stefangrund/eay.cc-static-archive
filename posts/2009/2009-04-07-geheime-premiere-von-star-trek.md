@@ -13,7 +13,7 @@ tags:
   - star-trek
   - twitter
 meta:
-  - yourls_shorturl: "http://eay.li/nf"
+  - yourls_shorturl: "https://eay.li/nf"
 ---
 
 > Holy fuck! The new Star Trek fucking rules the universe

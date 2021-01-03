@@ -13,7 +13,7 @@ tags:
   - star-wars
   - tshirt
 meta:
-  - yourls_shorturl: "http://eay.li/qc"
+  - yourls_shorturl: "https://eay.li/qc"
 ---
 
 ![](/uploads/2009/deathstartrauer.gif) Grandios: das tragischste Fanboy-Shirt aller Zeiten. [Hier für 18$](http://www.lookatmeshirts.com/details.php?pid=438). ([via](http://www.slashfilm.com/2009/02/25/cool-stuff-i-had-friends-on-that-death-star-t-shirt/))

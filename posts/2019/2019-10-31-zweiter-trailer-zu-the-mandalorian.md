@@ -15,7 +15,7 @@ tags:
   - star-wars
   - the-mandalorian
 meta:
-  - yourls_shorturl: "http://eay.li/3bq"
+  - yourls_shorturl: "https://eay.li/3bq"
   - geo_latitude: "55.958873218101"
   - geo_longitude: "-3.1982690416959"
   - geo_public: "1"

@@ -15,7 +15,7 @@ tags:
   - ted
   - video
 meta:
-  - yourls_shorturl: "http://eay.li/2ue"
+  - yourls_shorturl: "https://eay.li/2ue"
 ---
 
 \[youtube id="\_ZBKX-6Gz6A"\]

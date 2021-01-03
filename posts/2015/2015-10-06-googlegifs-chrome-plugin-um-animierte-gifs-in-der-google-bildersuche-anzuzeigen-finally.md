@@ -16,7 +16,7 @@ tags:
   - plugin
 meta:
   - linked_list_url: "https://chrome.google.com/webstore/detail/googlegifs/ommpbgoliokoijimalcokhciffhapkdf"
-  - yourls_shorturl: "http://eay.li/2qa"
+  - yourls_shorturl: "https://eay.li/2qa"
 ---
 
 ![](https://cl.ly/dRw8/googlegifs.gif)

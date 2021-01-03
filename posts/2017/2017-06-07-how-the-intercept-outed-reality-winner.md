@@ -11,7 +11,7 @@ categories:
   - 0815
 meta:
   - linked_list_url: "http://blog.erratasec.com/2017/06/how-intercept-outed-reality-winner.html"
-  - yourls_shorturl: "http://eay.li/2zj"
+  - yourls_shorturl: "https://eay.li/2zj"
 ---
 
 > The problem is that most new printers print nearly invisibly yellow dots that track down exactly when and where documents, any document, is printed. Because the NSA logs all printing jobs on its printers, it can use this to match up precisely who printed the document.

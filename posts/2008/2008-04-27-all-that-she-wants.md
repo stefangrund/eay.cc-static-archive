@@ -12,7 +12,7 @@ tags:
   - musik
   - the-kooks
 meta:
-  - yourls_shorturl: "http://eay.li/cm"
+  - yourls_shorturl: "https://eay.li/cm"
 ---
 
 Verrückte Welt: Das beste Lied der Kooks ist von Ace of Base.

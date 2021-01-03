@@ -16,7 +16,7 @@ tags:
   - sequel
   - star-trek
 meta:
-  - yourls_shorturl: "http://eay.li/9l"
+  - yourls_shorturl: "https://eay.li/9l"
 ---
 
 ![](/uploads/2009/startrek.jpg)Ich stehe ja eigentlich seit jeher auf [Star Wars](//eay.cc/tag/star-wars/). Jedis, Wookiees, Todessterne - das ist meine Welt! Natürlich habe ich in jungen Jahren auch intensiv die Abenteuer des Raumschiff Enterprise, sowie der Next Generation verfolgt, fand das ganze aber im direkten Vergleich zu _meiner_ weit, weit entfernten Galaxie eher lahm. Spätestens mit Deep Space Nine, der Krönung der SciFi-Langeweile, hab ich mich dann endgültig damit abgefunden, dass die ganzen Trekkies einen am Warp-Antrieb haben. Dennoch: so ganz konnte ich mich nie abwenden ([die Borg](http://memory-alpha.org/de/wiki/Borg) sind ja wohl großartig!) und die Kinofilme, mal mehr, meistens weniger gut, hab ich mir natürlich auch immer angesehen.

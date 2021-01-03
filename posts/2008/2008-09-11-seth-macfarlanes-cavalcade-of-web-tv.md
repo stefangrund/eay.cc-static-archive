@@ -14,7 +14,7 @@ tags:
   - seth-macfarlance
   - youtube
 meta:
-  - yourls_shorturl: "http://eay.li/5m"
+  - yourls_shorturl: "https://eay.li/5m"
 ---
 
 ![](/uploads/2008/sethcomedy.jpg) Da ist sie also die [lang angekündigte](http://www.googlewatchblog.de/2008/07/01/adsense-zeigt-demnaechst-cartoons-vom-family-guy-macher/) Kooperation von Google und Family-Guy-Macher Seth MacFarlane: Ab heute werden in [diesem YouTube-Kanal](http://www.youtube.com/user/SethComedy) und auf der [dazugehörigen Webseite](http://www.sethcomedy.com/) unter dem Namen "Seth MacFarlane's Cavalcade of Cartoon Comedy" jede Woche neue Clips rausgehauen, die das Herz eines jeden Family-Guy-Fans höher schlagen lassen (und erstmal die Wartezeit auf die neue Staffel am 28.9. verkürzen).

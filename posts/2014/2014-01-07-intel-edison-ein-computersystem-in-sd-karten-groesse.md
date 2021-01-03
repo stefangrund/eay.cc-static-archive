@@ -15,7 +15,7 @@ tags:
   - zukunft
 meta:
   - linked_list_url: "http://www.heise.de/newsticker/meldung/Intels-Edison-Pentium-System-im-Format-einer-SD-Karte-2076917.html"
-  - yourls_shorturl: "http://eay.li/2bh"
+  - yourls_shorturl: "https://eay.li/2bh"
 ---
 
 Samt Bluetooth und WLAN soll Edison dabei so schnell wie ein Pentium-System sein. In der Präsentation steckt das Ding in Babykleidung und überwacht den Gesundheitszustand der Kleinen.

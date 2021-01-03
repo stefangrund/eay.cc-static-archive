@@ -13,7 +13,7 @@ tags:
   - komoedie
   - romantic-comedy
 meta:
-  - yourls_shorturl: "http://eay.li/8x"
+  - yourls_shorturl: "https://eay.li/8x"
 ---
 
 ![](https://eay.cc/uploads/2009/womanizer.jpg)Man kennt das ja: die Mädels sehen sich gerne Romantic Comedies an, wir Jungs stehen auf Brachialgewalt, Autos und, ja, [Möpse](http://www.flickr.com/photos/tags/pug/) ((eayz.net - Puts the Quality back in Film Reviews!)) (womit wir bei Transformers 2 wären, aber das Review kommt später). Umso verwunderlicher also, wenn einer meiner männlichen Freunde mich auf einen dieser vermeintlichen "Mädchen-Filme" aufmerksam macht und empfiehlt die Freundin dahin auszuführen, weil die auf jeden Fall ihren Herzschmerz-Spaß haben wird, ich mich aber auch _richtig_ amüsieren werde ((Und das ohne Hugh Grant, der zumindest für mich schon einige dieser herzzerreißenden Komödien ins überaus Erträgliche gerettet hat.)). So geschehen bei [Der Womanizer](http://www.imdb.com/title/tt0821640/). Also die Freundin eingepackt und ab ging's ins hiesige Kino.

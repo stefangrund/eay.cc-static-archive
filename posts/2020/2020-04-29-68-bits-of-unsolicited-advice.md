@@ -13,7 +13,7 @@ tags:
   - lebensweisheit
 meta:
   - linked_list_url: "https://kk.org/thetechnium/68-bits-of-unsolicited-advice/"
-  - yourls_shorturl: "http://eay.li/3e0"
+  - yourls_shorturl: "https://eay.li/3e0"
   - geo_latitude: "50.973914205164"
   - geo_longitude: "6.6829242642792"
   - geo_public: "1"

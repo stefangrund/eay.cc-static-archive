@@ -16,7 +16,7 @@ tags:
   - the-wolf-of-wall-street
   - trailer
 meta:
-  - yourls_shorturl: "http://eay.li/2dy"
+  - yourls_shorturl: "https://eay.li/2dy"
 ---
 
 \[youtube id="FTIuQwZh1CM"\]

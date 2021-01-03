@@ -13,7 +13,7 @@ tags:
   - analogleben
   - studium
 meta:
-  - yourls_shorturl: "http://eay.li/2fl"
+  - yourls_shorturl: "https://eay.li/2fl"
 ---
 
 "Herrn Stefan Grund wurde von der Philosophischen Fakultät der Universität zu Köln der akademische Grad Bachelor of Arts verliehen."

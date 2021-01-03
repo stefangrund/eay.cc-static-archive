@@ -17,7 +17,7 @@ tags:
   - usa
   - wahlkampf
 meta:
-  - yourls_shorturl: "http://eay.li/pb"
+  - yourls_shorturl: "https://eay.li/pb"
 ---
 
 Ich muss doch wieder mal was dafür tun, dass eayz als [1\. deutsches Sarah Palin Watchblog](//eay.cc/tag/sarah-palin/ "Sarah Palin Watchblog") wahrgenommen wird. Also erstmal grundlegende Fakten aus Sarahs Palins wildem Leben, das [SpOn](http://www.spiegel.de/kultur/gesellschaft/0,1518,577469,00.html) umfangreich zusammengefasst hat:

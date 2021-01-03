@@ -15,7 +15,7 @@ tags:
   - tumblr
   - twitter
 meta:
-  - yourls_shorturl: "http://eay.li/1w7"
+  - yourls_shorturl: "https://eay.li/1w7"
 ---
 
 ![](https://eay.cc/uploads/2013/thedeathoftherarbot.gif)

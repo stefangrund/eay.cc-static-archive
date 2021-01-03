@@ -15,7 +15,7 @@ tags:
   - twitter
 meta:
   - linked_list_url: "https://twitter.com/GoodSlides"
-  - yourls_shorturl: "http://eay.li/3cc"
+  - yourls_shorturl: "https://eay.li/3cc"
   - content_copy: "https://twitter.com/eay/status/1216817190596489223"
   - geo_latitude: "50.940677358761"
   - geo_longitude: "6.9388882967813"

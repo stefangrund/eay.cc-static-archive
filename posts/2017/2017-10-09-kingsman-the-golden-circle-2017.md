@@ -17,7 +17,7 @@ tags:
   - mark-millar
   - sequel
 meta:
-  - yourls_shorturl: "http://eay.li/31k"
+  - yourls_shorturl: "https://eay.li/31k"
 ---
 
 Nach dem hervorragenden [ersten Teil](https://eay.cc/2015/kingsman-the-secret-service/) war das Sequel um Eggsy und Konsorten trotz abge­hakter Origin-Story leider etwas enttäuschend. Der Film verliert sich in langweiligen Subplots und legt seine top­besetzten Neuzugänge unver­ständlicher­weise im wahrsten Sinne des Wortes _auf Eis_. Der Charme des Originals scheint zwar hier und da durch, aber das war's dann auch. Vielleicht reißt's der unvermeidliche dritte Teil ja nochmal raus. \[rating value="5" inline="true"\]

@@ -16,7 +16,7 @@ tags:
   - visualisierung
 meta:
   - linked_list_url: "http://foodpornindex.com/"
-  - yourls_shorturl: "http://eay.li/2d9"
+  - yourls_shorturl: "https://eay.li/2d9"
 ---
 
 ...lässt gesundes und ungesundes Essen per Hashtag gegeneinander antreten. Die "Unhealthy"-Kategorie liegt mit 71,9 zu 28,1 Prozent vorne, was nicht weiter verwunderlich ist, lässt es sich doch besser über [Pizza](http://foodpornindex.com/pizza) als über [Gemüse](http://foodpornindex.com/vegetable) twittern.

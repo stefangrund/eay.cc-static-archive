@@ -17,7 +17,7 @@ tags:
   - pixar
   - romantic-comedy
 meta:
-  - yourls_shorturl: "http://eay.li/an"
+  - yourls_shorturl: "https://eay.li/an"
 ---
 
 Da ich während [meines Praktikums](//eay.cc/2009/8998/) und in der ersten Vorlesungswoche nicht dazu gekommen bin, hier also meine Eindrücke der zuletzt angesehenen Kinofilme. (Und jetzt, wo ich wieder Vollzeitstudent bin, sollten auch wieder wesentlich mehr Lichtspieltheaterbesuche und ergo mehr Reviews drin sein.)

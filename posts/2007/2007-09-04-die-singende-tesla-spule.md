@@ -14,7 +14,7 @@ tags:
   - nikola-tesla
   - wissenschaft
 meta:
-  - yourls_shorturl: "http://eay.li/gs"
+  - yourls_shorturl: "https://eay.li/gs"
 ---
 
 > Ein Tesla-Transformator (auch als Tesla-Spule bezeichnet) ist ein nach seinem Erfinder Nikola Tesla benannter Transformator zur Erzeugung hochfrequenter Wechselströme mit sehr hoher Spannung. (Quelle: [Wikipedia](http://de.wikipedia.org/wiki/Tesla-Transformator))

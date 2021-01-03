@@ -16,7 +16,7 @@ tags:
   - telekom
   - wahnsinn
 meta:
-  - yourls_shorturl: "http://eay.li/20v"
+  - yourls_shorturl: "https://eay.li/20v"
   - linked_list_url: "http://www.dominik-schwarz.net/telekom-kuendigen/"
 ---
 

@@ -15,7 +15,7 @@ tags:
   - nintendo
   - retrogames
 meta:
-  - yourls_shorturl: "http://eay.li/2eg"
+  - yourls_shorturl: "https://eay.li/2eg"
 ---
 
 Wenn ihr die nächsten neun (!) Stunden nichts vorhabt, seht euch das an:

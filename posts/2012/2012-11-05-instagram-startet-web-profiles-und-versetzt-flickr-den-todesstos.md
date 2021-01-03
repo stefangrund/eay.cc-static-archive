@@ -15,7 +15,7 @@ tags:
   - web-2-0
   - webservice
 meta:
-  - yourls_shorturl: "http://eay.li/203"
+  - yourls_shorturl: "https://eay.li/203"
   - linked_list_url: "http://blog.instagram.com/post/35068144047/announcing-instagram-profiles-on-the-web"
 ---
 

@@ -14,7 +14,7 @@ tags:
   - urheberrecht
 meta:
   - linked_list_url: "http://www.heise.de/newsticker/meldung/EuGH-Eingebettete-Videos-verstossen-nicht-gegen-das-Urheberrecht-2431793.html"
-  - yourls_shorturl: "http://eay.li/2kf"
+  - yourls_shorturl: "https://eay.li/2kf"
 ---
 
 Solange es sich um Inhalte handelt, die mit Zustimmung des Rechteinhabers auf eine Plattform hochgeladen wurden, versteht sich.

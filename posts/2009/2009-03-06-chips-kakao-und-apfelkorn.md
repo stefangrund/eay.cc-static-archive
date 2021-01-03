@@ -14,7 +14,7 @@ tags:
   - konsum
   - party
 meta:
-  - yourls_shorturl: "http://eay.li/8t"
+  - yourls_shorturl: "https://eay.li/8t"
 ---
 
 ![](/uploads/2009/partytime.jpg) Hach, das wird ne Party! ;)

@@ -14,7 +14,7 @@ tags:
   - simpsons
   - the-big-bang-theory
 meta:
-  - yourls_shorturl: "http://eay.li/1gm"
+  - yourls_shorturl: "https://eay.li/1gm"
 ---
 
 ![](https://eay.cc/uploads/2012/tbbtsimpsons.png)

@@ -16,7 +16,7 @@ tags:
   - technologie
 meta:
   - linked_list_url: "https://www.kickstarter.com/projects/beamlabsinc/beam-the-smart-projector-that-fits-in-any-light-so"
-  - yourls_shorturl: "http://eay.li/2n8"
+  - yourls_shorturl: "https://eay.li/2n8"
 ---
 
 Ein _smarter_ Beamer, der in die Fassungen normaler Glühbirnen passt und so völlig neue Einsatzzwecke ermöglicht. Das Funding Goal ist natürlich schon erreicht.

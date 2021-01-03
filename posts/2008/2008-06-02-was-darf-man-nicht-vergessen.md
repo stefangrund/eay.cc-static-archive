@@ -14,7 +14,7 @@ tags:
   - rock-am-ring
   - thees-uhlmann
 meta:
-  - yourls_shorturl: "http://eay.li/gw"
+  - yourls_shorturl: "https://eay.li/gw"
 ---
 
 Für alle Leute, die dieser Tage zum [Ring](//eay.cc/tag/rockamring/) (oder einem Festival ihrer Wahl) aufbrechen, und das Gefühl nicht loswerden, dass sie irgendwas vergessen werden, hier die Frage aller Fragen, gestellt an Thees Uhlmann: "Was darf man nicht vergessen aufm Festival mitzunehmen?" Die Auflösung gibt's auf dem Festivalgelände nach dem Klick:

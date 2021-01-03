@@ -13,7 +13,7 @@ tags:
   - netzkultur
   - steve-jobs
 meta:
-  - yourls_shorturl: "http://eay.li/17p"
+  - yourls_shorturl: "https://eay.li/17p"
 ---
 
 Lesetipp für die anwesenden Apple-Fanboys: In der aktuellen Ausgabe des Fortune Magazine gibt es einen interessanten Einblick in die Arbeitsläufe bei Apple. Leider verbirgt sich Adam Lashinskys "[How Apple works: Inside the world's biggest startup](http://money.cnn.com/magazines/fortune/fortune_archive/2011/05/23/toc.html)" jedoch hinter 'ner Paywall, aber [Wired hat eine gute Zusammenfassung](http://www.wired.com/gadgetlab/2011/05/steve-jobs-magic/).

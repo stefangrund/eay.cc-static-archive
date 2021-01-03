@@ -15,7 +15,7 @@ tags:
   - mashup
   - sonic
 meta:
-  - yourls_shorturl: "http://eay.li/33q"
+  - yourls_shorturl: "https://eay.li/33q"
 ---
 
 \[youtube id="UrNZ6zKabKU"\]

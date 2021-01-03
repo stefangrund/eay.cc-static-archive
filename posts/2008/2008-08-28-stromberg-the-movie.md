@@ -16,7 +16,7 @@ tags:
   - spin-off
   - stromberg
 meta:
-  - yourls_shorturl: "http://eay.li/9z"
+  - yourls_shorturl: "https://eay.li/9z"
 ---
 
 ![](/uploads/2007/stromberg.jpg)Unser aller Lieblingschef von dem wir froh sind, dass er nicht der unsere ist, wird verfilmt: Zum Abschluss der vierten Staffel wird's einen Stromberg-Film geben - nur ob's ein Kino- oder Fernsehfilm wird, ist noch nicht klar, aber das ist ja eigentlich auch egal. Und als wär das nicht schon genug, bekommt Ernie ein eigenes Spin-Off[\*](#ernie)! Genaueres steht [bei den Filmfreunden](http://www.fuenf-filmfreunde.de/2008/08/27/stromberg-%E2%80%93-the-movie/).

@@ -15,7 +15,7 @@ tags:
   - serien
   - zeitreisen
 meta:
-  - yourls_shorturl: "http://eay.li/33u"
+  - yourls_shorturl: "https://eay.li/33u"
   - content_copy: "https://twitter.com/eay/status/966939341753868291"
 ---
 

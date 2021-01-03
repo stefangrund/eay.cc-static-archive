@@ -17,7 +17,7 @@ tags:
   - sport
   - twitter
 meta:
-  - yourls_shorturl: "http://eay.li/sj"
+  - yourls_shorturl: "https://eay.li/sj"
 ---
 
 Gerade eben Karten für das Topspiel des kommenden Jahres gekauft: Der [1\. FC Köln](http://de.wikipedia.org/wiki/1._FC_K%C3%B6ln) gegen den [FC St. Pauli](http://de.wikipedia.org/wiki/FC_St._Pauli). Am Karnevalsfreitag. In Köln. Und Dank [Fanfreundschaft](http://de.wikipedia.org/wiki/Fanfreundschaft#Aktuelle_Fanfreundschaften_in_Deutschland_.28Fu.C3.9Fball.29) darf man sich über jedes Tor freuen. Kann es etwas schöneres geben?

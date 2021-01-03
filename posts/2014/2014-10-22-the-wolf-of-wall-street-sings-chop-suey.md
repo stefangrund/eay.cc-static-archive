@@ -17,7 +17,7 @@ tags:
   - system-of-a-down
   - the-wolf-of-wall-street
 meta:
-  - yourls_shorturl: "http://eay.li/2k8"
+  - yourls_shorturl: "https://eay.li/2k8"
 ---
 
 \[youtube id="30JfbXmLFn0"\]

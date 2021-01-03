@@ -13,7 +13,7 @@ tags:
   - marienkaefer
   - tiere
 meta:
-  - yourls_shorturl: "http://eay.li/v4"
+  - yourls_shorturl: "https://eay.li/v4"
 ---
 
 [Marienkäferplage in Norddeutschland](http://www.spiegel.de/wissenschaft/natur/0,1518,638826,00.html)? Na besser dort als [wieder bei mir](//eay.cc/2009/marienkafer-must-die/)!

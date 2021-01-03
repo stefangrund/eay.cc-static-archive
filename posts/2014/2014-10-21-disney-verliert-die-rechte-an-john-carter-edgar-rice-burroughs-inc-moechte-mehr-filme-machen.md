@@ -18,7 +18,7 @@ tags:
   - medienrecht
 meta:
   - linked_list_url: "http://www.slashfilm.com/john-carter-rights/"
-  - yourls_shorturl: "http://eay.li/2k6"
+  - yourls_shorturl: "https://eay.li/2k6"
 ---
 
 Ich fand [Disneys Adaption](//eay.cc/2012/review-john-carter/) von Edgar Rice Burroughs John Carter of Mars, dessen Rechtslage und Geschichte ich damals [auch im Review beschrieben habe](//eay.cc/2012/review-john-carter/), ja sehr gut und trauere immer noch einem Sequel mit Taylor Kitsch als mürrischem Carter und Andrew Stanton auf dem Regiestuhl hinterher. Hoffen wir, dass sich ein neues Studio an John Carter herantraut und wir so vielleicht nochmal nach Barsoom zurückkehren können.

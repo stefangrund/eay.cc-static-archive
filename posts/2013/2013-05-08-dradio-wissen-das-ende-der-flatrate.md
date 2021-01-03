@@ -14,7 +14,7 @@ tags:
   - podcast
   - telekom
 meta:
-  - yourls_shorturl: "http://eay.li/23f"
+  - yourls_shorturl: "https://eay.li/23f"
   - linked_list_url: "http://wissen.dradio.de/netzneutralitaet-das-ende-der-flatrate.126.de.html?dram:article_id=245447"
 ---
 

@@ -15,7 +15,7 @@ tags:
   - politik
   - usa
 meta:
-  - yourls_shorturl: "http://eay.li/1wf"
+  - yourls_shorturl: "https://eay.li/1wf"
   - linked_list_url: "http://www.pewpewpew.de/2012/07/18/rush-limbaugh-bane-arbeitet-fur-obama/"
 ---
 

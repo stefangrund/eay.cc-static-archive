@@ -18,7 +18,7 @@ tags:
   - technologie
   - zukunft
 meta:
-  - yourls_shorturl: "http://eay.li/1gk"
+  - yourls_shorturl: "https://eay.li/1gk"
 ---
 
 Wer mir [bei Twitter](http://twitter.com/Eay) folgt wird den Begeisterungssturm neulich mitbekommen haben, als ich mir »Black Mirror«, die neue, im Dezember ausgestrahlte, britische Miniserie von [Charlie Brooker](http://en.wikipedia.org/wiki/Charlie_Brooker), angesehen habe. ((Damit wir hier direkt alles zusammen haben: [Der Mann twittert auch](http://twitter.com/#!/charltonbrooker).)) Brooker war u.a. anderem bereits an der Sitcom »[Nathan Barley](http://en.wikipedia.org/wiki/Nathan_Barley)«, dem Zombie-Big-Brother-Mashup »[Dead Set](http://en.wikipedia.org/wiki/Dead_Set_(TV_series))« und der Doku »[How TV Ruined Your Life](http://en.wikipedia.org/wiki/How_TV_Ruined_Your_Life)« beteiligt - alles Produktionen, von denen man bisher nur gutes gehört hat, von denen ich aber zu meiner Brit-TV-Schande gestehen muss, sie noch nicht gesehen zu haben. ((Ich muss sogar gestehen, dass ich bei britischen Serien jenseits der »IT Crowd« ein großes Defizit habe. Ich gelobe Besserung und wollte mich demnächst sogar mal an »Dr. Who« herantrauen. Weitere Empfehlungen gerne in die Kommentare!)) Nach »Black Mirror« habe ich jedoch vor, das alles schleunigst nachzuholen, denn ich war von der Serie überaus und mehr als angetan und muss sie den Unwissenden unter euch unbedingt empfehlen!

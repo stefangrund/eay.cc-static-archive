@@ -15,7 +15,7 @@ tags:
   - jony-ive
 meta:
   - linked_list_url: "https://www.apple.com/newsroom/2019/06/jony-ive-to-form-independent-design-company-with-apple-as-client/"
-  - yourls_shorturl: "http://eay.li/3ah"
+  - yourls_shorturl: "https://eay.li/3ah"
   - content_copy: "https://twitter.com/eay/status/1144547035066114054"
 ---
 

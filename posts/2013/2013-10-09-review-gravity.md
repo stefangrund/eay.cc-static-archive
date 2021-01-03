@@ -16,7 +16,7 @@ tags:
   - science-fiction
   - weltall
 meta:
-  - yourls_shorturl: "http://eay.li/284"
+  - yourls_shorturl: "https://eay.li/284"
 ---
 
 ![](https://eay.cc/uploads/movies/gravity_2013.jpg)»[Gravity](http://www.imdb.com/title/tt1454468/)« ist der derzeit gefragteste Film [an amerikanischen und deutschen Kinokassen](http://www.spiegel.de/kultur/kino/box-office-gravity-mit-clooney-und-bullock-ueberfluegelt-alle-a-926412.html), was in Anbetracht der Umstände durchaus verwundern kann: Viereinhalb Jahre in Vorbereitung (man liest derzeit überall, dass - oho! - zur Realisation erst die technische Entwicklung abgewartet werden musste), fast ausschließlich am Computer entstanden (und trotzdem kein »[Avatar](//eay.cc/2009/review-avatar-aufbruch-nach-pandora/)«), Kammerspiel-artig mit nur zwei Schauspielern besetzt (normalerweise ja Kinokassengift) und dann auch noch wissenschaftlich akkurat, was die Darstellung des Weltraums angeht (wir wollen Krach!). Klar, dass man sich da mit Sandra Bullock und George Clooney Hollywood-Hochkaräter sichern musste, damit es vielleicht doch an den Kinokassen klingelt. Damit die Leute die Langfassung von dem sehen, was sie im [Trailer](http://trailers.apple.com/trailers/wb/gravity/) bereits präsentiert bekamen: Sandra Bullock, die als Wissenschaftlerin Dr. Ryan Stone im Raumanzug am Hubble-Teleskop rumdoktert, unterstützt von Clooneys Space Cowboy Matt Kowalski. Bis plötzlich alles außer Kontrolle gerät und heran rasender Weltraumschrott alles um sie herum in Schutt und Asche zerlegt. Stone ist nicht weiter gesichert und droht ins All abzudriften. Kann Kowalski sie retten?

@@ -17,7 +17,7 @@ tags:
   - wm-2014
 meta:
   - linked_list_url: "http://www.theguardian.com/football/ng-interactive/2014/may/30/-sp-world-cup-kits"
-  - yourls_shorturl: "http://eay.li/2gt"
+  - yourls_shorturl: "https://eay.li/2gt"
 ---
 
 [![](https://eay.cc/uploads/2014/wmtrikots.gif)](http://www.theguardian.com/football/ng-interactive/2014/may/30/-sp-world-cup-kits)

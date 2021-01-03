@@ -13,7 +13,7 @@ tags:
   - cartoons
   - fernsehen
 meta:
-  - yourls_shorturl: "http://eay.li/f7"
+  - yourls_shorturl: "https://eay.li/f7"
 ---
 
 ![](/uploads/2008/batmanbrave.jpg "Â© Eigentum des Studios/Vertriebes") Gestern Abend ist beim US-Sender Cartoon Network mit "Batman: The Brave and The Bold" eine neue Batman-Zeichentrickserie gestartet. Doch wer hofft, eine Serie vom Schlag der legendären [Animated Series](http://en.wikipedia.org/wiki/Batman:_The_Animated_Series) zu sehen zu bekommen, der wird herbe enttäuscht. Statt sich an die Konventionen der letzten 20 Jahre zu halten und Batman als Frank Millers Dark Knight darzustellen, besinnt man sich auf die bizarren Anfänge zurück in denen Batman nur ein Detektiv im Fledermauskostüm mit Zaubergürtel war. It's like [Adam West's](//eay.cc/tag/adam-west/) Batman, quasi.

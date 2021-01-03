@@ -17,7 +17,7 @@ tags:
   - jurassic-park
 meta:
   - linked_list_url: "http://www.pewpewpew.de/2013/09/11/jurassic-park-4-kommt-als-jurassic-world-2015-in-die-kinos/"
-  - yourls_shorturl: "http://eay.li/274"
+  - yourls_shorturl: "https://eay.li/274"
 ---
 
 Hollywoods [On-Off-Beziehungen](//eay.cc/2013/es-ist-offiziell-jurassic-park-4-kommt-im-juni-2014/) mit Jurassic Park 4 geht in die nächste Runde. Auf dem Regiestuhl soll diesmal [Colin Treverrow](http://www.imdb.com/name/nm1119880/) Platz nehmen und das Drehbuch, das er zusammen mit [Derek Connolly](http://www.imdb.com/name/nm2081046/) geschrieben hat, verfilmen.

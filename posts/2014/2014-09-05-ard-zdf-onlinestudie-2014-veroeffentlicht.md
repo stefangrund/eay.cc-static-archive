@@ -18,7 +18,7 @@ tags:
   - netzkultur
 meta:
   - linked_list_url: "http://www.ard-zdf-onlinestudie.de/index.php?id=512"
-  - yourls_shorturl: "http://eay.li/2it"
+  - yourls_shorturl: "https://eay.li/2it"
 ---
 
 Gestern wurde die diesjährige Neulandstudie von ARD und ZDF veröffentlicht (natürlich [wieder ohne maschinenlesbare Datensätze](https://twitter.com/eay/statuses/443764237945823232)). Da die Seite eher furchtbar ist und damit ich mir die Links nicht immer wieder raussuchen muss, hier direkt noch die entsprechenden, vollständigen Artikel aus der ARD-eigenen Fachzeitschrift [Media Perspektiven](http://www.media-perspektiven.de/):

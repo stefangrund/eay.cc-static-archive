@@ -16,7 +16,7 @@ tags:
   - lucasfilm
   - star-wars
 meta:
-  - yourls_shorturl: "http://eay.li/1of"
+  - yourls_shorturl: "https://eay.li/1of"
 ---
 
 [Andi](https://twitter.com/AndiH) schickte mir soeben die Breaking News des Tages: Disney kauft Lucasfilm für 4,05 Milliarden Dollar. Aus den Absichten dahinter machen beide Firmen natürlich keinen Hehl: es geht um Star Wars. In der [Pressemitteilung](http://thewaltdisneycompany.com/disney-news/press-releases/2012/10/disney-acquire-lucasfilm-ltd) heißt es konkret, dass demnächst Episode 7 & Co. auf uns zukommen:

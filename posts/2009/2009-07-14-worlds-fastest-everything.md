@@ -12,7 +12,7 @@ tags:
   - sport
   - weltrekord
 meta:
-  - yourls_shorturl: "http://eay.li/x6"
+  - yourls_shorturl: "https://eay.li/x6"
 ---
 
 Hier u.a. der weltschnellste Klatscher, Auszieher und Minesweeper-Spieler:

@@ -17,7 +17,7 @@ tags:
   - technologie
 meta:
   - linked_list_url: "https://www.macstories.net/stories/ios-and-ipados-13-the-macstories-review/"
-  - yourls_shorturl: "http://eay.li/3bg"
+  - yourls_shorturl: "https://eay.li/3bg"
   - content_copy: "https://twitter.com/eay/status/1175307421947969537"
 ---
 

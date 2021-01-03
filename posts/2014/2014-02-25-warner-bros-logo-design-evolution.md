@@ -17,7 +17,7 @@ tags:
   - typographie
 meta:
   - linked_list_url: "http://annyas.com/screenshots/warner-bros-logo/"
-  - yourls_shorturl: "http://eay.li/2da"
+  - yourls_shorturl: "https://eay.li/2da"
 ---
 
 [![](https://eay.cc/uploads/2014/warnerbrosevolution.jpg)](http://annyas.com/screenshots/warner-bros-logo/)

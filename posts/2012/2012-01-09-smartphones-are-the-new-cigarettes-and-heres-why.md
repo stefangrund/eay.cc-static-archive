@@ -15,7 +15,7 @@ tags:
   - smartphones
   - webcomic
 meta:
-  - yourls_shorturl: "http://eay.li/1ek"
+  - yourls_shorturl: "https://eay.li/1ek"
 ---
 
-[Hier](http://eay.li/1ej) einmal mehr ein hervorragender Webcomic von [H. Caldwell Tanner](http://eay.cc/?s=H.+Caldwell+Tanner).
+[Hier](https://eay.li/1ej) einmal mehr ein hervorragender Webcomic von [H. Caldwell Tanner](http://eay.cc/?s=H.+Caldwell+Tanner).

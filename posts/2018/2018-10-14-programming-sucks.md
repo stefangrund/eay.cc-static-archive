@@ -17,7 +17,7 @@ tags:
   - technologie
 meta:
   - linked_list_url: "https://www.stilldrinking.org/programming-sucks"
-  - yourls_shorturl: "http://eay.li/372"
+  - yourls_shorturl: "https://eay.li/372"
   - content_copy: "https://eay.social/@eay/100895667775632882"
   - content_copy: "https://twitter.com/eay/status/1051716000704593920"
 ---

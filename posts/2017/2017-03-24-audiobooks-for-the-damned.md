@@ -17,7 +17,7 @@ tags:
 meta:
   - linked_list_url: "https://www.youtube.com/c/Audiobooksforthedamned666"
   - linked_list_url: "https://www.youtube.com/c/Audiobooksforthedamned666"
-  - yourls_shorturl: "http://eay.li/2xb"
+  - yourls_shorturl: "https://eay.li/2xb"
 ---
 
 > Audiobooks for the Damned is an all-volunteer project to make obscure, out-of-print novelizations and other neglected literature widely available in audiobook format.

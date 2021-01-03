@@ -16,7 +16,7 @@ tags:
   - ueberwachung
   - zukunft
 meta:
-  - yourls_shorturl: "http://eay.li/2b6"
+  - yourls_shorturl: "https://eay.li/2b6"
 ---
 
 > Es ist noch nicht entschieden, ob das Internet ein Werkzeug für Freiheit und Demokratie ist oder ob es sich zum schlimmsten Mittel der Repression in der Menschheitsgeschichte entwickelt.

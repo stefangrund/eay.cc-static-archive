@@ -16,7 +16,7 @@ tags:
   - star-wars
 meta:
   - linked_list_url: "http://www.starwarsunderworld.com/2014/10/massive-amount-of-episode-vii-concept.html"
-  - yourls_shorturl: "http://eay.li/2jx"
+  - yourls_shorturl: "https://eay.li/2jx"
 ---
 
 Auf ImageShack (ja, ich war auch überrascht, dass es die noch gibt) ist ein Album mit diversen, ziemlich coolen Konzeptbildern zu [Episode VII](//eay.cc/tag/episode-7/) aufgetaucht. Es ist natürlich unklar, ob die geposteten Bilder irgendwas mit dem Film zu tun haben, wo sie herkommen oder ob die Marketingmaschinerie verantwortlich ist. Aber was ich dort sehe, gefällt mir außerordentlich gut, weil der Sternenkrieg darin endlich wieder zum Sternenkrieg wird. Vor allem [Chewie mit Kriegswunde](https://imageshack.com/i/iqVZgCKxj), der [Gebrauch eines rostenden AT-AT als Unterkunft](https://imageshack.com/i/f0QC9mWZj) und [Vaders verbrannter Helm](https://imageshack.com/i/ipezeErIj) haben's mir angetan.

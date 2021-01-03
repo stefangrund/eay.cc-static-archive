@@ -16,7 +16,7 @@ tags:
   - sprache
   - werbung
 meta:
-  - yourls_shorturl: "http://eay.li/3at"
+  - yourls_shorturl: "https://eay.li/3at"
   - geo_latitude: "50.973920007039"
   - geo_longitude: "6.683070163789"
   - geo_public: "1"

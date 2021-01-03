@@ -13,7 +13,7 @@ tags:
   - mac
 meta:
   - linked_list_url: "https://github.com/herrbischoff/awesome-macos-command-line"
-  - yourls_shorturl: "http://eay.li/3d1"
+  - yourls_shorturl: "https://eay.li/3d1"
 ---
 
 > A curated list of shell commands and tools specific to OS X.

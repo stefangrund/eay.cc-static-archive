@@ -16,7 +16,7 @@ tags:
   - games
   - world-of-warcraft
 meta:
-  - yourls_shorturl: "http://eay.li/21q"
+  - yourls_shorturl: "https://eay.li/21q"
   - linked_list_url: "http://www.slashfilm.com/duncan-jones-to-direct-warcraft/"
 ---
 

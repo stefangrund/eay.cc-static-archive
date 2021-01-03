@@ -17,7 +17,7 @@ tags:
   - konsolen
   - webdesign
 meta:
-  - yourls_shorturl: "http://eay.li/1zc"
+  - yourls_shorturl: "https://eay.li/1zc"
   - linked_list_url: "http://console.maban.co.uk/"
 ---
 

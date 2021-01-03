@@ -14,7 +14,7 @@ tags:
   - komoedie
   - steve-carell
 meta:
-  - yourls_shorturl: "http://eay.li/ir"
+  - yourls_shorturl: "https://eay.li/ir"
 ---
 
 ![](/uploads/2008/getsmart.jpg)Obwohl die [letzten](//eay.cc/2007/eay-allmachtig/) [beiden](//eay.cc/2008/vom-leben-gefickt/) Filme mit [Steve Carell](//eay.cc/tag/steve-carell/) eher enttäuschend waren, fand ich mich vorgestern Abend in [Get Smart](http://www.imdb.com/title/tt0425061/) wieder. Eigentlich ist Carell ja schon ein lustiger Typ - geben wir ihm also eine letzte Chance fernab seiner Paraderolle als Bürochef. In Get Smart spielt Carell Max Smart, einen ambitionierten, aber inkompetenten Geheimagenten einer Geheimorganisation namens CONTROL, der gegen die Terroristen von KAOS kämpft. ((Es handelt sich hierbei übrigens um die Verfilmung der gleichnamigen [US-TV-Serie](http://en.wikipedia.org/wiki/Get_Smart) aus den 60ern, auf die ich hier wegen meiner (und eurer!) Unkenntnis nicht weiter eingehe.)) Unterstützt wird er dabei von seiner Kollegin Agent 99 ([Anne Hathaway](http://annehathawayfan.com/)), die - das kennen wir schon seit [Inspector Gadget](http://inspector-gadget.net/) - seine Tollpatschigkeit relativiert. Ihr gemeinsamer Kampf gegen KAOS endet schließlich mit einem Atom-Attentat auf den Präsidenten und L.A., das vereitelt werden muss.

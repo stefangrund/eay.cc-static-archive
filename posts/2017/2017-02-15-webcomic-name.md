@@ -19,7 +19,7 @@ meta:
   - linked_list_url: "http://webcomicname.com/"
   - linked_list_url: "http://webcomicname.com/"
   - linked_list_url: "http://webcomicname.com/"
-  - yourls_shorturl: "http://eay.li/2wm"
+  - yourls_shorturl: "https://eay.li/2wm"
 ---
 
 [![](https://eay.cc/uploads/2017/different.gif)](http://webcomicname.com/post/152958755984)

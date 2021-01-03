@@ -20,7 +20,7 @@ tags:
   - wm-2014
   - zdf
 meta:
-  - yourls_shorturl: "http://eay.li/2gs"
+  - yourls_shorturl: "https://eay.li/2gs"
 ---
 
 Noch knapp fünf Stunden bis zum Anstoss des FIFA World Cup 2014 in Brasilien. Zeit für ein bisschen Fußball-Content. Zeit für ein paar ernstere Töne, zunächst lustig verpackt.

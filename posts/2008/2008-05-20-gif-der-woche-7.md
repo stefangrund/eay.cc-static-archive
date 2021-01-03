@@ -12,7 +12,7 @@ categories:
 tags:
   - gif-der-woche
 meta:
-  - yourls_shorturl: "http://eay.li/ep"
+  - yourls_shorturl: "https://eay.li/ep"
 ---
 
 ![](/uploads/2008/malteserkreuzgetriebe.gif) Ein [Malteserkreuzgetriebe](http://de.wikipedia.org/wiki/Malteserkreuzgetriebe) mit sechsarmigem Sternrad. Beruhigend, oder?

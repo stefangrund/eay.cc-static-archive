@@ -13,7 +13,7 @@ tags:
   - hdtv
   - konsum
 meta:
-  - yourls_shorturl: "http://eay.li/xb"
+  - yourls_shorturl: "https://eay.li/xb"
 ---
 
 Natürlich. Da kommt man von einer mehrstündigen Rock-am-Ring-EinkaufstourTM zurück und will sich nur noch chillig auf's Sofa knallen und mit der [vierten Staffel von 24](http://www.amazon.de/exec/obidos/ASIN/B000I5X5M2/eayznet-21) anfangen und dann das: Mein Fernseher ist tot! Scheiße. Geht nicht mehr an. Okay, er stand schon einige Jahre in meinem Dienste, aber ... so gar nicht mehr. Damn. Vorgestern hatte ich sogar schon am Mittagstisch erwähnt, dass ich den Eindruck habe, mein Fernsehgerät würde demnächst - dabei dachte ich noch an eine Zeitspanne von ein bis zwei Jahren - den Geist aufgeben. Egal, sagte ich, dann sind die HD-TV-Götzen so billig, das geht schon.

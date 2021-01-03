@@ -15,7 +15,7 @@ tags:
   - smilies
   - your-favorite-tumblr-for-the-next-5-minutes
 meta:
-  - yourls_shorturl: "http://eay.li/2hq"
+  - yourls_shorturl: "https://eay.li/2hq"
 ---
 
 ![](https://eay.cc/uploads/2014/rejectedemojis.jpg)

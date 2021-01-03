@@ -14,7 +14,7 @@ tags:
   - springfield
   - x-men
 meta:
-  - yourls_shorturl: "http://eay.li/iy"
+  - yourls_shorturl: "https://eay.li/iy"
 ---
 
 ![](/uploads/2007/xsimpsons.jpg) [Im CBR-Forum](http://forums.comicbookresources.com/showthread.php?s=9094bbbccc4c0c7793dc02448fdc0a37&t=197471) mutieren derzeit die Simpsons und andere Bewohner Springfields zu X-Men. Regelmäßig kommen neue, mehr oder weniger sehenswerte Springfield-Mutanten hinzu, weshalb sich ein Blick für Fans von beiden Lagern lohnen dürfte...

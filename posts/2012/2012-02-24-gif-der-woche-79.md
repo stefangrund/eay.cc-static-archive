@@ -14,7 +14,7 @@ tags:
   - barack-obama
   - gif-der-woche
 meta:
-  - yourls_shorturl: "http://eay.li/1g7"
+  - yourls_shorturl: "https://eay.li/1g7"
 ---
 
 ![](https://eay.cc/uploads/2012/banksobama.gif) Devon Banks so hinter Barack Obama.

@@ -14,7 +14,7 @@ tags:
   - studium
   - wdr
 meta:
-  - yourls_shorturl: "http://eay.li/t7"
+  - yourls_shorturl: "https://eay.li/t7"
 ---
 
 > Hey, Eay, warum hast du eigentlich die letzten Tage so wenig gebloggt?

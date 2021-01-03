@@ -11,7 +11,7 @@ tags:
   - blogging
   - stoeckchen
 meta:
-  - yourls_shorturl: "http://eay.li/8v"
+  - yourls_shorturl: "https://eay.li/8v"
 ---
 
 [Von Torsten](http://www.feingut.de/2009/06/01/mein-erstes-stockchen-ist-ein-interview/) (und in überaus ähnlicher Form [von Stefan](http://www.equilibriumblog.de/wordpress/2009/05/13/das-wachsende-stoeckchen/), weshalb ich das hiermit quasi auch direkt beantworte) kommt ein Stöckchen, dass mit 32 Fragen mein Innerstes offen legen will und dabei mitunter merkwürdigste Umwege geht ("Farbe der Bettwäsche?").

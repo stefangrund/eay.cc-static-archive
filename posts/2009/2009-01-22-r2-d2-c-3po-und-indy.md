@@ -12,7 +12,7 @@ tags:
   - indiana-jones
   - star-wars
 meta:
-  - yourls_shorturl: "http://eay.li/dn"
+  - yourls_shorturl: "https://eay.li/dn"
 ---
 
 Die "Obi Wan"-Bar aus Indiana Jones kennt jeder, aber diese kleine Hommage an R2-D2 und C-3PO aus [Jäger des verlorenen Schatzes](http://de.wikipedia.org/wiki/J%C3%A4ger_des_verlorenen_Schatzes) ist mir im Eifer des Gefechts noch nie aufgefallen:

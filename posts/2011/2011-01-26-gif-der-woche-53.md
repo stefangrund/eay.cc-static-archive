@@ -13,7 +13,7 @@ tags:
   - gif-der-woche
   - tiere
 meta:
-  - yourls_shorturl: "http://eay.li/14v"
+  - yourls_shorturl: "https://eay.li/14v"
 ---
 
 ![](https://eay.cc/uploads/2011/eisbaer.gif) Das Eisbärenpendant zu [diesem Hundeding](http://www.youtube.com/watch?v=pARH-jsRt3U).

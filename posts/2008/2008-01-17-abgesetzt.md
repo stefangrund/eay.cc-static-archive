@@ -11,7 +11,7 @@ tags:
   - eayz
   - msgboard
 meta:
-  - yourls_shorturl: "http://eay.li/j9"
+  - yourls_shorturl: "https://eay.li/j9"
 ---
 
 eayz hat das [Msgboard](http://eay.cc/board/) nach 1325 Tagen abgesetzt. Wegen der Quote und wegen unserem neuen deutschen Überwachungsstaat. Muss ja nicht jeder alles nachlesen können, was da in den letzten 3 ½ Jahren niedergeschrieben wurde. Jedenfalls vielen, vielen Dank für die wunderbaren Stunden _im Forum_, aber nun wird es Zeit für ein neues Plätzchen.Abwarten!

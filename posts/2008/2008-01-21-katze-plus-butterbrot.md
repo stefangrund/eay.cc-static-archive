@@ -20,7 +20,7 @@ tags:
   - output
   - projekte
 meta:
-  - yourls_shorturl: "http://eay.li/6a"
+  - yourls_shorturl: "https://eay.li/6a"
 ---
 
 Da mein kleiner Animationsfilm »Katze plus Butterbrot« mittlerweile von mehr als einer Viertel Millionen ((Stand: Januar 2008)) halben Millionen ((Stand: März 2010)) Menschen gesehen wurde und mich fortwährend Mails mit Lob, Fragen und Kritik erreichen, habe ich an dieser Stelle mal ein passendes Sammelsurium, eine erste Anlaufstelle zum Clip ins Leben gerufen. Quasi _everything about »Katze plus Butterbrot«_.

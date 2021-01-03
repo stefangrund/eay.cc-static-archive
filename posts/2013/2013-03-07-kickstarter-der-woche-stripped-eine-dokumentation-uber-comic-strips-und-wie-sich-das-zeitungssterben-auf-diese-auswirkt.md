@@ -17,7 +17,7 @@ tags:
   - kickstarter
   - kickstarter-der-woche
 meta:
-  - yourls_shorturl: "http://eay.li/225"
+  - yourls_shorturl: "https://eay.li/225"
   - linked_list_url: "http://www.kickstarter.com/projects/sequential/stripped-the-final-push"
 ---
 

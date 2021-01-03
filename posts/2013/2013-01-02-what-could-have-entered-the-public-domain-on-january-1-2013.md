@@ -14,7 +14,7 @@ tags:
   - politik
   - urheberrecht
 meta:
-  - yourls_shorturl: "http://eay.li/20z"
+  - yourls_shorturl: "https://eay.li/20z"
   - linked_list_url: "http://web.law.duke.edu/cspd/publicdomainday/2013/pre-1976"
 ---
 

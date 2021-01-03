@@ -14,7 +14,7 @@ tags:
   - webcomic
   - xkcd
 meta:
-  - yourls_shorturl: "http://eay.li/22q"
+  - yourls_shorturl: "https://eay.li/22q"
   - linked_list_url: "http://xkcd.aubronwood.com/#"
 ---
 

@@ -16,7 +16,7 @@ tags:
   - retro
   - sega
 meta:
-  - yourls_shorturl: "http://eay.li/gv"
+  - yourls_shorturl: "https://eay.li/gv"
 ---
 
 ![](/uploads/2008/megadrivetasche.jpg) Heute ein [Mega Drive Portable](//eay.cc/2008/mega-drive-portable/) der etwas anderen Art: In Taschenform. Und wenn ich damit etwas anfangen könnte, dann wäre ich soeben um 55 Dollar leichter. Soviel kostet nämlich die obige, dem Mega Drive I nachempfundene Tasche aus [diesem Shop](http://www.himeyashop.com/product_info.php/products_id/11854). ([via](http://www.i-jeriko.de/2008/12/15/sega-megadrive-tasche/))

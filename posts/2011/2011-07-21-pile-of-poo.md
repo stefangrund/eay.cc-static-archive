@@ -15,7 +15,7 @@ tags:
   - mac
   - netzkultur
 meta:
-  - yourls_shorturl: "http://eay.li/1a2"
+  - yourls_shorturl: "https://eay.li/1a2"
 ---
 
 Das beste an Lion ist ganz eindeutig, dass es jetzt auch die Emojis vom iPhone anzeigt. (Wenn ihr die Häufchen nicht seht, fehlt euch entweder Lion oder Safari.)

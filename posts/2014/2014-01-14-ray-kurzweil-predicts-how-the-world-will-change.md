@@ -16,7 +16,7 @@ tags:
   - zukunft
 meta:
   - linked_list_url: "http://jimidisu.com/?p=6013"
-  - yourls_shorturl: "http://eay.li/2bt"
+  - yourls_shorturl: "https://eay.li/2bt"
 ---
 
 [Ray Kurzweil](https://en.wikipedia.org/wiki/Ray_Kurzweil), Futurist, Autor, Googles Director of Engineering und davor Pionier diverser Technologien (Spracherkennung- & synthese, OCR, Flachbettscanner), hat sich Gedanken über [die Zukunft](//eay.cc/tag/zukunft/) gemacht und prophezeit unter anderem, dass wir schon bald selbst fahrende Autos vor der Haustür stehen haben (2017), vertikale Farmen errichten (2030), alle Energie aus der Sonne beziehen (2033) und unsere Lebensdauer mit Nanobots verlängern (2040). Okay.

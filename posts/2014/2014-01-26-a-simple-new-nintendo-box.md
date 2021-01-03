@@ -16,7 +16,7 @@ tags:
   - wii
 meta:
   - linked_list_url: "http://parislemon.com/post/73981372768"
-  - yourls_shorturl: "http://eay.li/2cg"
+  - yourls_shorturl: "https://eay.li/2cg"
 ---
 
 MG Siegler hat sich nach [Ben Kucheras Artikel über die Zukunft von Nintendo nach dem Wii-U-Desaster](http://www.polygon.com/2014/1/17/5319016/nintendo-wii-u-symptom-of-a-larger-disease-needs-to-adapt) auch ein paar Gedanken gemacht und kommt zu dem Entschluss, dass eine gegensätzliche Strategie zu der von Microsoft und Sony das richtige für Nintendo wäre:

@@ -14,7 +14,7 @@ tags:
   - kinolog
   - komoedie
 meta:
-  - yourls_shorturl: "http://eay.li/c"
+  - yourls_shorturl: "https://eay.li/c"
 ---
 
 Ihr müsst verwundert gewesen sein. Normalerweise schreibe ich hier (mehrmals) wöchentlich, welche [Kinofilme](//eay.cc/themen/kinolog/) ich mir angesehen habe, und dann gab's hier seit [Anfang November](//eay.cc/2007/nach-115-minuten-ausgeflittert/) nichts mehr. Damit ihr aber nicht vom cineastischen Fleisch fallt, an dieser Stelle ein Double Feature.

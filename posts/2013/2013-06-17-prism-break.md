@@ -18,7 +18,7 @@ tags:
   - usa
 meta:
   - linked_list_url: "http://prism-break.org/"
-  - yourls_shorturl: "http://eay.li/244"
+  - yourls_shorturl: "https://eay.li/244"
 ---
 
 > Opt out of PRISM, the NSA´s global data surveillance program. Stop reporting your online activities to the American government with these free alternatives to proprietary software.

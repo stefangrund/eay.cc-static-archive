@@ -17,7 +17,7 @@ tags:
   - technologie
   - wm-2014
 meta:
-  - yourls_shorturl: "http://eay.li/2gl"
+  - yourls_shorturl: "https://eay.li/2gl"
 ---
 
 In Anbetracht der unmittelbar bevorstehenden WM, dem damit verbundenen Rudelgucken und der eigenen Planung dieser durchaus gut zu wissen und dankenswerterweise von [Heiko Bielinski](http://www.bielinski.de/) getwittert:

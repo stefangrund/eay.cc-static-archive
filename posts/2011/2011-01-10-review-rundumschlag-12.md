@@ -17,7 +17,7 @@ tags:
   - remake
   - will-ferrell
 meta:
-  - yourls_shorturl: "http://eay.li/148"
+  - yourls_shorturl: "https://eay.li/148"
 ---
 
 Der erste Vorsatz ist gebrochen: Auch 2011 wieder mit gehöriger Verspätung, dafür aber umso bunter (»Ich – Einfach unverbesserlich«, »Die etwas anderen Cops« und das Spaßblutbad der Saison »Piranha 3D«) und passend zu eurer DVD-Einkaufsliste!

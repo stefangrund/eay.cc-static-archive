@@ -15,7 +15,7 @@ tags:
   - ueberwachung
 meta:
   - linked_list_url: "https://www.schneier.com/blog/archives/2013/07/snowdens_dead_m.html"
-  - yourls_shorturl: "http://eay.li/25j"
+  - yourls_shorturl: "https://eay.li/25j"
 ---
 
 > I'm not sure he's thought this through, though. I would be more worried that someone would kill me in order to get the documents released than I would be that someone would kill me to prevent the documents from being released. Any real-world situation involves multiple adversaries, and it's important to keep all of them in mind when designing a security system.

@@ -16,7 +16,7 @@ tags:
   - netzkultur
   - social-media
 meta:
-  - yourls_shorturl: "http://eay.li/2fh"
+  - yourls_shorturl: "https://eay.li/2fh"
 ---
 
 Bleiben wir [beim Scheitern](//eay.cc/2014/outcast-kickstarter-gescheitert-produktion-geht-weiter/): App.net, das im August 2012 nach drakonischen Beschränkungen von Twitter als [vielversprechende Microblogging-Alternative](//eay.cc/2012/app-net/) startete, hat [gestern verkündet](http://blog.app.net/2014/05/06/app-net-state-of-the-union/), dass die zweite Finanzierungsrunde nicht ausgereicht hat, um weiterhin ein festes Team zu beschäftigen. ((Raus damit: Ich hab [meinen Teil geleistet](http://cl.ly/VOaO), wer von euch hat's verschissen?)) Das von den Nutzer gezahlte Geld soll nun nur noch dazu verwendet werden, den Service "indefinitely" am laufen zu halten. Der Code soll Open Source gestellt werden und die Plattform im Idealfall als Community-Projekt fortentwickelt werden.

@@ -17,7 +17,7 @@ tags:
   - netzkultur
 meta:
   - linked_list_url: "https://direkris.itch.io/you-are-jeff-bezos"
-  - yourls_shorturl: "http://eay.li/37d"
+  - yourls_shorturl: "https://eay.li/37d"
   - content_copy: "https://twitter.com/eay/status/1055606477140967424"
   - content_copy: "https://eay.social/@eay/100958941391130136"
 ---

@@ -15,7 +15,7 @@ tags:
   - netzkultur
   - telekom
 meta:
-  - yourls_shorturl: "http://eay.li/li"
+  - yourls_shorturl: "https://eay.li/li"
 ---
 
 Seit [über neun Stunden](http://twitter.com/Eay/statuses/767568991) (zum besseren Verständnis: gerade sind es 0:40 Uhr) kann ich Google nicht mehr erreichen - und das [ohne Telekom-Kunde zu sein](http://twitter.com/Eay/statuses/767606924). YouTube tut's mittlerweile wieder und mein iPod kann auch wieder Emails mit Gmail abgleichen. Aber sonst läuft jede Anfrage ins Leere. Selbst AdSense-Werbung kann ich nicht mehr sehen!

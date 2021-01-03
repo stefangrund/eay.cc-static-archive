@@ -17,7 +17,7 @@ tags:
   - muppets
   - zwillinge
 meta:
-  - yourls_shorturl: "http://eay.li/sh"
+  - yourls_shorturl: "https://eay.li/sh"
 ---
 
 ![](/uploads/2009/balekermit.gif) Ihr erinnert euch sicherlich: Christian Bale und Kermit der Frosch [sind Zwillinge, bei der Geburt getrennt](//eay.cc/2008/bei-der-geburt-getrennt/). Obiges [.gif der Woche](//eay.cc/tag/gif-der-woche/) beweist nun, dass sie sich nicht nur wie ein Ei dem anderen gleichen, sondern auch die selbe Körpersprache teilen.

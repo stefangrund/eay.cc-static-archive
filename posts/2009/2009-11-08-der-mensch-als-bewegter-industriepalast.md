@@ -14,7 +14,7 @@ tags:
   - fritz-kahn
   - kunst
 meta:
-  - yourls_shorturl: "http://eay.li/b0"
+  - yourls_shorturl: "https://eay.li/b0"
 ---
 
 Sehr cool: Der (Digital-)Künstler Henrik Lederer hat Fritz Kahns berühmtes Bild "[Der Mensch als Industriepalast](http://www.industriepalast.com/IP_poster.jpg)" von 1926 animiert. Auf der [Projektwebseite](http://www.industriepalast.com/) gibt's mehr Infos dazu. Infos über Fritz Kahn finden sich in der Wikipedia... o-oder? Oh, Moment... nein, kein Wikipedia-Eintrag zu Fritz Kahn. Stattdessen _nur_ diese informative [Buch-Webseite](http://www.fritz-kahn.com/). Schätzungsweise weil sich die Wikipedia-Menschen seit Jahen in end- und ergebnislosen Relevanzdiskussionen o.ä. verzetteln.

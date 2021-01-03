@@ -11,7 +11,7 @@ tags:
   - comics
   - watchmen
 meta:
-  - yourls_shorturl: "http://eay.li/q9"
+  - yourls_shorturl: "https://eay.li/q9"
 ---
 
 Ich habe noch [435 Seiten](http://twitpic.com/1srt4) vor mir... #[watchmen](//eay.cc/tag/watchmen/)

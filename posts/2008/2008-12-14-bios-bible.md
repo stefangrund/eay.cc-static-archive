@@ -13,7 +13,7 @@ tags:
   - religion
   - roboter
 meta:
-  - yourls_shorturl: "http://eay.li/mi"
+  - yourls_shorturl: "https://eay.li/mi"
 ---
 
 Weil ja das christlichste aller Feste vor der Tür steht und wir uns dem Zauber von _strangen_ Robotern nicht entziehen können, heute ein Roboter, der die 66 Bücher der Bibel auf Papier bannt. Handschriftlich. Wie ein Mönch. Sachen gibt's.

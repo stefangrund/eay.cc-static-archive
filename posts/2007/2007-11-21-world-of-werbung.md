@@ -20,7 +20,7 @@ tags:
   - william-shatner
   - world-of-warcraft
 meta:
-  - yourls_shorturl: "http://eay.li/no"
+  - yourls_shorturl: "https://eay.li/no"
 ---
 
 World of Warcraft wird in den USA nun auch im TV beworben (warum nur?). In den Spots, die ihr euch [hier ansehen](http://www.worldofwarcraft.com/downloads/movies.html) könnt, gibt sich Niemand geringeres als [Mr. T](//eay.cc/tag/mrt/) sowie [Willliam Shatner](//eay.cc/2007/lucy-in-the-sky-with-diamonds/) die Ehre. Sehr nette Idee, aber die Zielgruppe, die sich von Mr. T und Shatner überzeugen lässt, hat(te) eh schon nen Account, würde ich mal tippen. ([via](http://www.wonderlandblog.com/wonderland/2007/11/mr-t-is-a-night.html))

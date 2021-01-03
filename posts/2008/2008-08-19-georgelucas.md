@@ -13,7 +13,7 @@ tags:
   - mashup
   - star-wars
 meta:
-  - yourls_shorturl: "http://eay.li/wk"
+  - yourls_shorturl: "https://eay.li/wk"
 ---
 
 This one is for [The Clone Wars](//eay.cc/2008/worst-star-wars-ever/), you greedy old Hutt: ([via](http://www.b3ta.com/board/8664655))

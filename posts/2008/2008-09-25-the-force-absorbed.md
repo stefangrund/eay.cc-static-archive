@@ -16,7 +16,7 @@ tags:
   - versoftung
   - xbox
 meta:
-  - yourls_shorturl: "http://eay.li/m5"
+  - yourls_shorturl: "https://eay.li/m5"
   - amazon_id: "B0012OVDKE"
 ---
 

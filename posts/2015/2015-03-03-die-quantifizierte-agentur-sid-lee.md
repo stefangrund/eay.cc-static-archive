@@ -17,7 +17,7 @@ tags:
   - quantified-self
 meta:
   - linked_list_url: "http://dashboard.sidlee.com/"
-  - yourls_shorturl: "http://eay.li/2ng"
+  - yourls_shorturl: "https://eay.li/2ng"
 ---
 
 [![](https://eay.cc/uploads/2015/sidleedashboard.gif)](http://dashboard.sidlee.com/)

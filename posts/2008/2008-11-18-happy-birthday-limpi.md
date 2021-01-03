@@ -14,7 +14,7 @@ tags:
   - geburtstag
   - micky-maus
 meta:
-  - yourls_shorturl: "http://eay.li/qq"
+  - yourls_shorturl: "https://eay.li/qq"
 ---
 
 ![](/uploads/2008/mickygeb.jpg "Â© Eigentum des Studios/Vertriebes") Und warum ist mir vorher noch nie aufgefallen, dass [du](http://spaetz.eayz.net/) und [Micky Maus](http://www.netzeitung.de/kultur/1215130.html) am selben Geburtstag haben? Kann das Zufall sein? Ist das ein Zeichen? :kuss:

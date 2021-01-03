@@ -13,7 +13,7 @@ tags:
   - schmerzen
   - zaehne
 meta:
-  - yourls_shorturl: "http://eay.li/ar"
+  - yourls_shorturl: "https://eay.li/ar"
 ---
 
 Mit meinen Zähnen hatte ich eigentlich noch nie Probleme. Wenn nicht gerade äußere [Gewaltanwendung](//eay.cc/2007/saturday-night-adventure/) die Ursache der Schmerzen war, dann wüsste ich nicht, wann ich mal richtige Zahnschmerzen gehabt haben sollte. Dies, liebe Leserinnen und Leser, sollte sich am vergangenen Freitag schlagartig ändern: Auf dem Nachhauseweg vom Campus bemerkte ich "leicht drückende" Schmerzen. Bis ich zuhause war, sollte es jedoch immer stärker werden. Abend und Nacht waren schmerztechnisch nicht weiter erwähnenswert.

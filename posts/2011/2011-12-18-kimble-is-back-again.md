@@ -17,7 +17,7 @@ tags:
   - spon
   - urheberrecht
 meta:
-  - yourls_shorturl: "http://eay.li/1di"
+  - yourls_shorturl: "https://eay.li/1di"
 ---
 
 [Kim "Kimble" Schmitz](http://de.wikipedia.org/wiki/Kim_Schmitz), New-Economy-Millionär, Hochstapler und RTL-Exklusiv-Type, ist aus der Versenkung zurückgekehrt und legt nun offen, dass [er hinter Megaupload steckt](http://www.spiegel.de/netzwelt/web/0,1518,804186,00.html), einem dieser dubiosen Rapidshare-Klone. Und standesgemäß legt er sich diesmal mit ganz Hollywood an. Auf diverse SPIEGEL-Anfragen reagierte Schmitz, wie es sich für den großen "Kimperator" gehört, "mit vulgären Drohungen, die er aber nicht veröffentlicht wissen will".

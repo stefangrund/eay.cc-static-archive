@@ -19,7 +19,7 @@ tags:
   - usa
 meta:
   - linked_list_url: "http://m.faz.net/aktuell/feuilleton/medien/internet-sicherheitsexperte-felix-von-leitner-der-ueberwachung-entgehen-das-macht-richtig-viel-arbeit-12269438.html"
-  - yourls_shorturl: "http://eay.li/24v"
+  - yourls_shorturl: "https://eay.li/24v"
 ---
 
 > Terrorismus ist ja definiert als Einschüchterung, als Angriff, der nicht mich direkt angreift, sondern mir Angst macht und ich so meine Lebensart ändere. Das ist doch genau, was hier gerade passiert! Nur dass eben nicht âdie Terroristenâ diesen Angriff durchführen, sondern die Geheimdienste. \[...\] Im öffentlichen Diskurs muss mal jemand die Frage stellen, ob der real erlebte Terror nicht eher von den Diensten ausgeht, anstatt dass sie uns vor ihm schützen.

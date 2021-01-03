@@ -14,7 +14,7 @@ tags:
   - kinolog
   - serien
 meta:
-  - yourls_shorturl: "http://eay.li/1os"
+  - yourls_shorturl: "https://eay.li/1os"
 ---
 
 ![](https://eay.cc/uploads/2012/skyfall.jpg)Alle Jahre wieder bekommen wir einen neuen [James Bond](//eay.cc/tag/james-bond/)\-Streifen vorgesetzt. Zuletzt mal besser (»Casino Royale«), mal schlechter (»[Ein Quantum Trost](//eay.cc/2008/ein-quantum-bond/)«) oder davor direkt vollkommen durchstilisiertes "Popcorn-Kino" - gut, aber ohne jeglichen Belang (die Pierce Brosnan-Filme). Der neueste Film dieses seit jeher durchwachsenen Franchises heißt »[Skyfall](http://www.imdb.com/title/tt1074638/)« und 007 wird darin zum dritten Mal vom immer noch blonden Daniel Craig verkörpert. Und bereits Tage bevor »Skyfall« dem von Jason Bourne und ADS geschädigten Publikum gezeigt wurde, waren sich die Kritiker einig: Das hier ist der beste Bond der letzten hundert Jahre! Oder zumindest seit Sean Connery! Und Javier Bardem, lecko mio, ist der bösartigste Bösewicht seit Kritikergedenken!

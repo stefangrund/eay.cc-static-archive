@@ -16,7 +16,7 @@ tags:
   - sport
   - urlaub
 meta:
-  - yourls_shorturl: "http://eay.li/d2"
+  - yourls_shorturl: "https://eay.li/d2"
 ---
 
 Ich bin dann mal kurz nach München. Zum Auswärtsspiel FC gegen 1860 in der [Allianz Arena](http://de.wikipedia.org/wiki/Allianz_Arena). Macht euch ein schönes Wochenende, ich komm am Sonntag wieder. Vielleicht werde ich sogar [twittern](http://twitter.com/Eay) und [flickrn](http://www.flickr.com/photos/eay/), was ihr dann per [Lifestream](http://eay.cc/about/lifestream/) im Auge behalten könnt.

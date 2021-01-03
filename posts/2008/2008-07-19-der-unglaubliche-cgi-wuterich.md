@@ -14,7 +14,7 @@ tags:
   - kinolog
   - marvel
 meta:
-  - yourls_shorturl: "http://eay.li/g"
+  - yourls_shorturl: "https://eay.li/g"
 ---
 
 ![](/uploads/2008/derunglaublichehulk.jpg)Endlich habe auch ich es geschafft, mir [The Incredible Hulk](http://www.imdb.com/title/tt0800080/), das Psuedo-Sequel zu Ang Lees unsäglichem 2003er Hulk anzusehen. Glücklicherweise hat es das Kölner Cinedom doch noch geschafft, eine [FSK16-Fassung](//eay.cc/2008/der-unglaublich-geschnittene-hulk/) aufzutreiben, so dass ich den grünen Wüterich in seiner ganzen Pracht zu sehen bekam. Dies wiederum begrüße ich sehr, da @[The\_McLee](http://twitter.com/The_McLee), der die 12er Version sah, mich darauf aufmerksam machte, wie schlecht hier gekürzt wurde. Aber zurück zur Pseudo-Sequel-haftigkeit: Der neue Hulk beginnt mit einem wirren Intro, das quasi die Vorgeschichte erzählt und auch im Film gibt's einige Flashbacks. Die beziehen sich zwar weniger auf [Ang Lees Hulk](http://www.imdb.com/title/tt0286716/), sondern vielmehr auf die - eh allseits bekannte - Vorgeschichte. Der eigentliche Film beginnt dann in den Slums von Rio, in die sich Bruce Banner vor der US-Regierung geflüchtet hat. Diese spürt ihn aber schlussendlich doch auf und so kommt eins zum anderen, Bruce wird böse, flüchtet und kehrt schließlich in die USA zurück, um Heilung und seine alte, große Liebe zu finden...

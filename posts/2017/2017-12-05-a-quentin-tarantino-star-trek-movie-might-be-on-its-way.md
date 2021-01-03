@@ -17,7 +17,7 @@ tags:
   - star-trek
 meta:
   - linked_list_url: "http://www.slashfilm.com/quentin-tarantino-star-trek-movie/"
-  - yourls_shorturl: "http://eay.li/32k"
+  - yourls_shorturl: "https://eay.li/32k"
 ---
 
 > A new report indicates Tarantino pitched a concept for a new Trek film to Star Trek producer J.J. Abrams, and that Abrams is planning to assemble a writer’s room to make Tarantino’s idea a reality. If it works out, Tarantino might direct the next Star Trek film himself. Again, we’re not making this up.

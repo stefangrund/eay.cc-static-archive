@@ -16,7 +16,7 @@ tags:
   - nazis
   - quentin-tarantino
 meta:
-  - yourls_shorturl: "http://eay.li/4o"
+  - yourls_shorturl: "https://eay.li/4o"
 ---
 
 ![](https://eay.cc/uploads/2009/inglouriousbasterds.jpg)Da hätten wir ihn also endlich ((Ich wäre wegen der Uraufführung im Mai ja fast nach Cannes gereist...)): [Inglourious Basterds](http://www.imdb.com/title/tt0361748/), Quentin Tarantinos neuesten Streich, der irgendwo zwischen "Blut beim Gerinnen zuschauen" und seinem Meisterwerk liegt, wie man dieser Tage in den Feuilletons und Blogs der Republik lesen konnte. Und ehrlich gesagt, ich hatte auch meine Zweifel, ob die Basterds das werden könnten, was Millionen Filmfans sich erhofften. Denn seien wir mal ehrlich: die bei jedem neuen Tarantino geäußerte Kritik, dass der Regisseur einmal mehr den selben Film in ein anderes Genre transferiert, ist nicht unbegründet. Bei Tarantino sind alle Figuren Tarantino. Ob Auftragskiller, Bauernopfer oder Nazi-Oberst - sie alle sind wahre Film- und Popkulturfreaks, die nebenbei ganz selbstverständlich über Dinge philosophieren, von denen der gemeine Zuschauer noch nie etwas gehört hat. Auch Inglourious Basterds ist in dieser Hinsicht keine Ausnahme.

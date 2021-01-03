@@ -13,7 +13,7 @@ tags:
   - ipod
   - konsum
 meta:
-  - yourls_shorturl: "http://eay.li/at"
+  - yourls_shorturl: "https://eay.li/at"
 ---
 
 [Bestellt.](http://www.apple.com/de/ipodtouch/) (Ich habe nämlich das Gefühl bekommen, das iPhone wird zu kostspielig und ist nicht unbedingt "feierabendtauglich".)

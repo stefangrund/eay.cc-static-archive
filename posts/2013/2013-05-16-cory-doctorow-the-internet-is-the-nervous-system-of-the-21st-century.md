@@ -17,7 +17,7 @@ tags:
   - republica
   - vortrag
 meta:
-  - yourls_shorturl: "http://eay.li/1vs"
+  - yourls_shorturl: "https://eay.li/1vs"
 ---
 
 Wie schon bei den letzten sechs Malen konnte ich auch in diesem Jahr nicht bei der [re:publica](http://www.re-publica.de/), dem großen "Klassentreffen" der "Netzgemeinde" dabei sein, da mich die ehrenwerte Universität zu Köln einmal mehr zu sehr eingespannt hat ((Vgl. auch Postingfrequenz dieser Seite.)) und mein Fernbleiben im Sommersemester seit jeher ja für den [Ring](//eay.cc/tag/rock-am-ring/) reserviert ist ([solange](http://www.rock-n-heim.com/) es ihn noch gibt). Anstatt aber jeden April dazusitzen, aus der Ferne eure #rp-Tweets zu verfolgen und wehleidig auf's Konferenzprogramm zu blicken, warte ich auf die zahlreichen re:caps und picke mir im Nachhinein neben dem obligatorischen [Lobo](http://youtube.com/watch?v=Raas1BhSIbs) und [Schwenzel](http://youtube.com/watch?v=ZTejUqHLQXE) die Perlen raus.

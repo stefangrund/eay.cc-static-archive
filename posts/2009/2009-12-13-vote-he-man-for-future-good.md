@@ -16,7 +16,7 @@ tags:
   - politik
   - streetart
 meta:
-  - yourls_shorturl: "http://eay.li/if"
+  - yourls_shorturl: "https://eay.li/if"
 ---
 
 ![](https://eay.cc/uploads/2009/voteheman.jpg) Obiges Bild stammt von den Street-Artists [Miss Bugs](http://www.missbugs.com/) (ja, dahinter verbergen sich tatsächlich zwei Künstler, nämlich Miss und Bugs), deren Arbeiten ganz nach meinem Geschmack sind: popkulturell und politisch. Und mit He-Man und den Looney Tunes macht man bei mir eh nichts verkehrt. Die tollen Kunstwerke der beiden, lassen sich auf [deren Webseite](http://www.missbugs.com/) bestaunen. Ein [Interview gibt's bei Artasty](http://www.artasty.com/interviews.php?entry=27&type=interviews).

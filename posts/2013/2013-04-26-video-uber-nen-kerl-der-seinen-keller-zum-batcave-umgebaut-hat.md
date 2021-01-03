@@ -14,7 +14,7 @@ tags:
   - batman
   - fanboys
 meta:
-  - yourls_shorturl: "http://eay.li/237"
+  - yourls_shorturl: "https://eay.li/237"
   - linked_list_url: "http://www.youtube.com/watch?v=PVgQseleVNw"
 ---
 

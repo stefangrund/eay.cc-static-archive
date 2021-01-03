@@ -21,7 +21,7 @@ tags:
   - sequel
   - thriller
 meta:
-  - yourls_shorturl: "http://eay.li/15v"
+  - yourls_shorturl: "https://eay.li/15v"
 ---
 
 Bevor ich zum großen Oscar- und Blockbuster-Kino (und schließlich meiner Oscar-Prognose!) komme, hier noch die letzten Review-Schnellschüsse. Diesmal mit dabei der Zugthriller »Unstoppable«, das Politmischmasch »Fair Game«, die Fantasyschmu »Narnia 3« und der Familienwitz »Meine Frau, unsere Kinder und ich«.

@@ -17,7 +17,7 @@ tags:
   - kinolog
   - robert-rodriguez
 meta:
-  - yourls_shorturl: "http://eay.li/39g"
+  - yourls_shorturl: "https://eay.li/39g"
   - content_copy: "https://twitter.com/eay/status/1104695344229687296"
 ---
 

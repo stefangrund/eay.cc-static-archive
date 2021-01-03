@@ -17,7 +17,7 @@ tags:
   - marvel
   - retro
 meta:
-  - yourls_shorturl: "http://eay.li/2m4"
+  - yourls_shorturl: "https://eay.li/2m4"
 ---
 
 ![](https://eay.cc/uploads/2015/marvelcalendar1981_1.jpg) ![](https://eay.cc/uploads/2015/marvelcalendar1981_2.jpg) ![](https://eay.cc/uploads/2015/marvelcalendar1981_3.jpg)

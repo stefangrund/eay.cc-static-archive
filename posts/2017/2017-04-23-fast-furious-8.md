@@ -14,7 +14,7 @@ tags:
   - filme
   - kinolog
 meta:
-  - yourls_shorturl: "http://eay.li/2xv"
+  - yourls_shorturl: "https://eay.li/2xv"
 ---
 
 ![](https://eay.cc/uploads/2017/fast-furious-8.jpg)Nicht nur, dass die achte Episode von »The Fast and The Furious«, dem »Police Academy« der Neuzeit, das Kunststück gelungen ist, mit [532,5 Millionen Dollar am Startwochenende](http://www.businessinsider.de/the-fate-of-the-furious-box-office-2017-4) aus dem Stand den erfolgreichsten Kinostart aller Zeiten hinzulegen, nein, sie hat es sogar geschafft, mich als alten Fast-and-Furious-Verweigerer ((Ich habe Teil 1-6 erst kurz vor dem Release von Teil 7 in einem wahnwitzigen Filmmarathon bei Freunden nachgeholt.)) dazu zu bewegen, mich freiwillig in einen von Testosteron durchtränkten Raum voller Autofanatiker zu setzen und 135 Minuten dem Nonsens um "La Familia" zu folgen. Denn auch, wenn dieses Review jetzt gleich andere Töne anschlägt, genau das ist auch »[The Fate of The Furious](http://www.imdb.com/title/tt4630562/)«: Nonsens. Abermals wendet sich einer aus dem Raser-Team gegen seine Kollegen, es wird "gehackt" bis sich die Balken biegen und Autos zerstört bis zum Geht-nicht-mehr. Getreu dem Motto mit Pferdestärken den dritten Weltkrieg abwenden.

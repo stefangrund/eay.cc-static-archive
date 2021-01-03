@@ -15,7 +15,7 @@ tags:
   - stanley-kubrick
   - the-beatles
 meta:
-  - yourls_shorturl: "http://eay.li/124"
+  - yourls_shorturl: "https://eay.li/124"
 ---
 
 ...zumindest wenn es nach John Lennon gegangen wäre, [so Peter Jackson](http://blastr.com/2010/11/little-known-sci-fi-facts.php):

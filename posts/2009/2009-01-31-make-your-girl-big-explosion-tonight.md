@@ -13,7 +13,7 @@ tags:
   - spam
   - werbung
 meta:
-  - yourls_shorturl: "http://eay.li/2l"
+  - yourls_shorturl: "https://eay.li/2l"
 ---
 
 Wer dieser Tage ins Kino geht, bekommt dort eventuell diesen Werbespot vorgesetzt. Zwar gibt's hier wieder eine warnende, mit erhobenem Zeigefinger vermittelte Botschaft - jedoch auf eine überraschend unterhaltsame Art und Weise. Da könnten sich [andere](http://anonym.to/?http://www.hartabergerecht.de/) ruhig mal eine Scheibe von abschneiden.

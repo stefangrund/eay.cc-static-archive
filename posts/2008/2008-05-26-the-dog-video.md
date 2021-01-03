@@ -15,7 +15,7 @@ tags:
   - tiere
   - we-are-scientists
 meta:
-  - yourls_shorturl: "http://eay.li/p9"
+  - yourls_shorturl: "https://eay.li/p9"
 ---
 
 Da ich ja schon seit Ewigkeiten kein "Musik"fernsehen mehr gucke, habe ich mir gerade überlegt, hier mal wieder verstärkt auf die Perlen des Formats hinzuweisen. [Klasse Musikvideos](//eay.cc/tag/musikvideo/) gibt's nämlich trotzdem - auch wenn sie keiner zeigt. Und für Tipps ist meiner einer natürlich auch immer offen.

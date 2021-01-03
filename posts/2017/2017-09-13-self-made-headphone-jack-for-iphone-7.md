@@ -17,7 +17,7 @@ tags:
   - smartphones
   - technologie
 meta:
-  - yourls_shorturl: "http://eay.li/313"
+  - yourls_shorturl: "https://eay.li/313"
   - geo_latitude: "52.381385422873"
   - geo_longitude: "5.7005851781066"
   - geo_public: "1"

@@ -14,7 +14,7 @@ tags:
   - filmindustrie
   - geschichte
 meta:
-  - yourls_shorturl: "http://eay.li/2ho"
+  - yourls_shorturl: "https://eay.li/2ho"
 ---
 
 \[youtube id="XE4lLJrU58M"\]

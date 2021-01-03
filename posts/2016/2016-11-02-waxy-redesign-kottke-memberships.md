@@ -15,7 +15,7 @@ tags:
   - monetarisierung
   - netzkultur
 meta:
-  - yourls_shorturl: "http://eay.li/2vb"
+  - yourls_shorturl: "https://eay.li/2vb"
 ---
 
 Passend [hierzu](https://eay.cc/2016/diy-or-keep-dying/) erwehren sich zwei meiner All-Time Favorite Blogs aktuell gegen das große Blogsterben:

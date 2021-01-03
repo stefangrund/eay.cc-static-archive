@@ -13,7 +13,7 @@ tags:
   - tiere
   - umzug
 meta:
-  - yourls_shorturl: "http://eay.li/5o"
+  - yourls_shorturl: "https://eay.li/5o"
 ---
 
 Wie einige von euch ja mitbekommen haben dürften, habe ich neue Räumlichkeiten bezogen. So weit, so gut. Eigentlich... Denn leider werde ich seitdem - und ich schätze, es liegt an den frisch tapezierten, unfassbar weißen Wänden - tyrannisiert. Von...

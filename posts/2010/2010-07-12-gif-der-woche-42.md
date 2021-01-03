@@ -18,7 +18,7 @@ tags:
   - sport
   - wm-2010
 meta:
-  - yourls_shorturl: "http://eay.li/zb"
+  - yourls_shorturl: "https://eay.li/zb"
 ---
 
 ![](https://eay.cc/uploads/2010/derfliegendehollaender.gif) Das war ganz klar gelb und Spanien ist Weltmeister.

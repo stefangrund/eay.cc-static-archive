@@ -12,7 +12,7 @@ tags:
   - netzkultur
   - output
 meta:
-  - yourls_shorturl: "http://eay.li/3q"
+  - yourls_shorturl: "https://eay.li/3q"
 ---
 
 (Keine Ahnung was das hier soll? [Know Your Meme erklärt's](http://knowyourmeme.com/memes/post-ending-in-x).)

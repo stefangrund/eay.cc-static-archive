@@ -22,7 +22,7 @@ tags:
   - politik
   - toys
 meta:
-  - yourls_shorturl: "http://eay.li/314"
+  - yourls_shorturl: "https://eay.li/314"
   - geo_latitude: "52.381385596714"
   - geo_longitude: "5.7005188294311"
   - geo_public: "1"

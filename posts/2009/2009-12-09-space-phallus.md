@@ -16,7 +16,7 @@ tags:
   - nsfw
   - retro
 meta:
-  - yourls_shorturl: "http://eay.li/av"
+  - yourls_shorturl: "https://eay.li/av"
 ---
 
 > [Space Phallus](http://www.charliesgames.com/wordpress/?page_id=65) is a fun shoot-em-up with a retro 8 bit theme. You control the disembodied head of a dog, and fight against hordes of evil space penises.

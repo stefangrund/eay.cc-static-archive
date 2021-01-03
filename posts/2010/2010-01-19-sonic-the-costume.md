@@ -19,7 +19,7 @@ tags:
   - sega
   - sonic
 meta:
-  - yourls_shorturl: "http://eay.li/gi"
+  - yourls_shorturl: "https://eay.li/gi"
 ---
 
 [![](https://eay.cc/uploads/2010/soniccostume.jpg)](http://www.marshallward.co.uk/sonic-the-hedgehog-standard/643475819.prd) Vergesst [Jabba the Hutt](//eay.cc/2009/jabba-the-costume/) und seid [Sonic the Hedgehog](http://www.marshallward.co.uk/sonic-the-hedgehog-standard/643475819.prd)! (via [Superlevel](http://www.superlevel.de/spielkram/sonic-the-hedgehog-2))

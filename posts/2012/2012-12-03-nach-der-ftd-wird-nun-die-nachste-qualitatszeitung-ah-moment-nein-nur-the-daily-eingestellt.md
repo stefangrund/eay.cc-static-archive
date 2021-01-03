@@ -17,7 +17,7 @@ tags:
   - netzkultur
   - publishing
 meta:
-  - yourls_shorturl: "http://eay.li/20p"
+  - yourls_shorturl: "https://eay.li/20p"
   - linked_list_url: "http://www.businessinsider.com/news-corp-closing-the-daily-2012-12"
 ---
 

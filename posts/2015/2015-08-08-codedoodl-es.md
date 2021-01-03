@@ -19,7 +19,7 @@ meta:
   - linked_list_url: "http://codedoodl.es/"
   - linked_list_url: "http://codedoodl.es/"
   - linked_list_url: "http://codedoodl.es/"
-  - yourls_shorturl: "http://eay.li/2pl"
+  - yourls_shorturl: "https://eay.li/2pl"
 ---
 
 > codedoodl.es is a showcase of curated creative coding sketches. The aim of these doodles is to exhibit interactive, engaging web experiments which only require a short attention span. No loading bars, no GUI, no 5MB 3D models or audio files, just plain and simple doodles with code.

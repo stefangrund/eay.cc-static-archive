@@ -17,7 +17,7 @@ tags:
   - mp3
   - musik
 meta:
-  - yourls_shorturl: "http://eay.li/12b"
+  - yourls_shorturl: "https://eay.li/12b"
 ---
 
 Gregg Gillis aka Girl Talk, der Kerl mit den [zwei](http://en.wikipedia.org/wiki/File:Gregg_gillis.jpg) [besten](http://en.wikipedia.org/wiki/File:Girl_talk1.jpg), weil total unterschiedlichen [Wikipedia](http://en.wikipedia.org/wiki/Girl_Talk_%28musician%29)\-Bildern out there, hat es [wieder](//eay.cc/2008/feed-the-animals/) getan: Mit [All Day](http://www.illegal-art.net/allday/) hat er sein nun schon fünftes Mashup-Album rausgebracht und bringt es dieser Tage wieder kostenlos unter die Leute. Dass es erneut überaus [umfassend](http://en.wikipedia.org/wiki/All_Day_%28album%29) und hörenswert ist, muss ich Girl Talk-Kennern nicht sagen. Alle anderen können sich im folgenden selbst überzeugen:

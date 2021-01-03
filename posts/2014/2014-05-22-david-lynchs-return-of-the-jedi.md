@@ -18,7 +18,7 @@ tags:
   - star-wars
   - trailer
 meta:
-  - yourls_shorturl: "http://eay.li/2g3"
+  - yourls_shorturl: "https://eay.li/2g3"
 ---
 
 \[youtube id="PALjbTo1D5U"\]

@@ -14,7 +14,7 @@ tags:
   - konsum
   - tod
 meta:
-  - yourls_shorturl: "http://eay.li/px"
+  - yourls_shorturl: "https://eay.li/px"
 ---
 
 Vielleicht liegt es an mir, vielleicht herrscht hier auch nur das falsche Klima, aber es scheint ein ungeschriebenes Gesetz zu geben, dass besagt, das ich jedes Jahr einen neuen Drucker kaufen muss. Vielleicht ist es Karma oder so. Vielleicht habe ich in einem früheren Leben den ollen [Gutenberg](http://de.wikipedia.org/wiki/Johannes_Gutenberg) verprügelt und werde noch heute dafür bestraft. Wer weiss das schon...

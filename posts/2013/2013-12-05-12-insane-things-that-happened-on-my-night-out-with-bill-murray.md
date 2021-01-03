@@ -14,7 +14,7 @@ tags:
   - bizarres
 meta:
   - linked_list_url: "http://thoughtcatalog.com/alex-mann/2013/12/12-insane-things-that-happened-on-my-night-out-with-bill-murray/"
-  - yourls_shorturl: "http://eay.li/2ae"
+  - yourls_shorturl: "https://eay.li/2ae"
 ---
 
 > I didn´t expect this night to end with Bill Murray and I puking into a fountain together, but there we were. I was puking with Bill Murray! I hate puking, but for that moment, I loved it.

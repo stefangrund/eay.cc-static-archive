@@ -14,7 +14,7 @@ tags:
   - star-wars
   - weihnachten
 meta:
-  - yourls_shorturl: "http://eay.li/2vr"
+  - yourls_shorturl: "https://eay.li/2vr"
 ---
 
 \[youtube id="Vd79mpzBnJ4"\]

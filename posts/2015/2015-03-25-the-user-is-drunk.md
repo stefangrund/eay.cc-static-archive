@@ -17,7 +17,7 @@ meta:
   - linked_list_url: "http://theuserisdrunk.com/"
   - linked_list_url: "http://theuserisdrunk.com/"
   - linked_list_url: "http://theuserisdrunk.com/"
-  - yourls_shorturl: "http://eay.li/2nw"
+  - yourls_shorturl: "https://eay.li/2nw"
 ---
 
 > Your website should be so simple, a drunk person could use it. You can't test that. I'll do it for you. I'll get very drunk, and then review your website.

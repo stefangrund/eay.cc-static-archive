@@ -17,7 +17,7 @@ tags:
   - tv-verfilmung
   - veronica-mars
 meta:
-  - yourls_shorturl: "http://eay.li/229"
+  - yourls_shorturl: "https://eay.li/229"
   - linked_list_url: "http://www.kickstarter.com/projects/559914737/the-veronica-mars-movie-project"
 ---
 

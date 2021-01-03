@@ -18,7 +18,7 @@ tags:
   - webcomic
   - your-favorite-tumblr-for-the-next-5-minutes
 meta:
-  - yourls_shorturl: "http://eay.li/2az"
+  - yourls_shorturl: "https://eay.li/2az"
 ---
 
 ![](https://eay.cc/uploads/2013/garfbert1.gif) ![](https://eay.cc/uploads/2013/garfbert2.gif)

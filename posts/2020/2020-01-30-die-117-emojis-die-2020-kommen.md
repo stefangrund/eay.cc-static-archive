@@ -11,7 +11,7 @@ categories:
   - 0815
 meta:
   - linked_list_url: "https://blog.emojipedia.org/117-new-emojis-in-final-list-for-2020/"
-  - yourls_shorturl: "http://eay.li/3cn"
+  - yourls_shorturl: "https://eay.li/3cn"
   - geo_latitude: "50.973942530823"
   - geo_longitude: "6.6830119575829"
   - geo_public: "1"

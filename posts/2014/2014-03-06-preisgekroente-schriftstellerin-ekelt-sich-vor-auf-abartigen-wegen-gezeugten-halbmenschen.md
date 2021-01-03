@@ -14,7 +14,7 @@ tags:
   - literatur
 meta:
   - linked_list_url: "http://www.stefan-niggemeier.de/blog/buechner-preistraegerin-ekelt-sich-vor-auf-abartigen-wegen-gezeugten-halbmenschen/"
-  - yourls_shorturl: "http://eay.li/2dp"
+  - yourls_shorturl: "https://eay.li/2dp"
 ---
 
 Stefan Niggemeier – anderswo wird nicht darüber berichtet:

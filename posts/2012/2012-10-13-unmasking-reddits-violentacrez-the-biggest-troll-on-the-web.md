@@ -15,7 +15,7 @@ tags:
   - reddit
   - trolling
 meta:
-  - yourls_shorturl: "http://eay.li/1zh"
+  - yourls_shorturl: "https://eay.li/1zh"
   - linked_list_url: "http://gawker.com/5950981/unmasking-reddits-violentacrez-the-biggest-troll-on-the-web"
 ---
 

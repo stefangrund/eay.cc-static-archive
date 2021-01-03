@@ -12,7 +12,7 @@ categories:
 tags:
   - podcast
 meta:
-  - yourls_shorturl: "http://eay.li/38y"
+  - yourls_shorturl: "https://eay.li/38y"
 ---
 
 Speaking [of Gimlet](https://eay.cc/2019/spotify-will-gimlet-media-fuer-mehr-als-200-millionen-dollar-kaufen/): Aktuell höre ich mich durch den Backlog von [Heavyweight](https://www.gimletmedia.com/heavyweight), dem überaus hörenswerten Gimlet-Podcast von Jonathan Goldstein, der hier – besser lässt sich das nicht beschreiben – bewegende und unterhaltsame Einblicke in die Leben anderer Menschen gibt. Große Empfehlung!

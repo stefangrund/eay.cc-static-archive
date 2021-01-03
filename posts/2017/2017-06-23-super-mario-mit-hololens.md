@@ -16,7 +16,7 @@ tags:
   - super-mario
   - technologie
 meta:
-  - yourls_shorturl: "http://eay.li/2zs"
+  - yourls_shorturl: "https://eay.li/2zs"
 ---
 
 \[youtube id="QN95nNDtxjo"\]

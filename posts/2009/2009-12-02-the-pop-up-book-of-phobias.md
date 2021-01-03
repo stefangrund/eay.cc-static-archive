@@ -14,7 +14,7 @@ tags:
   - kunst
   - pop-up-books
 meta:
-  - yourls_shorturl: "http://eay.li/kl"
+  - yourls_shorturl: "https://eay.li/kl"
 ---
 
  ([Vimeo Direktaufklappbuch](http://www.vimeo.com/7668240), [via](http://daronn.wordpress.com/2009/11/27/das-pop-up-buch-der-phobien/))

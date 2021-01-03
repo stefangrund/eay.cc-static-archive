@@ -18,7 +18,7 @@ tags:
   - the-flash
   - trailer
 meta:
-  - yourls_shorturl: "http://eay.li/2hi"
+  - yourls_shorturl: "https://eay.li/2hi"
 ---
 
 \[youtube id="kno3xDw27bY"\]

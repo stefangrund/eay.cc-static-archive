@@ -17,7 +17,7 @@ tags:
   - social-media
 meta:
   - linked_list_url: "http://www.buzzfeed.com/sebastianfiebrig/14-schritte-wie-du-dich-auf-die-russische-invasion-vorbereit"
-  - yourls_shorturl: "http://eay.li/2iy"
+  - yourls_shorturl: "https://eay.li/2iy"
 ---
 
 Soft Launch vom deutschen BuzzFeed mit einem GIF-Listicle im englischen BuzzFeed. Darf man sofort und getrost wieder vergessen. Jannis Kucharz hat dennoch [ein paar Reaktionen gesammelt](http://netzfeuilleton.de/buzzfeed-deutschland-start/).

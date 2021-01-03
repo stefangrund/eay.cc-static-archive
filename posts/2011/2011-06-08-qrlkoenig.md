@@ -14,7 +14,7 @@ tags:
   - output
   - qr-codes
 meta:
-  - yourls_shorturl: "http://eay.li/goetheay"
+  - yourls_shorturl: "https://eay.li/goetheay"
 ---
 
 ![](https://eay.cc/uploads/2011/erlkoenig_vers1.gif)

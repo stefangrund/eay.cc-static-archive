@@ -12,7 +12,7 @@ categories:
 tags:
   - musikindustrie
 meta:
-  - yourls_shorturl: "http://eay.li/1xm"
+  - yourls_shorturl: "https://eay.li/1xm"
   - linked_list_url: "http://www.geekosystem.com/the-pirate-bay-gift-cards/"
 ---
 

@@ -12,7 +12,7 @@ tags:
   - sex
   - werbung
 meta:
-  - yourls_shorturl: "http://eay.li/w4"
+  - yourls_shorturl: "https://eay.li/w4"
 ---
 
 > A sexual practice, one partner takes a shit on the others stomach (Boom) the male partner then slaps the penis in the shit (Chicka) before proceeding to rub the penis under their partners nose (Wah Wah). _I had to shower after my ex-boyfriend decided to Boom Chicka Wah Wah._

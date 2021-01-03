@@ -18,7 +18,7 @@ tags:
   - star-wars
   - trailer
 meta:
-  - yourls_shorturl: "http://eay.li/1sb"
+  - yourls_shorturl: "https://eay.li/1sb"
 ---
 
 [Ross Thompson](https://twitter.com/shocksuspect) hat die [Gunst der Stunde](//eay.cc/2013/jj-abrams-ubernimmt-star-wars/) genutzt und einen »Star Wars«-Trailer im Stil des [»Star Trek into Darkness«-Trailers](http://www.youtube.com/watch?v=r5gdbUC9mWU) gemacht. Sehr toll! (via [Laughing Squid](http://laughingsquid.com/star-wars-in-the-style-of-the-film-trailer-for-star-trek-into-darkness/))

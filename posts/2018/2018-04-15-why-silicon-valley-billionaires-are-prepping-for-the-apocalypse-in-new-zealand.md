@@ -17,7 +17,7 @@ tags:
   - netzkultur
   - zukunft
 meta:
-  - yourls_shorturl: "http://eay.li/34t"
+  - yourls_shorturl: "https://eay.li/34t"
 ---
 
 > How an extreme libertarian tract predicting the collapse of liberal demo­cracies inspired the likes of Peter Thiel to buy up property across the Pacific.

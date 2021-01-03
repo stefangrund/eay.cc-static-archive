@@ -16,7 +16,7 @@ tags:
   - netflix
   - serien
 meta:
-  - yourls_shorturl: "http://eay.li/36w"
+  - yourls_shorturl: "https://eay.li/36w"
 ---
 
 📺 Wir haben gerade voller Begeisterung »[Gravity Falls](https://en.wikipedia.org/wiki/Gravity_Falls)« beendet. Vordergründig eine Animationsserie für Kinder, tatsächlich aber mehr ein kindgerechtes »Stranger Things«-Pendant, das das ein oder andere Mal sicherlich Aufarbeitungsbedarf bei den Kleinen verursachen wird. Denn das was Alex Hirsch & Team hier abliefern, ist nicht nur mitunter recht verstörend, sondern auch kaum an Absurdität, Ideenreichtum und Witz zu überbieten. »Rick & Morty« für die ganze Fanilie sozusagen.

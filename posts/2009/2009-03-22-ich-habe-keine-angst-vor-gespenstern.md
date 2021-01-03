@@ -13,7 +13,7 @@ tags:
   - pacman
   - tshirt
 meta:
-  - yourls_shorturl: "http://eay.li/22"
+  - yourls_shorturl: "https://eay.li/22"
 ---
 
 ![](/uploads/2009/pacbusters.jpg) Nachdem wir hier [neulich schon](//eay.cc/2009/geisterjager-vereinigt-euch/) ein Shirt hatten, auf dem die [Ghostbusters](//eay.cc/tag/ghostbusters/) die fiesen Geister aus Pacman im NES-Look jagen, darf die die obige Interpretation natürlich auch nicht fehlen. Für den Unkostenbeitrag von 19$ könnt ihr's [hier erstehen](http://www.splitreason.com/product/753). ([via](http://www.slashfilm.com/2009/03/20/cool-stuff-another-ghostbusterspac-man-t-shirt-mash-up/))

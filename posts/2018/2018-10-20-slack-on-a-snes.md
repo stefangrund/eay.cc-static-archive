@@ -17,7 +17,7 @@ tags:
   - technologie
 meta:
   - linked_list_url: "https://bert.org/2018/10/18/slack-on-a-snes/"
-  - yourls_shorturl: "http://eay.li/374"
+  - yourls_shorturl: "https://eay.li/374"
 ---
 
 Bertrand Fan ist Entwickler bei Slack und großer SNES-Fan. Also ganz naheliegend, dass er beides kombiniert und Slack auf einem Super Nintendo zum Laufen bringt:

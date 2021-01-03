@@ -10,7 +10,7 @@ format: "post"
 categories:
   - 0815
 meta:
-  - yourls_shorturl: "http://eay.li/1pu"
+  - yourls_shorturl: "https://eay.li/1pu"
 ---
 
 [Christoph](http://www.nasendackel.de/) hat sich für seine überaus geniale Serie "[Gravatare neu interpretiert](http://www.nasendackel.de/tag/gravatar/)" anhand meines Gravatars (und Twitter-/Facebook-/Sonstwo-Bildchens) überlegt, [wie der Rest dazu aussehen könnte](http://www.nasendackel.de/2012/12/02/gravatare-interpretiert-heute-eay/). Ergebnis: Sehr toll und überraschend nah an der [Realität](http://d.pr/i/K0wx).

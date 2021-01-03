@@ -14,7 +14,7 @@ tags:
   - sequel
   - wanted
 meta:
-  - yourls_shorturl: "http://eay.li/r4"
+  - yourls_shorturl: "https://eay.li/r4"
 ---
 
 Und hier eine großartige Nachricht für Freunde des gepflegten, audiovisuellen Stumpfsinns: [Wanted](//eay.cc/2008/der-webstuhl-des-schicksal/), der Actionfilm des letzten Jahres, der uns nicht viel, aber immerhin den "Webstuhl des Schicksals" gebracht hat, bekommt eine Fortsetzung spendiert.

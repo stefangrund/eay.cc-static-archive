@@ -14,7 +14,7 @@ tags:
   - tiere
   - webcomic
 meta:
-  - yourls_shorturl: "http://eay.li/1yo"
+  - yourls_shorturl: "https://eay.li/1yo"
   - linked_list_url: "http://theoatmeal.com/comics/dog_paradox"
 ---
 

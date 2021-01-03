@@ -17,7 +17,7 @@ tags:
   - tshirt
 meta:
   - linked_list_url: "https://motu.threadless.com/"
-  - yourls_shorturl: "http://eay.li/2on"
+  - yourls_shorturl: "https://eay.li/2on"
 ---
 
 [![](https://eay.cc/uploads/2015/threadless_motu.jpg)](https://motu.threadless.com/)

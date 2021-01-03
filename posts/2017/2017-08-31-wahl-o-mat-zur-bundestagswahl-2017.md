@@ -16,7 +16,7 @@ tags:
   - politik
 meta:
   - linked_list_url: "https://www.wahl-o-mat.de/bundestagswahl2017/"
-  - yourls_shorturl: "http://eay.li/30x"
+  - yourls_shorturl: "https://eay.li/30x"
 ---
 
 Für den nicht unwahrscheinlichen Fall, dass ihr in diesem Wahlkampf a.k.a. Wahlkuscheln noch nicht wisst, wo ihr euer Kreuzchen machen sollt, bevor dann am Abend eh wieder die Kanzlerin ("Sie kennen mich.") auf's Siegertreppchen steigt.

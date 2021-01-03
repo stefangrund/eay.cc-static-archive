@@ -17,7 +17,7 @@ tags:
   - steven-spielberg
 meta:
   - linked_list_url: "http://variety.com/2018/tv/news/animaniacs-reboot-hulu-1202653608/"
-  - yourls_shorturl: "http://eay.li/331"
+  - yourls_shorturl: "https://eay.li/331"
 ---
 
 > Hulu, Amblin Television, and Warner Bros. Animation are partnering for a rebooted version of [the classic cartoon series](https://en.wikipedia.org/wiki/Animaniacs), which has scored a two-season, straight-to-series commitment at the streaming service. Steven Spielberg will return as executive producer of the series \[...\].

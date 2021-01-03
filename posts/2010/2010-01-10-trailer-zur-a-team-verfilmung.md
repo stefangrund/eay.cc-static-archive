@@ -16,7 +16,7 @@ tags:
   - trailer
   - tv-verfilmung
 meta:
-  - yourls_shorturl: "http://eay.li/ax"
+  - yourls_shorturl: "https://eay.li/ax"
 ---
 
 [Meine](http://twitter.com/Eay) Follower habe ich ja [bereits](http://twitter.com/Eay/status/7538705926) auf die erste abgefilmte Version des [A-Team](//eay.cc/tag/a-team/)\-Trailers hingewiesen, aber mittlerweile gibt's den Trailer auch in besserer Auflösung, so dass ich ihn euch auch nicht länger vorenthalten will ? also [hier ansehen](http://www.filmz.ru/video/a/a_team_teaser_720.mp4) (.mp4).

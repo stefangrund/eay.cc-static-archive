@@ -14,7 +14,7 @@ tags:
   - web-entwicklung
 meta:
   - linked_list_url: "https://github.com/duffn/dumb-password-rules"
-  - yourls_shorturl: "http://eay.li/2wk"
+  - yourls_shorturl: "https://eay.li/2wk"
 ---
 
 > Shaming sites with dumb password rules.

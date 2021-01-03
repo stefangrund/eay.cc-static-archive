@@ -15,7 +15,7 @@ tags:
   - koeln
   - stop-motion
 meta:
-  - yourls_shorturl: "http://eay.li/30j"
+  - yourls_shorturl: "https://eay.li/30j"
 ---
 
 > A modern adventure game about the daily routine on a spaceship stuck undersea. Stop-motion look, exploration, story and humor!

@@ -14,7 +14,7 @@ tags:
   - microsoft
   - windows
 meta:
-  - yourls_shorturl: "http://eay.li/22k"
+  - yourls_shorturl: "https://eay.li/22k"
   - linked_list_url: "http://www.theverge.com/2013/3/25/4144618/windows-blue-video-preview-screenshots"
 ---
 

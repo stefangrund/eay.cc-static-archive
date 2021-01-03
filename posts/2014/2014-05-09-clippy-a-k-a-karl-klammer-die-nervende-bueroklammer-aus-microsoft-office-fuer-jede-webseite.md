@@ -16,7 +16,7 @@ tags:
   - windows
 meta:
   - linked_list_url: "https://www.smore.com/clippy-js"
-  - yourls_shorturl: "http://eay.li/2fj"
+  - yourls_shorturl: "https://eay.li/2fj"
 ---
 
 ![](https://eay.cc/uploads/2014/clippyjs.gif)

@@ -12,7 +12,7 @@ tags:
   - bayern
   - urlaub
 meta:
-  - yourls_shorturl: "http://eay.li/q4"
+  - yourls_shorturl: "https://eay.li/q4"
 ---
 
 Liebste Freunde seichter Unterhaltung, wie [bereits](//eay.cc/2007/ich-packe-meinen-koffer/) angekündigt, verlasse ich euch für 1 ½ Wochen und überlasse euch völlig ungefiltert diesem verdorbenen Ort namens Internet. Eure tägliche Portion Cornflakes gibt es solange bei [denen hier](/links/). Für mich geht es übrigens [wieder nach Bayern](//eay.cc/2007/mir-san-a-bayrische-band/). Wohin genau verrate ich vielleicht später oder so Web-2.0-"Ich 'abe gar keine Privatssphäre"-technisch [in meinem Twitter](http://twitter.com/Eay). Wir sehn uns in Las Vegas wieder!

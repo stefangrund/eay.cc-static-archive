@@ -19,7 +19,7 @@ tags:
   - japan
   - usa
 meta:
-  - yourls_shorturl: "http://eay.li/178"
+  - yourls_shorturl: "https://eay.li/178"
 ---
 
 Die gestrige Sendung des [BR2 Zündfunk Generators](http://www.br-online.de/bayern2/zuendfunk/index.xml) beschäftigte sich anlässlich der Katastrophe von Fukushima mit der Kulturgeschichte des nuklearen Super-GAUs in Film, Comic und Computerspiel. Verschiedene Kulturwissenschaftler berichten darin über die popkulturelle Auseinandersetzung mit Atomkraft in Japan, den USA und dem Rest der Welt - inklusive Godzilla, Astro Boy, [Duck and Cover](http://www.youtube.com/watch?v=C0K_LZDXp0I), Radioactive Man, Fallout 3 und Stalker. Prädikat: sehr hörenswert. Mehr Infos gibt's [auf der Zündfunk-Beitragsseite](http://www.br-online.de/bayern2/zuendfunk/zuendfunk-wochenende-generator-ID1302091651743.xml).

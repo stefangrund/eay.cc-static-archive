@@ -14,7 +14,7 @@ tags:
   - meme
   - netzkultur
 meta:
-  - yourls_shorturl: "http://eay.li/lv"
+  - yourls_shorturl: "https://eay.li/lv"
 ---
 
 Während [Chirstian Bale in der vergangenen Woche Kollegen zusammenscheißte](//eay.cc/2009/are-you-professional-or-not/), stellte ein englischer Vater ein Video online, dass seinen 7 jährigen Sohn David zeigt, nachdem er im Rahmen einer Zahnarztbehandlung Schmerzmittel verabreicht bekommen hat und daraufhin seinen ersten Drogentrip erlebt. In den Weiten des Webs findet [David after Dentist](http://www.youtube.com/watch?v=txqiwrbYGrs) rasch Verbreitung und schon zählt einer Eins und Eins zusammen und veröffentlicht "Christian Bale takes David to the Dentist", ein erschreckendes, zeitgeschichtliches Zeugnis dafür, dass Bale nun auch abseits vom Set kleine Jungen anschreit:

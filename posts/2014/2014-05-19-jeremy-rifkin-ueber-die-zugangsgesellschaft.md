@@ -15,7 +15,7 @@ tags:
   - netzkultur
   - wirtschaft
 meta:
-  - yourls_shorturl: "http://eay.li/2fv"
+  - yourls_shorturl: "https://eay.li/2fv"
 ---
 
 > Im kommenden Zeitalter treten Netzwerke an die Stelle der Märkte, und aus dem Streben nach Eigentum wird Streben nach Zugang, nach Zugriff auf das, was diese Netzwerke zu bieten haben.

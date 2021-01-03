@@ -14,7 +14,7 @@ tags:
   - microsoft
   - steam
 meta:
-  - yourls_shorturl: "http://eay.li/227"
+  - yourls_shorturl: "https://eay.li/227"
   - linked_list_url: "http://www.rockpapershotgun.com/2013/03/08/age-of-empires-ii-hd-advancing-to-the-steam-age/"
 ---
 

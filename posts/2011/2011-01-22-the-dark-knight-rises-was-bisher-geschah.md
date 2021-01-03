@@ -15,7 +15,7 @@ tags:
   - heath-ledger
   - the-dark-knight-rises
 meta:
-  - yourls_shorturl: "http://eay.li/14p"
+  - yourls_shorturl: "https://eay.li/14p"
 ---
 
 Es wurde viel gerätselt über Christopher Nolans dritten Batman-Film. Wie wird er heißen? Wann kommt er ins Kino? Und vor allem: Wer werden dieses Mal die Gegenspieler des dunklen Ritters sein?

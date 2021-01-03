@@ -15,7 +15,7 @@ tags:
   - star-wars
   - trailer
 meta:
-  - yourls_shorturl: "http://eay.li/2xm"
+  - yourls_shorturl: "https://eay.li/2xm"
 ---
 
 Und wie erwartet kam dann auch noch der erste Teaser Trailer zu [Episode VIII](https://eay.cc/tag/episode-8/) hinterher, der die Hype Machine und Mystery Box weiter befeuert, indem er quasi nichts verrät und nur weitere Fragen aufwirft, dafür aber ein paar geflüsterte Flashback-Quotes aufweist ("Help me, Obi-Wan").

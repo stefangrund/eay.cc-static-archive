@@ -15,7 +15,7 @@ tags:
   - microsoft
   - xbox
 meta:
-  - yourls_shorturl: "http://eay.li/23n"
+  - yourls_shorturl: "https://eay.li/23n"
   - linked_list_url: "http://www.theverge.com/2013/5/20/4347650/yahoo-acquires-tumblr-in-1-1-billion-cash-deal-promises-not-to-screw"
 ---
 

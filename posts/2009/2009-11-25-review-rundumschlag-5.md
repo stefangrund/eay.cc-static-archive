@@ -13,7 +13,7 @@ tags:
   - komoedie
   - romantic-comedy
 meta:
-  - yourls_shorturl: "http://eay.li/lf"
+  - yourls_shorturl: "https://eay.li/lf"
 ---
 
 Ich muss ((Und möchte!)) mal wieder einige Reviews nachholen. Bevor ich mich aber mit dem ultimativen Weltuntergang in 2012 und der Vampir-Schmonzette New Moon beschäftige, erstmal zwei RomComs, die beide durch ein großes Figuren-Ensemble auffallen. Denn die Liebesirrwege von nur _einem_ Männlein und _einem_ Weiblein kennen wir bereits zu Genüge - und sei es von uns selbst. Zeit also, dass wir Filme mit gleich mehreren potentiellen Hormonopfern präsentiert bekommen.

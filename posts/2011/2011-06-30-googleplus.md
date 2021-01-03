@@ -16,7 +16,7 @@ tags:
   - social-media
   - web-2-0
 meta:
-  - yourls_shorturl: "http://eay.li/19n"
+  - yourls_shorturl: "https://eay.li/19n"
 ---
 
 [![](https://eay.cc/uploads/2011/googleplus.jpg "Jaja, die Schriftart stimmt nicht, ich weiss...")](http://eay.cc/googleplus) Gestern bin ich, wie ungefähr ganz Twitterdeutschland, zu [Google+](http://plus.google.com/) eingeladen worden (danke [@sizr](http://twitter.com/sizr)) und teste es seitdem ausgiebig. Mein Ersteindruck ist gut, sehr gut sogar. Vieles stimmt jetzt schon, einiges benötigt noch Feinschliff. Was Googles neuestes Social Network aber schon jetzt geschafft hat, ist mir aufzuzeigen, was im Hause [Facebook](http://www.facebook.com/eayz.net) so gehörig schief läuft: die Timeline wird von Fanseiten zugemüllt, die Privatsphäre-Einstellungen sind eine Farce. Google+ macht all das im Moment besser: die Timeline wirkt "sauberer" (obwohl da richtig viel los ist) und zu bestimmen, wer was sieht, ist wirklich kinderleicht. Klar kann sich das jederzeit ändern, aber wir gehen jetzt einfach mal vom besten aus.

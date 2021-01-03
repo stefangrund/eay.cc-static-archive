@@ -15,7 +15,7 @@ tags:
   - the-walking-dead
   - zombies
 meta:
-  - yourls_shorturl: "http://eay.li/11o"
+  - yourls_shorturl: "https://eay.li/11o"
 ---
 
  ([YouTube Direktteil 1](http://www.youtube.com/watch?v=dL0OAhq6cpA) und [Teil 2](http://www.youtube.com/watch?v=E7gYbnspwGg), via mir selbst [bei Twitter](http://twitter.com/Eay/status/27171810303))

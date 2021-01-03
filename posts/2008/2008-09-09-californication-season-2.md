@@ -12,7 +12,7 @@ tags:
   - fernsehen
   - geruechte
 meta:
-  - yourls_shorturl: "http://eay.li/a0"
+  - yourls_shorturl: "https://eay.li/a0"
 ---
 
 ![](/uploads/2008/californication2.jpg) Wenn ich euch sagen würde, dass ich bereits die ersten zwei Folgen der zweiten Staffel von [Californication](//eay.cc/2007/darkly-funny/) gesehen habe, die eigentlich erst am 28.9. in den USA startet, und das obige Bild mir von einem geheimen Informanten zugespielt wurde, dann würde ich lügen. Besagter Informant lässt euch übrigens auch folgendes ausrichten: "[Hank Moody](//eay.cc/2007/hank-moody-uber-blogs/) ist zurück! Und auch wenn es in den ersten Folgen nur ein paar Glanzmomente gibt, so dürfte er doch in den nächsten Folgen wieder zur Hochform auflaufen..." Und auf Nachfrage meinerseits entgegnet er: "Ja, im obigen Bild kühlt Hank sich tatsächlich die Eier."

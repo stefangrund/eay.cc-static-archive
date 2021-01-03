@@ -16,7 +16,7 @@ tags:
   - star-wars
 meta:
   - linked_list_url: "http://www.hollywoodreporter.com/heat-vision/star-wars-rumors-who-is-669997"
-  - yourls_shorturl: "http://eay.li/2bq"
+  - yourls_shorturl: "https://eay.li/2bq"
 ---
 
 Zur Abwechslung mal der neueste Klatsch und Tratsch aus der [Episode VII](//eay.cc/tag/episode-vii/)\-Gerüchteküche. Demnach verfolgt J.J. Abrams mittlerweile einen anderen Ansatz als der [im Oktober](//eay.cc/2013/the-battle-between-good-and-evil-rages-on/) entlassene Drehbuchautor Michael Arndt, wie der Hollywood Reporter berichtet:

@@ -17,7 +17,7 @@ tags:
   - minecraft
 meta:
   - linked_list_url: "https://medium.com/message/the-secret-of-minecraft-97dfacb05a3c"
-  - yourls_shorturl: "http://eay.li/2hs"
+  - yourls_shorturl: "https://eay.li/2hs"
 ---
 
 [Robin Sloan](http://www.robinsloan.com/) über Minecraft als "generative, networked system", das unendlich viel weiteren Content wie YouTube-Tutorials, T-Shirts, Bücher und Wikis hervorbringt.

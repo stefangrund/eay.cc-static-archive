@@ -14,7 +14,7 @@ tags:
   - sneak-preview
   - vin-diesel
 meta:
-  - yourls_shorturl: "http://eay.li/sc"
+  - yourls_shorturl: "https://eay.li/sc"
 ---
 
 ![](/uploads/2008/babylonad.jpg)[Babylon A.D.](http://www.imdb.com/title/tt0364970/) ist wahrlich ein komisches Stück Film. 20th Century Fox, die Produktionsfirma hinter dem Film, lässt Regisseur Mathieu Kassovitz nicht den kreativen Freiraum, den er für seine Arbeit benötigt und versucht stattdessen mit Babylon A.D. endlich auch einen Sommer-Blockbuster Ã¡ la [Dark Knight](//eay.cc/2008/christopher-nolans-batman/) und [Iron Man](//eay.cc/2008/i-am-iron-man/) abzuliefern - also nur aus rein finanzieller Sicht. Kassovitz ist dementsprechend verärgert und macht seinem Unmut Luft, indem er bereits vor dem Kinostart verrät, dass man von Babylon A.D. nur "pure violence and stupidity" erwarten kann, das ganze überhaupt nicht seiner Vorstellung gerecht wird und stattdessen in Teilen eher an eine schlechte Folge von 24 erinnert ([siehe hier](http://www.firstshowing.net/2008/08/25/babylon-ads-mathieu-kassovitz-opens-negatively-up-about-fox/)). Solch harte Töne hört man selten. Doch in Anbetracht dieser Umstände lässt sich immerhin darüber hinwegsehen, dass man hier in bester Boll-Manier einen Vin Diesel eingespannt hat...

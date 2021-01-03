@@ -12,7 +12,7 @@ tags:
   - fussball
   - sport
 meta:
-  - yourls_shorturl: "http://eay.li/lg"
+  - yourls_shorturl: "https://eay.li/lg"
 ---
 
 > Ihr denkt, Pierre Womé könne weit einwerfen? Dann schaut Euch einmal Rory Delap von Stoke City an.

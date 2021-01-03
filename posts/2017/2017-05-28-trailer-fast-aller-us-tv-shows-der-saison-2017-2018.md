@@ -19,7 +19,7 @@ meta:
   - linked_list_url: "http://www.andisblog.de/2017/05/25/trailer-fast-aller-us-tv-shows-der-saison-20172018/"
   - linked_list_url: "http://www.andisblog.de/2017/05/25/trailer-fast-aller-us-tv-shows-der-saison-20172018/"
   - linked_list_url: "http://www.andisblog.de/2017/05/25/trailer-fast-aller-us-tv-shows-der-saison-20172018/"
-  - yourls_shorturl: "http://eay.li/2z5"
+  - yourls_shorturl: "https://eay.li/2z5"
 ---
 
 Wie jedes Jahr zusammengetragen und bewertet von [@AndiH](https://twitter.com/AndiH).

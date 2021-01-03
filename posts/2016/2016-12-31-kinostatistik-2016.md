@@ -20,7 +20,7 @@ tags:
   - quantified-self
   - statistik
 meta:
-  - yourls_shorturl: "http://eay.li/2vy"
+  - yourls_shorturl: "https://eay.li/2vy"
 ---
 
 Willkommen beim Jahresende, willkommen bei meiner alljährlichen Kinostatistik! Dies ist bereits [die zehnte Ausgabe in Folge](https://eay.cc/2015/kinostatistik-2015/), was bedeutet, dass ich bereits seit einem Jahrzehnt festhalte, wie oft ich im ausklingenden Jahr im Kino war und wieviel mich der Spaß insgesamt und durchschnittlich (ohne Speisen und Getränke) kostete und wie sich die Kosten für einen Kinobesuch seitdem hierzulande entwickelt haben. [Seit 2007](https://eay.cc/2007/260-90-euro/) sind viele neue Auswertungen dazu gekommen und auch dieses Jahr, soll das nicht anders sein, bietet es sich diesmal doch an, nochmal genauer die vergangen zehn Jahre zu betrachten. 😊

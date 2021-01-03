@@ -14,7 +14,7 @@ tags:
   - hongkong
   - horror
 meta:
-  - yourls_shorturl: "http://eay.li/il"
+  - yourls_shorturl: "https://eay.li/il"
 ---
 
 ![](/uploads/2008/ebolasyndrome.jpg) Ich habe heute (aus rein wissenschaftliches Gründen!) [Ebola Syndrome](http://imdb.com/title/tt0116163/) gesehen, der 1996 in Hong Kong mit [Category III](http://en.wikipedia.org/wiki/Hong_Kong_motion_picture_rating_system)\-Einstufung (schlimmer geht's quasi nicht...) veröffentlicht wurde und den Ruf genießt, so ziemlich der niederträchtigste, rassistischste und verrufenste Hong Kong-Film aller Zeiten zu sein. Und das stimmt auch.

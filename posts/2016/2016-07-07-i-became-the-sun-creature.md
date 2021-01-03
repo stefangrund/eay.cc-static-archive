@@ -13,7 +13,7 @@ tags:
   - comics
   - retro
 meta:
-  - yourls_shorturl: "http://eay.li/2ul"
+  - yourls_shorturl: "https://eay.li/2ul"
   - content_copy: "https://www.instagram.com/p/BHjGMWRgL10/"
 ---
 

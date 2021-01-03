@@ -16,7 +16,7 @@ tags:
   - ios
 meta:
   - linked_list_url: "http://www.neuevsold.com/"
-  - yourls_shorturl: "http://eay.li/25b"
+  - yourls_shorturl: "https://eay.li/25b"
 ---
 
 Bis auf Safari, die Einstellungen und die Kamera-App schneiden überraschenderweise alle iOS 7-Icons besser ab. (via [@luagsh\_dmn](https://twitter.com/luagsh_dmn/status/356673838815248384))

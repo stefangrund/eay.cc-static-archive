@@ -14,7 +14,7 @@ tags:
   - science-fiction
   - terminator
 meta:
-  - yourls_shorturl: "http://eay.li/qo"
+  - yourls_shorturl: "https://eay.li/qo"
 ---
 
 Keine Angst, es geht hier um keine zweite Staffel von "Sarah & Marc in Love" (und "Gülcans Traumhochzeit" ist eh viel besser). Stattdessen geht's um die neue TV-Serie [Terminator: The Sarah Connor Chronicles](http://en.wikipedia.org/wiki/The_Sarah_Connor_Chronicles), die im Frühjahr 2008 beim US-Sender Fox ausgestrahlt werden soll. Inhalt, kurz & knapp: Sarah Connor und ihr Sohn John sind nach den Ereignissen des [zweiten Films](http://www.amazon.de/exec/obidos/ASIN/B0009EK71E/eayznet-21) auf der Flucht vor der Polizei und werden zu allem Überfluss auch noch von den allseits bekannten Killerrobotern aus der Zukunft heimgesucht. Könnte unterhaltsam werden.

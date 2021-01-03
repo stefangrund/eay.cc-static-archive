@@ -14,7 +14,7 @@ tags:
   - oscars
   - screenplay
 meta:
-  - yourls_shorturl: "http://eay.li/20r"
+  - yourls_shorturl: "https://eay.li/20r"
   - linked_list_url: "http://www.ropeofsilicon.com/oscar-screenplays-hyde-park-on-hudson-promised-land-and-disneys-frankenweenie-and-wreck-it-ralph-added-to-the-list/"
 ---
 

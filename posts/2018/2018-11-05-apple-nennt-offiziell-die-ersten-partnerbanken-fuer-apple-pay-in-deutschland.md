@@ -17,7 +17,7 @@ tags:
   - geld
 meta:
   - linked_list_url: "https://www.iphoneblog.de/2018/11/05/apple-nennt-offiziell-die-ersten-partnerbanken-fur-apple-pay-in-deutschland/"
-  - yourls_shorturl: "http://eay.li/37l"
+  - yourls_shorturl: "https://eay.li/37l"
 ---
 
 Und hat dazu [eine "Kommt bald"-Seite geschaltet](https://www.apple.com/de/apple-pay/). **FINALLY.**

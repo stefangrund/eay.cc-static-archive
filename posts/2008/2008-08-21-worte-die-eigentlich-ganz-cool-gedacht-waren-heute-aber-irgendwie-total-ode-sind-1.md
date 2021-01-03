@@ -13,7 +13,7 @@ tags:
   - bizarres
   - worte
 meta:
-  - yourls_shorturl: "http://eay.li/ea"
+  - yourls_shorturl: "https://eay.li/ea"
 ---
 
 Glotze.

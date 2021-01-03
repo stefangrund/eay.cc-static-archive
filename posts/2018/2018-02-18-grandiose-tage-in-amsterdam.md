@@ -21,7 +21,7 @@ tags:
 meta:
   - content_copy: "https://www.instagram.com/p/BfWaFt6lQKD/"
   - content_copy: "https://twitter.com/eay/status/965310316950192128"
-  - yourls_shorturl: "http://eay.li/33t"
+  - yourls_shorturl: "https://eay.li/33t"
 ---
 
 ![](https://eay.cc/uploads/2018/amsterdam.jpeg)

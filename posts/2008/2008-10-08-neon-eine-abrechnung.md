@@ -14,7 +14,7 @@ tags:
   - magazine
   - neon
 meta:
-  - yourls_shorturl: "http://eay.li/81"
+  - yourls_shorturl: "https://eay.li/81"
 ---
 
 Neulich habe ich alle [Neon](http://www.neon.de/)\-Ausgaben, die ich hier finden konnte, in die Papiertonne verbannt. Der Grund dafür war nicht etwa, dass ich mehr Platz schaffen wollte und mich deshalb der alten Hefte entledigte, nein, es war eine symbolische Geste. Ein Schlussstrich für ein Gefühl, dass mich die letzten Monate zusehends beim Kauf der Zeitschrift begleitete: Der begnadete [Funny van Dannen](http://www.funny-van-dannen.de/) musste offensichtlich einen Blick in eine oder mehrere Neon-Ausgaben geworfen haben, bevor er sein Lied [Herzscheiße](http://www.youtube.com/watch?v=uiiPayNjf4Q) niederschrieb. Anders kann ich mir das Zustandekommen von diesem für Neon maßgeschneiderten Neologismus nicht mehr erklären...

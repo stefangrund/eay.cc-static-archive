@@ -16,7 +16,7 @@ tags:
   - visualisierung
   - webservice
 meta:
-  - yourls_shorturl: "http://eay.li/o1"
+  - yourls_shorturl: "https://eay.li/o1"
 ---
 
 Können Diagramme, Graphen und [sowas](http://www.tweetwheel.com/) Kunst sein? Ich weiß es nicht.

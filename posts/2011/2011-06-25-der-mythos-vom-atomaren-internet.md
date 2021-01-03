@@ -15,7 +15,7 @@ tags:
   - netzkultur
   - technologie
 meta:
-  - yourls_shorturl: "http://eay.li/198"
+  - yourls_shorturl: "https://eay.li/198"
 ---
 
 Ich lerne gerade für eine Prüfung und stoße in jedem zweiten Lehrbuch auf eine dieser Urban Legends, die gerne überall rezitiert und stehen dürfen - außer in Lehrbüchern.

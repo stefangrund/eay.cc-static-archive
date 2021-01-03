@@ -16,7 +16,7 @@ tags:
   - panic
 meta:
   - linked_list_url: "https://www.panic.com/blog/2013/10/the-panic-office/"
-  - yourls_shorturl: "http://eay.li/28a"
+  - yourls_shorturl: "https://eay.li/28a"
 ---
 
 Schöne Fotoserie im hauseigenen Blog, die den Entwurf und die Fertigstellung des Panic-Büros in Portland begleitet. In so einem Umfeld _kann_ man ja echt nur gute Software produzieren.

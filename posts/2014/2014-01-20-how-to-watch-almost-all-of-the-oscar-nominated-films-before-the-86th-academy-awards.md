@@ -14,7 +14,7 @@ tags:
   - oscars
 meta:
   - linked_list_url: "http://www.candlerblog.com/2014/01/16/86th-academy-awards-master-viewing-list/"
-  - yourls_shorturl: "http://eay.li/2c4"
+  - yourls_shorturl: "https://eay.li/2c4"
 ---
 
 Leider nur US-Infos und Daten. Wer das für den deutschen Markt macht, bekommt nen Backlink von mir spendiert.

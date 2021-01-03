@@ -17,7 +17,7 @@ tags:
   - raspberry-pi
   - technologie
 meta:
-  - yourls_shorturl: "http://eay.li/2hf"
+  - yourls_shorturl: "https://eay.li/2hf"
 ---
 
 \[youtube id="EPTp6WSrC6c"\]

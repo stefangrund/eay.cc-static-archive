@@ -13,7 +13,7 @@ tags:
   - social-media
   - twitter
 meta:
-  - yourls_shorturl: "http://eay.li/20x"
+  - yourls_shorturl: "https://eay.li/20x"
   - linked_list_url: "http://thenextweb.com/twitter/2012/12/16/twitter-has-started-rolling-out-the-option-to-download-all-your-tweets/"
 ---
 

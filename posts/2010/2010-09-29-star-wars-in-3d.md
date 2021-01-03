@@ -12,7 +12,7 @@ tags:
   - filme
   - star-wars
 meta:
-  - yourls_shorturl: "http://eay.li/11d"
+  - yourls_shorturl: "https://eay.li/11d"
 ---
 
 [Lucasfilm hat heute verkündet](http://www.starwars.com/movies/saga/announce3d/index.html), dass die [Star Wars](//eay.cc/tag/star-wars/)\-Saga in die dritte Dimension konvertiert wird und nochmals in die Kinos kommt. Den Anfang macht 2012 Episode I: The Phantom Menace (na ja - aber trotzdem toll), schätzungsweise im Mai.

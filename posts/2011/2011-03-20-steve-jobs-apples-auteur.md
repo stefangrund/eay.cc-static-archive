@@ -18,7 +18,7 @@ tags:
   - netzkultur
   - steve-jobs
 meta:
-  - yourls_shorturl: "http://eay.li/16f"
+  - yourls_shorturl: "https://eay.li/16f"
 ---
 
 Im September letzten Jahres hat [John Gruber](http://daringfireball.net/) während der [dConstruct](http://2010.dconstruct.org/)\-Konferenz in Brighton einen überaus hörenswerten Vortrag zum Thema "The Auteur Theory of Design" gehalten. Nach einem Schwenk durch die Filmgeschichte kommt Gruber zu der Feststellung, dass die (umstrittene) [Auteur-Theorie](http://de.wikipedia.org/wiki/Auteur-Theorie), die im Regisseur den zentralen Gestalter - also den Autor - eines Films sieht, auch wunderbar auf die Technologiebranche - oder besser: Apple - angewandt werden kann. Demnach wäre Steve Jobs Apples Auteur, der geistige Vater von Mac, iPod, iPhone und iPad.

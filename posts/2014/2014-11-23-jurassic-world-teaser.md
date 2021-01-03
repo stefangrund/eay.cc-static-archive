@@ -14,7 +14,7 @@ tags:
   - jurassic-park
   - trailer
 meta:
-  - yourls_shorturl: "http://eay.li/2ks"
+  - yourls_shorturl: "https://eay.li/2ks"
 ---
 
 \[youtube id="bvu-zlR5A8Q"\]

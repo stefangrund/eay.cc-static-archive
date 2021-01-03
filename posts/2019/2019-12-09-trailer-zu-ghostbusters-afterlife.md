@@ -15,7 +15,7 @@ tags:
   - sequel
   - trailer
 meta:
-  - yourls_shorturl: "http://eay.li/3c4"
+  - yourls_shorturl: "https://eay.li/3c4"
   - content_copy: "https://twitter.com/eay/status/1204181071237173260"
   - content_copy: "https://eay.social/@eay/103282324497562625"
 ---

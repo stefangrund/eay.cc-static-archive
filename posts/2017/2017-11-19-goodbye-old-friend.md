@@ -15,7 +15,7 @@ tags:
   - iphone
 meta:
   - content_copy: "https://instagram.com/p/BbsUezEFeuR/"
-  - yourls_shorturl: "http://eay.li/32d"
+  - yourls_shorturl: "https://eay.li/32d"
   - content_copy: "https://twitter.com/eay/status/932365254641696768"
 ---
 

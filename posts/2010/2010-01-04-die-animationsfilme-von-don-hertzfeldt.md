@@ -18,7 +18,7 @@ tags:
   - kurzfilm
   - oscar-nominiert
 meta:
-  - yourls_shorturl: "http://eay.li/5x"
+  - yourls_shorturl: "https://eay.li/5x"
 ---
 
 Auch wenn wir ständig [nur hin und her verlinken](//eay.cc/2010/diy-or-die/), einen gewissen Charme haben Blogs auch 2010 noch. Nehmen wir zum Beispiel das hiesige [.gif der Woche](//eay.cc/tag/gif-der-woche/): In den Tiefen des Netzes finde ich sehenswerte .gifs, die ich zum allgemeinen Amüsement hier weiterverbreite. Meistens lassen sich Urheber oder Ursprungsmaterial jedoch nicht allzu leicht ausmachen - hier aber kommt _der Blogzauber_ ins Spiel. Während ich [das letzte .gif der Woche](//eay.cc/2009/gif-der-woche-34/) einfach nur ulkig fand, kannte sich einer meiner Leser, namentlich Mo, besser aus und machte mich dankenswerterweise [per Kommentar](//eay.cc/2009/gif-der-woche-34/#comment-16789) darauf aufmerksam, dass es einem Kurzfilm entliehen wurde.

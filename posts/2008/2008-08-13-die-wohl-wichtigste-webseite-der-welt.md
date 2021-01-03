@@ -12,7 +12,7 @@ tags:
   - kleidung
   - star-wars
 meta:
-  - yourls_shorturl: "http://eay.li/ou"
+  - yourls_shorturl: "https://eay.li/ou"
 ---
 
 ist ganz klar [leiasmetalbikini.com](http://www.leiasmetalbikini.com/). Bietet sie doch neben der umfassenden und wissenschaftlich äußerst wichtigen [Galerie](http://www.leiasmetalbikini.com/members/fansincostume_intro.html) auch die Möglichkeit der eigenen Freundin einen Metal-Bikini zu [bestellen](http://www.leiasmetalbikini.com/buy.html). Im Komplettset nur $375. Aber ist ja für nen guten Zweck.

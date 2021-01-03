@@ -16,7 +16,7 @@ tags:
   - spotify
 meta:
   - linked_list_url: "https://www.recode.net/2019/2/1/18207198/spotify-gimlet-podcast-acquisition"
-  - yourls_shorturl: "http://eay.li/38w"
+  - yourls_shorturl: "https://eay.li/38w"
   - content_copy: "https://twitter.com/eay/status/1091697931978264577"
   - content_copy: "https://eay.social/@eay/101522863468436082"
 ---

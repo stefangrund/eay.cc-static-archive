@@ -15,7 +15,7 @@ tags:
   - green-lantern
   - how-to
 meta:
-  - yourls_shorturl: "http://eay.li/ko"
+  - yourls_shorturl: "https://eay.li/ko"
 ---
 
 ![](/uploads/2008/greenlanternring.jpg) Ihr könnt es der grünen Leuchte nun gleich tun und euch euren eigenen [Power Ring](http://en.wikipedia.org/wiki/Power_ring_(weapon)) basteln - ohne dem [Green Lantern Corps.](http://en.wikipedia.org/wiki/Green_Lantern_Corps) beizutreten, ist ja schließlich nur mit Stress verbunden. Wie das geht (inklusive Glow-in-the-dark-Funktion, exklusive Power) [steht hier](http://www.instructables.com/id/How-to-make-a-Green-Lantern-ring--including-a-glow/).

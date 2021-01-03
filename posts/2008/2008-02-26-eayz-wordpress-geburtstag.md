@@ -13,7 +13,7 @@ tags:
   - geburtstag
   - wordpress
 meta:
-  - yourls_shorturl: "http://eay.li/aj"
+  - yourls_shorturl: "https://eay.li/aj"
 ---
 
 Hey, [heute vor einem Jahr](//eay.cc/2007/introducing-v5/) ist eayz zum vollwertigen Wordpress-Blog geworden und wir haben uns vom beliebten Oldschool-Design mit dem [Affen im Stuhl](http://www.flickr.com/photos/eay/13879266/sizes/o/in/set-336620/) verabschiedet. Ach ja...

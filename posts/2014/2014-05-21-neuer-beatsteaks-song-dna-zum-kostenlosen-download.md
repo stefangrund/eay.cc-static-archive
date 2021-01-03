@@ -15,7 +15,7 @@ tags:
   - musik
 meta:
   - linked_list_url: "http://dna.beatsteaks.com/"
-  - yourls_shorturl: "http://eay.li/2fx"
+  - yourls_shorturl: "https://eay.li/2fx"
 ---
 
 Dazu muss deren Newsletter abonniert werden. Mit der Download-Mail kommt aber auch direkt ein Unsubscribe-Link.

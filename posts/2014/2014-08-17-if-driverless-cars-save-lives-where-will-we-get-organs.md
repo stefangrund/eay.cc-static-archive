@@ -17,7 +17,7 @@ tags:
   - zukunft
 meta:
   - linked_list_url: "http://fortune.com/2014/08/15/if-driverless-cars-save-lives-where-will-we-get-organs/"
-  - yourls_shorturl: "http://eay.li/2i2"
+  - yourls_shorturl: "https://eay.li/2i2"
 ---
 
 > A major source of organ donations? Auto collisions. Which means 3D printed organs won´t become a reality until we get self-driving cars, a surprising connection.

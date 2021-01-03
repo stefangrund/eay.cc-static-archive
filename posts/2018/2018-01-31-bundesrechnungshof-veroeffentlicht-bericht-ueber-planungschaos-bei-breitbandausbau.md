@@ -21,7 +21,7 @@ meta:
   - linked_list_url: "https://www.golem.de/news/dobrindt-bundesrechnungshof-stellt-bericht-ueber-breitbandchaos-online-1801-132482.html"
   - linked_list_url: "https://www.golem.de/news/dobrindt-bundesrechnungshof-stellt-bericht-ueber-breitbandchaos-online-1801-132482.html"
   - linked_list_url: "https://www.golem.de/news/dobrindt-bundesrechnungshof-stellt-bericht-ueber-breitbandchaos-online-1801-132482.html"
-  - yourls_shorturl: "http://eay.li/33h"
+  - yourls_shorturl: "https://eay.li/33h"
 ---
 
 > Die Rüge der Kassenprüfer für den früheren Minister für digitale Infrastruktur, Alexander Dobrindt, ist neuerdings schwarz auf weiß nachzulesen: Mitten in den schwarz-roten Koalitionsgesprächen hat der Bundesrechnungshof seine Kritik am Berliner Breitband-Planungschaos publik gemacht.

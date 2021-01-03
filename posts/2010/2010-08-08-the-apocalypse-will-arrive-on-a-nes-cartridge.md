@@ -16,7 +16,7 @@ tags:
   - musik
   - nes
 meta:
-  - yourls_shorturl: "http://eay.li/102"
+  - yourls_shorturl: "https://eay.li/102"
 ---
 
 Famoser Chiptune-Sound absolut großartig betitelt (via [Superlevel](http://www.superlevel.de/audio/the-apocalypse-will-arrive-on-a-nes-cartridge/)):

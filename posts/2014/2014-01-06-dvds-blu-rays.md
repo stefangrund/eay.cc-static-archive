@@ -15,7 +15,7 @@ tags:
   - filmindustrie
   - serien
 meta:
-  - yourls_shorturl: "http://eay.li/2fw"
+  - yourls_shorturl: "https://eay.li/2fw"
 ---
 
 Nachdem das Wochenende für mich mit 39+ Grad Fieber begann, habe ich Samstag und Sonntag mit Schlafen und »Boardwalk Empire« verbracht. Beim Wechsel der DVDs (Staffel 2 = 12 Episoden = 6 DVDs) kam mir dann so die Idee, dass die Produktion vieler DVD-Scheiben mit allem drum und dran eigentlich doch teurer als die Produktion weniger Blu-ray-Discs sein muss:

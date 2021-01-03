@@ -15,7 +15,7 @@ tags:
   - in-eigener-sache
   - kommentare
 meta:
-  - yourls_shorturl: "http://eay.li/1e8"
+  - yourls_shorturl: "https://eay.li/1e8"
 ---
 
 Einige von euch haben es bereits bemerkt: Ich habe die Kommentare deaktiviert. Doch bevor ich auf die Gründe dafür eingehe, direkt die Entwarnung: Entgegen [anders lautender Gerüchte](https://twitter.com/#!/jjbs_cinema/status/155033063800315904) habe ich nicht vor hier ein "Pay to comment"-System einzuführen. Außerdem wird es bei Einträgen, bei denen sich eine Diskussion (oder Bauchpinselei meiner Person) anbietet, weiterhin die Möglichkeit zum kommentieren geben.

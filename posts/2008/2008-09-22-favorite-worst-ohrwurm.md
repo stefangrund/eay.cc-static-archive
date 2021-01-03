@@ -16,7 +16,7 @@ tags:
   - parodie
   - rap
 meta:
-  - yourls_shorturl: "http://eay.li/x0"
+  - yourls_shorturl: "https://eay.li/x0"
 ---
 
 > Women are equal and they deserve respect, Just kidding, they should suck my dick.

@@ -17,7 +17,7 @@ tags:
   - netzkultur
 meta:
   - linked_list_url: "http://stratechery.com/2015/buzzfeed-important-news-organization-world/"
-  - yourls_shorturl: "http://eay.li/2nr"
+  - yourls_shorturl: "https://eay.li/2nr"
 ---
 
 Deswegen: [12 Disney princesses as lukewarm bowls of water](http://www.buzzfeed.com/dannnnnnnnnnnny/your-favorite-disney-princesses-as-lukewarm-bowls-1eatz)

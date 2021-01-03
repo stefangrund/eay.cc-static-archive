@@ -17,7 +17,7 @@ tags:
   - politik
 meta:
   - linked_list_url: "http://heise.de/newsticker/meldung/EU-Kommission-Plaedoyer-fuer-Leistungsschutzrecht-und-Upload-Verguetung-3305200.html"
-  - yourls_shorturl: "http://eay.li/2ux"
+  - yourls_shorturl: "https://eay.li/2ux"
 ---
 
 > Generell seien negative Auswirkungen nur auf "kleinere" Online-Anbieter zu erwarten, heißt es.

@@ -16,7 +16,7 @@ tags:
   - typographie
 meta:
   - linked_list_url: "http://glyphrstudio.com/"
-  - yourls_shorturl: "http://eay.li/2dq"
+  - yourls_shorturl: "https://eay.li/2dq"
 ---
 
 > Font design has a high barrier of entry. Professional font design programs are very complex, and quite expensive. Glyphr is accessible, streamlined, and made for font design hobbyists... and it's free!

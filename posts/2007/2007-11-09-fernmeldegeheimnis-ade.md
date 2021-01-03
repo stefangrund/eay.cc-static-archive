@@ -16,7 +16,7 @@ tags:
   - ueberwachung
   - vorratsdatenspeicherung
 meta:
-  - yourls_shorturl: "http://eay.li/bg"
+  - yourls_shorturl: "https://eay.li/bg"
 ---
 
 [![](/uploads/2007/deranfangvomende.gif)](http://www.vorratsdatenspeicherung.de/content/view/165/1/lang,de/)

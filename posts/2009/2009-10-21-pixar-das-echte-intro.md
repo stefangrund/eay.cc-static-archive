@@ -15,7 +15,7 @@ tags:
   - parodie
   - pixar
 meta:
-  - yourls_shorturl: "http://eay.li/2r"
+  - yourls_shorturl: "https://eay.li/2r"
 ---
 
 Wo es hier ja gerade schon um Pixar ging ([in Form meines "Oben"-Reviews](//eay.cc/2009/review-rundumschlag-4/)): Die Jungs von College Humor haben [wieder](//eay.cc/2009/we-didnt-start-the-flame-war/) zugeschlagen und bringen uns diesmal die Wahrheit hinter dem Pixar-Intro näher. Oder habt ihr euch etwa noch nie gefragt, was mit der Pixar-Lampe passiert, nachdem sie das "i" auf brutalste Art und Weise zerplättet hat? Hier endlich die Antwort:

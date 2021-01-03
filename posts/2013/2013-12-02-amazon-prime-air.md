@@ -19,7 +19,7 @@ tags:
   - zukunft
 meta:
   - linked_list_url: "http://www.amazon.com/l/ref=mh_rd_l?node=8037720011"
-  - yourls_shorturl: "http://eay.li/2a4"
+  - yourls_shorturl: "https://eay.li/2a4"
 ---
 
 Drohnenprogramm von Amazon, um Kunden innerhalb von 30 Minuten zu beliefern. Sie hoffen, dass der Drohneneinsatz in den USA bis 2015 gesetzlich geregelt ist. (via [Super Punch](http://www.superpunch.net/2013/12/amazon-prime-air.html))

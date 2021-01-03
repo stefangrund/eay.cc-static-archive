@@ -15,7 +15,7 @@ tags:
   - retrogames
   - sega
 meta:
-  - yourls_shorturl: "http://eay.li/i2"
+  - yourls_shorturl: "https://eay.li/i2"
 ---
 
 ![](/uploads/2007/sega.jpg)Ich hab's geliebt: Mega Drive an und als erstes ein nettes Sega-Logo passend zum Spiel (zumindest meistens). Dazu der unverwechselbare Jingle und einem wunderbaren Spielerlebnis stand nichts mehr im Weg. [Hier ein Video mit 143 Sega-Logos.](http://www.gametrailers.com/player/usermovies/118329.html?playlist=featured)

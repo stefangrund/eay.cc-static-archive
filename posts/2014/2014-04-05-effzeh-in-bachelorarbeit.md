@@ -17,7 +17,7 @@ tags:
   - personal-api
   - studium
 meta:
-  - yourls_shorturl: "http://eay.li/2fc"
+  - yourls_shorturl: "https://eay.li/2fc"
 ---
 
 ![](https://eay.cc/uploads/2014/bachelorarbeit_effzeh.jpg)

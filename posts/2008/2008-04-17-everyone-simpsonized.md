@@ -16,7 +16,7 @@ tags:
   - heroes
   - simpsons
 meta:
-  - yourls_shorturl: "http://eay.li/7d"
+  - yourls_shorturl: "https://eay.li/7d"
 ---
 
 ![](/uploads/2008/simpsonized.jpg) Nachdem es hier letztens [gelbe X-Men](//eay.cc/2007/springfield-x/) gab, gibt's heute einen Donnie Darko, den Doc und Marty, Hiro, Batman, Robin und deren Schergen, Neo, Kirk und viele mehr [simpsonisiert](http://www.deantfraser.com/SpringfieldPunx.html). ([via](http://www.nerdcore.de/wp/2008/04/15/everyone-simpsonized/))

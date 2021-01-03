@@ -12,7 +12,7 @@ tags:
   - netzkultur
   - typographie
 meta:
-  - yourls_shorturl: "http://eay.li/fw"
+  - yourls_shorturl: "https://eay.li/fw"
 ---
 
 ![](https://eay.cc/uploads/2010/yourtype.jpg) (aus der [Wickedpaedia](http://wickedpaedia.com/) via [Albotas](http://albotas.com/2010/03/typography-humor/); **Update:** oh, [hatten wir schon](//eay.cc/2009/artikel-uber-den-designer-von-comic-sans/)... Ich werd alt.)

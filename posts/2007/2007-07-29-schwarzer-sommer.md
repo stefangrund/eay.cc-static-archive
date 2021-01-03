@@ -17,7 +17,7 @@ tags:
   - usa
   - warren-ellis
 meta:
-  - yourls_shorturl: "http://eay.li/xz"
+  - yourls_shorturl: "https://eay.li/xz"
 ---
 
 ![](/uploads/2007/blacksummer.jpg)"Ten minutes ago, I executed the president of the United States. And the vice president. And several of their advisors." So fängt das neue Comic-Meisterwerk [Black Summer](http://www.blacksummer.net/) von Autor [Warren Ellis](http://en.wikipedia.org/wiki/Warren_Ellis) und Zeichner [Juan Jose Ryp](http://www.avatarpress.com/gallery/juanjo/index.html) an: Superheld John Horus tötet den amerikanischen Präsidenten. Einst hat Horus geschworen korrupte Polizisten und Verbrecher zu jagen, nun sieht er in der US-Regierung mit ihrem ungerechtfertigten Irak-Krieg die größte Bedrohung für das amerikanische Volk. Klar, dass die Behörden nun auch die ehemaligen Mitstreiter des Mörders suchen, in denen sie nun ein ähnliches Gefahrenpotential sehen.

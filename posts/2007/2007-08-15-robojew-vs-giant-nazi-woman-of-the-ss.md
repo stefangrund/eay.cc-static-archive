@@ -14,7 +14,7 @@ tags:
   - kurzfilm
   - roboter
 meta:
-  - yourls_shorturl: "http://eay.li/wn"
+  - yourls_shorturl: "https://eay.li/wn"
 ---
 
 Für alle Freunde von Robotern und riesigen Frauen (und ich weiss, dass das ein oder andere auf jeden Leser dieser Webseite zutrifft): [Robojew vs. Giant Nazi Woman of the SS](http://www.galacticast.com/2007/08/14/robojew-vs-giant-nazi-woman-of-the-ss/), ein Kurzfilm über den ultimativsten aller Kämpfe. Nach dem Klick das Video.

@@ -16,7 +16,7 @@ tags:
   - webdesign
 meta:
   - linked_list_url: "http://mattgemmell.com/designing-blogs-for-readers/"
-  - yourls_shorturl: "http://eay.li/2wz"
+  - yourls_shorturl: "https://eay.li/2wz"
 ---
 
 Als ich heute in meinem Pinboard-Archiv stöberte, bin ich auf diesen vier Jahre alten Artikel von Matt Gemmell gestoßen, in dem er erklärt, welche Features moderne (as in 2013) Blogs brauchen und auf welche man getrost verzichten kann.

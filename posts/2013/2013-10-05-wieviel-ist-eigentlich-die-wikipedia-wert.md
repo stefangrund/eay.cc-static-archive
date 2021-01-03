@@ -14,7 +14,7 @@ tags:
   - wikipedia
 meta:
   - linked_list_url: "https://netzpolitik.org/2013/wert-der-wikipedia-zwischen-36-und-80-milliarden-dollar/"
-  - yourls_shorturl: "http://eay.li/27x"
+  - yourls_shorturl: "https://eay.li/27x"
 ---
 
 So zwischen 3,6 und 80 Milliarden Dollar, je nach Studie.

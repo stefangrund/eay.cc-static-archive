@@ -14,7 +14,7 @@ tags:
   - neill-blomkamp
   - science-fiction
 meta:
-  - yourls_shorturl: "http://eay.li/1we"
+  - yourls_shorturl: "https://eay.li/1we"
   - linked_list_url: "http://www.slashfilm.com/neill-blomkamp-scifi-comedy/"
 ---
 

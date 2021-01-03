@@ -16,7 +16,7 @@ tags:
   - robot-chicken
   - star-wars
 meta:
-  - yourls_shorturl: "http://eay.li/13p"
+  - yourls_shorturl: "https://eay.li/13p"
 ---
 
 ![](https://eay.cc/uploads/2010/robotchickenstarwars3.jpg)

@@ -13,7 +13,7 @@ tags:
   - fernsehen
   - schlager
 meta:
-  - yourls_shorturl: "http://eay.li/nb"
+  - yourls_shorturl: "https://eay.li/nb"
 ---
 
 Aus aktuellem Anlass unterbrechen wir unseren High-Quality-Blogcontent für folgende Autogrammkarte des ersten (und einzig wahren) Dschungelkönigs [Costa Cordalis](http://de.wikipedia.org/wiki/Costa_Cordalis):

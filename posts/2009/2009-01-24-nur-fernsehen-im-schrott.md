@@ -13,7 +13,7 @@ tags:
   - mull
   - umzug
 meta:
-  - yourls_shorturl: "http://eay.li/uh"
+  - yourls_shorturl: "https://eay.li/uh"
 ---
 
 ![](https://eay.cc/uploads/2009/elektroschrott.jpg) Zwar [schon getwitpict](http://twitpic.com/16o1t), aber weil's so schön war und falls ihr euch gefragt habt, wie euer Lieblingsblogger seinen Samstag verbringt: Ich habe heute unseren [legendären Partykeller](http://eay.cc/blog/2006/07/the_legendary_e.shtml) zur Elektroschrottdeponie oder vielmehr zum Fernsehfriedhof umfunktioniert. Anstrengend, aber ich näher mich der Vollendung des Umzugs.

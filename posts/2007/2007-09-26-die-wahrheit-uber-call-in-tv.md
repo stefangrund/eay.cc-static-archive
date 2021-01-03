@@ -10,7 +10,7 @@ format: "post"
 tags:
   - fernsehen
 meta:
-  - yourls_shorturl: "http://eay.li/ds"
+  - yourls_shorturl: "https://eay.li/ds"
 ---
 
 Dass diese ganzen Call-In-TV-Formate zum kotzen sind, haben wir schon immer geahnt. Die Moderatorin [im folgenden Video](//eay.cc/2007/die-wahrheit-uber-call-in-tv/) unterstreicht diese Meinung sogar und lässt Taten folgen. Großes Kino ... nur nicht gerade zur Mittagszeit. (via [corefault](http://www.corefault.de/index.php?id=327))

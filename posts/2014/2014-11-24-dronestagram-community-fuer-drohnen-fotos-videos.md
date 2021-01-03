@@ -17,7 +17,7 @@ tags:
   - ueberwachung
 meta:
   - linked_list_url: "http://www.dronestagr.am/"
-  - yourls_shorturl: "http://eay.li/2kv"
+  - yourls_shorturl: "https://eay.li/2kv"
 ---
 
 Instagram für Bilder, die mit Drohnen aufgenommen wurden. Eigentlich war das zu erwarten. Hier z.B. [die aus Deutschland](http://www.dronestagr.am/tag/germany/) (bisher leider nur [eins aus Köln](http://www.dronestagr.am/cologne-germany/)).

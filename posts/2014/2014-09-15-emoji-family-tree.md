@@ -15,7 +15,7 @@ tags:
   - smilies
 meta:
   - linked_list_url: "http://www.emoji.codes/family"
-  - yourls_shorturl: "http://eay.li/2j4"
+  - yourls_shorturl: "https://eay.li/2j4"
 ---
 
 Brought to you by the guys who made [Emoji One](http://www.emojione.com/), "a carefully engineered first-of-its-kind set of emoji designed specifically for the web".

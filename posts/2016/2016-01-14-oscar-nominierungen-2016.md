@@ -16,7 +16,7 @@ tags:
 meta:
   - linked_list_url: "http://www.moviepilot.de/news/oscar-2016-die-nominierungen-sind-da-164550"
   - linked_list_url: "http://www.moviepilot.de/news/oscar-2016-die-nominierungen-sind-da-164550"
-  - yourls_shorturl: "http://eay.li/2rm"
+  - yourls_shorturl: "https://eay.li/2rm"
 ---
 
 > The Revenant (12), Mad Max: Fury Road (10) und Der Marsianer (7) können sich derweil über die meisten Nominierungen freuen.

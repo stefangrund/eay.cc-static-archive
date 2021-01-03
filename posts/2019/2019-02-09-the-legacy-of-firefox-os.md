@@ -16,7 +16,7 @@ tags:
   - technologie
 meta:
   - linked_list_url: "https://medium.com/@bfrancis/the-legacy-of-firefox-os-c58ec32d94f0"
-  - yourls_shorturl: "http://eay.li/391"
+  - yourls_shorturl: "https://eay.li/391"
 ---
 
 [Ben Francis](http://tola.me.uk/), seineszeichens Mitarbeiter bei Mozilla und dort mit deren IoT\-Bemühungen beschäftigt, blickt drei Jahre nachdem sie "Firefox OS" eingestellt haben, darauf, wie sich das Open-Source-Betriebssystem weiterentwickelt hat.

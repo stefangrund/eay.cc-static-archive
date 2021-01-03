@@ -13,7 +13,7 @@ tags:
   - iphone
   - konsum
 meta:
-  - yourls_shorturl: "http://eay.li/17w"
+  - yourls_shorturl: "https://eay.li/17w"
 ---
 
 [![](https://eay.cc/uploads/2011/slidetounlock.jpg)](http://www.getdigital.de/products/fussmatte_slide_to_unlock) Für 20 Euronen [bei getDigital](http://www.getdigital.de/products/fussmatte_slide_to_unlock) zu erstehen. (via [Laughing Squid](http://laughingsquid.com/slide-to-unlock-doormat/))

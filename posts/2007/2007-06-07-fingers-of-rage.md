@@ -16,7 +16,7 @@ tags:
   - sega
   - wii
 meta:
-  - yourls_shorturl: "http://eay.li/e"
+  - yourls_shorturl: "https://eay.li/e"
 ---
 
 Woah, mein Steuerkreuzdaumen schmerzt - trotz etlicher Fifa-Sessions. Warum? Habe mich heute mal wieder [in des Wiis](http://eay.cc/blog/2006/12/nintendo_wii_ro.shtml) Virtual Console umgesehen und [Streets of Rage](http://en.wikipedia.org/wiki/Streets_of_Rage) entdeckt. Ah, da kommen Urlaubs-/Spielautomaten-/Kindheits-Erinnerungen hoch. Direkt gekauft und vier Stunden gespielt. Mit allen Charakteren. Bevor ich zu Mr. X reinkomme, scheitere ich derzeit leider immer am zweiten Auftritt von Onihime & Yasha. Dieser Notstand wird gleich beseitigt. Der 10 jährige Eay hat's ja schließlich auch geschaft, damals.

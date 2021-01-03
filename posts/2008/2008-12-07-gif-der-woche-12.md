@@ -14,7 +14,7 @@ tags:
   - star-trek
   - star-wars
 meta:
-  - yourls_shorturl: "http://eay.li/s6"
+  - yourls_shorturl: "https://eay.li/s6"
 ---
 
 ![](/uploads/2008/picardvader.gif) Vader unterliegt Picard. Der Wunschtraum aller Trekkies.

@@ -14,7 +14,7 @@ tags:
   - microsoft
   - werbung
 meta:
-  - yourls_shorturl: "http://eay.li/20m"
+  - yourls_shorturl: "https://eay.li/20m"
   - linked_list_url: "http://www.youtube.com/watch?v=lD9FAOPBiDk"
 ---
 

@@ -14,7 +14,7 @@ tags:
   - infografik
 meta:
   - linked_list_url: "http://animagraffs.com/"
-  - yourls_shorturl: "http://eay.li/2lw"
+  - yourls_shorturl: "https://eay.li/2lw"
 ---
 
 [Jacob O'Neal](http://jacoboneal.com/) veröffentlicht auf Animagraffs jeden Monate eine toll gemachte, animierte Infografik. Darin erklärt er z.B. [wie Lautsprecher funktionieren](http://animagraffs.com/loudspeaker/):

@@ -13,7 +13,7 @@ tags:
   - netzkultur
   - pornographie
 meta:
-  - yourls_shorturl: "http://eay.li/1yq"
+  - yourls_shorturl: "https://eay.li/1yq"
   - linked_list_url: "http://www.welt.de/politik/deutschland/article109255611/Das-Porno-Imperium-Ein-Deutscher-erregt-die-Welt.html"
 ---
 

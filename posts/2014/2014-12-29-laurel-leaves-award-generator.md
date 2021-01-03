@@ -14,7 +14,7 @@ tags:
   - tool
 meta:
   - linked_list_url: "http://www.laurelleavesawardmaker.com/"
-  - yourls_shorturl: "http://eay.li/2lx"
+  - yourls_shorturl: "https://eay.li/2lx"
 ---
 
 Hierauf bin ich gestoßen, als ich shortfil.ms mit [einem eigenen Lorbeerkranz](http://shortfil.ms/blog/laurel-leaves-award) ausgestattet habe. Sicherlich speichernswert, sollte man irgendwann mal irgendwomit Filmfestivals rocken.

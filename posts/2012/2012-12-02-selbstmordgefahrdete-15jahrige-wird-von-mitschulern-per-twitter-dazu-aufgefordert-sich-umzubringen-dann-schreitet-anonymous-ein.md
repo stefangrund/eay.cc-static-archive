@@ -18,7 +18,7 @@ tags:
   - social-media
   - twitter
 meta:
-  - yourls_shorturl: "http://eay.li/20n"
+  - yourls_shorturl: "https://eay.li/20n"
   - linked_list_url: "http://storify.com/dailydot/anonymous-vs-suicide-trolls-of-teen-victim"
 ---
 

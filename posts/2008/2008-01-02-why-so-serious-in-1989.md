@@ -15,7 +15,7 @@ tags:
   - the-dark-knight
   - trailer
 meta:
-  - yourls_shorturl: "http://eay.li/qy"
+  - yourls_shorturl: "https://eay.li/qy"
 ---
 
 Da hat sich doch jemand die Mühe gemacht einen _alternativen_ Trailer für [The Dark Knight](http://www.imdb.com/title/tt0468569/) zusammenzuschnibbeln. Und zwar aus Szenen aus Tim Burtons [Batman](http://www.amazon.de/exec/obidos/ASIN/B000B006GW/eayznet-21) von 1989 und der Tonspur des echten [Dark Knight-Trailers](http://www.atasteforthetheatrical.com/deathtrap/default.htm) von 2007. Heiliger Bat-Scheiß, ist das cool oder was?! Klicken und ansehen. ([via](http://www.fuenf-filmfreunde.de/2008/01/02/the-dark-knight-19661989/))

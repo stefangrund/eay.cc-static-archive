@@ -16,7 +16,7 @@ tags:
   - serien
   - werbung
 meta:
-  - yourls_shorturl: "http://eay.li/1h7"
+  - yourls_shorturl: "https://eay.li/1h7"
 ---
 
 ![](https://eay.cc/uploads/2012/legoimagine.jpg) Großartige Werbekampagne der deutschen Werbeagentur [Jung von Matt](http://www.jvm.com/) für Lego, bei der sie verschiedene Serienhelden (die Simpsons, Cartman & Co., Ernie & Bert, die Schlümpfe oder, siehe oben, die Turtles) mit einfachen Legosteinchen nachgebaut haben. Die restlichen Motive gibt's [bei Laughing Squid](http://laughingsquid.com/lego-tv-show-characters/).

@@ -15,7 +15,7 @@ tags:
   - konsum
 meta:
   - linked_list_url: "http://www.der-postillon.com/2017/04/gebuehren-auf-geldabheben.html"
-  - yourls_shorturl: "http://eay.li/2xf"
+  - yourls_shorturl: "https://eay.li/2xf"
 ---
 
 Zwar eine Postillon-Meldung, aber trifft die Sache ja auf den Punkt. Aus eben diesem Grund habe ich schon kein Verständnis für Kontoführungsgebühren, aber dass jetzt zudem noch das gebührenfreie Geldabheben gestrichen wird, ist echt die Spitze des überholten Eisbergs.

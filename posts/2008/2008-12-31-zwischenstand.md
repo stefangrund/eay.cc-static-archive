@@ -13,7 +13,7 @@ tags:
   - netzkultur
   - seo-battle
 meta:
-  - yourls_shorturl: "http://eay.li/vq"
+  - yourls_shorturl: "https://eay.li/vq"
 ---
 
 Im Oktober haben sich @[Asphar](http://twitter.com/Asphar) und meine Wenigkeit ja bekanntlich in [den Kampf der Kämpfe](//eay.cc/2008/der-kampf-der-kampfe/) gestürzt. Es ging darum, die eigene Wortneuschöpfung populärer als die des Konkurrenten zu machen. Um den Sieger zu ermitteln, einigten wir uns auf den großen Bruder Google und setzen einen exzessfreundlichen Stichtag fest: Derjenige, dessen Wort bis zum 2. Jaunar 2009 öfter bei Google auftaucht, erhält vom jämmerlichen Verlierer einen schmackhaften Kasten Bier und darüber hinaus natürlich Ruhm & Ehre en masse.

@@ -14,7 +14,7 @@ tags:
   - gif-der-woche
   - roboter
 meta:
-  - yourls_shorturl: "http://eay.li/3"
+  - yourls_shorturl: "https://eay.li/3"
 ---
 
 ![](https://eay.cc/uploads/2010/robohand.gif) Eiskaltes Händchen... (via [ffffound](http://ffffound.com/image/c6eab84bbc1a40fa94796dd9f8f0a77eca23139f?c=4731788))

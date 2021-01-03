@@ -15,7 +15,7 @@ tags:
   - ueberwachung
   - verschluesselung
 meta:
-  - yourls_shorturl: "http://eay.li/2io"
+  - yourls_shorturl: "https://eay.li/2io"
 ---
 
 Ihr könnt mir jetzt übrigens PGP-verschlüsselte Emails schicken. Meinen Public Key findet ihr [hier](https://keybase.io/eay/key.asc) bei [Keybase](https://keybase.io/eay). Meine Email-Adresse steht [hier](http://stefangrund.de/). Go for it!

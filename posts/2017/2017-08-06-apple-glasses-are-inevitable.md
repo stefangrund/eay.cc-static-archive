@@ -32,7 +32,7 @@ meta:
   - linked_list_url: "https://www.aboveavalon.com/notes/2017/7/27/apple-glasses-are-inevitable"
   - linked_list_url: "https://www.aboveavalon.com/notes/2017/7/27/apple-glasses-are-inevitable"
   - linked_list_url: "https://www.aboveavalon.com/notes/2017/7/27/apple-glasses-are-inevitable"
-  - yourls_shorturl: "http://eay.li/30o"
+  - yourls_shorturl: "https://eay.li/30o"
 ---
 
 [Neil Cybart](https://twitter.com/neilcybart), einer der treffsichersten, lesens- und [hörenswertesten](https://www.aboveavalon.com/talkaboveavalon/) ((Dem verlinkten Artikel hat er auch [eine Podcast-Episode](https://www.aboveavalon.com/podcast/2017/7/28/above-avalon-episode-103-apple-glasses-are-inevitable) gewidmet.)) Apple-Analysten, argumentiert nun, dass "Apple Glasses" unausweichlich sind und früher oder später ihren Weg auf unsere Nasen finden. Hauptindiz dafür seien Apples erfolgreicher Einstieg in den Wearables-Markt (Apple Watch, [AirPods](https://eay.cc/2017/airpods-fazit-nach-drei-wochen/)) und natürlich die beeindruckenden Augmented Reality-Features von [ARKit](https://eay.cc/2017/made-with-arkit/), die mit iOS 11 alsbald auf Millionen iOS-Devices kommen. Nur beim Wann ist er sich noch nicht sicher:

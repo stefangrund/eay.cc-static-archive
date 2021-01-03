@@ -15,7 +15,7 @@ tags:
   - rogue-one
   - star-wars
 meta:
-  - yourls_shorturl: "http://eay.li/2xh"
+  - yourls_shorturl: "https://eay.li/2xh"
 ---
 
 In [/r/fixingmovies](https://reddit.com/r/fixingmovies/) wird gerade mal wieder der Optimierungsbedarf von Rogue One diskutiert. Nutzer Beartown9000 hat dabei [ein alternatives Ende beschrieben](https://reddit.com/r/fixingmovies/comments/62wlug/fixing_rogue_one_a_star_wars_story/dfq17wz/), auf das sein Bruder gekommen ist und das in der Tat sehr viel tiefsinniger und besser für die ganze Saga gewesen wäre (obwohl ich so ja auch schon [sehr zufrieden war](https://eay.cc/2016/rogue-one-a-star-wars-story/)):

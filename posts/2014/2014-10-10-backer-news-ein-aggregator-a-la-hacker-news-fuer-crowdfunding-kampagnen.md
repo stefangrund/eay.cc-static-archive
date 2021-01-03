@@ -16,7 +16,7 @@ tags:
   - webservice
 meta:
   - linked_list_url: "http://backernews.com/"
-  - yourls_shorturl: "http://eay.li/2jm"
+  - yourls_shorturl: "https://eay.li/2jm"
 ---
 
 Schöne Übersicht über interessante Projekte bei Kickstarter, Indiegogo & Co.

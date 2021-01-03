@@ -16,7 +16,7 @@ tags:
   - your-favorite-twitter-account-for-the-next-5-minutes
 meta:
   - linked_list_url: "https://twitter.com/EmojiMashupBot"
-  - yourls_shorturl: "http://eay.li/3au"
+  - yourls_shorturl: "https://eay.li/3au"
   - geo_latitude: "50.973894204112"
   - geo_longitude: "6.6830745514739"
   - geo_public: "1"

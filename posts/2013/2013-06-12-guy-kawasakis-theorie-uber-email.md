@@ -12,7 +12,7 @@ categories:
 tags:
   - email
 meta:
-  - yourls_shorturl: "http://eay.li/23q"
+  - yourls_shorturl: "https://eay.li/23q"
 ---
 
 > I have a theory about email: you can delete anything 21 days and older, and it won't matter. I often do this for peace of mind. The assumption is that if the email were important enough, the person will follow up. I figured this out when I've lost my entire inbox and noticed that no one complained about not getting a response.

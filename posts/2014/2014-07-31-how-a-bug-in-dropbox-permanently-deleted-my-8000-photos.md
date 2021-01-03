@@ -16,7 +16,7 @@ tags:
   - sicherheit
 meta:
   - linked_list_url: "https://medium.com/@jan.curn/cb7dcf13647b"
-  - yourls_shorturl: "http://eay.li/2hv"
+  - yourls_shorturl: "https://eay.li/2hv"
 ---
 
 Und die Moral von Geschicht': Wer nicht mehrfach backupt, backupt nicht.

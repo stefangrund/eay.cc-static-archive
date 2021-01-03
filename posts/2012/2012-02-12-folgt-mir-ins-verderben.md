@@ -12,7 +12,7 @@ categories:
 tags:
   - twitter
 meta:
-  - yourls_shorturl: "http://eay.li/1fv"
+  - yourls_shorturl: "https://eay.li/1fv"
 ---
 
 [Follow @Eay](https://twitter.com/Eay) 

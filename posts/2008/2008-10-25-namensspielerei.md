@@ -16,7 +16,7 @@ tags:
   - nonsens
   - webservice
 meta:
-  - yourls_shorturl: "http://eay.li/ge"
+  - yourls_shorturl: "https://eay.li/ge"
 ---
 
 ![](/uploads/2008/namepic1.gif "from turnyournameintoaface.com") ![](/uploads/2008/namepic2.gif "from turnyournameintoaface.com") Auf der Webseite [turnyournameintoaface.com](http://turnyournameintoaface.com/) kann man - Überraschung! - seinen Namen als Gesicht darstellen lassen. Auch wenn sich Sinn und Zweck nicht unmittelbar erkennen lassen, so zeigt diese Spielerei doch, dass Stefan (Bild 1) irgendwie cooler ist als der affengleiche Eay (Bild 2). Wobei sich der Kreis ja auch [irgendwie](http://www.flickr.com/photos/eay/13879266/in/set-336620/) wieder schließt.

@@ -14,7 +14,7 @@ tags:
   - sex
   - star-wars
 meta:
-  - yourls_shorturl: "http://eay.li/gg"
+  - yourls_shorturl: "https://eay.li/gg"
 ---
 
 ![](/uploads/2008/stormtrooper.gif) Jetzt jede Woche neu: das [.gif der Woche](//eay.cc/tag/gif-der-woche/)!

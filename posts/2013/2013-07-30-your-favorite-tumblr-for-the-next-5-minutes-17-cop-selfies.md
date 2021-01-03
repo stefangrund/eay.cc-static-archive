@@ -13,7 +13,7 @@ tags:
   - polizei
   - your-favorite-tumblr-for-the-next-5-minutes
 meta:
-  - yourls_shorturl: "http://eay.li/25r"
+  - yourls_shorturl: "https://eay.li/25r"
 ---
 
 ![](https://eay.cc/uploads/2013/copselfies.jpg) [Cop Selfies](http://copselfies.tumblr.com/) - weil auch Polizisten Selbstportraits von sich machen. (via [Nerdcore](http://www.crackajack.de/2013/07/30/cop-selfies/))

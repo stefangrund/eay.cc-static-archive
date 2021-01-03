@@ -16,7 +16,7 @@ tags:
   - twitter
 meta:
   - linked_list_url: "http://www.theverge.com/2017/3/23/15043422/twitter-subscription-service-tweetdeck-survey"
-  - yourls_shorturl: "http://eay.li/2xc"
+  - yourls_shorturl: "https://eay.li/2xc"
 ---
 
 Ungefähr acht Jahre zu spät liebäugelt Twitter mit der Einführung von bezahlten Pro-Accounts. Mehrwert: eine "more enhanced version of Tweetdeck", die Journalisten und Konsorten mehr Statistiken bereitstellen soll. Mit anderen Worten: eher uninteressant.

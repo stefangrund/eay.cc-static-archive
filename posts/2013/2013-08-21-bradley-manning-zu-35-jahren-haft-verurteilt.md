@@ -15,7 +15,7 @@ tags:
   - wikileaks
 meta:
   - linked_list_url: "https://netzpolitik.org/2013/bradley-manning-zu-35-jahren-haftstrafe-verurteilt/"
-  - yourls_shorturl: "http://eay.li/26i"
+  - yourls_shorturl: "https://eay.li/26i"
 ---
 
 

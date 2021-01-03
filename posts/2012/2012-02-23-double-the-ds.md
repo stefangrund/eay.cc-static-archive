@@ -14,7 +14,7 @@ tags:
   - piranha
   - poster
 meta:
-  - yourls_shorturl: "http://eay.li/1g4"
+  - yourls_shorturl: "https://eay.li/1g4"
 ---
 
 Dass ich damals von Alexandre Ajas »Piranha 3D« überaus angetan war, [wisst ihr ja](//eay.cc/2011/review-rundumschlag-12/). Ebenso dass ich und Bloggerkollege [Oscarnachthomie MoD](http://konjunktivleben.wordpress.com/) auf ein Sequel hofften und zumindest ich den dann angekündigten Titel »Piranha 3DD« zwar für einen postpubertären Teeniespaß, aber einen gelungenen hielt.

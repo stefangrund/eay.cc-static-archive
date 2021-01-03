@@ -19,7 +19,7 @@ meta:
   - linked_list_url: "https://netzpolitik.org/2015/verdacht-des-landesverrats-generalbundesanwalt-ermittelt-doch-auch-gegen-uns-nicht-nur-unsere-quellen/"
   - linked_list_url: "https://netzpolitik.org/2015/verdacht-des-landesverrats-generalbundesanwalt-ermittelt-doch-auch-gegen-uns-nicht-nur-unsere-quellen/"
   - linked_list_url: "https://netzpolitik.org/2015/verdacht-des-landesverrats-generalbundesanwalt-ermittelt-doch-auch-gegen-uns-nicht-nur-unsere-quellen/"
-  - yourls_shorturl: "http://eay.li/2pd"
+  - yourls_shorturl: "https://eay.li/2pd"
 ---
 
 > Wenn es nach Verfassungsschutz-Chef Maaßen und Generalbundesanwalt Range geht, sitzen Markus \[Beckedahl\] und ich \[Andre Meister\] bald zwei Jahre lang im Gefängnis. Heute wurden wir offiziell über Ermittlungen gegen uns und Unbekannt informiert. Der Vorwurf: Landesverrat.

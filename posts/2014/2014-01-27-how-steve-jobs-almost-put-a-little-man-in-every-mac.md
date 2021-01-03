@@ -15,7 +15,7 @@ tags:
   - steve-jobs
 meta:
   - linked_list_url: "http://m.fastcodesign.com/3025477/how-steve-jobs-almost-put-a-little-man-in-every-mac"
-  - yourls_shorturl: "http://eay.li/2ch"
+  - yourls_shorturl: "https://eay.li/2ch"
 ---
 
 Die Anekdote von Mr. Macintosh. Habe ich vorher tatsächlich noch nie gehört. (via [@PlayStarRocker](https://twitter.com/PlayStarRocker/status/427433089644515329))

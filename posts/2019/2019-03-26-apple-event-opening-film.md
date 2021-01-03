@@ -13,7 +13,7 @@ tags:
   - apple
   - werbung
 meta:
-  - yourls_shorturl: "http://eay.li/39u"
+  - yourls_shorturl: "https://eay.li/39u"
 ---
 
 Apple hat gestern neben einem später im Jahr erscheinenden Games-Abomodell (Arcade) und einem später im Jahr erscheinenden Streaming-Service (tv+) zwar für die obligatorischen Schweißausbrüche in [anderen](https://twitter.com/eay/status/1110227012835307521) [Branchen](https://twitter.com/eay/status/1110232906809655296) gesorgt, diesseits vom Atlantik ist das aber erstmal alles nicht so relevant. Dementsprechend "meh" und [strange](https://media3.giphy.com/media/jUKldPpZHZClbMwA7R/giphy.gif) war die Veranstaltung.

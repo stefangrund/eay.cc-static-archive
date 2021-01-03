@@ -16,7 +16,7 @@ tags:
   - kindle
 meta:
   - linked_list_url: "http://www.amazon.com/gp/feature.html/?docId=1001373341"
-  - yourls_shorturl: "http://eay.li/26w"
+  - yourls_shorturl: "https://eay.li/26w"
 ---
 
 Nach dem begrüßenswerten AutoRip-Feature, bei dem man zu seinen CD-Käufen bei Amazon (auch rückwirkend) die MP3s bekommt, bietet Amazon in den USA nun einen ähnlichen Dienst für Bücher an: Wer Papierbücher bei Amazon kauft, bekommt kostenlos oder für maximal 2,99 Dollar zusätzlich das entsprechende eBook dazu (auch rückwirkend).

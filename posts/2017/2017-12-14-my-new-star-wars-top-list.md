@@ -16,7 +16,7 @@ tags:
   - star-wars
   - toplist
 meta:
-  - yourls_shorturl: "http://eay.li/32r"
+  - yourls_shorturl: "https://eay.li/32r"
   - content_copy: "https://twitter.com/eay/status/941429971175837699"
 ---
 

@@ -15,7 +15,7 @@ tags:
   - neil-gaiman
   - schreiben
 meta:
-  - yourls_shorturl: "http://eay.li/2ga"
+  - yourls_shorturl: "https://eay.li/2ga"
 ---
 
 > This is how you do it: you sit down at the keyboard and you put one word after another until its done. It's that easy, and that hard.

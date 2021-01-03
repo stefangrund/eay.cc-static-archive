@@ -14,7 +14,7 @@ tags:
   - star-wars
 meta:
   - linked_list_url: "https://www.hollywoodreporter.com/heat-vision/star-wars-boba-fett-movie-is-happening-james-mangold-direct-1113273"
-  - yourls_shorturl: "http://eay.li/35f"
+  - yourls_shorturl: "https://eay.li/35f"
 ---
 
 Regisseur wird [James Mangold](https://en.wikipedia.org/wiki/James_Mangold) of »Logan« fame, der zusammen mit [Simon Kinberg](https://en.wikipedia.org/wiki/Simon_Kinberg) (u.a. Produzent von »Chappie« und »The Martian«, Autor diverser »X-Men« und dem unterirdischen 2015er »Fantastic Four«) bereits am Skript arbeitet.

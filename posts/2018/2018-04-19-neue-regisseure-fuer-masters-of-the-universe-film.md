@@ -14,7 +14,7 @@ tags:
   - motu
 meta:
   - linked_list_url: "http://variety.com/2018/film/news/he-man-movie-director-masters-of-the-universe-1202763492/"
-  - yourls_shorturl: "http://eay.li/34v"
+  - yourls_shorturl: "https://eay.li/34v"
   - content_copy: "https://twitter.com/eay/status/987065940037767169"
 ---
 

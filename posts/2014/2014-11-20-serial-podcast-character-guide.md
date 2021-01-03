@@ -15,7 +15,7 @@ tags:
   - serial
 meta:
   - linked_list_url: "http://www.vox.com/a/serial-podcast-character-guide"
-  - yourls_shorturl: "http://eay.li/2lq"
+  - yourls_shorturl: "https://eay.li/2lq"
 ---
 
 Wer wie ich und der Rest des Internet den [Serial Podcast](http://serialpodcast.org/) von Sarah Koenig verfolgt, in dem ein 1999 geschehener, nicht-fiktionaler Mordfall aufgerollt wird, der wird diese Übersicht zu schätzen wissen, in der jede Episode nach den dort auftauchenden Personen unterteilt wird.

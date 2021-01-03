@@ -15,7 +15,7 @@ tags:
   - oscars
   - wetten
 meta:
-  - yourls_shorturl: "http://eay.li/1t2"
+  - yourls_shorturl: "https://eay.li/1t2"
 ---
 
 ![](https://eay.cc/uploads/2010/oscar.jpg)In wenigen Stunden ist es soweit, die Academy of Motion Picture Arts and Sciences verleiht [zum 85. Mal die Annual Academy Awards](http://en.wikipedia.org/wiki/85th_Academy_Awards). Und wie schon in den [letzten](//eay.cc/2010/oscar-prognose-2010/) [drei](//eay.cc/2011/oscar-prognose-2011/) [Jahren](//eay.cc/2012/oscar-prognose-2012/) versuche ich mich wieder an einer Prognose und werde die Nacht gebannt vor dem Fernseher verbringen. Dieses Jahr leider jedoch ohne meinen geschätzten Oscar-Nacht-Kumpanen [Sebastian](http://twitter.com/mod85) und zwei, drei siebenunddreißig Bier, da ich morgen früh relativ fit sein muss, um die Lieferung unserer neuen Couch entgegen zu nehmen. ((Ja, es ist tragisch: Im Dolby Theatre zelebrieren die Reichen und Schönen heute diejenigen von ihnen, die gerade den Höhepunkt ihrer Karriere erreichen und ich sitze allein und nüchtern vorm heimischen Fernsehgerät, um morgen die Lieferung einer Couch auf die Reihe zu bekommen...))

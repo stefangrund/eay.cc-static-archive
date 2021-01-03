@@ -16,7 +16,7 @@ tags:
   - mashup
   - your-favorite-tumblr-for-the-next-5-minutes
 meta:
-  - yourls_shorturl: "http://eay.li/36e"
+  - yourls_shorturl: "https://eay.li/36e"
   - content_copy: "https://mastodon.social/@eay/100552899625214584"
   - content_copy: "https://twitter.com/eay/status/1029619711686922240"
 ---

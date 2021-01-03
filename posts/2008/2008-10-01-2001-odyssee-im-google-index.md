@@ -14,7 +14,7 @@ tags:
   - netzkultur
   - retro
 meta:
-  - yourls_shorturl: "http://eay.li/3z"
+  - yourls_shorturl: "https://eay.li/3z"
 ---
 
 [![](/uploads/2008/google2001.gif)](http://www.google.com/search2001.html)

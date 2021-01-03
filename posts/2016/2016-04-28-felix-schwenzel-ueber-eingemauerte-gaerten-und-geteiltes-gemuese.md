@@ -16,7 +16,7 @@ tags:
   - netzkultur
 meta:
   - linked_list_url: "http://wirres.net/article/articleview/9741/1/6/"
-  - yourls_shorturl: "http://eay.li/2sr"
+  - yourls_shorturl: "https://eay.li/2sr"
 ---
 
 > wir sollten unser gemüse vor allem in unseren gärten anpflanzen, die kulturtechniken des gartenbaus weiter pflegen — ohne unsere gärten selbst zuzumauern. aber warum sollten wir unser selbst angebautes gemüse nicht auch auf dem grossmarkt anbieten, wenn dort die meisten interessenten sind? wenn es süsse trauben nur auf dem grossmarkt und nicht in den nachbargärten gibt, warum darauf verzichten?

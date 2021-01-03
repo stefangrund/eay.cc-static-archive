@@ -14,7 +14,7 @@ tags:
   - fanart
   - futurama
 meta:
-  - yourls_shorturl: "http://eay.li/2hj"
+  - yourls_shorturl: "https://eay.li/2hj"
 ---
 
 \[vimeo id="100785455"\]

@@ -16,7 +16,7 @@ tags:
   - the-pacific
   - trailer
 meta:
-  - yourls_shorturl: "http://eay.li/hf"
+  - yourls_shorturl: "https://eay.li/hf"
 ---
 
 Dass ich vor einigen Wochen erstmals [Band of Brothers](http://www.amazon.de/exec/obidos/ASIN/B000OYC2KS/eayznet-21) gesehen habe und ziemlich begeistert von der zehnteiligen HBO-Miniserie von 2001 war, wissen [meine](http://twitter.com/Eay) Follower ja bereits.

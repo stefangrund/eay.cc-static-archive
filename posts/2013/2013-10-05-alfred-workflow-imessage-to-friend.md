@@ -19,7 +19,7 @@ tags:
   - projekte
 meta:
   - _wp_page_template: "default"
-  - yourls_shorturl: "http://eay.li/alfred2imessage"
+  - yourls_shorturl: "https://eay.li/alfred2imessage"
 ---
 
 ![](https://eay.cc/uploads/2013/alfred2_imessage_1.png)

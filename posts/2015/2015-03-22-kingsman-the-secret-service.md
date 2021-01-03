@@ -17,7 +17,7 @@ tags:
   - kinolog
   - mark-millar
 meta:
-  - yourls_shorturl: "http://eay.li/2nu"
+  - yourls_shorturl: "https://eay.li/2nu"
 ---
 
 ![](https://eay.cc/uploads/movies/kingsman-2015.jpg)Regisseur [Matthew Vaughn](http://en.wikipedia.org/wiki/Matthew_Vaughn) und (Comicbuch-) Autor [Mark Millar](http://en.wikipedia.org/wiki/Mark_Millar) haben das Kunststück, dass sie 2010 mit »Kick-Ass« für den Superheldenfilm vollbracht haben, mit »[Kingsman: The Secret Service](http://www.imdb.com/title/tt2802144/)« für Agentenfilme wiederholt: eine detailverliebte, lustige, nie alberne, dafür aber stets mit der Persiflage liebäugelnde, moderne Hommage an das Genre abgeliefert.

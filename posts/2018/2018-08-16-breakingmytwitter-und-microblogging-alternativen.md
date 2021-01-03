@@ -17,7 +17,7 @@ tags:
   - netzkultur
   - twitter
 meta:
-  - yourls_shorturl: "http://eay.li/36f"
+  - yourls_shorturl: "https://eay.li/36f"
   - geo_latitude: "50.973771786748"
   - geo_longitude: "6.6831240713644"
   - geo_public: "1"

@@ -20,7 +20,7 @@ tags:
 meta:
   - _oembed_de0b64bd51f3e46ab91e4f605d603c17: "{{unknown}}"
   - _oembed_2a26d122cfc30a4c0e36629e2a769713: "{{unknown}}"
-  - yourls_shorturl: "http://eay.li/2r0"
+  - yourls_shorturl: "https://eay.li/2r0"
 ---
 
 Und wo wir [gerade](//eay.cc/2015/calypso-ein-neues-backend-fuer-wordpress-2/) bei WordPress und spannenden Smartphone-Apps sind: Die hervorragende und für mich mittlerweile unverzichtbare iOS-Automator-App [Workflow](https://geo.itunes.apple.com/us/app/workflow-powerful-automation/id915249334?mt=8&at=11lohW)\* wurde heute in einem Update um die Funktion auf WordPress-Seiten veröffentlichen zu können, erweitert. Und das erfreulicherweise mit allem drum und dran: Custom Fields, Post Formats, Featured Image, usw.

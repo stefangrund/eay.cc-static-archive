@@ -18,7 +18,7 @@ tags:
   - star-wars
   - typographie
 meta:
-  - yourls_shorturl: "http://eay.li/6p"
+  - yourls_shorturl: "https://eay.li/6p"
 ---
 
 ![](/uploads/2008/starwarsbass.jpg)

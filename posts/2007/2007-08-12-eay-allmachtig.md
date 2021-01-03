@@ -16,7 +16,7 @@ tags:
   - steve-carell
   - trailerfilm
 meta:
-  - yourls_shorturl: "http://eay.li/hs"
+  - yourls_shorturl: "https://eay.li/hs"
 ---
 
 ![](/uploads/2007/evanalmighty.jpg)**Vorher:** Aus sonntäglicher Langeweile heraus werden Freundin und ich uns gleich die neue "Religionskomödie" [Evan Allmächtig](http://www.imdb.com/title/tt0413099/) ansehen. Ich erwarte normale Popcorn-Kino-Unterhaltungskost. Evan wird weder tiefgründig gut, noch besser als [Bruce](http://www.amazon.de/exec/obidos/ASIN/B0000A1WR3/eayznet-21) sein, aber immerhin ein souveräner Spaß, wie man es ab und zu auch mal braucht. Wertmutstropfen: Typischer Trailer-Film = große Teile des Films wurden bereits im Trailer verraten und verbraten.

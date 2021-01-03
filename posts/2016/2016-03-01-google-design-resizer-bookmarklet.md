@@ -23,7 +23,7 @@ meta:
   - linked_list_url: "http://design.google.com/resizer/"
   - linked_list_url: "http://design.google.com/resizer/"
   - linked_list_url: "http://design.google.com/resizer/"
-  - yourls_shorturl: "http://eay.li/2ry"
+  - yourls_shorturl: "https://eay.li/2ry"
 ---
 
 > [Introducing Resizer:](https://design.google.com/articles/introducing-resizer/) An interactive viewer to see and test how digital products respond to material design breakpoints across desktop, mobile, and tablet.

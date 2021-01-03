@@ -16,7 +16,7 @@ tags:
   - sequel
   - serien
 meta:
-  - yourls_shorturl: "http://eay.li/79"
+  - yourls_shorturl: "https://eay.li/79"
 ---
 
 ![](/uploads/2008/quantumtrost.jpg)Anfang der Woche hatte ich endlich die Gelegenheit mir den neuen Bond mit dem sehr bescheidenen deutschen Titel [Ein Quantum Trost](http://www.imdb.com/title/tt0830515/) anzusehen. Und klar, wie jeder andere männliche Zeitgenosse kann auch ich mich dem Charme und Können eines James Bond nicht entziehen. Dementsprechend überzeugt war ich von [Casino Royal](http://eay.cc/blog/2006/11/ich_will_noch_n.shtml), dem Reboot des Franchise, in dem auch erstmals Blondin Daniel Craig den Geheimdienst Ihrer Majestät antritt. Vor zwei Jahren hat die Serie endlich mit den furchtbaren Running-Gags Ã¡ la "Geschüttelt, nicht gerührt" gebrochen und dem ganzen stattdessen mehr Realität (ein Killer ist ein Killer ist ein Killer) und Tempo eingehaucht, und Bond somit endlich auf angemessene Art und Weise ins neue Jahrtausend geholt und zu Recht wieder zu einer der attraktivsten Actionfilmserien gemacht. Fraglich nun, ob "Quantum of Solace" die Erwartung halten oder vielleicht sogar übertreffen kann...

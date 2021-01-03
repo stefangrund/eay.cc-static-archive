@@ -16,7 +16,7 @@ tags:
   - star-wars
   - trailer
 meta:
-  - yourls_shorturl: "http://eay.li/a1"
+  - yourls_shorturl: "https://eay.li/a1"
 ---
 
 Als [Blue Harvest](http://www.amazon.de/exec/obidos/ASIN/B0012OVDRM/eayznet-21), die [Star Wars](//eay.cc/tag/star-wars/)\-Parodie von Family Guy, vor zwei Jahren erschien, war ich als alter Sternenkrieg- und Griffin-Fanboy natürlich [hellauf begeistert](//eay.cc/2007/das-family-guy-star-wars-special/). Glücklicherweise wurde alsbald bekannt, dass das nicht der letzte Ausflug ins Star Wars-Universum gewesen sein sollte und die Zeichen für eine Hommage an "The Empire strikes back" ziemlich gut standen.

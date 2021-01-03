@@ -15,7 +15,7 @@ tags:
   - poster
   - retro
 meta:
-  - yourls_shorturl: "http://eay.li/gb"
+  - yourls_shorturl: "https://eay.li/gb"
 ---
 
 ![](/uploads/2009/polenposter1.jpg) ![](/uploads/2009/polenposter2.jpg) Hier hat jemand [50 alternative Filmposter aus Polen](http://wellmedicated.com/inspiration/50-incredible-film-posters-from-poland/) gesammelt. Zwischen toll und trashig ist alles dabei. Hier oben seht ihr zum Beispiel die polnischen Poster von "The Empire strikes back" und - ganz unverkennbar! - "Alien". ([via](http://onrealitysedge.wordpress.com/2009/02/08/50-filmposter-aus-polen/))

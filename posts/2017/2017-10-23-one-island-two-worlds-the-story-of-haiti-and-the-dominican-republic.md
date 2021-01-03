@@ -18,7 +18,7 @@ tags:
   - rassismus
   - video-essay
 meta:
-  - yourls_shorturl: "http://eay.li/31z"
+  - yourls_shorturl: "https://eay.li/31z"
 ---
 
 \[youtube id="4WvKeYuwifc"\]

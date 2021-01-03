@@ -13,7 +13,7 @@ tags:
   - apple
   - mac
 meta:
-  - yourls_shorturl: "http://eay.li/1xs"
+  - yourls_shorturl: "https://eay.li/1xs"
   - linked_list_url: "http://www.buzzfeed.com/mattbuchanan/the-new-macbook-pro-wont-stop-staring-at-me"
 ---
 

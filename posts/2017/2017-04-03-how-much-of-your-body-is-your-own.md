@@ -16,7 +16,7 @@ tags:
   - webservice
 meta:
   - linked_list_url: "http://www.bbc.com/earth/story/the-making-of-me-and-you#/"
-  - yourls_shorturl: "http://eay.li/2xe"
+  - yourls_shorturl: "https://eay.li/2xe"
 ---
 
 > Our bodies are extraordinary. They contain elements that have a commercial value, megabytes of data, and trillions of cells, most of which aren't our own.

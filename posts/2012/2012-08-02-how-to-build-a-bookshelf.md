@@ -15,7 +15,7 @@ tags:
   - how-to
   - video
 meta:
-  - yourls_shorturl: "http://eay.li/1l1"
+  - yourls_shorturl: "https://eay.li/1l1"
 ---
 
 Wir sind ja gerade am renovieren und da ist man natürlich über jedes hilfreiche Erklärungsvideo dankbar. Und das hier von Bob hat mir besonders weitergeholfen.

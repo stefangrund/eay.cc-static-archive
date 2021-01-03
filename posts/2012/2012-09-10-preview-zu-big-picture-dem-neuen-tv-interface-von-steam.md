@@ -15,7 +15,7 @@ tags:
   - steam
   - valve
 meta:
-  - yourls_shorturl: "http://eay.li/1yi"
+  - yourls_shorturl: "https://eay.li/1yi"
   - linked_list_url: "http://kotaku.com/5941793/valve-is-bringing-steam-to-your-tv-today-watch-out-consoles"
 ---
 

@@ -17,7 +17,7 @@ tags:
   - sascha-lobo
 meta:
   - linked_list_url: "http://www.spiegel.de/netzwelt/web/sascha-lobo-verdammt-angela-merkels-digitalpolitik-a-1007659.html"
-  - yourls_shorturl: "http://eay.li/2lj"
+  - yourls_shorturl: "https://eay.li/2lj"
 ---
 
 Sascha Lobo fasst in seiner aktuellen SpOn-Kolumne Angela Merkels desaströse Digitalpolitik zusammen, die wie alles was sie tut, nur dem Zweck dient, ihre eigene politische Macht aufrechtzuerhalten.

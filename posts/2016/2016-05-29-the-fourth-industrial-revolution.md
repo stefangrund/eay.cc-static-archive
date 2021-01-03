@@ -17,7 +17,7 @@ tags:
   - zukunft
 meta:
   - linked_list_url: "http://shortfil.ms/film/the-fourth-industrial-revolution-2016"
-  - yourls_shorturl: "http://eay.li/2tt"
+  - yourls_shorturl: "https://eay.li/2tt"
 ---
 
 Bei [shortfil.ms](http://shortfil.ms/) haben wir heute eine 12-minütige Doku über die bevorstehenden, alles umwälzenden technologischen Veränderungen. Schöne Zusammenfassung, produziert vom [Weltwirtschaftsforum](https://de.wikipedia.org/wiki/Weltwirtschaftsforum) (wie auch immer das zu beurteilen ist).

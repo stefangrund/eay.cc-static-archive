@@ -15,7 +15,7 @@ tags:
   - t-mobile
   - telekom
 meta:
-  - yourls_shorturl: "http://eay.li/zj"
+  - yourls_shorturl: "https://eay.li/zj"
 ---
 
 Nett, dass ihr fragt: Bisher sind's Es waren "nur" **51 T-age** (?). Aber das ist okay, hat der Telekom-Hotline-Mensch mich doch bereits auf die Warterei vorbereitet, um es mir im nächsten Satz innerhalb der ersten Woche nach Release zuzusichern.

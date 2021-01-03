@@ -16,7 +16,7 @@ tags:
   - sicherheit
 meta:
   - linked_list_url: "https://haveibeenpwned.com/"
-  - yourls_shorturl: "http://eay.li/2bc"
+  - yourls_shorturl: "https://eay.li/2bc"
 ---
 
 > Check if you have an account that has been compromised in a data breach.

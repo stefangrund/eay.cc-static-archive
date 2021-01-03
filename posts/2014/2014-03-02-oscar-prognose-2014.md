@@ -16,7 +16,7 @@ tags:
   - oscars
   - wetten
 meta:
-  - yourls_shorturl: "http://eay.li/2dl"
+  - yourls_shorturl: "https://eay.li/2dl"
 ---
 
 ![](https://eay.cc/uploads/2010/oscar.jpg)Wie schon in den letzten Jahren ([2010](//eay.cc/2010/oscar-prognose-2010/), [2011](//eay.cc/2011/oscar-prognose-2011/), [2012](//eay.cc/2012/oscar-prognose-2012/), [2013](//eay.cc/2013/oscar-prognose-2013/)) folgt hier mal wieder kurz vor knapp meine Einschätzung zur Lage im Dolby Theatre, wo heute zum [86\. Mal die Academy Awards](https://en.wikipedia.org/wiki/86th_Academy_Awards) verliehen werden. Nachdem ich im letzten Jahr alle Best Picture Nominees gesehen habe und am Ende des Abends auf 15 von 24 richtige Tipps kam, dürfte das dieses Jahr, wo ich nur vier potentielle beste Filme und auch nur wenige der restlichen Nominierten gesehen habe, deutlich schwieriger werden. Mit »12 Years a Slave« steht [jedenfalls](//eay.cc/2014/review-rundumschlag-19-oscars-2014-best-picture-edition/) mein Favorit fest (im folgenden vier Mal vertreten), mit »Gravity« mein Sieger des Abends (von mir sieben Mal gesetzt).

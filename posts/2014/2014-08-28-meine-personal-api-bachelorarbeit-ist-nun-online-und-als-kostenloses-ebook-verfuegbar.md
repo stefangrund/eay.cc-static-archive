@@ -23,7 +23,7 @@ tags:
   - wearables
 meta:
   - linked_list_url: ""
-  - yourls_shorturl: "http://eay.li/2ij"
+  - yourls_shorturl: "https://eay.li/2ij"
 ---
 
 [Neben stefangrund.de](//eay.cc/2014/introducing-stefangrund-de/) steht ab heute auch meine Bachelorarbeit zum Thema »Implementierung einer personenbezogenen Programmierschnittstelle (»Personal API«) zur Abbildung des digitalen Ichs im Social Web« komplett online zur Verfügung und als PDF oder kostenloses eBook für iPad, Kindle & Co. bereit.

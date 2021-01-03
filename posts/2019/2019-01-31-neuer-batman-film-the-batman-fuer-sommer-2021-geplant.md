@@ -16,7 +16,7 @@ tags:
   - filme
 meta:
   - linked_list_url: "https://deadline.com/2019/01/the-batman-june-2021-release-date-ben-affleck-not-starring-1202545821/"
-  - yourls_shorturl: "http://eay.li/38u"
+  - yourls_shorturl: "https://eay.li/38u"
 ---
 
 Matt Reeves, der Regisseur von »Cloverfield«, »Let Me In«, sowie »Dawn of«- und »War of the Planet of the Apes«, soll auf dem Regiestuhl sitzen. Der Film soll abermals einen jüngeren Bruce Wayne zeigen, aber nicht auf Frank Millers »Batman: Year One« basieren. Sir Ben Affleck soll nicht mit von der Partie sein, wenn »The Batman« am 25. Juni 2021 startet.

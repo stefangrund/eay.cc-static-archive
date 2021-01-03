@@ -15,7 +15,7 @@ tags:
   - gif-der-woche
   - regeln
 meta:
-  - yourls_shorturl: "http://eay.li/4n"
+  - yourls_shorturl: "https://eay.li/4n"
 ---
 
 ![](https://eay.cc/uploads/2009/sillyhatsonly.gif) Das letzte .gif des Jahres mit einer überaus wichtigen Botschaft!

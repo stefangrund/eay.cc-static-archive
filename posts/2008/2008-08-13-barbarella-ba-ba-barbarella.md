@@ -15,7 +15,7 @@ tags:
   - filme
   - retro
 meta:
-  - yourls_shorturl: "http://eay.li/rj"
+  - yourls_shorturl: "https://eay.li/rj"
 ---
 
 ![](/uploads/2008/barbarella40.jpg)

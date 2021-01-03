@@ -16,7 +16,7 @@ tags:
   - koeln
   - star-wars
 meta:
-  - yourls_shorturl: "http://eay.li/2qc"
+  - yourls_shorturl: "https://eay.li/2qc"
 ---
 
 Die Marketingmaschine erwacht so langsam und hat heute, genau zwei Monate vor dem Start von »[The Force Awakens](//eay.cc/2014/the-force-awakens/)« das offizielle Poster [veröffentlicht](https://twitter.com/starwars/status/655775390691033089). Das darf hier der Vollständigkeit halber natürlich nicht fehlen:

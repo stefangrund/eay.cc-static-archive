@@ -16,7 +16,7 @@ tags:
   - trailer
   - wii
 meta:
-  - yourls_shorturl: "http://eay.li/y3"
+  - yourls_shorturl: "https://eay.li/y3"
 ---
 
 Welches Wii-Spiel erscheint im 1. Quartal 2009 und wird in Deutschland - sofern man sich überhaupt hierher traut - sofort indiziert? "Madworld", ein "hyper-violent third-person action game", so Sega, das nur in Schwarzweiß und, klar, Blutrot daherkommt und Sin City in nichts nachsteht. Schade, das volljährige deutsche Zocke wieder mal in die Röhre gucken werden. Bis dahin gibt's - nach dem Klick - immerhin den ersten Trailer. ([via](http://www.primaerfunktion.de/2008/05/15/madworld/))

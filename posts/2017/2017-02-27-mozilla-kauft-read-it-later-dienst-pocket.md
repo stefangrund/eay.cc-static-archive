@@ -17,7 +17,7 @@ tags:
   - webservice
 meta:
   - linked_list_url: "https://blog.mozilla.org/blog/2017/02/27/mozilla-acquires-pocket/"
-  - yourls_shorturl: "http://eay.li/2xg"
+  - yourls_shorturl: "https://eay.li/2xg"
 ---
 
 Und plötzlich bin ich wieder Mozilla-Nutzer...

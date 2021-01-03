@@ -14,7 +14,7 @@ tags:
   - daniel-clowes
   - interview
 meta:
-  - yourls_shorturl: "http://eay.li/1hr"
+  - yourls_shorturl: "https://eay.li/1hr"
 ---
 
 \[youtube id="fmbWubXGFUs"\]

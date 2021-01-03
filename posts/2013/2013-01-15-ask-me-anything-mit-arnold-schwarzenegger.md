@@ -14,7 +14,7 @@ tags:
   - ask-me-anything
   - reddit
 meta:
-  - yourls_shorturl: "http://eay.li/21h"
+  - yourls_shorturl: "https://eay.li/21h"
   - linked_list_url: "http://www.reddit.com/r/IAmA/comments/16mq0g/iamarnold_ask_me_anything/"
 ---
 

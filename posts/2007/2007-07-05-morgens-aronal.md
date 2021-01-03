@@ -14,7 +14,7 @@ tags:
   - output
   - zaehne
 meta:
-  - yourls_shorturl: "http://eay.li/ss"
+  - yourls_shorturl: "https://eay.li/ss"
 ---
 
 ![](/uploads/2007/aronal.jpg) Morgen, Welt! Womit sich andere Blogger wohl die Zähne putzen, würd mich interessieren.

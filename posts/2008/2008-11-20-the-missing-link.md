@@ -17,7 +17,7 @@ tags:
   - problem
   - zaehne
 meta:
-  - yourls_shorturl: "http://eay.li/8e"
+  - yourls_shorturl: "https://eay.li/8e"
 ---
 
 Seit Jahren gibt uns die Werbeindustrie einen Leitfaden zum Zähneputzen an die Hand:

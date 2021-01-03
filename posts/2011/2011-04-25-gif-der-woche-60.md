@@ -14,7 +14,7 @@ tags:
   - getraenke
   - gif-der-woche
 meta:
-  - yourls_shorturl: "http://eay.li/17g"
+  - yourls_shorturl: "https://eay.li/17g"
 ---
 
 ![](https://eay.cc/uploads/2011/decanting.gif) Wunderbar animierte Umfüllerei von [Twistosterone](http://twistosterone.com/).

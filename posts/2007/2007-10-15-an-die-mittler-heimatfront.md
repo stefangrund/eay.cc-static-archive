@@ -13,7 +13,7 @@ tags:
   - alkohol
   - getraenke
 meta:
-  - yourls_shorturl: "http://eay.li/vo"
+  - yourls_shorturl: "https://eay.li/vo"
 ---
 
 ![](/uploads/2007/mittler.jpg) Wir haben es doch schon immer gewusst und jetzt lese ich's hier schwarz auf weiss...

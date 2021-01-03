@@ -15,7 +15,7 @@ tags:
   - web-entwicklung
 meta:
   - linked_list_url: "https://secretgeek.github.io/html_wysiwyg/html.html"
-  - yourls_shorturl: "http://eay.li/3ae"
+  - yourls_shorturl: "https://eay.li/3ae"
 ---
 
 > [Quines](http://wiki.secretgeek.net/quine) are programs which output their own source code.

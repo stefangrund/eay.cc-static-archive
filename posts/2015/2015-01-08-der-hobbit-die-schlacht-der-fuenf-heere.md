@@ -14,7 +14,7 @@ tags:
   - kinolog
   - lord-of-the-rings
 meta:
-  - yourls_shorturl: "http://eay.li/2m8"
+  - yourls_shorturl: "https://eay.li/2m8"
 ---
 
 ![](https://eay.cc/uploads/movies/thehobbit3_2014.jpg)Bekanntlich kann ich mit dem "Herr der Ringeâ-Kosmos nicht allzu viel anfangen. Dennoch fiel [mein Urteil zum ersten Hobbit](//eay.cc/2013/review-rundumschlag-17/) gut, [zum zweiten](//eay.cc/2013/review-rundumschlag-dezember-2013/#derhobbit2) sogar noch besser aus. Anscheinend nur, um mit der Schlacht der fünf Heere wieder auf den Boden der Fantasy-Realität zurückgeholt zu werden, denn vom dritten und letzten Teil von [Peter Jackson](http://www.imdb.com/name/nm0001392/)s Filmadaption von J.R.R. Tolkiens kleinem Hobbit war ich alles andere als angetan.

@@ -16,7 +16,7 @@ tags:
   - post
   - postkarte
 meta:
-  - yourls_shorturl: "http://eay.li/y2"
+  - yourls_shorturl: "https://eay.li/y2"
 ---
 
 ![](/uploads/2008/nynachricht.jpg) Habe gerade von @[The\_McLee](https://twitter.com/The_McLee) & @[Goldi1945](https://twitter.com/Goldi1945) eine drei zehn Sekunden lange Video-Postkarte aus New York bekommen! Mit einem [eayzly](http://eay.cc/projekte/eayzlyart/)! Wie cool ist das denn? _Das_ ist die Zukunft!

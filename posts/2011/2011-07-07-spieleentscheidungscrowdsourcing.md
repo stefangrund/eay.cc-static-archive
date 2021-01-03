@@ -14,7 +14,7 @@ tags:
   - games
   - xbox
 meta:
-  - yourls_shorturl: "http://eay.li/19t"
+  - yourls_shorturl: "https://eay.li/19t"
 ---
 
 Xbox-Spiele, die hier noch ungespielt rumliegen. Womit soll ich anfangen? Und was soll ich danach spielen?

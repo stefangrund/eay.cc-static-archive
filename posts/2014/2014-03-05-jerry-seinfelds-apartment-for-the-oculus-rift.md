@@ -17,7 +17,7 @@ tags:
   - virtual-reality
 meta:
   - linked_list_url: "http://jerrysplacevr.com/"
-  - yourls_shorturl: "http://eay.li/2do"
+  - yourls_shorturl: "https://eay.li/2do"
 ---
 
 Umgesetzt von [Greg Miller](http://www.gmiller.net/) mit Blender und Unity, Download anbei. (via [Waxy](http://waxy.org/links))

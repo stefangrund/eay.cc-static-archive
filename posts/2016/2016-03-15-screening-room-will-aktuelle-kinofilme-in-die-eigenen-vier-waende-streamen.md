@@ -19,7 +19,7 @@ tags:
   - technologie
 meta:
   - linked_list_url: "http://www.cnet.com/news/napster-co-founder-sean-parker-launches-screening-room/"
-  - yourls_shorturl: "http://eay.li/2sa"
+  - yourls_shorturl: "https://eay.li/2sa"
 ---
 
 > Hollywood's biggest directors and Napster co-founder Sean Parker want to let you download films on the same day they hit theaters, but oh, that $50 price tag.

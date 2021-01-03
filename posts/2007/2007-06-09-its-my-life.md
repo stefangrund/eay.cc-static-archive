@@ -13,7 +13,7 @@ tags:
   - nachtleben
   - tagebuchblogging
 meta:
-  - yourls_shorturl: "http://eay.li/kr"
+  - yourls_shorturl: "https://eay.li/kr"
 ---
 
 Tagebuchblogging soll ja sympathisch machen und dem voyeuristischen Leser vermitteln, dass nicht nur sein Leben banal und langweilig ist, sondern auch das seines Lieblingsbloggers. Also will auch ich an dieser Stelle die Illusion des Blogrockers™ kitten und bringe euch - nach meiner [persönlichen Vorratsdatenspeicherung](http://eay.cc/about/lifestream/) - nun auch noch mein Offline-Leben:

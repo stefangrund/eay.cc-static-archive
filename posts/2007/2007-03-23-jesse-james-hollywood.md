@@ -12,7 +12,7 @@ tags:
   - kinolog
   - kriminalitat
 meta:
-  - yourls_shorturl: "http://eay.li/uj"
+  - yourls_shorturl: "https://eay.li/uj"
 ---
 
 ![](/uploads/2007/alphadog.jpg)Gestern [Alpha Dog](http://www.imdb.com/title/tt0426883/) gesehen. Es geht um ein paar reiche Jugendliche, die ihre Freizeit quasi mit dem Drogendealen und -konsum verbringen. Als es zu Geldstreitereien kommt, beschliesst man den 15 jährigen Bruder des Zechprellers zu entführen. Dem Entführten geht's soweit gut. Der Junge flüchtet nicht, obwohl sie es ihm anbieten, und so zieht er mit seinen Entführern um die Häuser und bekommt einen Einblick in deren aufregenden Lebensstil. Bis dem Wortführer auffällt, dass Entführung kein Kavaliersdelikt ist und man beschließt den Jungen umzubringen, obwohl er geschworen hat, seine neuen "Brüder" nicht zu verraten. Es folgt ein sinnloser Mord.

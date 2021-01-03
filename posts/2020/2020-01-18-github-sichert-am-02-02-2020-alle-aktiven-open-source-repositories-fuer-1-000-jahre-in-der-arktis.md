@@ -15,7 +15,7 @@ tags:
   - open-source
 meta:
   - linked_list_url: "https://archiveprogram.github.com/"
-  - yourls_shorturl: "http://eay.li/3ch"
+  - yourls_shorturl: "https://eay.li/3ch"
   - content_copy: "https://twitter.com/eay/status/1218620461514477569"
 ---
 

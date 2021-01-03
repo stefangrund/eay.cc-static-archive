@@ -13,7 +13,7 @@ tags:
   - 3d
   - your-favorite-tumblr-for-the-next-5-minutes
 meta:
-  - yourls_shorturl: "http://eay.li/24n"
+  - yourls_shorturl: "https://eay.li/24n"
 ---
 
 ![](https://eay.cc/uploads/2013/pizzaskin.gif)

@@ -14,7 +14,7 @@ tags:
   - katzencontent
   - tiere
 meta:
-  - yourls_shorturl: "http://eay.li/36"
+  - yourls_shorturl: "https://eay.li/36"
 ---
 
 ![](https://eay.cc/uploads/2010/hovercats.gif) Yeah, fliegende Katzenbällchen!

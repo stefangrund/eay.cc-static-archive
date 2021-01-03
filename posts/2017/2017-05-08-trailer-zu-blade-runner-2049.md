@@ -15,7 +15,7 @@ tags:
   - science-fiction
   - trailer
 meta:
-  - yourls_shorturl: "http://eay.li/2y8"
+  - yourls_shorturl: "https://eay.li/2y8"
 ---
 
 \[youtube id="gCcx85zbxz4"\]

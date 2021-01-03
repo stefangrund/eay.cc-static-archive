@@ -17,7 +17,7 @@ tags:
   - streaming
 meta:
   - linked_list_url: "https://media.netflix.com/en/press-releases/netflix-to-beam-new-cbs-star-trek-television-series-in-188-countries-around-the-world"
-  - yourls_shorturl: "http://eay.li/2uq"
+  - yourls_shorturl: "https://eay.li/2uq"
 ---
 
 > Netflix will be the exclusive premiere home of “Star Trek” in 188 countries (excluding the US and Canada). Each episode of the new series will be available globally within 24 hours of its U.S. premiere.

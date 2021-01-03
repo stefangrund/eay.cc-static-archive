@@ -14,7 +14,7 @@ tags:
   - robin-hood
   - serien
 meta:
-  - yourls_shorturl: "http://eay.li/66"
+  - yourls_shorturl: "https://eay.li/66"
 ---
 
 _Ein Gastbeitrag von **Andi**, einem ausufernden Fußnotennutzer, der jede TV-Serie der letzten Jahre kennt und trotzdem noch Zeit zum [bloggen](http://www.andisblog.de/) und [twittern](http://twitter.com/AndiH) findet._

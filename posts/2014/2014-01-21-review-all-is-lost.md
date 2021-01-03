@@ -14,7 +14,7 @@ tags:
   - kinolog
   - schifffahrt
 meta:
-  - yourls_shorturl: "http://eay.li/2c8"
+  - yourls_shorturl: "https://eay.li/2c8"
 ---
 
 ![](https://eay.cc/uploads/movies/allislost_2013.jpg)Robert Redfort. In einem Segelboot. Allein auf hoher See. Plötzlich rammt ein umhertreibender Container das Boot und ein Loch in dessen Rumpf. Kein Problem für unseren namenlosen Protagonisten, der sich selbst zu helfen weiß und das Loch flickt. Doch als dann auch noch in Form eines heftigen Sturms Mutter Natur über ihn hereinbricht, beginnt der gealterte MacGyver zu verstehen, dass das erst der Anfang seiner 106 Minuten langen Tour de Force gewesen sein könnte. Und unsere, denn wir erleben seinen Überlebenskampf hautnah mit: die Kamera ist ihm stets auf den Versen, wenn er Dinge macht, die man als Segler wohl auf einem sinkenden Segelboot so macht.

@@ -14,7 +14,7 @@ tags:
   - superhelden
   - watchmen
 meta:
-  - yourls_shorturl: "http://eay.li/fh"
+  - yourls_shorturl: "https://eay.li/fh"
 ---
 
 ![](/uploads/2009/watchmen.jpg)Wir hatten ja erfreulicherweise das Glück [Watchmen](http://www.imdb.com/title/tt0409459/) bereits am Mittwoch zu sehen. Seitdem kündige ich ein Review an dieser Stelle an, schreibe die ersten Zeilen nieder, verwerfe sie wieder und fange von vorne an. Scheinbar brauchte ich erstmal Abstand von dieser Adaption eines etwas anderen Comics, zu dem [ich ja bereits](//eay.cc/2009/watchmen-comic-review/) eine zwiespältige, aber schließlich doch positive Beziehung hatte. Bei Zack Snyders Watchmen sieht das prinzipiell nicht anders aus, was vor allem daran liegt, dass er sich fast Eins zu Eins an die Story des Comics hält. (Mehr über die Handlung könnt ihr dementsprechend [meinem Comic-Review](//eay.cc/2009/watchmen-comic-review/) entnehmen. Wer sich im Kino überraschen lassen möchte, sollte jedoch davon absehen.) Zwar werden die von mir bemängelten, teilweise recht langweiligen Subplots des Comics zumeist rausgekürzt, dennoch hat dieser aber auch einige Längen. Während die Verfilmung also an den selben Schwächen wie der Originalstoff leidet, ist genau diese originalgetreue Umsetzung eine der Stärken des Films: Dialoge wurden übernommen, Panels haargenau aufs Zelluloid gebannt, dazu zahlreiche selbstreferenzielle Verweise aufs Comic. So wird der Watchmen-Film in der Tat zu einem wahren Fest für Leser und Kenner des Watchmen-Comics. Ein Film "von Fanboys für Fanboys", wie vielerorts zu lesen war.

@@ -17,7 +17,7 @@ tags:
   - steve-jobs
   - tshirt
 meta:
-  - yourls_shorturl: "http://eay.li/h"
+  - yourls_shorturl: "https://eay.li/h"
 ---
 
 [Stephen Fry](http://en.wikipedia.org/wiki/Stephen_Fry) müsste man sein. Denn während der Rest der Welt noch auf die Veröffentlichung des sagenumwobenen [iPad](//eay.cc/tag/ipad/) wartete bzw. immer noch wartet, wird man, ist man Stephen Fry, von Apple mir nichts, dir nichts in den Firmensitz nach Cupertino eingeladen. Um dort das, was deutsche Journalisten zur Verschleierung ihrer kühnsten Träume leicht blasphemisch "Wunder-Flunder" getauft haben, von Steve Jobs höchstpersönlich vorgeführt zu bekommen.

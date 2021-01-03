@@ -17,7 +17,7 @@ tags:
   - sicherheit
   - werbung
 meta:
-  - yourls_shorturl: "http://eay.li/123"
+  - yourls_shorturl: "https://eay.li/123"
 ---
 
 Habt ihr euch auch schon mal gefragt, wo eigentlich all die gruseligen Gemälde mit ausgeschnittenen Augen herkommen, durch die in etlichen Krimis heimlich die Opfer beobachtet werden? [Funny or die](http://www.funnyordie.com/) hat die zuerst sehr verblüffende, dann aber doch offensichtliche Antwort auf diese Frage: die "Eyehole Paintings" werden über einen Teleshopping-Spot an den Mörder gebracht und waren eigentlich nicht als Instrument blutrünstiger Voyeure, sondern zur Einbrecher- und Gefahrenabwehr gedacht, wie niemand geringeres als [Adam West](//eay.cc/tag/adam-west/) eindringlich erklärt:

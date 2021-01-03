@@ -17,7 +17,7 @@ tags:
   - output
   - sticker
 meta:
-  - yourls_shorturl: "http://eay.li/ht"
+  - yourls_shorturl: "https://eay.li/ht"
 ---
 
 [![](/uploads/2008/eayzlyart.jpg)](http://eay.cc/projekte/eayzlyart/) Introducing [The Museum of eayzly Art](http://eay.cc/projekte/eayzlyart/). Be part of the party and [make your own eayzlies](http://eay.cc/artikel/make_eayzlies/) and upload photos of them to [The eayz Society for Photos](http://www.flickr.com/groups/eayz/) on flickr or post them somewhere else!

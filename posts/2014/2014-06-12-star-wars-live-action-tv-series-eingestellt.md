@@ -14,7 +14,7 @@ tags:
   - serien
   - star-wars
 meta:
-  - yourls_shorturl: "http://eay.li/2gw"
+  - yourls_shorturl: "https://eay.li/2gw"
 ---
 
 Die Live-Action TV Series – Arbeitstitel »Star Wars: Underworld« – von der ich hier [seit 2007](//eay.cc/2007/clash-of-the-fanboys/) immer [mal wieder berichte](//eay.cc/2012/neues-zur-star-wars-live-action-tv-series/) und die zwischen Episode III und IV spielen sollte, ist wohl endgültig beerdigt worden. Das berichtete jetzt [Stephen Scaia](http://www.imdb.com/name/nm0768721/), der zusammen mit Lucas an der Serie arbeitete, im Rahmen seiner Kickstarter-Kampagne [zu einem Indiana-Jones-Fanfilm](https://www.kickstarter.com/projects/2127721483/army-of-the-lost-horizon) (im Video "The George Lucas Story" weiter unten). Was für ein Timing.

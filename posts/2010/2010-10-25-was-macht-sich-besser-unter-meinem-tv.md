@@ -19,7 +19,7 @@ tags:
   - technologie
   - umfrage
 meta:
-  - yourls_shorturl: "http://eay.li/11w"
+  - yourls_shorturl: "https://eay.li/11w"
 ---
 
 [![](https://eay.cc/uploads/2010/appletv.jpg)](http://www.apple.com/de/appletv/) [![](https://eay.cc/uploads/2010/boxee.jpg)](http://www.amazon.de/exec/obidos/ASIN/B0043EV3MS/eayznet-21) 

@@ -15,7 +15,7 @@ tags:
   - twitter
 meta:
   - linked_list_url: "http://www.newyorker.com/online/blogs/elements/2013/09/the-twitter-of-tomorrow.html"
-  - yourls_shorturl: "http://eay.li/278"
+  - yourls_shorturl: "https://eay.li/278"
 ---
 
 Matt Buchanan beschreibt beim New Yorker, wie und warum Twitter sich demnächst in Vorbereitung des [geplanten Börsengangs](//eay.cc/2013/twitter-meldet-boersengang-an/) radikal verändern wird. Der Fokus soll dann vor allem auf Mobile-Apps liegen und die âeverything looks the sameâ-Strategie dabei erfreulicherweise geändert werden:

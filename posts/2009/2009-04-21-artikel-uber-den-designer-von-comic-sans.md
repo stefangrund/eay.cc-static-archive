@@ -13,7 +13,7 @@ tags:
   - netzkultur
   - typographie
 meta:
-  - yourls_shorturl: "http://eay.li/ft"
+  - yourls_shorturl: "https://eay.li/ft"
 ---
 
 > Comic Sans walks into a bar, bartender says, "We don´t serve your type."

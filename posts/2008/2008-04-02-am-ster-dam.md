@@ -14,7 +14,7 @@ tags:
   - kurztrip
   - urlaub
 meta:
-  - yourls_shorturl: "http://eay.li/kj"
+  - yourls_shorturl: "https://eay.li/kj"
 ---
 
 Die Sachen sind gepackt, Herr Lee hat uns die aktuellen Blitzer-Standorte auf's Navi gezogen, Limpi hat frische [eayzlies gedruckt](http://eay.cc/artikel/make_eayzlies/) und ich fahre. Wir sind dann also mal kurz in Amsterdam [bei Alex und Kevin](//eay.cc/2008/diggnation-feat-eayz-in-amsterdam/). Da wir WLAN im Hotel haben könnte es zwischendurch den [ein](http://twitter.com/Eay) oder [anderen](http://twitter.com/The_McLee) Tweet geben. Ansonsten wünsche ich uns viel Spaß! Bis die Tage! Bis morgen!

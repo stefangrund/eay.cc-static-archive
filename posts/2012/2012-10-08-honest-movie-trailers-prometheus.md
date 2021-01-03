@@ -15,7 +15,7 @@ tags:
   - parodie
   - trailer
 meta:
-  - yourls_shorturl: "http://eay.li/1za"
+  - yourls_shorturl: "https://eay.li/1za"
   - linked_list_url: "http://www.youtube.com/watch?v=RBaKqOMGPWc"
 ---
 

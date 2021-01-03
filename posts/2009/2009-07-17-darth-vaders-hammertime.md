@@ -14,7 +14,7 @@ tags:
   - star-wars
   - tanzen
 meta:
-  - yourls_shorturl: "http://eay.li/ly"
+  - yourls_shorturl: "https://eay.li/ly"
 ---
 
 Bei den diesjährigen [Star Wars Weekends](//eay.cc/2009/star-wars-weekends-poster/) in Disney´s Hollywood Studios wurde unter anderem auch ein Dance Off zwischen den allseits bekannten Figuren veranstaltet. Im folgenden das absolute Highlight und natürlich auch der Gewinner des Dance Offs: Darth Vader und seine Sturmtruppen beim performen von MC Hammers "Can't touch this"; ein Video aller Auftritte [gibt's hier](http://www.youtube.com/watch?v=2wfiEi_ywj8). Made my day!

@@ -14,7 +14,7 @@ tags:
   - konzerte
   - musik
 meta:
-  - yourls_shorturl: "http://eay.li/on"
+  - yourls_shorturl: "https://eay.li/on"
 ---
 
 ![](https://eay.cc/uploads/2009/dragonforce.jpg) Gestern Abend um diese Uhrzeit (gerade sind's 21:45 Uhr) stand ich in der Kölner [Essigfabrik](http://www.essig-fabrik.de/) und _lauschte_ den sanften Klängen der englischen Power-Metal-Band [Dragonforce](http://www.dragonforce.com/), die den meisten [durch Guitar Hero 3](//eay.cc/2009/guitar-hero-wahnsinn/) bekannt sein dürfte. Jedenfalls konnten sie den zugegebenermaßen Alkohol getrübten Eindruck [vom diesjährigen Ring](//eay.cc/2009/rock-am-ring-2009/) vervollständigen und überzeugten auf ganzer Linie. Selten habe ich Menschen ihre Instrumente so malträtieren sehen - [sehr, sehr geil](http://twitter.com/Eay/status/5215460241)!

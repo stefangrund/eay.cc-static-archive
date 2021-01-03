@@ -14,7 +14,7 @@ tags:
   - games
   - weltrekord
 meta:
-  - yourls_shorturl: "http://eay.li/4x"
+  - yourls_shorturl: "https://eay.li/4x"
 ---
 
 Seit zwei Wochen versuche ich mich [ja](http://twitter.com/Eay/statuses/1159447351) auch erstmals am [Guitar Hero (3)](http://is.gd/iGNn) und obwohl ich dabei einbilde, ordentlich abzurocken, bin ich in Wahrheit noch nicht über 100000 Punkte gekommen und versage kläglich, sobald ich mit vier Fingern spielen soll. Umso verblüffender ist es für mich, dass der 14 jährige David Johnson scheinbar mühelos, mal eben so den Weltrekord von 899703 bei DragonForce's "Through The Fire And Flames" im Experten-Level geschlagen hat. Mit 973954 Punkten. Seht selbst:

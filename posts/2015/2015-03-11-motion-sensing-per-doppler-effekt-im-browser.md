@@ -20,7 +20,7 @@ meta:
   - linked_list_url: "http://danielrapp.github.io/doppler/"
   - linked_list_url: "http://danielrapp.github.io/doppler/"
   - linked_list_url: "http://danielrapp.github.io/doppler/"
-  - yourls_shorturl: "http://eay.li/2nk"
+  - yourls_shorturl: "https://eay.li/2nk"
 ---
 
 Sehr coole Anwendung von [Daniel Rapp](http://rappdaniel.com/), die über euren Browser einen 20KHz Ton abspielt, diesen per Web Audio API aufnimmt und mithilfe des [Doppler-Effekts](http://cl.ly/aAol) dann Handbewegungen vor eurem Bildschirm in Scrollen oder ein Theremin verwandelt. (via [HTML5 Weekly](http://html5weekly.com/issues/179))

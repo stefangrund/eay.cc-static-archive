@@ -15,7 +15,7 @@ tags:
   - konsum
   - musik
 meta:
-  - yourls_shorturl: "http://eay.li/6h"
+  - yourls_shorturl: "https://eay.li/6h"
 ---
 
 ![](/uploads/2007/godssteaks.jpg)Ich habe mir, wie ja schon [lange angekündigt](//eay.cc/2007/neue-platten-braucht-der-schrank/), am vergangenen Erscheinungsfreitag die neuen Alben der [Gods of Blitz](http://www.godsofblitz.com/) und der [Beatsteaks](http://www.beatsteaks.org/) gekauft. Zwei CDs, zwei Berliner Bands, ein Fan: ich. Mir scheint's als wäre es Zeit für einen Ersteindruck. Nun denn...

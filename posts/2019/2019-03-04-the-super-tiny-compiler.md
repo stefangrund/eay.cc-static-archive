@@ -15,7 +15,7 @@ tags:
   - web-development
 meta:
   - linked_list_url: "https://github.com/jamiebuilds/the-super-tiny-compiler"
-  - yourls_shorturl: "http://eay.li/39b"
+  - yourls_shorturl: "https://eay.li/39b"
 ---
 
 [Jamie Kyle](https://jamie.build/) vermittelt das Funktionieren eines Compilers – im Quelltext eines Compilers. Tolle Idee.

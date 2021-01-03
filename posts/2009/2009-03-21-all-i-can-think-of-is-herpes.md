@@ -13,7 +13,7 @@ tags:
   - nahrung
   - werbung
 meta:
-  - yourls_shorturl: "http://eay.li/21"
+  - yourls_shorturl: "https://eay.li/21"
 ---
 
 Wer von der [Ehrmann-Erdbeer-Zunge](http://img520.imageshack.us/img520/3086/0102053197700.jpg) genauso angeekelt war wie ich, der hat gute Chancen auch [diese Lippenverzierungen](http://www.pimpettes.de/index.php/2009/03/02/rote-lippen-soll-man-kussen/) widerlich zu finden. Pfui. Da kann man ja direkt nach [Herpes-Bildern](http://images.google.de/images?q=herpes) suchen. **Achtung:** hinter den Links kann und wird sich Ekelcontent verbergen! ([via](http://www.actionbored.de/2009/03/19/bunte-lippe/))

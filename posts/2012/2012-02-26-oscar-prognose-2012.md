@@ -15,7 +15,7 @@ tags:
   - oscars
   - wetten
 meta:
-  - yourls_shorturl: "http://eay.li/1gb"
+  - yourls_shorturl: "https://eay.li/1gb"
 ---
 
 ![](https://eay.cc/uploads/2010/oscar.jpg)Es ist wieder so weit: die Nacht der Nächte liegt vor uns, die Academy of Motion Picture Arts and Sciences lädt zu den [84th Academy Awards](http://en.wikipedia.org/wiki/84th_Academy_Awards). Alles was im Filmgeschäft Rang und Namen hat, sitzt im Hollywood and Highland Center und hofft darauf, die wohl begehrteste Filmtrophäe der Welt einheimsen zu können. Der Rest der filminteressierten Welt sitzt vor dem Fernseher und schaut ihnen dabei zu.

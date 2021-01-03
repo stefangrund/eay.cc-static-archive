@@ -17,7 +17,7 @@ tags:
   - kinolog
   - martin-mcdonagh
 meta:
-  - yourls_shorturl: "http://eay.li/6w"
+  - yourls_shorturl: "https://eay.li/6w"
 ---
 
 ![](/uploads/2008/inbruges.jpg)Gestern Abend habe ich es endlich geschafft, mir [Brügge sehen... und sterben?](http://www.imdb.com/title/tt0780536/) (im Original kurz, bündig und spoilerfrei: In Bruges) anzusehen. Obwohl der Film bereits seit elf Wochen läuft, war der Saal erstaunlich voll. Ja, wir haben es hier scheinbar mit einem Geheimtipp und Kritikerliebling zu tun - aber ist das auch gerechtfertigt? Hierum geht's jedenfalls: Nachdem ein Auftrag in London nicht so gut gelaufen ist, werden die ungleichen, aber befreundeten Profikiller Ray (Colin Farrell) und Ken (Brendan Gleeson) von ihrem Boss in das belgische Touristenstädtchen [Brügge](http://www.brugge.be/internet/de/index.htm) geschickt. Hier sollen sie auf weitere Instruktionen warten. Während Ken die mittelalterlichen Sehenswürdigkeiten bestaunt, langweilt sich der von Selbstzweifeln geplagte Ray zu Tode und ertränkt seine Langeweile im Pub - bis er die aus Brügge stammende Drogendealerin Chloé« kennenlernt. Doch dann bekommt Ken den Auftrag seinen frisch verliebten Kollegen zu erledigen...

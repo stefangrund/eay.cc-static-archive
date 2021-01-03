@@ -14,7 +14,7 @@ tags:
   - gta
   - xbox
 meta:
-  - yourls_shorturl: "http://eay.li/7c"
+  - yourls_shorturl: "https://eay.li/7c"
 ---
 
 Das [Official Xbox Magazin](http://www.oxmonline.com/) hat in seiner aktuellen Ausgabe die welterste Rezension von GTA IV veröffentlicht und alle Befürchtungen weggefegt: Man ist schlichtweg begeistert, seht selbst:

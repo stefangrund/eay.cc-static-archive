@@ -15,7 +15,7 @@ tags:
   - kira-und-ich
   - koeln
 meta:
-  - yourls_shorturl: "http://eay.li/2cm"
+  - yourls_shorturl: "https://eay.li/2cm"
 ---
 
 Was ein bürokratischer Kraftakt! Als wäre ich der erste Mensch, der in Köln geboren ist, in Bergheim wohnt und in Köln heiraten will...

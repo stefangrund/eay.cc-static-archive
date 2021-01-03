@@ -16,7 +16,7 @@ tags:
   - polen
   - werbung
 meta:
-  - yourls_shorturl: "http://eay.li/mm"
+  - yourls_shorturl: "https://eay.li/mm"
 ---
 
 ![](/uploads/2008/iphonefail.jpg) -> [Orange bezahlt Schauspieler für das iPhone 3G-Schlangestehen](http://www.fscklog.com/2008/08/orange-bezahlt.html)

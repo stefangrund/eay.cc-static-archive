@@ -16,7 +16,7 @@ tags:
   - zukunft
 meta:
   - linked_list_url: "http://www.ycombinator.com/rfs/"
-  - yourls_shorturl: "http://eay.li/2j8"
+  - yourls_shorturl: "https://eay.li/2j8"
 ---
 
 Du bist Entrepreneur und immer auf der Suche nach der nächsten richtig großen Geschäftsidee? Leider leidest du unter chronischem Ideenmangel und auf Copycats haben ja schon die Samwer-Brüder ein Patent? Dann solltest du vielleicht einen Blick in die Liste wünschenswerter Startups werfen, die der Inkubator [Y Combinator](http://www.ycombinator.com/) dieser Tage veröffentlicht hat. Und dann nennt man Zuck und dich vielleicht schon demnächst in einem Atemzug.

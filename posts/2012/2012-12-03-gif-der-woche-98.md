@@ -14,7 +14,7 @@ tags:
   - gif-der-woche
   - katzencontent
 meta:
-  - yourls_shorturl: "http://eay.li/1pw"
+  - yourls_shorturl: "https://eay.li/1pw"
 ---
 
 ![](https://eay.cc/uploads/2012/wtf.gif) Whiskey Tango Foxtrot.

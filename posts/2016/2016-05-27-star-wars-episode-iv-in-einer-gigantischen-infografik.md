@@ -16,7 +16,7 @@ tags:
   - visualisierung
 meta:
   - linked_list_url: "http://swanh.net/"
-  - yourls_shorturl: "http://eay.li/2tp"
+  - yourls_shorturl: "https://eay.li/2tp"
 ---
 
 [Martin Panchaud](http://www.martinpanchaud.ch/) hat den ersten Krieg der Sterne in einer beeindruckenden, 123 Meter langen und 465152 Pixel hohen Infografik nacherzählt.

@@ -16,7 +16,7 @@ tags:
   - kickstarter
   - kickstarter-der-woche
 meta:
-  - yourls_shorturl: "http://eay.li/23a"
+  - yourls_shorturl: "https://eay.li/23a"
   - linked_list_url: "http://www.kickstarter.com/projects/26788492/aaron-swartz-documentary-the-internets-own-boy-0"
 ---
 

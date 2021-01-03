@@ -14,7 +14,7 @@ tags:
   - netzkultur
   - technologie
 meta:
-  - yourls_shorturl: "http://eay.li/2aq"
+  - yourls_shorturl: "https://eay.li/2aq"
 ---
 
 \[youtube id="N6UW0JY5PUs"\]

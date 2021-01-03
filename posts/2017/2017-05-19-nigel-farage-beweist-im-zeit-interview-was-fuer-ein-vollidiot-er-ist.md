@@ -17,7 +17,7 @@ tags:
   - uk
 meta:
   - linked_list_url: "http://www.zeit.de/amp/politik/ausland/2017-05/nigel-farage-brexit-ukip-russia-contacts"
-  - yourls_shorturl: "http://eay.li/2yu"
+  - yourls_shorturl: "https://eay.li/2yu"
 ---
 
 Wären die Folgen nicht so dramatisch, man müsste die ganze Zeit heulen vor lachen.

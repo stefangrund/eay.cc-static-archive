@@ -16,7 +16,7 @@ tags:
   - sequel
   - webservice
 meta:
-  - yourls_shorturl: "http://eay.li/c8"
+  - yourls_shorturl: "https://eay.li/c8"
 ---
 
 Lange nichts [köst.lich.es](//eay.cc/themen/koestliches/) mehr gehabt, hier. Um die Zeit bis zum samstäglichen Besäufnis zur samstäglichen Pflege sozialer Kontakte zu überbrücken, empfehlt das Haus folgende Links:

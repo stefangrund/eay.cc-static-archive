@@ -17,7 +17,7 @@ tags:
   - twitter
   - web-2-0
 meta:
-  - yourls_shorturl: "http://eay.li/6jt"
+  - yourls_shorturl: "https://eay.li/6jt"
 ---
 
 Heute vor sechs Jahren, am 23. November 2006, also rund vier Monate nachdem twttr, wie der Dienst zu diesem Zeitpunkt noch hieß, öffentlich gestartet wurde, meldete ich [mich bei Twitter](https://twitter.com/Eay) an. Der ominöse Microblogging-Dienst wurde damals als Insidertipp unter hippen Early Adopters und auf den einschlägigen Social Media-Blogs herumgereicht. Die Beteiligung der [Blogger](http://www.blogger.com/)\-Erfinder [Biz Stone](http://www.bizstone.com/) und [Evan Williams](http://evhead.com/) weckte auch meine Aufmerksamkeit. Dass ich damals noch nicht so recht wußte, wozu der Dienst überhaupt gut sein soll, spiegelte sich dann auch in [meinem ersten Tweet](https://twitter.com/Eay/statuses/126903), der damals noch gar nicht Tweet hieß, wieder ((Funfact: Mein erster Tweet hat die ID 126.903. [Der Tweet](https://twitter.com/Eay/status/271973249729036288), mit dem ich auf diesen Eintrag verwies, die ID 271.973.249.729.036.288. Ergo: Es wird SEHR VIEL getwittert.)):

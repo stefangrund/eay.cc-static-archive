@@ -13,7 +13,7 @@ tags:
   - output
   - tipps
 meta:
-  - yourls_shorturl: "http://eay.li/o7"
+  - yourls_shorturl: "https://eay.li/o7"
 ---
 
 ![](/uploads/2007/oben.gif) Man kennt das ja: Zwar weiss man [wo genau Süden ist](//eay.cc/2007/wenn-sie-mal-wieder-sueden-suchen/), aber oben? Keine Ahnung. Nun wäre eayz nicht Ihre Lieblingswebseite, wenn wir Ihnen da nicht weiterhelfen würden: Legen Sie eine Armbanduhr wie abgebildet in Ihre Hand → oben ist dort, wohin das Ziffernblatt zeigt.

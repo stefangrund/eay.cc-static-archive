@@ -15,7 +15,7 @@ tags:
   - star-wars
   - trailer
 meta:
-  - yourls_shorturl: "http://eay.li/2qe"
+  - yourls_shorturl: "https://eay.li/2qe"
 ---
 
 Nach den [ersten](//eay.cc/2014/teaser-zu-star-wars-the-force-awakens/) [beiden](//eay.cc/2015/chewie-were-home/) Teasern hier nun der offizielle Trailer zum Film des Jahres:

@@ -15,7 +15,7 @@ tags:
   - netzkultur
 meta:
   - linked_list_url: "http://googleblog.blogspot.de/2015/09/google-update.html"
-  - yourls_shorturl: "http://eay.li/2py"
+  - yourls_shorturl: "https://eay.li/2py"
 ---
 
 Und hat sich zur Feier des Tages dieses Video gegönnt, das sehr nett die Evolution von Google und Logo zeigt:

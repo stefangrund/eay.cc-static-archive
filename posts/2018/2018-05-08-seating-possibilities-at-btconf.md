@@ -16,7 +16,7 @@ tags:
   - konferenz
 meta:
   - content_copy: "https://instagram.com/p/Biht7HABxsW/"
-  - yourls_shorturl: "http://eay.li/353"
+  - yourls_shorturl: "https://eay.li/353"
   - geo_latitude: "51.223639"
   - geo_longitude: "6.799466"
   - geo_public: "1"

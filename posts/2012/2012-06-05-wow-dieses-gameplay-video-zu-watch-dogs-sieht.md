@@ -13,7 +13,7 @@ tags:
   - games
   - video
 meta:
-  - yourls_shorturl: "http://eay.li/1xl"
+  - yourls_shorturl: "https://eay.li/1xl"
   - linked_list_url: "http://www.youtube.com/watch?v=FcMRkyoHKeA"
 ---
 

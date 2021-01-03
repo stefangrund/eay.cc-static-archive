@@ -16,7 +16,7 @@ tags:
   - research
   - xbox
 meta:
-  - yourls_shorturl: "http://eay.li/21d"
+  - yourls_shorturl: "https://eay.li/21d"
   - linked_list_url: "http://www.youtube.com/watch?v=re1EatGRV0w"
 ---
 

@@ -16,7 +16,7 @@ tags:
   - wordpress
 meta:
   - linked_list_url: "http://www.tomwitkin.com/poster/acquired/"
-  - yourls_shorturl: "http://eay.li/23y"
+  - yourls_shorturl: "https://eay.li/23y"
 ---
 
 [Automattic](http://automattic.com/), die Macher von Wordpress, haben sich mit [Tom Witkin](https://twitter.com/tom_witkin) einen der ambitioniertesten Entwickler für mobile Blogging-Software ins Boot geholt. Ich persönlich mochte die [offizielle Wordpress-App](https://itun.es/de/i9Mau.i) immer lieber, aber Poster befindet sich dank großartiger Features gleich neben ihr. Poster wird fortan nicht weiter entwickelt und verkauf, so dass zu erwarten ist, dass all die guten Sachen daraus früher oder später in die besagte offizielle Wordpress-App einfließen werden. Was mich sehr freut. (via [512 Pixels](http://512pixels.net/2013/06/poster-acquired-by-automattic/))

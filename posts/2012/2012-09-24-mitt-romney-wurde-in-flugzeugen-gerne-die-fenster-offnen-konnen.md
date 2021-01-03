@@ -14,7 +14,7 @@ tags:
   - mitt-romney
   - usa
 meta:
-  - yourls_shorturl: "http://eay.li/1yv"
+  - yourls_shorturl: "https://eay.li/1yv"
   - linked_list_url: "https://gawker.com/5945967/romney-doesnt-know-why-airplane-windows-wont-open-calls-the-closed-window-policy-a-real-problem"
 ---
 

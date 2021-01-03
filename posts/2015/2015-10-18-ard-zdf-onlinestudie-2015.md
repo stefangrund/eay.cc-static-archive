@@ -23,7 +23,7 @@ meta:
   - linked_list_url: "http://www.ard-zdf-onlinestudie.de/index.php?id=541"
   - linked_list_url: "http://www.ard-zdf-onlinestudie.de/index.php?id=541"
   - linked_list_url: "http://www.ard-zdf-onlinestudie.de/index.php?id=541"
-  - yourls_shorturl: "http://eay.li/2qd"
+  - yourls_shorturl: "https://eay.li/2qd"
 ---
 
 In dieser Woche wurde zudem die diesjährige Neulandstudie von ARD und ZDF veröffentlicht. Das wenig überraschende Ergebnis: Mehr Internet für alle und das überall, sprich: mobile. Was früher mal Content war, ist nun WhatsApp: King.

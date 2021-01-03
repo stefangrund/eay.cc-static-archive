@@ -15,7 +15,7 @@ tags:
   - roland-emmerich
   - til-schweiger
 meta:
-  - yourls_shorturl: "http://eay.li/mr"
+  - yourls_shorturl: "https://eay.li/mr"
 ---
 
 Dieses Mal mit Roland Emmerichs Weltuntergangsverfilmung "2012", einem rachsüchtigen Gerard Butler in "Gesetz der Rache" und "Zweiohrküken", dem Sequel zu "Keinohrhasen". Und es geht heiß her: nach anfänglicher Begeisterung, fangen wir an zu trauern und werden schließlich aggressiv - aber lest selbst...

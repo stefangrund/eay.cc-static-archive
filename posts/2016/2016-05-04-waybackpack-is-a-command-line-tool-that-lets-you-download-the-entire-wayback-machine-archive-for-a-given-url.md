@@ -11,7 +11,7 @@ categories:
   - 0815
 meta:
   - linked_list_url: "https://github.com/jsvine/waybackpack"
-  - yourls_shorturl: "http://eay.li/2sx"
+  - yourls_shorturl: "https://eay.li/2sx"
 ---
 
 (via [Waxy Links](http://waxy.org/links))

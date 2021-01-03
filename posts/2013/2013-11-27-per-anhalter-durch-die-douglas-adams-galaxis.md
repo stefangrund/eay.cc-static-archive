@@ -16,7 +16,7 @@ tags:
   - radio
 meta:
   - linked_list_url: "http://www.br.de/radio/bayern2/sendungen/zuendfunk/kolumnen-sendungen/langstrecke/langstrecke-douglas-adams100.html"
-  - yourls_shorturl: "http://eay.li/2a0"
+  - yourls_shorturl: "https://eay.li/2a0"
 ---
 
 Schönes Radiofeature vom Bayern 2 Zündfunk. Hier der [Direktdownload](http://cdn-storage.br.de/MUJIuUOVBwQIbtChb6OHu7ODifWH_-b6/_AiS/_y4G9-rf/131123_1905_Zuendfunk_42-und-der-ganze-Rest---Per-Anhalter-durch-.mp3). (via [Swen](http://swen.antville.org/stories/2182170/))

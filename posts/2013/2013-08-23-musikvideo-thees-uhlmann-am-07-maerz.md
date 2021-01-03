@@ -17,7 +17,7 @@ tags:
 meta:
   - linked_list_url: "https://www.youtube.com/watch?v=ZTLiC0xuhbA"
   - linked_list_url: "https://www.youtube.com/watch?v=ZTLiC0xuhbA"
-  - yourls_shorturl: "http://eay.li/26m"
+  - yourls_shorturl: "https://eay.li/26m"
 ---
 
 Gefällt! Und [Johnny hat recht](http://www.spreeblick.com/2013/08/23/thees-uhlmann-am-7-marz/): "Ein Wikipedia-Artikel zum Mitsingen, sozusagen." Nächste Woche, am 30.08., erscheint Thees' zweites Studioalbum â#2â, das natürlich direkt gekauft wird.

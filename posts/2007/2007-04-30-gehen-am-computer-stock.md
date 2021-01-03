@@ -11,7 +11,7 @@ tags:
   - computer
   - stoeckchen
 meta:
-  - yourls_shorturl: "http://eay.li/6g"
+  - yourls_shorturl: "https://eay.li/6g"
 ---
 
 El Jefe hat mal wieder ein Stöckchen bekommen (und eins steckt noch in der Pipeline). Diesmal geht's um Computer, -Spiele und das Internetz, zugeworfen von [Jennysis](http://www.jennysis.de/blog/2007/04/29/stoeoeoeoeoeoeckchen/). Vielen Dank dafür und auch für euren jetzt folgenden Klick plus Aufmerksamkeit.

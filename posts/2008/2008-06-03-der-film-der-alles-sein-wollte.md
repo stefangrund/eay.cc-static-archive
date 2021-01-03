@@ -16,7 +16,7 @@ tags:
   - trash
   - zombies
 meta:
-  - yourls_shorturl: "http://eay.li/f3"
+  - yourls_shorturl: "https://eay.li/f3"
 ---
 
 ![](/uploads/2008/doomsday.jpg)Gestern im Sneak Preview [Doomsday](http://www.imdb.com/title/tt0483607/) gesehen - und sowas hab ich bisher außerhalb fragwürdiger [Spoof](//eay.cc/tag/spoof/)\-Movies noch nicht gesehen, denn Doomsday versucht alle erfolgreichen Genres und alle Kultfilme der letzten Jahre in sich zu vereinen. 28 Days later trifft die Klapperschlange trifft Mad Max trifft Herr der Ringe trifft Gladiator trifft [I am Legend](//eay.cc/2008/ich-bin-legende/) und wird versüßt mit ner Prise Kannibalismus und Splatter. Story-technisch kommt uns der ganze Spaß dementsprechend bekannt vor: In Schottland bricht ein tödlicher (Zombie-)Virus aus, weshalb Großbritannien das Land aufgibt, zehn Meter hohe Mauern drum errichtet und die Schotten sich selbst überlässt. Soweit so gut bis besagter Virus plötzlich in London auftaucht und man geheimen Satellitenfotos zufolge bemerkt, dass es wieder menschliches Leben auf Glasgows Straßen gibt. Grund genug ein Team (inklusive Ex-Schottin) ins heruntergekommene Schottland zu schicken, um vor Ort nach einem Impfstoff zu suchen. Auf die Hilfe der "Wilden" vor Ort kann das Team indes nicht hoffen, denn diese vertreiben sich ihre Zeit lieber mit Kannibalismus und Ritterspielchen und sind vom eingetroffenen Besuch gar nicht begeistert.

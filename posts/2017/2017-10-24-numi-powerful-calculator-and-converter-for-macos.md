@@ -16,7 +16,7 @@ tags:
   - tool
 meta:
   - linked_list_url: "http://numi.io/"
-  - yourls_shorturl: "http://eay.li/320"
+  - yourls_shorturl: "https://eay.li/320"
   - content_copy: "https://twitter.com/eay/status/923089780455497728"
 ---
 

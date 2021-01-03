@@ -18,7 +18,7 @@ tags:
   - terrorismus
   - terroristen
 meta:
-  - yourls_shorturl: "http://eay.li/kp"
+  - yourls_shorturl: "https://eay.li/kp"
 ---
 
 Nach dem Klick ein feines Video, in dem Noch-US-Präsi George W. Bush von einem irakischen Journalisten im Irak mit Schuhen beworfen wird. Das üben wir aber nochmal. Dennoch: made my (boring) day.

@@ -15,7 +15,7 @@ tags:
   - batman
   - fanart
 meta:
-  - yourls_shorturl: "http://eay.li/1ao"
+  - yourls_shorturl: "https://eay.li/1ao"
 ---
 
 [![](https://eay.cc/uploads/2011/batshit.jpg)](http://m7781.deviantart.com/art/downside-of-having-a-batcave-254683654) [Marco D'Alfonso](http://www.marcodalfonso.com/) hat in [obiger Illustration](http://m7781.deviantart.com/art/downside-of-having-a-batcave-254683654) ein Problem aufgegriffen, dass in den Comics total vernachlässigt wurde: Fledermausscheiße. (via [Rampaged Reality](http://rampagedreality.com/post/9332646852/batcavepoopin))

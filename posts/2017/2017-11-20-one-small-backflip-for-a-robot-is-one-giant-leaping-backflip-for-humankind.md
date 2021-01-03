@@ -15,7 +15,7 @@ tags:
   - technologie
 meta:
   - linked_list_url: "https://www.theverge.com/circuitbreaker/2017/11/17/16671328/boston-dynamics-backflip-robot-atlas"
-  - yourls_shorturl: "http://eay.li/32e"
+  - yourls_shorturl: "https://eay.li/32e"
 ---
 
 Boston Dynamics' Atlas kann jetzt [Backflips](http://youtu.be/fRj34o4hN4I).

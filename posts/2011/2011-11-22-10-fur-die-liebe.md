@@ -17,7 +17,7 @@ tags:
   - social-media
   - twitter
 meta:
-  - yourls_shorturl: "http://eay.li/1ck"
+  - yourls_shorturl: "https://eay.li/1ck"
 ---
 
 \[An dieser Stelle waren ein Social-Media-Buttons von Twitter, Google+ und Facebook eingebunden.\]

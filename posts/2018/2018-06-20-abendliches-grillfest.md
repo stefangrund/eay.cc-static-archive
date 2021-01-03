@@ -15,7 +15,7 @@ tags:
   - nahrung
 meta:
   - content_copy: "https://instagram.com/p/BkQedJShOyK/"
-  - yourls_shorturl: "http://eay.li/35m"
+  - yourls_shorturl: "https://eay.li/35m"
 ---
 
 ![](https://eay.cc/uploads/2018/abendliches-grillfest.jpeg)

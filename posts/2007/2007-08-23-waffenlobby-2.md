@@ -14,7 +14,7 @@ tags:
   - urlaub
   - waffen
 meta:
-  - yourls_shorturl: "http://eay.li/sx"
+  - yourls_shorturl: "https://eay.li/sx"
 ---
 
 ![](/uploads/2007/soaker.jpg)Der Notfall: Unsere [Gummi-Schießeisen](//eay.cc/2007/waffenlobby-1/) verfehlen ihre erschreckende Wirkung. Schaumstoffgeschosse prallen schmerzlos von unseren - selbstverständlich leblosen - Zielen ab. Am Ende ist es halt doch nur eine Spielerei für Kinder, unsere Glaubhauftigkeit ist dahin. Denkste! Der Notfallplan: Ein Griff zur nagelneuen, handlichen Super Soaker D Max 3000 _and you're king of the road again._ Ich kann einfach nicht widerstehen, wenn auf der Packung was von "nicht in Gesicht und Augen schießen" und Verletzungsgefahr steht. Unvernunft rulez!

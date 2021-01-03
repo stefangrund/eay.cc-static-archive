@@ -19,7 +19,7 @@ tags:
   - retrogames
   - the-dark-knight
 meta:
-  - yourls_shorturl: "http://eay.li/ki"
+  - yourls_shorturl: "https://eay.li/ki"
 ---
 
 Falls ihr euch schon immer gefragt habt, wie eine Umsetzung von [The Dark Knight](//eay.cc/2008/christopher-nolans-batman/) auf eurem alten, höchstwahrscheinlich nicht mehr funktionstüchtigem NES aussehen würde, seht selbst:

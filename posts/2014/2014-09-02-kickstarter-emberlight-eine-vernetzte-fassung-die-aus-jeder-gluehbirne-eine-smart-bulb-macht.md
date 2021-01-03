@@ -16,7 +16,7 @@ tags:
   - technologie
 meta:
   - linked_list_url: "https://www.kickstarter.com/projects/1375573028/emberlight-turn-any-light-into-a-smart-light"
-  - yourls_shorturl: "http://eay.li/2ir"
+  - yourls_shorturl: "https://eay.li/2ir"
 ---
 
 Wunderbare Alternative zu Philips Hue & Co., natürlich schon doppelt und dreifach finanziert.

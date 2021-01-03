@@ -14,7 +14,7 @@ tags:
   - netzkultur
   - twitter
 meta:
-  - yourls_shorturl: "http://eay.li/hg"
+  - yourls_shorturl: "https://eay.li/hg"
 ---
 
 [Diese Jungs hier](http://oomlout.co.uk/?p=79) haben offensichtlich zu viel Zeit und offensichtlich von den Tweeties und TwitterFons dieser Welt die Schnauze voll, so dass sie kurzerhand den besten Twitter-Client aller Zeiten gebastelt haben: eine Schreibmaschine, die neue Tweets ausgibt. Twittern selbst scheint damit jedoch nicht möglich zu sein, aber auch so: coolste nerdigste Papierverschwendung ever.

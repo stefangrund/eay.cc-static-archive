@@ -13,7 +13,7 @@ tags:
   - html5
   - webdesign
 meta:
-  - yourls_shorturl: "http://eay.li/23c"
+  - yourls_shorturl: "https://eay.li/23c"
   - linked_list_url: "http://svarden.se/blog/2013-04-22-right-click-and-save-as/"
 ---
 

@@ -16,7 +16,7 @@ tags:
   - musikindustrie
   - video
 meta:
-  - yourls_shorturl: "http://eay.li/205"
+  - yourls_shorturl: "https://eay.li/205"
   - linked_list_url: "http://www.youtube.com/watch?v=9ysyZF-DZFY"
 ---
 

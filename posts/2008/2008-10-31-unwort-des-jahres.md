@@ -15,7 +15,7 @@ tags:
   - unwort-des-jahres
   - worte
 meta:
-  - yourls_shorturl: "http://eay.li/8f"
+  - yourls_shorturl: "https://eay.li/8f"
 ---
 
 **Frankfurt am Main. Wiesbaden.** Am heutigen Freitag wurden in Frankfurt am Main sowie in Wiesbaden die Schlagwörter des Jahres bekanntgegeben. Wie die entsprechenden Stellen versicherten kam es dabei ohne Absprachen zu einem Novum in der Geschichte der deutschen Sprachkritik. Erstmals stimmen nämlich das "Wort des Jahres", das seit 1977 von der Gesellschaft für deutsche Sprache (GfdS) als sprachlicher Jahresrückblick veröffentlicht wird, und das negativ konnotierte "Unwort des Jahres", welches die Universität Frankfurt am Main seit 1994 jährlich auswählt, überein. Wort und Unwort des Jahres, so die Entscheidung der Hausherren des deutschen Wortschatzes, ist demnach der im Rahmen der von Marcel Reich-Ranicki angestoßenen Qualitätsdebatte um das deutsche Fernsehen entstandene Neologismus "Exkrementenfernsehen".

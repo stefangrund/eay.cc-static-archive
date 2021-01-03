@@ -13,7 +13,7 @@ tags:
   - filme
   - video-essay
 meta:
-  - yourls_shorturl: "http://eay.li/2ma"
+  - yourls_shorturl: "https://eay.li/2ma"
 ---
 
 Im letzten Jahr habe ich mich ein bisschen in das Format des [Video-Essays](//eay.cc/tag/video-essay/) verguckt. Ich glaube, dass diesem Internet-originären Format noch eine rosige Zukunft bevorsteht und überlege schon länger, wie und wofür ich es selbst mal einsetzen kann.

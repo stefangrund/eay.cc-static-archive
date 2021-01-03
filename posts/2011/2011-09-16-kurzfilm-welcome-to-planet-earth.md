@@ -15,7 +15,7 @@ tags:
   - filme
   - kurzfilm
 meta:
-  - yourls_shorturl: "http://eay.li/1b6"
+  - yourls_shorturl: "https://eay.li/1b6"
 ---
 
 Seitdem uns Andreas Türk und Bärbel Schäfer verlassen haben, ist es ruhig geworden in UFO-Deutschland. Den von UFOs entführten Erwin Koslowskis und mit Analsonden penetrierten Lieschen Müllers fehlt seitdem schlichtweg die Plattform, um von ihrer aberwitzigen Begegnungen der dritten Art zu berichten. In den USA sieht das anders aus: dort brummt das Business mit den Kornkreisen und grünen Männchen nach wie vor. Zwar ist es nicht mehr wie zur Hochzeit der X-Akten, aber wer nur lange genug auf seine Entführungsgeschichte besteht, kommt früher oder später ins US-Fernsehen oder zumindest eine Illustrierte, die den [Weekly World News](http://en.wikipedia.org/wiki/Weekly_World_News) in nichts nachsteht.

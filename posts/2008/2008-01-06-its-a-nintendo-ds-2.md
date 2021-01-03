@@ -17,7 +17,7 @@ tags:
   - nintendo
   - nintendo-ds
 meta:
-  - yourls_shorturl: "http://eay.li/h6"
+  - yourls_shorturl: "https://eay.li/h6"
 ---
 
 ![](/uploads/2008/ds2mockup.jpg) Was aussieht wie zwei aneinander geschraubte iPod Touchs, könnte der "Nintendo DS 2" sein. Zumindest wenn Apple daran mitarbeitet wenn [es nach Gizmodo geht](http://gizmodo.com/339601/nintendo-ds-2-the-3d-mock+up-makes-us-drool-even-more). Auf jeden Fall eine sehr feine Photoshop-Spielerei, die ich - Hallo, Nintendo! - sofort kaufen würde. ([via](http://hinterding.com/index.php?show_posting=2093))

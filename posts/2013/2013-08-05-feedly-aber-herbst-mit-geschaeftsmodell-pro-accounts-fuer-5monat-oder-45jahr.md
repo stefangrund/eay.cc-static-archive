@@ -16,7 +16,7 @@ tags:
   - webservice
 meta:
   - linked_list_url: "https://cloud.feedly.com/#pro"
-  - yourls_shorturl: "http://eay.li/25u"
+  - yourls_shorturl: "https://eay.li/25u"
 ---
 
 Zu den ersten Pro-Features gehören Evernote-Export, Artikelsuche, Premium-Support und https, wobei letzteres danach auch den nicht zahlenden Nutzern verfügbar gemacht werden soll. Außerdem gab's heute 5000 Lifetime-Accounts für jeweils 99$, die innerhalb von acht Stunden verkauft waren.

@@ -15,7 +15,7 @@ tags:
   - mashup
   - star-wars
 meta:
-  - yourls_shorturl: "http://eay.li/1kd"
+  - yourls_shorturl: "https://eay.li/1kd"
 ---
 
 Ja, das hier ist jetzt ein »Game of Thrones«-Fanblog. Wenn euch das nicht passt, kündigt eure Abos. Dann erfahrt ihr allerdings auch nicht, wie man eine großartige Serie wie »Game of Thrones« noch großartiger machen kann. Wie alles nämlich: mit Lichtschwertern. (via [Kottke](http://kottke.org/12/07/game-of-thrones-with-lightsabers))

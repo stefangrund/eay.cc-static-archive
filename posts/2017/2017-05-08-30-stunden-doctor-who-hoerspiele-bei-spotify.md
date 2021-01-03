@@ -16,7 +16,7 @@ tags:
   - spotify
 meta:
   - linked_list_url: "http://www.openculture.com/2017/05/30-hours-of-doctor-who-audio-dramas-now-streaming-on-spotify.html"
-  - yourls_shorturl: "http://eay.li/2y6"
+  - yourls_shorturl: "https://eay.li/2y6"
 ---
 
 Die Arbeitswoche ist gerettet. ;)

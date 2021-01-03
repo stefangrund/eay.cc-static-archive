@@ -18,7 +18,7 @@ tags:
   - star-wars
 meta:
   - content_copy: "https://www.instagram.com/p/B7g6QgUIkLe/"
-  - yourls_shorturl: "http://eay.li/3ci"
+  - yourls_shorturl: "https://eay.li/3ci"
   - content_copy: "https://twitter.com/eay/status/1218992884139134978"
 ---
 

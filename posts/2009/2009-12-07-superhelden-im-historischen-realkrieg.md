@@ -17,7 +17,7 @@ tags:
   - krieg
   - superhelden
 meta:
-  - yourls_shorturl: "http://eay.li/28"
+  - yourls_shorturl: "https://eay.li/28"
 ---
 
 ![](https://eay.cc/uploads/2009/superman1945.jpg) Hier etwas für die anwesenden [Watchmen](//eay.cc/tag/watchmen/)\-Fans, quasi: [Agan Harahap aka Toyib](http://toyib.deviantart.com/) hat diverse Superhelden in den historischen Realkrieg verfrachtet. Oben zu sehen: Superman zusammen mit US-Soldaten, die 1945 Schloss Neuschwanstein räumen, in dem die Nazis zahlreiche Kunstwerke versteckten, die sie während des Kriegs erbeuteten. Mehr historische Superhelden gibt's [in Toyibs Galerie](http://toyib.deviantart.com/gallery/). ([via](http://www.feingut.de/2009/12/04/when-unreal-heros-meets-real-hard-history/))

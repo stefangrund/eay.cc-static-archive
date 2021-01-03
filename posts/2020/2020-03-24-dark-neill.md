@@ -16,7 +16,7 @@ tags:
   - in-eigener-sache
   - webdesign
 meta:
-  - yourls_shorturl: "http://eay.li/3dc"
+  - yourls_shorturl: "https://eay.li/3dc"
   - geo_latitude: "50.973897189859"
   - geo_longitude: "6.6829894043465"
   - geo_public: "1"

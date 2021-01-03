@@ -13,7 +13,7 @@ tags:
   - design
   - gif-der-woche
 meta:
-  - yourls_shorturl: "http://eay.li/1im"
+  - yourls_shorturl: "https://eay.li/1im"
 ---
 
 ![](https://eay.cc/uploads/2012/mrdiv.gif) Das dieswöchige .gif stammt vom Motion Graphics Designer [Matthew DiVito](http://cargocollective.com/matthewdivito/), der unter dem Pseudonym [Mr. Div](http://mrdiv.tumblr.com/) auf Tumblr sehenswerte, leicht hypnotisierende .gifs mit geometrischen und gänzlich abstrakten Formen veröffentlicht. (via [Yewknee](http://yewknee.com/blog/14355/))

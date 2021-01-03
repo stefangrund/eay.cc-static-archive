@@ -14,7 +14,7 @@ tags:
   - vinyl
   - zombies
 meta:
-  - yourls_shorturl: "http://eay.li/xm"
+  - yourls_shorturl: "https://eay.li/xm"
 ---
 
 ![](https://eay.cc/uploads/2009/zombiesolid.jpg) Wenn es euch wie mir geht, dann fehlt euch nicht nur [ein funktionsfähiges Auto](http://search.twitter.com/search?q=auto+OR+totalschaden+from%3AEay) in der Garage, sondern auch ein zombiefizierter Solid Snake im Schrank. Zumindest um letzteres zu ändern, erscheint im Oktober eine Vinyl-Figur von Zombie-Snake, die für den geradezu lächerlichen Unkostenbeitrag von 80 Dollar [zu haben ist](http://www.entertainmentearth.com/prodinfo.asp?number=DC88129). Und müsste ich die 80 Oschen nicht in ein neues Auto investieren, würde ich mir den Zombie-Snake garantiert gönnen. ([via](http://blog.newsarama.com/2009/05/19/solid-snake-liquid-snake-rotting-snake/))

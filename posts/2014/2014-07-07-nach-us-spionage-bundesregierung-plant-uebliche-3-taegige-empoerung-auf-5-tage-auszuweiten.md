@@ -18,7 +18,7 @@ tags:
   - usa
 meta:
   - linked_list_url: "http://www.der-postillon.com/2014/07/nach-us-spionage-bundesregierung-plant.html"
-  - yourls_shorturl: "http://eay.li/2he"
+  - yourls_shorturl: "https://eay.li/2he"
 ---
 
 > Eine fünftägige Empörung gilt als das schärfste diplomatische Mittel, das Deutschland im Umgang mit den USA zur Verfügung steht.

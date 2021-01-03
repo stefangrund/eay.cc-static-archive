@@ -15,7 +15,7 @@ tags:
   - nordkorea
 meta:
   - linked_list_url: "http://northkoreaninteriors.tumblr.com/"
-  - yourls_shorturl: "http://eay.li/2r6"
+  - yourls_shorturl: "https://eay.li/2r6"
 ---
 
 [Felix](http://wirres.net/article/articleview/8864/1/6/):

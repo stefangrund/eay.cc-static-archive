@@ -15,7 +15,7 @@ tags:
   - niederlande
   - rock-am-ring
 meta:
-  - yourls_shorturl: "http://eay.li/vb"
+  - yourls_shorturl: "https://eay.li/vb"
 ---
 
 ![](/uploads/2008/rarnahrung.jpg) Heute nach Holland gejettet und feines, deutsches (absurd, aber so ist es...) Dosenbier gekauft. Der Grundnahrungsmittelbedarf für Rock am Ring ist somit gedeckt. Ich frag mich nur, was die anderen trinken...

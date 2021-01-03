@@ -14,7 +14,7 @@ tags:
   - dc
   - unternehmen
 meta:
-  - yourls_shorturl: "http://eay.li/1xk"
+  - yourls_shorturl: "https://eay.li/1xk"
   - linked_list_url: "http://www.buzzfeed.com/sly/working-at-dc-comics-looks-like-a-dream-job"
 ---
 

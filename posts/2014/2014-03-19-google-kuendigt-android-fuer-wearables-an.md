@@ -18,7 +18,7 @@ tags:
   - zukunft
 meta:
   - linked_list_url: "https://developer.android.com/wear/index.html"
-  - yourls_shorturl: "http://eay.li/2dx"
+  - yourls_shorturl: "https://eay.li/2dx"
 ---
 
 Passend zum Kapitel "Wearables und weitere Sensoren" in meiner Bachelorarbeit hat Google nun "Android Wear" angekündigt, eine angepasste Android-Version für Uhren und... vor allem für Uhren. Runde und eckige. Mit der [Moto 360 von Motorola](http://moto360.motorola.com/) haben sie zudem gleich eine eigene Smartwatch im Programm.

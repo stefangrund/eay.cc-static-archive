@@ -17,7 +17,7 @@ tags:
   - zukunft
 meta:
   - linked_list_url: "http://qz.com/266665/the-us-will-spend-6-8-billion-hiring-boeing-and-spacex-to-build-new-spacecraft/"
-  - yourls_shorturl: "http://eay.li/2j5"
+  - yourls_shorturl: "https://eay.li/2j5"
 ---
 
 > NASA will spend $6.4 billion on two contracts to replace the space shuttle and ferry astronauts to the International Space Station. US aerospace giant Boeing will earn $4.2 billion and entrepreneur Elon Musk´s SpaceX will be paid $2.6 billion to develop their respective spacecraft. The former company is considered âthe least risky optionâ (paywall), but upstart SpaceX´s system is cheaper and doesn´t rely on imported Russian parts.

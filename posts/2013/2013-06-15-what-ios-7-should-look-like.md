@@ -16,7 +16,7 @@ tags:
   - redesign
 meta:
   - linked_list_url: "http://tristanedwards.me/what-ios7-should-look-like"
-  - yourls_shorturl: "http://eay.li/23z"
+  - yourls_shorturl: "https://eay.li/23z"
 ---
 
 I would love to use Tristan Edwards' version of iOS 7.

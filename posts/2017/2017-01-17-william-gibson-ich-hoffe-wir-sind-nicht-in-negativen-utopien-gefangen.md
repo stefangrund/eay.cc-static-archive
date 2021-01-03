@@ -17,7 +17,7 @@ tags:
   - zukunft
 meta:
   - linked_list_url: "http://www.zeit.de/zeit-magazin/leben/2017-01/william-gibson-science-fiction-neuromancer-cyberspace-futurist"
-  - yourls_shorturl: "http://eay.li/2w9"
+  - yourls_shorturl: "https://eay.li/2w9"
 ---
 
 > Keiner hat die Zukunft so vorhergesehen wie der US-Autor William Gibson. Zeit, mit ihm über ewiges Leben, Computer mit Charakter und Trumps Parallelwelt zu sprechen. Ein Interview von Jochen Wegner.

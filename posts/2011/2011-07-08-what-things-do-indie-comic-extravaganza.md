@@ -14,7 +14,7 @@ tags:
   - spiderman
   - webcomic
 meta:
-  - yourls_shorturl: "http://eay.li/19v"
+  - yourls_shorturl: "https://eay.li/19v"
 ---
 
 ![](https://eay.cc/uploads/2011/petersmuscle.gif) Keine Ahnung, wie alt oder neu diese Seite ist, aber ich hab sie gerade erst entdeckt und finde sie grandios: [What Things Do](http://whatthingsdo.com/). Dort gibt's nämlich zahlreiche Indie-Comics, von denen viele überaus lesens- und sehenswert sind. Wie zum Beispiel [Peter's Muscle](http://whatthingsdo.com/comic/peters-muscle/) von [Michael DeForge](http://whatthingsdo.com/authors/michael-deforge/) aus dem obige Panel stammen. Darin pfeift Tante May auf Onkel Ben und hat sich in Doc Octopus' prächtige Tentakel verguckt. Ihr wisst schon. Eignet sich btw auch hervorragend zur Lektüre auf eurem iPad. [Ansehbefehl](http://whatthingsdo.com/).

@@ -16,7 +16,7 @@ tags:
   - serien
   - streaming
 meta:
-  - yourls_shorturl: "http://eay.li/2fz"
+  - yourls_shorturl: "https://eay.li/2fz"
 ---
 
 Die [Gerüchte](//eay.cc/2014/netflix-soll-im-september-in-deutschland-starten/) bewahrheiten sich: Netflix hat gestern [per Tweet](https://twitter.com/netflix/statuses/468968393052528641) den Start seines Streaming-Angebots in Deutschland, Österreich, der Schweiz, Frankreich, Belgien und Luxemburg für "later this year" angekündigt.

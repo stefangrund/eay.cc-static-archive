@@ -16,7 +16,7 @@ tags:
   - he-man
   - motu
 meta:
-  - yourls_shorturl: "http://eay.li/2bv"
+  - yourls_shorturl: "https://eay.li/2bv"
 ---
 
 \[youtube id="8w11OsruvZw"\]

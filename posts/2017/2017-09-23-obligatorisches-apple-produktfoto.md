@@ -16,7 +16,7 @@ tags:
   - konsum
 meta:
   - content_copy: "https://instagram.com/p/BZZUfnJFpBC/"
-  - yourls_shorturl: "http://eay.li/319"
+  - yourls_shorturl: "https://eay.li/319"
 ---
 
 ![](https://eay.cc/uploads/2017/appletv.jpg)

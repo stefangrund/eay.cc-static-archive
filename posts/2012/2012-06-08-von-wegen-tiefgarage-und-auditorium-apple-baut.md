@@ -13,7 +13,7 @@ tags:
   - apple
   - batman
 meta:
-  - yourls_shorturl: "http://eay.li/1xo"
+  - yourls_shorturl: "https://eay.li/1xo"
   - linked_list_url: "http://www.cultofmac.com/172258/this-is-the-gigantic-underground-auditorium-where-apple-will-unveil-all-its-future-products/"
 ---
 

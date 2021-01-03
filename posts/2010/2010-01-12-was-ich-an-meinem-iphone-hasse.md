@@ -15,7 +15,7 @@ tags:
   - konsum
   - problem
 meta:
-  - yourls_shorturl: "http://eay.li/go"
+  - yourls_shorturl: "https://eay.li/go"
 ---
 
 Das [iPhone](//eay.cc/tag/iphone/) ist spätestens seit OS 3.0 das beste Handy, das es gibt. Trotzdem steht auf vielen Wunschzetteln [noch einiges geschrieben](http://www.tuaw.com/2010/01/10/dear-apple-what-we-want-to-see-for-iphone-4-0-part-1/). Ich bin da viel bescheidener und fordere Apple nur dazu auf, den fiesesten aller UI-Fehler auszubessern, den sie jemals gemacht haben und den ich im folgenden versucht habe zu illustrieren:

@@ -17,7 +17,7 @@ tags:
 meta:
   - linked_list_url: "https://www.thecagecage.com/"
   - linked_list_url: "https://www.thecagecage.com/"
-  - yourls_shorturl: "http://eay.li/3a4"
+  - yourls_shorturl: "https://eay.li/3a4"
 ---
 
 > This is a VR simulation of what it's like to be trapped in a cage and forced to watch Nic Cage movies.

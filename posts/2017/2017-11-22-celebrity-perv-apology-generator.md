@@ -15,7 +15,7 @@ tags:
   - serien
 meta:
   - linked_list_url: "https://apologygenerator.com/"
-  - yourls_shorturl: "http://eay.li/32f"
+  - yourls_shorturl: "https://eay.li/32f"
 ---
 
 > As a person who was born in an era before women were “people,” I am deeply ashamed (but not “sorry” because that means I’m guilty of something).

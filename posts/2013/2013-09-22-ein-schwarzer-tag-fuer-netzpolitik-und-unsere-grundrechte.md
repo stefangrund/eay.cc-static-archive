@@ -17,7 +17,7 @@ tags:
   - politik
 meta:
   - linked_list_url: "https://netzpolitik.org/2013/ein-schwarzer-tag-fuer-netzpolitik-und-unsere-grundrechte/"
-  - yourls_shorturl: "http://eay.li/27l"
+  - yourls_shorturl: "https://eay.li/27l"
 ---
 
 > Egal, ob eine absolute Mehrheit für die Union oder eine große Koalition raus kommt: Das Ergebnis ist ein schwarzer Tag für Netzpolitik und unsere Grundrechte. \[...\] Die nächsten vier Jahre werden die Netzpolitik in Deutschland verändern. Im Moment sieht es nicht so aus als ob sich irgendwas bessern wird – ganz im Gegenteil.

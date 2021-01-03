@@ -21,7 +21,7 @@ tags:
   - quantified-self
   - statistik
 meta:
-  - yourls_shorturl: "http://eay.li/38c"
+  - yourls_shorturl: "https://eay.li/38c"
   - content_copy: "https://eay.social/@eay/101336956138422734"
   - content_copy: "https://twitter.com/eay/status/1079799074667282432"
   - geo_latitude: "50.973767748452"

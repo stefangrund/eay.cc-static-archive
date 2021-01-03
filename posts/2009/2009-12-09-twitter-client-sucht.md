@@ -13,7 +13,7 @@ tags:
   - konsum
   - twitter
 meta:
-  - yourls_shorturl: "http://eay.li/q7"
+  - yourls_shorturl: "https://eay.li/q7"
 ---
 
 > Nachdem mir täglich jemand von Tweetie für's iPhone vorschwärmt, habe ich mich nun breitschlagen lassen und die 2,40 geopfert. [#](http://twitter.com/Eay/status/6480150505)

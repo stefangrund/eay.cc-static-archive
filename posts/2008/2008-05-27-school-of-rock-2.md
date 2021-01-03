@@ -13,7 +13,7 @@ tags:
   - musikfilm
   - sequel
 meta:
-  - yourls_shorturl: "http://eay.li/86"
+  - yourls_shorturl: "https://eay.li/86"
 ---
 
 Weil [School of Rock](http://www.amazon.de/exec/obidos/ASIN/B00024G84G/eayznet-21) eben (für verspätete Leser: gestern Abend) im Fernsehen lief, der Film ganz gut und Jack Black sowieso immer toll ist, hier ein aktuelles Zitat von J.B., der offensichtlich Lust auf eine Fortsetzung der Rockschule hätte:![](/uploads/2008/schoolofrock2.jpg)

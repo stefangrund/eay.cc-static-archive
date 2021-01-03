@@ -18,7 +18,7 @@ tags:
   - social-web
 meta:
   - linked_list_url: "http://www.turi2.de/aktuell/fake-news-innenministerium-fordert-abwehrzentrum/"
-  - yourls_shorturl: "http://eay.li/2vs"
+  - yourls_shorturl: "https://eay.li/2vs"
 ---
 
 “Abwehrzentrum gegen Desinformation” ist wohl Neusprech für “Wahrheitsministerium”.

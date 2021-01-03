@@ -12,7 +12,7 @@ tags:
   - netzkultur
   - wikipedia
 meta:
-  - yourls_shorturl: "http://eay.li/y4"
+  - yourls_shorturl: "https://eay.li/y4"
 ---
 
 Ein weiterer Beweis für die allumfassende Großartigkeit der Wikipedia und dafür, dass man das Internet ausstöpseln sollte, wenn man eigentlich lernen sollte:

@@ -16,7 +16,7 @@ tags:
   - social-media
 meta:
   - linked_list_url: "https://m.signalvnoise.com/signal-v-noise-exits-medium/"
-  - yourls_shorturl: "http://eay.li/38p"
+  - yourls_shorturl: "https://eay.li/38p"
   - content_copy: "https://eay.social/@eay/101436324823309691"
 ---
 

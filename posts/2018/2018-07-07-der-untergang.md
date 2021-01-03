@@ -16,7 +16,7 @@ tags:
   - weltgeschehen
 meta:
   - linked_list_url: "https://sz-magazin.sueddeutsche.de/abschiedskolumne/der-untergang-85837"
-  - yourls_shorturl: "http://eay.li/35v"
+  - yourls_shorturl: "https://eay.li/35v"
 ---
 
 > Es gibt plötzlich zwei Meinungen darüber, ob man Menschen, die in Lebensgefahr sind, retten oder lieber sterben lassen soll. Das ist der erste Schritt in die Barbarei.

@@ -16,7 +16,7 @@ tags:
   - simpsons
   - usa
 meta:
-  - yourls_shorturl: "http://eay.li/nq"
+  - yourls_shorturl: "https://eay.li/nq"
 ---
 
 ![](/uploads/2009/simpsonsstamps.jpg) Am 7. Mai [veröffentlicht](http://www.usps.com/promotions/simpsons.htm) der US Postal Service ein Briefmarken-Set mit der berühmtesten aller amerikanischen Familien: [den Simpsons](//eay.cc/tag/simpsons/). Da überlegt man sich gleich zweimal, ob's denn wirklich eine Email sein muss! Sein eigenes Stück Popkulturgeschichte, kann man sich [hier vorbestellen](http://shop.usps.com/wcsstore/PostalStore/upload/htm/simpsons/) - zum Beispiel alle fünf 44-Cent-Marken gerahmt für läppische 60 Dollar. ([via](http://laughingsquid.com/the-simpsons-postage-stamps/))

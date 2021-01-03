@@ -19,7 +19,7 @@ tags:
   - politik
 meta:
   - linked_list_url: "http://www.spiegel.de/netzwelt/netzpolitik/leistungsschutzrecht-fuer-presseverleger-die-regierung-verschleppt-ihre-bilanz-a-1210643.html"
-  - yourls_shorturl: "http://eay.li/35g"
+  - yourls_shorturl: "https://eay.li/35g"
 ---
 
 > Selten war ein Gesetz so dysfunktional wie das Leistungs­schutzrecht für Presseverleger. Die Bundesregierung weigert sich, das einzugestehen - weil sie es in der ganzen EU einführen will.

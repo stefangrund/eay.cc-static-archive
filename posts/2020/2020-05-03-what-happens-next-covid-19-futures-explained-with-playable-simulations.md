@@ -16,7 +16,7 @@ tags:
 meta:
   - linked_list_url: "https://ncase.me/covid-19/"
   - content_copy: "https://twitter.com/eay/status/1256933549669781504"
-  - yourls_shorturl: "http://eay.li/3e2"
+  - yourls_shorturl: "https://eay.li/3e2"
 ---
 
 Von dem Epidemiologen [Marcel Salathé](https://scholar.google.com/citations?user=_wHMGkUAAAAJ&hl=en) und der Creative-Coderin [Nicky Case](https://ncase.me/) kommt die bisher beste, interaktive (!) Erklärung der unter­schied­lichen Corona-Maßnahmen und welche Auswirkungen diese auf die Reproduktions­zahl haben. Must-Read/-Play!

@@ -16,7 +16,7 @@ tags:
   - kickstarter
   - outcast
 meta:
-  - yourls_shorturl: "http://eay.li/2el"
+  - yourls_shorturl: "https://eay.li/2el"
 ---
 
 \[youtube id="NSek6Wv0N68"\]

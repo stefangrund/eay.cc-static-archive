@@ -15,7 +15,7 @@ tags:
   - fotos
   - kira-und-ich
 meta:
-  - yourls_shorturl: "http://eay.li/24u"
+  - yourls_shorturl: "https://eay.li/24u"
   - content_copy: "https://www.instagram.com/p/bZk-O1HSz9/"
 ---
 

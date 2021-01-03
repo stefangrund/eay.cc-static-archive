@@ -20,7 +20,7 @@ tags:
   - superhelden
   - superman
 meta:
-  - yourls_shorturl: "http://eay.li/gz"
+  - yourls_shorturl: "https://eay.li/gz"
 ---
 
 ![](/uploads/2007/jlafilm.jpg "Artwork for the cover of JLA: Classified #1, via Wikipedia")Die Justice League of America soll verfilmt werden, [das wissen wir](//eay.cc/2007/die-gerechtigkeitsliga-kommt/). Mittlerweile hat sich jedoch einiges geändert und es gibt erste Angaben zur Besetzung und Story. Eure Lieblingswebseite [eayz.net](http://eay.cc/) hat wieder mal keine Kosten und Mühen gescheut und präsentiert euch hiermit exklusiv folgende Insider-Informationen:

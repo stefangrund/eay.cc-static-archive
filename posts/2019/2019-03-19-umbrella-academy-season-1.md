@@ -16,7 +16,7 @@ tags:
   - serien
   - umbrella-academy
 meta:
-  - yourls_shorturl: "http://eay.li/39r"
+  - yourls_shorturl: "https://eay.li/39r"
   - content_copy: "https://eay.social/@eay/101779145277593982"
   - content_copy: "https://twitter.com/eay/status/1108099422586654722"
 ---

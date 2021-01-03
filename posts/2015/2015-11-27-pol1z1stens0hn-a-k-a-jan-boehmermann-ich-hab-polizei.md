@@ -17,7 +17,7 @@ tags:
   - musikvideo
   - offentlich-rechtliche
 meta:
-  - yourls_shorturl: "http://eay.li/2r3"
+  - yourls_shorturl: "https://eay.li/2r3"
 ---
 
 Man sollte ja wieder viel öfter das Offensichtliche – Dinge, die einem gefallen, aber die eh schon jeder aus der eigenen Filter Bubble, aber dann einer vielleicht doch nicht, kennt – empfehlen. Blogging like it's 2005, sozusagen.

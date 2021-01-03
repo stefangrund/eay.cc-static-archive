@@ -15,7 +15,7 @@ tags:
   - terrorismus
 meta:
   - linked_list_url: "http://www.spiegel.de/netzwelt/web/sascha-lobo-ueber-die-irrationale-ausweitung-der-ueberwachung-a-1064508.html"
-  - yourls_shorturl: "http://eay.li/2r7"
+  - yourls_shorturl: "https://eay.li/2r7"
 ---
 
 > Wir finden die Nadel im Heuhaufen nicht, also brauchen wir mehr Heu. Das hört sich so verstörend an, es könnte auch in Donald Trumps Wahlprogramm stehen. Es handelt sich aber ernsthaft um die europäische Strategie gegen den Terror.

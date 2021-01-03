@@ -14,7 +14,7 @@ tags:
   - mashup
   - musik
 meta:
-  - yourls_shorturl: "http://eay.li/2ab"
+  - yourls_shorturl: "https://eay.li/2ab"
 ---
 
 \[youtube id="HJMapA8WgYw"\]

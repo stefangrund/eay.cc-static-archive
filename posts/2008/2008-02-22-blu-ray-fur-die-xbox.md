@@ -17,7 +17,7 @@ tags:
   - sony
   - xbox
 meta:
-  - yourls_shorturl: "http://eay.li/6v"
+  - yourls_shorturl: "https://eay.li/6v"
 ---
 
 Der High-Definition-Formatkrieg zwischen Blu-ray und HD DVD ist beendet. HD DVD is the new Betamax. And the winner is Blu-ray - angeblich weil sie ja so [kugelsicher wie DVDs](http://blog.affenheimtheater.de/2008/02/20/dvd-als-lebensretter/) sind. Besitzer von HD DVD\-Technik stehen nun vor einem großen Fragezeichen. Was nun? Pech gehabt, könnte man meinen (und das stimmt wohl auch). Aber zumindest Besitzer des HD DVD\-Players für die Xbox können aufatmen: Wie [OniPepper zeigt](http://onipepper.de/2008/02/22/multifunktionale-nutzungsmoeglichkeiten-fuer-den-xbox-360-hd-dvd-player/), lässt sich dieser nämlich wunderbar zum Briefbeschwerer oder Türstopper umfunktionieren.

@@ -14,7 +14,7 @@ tags:
   - vampire
   - zombies
 meta:
-  - yourls_shorturl: "http://eay.li/b9"
+  - yourls_shorturl: "https://eay.li/b9"
 ---
 
 ![](http://eay.cc//uploads/2009/jesusdiagram.gif)

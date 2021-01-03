@@ -17,7 +17,7 @@ tags:
   - magazine
   - output
 meta:
-  - yourls_shorturl: "http://eay.li/nj"
+  - yourls_shorturl: "https://eay.li/nj"
 ---
 
 Ich, [die anderen](http://eay.cc/artikel/writingforce/) und das Gros unserer Leser sind Teil einer Generation in der "die Bereit- schaft, sich schnell und gründlich zu betrinken, wächst" ([Quelle](http://www.sueddeutsche.de/gesundheit/artikel/352/118220/)). So saßen wir und weitere Vertreter dieser Generation also neulich, selbstredend gänzlich nüchtern, bei [Rock am Ring](//eay.cc/2007/rock-am-ring-2007/) und sinierten über Flatrate-Parties, Komasaufen und [den Stürzer](http://www.stuerzer-online.de/), die selbsternannte "ultimative Saufmaschine". Und siehe da: es machte kollektiv 'Klick!'; wir hatten eine Idee.

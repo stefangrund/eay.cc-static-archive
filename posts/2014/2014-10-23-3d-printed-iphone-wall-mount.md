@@ -15,7 +15,7 @@ tags:
   - iphone
 meta:
   - linked_list_url: "http://www.thingiverse.com/thing:18683"
-  - yourls_shorturl: "http://eay.li/2kb"
+  - yourls_shorturl: "https://eay.li/2kb"
 ---
 
 > [@CMonB](https://twitter.com/CmonB/status/525200928908251136): Merke: Nur weil es aus dem 3D-Drucker kommt, ist es nicht unbedingt sinnvoll.

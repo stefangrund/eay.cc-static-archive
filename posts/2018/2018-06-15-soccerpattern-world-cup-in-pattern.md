@@ -18,7 +18,7 @@ tags:
 meta:
   - linked_list_url: "http://soccerpattern.com/"
   - linked_list_url: "http://soccerpattern.com/"
-  - yourls_shorturl: "http://eay.li/35l"
+  - yourls_shorturl: "https://eay.li/35l"
 ---
 
 > Soccerpattern brings forth to a retrospective of the greatest jerseys worn during soccer worldcups from 1930 to nowadays, as pattern designs, at the occasion of 2018 FIFA Worldcup in Russia.

@@ -15,7 +15,7 @@ tags:
   - in-eigener-sache
   - msgboard
 meta:
-  - yourls_shorturl: "http://eay.li/1rn"
+  - yourls_shorturl: "https://eay.li/1rn"
 ---
 
 Nachdem wir hier diese Woche bereits zwei Digitaljubiläen ([10 Jahre eayz](//eay.cc/2013/10-jahre-eayz/), [100 .gifs der Woche](//eay.cc/2013/gif-der-woche-100/)) feiern konnten, ist es heute an der Zeit, einen Moment inne zu halten. Diejenigen von euch, die schon bei den ersten fünf der besagten zehn Jahre mit von der Partie waren, wissen noch, dass eayz.net zu jener Zeit ein eigenes Forum hatte, das elementarer Bestandteil dieser Webpräsenz war. [Vor genau fünf Jahren](//eay.cc/2008/abgesetzt/) dann das von Trauer und Tränen gefolgte Ende.

@@ -12,7 +12,7 @@ tags:
   - analogleben
   - spongebob
 meta:
-  - yourls_shorturl: "http://eay.li/ux"
+  - yourls_shorturl: "https://eay.li/ux"
 ---
 
 ![](/uploads/2008/drunkenbob.jpg)

@@ -14,7 +14,7 @@ tags:
   - webservice
 meta:
   - linked_list_url: "http://justdelete.me/"
-  - yourls_shorturl: "http://eay.li/26o"
+  - yourls_shorturl: "https://eay.li/26o"
 ---
 
 > A directory of direct links to delete your account from web services.

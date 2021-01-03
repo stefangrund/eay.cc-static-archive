@@ -18,7 +18,7 @@ tags:
   - wii
   - xbox
 meta:
-  - yourls_shorturl: "http://eay.li/g2"
+  - yourls_shorturl: "https://eay.li/g2"
 ---
 
 [Vor ziemlich genau anderthalb Jahren](//eay.cc/2008/classic-sonic-in-high-definition/) berichtete ich an dieser Stelle von einem Fan-Projekt, dass sich aufmachte, Sonics zweites großes Abenteuer in ein neues, zeitgemäßes Äußeres zu hüllen und der tobenden Masse [Sonic the Hedgehog 2 in High Definition](http://info.sonicretro.org/Sonic_the_Hedgehog_2_HD) vor die Füße zu werfen. Leider ist es - wie noch leiderer bei viel zu vielen Fan-Projekten - bisher nicht dazu gekommen und es sieht wohl auch nicht so aus als würde man alsbald überhaupt noch damit rechnen können.

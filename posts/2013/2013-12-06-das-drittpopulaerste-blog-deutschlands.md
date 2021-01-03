@@ -14,7 +14,7 @@ tags:
   - deutschland
   - in-eigener-sache
 meta:
-  - yourls_shorturl: "http://eay.li/2ah"
+  - yourls_shorturl: "https://eay.li/2ah"
 ---
 
 Guten Morgen und willkommen beim drittpopulärsten Blog Deutschlands. Denn wenn es nach [Ebuzzing](http://www.ebuzzing.com/de/) (ehemals Wikio) geht, befinde ich mich seit gestern endlich da, wo ich nach Jahren der Mittelmäßigkeit hingehöre: in der Spitze der deutschen Blogosphäre! :D

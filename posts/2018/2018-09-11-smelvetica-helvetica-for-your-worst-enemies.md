@@ -15,7 +15,7 @@ tags:
   - typografie
 meta:
   - linked_list_url: "https://github.com/tholman/smelvetica/"
-  - yourls_shorturl: "http://eay.li/36o"
+  - yourls_shorturl: "https://eay.li/36o"
   - content_copy: "https://eay.social/@eay/100709606750947788"
   - content_copy: "https://twitter.com/eay/status/1039649036528173056"
 ---

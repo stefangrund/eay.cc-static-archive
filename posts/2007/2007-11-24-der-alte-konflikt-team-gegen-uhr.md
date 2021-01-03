@@ -14,7 +14,7 @@ tags:
   - konsum
   - trigami
 meta:
-  - yourls_shorturl: "http://eay.li/i7"
+  - yourls_shorturl: "https://eay.li/i7"
 ---
 
 _**Hinweis:** Dies ist ein von [trigami](http://www.trigami.com/info/?blog=http://eay.cc/ "Mehr Informationen") vermittelter bezahlter Eintrag. ([Mehr Informationen](http://www.trigami.com/info/?blog=http://eay.cc/))

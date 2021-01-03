@@ -17,7 +17,7 @@ tags:
   - usa
   - user-experience-design
 meta:
-  - yourls_shorturl: "http://eay.li/336"
+  - yourls_shorturl: "https://eay.li/336"
 ---
 
 Am Samstagmorgen herrschte [bekanntlich](http://www.spiegel.de/panorama/gesellschaft/hawaii-38-minuten-todesangst-wegen-raketen-fehlalarm-a-1187822.html) und verständlicherweise Panik auf Hawaii, nachdem die Menschen fälschlicherweise die folgende Notfall­benachrichtigung auf ihre Smartphones geschickt bekamen:

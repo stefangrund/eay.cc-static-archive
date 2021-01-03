@@ -13,7 +13,7 @@ tags:
   - meme
   - netzkultur
 meta:
-  - yourls_shorturl: "http://eay.li/5i"
+  - yourls_shorturl: "https://eay.li/5i"
 ---
 
 ![](/uploads/2008/dountsecx.jpg "by-nc-nd: by sandwichgirl") Oh yeah, teh internets killed my sense of humor. Alle die keine Ahnung haben, warum das so lustig ist, sollten nicht versuchen herauszufinden, warum es das ist, glaubt mir. ([via](http://laughingsquid.com/donutsecx/)) [Foto von sandwichgirl](http://www.flickr.com/photos/sandwichgirl/3075076211/), lizensiert unter [CC: by-nc-nd](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.en).

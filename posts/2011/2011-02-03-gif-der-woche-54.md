@@ -17,7 +17,7 @@ tags:
   - konsum
   - zukunft
 meta:
-  - yourls_shorturl: "http://eay.li/15e"
+  - yourls_shorturl: "https://eay.li/15e"
 ---
 
 ![](https://eay.cc/uploads/2011/hoverboards.gif) Noch vier Jahre dann gibt's endlich Hoverboards! (via [Nerduo](http://nerduo.com/post/3084494467/hoverboard-chase))

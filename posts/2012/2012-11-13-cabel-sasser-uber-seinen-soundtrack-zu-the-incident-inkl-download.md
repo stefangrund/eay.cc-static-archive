@@ -16,7 +16,7 @@ tags:
   - ios
   - musik
 meta:
-  - yourls_shorturl: "http://eay.li/209"
+  - yourls_shorturl: "https://eay.li/209"
   - linked_list_url: "http://cabel.me/2012/11/12/the-incident-the-music/"
 ---
 

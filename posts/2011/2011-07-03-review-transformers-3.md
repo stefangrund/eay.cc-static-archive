@@ -13,7 +13,7 @@ tags:
   - michael-bay
   - transformers
 meta:
-  - yourls_shorturl: "http://eay.li/19p"
+  - yourls_shorturl: "https://eay.li/19p"
 ---
 
 \[audio src="https://eay.cc/uploads/audio/transformersscenechange.mp3"\]

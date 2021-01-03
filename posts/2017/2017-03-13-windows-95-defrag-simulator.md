@@ -14,7 +14,7 @@ tags:
   - windows
 meta:
   - linked_list_url: "http://hultbergs.org/defrag/"
-  - yourls_shorturl: "http://eay.li/2x0"
+  - yourls_shorturl: "https://eay.li/2x0"
 ---
 
 > [@frapzz0r](https://twitter.com/frapzz0r/status/840797474956558336): Kaminfeuer-DVD? Das ist viel besser

@@ -17,7 +17,7 @@ tags:
   - steven-seagal
 meta:
   - linked_list_url: "https://thewaltdisneycompany.com/spielberg-and-ford-reunite-as-indiana-jones-returns-to-theaters-july-19-2019/"
-  - yourls_shorturl: "http://eay.li/2sc"
+  - yourls_shorturl: "https://eay.li/2sc"
 ---
 
 > Indiana Jones will return to the big screen on July 19, 2019, for a fifth epic adventure in the blockbuster series. Steven Spielberg, who directed all four previous films, will helm the as-yet-untitled project with star Harrison Ford reprising his iconic role. Franchise veterans Kathleen Kennedy and Frank Marshall will produce.

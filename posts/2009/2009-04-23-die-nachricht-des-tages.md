@@ -13,7 +13,7 @@ tags:
   - weltall
   - wissenschaft
 meta:
-  - yourls_shorturl: "http://eay.li/pm"
+  - yourls_shorturl: "https://eay.li/pm"
 ---
 
 Offensichtlich scheint es doch einen Schöpfer zu geben und er scheint Alcopops gutzuheißen, denn [das Zentrum unserer Galaxis besteht aus Himbeerschnaps](http://www.nerdcore.de/wp/2009/04/23/omg-its-full-of-himbeeren/). Mhmmm, Himbeerschnaps.

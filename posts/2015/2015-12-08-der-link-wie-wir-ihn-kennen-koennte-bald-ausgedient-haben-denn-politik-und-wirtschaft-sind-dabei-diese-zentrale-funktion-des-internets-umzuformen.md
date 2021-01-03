@@ -16,7 +16,7 @@ tags:
   - urheberrecht
 meta:
   - linked_list_url: "http://www.netzpiloten.de/link-urheberrecht-eu-kommission/"
-  - yourls_shorturl: "http://eay.li/2rc"
+  - yourls_shorturl: "https://eay.li/2rc"
 ---
 
 > Die Content-Industrie hat schon die Idee eingebracht, dass YouTube-Einbettungen kostenpflichtig werden könnten.

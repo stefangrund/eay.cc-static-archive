@@ -16,7 +16,7 @@ tags:
   - weihnachten
 meta:
   - content_copy: "https://twitter.com/eay/status/945079266533707776"
-  - yourls_shorturl: "http://eay.li/32t"
+  - yourls_shorturl: "https://eay.li/32t"
 ---
 
 ![](https://eay.cc/uploads/2017/feiertagsprogramm.jpeg)

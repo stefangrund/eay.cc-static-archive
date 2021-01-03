@@ -13,7 +13,7 @@ tags:
   - single
   - tomte
 meta:
-  - yourls_shorturl: "http://eay.li/lr"
+  - yourls_shorturl: "https://eay.li/lr"
 ---
 
 ![](/uploads/2008/tomtewal.jpg)Bei [Justaloud](http://justaloud.com/) ([eayz berichtete](//eay.cc/2008/justaloud-angetestet/) und über [diesen Link](http://justaloud.com/signup/invitation/4890efedd5780/) bekommen Neukunden 3 Euro geschenkt) gibt's die neue Single "Der letzte große Wal" und die B-Seite "Füll deine Lungen mit Feuer" von Tomte in bestmöglicher Qualität für wenig Geld - und das obwohl offizieller Release erst am 19. September ist. Also [nichts wie hin](http://justaloud.com/tomte/), zur Zeit kosten beide Tracks nur 39 Cent. ([via](http://www.nicorola.de/aktuelle-beitrage/news/allgemein/tomte-neue-single-der-letzte-grose-wal))

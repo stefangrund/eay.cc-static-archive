@@ -17,7 +17,7 @@ tags:
   - videotext
   - vox
 meta:
-  - yourls_shorturl: "http://eay.li/u2"
+  - yourls_shorturl: "https://eay.li/u2"
 ---
 
 Dass Teletext-Redakteure in Texten über Katastrophen und Tode öfter mal zu unpassenden Worten greifen, [wussten](//eay.cc/2007/einfuhlsame-teletextpraktikanten-are-back-again/) [wir](http://eay.cc/blog/2005/08/wird_bei_sat1.shtml) [ja](http://eay.cc/blog/2005/08/wird_bei_sat1_n.shtml) [schon](http://eay.cc/blog/2005/10/pseudospassige.shtml). Was man aber gestern Abend im Videotext von Vox über die blutige Tragödie in der Familie der Schauspielerin und Sängerin Jennifer Hudson lesen musste, wurde zwar in der richtigen Tonart verfasst, entbehrt dafür aber jegliche Logik und journalistische Qualität:

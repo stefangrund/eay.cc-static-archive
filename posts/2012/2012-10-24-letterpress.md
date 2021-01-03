@@ -18,7 +18,7 @@ tags:
   - twitter
   - worte
 meta:
-  - yourls_shorturl: "http://eay.li/1o6"
+  - yourls_shorturl: "https://eay.li/1o6"
 ---
 
 Als mich gestern ein Freund, mit dem ich die Liebe zu Videospielen und Dinosauriern teile, auf das [»Jurassic Park«-iOS-Spiel](https://itunes.apple.com/de/app/jurassic-park-builder/id499250722?mt=8&uo=4&at=11lohW)\* aufmerksam machte, packte mich die Panik und ich fragte ihn, warum er will, dass ich mein derzeitiges Uniprojekt nicht fertig bekomme. Schließlich wusste er, dass ich zurzeit an einem halbwegs wichtigen Projekt arbeite und ich mir die Ablenkung durch den Bau eines Vergnügungsparks mit Dinosauriern - immerhin ein Kindheitstraum! - derzeit zeitlich nicht leisten kann.

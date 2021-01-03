@@ -12,7 +12,7 @@ tags:
   - religion
   - stoeckchen
 meta:
-  - yourls_shorturl: "http://eay.li/rm"
+  - yourls_shorturl: "https://eay.li/rm"
 ---
 
 Stöckchen-Attack! [Vom Playstar Rocker](http://goldenterrabyte.blogspot.com/2007/04/metarox.html) habe ich neulich ein Meta-Stöckchen bekommen, dessen Sinn es ist, das Stöckchen weiterzuwerfen ohne das irgendwelche Fragen gestellt werden. Also statt Antworten & Werfen nur Werfen. Und weil die Idee dahinter so komplex ist, möchte ich erstmal ein anderes, 41 Fragen langes Stöckchen, zugesandt [von Mr. Ape](http://blog.ape-designs.de/archives/2007/04/41-fragen/), beantworten - feat. Traumauto, mexikanisches Essen und GZSZ.

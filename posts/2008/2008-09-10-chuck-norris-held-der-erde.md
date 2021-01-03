@@ -16,7 +16,7 @@ tags:
   - marvel
   - retro
 meta:
-  - yourls_shorturl: "http://eay.li/jr"
+  - yourls_shorturl: "https://eay.li/jr"
 ---
 
 Wann immer Kinder in der Schule über internationalen Terrorismus aufgeklärt werden, senken die anwesenden Jungs - ihr kennt das vielleicht noch aus eurer eigenen Schulzeit - ihr Haupt und beten zu Chuck Norris: "Chuck Norris is one of the besters fighters there is ... best in the world!" Zuversichtlich gefolgt von: "And he's not afraid!" Amen.

@@ -14,7 +14,7 @@ tags:
   - skandal
   - star-wars
 meta:
-  - yourls_shorturl: "http://eay.li/17t"
+  - yourls_shorturl: "https://eay.li/17t"
 ---
 
 \[youtube id="6IPAGXyFvrs"\]

@@ -14,7 +14,7 @@ tags:
   - saturday-morning-breakfast-cereal
   - webcomic
 meta:
-  - yourls_shorturl: "http://eay.li/206"
+  - yourls_shorturl: "https://eay.li/206"
   - linked_list_url: "http://www.smbc-comics.com/index.php?db=comics&id=2790"
 ---
 

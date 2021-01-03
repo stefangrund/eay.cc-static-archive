@@ -14,7 +14,7 @@ tags:
   - deutschland
   - tom-hanks
 meta:
-  - yourls_shorturl: "http://eay.li/1ei"
+  - yourls_shorturl: "https://eay.li/1ei"
 ---
 
 Tom Hanks war im Dezember bei David Letterman und erzählte dort, wie er während der Dreharbeiten von Tom Tykwers neuem Film »[Cloud Atlas](http://www.imdb.com/title/tt1371111/)« in Deutschland war. Er berichtet dem US-Publikum dabei von unseren Autobahnen, VW, Eisenhüttenstadt und deutschen Verkehrsschildern. Und was für die Amerikaner schon ziemlich lustig ist, ist für uns nochmal ungleich unterhaltsamer! Im folgenden [der erste Teil](http://www.youtube.com/watch?&v=e9S1tjUCWh8) (ab 04:35 redet er über »Cloud Atlas« und Germany), den zweiten Teil, in dem es allerdings nicht mehr um Deutschland geht, [gibt's hier](http://www.youtube.com/watch?v=C97WX_P8RTo). (via [Equilibrium](http://www.equilibriumblog.de/wordpress/2012/01/08/tom-hanks-bei-letterman-autobahnen-und-eisenhuettenstadt/))

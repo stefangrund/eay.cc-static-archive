@@ -16,7 +16,7 @@ tags:
   - musik
   - netzkultur
 meta:
-  - yourls_shorturl: "http://eay.li/dt"
+  - yourls_shorturl: "https://eay.li/dt"
 ---
 
 Im April hieß es noch [Die Pseudo-DRM-Befreiung](//eay.cc/2007/die-pseudo-drm-befreiung/) - und ihr habt alle gejubelt: "Oh Freude, Apple & EMI verzichten auf DRM und wir dürfen dafür nochmal rund 30 Cent mehr bezahlen! Danke, Steve." All meine Einwände bezüglich dieser Preispolitik wurden mit der besseren Qualität der Tondateien abgeschmettert. "Warum soll ich für etwas selbstverständliches mehr bezahlen?", fragte ich _damals_ und tue es auch heute noch.

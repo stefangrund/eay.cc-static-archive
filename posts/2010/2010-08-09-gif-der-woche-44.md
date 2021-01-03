@@ -16,7 +16,7 @@ tags:
   - star-trek
   - tanzen
 meta:
-  - yourls_shorturl: "http://eay.li/103"
+  - yourls_shorturl: "https://eay.li/103"
 ---
 
 ![](https://eay.cc/uploads/2010/startrekparty.gif) Party like it's [1966](http://de.wikipedia.org/wiki/Raumschiff_Enterprise)!

@@ -15,7 +15,7 @@ tags:
   - webcomic
 meta:
   - linked_list_url: "http://owlturd.com/post/73046688911/google-no-http-i-imgur-com-nk5uweu-png-fb"
-  - yourls_shorturl: "http://eay.li/2bo"
+  - yourls_shorturl: "https://eay.li/2bo"
 ---
 
 > Papa, why do they not love me?

@@ -14,7 +14,7 @@ tags:
   - religion
   - webcomic
 meta:
-  - yourls_shorturl: "http://eay.li/2g"
+  - yourls_shorturl: "https://eay.li/2g"
 ---
 
 [![](/uploads/2008/seemikedraw.jpg "by Mike via See Mike Draw")](http://seemikedraw.wordpress.com/) Bei [See Mike Draw](http://seemikedraw.wordpress.com/) gibt's wunderbare Webcomics. (Der zittrige Strich erinnert mich an [Doug](http://en.wikipedia.org/wiki/Doug).)

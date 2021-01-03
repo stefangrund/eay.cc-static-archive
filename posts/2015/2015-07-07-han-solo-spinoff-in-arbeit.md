@@ -15,7 +15,7 @@ tags:
   - star-wars
 meta:
   - linked_list_url: "http://www.hollywoodreporter.com/heat-vision/han-solo-star-wars-spinoff-807153"
-  - yourls_shorturl: "http://eay.li/2ot"
+  - yourls_shorturl: "https://eay.li/2ot"
 ---
 
 > The next adventure in the Anthology series of Star Wars films will be directed by Christopher Miller and Phil Lord, whose credits include the critically acclaimed The LEGO Movie and Cloudy with a Chance of Meatballs, as well as 21 Jump Street and 22 Jump Street.

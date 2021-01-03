@@ -14,7 +14,7 @@ tags:
   - dunning-kruger-effekt
   - verschwoerungstheorien
 meta:
-  - yourls_shorturl: "http://eay.li/3ed"
+  - yourls_shorturl: "https://eay.li/3ed"
   - geo_latitude: "50.973721873876"
   - geo_longitude: "6.6833329161898"
   - geo_public: "1"

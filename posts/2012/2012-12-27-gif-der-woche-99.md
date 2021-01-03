@@ -13,7 +13,7 @@ tags:
   - gif-der-woche
   - nahrung
 meta:
-  - yourls_shorturl: "http://eay.li/1qq"
+  - yourls_shorturl: "https://eay.li/1qq"
 ---
 
 ![](https://eay.cc/uploads/2012/teig.gif) ♫ _Alles hat ein Ende nur der Teig hat keins._ ♪

@@ -17,7 +17,7 @@ tags:
   - supercut
   - werbung
 meta:
-  - yourls_shorturl: "http://eay.li/2k5"
+  - yourls_shorturl: "https://eay.li/2k5"
 ---
 
 In Singapur bewirbt das schwedische Möbelhaus seine langen Öffnungszeiten zu Halloween mit einer Hommage an Kubricks »The Shining«. (via [Daring Fireball](http://daringfireball.net/linked/2014/10/21/ikealook-hotel))

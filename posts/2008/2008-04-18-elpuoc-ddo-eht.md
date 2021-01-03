@@ -14,7 +14,7 @@ tags:
   - mp3
   - musik
 meta:
-  - yourls_shorturl: "http://eay.li/mz"
+  - yourls_shorturl: "https://eay.li/mz"
 ---
 
 Gnarls Barkley haben ein neues Album ([The Odd Couple](http://www.amazon.de/exec/obidos/ASIN/B0014QNGUA/eayznet-21), gar nicht mitbekommen) und bieten dies kostenlos (!) im Web an. Der Haken: Ihr bekommt das Album nur rückwärts. Das ist nicht nur verrückt und lustig, sondern auch leicht zu beheben: die MP3-Datei (ja, das ganze Album ist in eine Datei eingebettet, aber wenn "gratis" draufsteht, wollen wir ja nicht meckern) einfach in [Audacity](http://audacity.sourceforge.net/) öffnen, alles markieren (Strg+A) und schließlich "Effekte" -> "Rückwärts" auswählen und abspeichern. Wunderbar, The Odd Couple vorwärts für lau. ßapS leiV!

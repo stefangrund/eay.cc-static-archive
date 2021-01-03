@@ -16,7 +16,7 @@ tags:
   - sport
   - the-dark-knight
 meta:
-  - yourls_shorturl: "http://eay.li/3f"
+  - yourls_shorturl: "https://eay.li/3f"
 ---
 
 Nachdem ich im Urlaub sehr günstig in den Besitz der [Batman Edition](http://www.amazon.de/exec/obidos/ASIN/B00004Z385/eayznet-21) gekommen bin und [Amango](http://partners.webmasterplan.com/click.asp?ref=77084&site=3405&type=text&tnb=1) mir gerade mit "Batman hält die Welt im Atem" den letzten fehlenden Film geliefert hat, bin ich nun bereit mich standesgemäß auf The Dark Knight einzustellen und mit meinem Batman-Marathon zu beginnen. Und ja, keine leichte Entscheidung, aber auch die Travestie-Batmans von Joel Schumacher kommen dran.

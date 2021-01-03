@@ -19,7 +19,7 @@ tags:
   - twitter
   - webservice
 meta:
-  - yourls_shorturl: "http://eay.li/tc"
+  - yourls_shorturl: "https://eay.li/tc"
 ---
 
 Heute habe ich's endlich geschafft mich ein bisschen in die PHP-Kiste zu zwängen und habe [meinen Lifestream](#) fertiggestellt. Was das ist? Eine chronologische Übersicht meiner Online-Aktivitäten. All meine Blogs, meine Kommentare auf anderen Webseiten und meine Fotos vereint an einem wunderschönen Ort, der sogar [twitter](http://www.twitter.com/Eay) eine Daseinsberechtigung gibt.

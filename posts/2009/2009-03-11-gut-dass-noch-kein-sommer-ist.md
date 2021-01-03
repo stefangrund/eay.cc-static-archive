@@ -15,7 +15,7 @@ tags:
   - tiere
   - vogel
 meta:
-  - yourls_shorturl: "http://eay.li/pz"
+  - yourls_shorturl: "https://eay.li/pz"
 ---
 
 [sonst würden Vögel uns unser Eis stehlen](http://www.oddee.com/item_96590.aspx). Also eventuell. ([via](http://www.mikeindustries.com/blog/archive/2009/03/photos-of-birds-stealing-ice-cream-from-pedestrians))

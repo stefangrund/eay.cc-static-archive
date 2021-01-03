@@ -17,7 +17,7 @@ tags:
   - whatsapp
 meta:
   - linked_list_url: "http://www.theverge.com/2014/2/19/5427332/facebook-is-buying-whatsapp"
-  - yourls_shorturl: "http://eay.li/2d4"
+  - yourls_shorturl: "https://eay.li/2d4"
 ---
 
 Das hier ist _die_ Nachricht der nächsten Tage. Ihr braucht eure Tech-Podcasts gar nicht mehr anzuhören und euren Feedreader nicht mehr zu öffnen, wenn ihr hieran kein Interesse habt.

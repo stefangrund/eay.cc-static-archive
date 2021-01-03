@@ -16,7 +16,7 @@ tags:
   - netzkultur
 meta:
   - linked_list_url: "http://arstechnica.com/apple/2013/10/os-x-10-9/"
-  - yourls_shorturl: "http://eay.li/28s"
+  - yourls_shorturl: "https://eay.li/28s"
 ---
 
 

@@ -16,7 +16,7 @@ tags:
   - webservice
 meta:
   - linked_list_url: "http://www.emergent.info/"
-  - yourls_shorturl: "http://eay.li/2jl"
+  - yourls_shorturl: "https://eay.li/2jl"
 ---
 
 Anschaulicher Dienst, der vermeintliche Nachrichten verfolgt, deren Verbreitung ermittelt und schließlich den Wahrheitsgehalt dahinter feststellt. (via [@oler](https://twitter.com/oler/status/519740750704046080))

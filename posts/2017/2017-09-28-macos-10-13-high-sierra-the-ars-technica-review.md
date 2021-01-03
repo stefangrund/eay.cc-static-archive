@@ -15,7 +15,7 @@ tags:
   - mac
 meta:
   - linked_list_url: "https://arstechnica.com/gadgets/2017/09/macos-10-13-high-sierra-the-ars-technica-review/"
-  - yourls_shorturl: "http://eay.li/31d"
+  - yourls_shorturl: "https://eay.li/31d"
 ---
 
 Mein Long-Read für's Wochenende.

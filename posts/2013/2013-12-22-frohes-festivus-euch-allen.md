@@ -16,7 +16,7 @@ tags:
   - weihnachten
 meta:
   - linked_list_url: "//eay.cc/2009/frohes-festivus-allerseits/"
-  - yourls_shorturl: "http://eay.li/2b0"
+  - yourls_shorturl: "https://eay.li/2b0"
 ---
 
 

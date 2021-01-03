@@ -18,7 +18,7 @@ tags:
   - wikileaks
 meta:
   - linked_list_url: "https://www.freitag.de/autoren/der-freitag/endspiel-fuer-assange"
-  - yourls_shorturl: "http://eay.li/392"
+  - yourls_shorturl: "https://eay.li/392"
 ---
 
 Was macht eigentlich Julian Assange? Theaterregisseurin Angela Richter hat ihn in der ecuadorianischen Botschaft in London besucht, in der er seit sieben Jahren ausharrt, um einer Auslieferung in die USA zu entgehen, in der, [wie sich zwischenzeitlich herausstellte](https://www.zeit.de/politik/ausland/2018-11/wikileaks-gruender-julian-assage-anklage-usa), tatsächlich undurchsichtige Strafanzeigen gehen ihn bestehen.

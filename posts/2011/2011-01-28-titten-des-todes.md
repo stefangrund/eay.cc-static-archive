@@ -17,7 +17,7 @@ tags:
   - retro
   - spatvorstellung
 meta:
-  - yourls_shorturl: "http://eay.li/153"
+  - yourls_shorturl: "https://eay.li/153"
 ---
 
 \[spaeter\] ([YouTube Direktaction](http://www.youtube.com/watch?v=uToLa4pH5ok), via [Blogrebellen](http://blog.rebellen.info/2011/01/26/titten-des-todes/), wo ich auch den Titel geklaut hab)

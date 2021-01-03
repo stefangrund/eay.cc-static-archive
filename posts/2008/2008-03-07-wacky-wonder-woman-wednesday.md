@@ -12,7 +12,7 @@ tags:
   - cosplay
   - wonder-woman
 meta:
-  - yourls_shorturl: "http://eay.li/8i"
+  - yourls_shorturl: "https://eay.li/8i"
 ---
 
 ![](/uploads/2008/wackywonderwoman.jpg) Jeden Mittwoch postet [Craig Yoe](http://arflovers.com/Blog/) Fotos von Wonder Women. Mal schöne, mal weniger schöne, mal männliche. Das ganze (Elend) könnt ihr euch [hier ansehen](http://arflovers.com/Blog/?cat=3) (nsfw!).

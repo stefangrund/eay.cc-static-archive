@@ -16,7 +16,7 @@ tags:
   - oscars
   - review-rundumschlag
 meta:
-  - yourls_shorturl: "http://eay.li/2n0"
+  - yourls_shorturl: "https://eay.li/2n0"
 ---
 
 Heute Nacht findet im Dolby Theatre in Los Angeles wieder die Nacht der Nächte statt, in der Hollywood sich selbst auf die Schulter klopft und die besten Leistungen des vergangenen Kinojahres prämiert. Bevor ich nachher [meine alljährliche Oscar-Prognose](//eay.cc/2015/oscar-prognose-2015/) abliefere, zunächst noch ein paar Worte zu den Filmen selbst. In diesem Jahr habe ich sechs der acht Filme, die für's Best Picture nominiert sind, gesehen ((»Selma« habe ich verpasst, »American Sniper« bringt der deutsche Verleiher leider erst nächste Woche _nach_ der Oscar-Verleihung raus. Ich bitte abermals darum, in Zukunft ein bisschen mitzudenken.)) – und bisher nur »[The Theory of Everything](//eay.cc/2015/die-entdeckung-der-unendlichkeit/)« an dieser Stelle rezensiert (und mit 4,5 von 5 Sternen bewertet). Höchste Zeit also, sich die restlichen Nominierten auch mal etwas genauer anzusehen.

@@ -19,7 +19,7 @@ meta:
   - geo_latitude: "50.97385669999"
   - geo_longitude: "6.683012145229"
   - geo_public: "1"
-  - yourls_shorturl: "http://eay.li/3e4"
+  - yourls_shorturl: "https://eay.li/3e4"
   - content_copy: "https://twitter.com/eay/status/1259040061703815168"
 ---
 

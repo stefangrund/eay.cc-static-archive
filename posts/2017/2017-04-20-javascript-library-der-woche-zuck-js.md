@@ -17,7 +17,7 @@ tags:
   - web-development-2
 meta:
   - linked_list_url: "https://ramon.codes/projects/zuck.js"
-  - yourls_shorturl: "http://eay.li/2xt"
+  - yourls_shorturl: "https://eay.li/2xt"
 ---
 
 Mach's wie Mark Zuckerberg und füge überall Stories hinzu.

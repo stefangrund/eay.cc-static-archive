@@ -16,7 +16,7 @@ tags:
   - spanien
   - sport
 meta:
-  - yourls_shorturl: "http://eay.li/d1"
+  - yourls_shorturl: "https://eay.li/d1"
 ---
 
 ![](/uploads/2008/spanien.gif) ¡Viva EspaÃ±a!

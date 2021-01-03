@@ -17,7 +17,7 @@ tags:
   - star-wars
   - tiere
 meta:
-  - yourls_shorturl: "http://eay.li/17l"
+  - yourls_shorturl: "https://eay.li/17l"
 ---
 
 ![](https://eay.cc/uploads/2011/chewiedog.jpg) (via [Three Little Indians](http://threelittleindians.tumblr.com/post/4814491276/chewie-is-my-co-pilot-who-do-you-have))

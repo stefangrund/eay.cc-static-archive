@@ -14,7 +14,7 @@ tags:
   - konferenz
   - ppw
 meta:
-  - yourls_shorturl: "http://eay.li/2tr"
+  - yourls_shorturl: "https://eay.li/2tr"
   - linked_list_url: "http://www.ppw.de/blog/ppw-bei-der-beyond-tellerrand-2016/"
 ---
 

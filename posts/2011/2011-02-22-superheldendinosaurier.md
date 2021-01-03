@@ -14,7 +14,7 @@ tags:
   - marvel
   - superhelden
 meta:
-  - yourls_shorturl: "http://eay.li/15t"
+  - yourls_shorturl: "https://eay.li/15t"
 ---
 
 ![](https://eay.cc/uploads/2011/superherodinosaurs.jpg) Dinosaurier als Superhelden. So offensichtlich! Warum ist da vor [David Resto](http://www.davidresto.com/) noch niemand drauf gekommen? Hier sein entsprechendes [flickr-Album](http://www.flickr.com/photos/cadencejunkie/sets/72157625580764074/), hier sein [Shop](http://superherodinosaurs.bigcartel.com/), in dem sich Superdino-Poster für jeweils 20 Dollar bestellen lassen. (via [Laughing Squid](http://laughingsquid.com/superhero-dinosaurs-by-david-resto/))

@@ -15,7 +15,7 @@ tags:
   - it-crowd
   - netzkultur
 meta:
-  - yourls_shorturl: "http://eay.li/fm"
+  - yourls_shorturl: "https://eay.li/fm"
 ---
 
 ![](/uploads/2008/theinternet.jpg)

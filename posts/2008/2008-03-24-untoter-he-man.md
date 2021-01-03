@@ -14,7 +14,7 @@ tags:
   - motu
   - zombies
 meta:
-  - yourls_shorturl: "http://eay.li/b2"
+  - yourls_shorturl: "https://eay.li/b2"
 ---
 
 [![](/uploads/2008/zombieheman.jpg)](http://surebeatsworking.blogspot.com/2008/03/zombie-he-man.html) Zombiefizierter He-Man [von Sean Phillips](http://surebeatsworking.blogspot.com/2008/03/zombie-he-man.html) (da dann auch in groß!).

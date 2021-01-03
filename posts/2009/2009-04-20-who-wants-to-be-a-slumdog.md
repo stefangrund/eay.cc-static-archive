@@ -16,7 +16,7 @@ tags:
   - oscars
   - wer-wird-millionar
 meta:
-  - yourls_shorturl: "http://eay.li/i3"
+  - yourls_shorturl: "https://eay.li/i3"
 ---
 
 ![](/uploads/2009/slumdogmillionaire.jpg)[Weiter](//eay.cc/2009/the-ram/) geht's mit dem Review-Nachholen und mit einem Film, der in der Oscar-Nacht die Aufmerksamkeit auf sich zog wie kein anderer: [Slumdog Millionär](http://www.imdb.com/title/tt1010048/), die als "feel-good film of the decade" angepriesene, fiktive Geschichte vom bettelarmen Jamal Malik, der es irgendwie zu Indiens "Wer wird Millionär?" schafft und dort, während ihm die ganze Fernsehnation zuschaut, die Chance hat, das ganz große Geld zu gewinnen. Doch ganz so einfach macht es Danny Boyle seinem Slumdog nicht: In der Nacht auf die alles entscheidende Sendung wird Jamal kurzerhand festgenommen, da Polizei und Moderator davon überzeugt sind, der arme, halb kriminelle Junge habe in der Sendung betrogen. Während des Verhörs - und das ist das Grundkonzept des Films - kann Jamal haarklein rechtfertigen, wieso er die Antworten wusste, da diese natürlich unmittelbar mit seiner Lebensgeschichte zusammenhängen.

@@ -17,7 +17,7 @@ tags:
   - twitter
 meta:
   - linked_list_url: "https://twitter.com/ebaygarfield"
-  - yourls_shorturl: "http://eay.li/2wu"
+  - yourls_shorturl: "https://eay.li/2wu"
 ---
 
 Comic-Artist [@teomodo](https://twitter.com/teomodo) dokumentiert die bizarren Auswüchse der Popkultur, indem er hier Bilder von Garfield-Merchandise sammelt, das er auf eBay findet. (via [@theqsim](https://twitter.com/theqsim/status/839145958868992000))

@@ -16,7 +16,7 @@ tags:
   - robert-rodriguez
   - video-essay
 meta:
-  - yourls_shorturl: "http://eay.li/2zh"
+  - yourls_shorturl: "https://eay.li/2zh"
 ---
 
 \[youtube id="rgyEuwG37X4"\]

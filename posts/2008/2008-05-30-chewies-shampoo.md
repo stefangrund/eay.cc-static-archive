@@ -15,7 +15,7 @@ tags:
   - werbung
   - wookiee
 meta:
-  - yourls_shorturl: "http://eay.li/bn"
+  - yourls_shorturl: "https://eay.li/bn"
 ---
 
 ![](/uploads/2008/wookieeshampoo.jpg "by JollyJack via b3ta.com") Duscht eure Wookiees, ihr alten Wookiee-Treiber! ([via](http://www.b3ta.com/board/8421739))

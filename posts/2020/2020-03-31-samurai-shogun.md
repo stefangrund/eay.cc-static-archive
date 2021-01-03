@@ -16,7 +16,7 @@ tags:
   - kurzfilm
   - rick-and-morty
 meta:
-  - yourls_shorturl: "http://eay.li/3dj"
+  - yourls_shorturl: "https://eay.li/3dj"
 ---
 
 Großartiger, blutiger, fünf Minuten langer Anime-Kurzfilm, der vom japanischen [Studio Deen](https://de.wikipedia.org/wiki/Studio_Deen) produziert wurde und uns die Wartezeit auf den zweiten Teil der vierten Staffel von »Rick and Morty« verkürzt. Wann die erscheint, wissen wir derweil aber immer noch nicht \[doch, siehe unten\].

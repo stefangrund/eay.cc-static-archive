@@ -13,7 +13,7 @@ tags:
   - gif-der-woche
   - tiere
 meta:
-  - yourls_shorturl: "http://eay.li/5y"
+  - yourls_shorturl: "https://eay.li/5y"
 ---
 
 ![](https://eay.cc/uploads/2009/squirrel.gif) Scrat (Hat eigentlich irgendwer Ice Age 3 gesehen und mag mir sagen, wie der war?) ist so 2002: heute gibt's rockende Squirrels auf Droge LSD-Otterwieseltiere!

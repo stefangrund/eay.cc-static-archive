@@ -14,7 +14,7 @@ tags:
   - empfehlungsschreiben
   - netzkultur
 meta:
-  - yourls_shorturl: "http://eay.li/254"
+  - yourls_shorturl: "https://eay.li/254"
 ---
 
 Es folgt die Zelebration der Bauchpinselei meiner Person. Hatten wir [schon länger](//eay.cc/2009/empfehlungsschreiben/) nicht mehr hier, tut aber immer wieder gut sowas. Vielen Dank an all die netten Menschen, die sowas etwas über mich sagen:

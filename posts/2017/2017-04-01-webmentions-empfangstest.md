@@ -10,7 +10,7 @@ format: "post"
 categories:
   - 0815
 meta:
-  - yourls_shorturl: "http://eay.li/2yi"
+  - yourls_shorturl: "https://eay.li/2yi"
 ---
 
 ![](https://eay.cc/uploads/2017/barbrady.jpg)

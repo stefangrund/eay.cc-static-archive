@@ -13,7 +13,7 @@ tags:
   - himym
   - serien
 meta:
-  - yourls_shorturl: "http://eay.li/7i"
+  - yourls_shorturl: "https://eay.li/7i"
 ---
 
 ![](/uploads/2008/howimetyourmother.jpg) Als ich vor einigen Wochen den Film [Forgetting Sarah Marshall](//eay.cc/2008/forgetting-kristen-bell/) an dieser Stelle rezensionierte und dabei mit keinem Wort auf Hauptdarsteller Jason Segel und sein vorheriges Schaffen einging, machten mich [Andi](http://www.andisblog.de/) und [Nilsi](http://www.nils-kraus.de/) in den Kommentaren darauf aufmerksam, dass offenbar etwas elementares an mir vorbei gegangen ist: die Sitcom [How I met your mother](http://de.wikipedia.org/wiki/How_I_Met_Your_Mother).

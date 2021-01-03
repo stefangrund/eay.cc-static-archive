@@ -15,7 +15,7 @@ tags:
   - musik
   - wohlstandskinder
 meta:
-  - yourls_shorturl: "http://eay.li/ri"
+  - yourls_shorturl: "https://eay.li/ri"
 ---
 
 > Ihr meint jenen großen Bruder, der euch immer beschützt, ihr meint den großen Bruder, der euch eigentlich gar nichts nützt, ist es dieser große Bruder der euch das Geld abzockt, ist es wirklich euer Bruder, wenn er euch mit Dingen schockt, die ihr gar nicht könnt und wollt und habt und unwichtig sind?

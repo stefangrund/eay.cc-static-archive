@@ -16,7 +16,7 @@ tags:
   - tshirt
   - zombies
 meta:
-  - yourls_shorturl: "http://eay.li/p"
+  - yourls_shorturl: "https://eay.li/p"
 ---
 
 Wie genial ist das denn bitte? Capcom hat zur Promotion von [Resident Evil: The Darkside Chronicles](http://www.amazon.de/exec/obidos/ASIN/B002CKJ1I8/eayznet-21) das großartigste Zombie-Shirt out there kreiert, das zuerst noch unspektakulär und 08/15 daherkommt, dann aber ... nun ja, seht selbst:

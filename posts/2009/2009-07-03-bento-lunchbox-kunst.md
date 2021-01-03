@@ -19,7 +19,7 @@ tags:
   - simpsons
   - star-wars
 meta:
-  - yourls_shorturl: "http://eay.li/o2"
+  - yourls_shorturl: "https://eay.li/o2"
 ---
 
 Das Bent?, so lehrt uns der Anhalter [die Wikipedia](http://de.wikipedia.org/wiki/Bent%C5%8D), ist "eine in Japan weit verbreitete Darreichungsform von Speisen, bei der in einem speziellen Kästchen mehrere Speisen durch Schieber voneinander getrennt sind". Auch die Kästchen selbst heißen Bent? und sind sowas wie das japanische Pendant zu unserer Butterbrotdose, nur eben nicht auf eine bestimmte Speise begrenzt. Darüber hinaus ist das Zubereiten eines Bent? eine Art Liebesbeweis, bei dem "ein Mädchen einem Jungen (niemals umgekehrt) \[...\] besonders kunstvoll arrangierte Bent?s schenkt – in der Hoffnung, dass eine solche Gelegenheit für ein gemeinsames Essen die Beziehung vertieft".

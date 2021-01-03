@@ -15,7 +15,7 @@ tags:
   - social-media
   - twitter
 meta:
-  - yourls_shorturl: "http://eay.li/22w"
+  - yourls_shorturl: "https://eay.li/22w"
   - linked_list_url: "http://futurezone.at/produkte/15191-twitter-musik-app-vor-start.php"
 ---
 

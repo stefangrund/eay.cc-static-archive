@@ -13,7 +13,7 @@ tags:
   - blogging
   - netzkultur
 meta:
-  - yourls_shorturl: "http://eay.li/aa"
+  - yourls_shorturl: "https://eay.li/aa"
 ---
 
 Und nicht nur das: Sie sind auch irrelevant und hässlich. Das mag auf das ein oder andere nicht zutreffen, aber das Gros der Blogs ist [irrelevant](http://www.happy-day-heute-aber-mathe-5.de) und [hässlich](http://www.das-wordpress-standard-theme-ist-sooo-schön.de). eayz eingeschlossen.

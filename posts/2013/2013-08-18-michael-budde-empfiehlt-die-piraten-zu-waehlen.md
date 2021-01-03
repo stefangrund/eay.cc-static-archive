@@ -17,7 +17,7 @@ tags:
   - politik
 meta:
   - linked_list_url: "http://simplesachen.de/post/58447385315/wahlempfehlung"
-  - yourls_shorturl: "http://eay.li/26g"
+  - yourls_shorturl: "https://eay.li/26g"
 ---
 
 > Nicht, weil die alles richtig machen, sondern weil die anderen dann weniger falsch machen, wenn sie wegen schlechter Netzpolitik Stimmenverluste befürchten müssen.

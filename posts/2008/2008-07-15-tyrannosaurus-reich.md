@@ -16,7 +16,7 @@ tags:
   - nazis
   - superschurke
 meta:
-  - yourls_shorturl: "http://eay.li/4l"
+  - yourls_shorturl: "https://eay.li/4l"
 ---
 
 Da hab ich letztens schon nicht schlecht gestaunt als ich von der Existenz von Tyrannosaurus Reich, einem Nazi-Dinosaurier aus der DC-Comic-Serie [Major Bummer](http://en.wikipedia.org/wiki/Major_Bummer) aus den 90ern, [erfahren habe](http://www.monstrs.de/2008/06/23/tyrannosaurus-reich/). Und wo kommen solch fehlgeleitete Urzeitechsen her? Klar, aus einer Dimension voller Nazi-Dinosauriern, in der man, noch klarer, Deutsch spricht. Oder [es zumindest versucht](http://en.wikipedia.org/wiki/Tyrannosaurus_Reich). Das ganze sieht dann so aus:

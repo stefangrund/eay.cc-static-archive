@@ -14,7 +14,7 @@ tags:
   - marco-arment
   - webservice
 meta:
-  - yourls_shorturl: "http://eay.li/236"
+  - yourls_shorturl: "https://eay.li/236"
   - linked_list_url: "http://www.marco.org/2013/04/25/instapaper-next-generation"
 ---
 

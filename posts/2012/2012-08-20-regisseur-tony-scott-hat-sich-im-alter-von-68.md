@@ -14,7 +14,7 @@ tags:
   - rip
   - tony-scott
 meta:
-  - yourls_shorturl: "http://eay.li/1wr"
+  - yourls_shorturl: "https://eay.li/1wr"
   - linked_list_url: "http://www.tagesschau.de/kultur/tonyscott102.html"
 ---
 

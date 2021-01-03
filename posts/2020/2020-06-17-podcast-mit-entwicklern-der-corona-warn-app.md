@@ -14,7 +14,7 @@ tags:
   - podcast
 meta:
   - linked_list_url: "https://ukw.fm/ukw030-die-corona-warn-app/"
-  - yourls_shorturl: "http://eay.li/3el"
+  - yourls_shorturl: "https://eay.li/3el"
   - geo_latitude: "50.97386307081"
   - geo_longitude: "6.6829250538498"
   - geo_public: "1"

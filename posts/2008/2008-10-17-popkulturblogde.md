@@ -12,7 +12,7 @@ tags:
   - domains
   - eayz
 meta:
-  - yourls_shorturl: "http://eay.li/t2"
+  - yourls_shorturl: "https://eay.li/t2"
 ---
 
 [![](/uploads/2008/popkulturblog.gif)](http://www.popkulturblog.de/) Wir haben einmal mehr keine Kosten und Mühen gescheut: [eayz.net](http://eay.cc/) ist seit heute auch unter [popkulturblog.de](http://www.popkulturblog.de) erreichbar! (Und vielleicht kann man sich das ja besser merken...)

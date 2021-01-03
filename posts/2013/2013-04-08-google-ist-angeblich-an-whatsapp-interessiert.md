@@ -16,7 +16,7 @@ tags:
   - social-media
   - whatsapp
 meta:
-  - yourls_shorturl: "http://eay.li/22u"
+  - yourls_shorturl: "https://eay.li/22u"
   - linked_list_url: "http://www.digitaltrends.com/social-media/google-acquiring-whatsapp/"
 ---
 

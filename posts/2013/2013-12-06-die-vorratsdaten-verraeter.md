@@ -17,7 +17,7 @@ tags:
   - vorratsdatenspeicherung
 meta:
   - linked_list_url: "http://gutjahr.biz/2013/12/vorratsdaten/"
-  - yourls_shorturl: "http://eay.li/2ai"
+  - yourls_shorturl: "https://eay.li/2ai"
 ---
 
 Richard Gutjahr über die "immer mieseren Tricks und Täuschungsmanöver \[mit denen\] CDU/CSU und SPD die vom Bundesverfassungsgericht gekippte Vorratsdatenspeicherung wieder einzuführen \[versuchen\]". Vor allem den Zugriff auf die Bestandsdaten hält Gutjahr für problematisch:

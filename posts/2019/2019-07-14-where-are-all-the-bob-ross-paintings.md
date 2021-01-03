@@ -15,7 +15,7 @@ tags:
   - netzkultur
 meta:
   - linked_list_url: "https://www.nytimes.com/2019/07/12/arts/bob-ross-paintings-mystery.html"
-  - yourls_shorturl: "http://eay.li/3aq"
+  - yourls_shorturl: "https://eay.li/3aq"
 ---
 
 > Bob Ross painted more than 1,000 landscapes for his television show — so why are they so hard to find? We solve one of the internet’s favorite little mysteries.

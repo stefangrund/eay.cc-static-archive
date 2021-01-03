@@ -16,7 +16,7 @@ tags:
   - lost
   - serien
 meta:
-  - yourls_shorturl: "http://eay.li/af"
+  - yourls_shorturl: "https://eay.li/af"
 ---
 
 ![](https://eay.cc/uploads/2010/lostanimated.gif)

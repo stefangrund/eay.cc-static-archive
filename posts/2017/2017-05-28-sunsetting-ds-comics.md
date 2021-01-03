@@ -15,7 +15,7 @@ tags:
   - projekte
   - webcomic
 meta:
-  - yourls_shorturl: "http://eay.li/2z7"
+  - yourls_shorturl: "https://eay.li/2z7"
 ---
 
 Ein Blogeintrag über ein Projekt, das seit ca. zehn Jahren kaum noch genutzt wird, einfach weil ich es mag, wenn Projekte vernünftig beendet werden.

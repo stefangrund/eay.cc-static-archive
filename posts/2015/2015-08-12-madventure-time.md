@@ -17,7 +17,7 @@ tags:
   - mashup
   - serien
 meta:
-  - yourls_shorturl: "http://eay.li/2pn"
+  - yourls_shorturl: "https://eay.li/2pn"
 ---
 
 Großartiges »Adventure Time«/»Mad Max«-Mashup von [Egor Zhgun](http://zhgun.ru/). Die Parallelen zwischen der Fury Road und Ooo sind auch wirklich nicht abzustreiten. Immortan Joe sieht ja auch wirklich wie der Ice King aus. (via [Minds Delight](http://www.mindsdelight.de/2015/08/aus-mad-max-fury-road-und-adventure-time-wird-madventure-time/))

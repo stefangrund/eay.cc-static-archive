@@ -16,7 +16,7 @@ tags:
   - wissenschaft
 meta:
   - linked_list_url: "http://www.webat25.org/"
-  - yourls_shorturl: "http://eay.li/2ds"
+  - yourls_shorturl: "https://eay.li/2ds"
 ---
 
 Tim Berners-Lee, der heute vor einem Viertel Jahrhundert seinem Chef beim CERN die Idee des Web unterbreitete (der die ["vague, but exciting"](http://info.cern.ch/Proposal.html) fand) und den ich [gerade intensiv](https://twitter.com/eay/status/443857523729506304) in meiner [Bachelorarbeit](//eay.cc/2013/der-titel-meiner-bachelorarbeit/) zitiere:

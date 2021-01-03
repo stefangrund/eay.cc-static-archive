@@ -16,7 +16,7 @@ tags:
   - werbung
   - zigaretten
 meta:
-  - yourls_shorturl: "http://eay.li/57"
+  - yourls_shorturl: "https://eay.li/57"
 ---
 
 ![](https://eay.cc/uploads/2009/muttismarlboros.jpg) Marlboro-Zigaretten, heutzutage ja das Sinnbild der verqualmten Männlichkeit, wurden nicht immer mit rauchenden Cowboys, die in der Prärie Wildpferde bändigen, beworben. Zwischen 1924 und dem zweiten Weltkrieg wurden Marlboros, damals noch als Marlborough, als "Frauenzigarette" vermarktet. Werbeslogen: Mild wie der Mai; und auf den Werbeplakaten fordern sogar Babies ihre Muttis dazu auf, sich eine anzustecken. ([via](http://contexts.org/socimages/2008/09/18/marlboros-for-mommies/))

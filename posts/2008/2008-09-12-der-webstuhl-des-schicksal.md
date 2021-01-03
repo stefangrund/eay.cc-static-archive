@@ -14,7 +14,7 @@ tags:
   - kinolog
   - wanted
 meta:
-  - yourls_shorturl: "http://eay.li/so"
+  - yourls_shorturl: "https://eay.li/so"
 ---
 
 ![](/uploads/2008/wanted.jpg)Und dann war da noch [Wanted](http://www.imdb.com/title/tt0493464/). Bereits vor einer Woche gesehen, da ich aber im Moment ganz gut ausgelastet bin (dazu später mehr), hab ich meine überraschende Meinung bisher noch nicht in Worte gefasst, was ich hiermit erledigen möchte. Man kommt ja einfach zu nichts mehr! Und früher war auch alles besser! Gerade letzteres dachte ich mir, als ich zum ersten Mal den [Trailer zu Wanted](http://www.moviemaze.de/media/trailer/view/29587/cc555f1c768de5c969a2781fca7913ef/3700_trailer01-de_480.flv) sah: FrüheÂ® waren Actionfilme besser. "Ein Film über's Um-die-Ecke-schießen? Hallo? Geht's noch?" Trotz meiner Verachtung für die Story ließ ich mich auf das Spektakel ein und wurde ... doch irgendwie überrascht.

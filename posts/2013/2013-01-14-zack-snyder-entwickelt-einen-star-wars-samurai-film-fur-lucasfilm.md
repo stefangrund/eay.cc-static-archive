@@ -16,7 +16,7 @@ tags:
   - star-wars
   - zack-snyder
 meta:
-  - yourls_shorturl: "http://eay.li/21g"
+  - yourls_shorturl: "https://eay.li/21g"
   - linked_list_url: "http://www.slashfilm.com/zack-snyder-developing-star-wars-samurai-movie-for-lucasfilm/"
 ---
 

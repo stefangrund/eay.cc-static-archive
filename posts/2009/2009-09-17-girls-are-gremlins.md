@@ -14,7 +14,7 @@ tags:
   - gremlins
   - himym
 meta:
-  - yourls_shorturl: "http://eay.li/r0"
+  - yourls_shorturl: "https://eay.li/r0"
 ---
 
 Im Rahmen des folgendes Promo-Clips für die fünfte Staffel [der weltbesten Comedy-Serie](//eay.cc/2008/how-i-met-my-favorite-tv-series/) lehrt uns Großmeister Barney Stinson "how to keep a girl from becoming your girlfriend". Ganz The Barnacle wagt er sich, das auszusprechen, was Generationen von Männern bereits seit Mitte der 80er vermuten: für Frauen gelten die selben Regeln wie für Gremlins. Und glücklicherweise bekommen wir [ab kommenden Montag](//eay.cc/2009/himym-die-funfte/) wieder weitere seiner glorreichen Lehrstücke frei Haus. ((Ihr könnt eure Tracker also schon mal warm laufen lassen. Also sofern wir Amerikaner wären.))

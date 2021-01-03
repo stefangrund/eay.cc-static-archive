@@ -19,7 +19,7 @@ meta:
   - linked_list_url: "http://demos.littleworkshop.fr/infinitown"
   - linked_list_url: "http://demos.littleworkshop.fr/infinitown"
   - linked_list_url: "http://demos.littleworkshop.fr/infinitown"
-  - yourls_shorturl: "http://eay.li/32j"
+  - yourls_shorturl: "https://eay.li/32j"
 ---
 
 > This WebGL experiment is an attempt to create a procedural city that feels alive and is fun to watch. First, we generate a finite grid of random city blocks. Then, using some tricks, the viewpoint wraps around this grid, which creates the illusion of an endless cityscape.

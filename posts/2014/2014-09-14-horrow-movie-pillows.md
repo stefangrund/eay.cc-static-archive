@@ -17,7 +17,7 @@ tags:
   - konsum
   - merchandising
 meta:
-  - yourls_shorturl: "http://eay.li/2iz"
+  - yourls_shorturl: "https://eay.li/2iz"
 ---
 
 [![](https://eay.cc/uploads/2014/horrorpillows.jpg)](https://horror-decor.myshopify.com/collections/pillows)

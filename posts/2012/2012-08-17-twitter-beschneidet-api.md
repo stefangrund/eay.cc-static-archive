@@ -18,7 +18,7 @@ tags:
   - social-media
   - twitter
 meta:
-  - yourls_shorturl: "http://eay.li/1lc"
+  - yourls_shorturl: "https://eay.li/1lc"
 ---
 
 [Das Twitter-Debakel](//eay.cc/2012/profitgier-essen-apps-auf/) geht weiter: Twitters Produktmanager Michael Sippey hat einen [neuen Blogeintrag verfasst](https://dev.twitter.com/blog/changes-coming-to-twitter-api), in dem er auf die bevorstehenden Änderungen der API-Version 1.1 eingeht. Außerdem unterstreicht er nochmal den Ratschlag von letztem Jahr, keine traditionellen Twitter-Clients mehr zu entwickeln. Marco Arment hat das kalifornische Schönsprech ["übersetzt"](http://www.marco.org/2012/08/16/twitter-api-changes) und unter dem Strich steht da, dass all das, was Twitter vorher großartig gemacht hat, so nicht mehr erlaubt ist. Oder [wie Ben Brooks](http://brooksreview.net/2012/08/twitter-bullshit/) es treffend als Analogie zu Apple formuliert:

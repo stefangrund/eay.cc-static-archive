@@ -14,7 +14,7 @@ tags:
   - development
 meta:
   - linked_list_url: "https://github.com/toddmotto/public-apis/blob/master/README.md"
-  - yourls_shorturl: "http://eay.li/2sd"
+  - yourls_shorturl: "https://eay.li/2sd"
 ---
 
 (Und wir brauchen noch viel mehr!)

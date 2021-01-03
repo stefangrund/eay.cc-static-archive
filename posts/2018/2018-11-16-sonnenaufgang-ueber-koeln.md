@@ -14,7 +14,7 @@ tags:
   - koeln
 meta:
   - content_copy: "https://instagram.com/p/BqO7myfHUCJ/"
-  - yourls_shorturl: "http://eay.li/37p"
+  - yourls_shorturl: "https://eay.li/37p"
   - geo_latitude: "50.9414812"
   - geo_longitude: "6.9528709"
   - geo_public: "1"

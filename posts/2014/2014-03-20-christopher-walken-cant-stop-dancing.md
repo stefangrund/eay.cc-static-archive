@@ -16,7 +16,7 @@ tags:
   - musik
   - tanzen
 meta:
-  - yourls_shorturl: "http://eay.li/2e1"
+  - yourls_shorturl: "https://eay.li/2e1"
 ---
 
 \[youtube id="sNaau2uPFqI"\]

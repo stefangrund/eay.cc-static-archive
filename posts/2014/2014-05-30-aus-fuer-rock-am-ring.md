@@ -14,7 +14,7 @@ tags:
   - musik
   - rock-am-ring
 meta:
-  - yourls_shorturl: "http://eay.li/2gg"
+  - yourls_shorturl: "https://eay.li/2gg"
 ---
 
 Das was in den letzten Jahren schon absehbar war, ist heute Realität geworden: [Rock am Ring](https://de.wikipedia.org/wiki/Rock_am_Ring) findet in diesem Jahr – zumindest am Nürburgring – zum letzten Mal statt. [Eilmeldung des Rolling Stone](http://www.rollingstone.de/news/meldungen/article581839/eilmeldung-aus-fuer-rock-am-ring.html):

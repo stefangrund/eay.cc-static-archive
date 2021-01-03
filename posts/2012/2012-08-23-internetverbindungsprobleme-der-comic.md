@@ -13,7 +13,7 @@ tags:
   - netzkultur
   - webcomic
 meta:
-  - yourls_shorturl: "http://eay.li/1yc"
+  - yourls_shorturl: "https://eay.li/1yc"
   - linked_list_url: "http://de.selektive-erinnerung.com/post/29998794410/internetverbindungsprobleme-der-comic"
 ---
 

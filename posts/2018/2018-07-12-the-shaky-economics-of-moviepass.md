@@ -16,7 +16,7 @@ tags:
   - nerdwriter
   - video-essay
 meta:
-  - yourls_shorturl: "http://eay.li/35z"
+  - yourls_shorturl: "https://eay.li/35z"
 ---
 
 \[youtube id="w876zZZIb10"\]

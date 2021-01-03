@@ -14,7 +14,7 @@ tags:
   - gif-der-woche
   - sport
 meta:
-  - yourls_shorturl: "http://eay.li/1ko"
+  - yourls_shorturl: "https://eay.li/1ko"
 ---
 
 ![](https://eay.cc/uploads/2012/strike.gif) Zur Abwechslung mal kein Vogel, sondern nur die Kamera...

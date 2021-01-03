@@ -16,7 +16,7 @@ tags:
   - technologie
 meta:
   - linked_list_url: "https://www.heise.de/tp/features/Der-erste-Quantencomputer-rechnet-seit-14-Milliarden-Jahren-3370994.html"
-  - yourls_shorturl: "http://eay.li/2x2"
+  - yourls_shorturl: "https://eay.li/2x2"
 ---
 
 > Physiker hingegen kommen immer mehr dahinter, dass Information genauso zu den Grundfesten der Welt gehört wie Energie und Materie. Manche halten sie sogar für wichtiger als Energie und Materie. Mit Anton Zeilinger gesprochen: "Information ist der Urstoff des Universums".

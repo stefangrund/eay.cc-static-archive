@@ -15,7 +15,7 @@ tags:
   - streaming
 meta:
   - linked_list_url: "http://www.turi2.de/aktuell/basta-35-der-deutschen-betruegen-ihren-streaming-partner/"
-  - yourls_shorturl: "http://eay.li/2wn"
+  - yourls_shorturl: "https://eay.li/2wn"
 ---
 
 Erschreckende menschliche Abgründe offenbart [dieser Stern-Artikel](http://mobil.stern.de/digital/homeentertainment/netflix--bei-diesen-serien-schaut-man-heimlich-fremd-7325502.html), den turi2 gekonnt zusammenfasst:

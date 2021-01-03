@@ -14,7 +14,7 @@ tags:
   - razzie-awards
   - uwe-boll
 meta:
-  - yourls_shorturl: "http://eay.li/c9"
+  - yourls_shorturl: "https://eay.li/c9"
 ---
 
 Uwe Boll hat ja bekanntlich bei den [diesjährigen Razzie Awards](http://de.wikipedia.org/wiki/Goldene_Himbeere_2009), die Goldene Himbeere für das schlechteste Lebesnwerk abgeräumt. Und wie "die deutsche Antwort auf Ed Wood" halt so ist, hat er es sich nicht nehmen lassen, die Jury selbst für die Auszeichnung zu danken:

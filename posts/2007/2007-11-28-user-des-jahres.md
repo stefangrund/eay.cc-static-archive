@@ -13,7 +13,7 @@ tags:
   - mclee
   - statistik
 meta:
-  - yourls_shorturl: "http://eay.li/tw"
+  - yourls_shorturl: "https://eay.li/tw"
 ---
 
 Wir nähern uns dem Ende des Jahres. Zeit für einen Blick in die Statistik. Wer hat [eayz](http://eay.cc/) im laufenden Jahr am häufigsten angeklickt? Überraschung Nr. 1: ich wars nicht. Überraschung Nr. 2: Derjenige, der es war, belegt die Top 3 gleich zwei Mal (wohl Büro und Zuhause).

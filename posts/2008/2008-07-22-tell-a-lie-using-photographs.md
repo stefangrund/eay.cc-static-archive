@@ -15,7 +15,7 @@ tags:
   - photoshop
   - portfolio
 meta:
-  - yourls_shorturl: "http://eay.li/t5"
+  - yourls_shorturl: "https://eay.li/t5"
 ---
 
 [![](/uploads/2008/tellalie.jpg "Â© by Henry Hadlow")](http://dlow.org/index.php?/project/tell-a-lie/) Die kleine Fotoserie [Tell a lie](http://dlow.org/index.php?/project/tell-a-lie/) von Herny Hadlow und Ed Cornish zeigt einfach und eindrucksvoll wie man gängige Photoshop-Techniken imitieren kann. So kann sich jeder ausradieren, färben und unscharf machen lassen. Ohne Photoshop. Sehr nett.

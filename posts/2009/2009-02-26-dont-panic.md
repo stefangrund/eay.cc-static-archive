@@ -15,7 +15,7 @@ tags:
   - webcomic
   - xkcd
 meta:
-  - yourls_shorturl: "http://eay.li/yd"
+  - yourls_shorturl: "https://eay.li/yd"
 ---
 
 Eigentlich könnte man ja auf jeden zweiten, wenn nicht sogar auch jeden Strip von [xkcd](http://xkcd.com/), dem Strichmännchen-Webcomic für Übernerds, verlinken (und deshalb tut man das ja auch [immer](//eay.cc/2008/steal-this-comic/) [wieder](//eay.cc/2009/windows-7/)). Heute [ging's um Amazons Kindle](http://xkcd.com/548/) und <spoiler>, klar, sobald der Anhalter im Spiel ist, hat man mich eh schon begeistert.</spoiler>. Best webcomic ever!

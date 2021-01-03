@@ -17,7 +17,7 @@ tags:
   - projekte
   - single-serving-site
 meta:
-  - yourls_shorturl: "http://eay.li/1ih"
+  - yourls_shorturl: "https://eay.li/1ih"
 ---
 
 [→ → →](http://was.ist.eigentlich.das.schlimmste.de/?)

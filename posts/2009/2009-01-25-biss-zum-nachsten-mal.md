@@ -15,7 +15,7 @@ tags:
   - twilight
   - vampire
 meta:
-  - yourls_shorturl: "http://eay.li/8q"
+  - yourls_shorturl: "https://eay.li/8q"
 ---
 
 ![](https://eay.cc/uploads/2009/twilight.jpg)Wenn man dieser Tage 13 bis 30 jährige Mädels nach ihrem aktuellen Lieblingsfilm befragt, dann hat man gute Chancen die Vampir-Romanze [Twilight - Bis(s) zum Morgengrauen](http://www.imdb.com/title/tt1099212/) genannt zu bekommen. Der Film basiert auf der gleichnamigen Jugendbuch- Reihe von [Stephenie Meyer](http://de.wikipedia.org/wiki/Stephenie_Meyer) und kann somit als nächste Reihe angesehen werden, die im potter'schen Fantasy-Roman-Verfilmungswahn schleunigst in die Kinos gebracht werden will - bevor die Kids wieder auf Pokemons stehen. Soweit so unspektakulär, wäre da nicht die Tatsache, dass Twilight derzeit enorme Erfolge an den Kinokassen einfährt, so dass man sich den Spaß auch mal geben kann, wenn man nicht gleich feuchte Träume von/mit Hauptdarsteller Robert Pattinson bekommt.

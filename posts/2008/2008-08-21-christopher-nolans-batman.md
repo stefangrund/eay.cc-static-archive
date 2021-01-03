@@ -17,7 +17,7 @@ tags:
   - kinolog
   - the-dark-knight
 meta:
-  - yourls_shorturl: "http://eay.li/6x"
+  - yourls_shorturl: "https://eay.li/6x"
 ---
 
 ![](/uploads/2008/thedarkknight.jpg)Endlich, endlich, endlich habe ich [The Dark Knight](http://www.imdb.com/title/tt0468569/) gesehen. Und jetzt, nachdem ich eine Nacht drüber geschlafen habe, kann ich meine Meinung dazu niederschreiben. Denn - einige von euch haben es vielleicht gemerkt... - dieser Film wurde von mir hier [so dermaßen gefeatured](//eay.cc/tag/the-dark-knight/), dass der ganze Laden schon nach Fanboy-Ausverkauf roch. "eayz.net ist doch diese Batman-Fanseite, oder?" Ja, leugnen ist zwecklos: als ich das erste Bewegtbild (vom Joker) sah, war ich vollends dem Hype verfallen. Trotzdem befürchtete ich, dass meine, nach Lektüre zahlreicher ach, wahrscheinlich aller Dark-Knight-Reviews out there, himmelhoch angestiegenen Erwartungen nur enttäuscht werden konnten. Aber die Fanboy-Hoffnung stirbt bekanntlich zuletzt...

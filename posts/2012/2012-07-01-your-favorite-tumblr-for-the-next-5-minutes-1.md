@@ -14,7 +14,7 @@ tags:
   - vogel
   - your-favorite-tumblr-for-the-next-5-minutes
 meta:
-  - yourls_shorturl: "http://eay.li/1jz"
+  - yourls_shorturl: "https://eay.li/1jz"
 ---
 
 Ich habe beschlossen, dass Blogs die Zukunft sind (nicht nur dieses - alle!) und mir gedacht, meine beliebte Twitter-Serie "Your favorite tumblr for the next 5 minutes" in dieses Blog zu überführen. Archivarisch ist das irgendwie schöner, ihr versteht. Und jetzt freuen wir uns gemeinsam über sehenswerte und vor allem überaus schräge Tumblelogs. Den Anfang macht hiermit [Birds with Arms](http://birdswitharms.tumblr.com/) (via [Kottke](http://kottke.org/12/06/birds-with-arms)):

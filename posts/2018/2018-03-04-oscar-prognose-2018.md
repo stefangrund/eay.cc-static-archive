@@ -15,7 +15,7 @@ tags:
   - oscars
   - wetten
 meta:
-  - yourls_shorturl: "http://eay.li/340"
+  - yourls_shorturl: "https://eay.li/340"
 ---
 
 ![](https://eay.cc/uploads/2010/oscar.jpg)Heute Abend werden im Dolby Theatre in Hollywood [zum 90. Mal die Academy Awards](https://en.wikipedia.org/wiki/90th_Academy_Awards) verliehen. Wie schon bei den letzten neunzig sieben Malen darf dazu natürlich nicht meine traditionsreiche Oscar-Prognose fehlen. Mit dem unsäglichen, aber 13-fach nominierten »[The Shape of Water](https://eay.cc/2018/the-shape-of-water-2017/)« und dem für mich überragenden »[Three Billboards outside Ebbing, Missouri](https://eay.cc/2018/three-billboards-outside-ebbing-missouri/)« war die Qualitäts­spanne in diesem Jahr ungewohnt groß. Letzterer ist natürlich auch mein unumstößlicher Best Picture-Pick, »The Shape of Water«, so hoffe ich, der Verlierer des Abends. Hier also meine Tipps:

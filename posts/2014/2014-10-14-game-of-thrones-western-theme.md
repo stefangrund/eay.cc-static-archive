@@ -17,7 +17,7 @@ tags:
   - serien
   - western
 meta:
-  - yourls_shorturl: "http://eay.li/2ju"
+  - yourls_shorturl: "https://eay.li/2ju"
 ---
 
 \[youtube id="Wro0VE6i-XM"\]

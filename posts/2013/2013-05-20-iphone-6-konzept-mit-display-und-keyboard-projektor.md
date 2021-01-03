@@ -14,7 +14,7 @@ tags:
   - iphone
   - video
 meta:
-  - yourls_shorturl: "http://eay.li/23l"
+  - yourls_shorturl: "https://eay.li/23l"
   - linked_list_url: "http://www.youtube.com/watch?v=YbT0xy_Jai0"
 ---
 

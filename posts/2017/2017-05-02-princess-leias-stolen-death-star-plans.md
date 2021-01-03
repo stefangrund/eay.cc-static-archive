@@ -18,7 +18,7 @@ tags:
   - the-beatles
 meta:
   - linked_list_url: "http://www.paletteswapninja.com/2017/05/01/new-album-princess-leias-stolen-death-star-plans/"
-  - yourls_shorturl: "http://eay.li/2y3"
+  - yourls_shorturl: "https://eay.li/2y3"
 ---
 
 > This year marks two important pop-culture milestones: The 40th anniversary of Star Wars on May 25, and the 50th anniversary of The Beatles’ Sgt. Pepper’s Lonely Hearts Club Band a week later, June 1. Our new album merges both into one full-length concept album titled Princess Leia’s Stolen Death Star Plans. It’s the entire Beatles album as accurately as we could record it, only now it tells the story of Star Wars: A New Hope — in order.

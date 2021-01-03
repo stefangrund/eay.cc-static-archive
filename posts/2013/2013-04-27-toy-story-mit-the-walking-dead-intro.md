@@ -17,7 +17,7 @@ tags:
   - the-walking-dead
   - toy-story
 meta:
-  - yourls_shorturl: "http://eay.li/239"
+  - yourls_shorturl: "https://eay.li/239"
   - linked_list_url: "http://www.pewpewpew.de/2013/04/16/the-walking-dead-intro-x-toy-story/"
 ---
 

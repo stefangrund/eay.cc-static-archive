@@ -14,7 +14,7 @@ tags:
   - vergnugungspark
   - zombies
 meta:
-  - yourls_shorturl: "http://eay.li/18n"
+  - yourls_shorturl: "https://eay.li/18n"
 ---
 
 \[youtube id="Bcja8UBtXdk"\]

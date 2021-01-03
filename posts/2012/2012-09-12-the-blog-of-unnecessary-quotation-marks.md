@@ -14,7 +14,7 @@ tags:
   - rechtschreibung
   - single-serving-blog
 meta:
-  - yourls_shorturl: "http://eay.li/1ym"
+  - yourls_shorturl: "https://eay.li/1ym"
   - linked_list_url: "http://www.unnecessaryquotes.com/"
 ---
 

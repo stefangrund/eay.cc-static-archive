@@ -15,7 +15,7 @@ tags:
   - filme
   - jurassic-park
 meta:
-  - yourls_shorturl: "http://eay.li/1ax"
+  - yourls_shorturl: "https://eay.li/1ax"
 ---
 
 Großartiges kleines Video von [Tal Moskovich](http://vimeo.com/talmoskovich), in dem das, was Sam Neill als [Alan Grant](http://www.imdb.com/media/rm589794816/ch0002035) am Anfang von »Jurassic Park« bei der Ausgrabung dem kleinen, dicken, undankbaren Jungen erzählt, mit Spielzeugdinosauriern visualisiert wird. (via [Minds Delight](http://www.mindsdelight.de/2011/08/jurassic-park-nachgespielt-mit-spielzeugdinosauriern/))

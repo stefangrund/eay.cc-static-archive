@@ -16,7 +16,7 @@ tags:
   - hochzeiten
   - kira-und-ich
 meta:
-  - yourls_shorturl: "http://eay.li/2hl"
+  - yourls_shorturl: "https://eay.li/2hl"
 ---
 
 Falls ihr euch fragt, warum es hier in den letzten Wochen so ruhig war: Ich habe geheiratet. Und zwar die Frau, mit der ich seit nunmehr zwölf Jahren zusammen bin und [die ich letztes Jahr gefragt habe](//eay.cc/2013/sie-hat-ja-gesagt/), ob wir auch diesen Schritt gemeinsam gehen wollen. Nach zwei grandiosen Junggesellenabschieden voller Superhelden, Entführungen und Eseln und einem wunderbaren Polterabend Hochzeitsumtrunk samt kurzfristigem Location-Wechsel und nicht genehmigtem Feuerwerk war es am vergangenen Freitag, [an unserem Jahrestag](//eay.cc/2012/zehn/), dann soweit.

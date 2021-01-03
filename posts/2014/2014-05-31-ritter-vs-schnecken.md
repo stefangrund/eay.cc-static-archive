@@ -16,7 +16,7 @@ tags:
   - ritter
 meta:
   - linked_list_url: "http://britishlibrary.typepad.co.uk/digitisedmanuscripts/2013/09/knight-v-snail.html"
-  - yourls_shorturl: "http://eay.li/2gi"
+  - yourls_shorturl: "https://eay.li/2gi"
 ---
 
 > In mittelalterlichen Texten kommt es anscheinend öfters vor, dass Ritter gegen Schnecken kämpfen. Die Wissenschaft ist sich aber nicht einig warum.

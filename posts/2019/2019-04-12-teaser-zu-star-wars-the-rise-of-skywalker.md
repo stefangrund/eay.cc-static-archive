@@ -14,7 +14,7 @@ tags:
   - star-wars
   - trailer
 meta:
-  - yourls_shorturl: "http://eay.li/39x"
+  - yourls_shorturl: "https://eay.li/39x"
   - geo_latitude: "50.973854515518"
   - geo_longitude: "6.6830440291246"
   - geo_public: "1"

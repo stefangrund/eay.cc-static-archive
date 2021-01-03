@@ -15,7 +15,7 @@ tags:
   - service
 meta:
   - linked_list_url: "http://www.packal.org/"
-  - yourls_shorturl: "http://eay.li/2tk"
+  - yourls_shorturl: "https://eay.li/2tk"
 ---
 
 I just learned about Packal, a great service by [Shawn Patrick Rice](http://shawnrice.org/) and _the missing link_ in the _Alfredverse_.

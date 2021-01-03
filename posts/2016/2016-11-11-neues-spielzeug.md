@@ -16,7 +16,7 @@ tags:
   - technologie
   - wearables
 meta:
-  - yourls_shorturl: "http://eay.li/2yf"
+  - yourls_shorturl: "https://eay.li/2yf"
   - content_copy: "https://www.instagram.com/p/BMrjDKTg_zn/"
 ---
 

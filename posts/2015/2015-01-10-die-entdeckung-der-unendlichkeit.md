@@ -14,7 +14,7 @@ tags:
   - kinolog
   - stephen-hawking
 meta:
-  - yourls_shorturl: "http://eay.li/2mb"
+  - yourls_shorturl: "https://eay.li/2mb"
 ---
 
 ![](https://eay.cc/uploads/movies/the-theory-of-everything_2014.jpg)Basierend auf der Autobiografie von Jane Wilde Hawking, der ersten Ehefrau des weltberühmten Physikers, hat [James Marsh](http://www.imdb.com/name/nm1016428/) das Leben von [Stephen Hawking](http://de.wikipedia.org/wiki/Stephen_Hawking) oder genauer gesagt ihr gemeinsames Leben verfilmt. So sehen wir die beiden bei ihrem Kennenlernen in den 1960ern, beim Ausbruch von Stephens Krankheit, seinen beruflichen Erfolgen, der Geburt ihrer Kinder, und der stetigen Verschlechterung des Zustands des Physikers. Und wie die junge, "ganz normale Familie" damit umgeht.

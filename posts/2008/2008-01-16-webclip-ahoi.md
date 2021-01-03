@@ -15,7 +15,7 @@ tags:
   - ipod
   - touch
 meta:
-  - yourls_shorturl: "http://eay.li/tu"
+  - yourls_shorturl: "https://eay.li/tu"
 ---
 
 ![](/uploads/2008/eayzwebclip.jpg) Wenn ihr eayz als [Webclip](//eay.cc/2008/macworld-2008/) hinzufügt, sieht's so aus.

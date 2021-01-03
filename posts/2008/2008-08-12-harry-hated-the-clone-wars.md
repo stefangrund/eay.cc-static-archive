@@ -13,7 +13,7 @@ tags:
   - star-wars
   - the-clone-wars
 meta:
-  - yourls_shorturl: "http://eay.li/39"
+  - yourls_shorturl: "https://eay.li/39"
 ---
 
 > I hated the film. HATED IT. REALLY HATED IT.

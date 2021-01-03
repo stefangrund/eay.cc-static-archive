@@ -13,7 +13,7 @@ tags:
   - forum
   - supertopic
 meta:
-  - yourls_shorturl: "http://eay.li/pl"
+  - yourls_shorturl: "https://eay.li/pl"
 ---
 
 ![](/uploads/2007/supertopic1.gif) ![](/uploads/2007/supertopic2.gif)

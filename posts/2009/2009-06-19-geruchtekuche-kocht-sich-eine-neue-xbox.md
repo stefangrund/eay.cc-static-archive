@@ -17,7 +17,7 @@ tags:
   - project-natal
   - xbox
 meta:
-  - yourls_shorturl: "http://eay.li/v9"
+  - yourls_shorturl: "https://eay.li/v9"
 ---
 
 ![](https://eay.cc/uploads/2009/balmerxbox.jpg)... und Microsoft brutzelt munter mit. Denn niemand geringeres als Microsoft-Chef(choleriker) [Steve Balmer](http://de.wikipedia.org/wiki/Steve_Ballmer) (siehe Bild) hat bestätigt, dass wir tatsächlich mit einer überarbeiteten Version der [Xbox 360](//eay.cc/tag/xbox/) rechnen dürfen. Dann höchstwahrscheinlich nen Ticken schneller und mit integriertem Kamerazauber as seen on [Project Natal](http://www.xbox.com/en-US/live/projectnatal/). Anbetracht des Alters der 360 und der Tatsache, dass sämtliche neuen Features mehr Speicherplatz fordern als die Urbox mit ihren 20GB zu bieten hat, wäre eine "neue" 360, ähnlich Sonys PSone und PS2 Slim, wirklich keine Überraschung. Doch gerade als die Sache sicher schien, tritt das Xbox-Entwickler-Team auf den Plan und dementiert Gerüchte und Aussagen des Chefs.

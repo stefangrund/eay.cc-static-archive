@@ -16,7 +16,7 @@ tags:
   - serien
   - star-wars
 meta:
-  - yourls_shorturl: "http://eay.li/1el"
+  - yourls_shorturl: "https://eay.li/1el"
 ---
 
 IGN hat sich mit LucasFilm-Produzent [Rick McCallum](http://de.wikipedia.org/wiki/Rick_McCallum) über deren neuen Luftkriegs-/Diskriminierungsfilm »[Red Tails](http://www.imdb.de/title/tt0485985/)« unterhalten und die Gelegenheit direkt genutzt, ihn ein bisschen was über die _Star Wars Live-Action TV Series_ [zu fragen und erzählen zu lassen](http://tv.ign.com/articles/121/1216139p1.html). Und dabei hat McCallum einige interessante Dinge angesprochen. ((Das Interview (in einem viel zu lauten Café) gibt's auch [hier bei YouTube](http://www.youtube.com/watch?v=b8wgUt5gO24).))

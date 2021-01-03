@@ -14,7 +14,7 @@ tags:
   - statistik
   - visualisierung
 meta:
-  - yourls_shorturl: "http://eay.li/1l0"
+  - yourls_shorturl: "https://eay.li/1l0"
 ---
 
 > Investigate how budgets and box office returns have varied over the 22 Bond films thus far and adjust by inflation to see the data in real terms.

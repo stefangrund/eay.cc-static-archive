@@ -19,7 +19,7 @@ tags:
   - technologie
   - zukunft
 meta:
-  - yourls_shorturl: "http://eay.li/1hi"
+  - yourls_shorturl: "https://eay.li/1hi"
 ---
 
 Wer schon mal mit mir an einem Abend, an dem das Gespräch zufällig auf das Thema Zukunftstechnologien fiel, ein Bier trinken war, weiß, dass es da diverse Errungenschaften gibt, von denen ich erwarte, dass sie Zeit unseres Lebens noch entwickelt werden, und über die ich stundenlang reden kann. Exoskelette zum Beispiel, die es älteren Menschen irgendwann ermöglichen werden, so mobil wie Jugendliche zu bleiben. Oder (Haushalts-)Roboter für so ziemlich jeden nervigen Aspekt unseres Lebens. Oder - und hier werden meine Freunde aufschreien, denn sie wissen, das jetzt mein Lieblingsthema kommt, von dem ich nach fünf Bier sowieso immer anfange - Kontaktlinsen mit allerlei Augmented Reality-Funktionalitäten.

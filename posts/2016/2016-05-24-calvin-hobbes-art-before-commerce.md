@@ -15,7 +15,7 @@ tags:
   - kaptain-kristian
   - video-essay
 meta:
-  - yourls_shorturl: "http://eay.li/2tm"
+  - yourls_shorturl: "https://eay.li/2tm"
 ---
 
 \[youtube id="-xzzQVk5IfE"\]

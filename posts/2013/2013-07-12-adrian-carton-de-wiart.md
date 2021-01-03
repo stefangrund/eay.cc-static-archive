@@ -16,7 +16,7 @@ tags:
   - wikipedia
 meta:
   - linked_list_url: "https://en.wikipedia.org/wiki/Adrian_Carton_de_Wiart"
-  - yourls_shorturl: "http://eay.li/257"
+  - yourls_shorturl: "https://eay.li/257"
 ---
 
 Boing Boing hat den besten ersten Absatz der Wikipedia [gefunden](http://boingboing.net/2013/07/12/the-best-opening-paragraph-on.html):

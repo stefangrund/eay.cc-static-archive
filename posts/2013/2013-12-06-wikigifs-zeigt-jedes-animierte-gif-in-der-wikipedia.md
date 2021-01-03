@@ -15,7 +15,7 @@ tags:
   - wikipedia
 meta:
   - linked_list_url: "http://www.wikigifs.org/"
-  - yourls_shorturl: "http://eay.li/2af"
+  - yourls_shorturl: "https://eay.li/2af"
 ---
 
 (via [Waxy](http://waxy.org/links))

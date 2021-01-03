@@ -15,7 +15,7 @@ tags:
   - roland-emmerich
   - video-essay
 meta:
-  - yourls_shorturl: "http://eay.li/2zw"
+  - yourls_shorturl: "https://eay.li/2zw"
 ---
 
 \[youtube id="-gu8GQOJhdA"\]

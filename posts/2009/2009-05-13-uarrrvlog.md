@@ -12,7 +12,7 @@ categories:
 tags:
   - videoblog
 meta:
-  - yourls_shorturl: "http://eay.li/9q"
+  - yourls_shorturl: "https://eay.li/9q"
 ---
 
  ([YouTube Direktuarrr](http://www.youtube.com/watch?v=GnswkYvUwOk))

@@ -19,7 +19,7 @@ tags:
   - streaming
   - trailer
 meta:
-  - yourls_shorturl: "http://eay.li/3bd"
+  - yourls_shorturl: "https://eay.li/3bd"
   - geo_latitude: "50.973922289168"
   - geo_longitude: "6.6829432418826"
   - geo_public: "1"

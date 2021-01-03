@@ -17,7 +17,7 @@ tags:
   - tesla-motors
 meta:
   - linked_list_url: "http://www.teslamotors.com/blog/all-our-patent-are-belong-you/"
-  - yourls_shorturl: "http://eay.li/2gy"
+  - yourls_shorturl: "https://eay.li/2gy"
 ---
 
 [Elon Musk](http://en.m.wikipedia.org/wiki/Elon_Musk), Chef von SpaceX und Tesla Motors, hat heute im Blog von Tesla verkündet, dass sie die Nutzung ihrer Patente freigeben, um so schnelleren technologischen Fortschritt zu ermöglichen:

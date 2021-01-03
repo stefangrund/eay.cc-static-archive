@@ -20,7 +20,7 @@ tags:
   - wearables
 meta:
   - linked_list_url: "http://the-gadgeteer.com/2014/01/20/amc-movie-theater-calls-fbi-to-arrest-a-google-glass-user/"
-  - yourls_shorturl: "http://eay.li/2c6"
+  - yourls_shorturl: "https://eay.li/2c6"
 ---
 
 Am Wochenende in Ohio passiert. Glass war ausgeschaltet. "Immerhin" hat er vier Freikarten bekommen.

@@ -14,7 +14,7 @@ tags:
   - politik
   - wahnsinn
 meta:
-  - yourls_shorturl: "http://eay.li/7g"
+  - yourls_shorturl: "https://eay.li/7g"
 ---
 
 Nachdem ich gestern [bei René gelesen habe](http://www.nerdcore.de/wp/2008/02/07/knieper-von-marions-kochbuch-ist-im-fernsehen-und-mahnt-mich-ab-weil-ich-einen-screenshot-davon-veroffentliche/), dass er von einem gewissen Herrn erneut abgemahnt wurde (zum Verständnis **unbedingt** dieses [Video ansehen](http://www.daserste.de/mediathek_blank/play.asp?cid=16833)!), schrieb ich eine kurze Überlegung [bei Supertopic](http://www.supertopic.de/) nieder:

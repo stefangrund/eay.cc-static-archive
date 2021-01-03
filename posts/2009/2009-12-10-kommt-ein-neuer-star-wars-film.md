@@ -13,7 +13,7 @@ tags:
   - star-wars
   - twitter
 meta:
-  - yourls_shorturl: "http://eay.li/b3"
+  - yourls_shorturl: "https://eay.li/b3"
 ---
 
 Es folgt ein Tweet meinerseits, den ich den anwesenden Fanboys und -girls nicht vorenthalten möchte (also falls es tatsächlich noch Blogleser gibt, die nicht bei Twitter sind und dort aufmerksam [meine Tweets](http://twitter.com/Eay) verfolgen):

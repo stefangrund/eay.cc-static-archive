@@ -16,7 +16,7 @@ tags:
   - how-to
   - kindle
 meta:
-  - yourls_shorturl: "http://eay.li/1zq"
+  - yourls_shorturl: "https://eay.li/1zq"
   - linked_list_url: "http://zacwe.st/blog/kindle-to-epub"
 ---
 

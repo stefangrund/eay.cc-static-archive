@@ -11,7 +11,7 @@ tags:
   - analogleben
   - kira-und-ich
 meta:
-  - yourls_shorturl: "http://eay.li/f"
+  - yourls_shorturl: "https://eay.li/f"
 ---
 
 [denn...](http://twitter.com/Eay/statuses/861752862)

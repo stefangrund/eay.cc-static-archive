@@ -17,7 +17,7 @@ tags:
   - geld
   - technologie
 meta:
-  - yourls_shorturl: "http://eay.li/30k"
+  - yourls_shorturl: "https://eay.li/30k"
 ---
 
 Bevor die Hype Train zum stehen kommt, habe ich gestern mal die Gunst der Stunde genutzt und mich – risikoscheu wie ich bin – mit jeweils 20 Euro in den populärsten Crypto Currencies, namentlich [Bitcoin](https://de.wikipedia.org/wiki/Bitcoin), [Ethereum](https://de.wikipedia.org/wiki/Ethereum) und [Litecoin](https://de.wikipedia.org/wiki/Litecoin), ausgestattet. Genau eingebracht hat mir das:

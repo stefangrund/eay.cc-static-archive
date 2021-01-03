@@ -11,7 +11,7 @@ tags:
   - apple
   - iphone
 meta:
-  - yourls_shorturl: "http://eay.li/i1"
+  - yourls_shorturl: "https://eay.li/i1"
 ---
 
  ([YouTube Direktgigantismus](http://www.youtube.com/watch?v=gvCo6-KhZT4), [via](https://twitter.com/icedsoul/status/2171025151))

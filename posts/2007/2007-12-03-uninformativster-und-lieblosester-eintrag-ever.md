@@ -13,7 +13,7 @@ tags:
   - arbeit
   - arctic-monkeys
 meta:
-  - yourls_shorturl: "http://eay.li/gn"
+  - yourls_shorturl: "https://eay.li/gn"
 ---
 
 Da ich seit heute (endlich) zur arbeitenden Bevölkerung gehöre und gleich zu den [Arctic Monkeys](//eay.cc/2007/i-heart-arctic-monkeys/) fahre, habe ich eigentlich gar keine Zeit was zu bloggen, aber ich will mein neues Blog ja nicht so vergammeln lassen wie [mein altes](http://spaetz.eayz.net) (Tipp: [Es tut sich was!](http://spaetz.eayz.net/2007/12/ber-diese-futurama-dvd.html)) und deshalb total kurz und irgendwie gar nicht informativ:

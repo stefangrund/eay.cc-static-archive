@@ -18,7 +18,7 @@ tags:
   - richard-dawkins
   - wissenschaft
 meta:
-  - yourls_shorturl: "http://eay.li/uf"
+  - yourls_shorturl: "https://eay.li/uf"
 ---
 
 ![Gottswahn Cover](/uploads/2008/gotteswahn.jpg)Ich habe gestern endlich das Hörbuch von Richard Dawkins [Der Gotteswahn](http://de.wikipedia.org/wiki/Der_Gotteswahn) durchgehört - und kann's jedenfalls jedem empfehlen, über dem im Religionsunterricht ständig eine "What the fuck?!"- Denkblase schwebte und der den Spaß deshalb schnellstmöglich abgewählt hat. Der britische Zoologe [Richard Dawkins](http://de.wikipedia.org/wiki/Richard_Dawkins) nimmt in seinem (Hör-)Buch nämlich das ganze Religionskonstrukt aus darwinistischer, philosophischer und logischer Sicht auseinander - und das auf äußerst unterhaltsame und interessante Art und Weise.

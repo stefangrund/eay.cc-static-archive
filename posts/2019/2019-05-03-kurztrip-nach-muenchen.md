@@ -14,7 +14,7 @@ tags:
   - fotos
 meta:
   - content_copy: "https://www.instagram.com/p/BxA1RG9nHx3/"
-  - yourls_shorturl: "http://eay.li/3a6"
+  - yourls_shorturl: "https://eay.li/3a6"
   - content_copy: "https://twitter.com/eay/status/1124406570614493190"
   - content_copy: "https://eay.social/@eay/102033941479220547"
   - geo_latitude: "48.138774629926"

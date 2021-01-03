@@ -15,7 +15,7 @@ tags:
   - star-wars
   - star-wars-uncut
 meta:
-  - yourls_shorturl: "http://eay.li/2jq"
+  - yourls_shorturl: "https://eay.li/2jq"
 ---
 
 Gestern Abend wurde endlich die finale Fassung von »The Empire Strikes Back Uncut« veröffentlicht, der Fortsetzung des großartigen, Emmy-ausgezeichneten »[Star Wars Uncut](//eay.cc/2012/star-wars-uncut-directors-cut/)«. Wie schon beim Vorgänger wurde [der Film](http://www.imdb.com/title/tt0080684/) in 15 Sekunden kurze Segmente unterteilt, die von Fans überall auf der Welt nachgefilmt wurden. Insgesamt kamen so über 1.500 mehr oder weniger professionelle Filmchen zusammen, von denen 480 in den nun vorliegenden Director's Cut Einzug fanden. Und das beste daran: [Die Szene, die wir beigesteuert haben](//eay.cc/2012/unsere-empire-uncut-szene/), ist drin!

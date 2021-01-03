@@ -14,7 +14,7 @@ tags:
   - technologie
   - zitat
 meta:
-  - yourls_shorturl: "http://eay.li/25f"
+  - yourls_shorturl: "https://eay.li/25f"
 ---
 
 > We think like the machine we have made in the image of ourselves; the machine thinks like us as we have come to think about ourselves in the image of the machine. A house of mirrors.

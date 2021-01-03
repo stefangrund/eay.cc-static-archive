@@ -13,7 +13,7 @@ tags:
   - kurzfilm
   - weihnachten
 meta:
-  - yourls_shorturl: "http://eay.li/2lv"
+  - yourls_shorturl: "https://eay.li/2lv"
 ---
 
 Ich hatte zwar noch nie so wenig Lust auf die Feiertage wie dieses Jahr, aber das muss euch ja nicht stören: Wer das Warten auf's Christkind und die Zeit zwischen der raubkopierten »Sissi« und »Stirb langsam« totschlagen möchte, der findet [auf shortfil.ms](http://shortfil.ms/) in den nächsten drei Tagen [ausschließlich weihnachtliche Kurzfilme](http://shortfil.ms/?s=christmas). Von Dokumentationen und Horror über RomComs bis hin zu kurzen Komödien, in denen Leute plötzlich Laser aus ihren Augen schießen.

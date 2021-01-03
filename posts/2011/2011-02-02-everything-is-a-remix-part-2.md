@@ -20,7 +20,7 @@ tags:
   - remix
   - star-wars
 meta:
-  - yourls_shorturl: "http://eay.li/15c"
+  - yourls_shorturl: "https://eay.li/15c"
 ---
 
 Das folgende Video findet ihr heute in jedem Blog und jedem Twitter-Stream, denn es ist einfach zu gut: [Kirby Ferguson](http://www.goodiebag.tv/) hat heute nämlich den zweiten Teil seiner vierteiligen Serie »[Everything is a Remix](http://www.everythingisaremix.info/)« veröffentlicht, in der er belegt, dass jedes kulturelle Produkt ein Remix vorheriger Kulturprodukte ist. Im [ersten Teil](http://vimeo.com/14912890) ging's um Musik, nun geht's um Filme. Anhand von »Avatar«, »Star Wars« und »Kill Bill« zeigt er, wie sehr Filme auf anderen Filmen - Und Büchern! Und Comics! Und Fernsehserien! - basieren und liefert so definitiv das Must-See der Woche ab. (via [TubeYou](http://twitter.com/TubeYou/status/32755610634162176), [Mister Honk](http://www.misterhonk.de/blog/15734/everything-is-a-remix-i-ii/), [Nerdcore](http://www.crackajack.de/2011/02/02/everything-is-a-remix-teil-2/) uvm.)

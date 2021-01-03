@@ -13,7 +13,7 @@ tags:
   - forum
   - forum-gedenk-interview
 meta:
-  - yourls_shorturl: "http://eay.li/1ry"
+  - yourls_shorturl: "https://eay.li/1ry"
 ---
 
 Durch eine [bereits erwähnte Unachtsamkeit](//eay.cc/2012/hey-eugene/) meinerseits erhielten alle Teilnehmer der [Forum-Gedenk-Interviews](//eay.cc/tag/forum-gedenk-interview/) eine Mail von mir, in deren ersten Frage "Hey Eugene" statt z.B. "Hey Tonito" stand. Herr Lee hat das zum Anlass genommen die Fragen gleich zwei Mal zu beantworten: [Zuerst aus seiner Sicht](//eay.cc/2013/forum-gedenk-interview-mclee/), dann ein zweites Mal aus [Eugenes](//eay.cc/2013/forum-gedenk-interview-mrrogers/) Sicht. Hier also Fake Eugene:

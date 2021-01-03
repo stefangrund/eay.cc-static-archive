@@ -17,7 +17,7 @@ tags:
   - webservice
   - wii
 meta:
-  - yourls_shorturl: "http://eay.li/xw"
+  - yourls_shorturl: "https://eay.li/xw"
 ---
 
 - [SXSW Geek T-Shirts](http://www.flickr.com/photos/smithmag/sets/72157600002403395/) · Eine kleine flickr-Galerie über Geeks und ihre T-Shirts, aufgenommen auf der diesjährigen _South by Southwest_\-Konferenz. Mein Favorit ist `<td>css sucks</td>`.

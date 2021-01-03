@@ -16,7 +16,7 @@ tags:
   - roboter
   - transformers
 meta:
-  - yourls_shorturl: "http://eay.li/2q"
+  - yourls_shorturl: "https://eay.li/2q"
 ---
 
 Das vorweg: Raubkopierer sind Verbrecher, das wissen wir. Aber vielleicht, ja vielleicht können sie ja nicht anders. Zum Beispiel wenn sie in Passau wohnen und im dortigen Kinokoloss für eine Mittagsvorstellung (!) acht Euro (!) berappen müssen. Und wenn's Unterhaltung statt Futter heißt, würde ich auch raubkopieren...

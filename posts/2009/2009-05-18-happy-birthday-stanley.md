@@ -13,7 +13,7 @@ tags:
   - theme
   - wordpress
 meta:
-  - yourls_shorturl: "http://eay.li/rf"
+  - yourls_shorturl: "https://eay.li/rf"
 ---
 
 [Stanley ist heute genau 1 Jahr alt geworden.](//eay.cc/2008/introducing-stanley/) Und der damals™ versprochene Download des Themes lässt noch immer auf sich warten. Vielleicht zum 2ten, Stanley.

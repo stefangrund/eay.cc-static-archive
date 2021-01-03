@@ -15,7 +15,7 @@ tags:
   - technologie
 meta:
   - linked_list_url: "https://www.kickstarter.com/projects/903107259/scio-your-sixth-sense-a-pocket-molecular-sensor-fo"
-  - yourls_shorturl: "http://eay.li/2f7"
+  - yourls_shorturl: "https://eay.li/2f7"
 ---
 
 > Scan materials or physical objects. Get instant relevant information to your smartphone about food, medicine, plants, and more.

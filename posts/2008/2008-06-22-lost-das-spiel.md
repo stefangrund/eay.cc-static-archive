@@ -16,7 +16,7 @@ tags:
   - merchandising
   - versoftung
 meta:
-  - yourls_shorturl: "http://eay.li/by"
+  - yourls_shorturl: "https://eay.li/by"
 ---
 
 ![](/uploads/2008/lostgame.jpg) Sieht zwar nett aus, ist aber spielerisch leider ein absolutes No-go.

@@ -18,7 +18,7 @@ tags:
   - streaming
 meta:
   - linked_list_url: "https://www.plex.tv/cloud/"
-  - yourls_shorturl: "http://eay.li/2v4"
+  - yourls_shorturl: "https://eay.li/2v4"
 ---
 
 > Run your always-on Plex Media Server in the cloud without the need for an always-on PC or network-attached storage device (NAS). With Plex Cloud, you’ll be ready to go in 60 seconds or less, easily streaming and accessing your media remotely on all your Plex enabled devices. Too easy!

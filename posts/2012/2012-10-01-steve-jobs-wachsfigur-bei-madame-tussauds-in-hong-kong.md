@@ -13,7 +13,7 @@ tags:
   - apple
   - steve-jobs
 meta:
-  - yourls_shorturl: "http://eay.li/1z2"
+  - yourls_shorturl: "https://eay.li/1z2"
   - linked_list_url: "http://micgadget.com/30324/the-reborn-of-steve-jobs-in-hong-kong-video/"
 ---
 

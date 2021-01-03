@@ -14,7 +14,7 @@ tags:
   - microblogging
   - webservice
 meta:
-  - yourls_shorturl: "http://eay.li/221"
+  - yourls_shorturl: "https://eay.li/221"
   - linked_list_url: "http://blog.app.net/2013/02/25/introducing-a-free-tier/"
 ---
 

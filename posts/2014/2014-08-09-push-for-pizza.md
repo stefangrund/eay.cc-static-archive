@@ -16,7 +16,7 @@ tags:
   - technologie
 meta:
   - linked_list_url: "http://www.pushforpizza.com/"
-  - yourls_shorturl: "http://eay.li/2hx"
+  - yourls_shorturl: "https://eay.li/2hx"
 ---
 
 Genius. Und ein [gutes Werbevideo](https://www.youtube.com/watch?v=hw07EXR8mJg) von [Adam Lisagor](http://sandwichvideo.com/).

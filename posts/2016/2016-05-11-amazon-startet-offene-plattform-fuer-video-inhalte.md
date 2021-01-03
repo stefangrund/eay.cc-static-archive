@@ -17,7 +17,7 @@ tags:
   - streaming
 meta:
   - linked_list_url: "http://heise.de/newsticker/meldung/Amazon-startet-offene-Plattform-fuer-Video-Inhalte-3202227.html"
-  - yourls_shorturl: "http://eay.li/2tc"
+  - yourls_shorturl: "https://eay.li/2tc"
 ---
 
 "Professionelle Filmproduzenten und Lizenzinhaber" können ihre Inhalte damit auf Amazon Video einstellen und entweder ganz klassisch verkaufen und verleihen oder den Prime-Kunden kostenlos zur Verfügung stellen und dafür Nutzungsgebühren pro Stream bekommen (à la Spotify).

@@ -14,7 +14,7 @@ tags:
   - deutschland
   - sprache
 meta:
-  - yourls_shorturl: "http://eay.li/25n"
+  - yourls_shorturl: "https://eay.li/25n"
 ---
 
 \[youtube id="-\_xUIDRxdmc"\]

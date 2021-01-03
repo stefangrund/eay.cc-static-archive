@@ -15,7 +15,7 @@ tags:
   - star-wars
   - trailer
 meta:
-  - yourls_shorturl: "http://eay.li/2v9"
+  - yourls_shorturl: "https://eay.li/2v9"
 ---
 
 Doch springen wir wieder auf die Hype-Train auf: Disney's Lucasfilm hat einen zweiten »Rogue One«-Trailer veröffentlicht. Sieht weiterhin großartig aus. 😍

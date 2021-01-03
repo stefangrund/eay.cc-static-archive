@@ -15,7 +15,7 @@ tags:
   - web-development
   - wordpress
 meta:
-  - yourls_shorturl: "http://eay.li/2sn"
+  - yourls_shorturl: "https://eay.li/2sn"
 ---
 
 Mein Schweizer Blogger-Homie [Owley](http://owley.ch/) hat sein Blog vor ein paar Tagen in [ein neues Design namens "Berninger"](http://owley.ch/2016/04/14/i-proudly-present-berninger/) gehüllt, benannt nach Matt Berninger, dem Sänger von [The National](https://de.wikipedia.org/wiki/The_National_(Band)), die ich zugegebenermaßen bisher nur vom Namen her kenne. ((Was ich jetzt aber natürlich alsbald ändern werde, Owley.)) Ich habe Owleys Design dabei in ein WordPress-Theme verbaut inkl. Integration seines neuen [Portfolio-Bereichs](http://owley.ch/folio/). Ich bin mit dem Ergebnis ganz zufrieden, habe ich doch eine Schwäche für einspaltige Blog-Layouts. ((Und Füchse.)) 😌

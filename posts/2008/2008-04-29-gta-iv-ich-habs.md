@@ -15,7 +15,7 @@ tags:
   - gta
   - konsum
 meta:
-  - yourls_shorturl: "http://eay.li/u1"
+  - yourls_shorturl: "https://eay.li/u1"
 ---
 
 Nachdem Amazon und DHL die Fanboy-gerechte Lieferung[\*](#70000) meines GTA-IV-Exemplars versemmelt haben, habe ich denen mitgeteilt, dass sie sich das Spiel sonst wohin stecken können. Danach schnell zum (ansonsten mittlerweile ungern besuchten) Saturn gerast und GTA IV dort [erstanden](http://twitter.com/Eay/statuses/799696437). Für 55 Euro. Also 15 Euro billiger als [bei Amazon](http://www.amazon.de/exec/obidos/ASIN/B000FII8CE/eayznet-21) (da ursprünglich: 65 Euro pro Spiel + 5 Euro Jugendschutzzirkus von DHL; jetzt sogar 70 + 5 Euro). Hat sich [die Warterei](//eay.cc/2008/entertainment-overkill/) auf die Versandbestätigung schlussendlich also doch noch irgendwie gelohnt...

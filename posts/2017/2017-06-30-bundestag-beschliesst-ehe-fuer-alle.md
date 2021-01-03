@@ -22,7 +22,7 @@ meta:
   - linked_list_url: "http://www.tagesschau.de/inland/ehefueralle-131.html"
   - linked_list_url: "http://www.tagesschau.de/inland/ehefueralle-131.html"
   - linked_list_url: "http://www.tagesschau.de/inland/ehefueralle-131.html"
-  - yourls_shorturl: "http://eay.li/2zx"
+  - yourls_shorturl: "https://eay.li/2zx"
 ---
 
 > Jahrelang wurde der Gesetzentwurf in den Ausschüssen blockiert. Jetzt hat der Bundestag beschlossen, die Ehe für gleichgeschlechtliche Paare zu öffnen. Neben SPD, Linken und Grünen stimmte auch fast ein Viertel der Union mit Ja. **Kanzlerin Merkel votierte dagegen** (Hervorh. von mir).

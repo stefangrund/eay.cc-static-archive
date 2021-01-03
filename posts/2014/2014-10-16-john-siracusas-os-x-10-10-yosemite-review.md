@@ -16,7 +16,7 @@ tags:
   - netzkultur
 meta:
   - linked_list_url: "http://arstechnica.com/apple/2014/10/os-x-10-10/"
-  - yourls_shorturl: "http://eay.li/2jz"
+  - yourls_shorturl: "https://eay.li/2jz"
 ---
 
 The [same procedure](//eay.cc/2013/john-siracusas-os-x-10-9-mavericks-review/) as every year.

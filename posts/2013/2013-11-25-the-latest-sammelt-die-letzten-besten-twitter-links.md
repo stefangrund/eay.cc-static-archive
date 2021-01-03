@@ -14,7 +14,7 @@ tags:
   - webservice
 meta:
   - linked_list_url: "http://latest.is/"
-  - yourls_shorturl: "http://eay.li/29w"
+  - yourls_shorturl: "https://eay.li/29w"
 ---
 
 > We automatically collect the links posted by a bunch of the most interesting people on Twitter. You know the people that always tweet the best links - first. We take all the links they tweet and compile a real-time updated list of the 10 most popular links right now. Plus, all links are automatically posted to our [Twitter feed](http://twitter.com/latest_is) too. Pretty useful, right?

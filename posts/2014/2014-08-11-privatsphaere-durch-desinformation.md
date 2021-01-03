@@ -14,7 +14,7 @@ tags:
   - privatsphare
   - sicherheit
 meta:
-  - yourls_shorturl: "http://eay.li/2i0"
+  - yourls_shorturl: "https://eay.li/2i0"
 ---
 
 > Privatsphäre haben nur jene, die es schaffen, ständig falsche Informationen über sich selbst zu verbreiten.

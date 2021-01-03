@@ -16,7 +16,7 @@ tags:
   - retrogames
   - sonic
 meta:
-  - yourls_shorturl: "http://eay.li/16h"
+  - yourls_shorturl: "https://eay.li/16h"
 ---
 
 Es ist nicht mehr 1993. [Sonic the Hedgehog](http://en.wikipedia.org/wiki/Sonic_the_Hedgehog_%28character%29) ist ein gefallener Stern am Videospiel-Firmament und, nachdem er all seine Ringe für Koks, Igelfrauen und Sega-Aktien eingetauscht hat, mehr als pleite. Gut, dass sein treuer Freund und Finanzberater Tails ihm wieder auf die Beine helfen möchte - indem er das einstige Vorzeigemaskottchen in anderen Videospielklassikern malochen lässt. Hier Folge 1 der überaus grandiosen Machinima-Comedyserie »Sonic for Hire«, in der Sonic als [Paper Boy](http://en.wikipedia.org/wiki/Paperboy_%28video_game%29) ran muss:

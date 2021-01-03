@@ -14,7 +14,7 @@ tags:
   - rar09
   - rock-am-ring
 meta:
-  - yourls_shorturl: "http://eay.li/9u"
+  - yourls_shorturl: "https://eay.li/9u"
 ---
 
 ![](https://eay.cc/uploads/2009/rar09blogger.gif) Der Sommer ist da, die Platten sind veröffentlicht, die Line-Ups stehen. Freudig erregt dürfen wir feststellen: es ist Festivalsaison. Und das heißt, [Rock am Ring](http://www.rock-am-ring.com/), das Festival der Festivals, lässt nicht mehr lange auf sich warten. Wie in den letzten Jahren werden auch dieses Mal wieder viele Blogger und Twitter-Nutzer vor Ort sein, die die Daheimgebliebenen vor und nach dem Ring mit ihren Eindrücken versorgen werden. [Und wie schon im letzten Jahr](//eay.cc/2008/rock-am-ring-blogger-gesucht/) möchte ich hier "sämtliche" Blogger und Twitter-Nutzer auflisten, die vorhaben vom diesjährigen Rock am Ring zu berichten - egal ob davor, im Nachhinein oder währenddessen. Sinn und Zweck? Neugierige erfahren mehr über den Ausnahmezustand am Nürburgring, Ringrocker lernen andere Ringrocker kennen und hören von Erlebnissen jenseits der eigenen Ring-Clique.

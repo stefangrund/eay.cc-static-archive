@@ -17,7 +17,7 @@ tags:
 meta:
   - linked_list_url: "http://xkcd.com/1732/"
   - linked_list_url: "http://xkcd.com/1732/"
-  - yourls_shorturl: "http://eay.li/2v1"
+  - yourls_shorturl: "https://eay.li/2v1"
 ---
 
 > When people say "The climate has changed before", these are the kinds of changes they're talking about.

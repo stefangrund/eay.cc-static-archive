@@ -16,7 +16,7 @@ tags:
   - technologie
 meta:
   - linked_list_url: "http://www.neunetz.com/2015/01/29/bitcoin-nicht-die-waehrung-sondern-die-blockchain-ist-die-revolution/"
-  - yourls_shorturl: "http://eay.li/2mt"
+  - yourls_shorturl: "https://eay.li/2mt"
 ---
 
 Blockchain-Einführung von Marcel Weiß. (via [hackr](http://hackr.de/2015/01/29/bitcoin-nicht-die-waehrung-sondern-die-blockchain-ist-die-revolution))

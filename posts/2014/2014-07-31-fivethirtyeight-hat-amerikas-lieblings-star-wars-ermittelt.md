@@ -16,7 +16,7 @@ tags:
   - usa
 meta:
   - linked_list_url: "http://fivethirtyeight.com/datalab/americas-favorite-star-wars-movies-and-least-favorite-characters/"
-  - yourls_shorturl: "http://eay.li/2hu"
+  - yourls_shorturl: "https://eay.li/2hu"
 ---
 
 ![](https://eay.cc/uploads/2014/starwarssurvey.jpg)

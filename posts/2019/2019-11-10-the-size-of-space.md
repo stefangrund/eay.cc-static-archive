@@ -17,7 +17,7 @@ meta:
   - linked_list_url: "https://neal.fun/size-of-space/"
   - linked_list_url: "https://neal.fun/size-of-space/"
   - linked_list_url: "https://neal.fun/size-of-space/"
-  - yourls_shorturl: "http://eay.li/3bw"
+  - yourls_shorturl: "https://eay.li/3bw"
 ---
 
 "Bringing back the weird web!" hat sich [Neal Agarwal](https://twitter.com/nealagarwal) auf seiner und für [seine Webseite](https://neal.fun/) vorgenommen und das gelingt ihm mit einem guten Dutzend kleiner Web-Experimente auch tatsächlich sehr gut und oftmals sehr informativ. So auch "The Size of Space", das ausgehend von einem Astronauten die Größenverhältnisse im Weltall aufzeigt. (via [Waxy](https://waxy.org/category/links/))

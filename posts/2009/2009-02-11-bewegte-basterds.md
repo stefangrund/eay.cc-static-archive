@@ -14,7 +14,7 @@ tags:
   - quentin-tarantino
   - trailer
 meta:
-  - yourls_shorturl: "http://eay.li/sg"
+  - yourls_shorturl: "https://eay.li/sg"
 ---
 
 > You haven't seen war until you've seen it thorugh the eyes of Quentin Tarantino

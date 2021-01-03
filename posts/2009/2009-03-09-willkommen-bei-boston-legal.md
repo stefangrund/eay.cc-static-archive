@@ -14,7 +14,7 @@ tags:
   - fernsehen
   - serien
 meta:
-  - yourls_shorturl: "http://eay.li/id"
+  - yourls_shorturl: "https://eay.li/id"
 ---
 
 \[audio src="https://eay.cc/uploads/audio/bl\_302\_xtradieg.mp3"\]

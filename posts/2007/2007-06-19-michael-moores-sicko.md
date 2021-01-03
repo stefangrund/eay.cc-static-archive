@@ -15,7 +15,7 @@ tags:
   - twitter-review
   - usa
 meta:
-  - yourls_shorturl: "http://eay.li/tl"
+  - yourls_shorturl: "https://eay.li/tl"
 ---
 
 ![](/uploads/2007/twitterbird.gif)[Twittereview](//eay.cc/tag/twittereview/)?: Wenn wir annehmen würden, dass ich Sicko, den neuen Film von Michael Moore gesehen habe, dann würde ich sagen, dass der ziemlich gut ist. [#](http://twitter.com/Eay/statuses/111256242)

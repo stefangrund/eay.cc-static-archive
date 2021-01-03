@@ -15,7 +15,7 @@ tags:
   - serien
   - westworld
 meta:
-  - yourls_shorturl: "http://eay.li/364"
+  - yourls_shorturl: "https://eay.li/364"
   - geo_latitude: "48.660446"
   - geo_longitude: "13.749759"
   - geo_public: "1"

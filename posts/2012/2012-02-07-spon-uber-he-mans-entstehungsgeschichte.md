@@ -15,7 +15,7 @@ tags:
   - star-wars
   - toys
 meta:
-  - yourls_shorturl: "http://eay.li/1fr"
+  - yourls_shorturl: "https://eay.li/1fr"
 ---
 
 SpOns [einestages](http://einestages.spiegel.de/) hat heute zum 30jährigen Jubliäum der [Masters of the Universe](//eay.cc/tag/motu/) einen lesenswerten Artikel, der den ein oder anderen mir so noch nicht bekannten Funfact zur Entstehung der Masters offenbart. Unter anderem, wie He-Man-Schöpfer [Roger Sweet](http://en.wikipedia.org/wiki/Roger_Sweet) den Mattel-Verantwortlichen die bizarr zusammengeschusterten Figuren zeigte und warum Mattel-CEO Ray Wagner zu diesem Zeitpunkt so erpicht darauf war, eine neue Action-Figure-Toyline zu etablieren:

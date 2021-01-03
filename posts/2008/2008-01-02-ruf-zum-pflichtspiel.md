@@ -18,7 +18,7 @@ tags:
   - shooter
   - xbox
 meta:
-  - yourls_shorturl: "http://eay.li/85"
+  - yourls_shorturl: "https://eay.li/85"
 ---
 
 ![](/uploads/2008/callofduty4.jpg)Ich bin Pazifist. Dennoch bin ich in den Krieg gezogen. Einen (Gott sei dank nur) virtuellen, dreckigen, fiesen Krieg, in dem es keine Gewinner gab - nur ein paar [Achievement](//eay.cc/2007/xboxer/)\-Punkte am Ende. Doch bis dahin war es ein langer Weg:

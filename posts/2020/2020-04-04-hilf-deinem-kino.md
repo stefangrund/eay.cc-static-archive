@@ -19,7 +19,7 @@ meta:
   - geo_latitude: "50.973903074207"
   - geo_longitude: "6.6829368826146"
   - geo_public: "1"
-  - yourls_shorturl: "http://eay.li/3dk"
+  - yourls_shorturl: "https://eay.li/3dk"
 ---
 
 Gute Idee von [Weischer.Media](https://weischer.media/), einem Vermarkter insbesondere von Kino­werbung: Auf der Website [hilfdeinemkino.de](https://hilfdeinemkino.de/) kann man auf einer Karte _sein_ Kino aussuchen und dann typische Werbespots aus dem Vorprogramm schauen, für die das Kino dann wiederum bezahlt wird.

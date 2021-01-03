@@ -15,8 +15,8 @@ tags:
   - parodie
   - steve-jobs
 meta:
-  - yourls_shorturl: "http://eay.li/22z"
+  - yourls_shorturl: "https://eay.li/22z"
   - linked_list_url: "http://www.funnyordie.com/videos/d2e0f617e3/isteve"
 ---
 
-Mit Justin Long als Steve Jobs und Jorge "Hurley" Garcia als Woz. Der Film ist knapp 80 Minuten lang und kann kostenlos [hier](http://eay.li/1uu) angesehen werden - was ich auch gleich tun werde.
+Mit Justin Long als Steve Jobs und Jorge "Hurley" Garcia als Woz. Der Film ist knapp 80 Minuten lang und kann kostenlos [hier](https://eay.li/1uu) angesehen werden - was ich auch gleich tun werde.

@@ -18,7 +18,7 @@ tags:
   - usa
 meta:
   - linked_list_url: "https://www.deutschlandfunk.de/spiel-mit-der-bombe-der-albtraum-vom-beherrschbaren.740.de.html?dram:article_id=422367"
-  - yourls_shorturl: "http://eay.li/35x"
+  - yourls_shorturl: "https://eay.li/35x"
 ---
 
 > Seit Hiroshima und Nagasaki hat niemand mehr gewagt, Atombomben einzusetzen. Und doch war da immer der Wunsch mancher Strategen, atomare Sprengköpfe beherrschbar zu machen, für eine glaubwürdigere Abschreckung. Eine Idee, die in der aktuellen geopolitischen Lage Aussicht auf Erfolg hat.

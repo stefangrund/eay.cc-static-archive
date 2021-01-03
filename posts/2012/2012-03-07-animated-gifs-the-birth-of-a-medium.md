@@ -15,7 +15,7 @@ tags:
   - kunst
   - netzkultur
 meta:
-  - yourls_shorturl: "http://eay.li/1gr"
+  - yourls_shorturl: "https://eay.li/1gr"
 ---
 
 Da wir hier ja [jede Woche](//eay.cc/tag/gif-der-woche/) die ganze Bandbreite der animierten GIFs abfeiern, passt folgende Minidoku über die Geschichte des Bildformats - vom früher allgegenwärtigen "Under Construction"-GIF auf Geocities bis zur kreativen Wiedergeburt auf Tumblr - natürlich wie die animierte Faust auf's digitale Auge hierher. (via [Nerdcore](http://www.crackajack.de/2012/03/07/pbs-off-book-about-animated-gifs/))

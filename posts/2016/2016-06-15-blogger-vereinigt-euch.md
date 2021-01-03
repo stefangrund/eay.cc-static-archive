@@ -15,7 +15,7 @@ tags:
   - netzkultur
 meta:
   - linked_list_url: "https://www.langweiledich.net/blogger-vereinigt-euch/"
-  - yourls_shorturl: "http://eay.li/2u9"
+  - yourls_shorturl: "https://eay.li/2u9"
 ---
 
 Maik beobachtet einige Probleme in der deutschen Blogosphäre, die leider aber bereits seit einigen Jahren bestehen. Hier z.B. [mein Rant von Ende 2014](https://eay.cc/2014/10-jahre-nach-spreeblicks-jamba-kurs-blogging-2014/), in dem ich allerdings weniger auf Deutschland eingehe, sondern allgemeine Probleme mit dem Bloggen beobachtete.

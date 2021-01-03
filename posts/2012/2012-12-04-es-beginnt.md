@@ -14,7 +14,7 @@ tags:
   - rebranding
   - twitter
 meta:
-  - yourls_shorturl: "http://eay.li/1q2"
+  - yourls_shorturl: "https://eay.li/1q2"
 ---
 
 Soeben habe ich meinen Twitter-Accountnamen von [@Eay](https://twitter.com/Eay) in [@eay](https://twitter.com/eay) geändert. Verrückt, aber wahr. Der erste Schritt in Richtung Rebranding.

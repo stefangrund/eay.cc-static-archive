@@ -17,7 +17,7 @@ tags:
   - urheberrecht
 meta:
   - linked_list_url: "https://marco.org/2017/05/15/mp3-isnt-dead"
-  - yourls_shorturl: "http://eay.li/2yr"
+  - yourls_shorturl: "https://eay.li/2yr"
 ---
 
 Wer sich in den letzten Tagen über Meldungen zum "Tod" der MP3 gewundert hat ((🤔  Das müssen wohl diese Fake News sein, von denen seit Monaten alle sprechen...)), sollte einen Blick in diesen Blogpost von Marco Arment werfen. Sein Pro-MP3-Fazit:

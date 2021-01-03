@@ -22,7 +22,7 @@ tags:
   - soundtrack
   - wallpaper
 meta:
-  - yourls_shorturl: "http://eay.li/24"
+  - yourls_shorturl: "https://eay.li/24"
 ---
 
 Bekanntlich halte ich alter Sega-Oldschool-Fanboy den Mega-Drive-Titel [Sonic 2](http://en.wikipedia.org/wiki/Sonic_the_Hedgehog_2_(16-bit)) für eines der besten Videospiele aller Zeiten. Und dank Virtual Console & Konsorten kommen auch die Kids von heute in den Genuss des Bestsellers von 1992. Doch einigen Sonic-Fans reicht das nicht: inspiriert durch folgenden Wallpaper von [Alchemist Defined](http://alchemistdefined.wiredotaku.com/) haben sie den Entschluss gefasst, Sonic 2 in High Definition zu konvertieren, damit dem hervorragenden Gameplay endlich auch ein zeitgemäßes Äußeres voransteht.

@@ -17,7 +17,7 @@ tags:
   - weltall
   - wissenschaft
 meta:
-  - yourls_shorturl: "http://eay.li/26l"
+  - yourls_shorturl: "https://eay.li/26l"
 ---
 
 \[youtube id="SnErJV-aaas"\]

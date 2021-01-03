@@ -15,7 +15,7 @@ tags:
   - fussball
   - sport
 meta:
-  - yourls_shorturl: "http://eay.li/2yv"
+  - yourls_shorturl: "https://eay.li/2yv"
 ---
 
 ![](https://eay.cc/uploads/2017/effzeh-europa.jpg)

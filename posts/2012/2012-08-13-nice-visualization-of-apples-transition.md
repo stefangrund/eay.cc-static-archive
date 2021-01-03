@@ -12,7 +12,7 @@ categories:
 tags:
   - apple
 meta:
-  - yourls_shorturl: "http://eay.li/1wo"
+  - yourls_shorturl: "https://eay.li/1wo"
   - linked_list_url: "http://distantshape.com/df10/"
 ---
 

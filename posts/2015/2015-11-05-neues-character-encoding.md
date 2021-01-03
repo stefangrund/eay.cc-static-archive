@@ -10,7 +10,7 @@ format: "post"
 categories:
   - 0815
 meta:
-  - yourls_shorturl: "http://eay.li/2qp"
+  - yourls_shorturl: "https://eay.li/2qp"
 ---
 
 Da die ganze Welt und ich natürlich Emojis lieben 😻, habe ich gerade mal das Character Encoding dieses in die Jahre gekommenen Blogs von `latin1` auf `utf8mb4` umgeändert und dabei auch gleich die Datenbank-Engine von MyISAM zu InnoDB umgestrickt. 😎

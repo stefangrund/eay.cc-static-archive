@@ -18,7 +18,7 @@ tags:
   - serien
 meta:
   - linked_list_url: "http://variety.com/2014/film/news/battlestar-galactica-movie-gets-new-life-at-universal-exclusive-1201153687/"
-  - yourls_shorturl: "http://eay.li/2ed"
+  - yourls_shorturl: "https://eay.li/2ed"
 ---
 
 > Universal is ramping up a movie version of the sci-fi franchise »Battlestar Galactica«, aiming to develop the film as a complete reimagining of the story.

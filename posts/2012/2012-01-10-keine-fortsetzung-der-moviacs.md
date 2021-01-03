@@ -14,7 +14,7 @@ tags:
   - filme
   - zdf
 meta:
-  - yourls_shorturl: "http://eay.li/1en"
+  - yourls_shorturl: "https://eay.li/1en"
 ---
 
 ZDFneo hat dieser Tage auf der [offiziellen Facebook-Seite](https://www.facebook.com/ZDFneo) mitgeteilt, dass es keine weiteren Folgen des Filmmagazins »[Moviacs](http://neo.zdf.de/ZDFde/inhalt/25/0,1872,8319961,00.html)« von und mit [Nilz Bokelberg](http://twitter.com/nilzenburger) und [Donnie O´Sullivan](http://twitter.com/donniedubson) mehr geben wird. Das ist überaus schade, da »Moviacs« das mit Abstand unterhaltsamste Filmmagazin im deutschen Fernsehen war - sympathisch, wunderbar subjektiv und eben kein mit Werbesprech untermalter Trailerzusammenschnitt wie man das sonst so gewohnt ist.

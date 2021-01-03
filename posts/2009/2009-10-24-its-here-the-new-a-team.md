@@ -14,7 +14,7 @@ tags:
   - filme
   - tv-verfilmung
 meta:
-  - yourls_shorturl: "http://eay.li/nx"
+  - yourls_shorturl: "https://eay.li/nx"
 ---
 
 Seit Jahren schlagen wir uns hier mit jeglichen [Gerüchten](//eay.cc/tag/a-team+geruechte/) bezüglich eines neuen A-Teams rum, beheizen [sogar](//eay.cc/2007/john-singleton-ist-das-a-team/) [selbst](//eay.cc/2008/woody-harrelson-ist-murdock/) die Gerüchteküche und nehmen jeden [kleinsten](//eay.cc/2008/rampage-jackson-als-ba-baracus/) News-Schnipsel dankbar entgegen. Und wofür? Damit wir am Ende des Tages einsehen müssen, dass [unser zusammengestelltes Team aus Hollywood's A-List](//eay.cc/2007/the-new-a-team/) doch ein bisschen over the top war und das tatsächlich gecastete schon ziemlich überzeugt, wenn man sich das heute veröffentlichte erste Bild ansieht:

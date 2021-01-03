@@ -12,7 +12,7 @@ categories:
 tags:
   - webservice
 meta:
-  - yourls_shorturl: "http://eay.li/21t"
+  - yourls_shorturl: "https://eay.li/21t"
   - linked_list_url: "http://giphy.com/"
 ---
 

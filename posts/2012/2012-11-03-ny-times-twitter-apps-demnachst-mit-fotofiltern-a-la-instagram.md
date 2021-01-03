@@ -16,7 +16,7 @@ tags:
   - social-media
   - twitter
 meta:
-  - yourls_shorturl: "http://eay.li/1zz"
+  - yourls_shorturl: "https://eay.li/1zz"
   - linked_list_url: "http://bits.blogs.nytimes.com/2012/11/02/twitter-will-introduce-photo-filters-to-compete-with-instagram/"
 ---
 

@@ -15,7 +15,7 @@ tags:
   - scifi
 meta:
   - linked_list_url: "http://www.pewpewpew.de/2015/11/04/duncan-jones-mute-is-a-go/"
-  - yourls_shorturl: "http://eay.li/2ql"
+  - yourls_shorturl: "https://eay.li/2ql"
 ---
 
 > Duncan Jones' Langzeitprojekt »Mute« über einen taubstummen Barkeeper, der nach seiner entführten Frau in einer Blade Runner-artigen Zukunftsvision Berlins sucht, wird endlich umgesetzt.

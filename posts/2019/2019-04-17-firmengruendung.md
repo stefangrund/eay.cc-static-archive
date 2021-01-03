@@ -15,7 +15,7 @@ tags:
   - serious-business-eay
 meta:
   - content_copy: "https://www.instagram.com/p/BwXhskiHM1o/"
-  - yourls_shorturl: "http://eay.li/39y"
+  - yourls_shorturl: "https://eay.li/39y"
   - geo_latitude: "50.916103"
   - geo_longitude: "6.714312"
   - geo_public: "1"

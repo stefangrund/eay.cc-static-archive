@@ -20,7 +20,7 @@ tags:
   - vorratsdatenspeicherung
 meta:
   - linked_list_url: "https://netzpolitik.org/2014/bundesnachrichtendienst-will-facebook-und-blogs-in-echtzeit-ueberwachen/"
-  - yourls_shorturl: "http://eay.li/2gh"
+  - yourls_shorturl: "https://eay.li/2gh"
 ---
 
 > Damit werden unsere Befürchtungen wahr: Die Snowden-Enthüllungen werden als Machbarkeitsstudie gesehen, nicht als Mahnung. Ausdrücklich wird in den Dokumenten darauf verwiesen, dass NSA & GCHQ das schließlich auch können.

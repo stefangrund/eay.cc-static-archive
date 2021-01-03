@@ -14,7 +14,7 @@ tags:
   - strasenverkehr
   - unfall
 meta:
-  - yourls_shorturl: "http://eay.li/10w"
+  - yourls_shorturl: "https://eay.li/10w"
 ---
 
 ![](https://eay.cc/uploads/2010/bikecrash.gif) Das nenne ich mal Glück im Unglück!

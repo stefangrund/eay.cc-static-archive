@@ -15,7 +15,7 @@ tags:
   - supercut
   - the-wolf-of-wall-street
 meta:
-  - yourls_shorturl: "http://eay.li/2bp"
+  - yourls_shorturl: "https://eay.li/2bp"
 ---
 
 \[youtube id="\_C-xltDzREc"\]

@@ -17,7 +17,7 @@ tags:
   - rick-and-morty
   - serien
 meta:
-  - yourls_shorturl: "http://eay.li/2w4"
+  - yourls_shorturl: "https://eay.li/2w4"
 ---
 
 \[youtube id="uqn0UGAt6oc"\]

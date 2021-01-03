@@ -17,7 +17,7 @@ tags:
   - video-essay
   - vortrag
 meta:
-  - yourls_shorturl: "http://eay.li/2uo"
+  - yourls_shorturl: "https://eay.li/2uo"
 ---
 
 \[youtube id="ald6Lc5TSk8"\]

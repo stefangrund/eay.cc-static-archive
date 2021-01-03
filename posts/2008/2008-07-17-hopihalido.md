@@ -14,7 +14,7 @@ tags:
   - konsum
   - worte
 meta:
-  - yourls_shorturl: "http://eay.li/eb"
+  - yourls_shorturl: "https://eay.li/eb"
 ---
 
 > Ja, ich verrat dir ein Geheimnis von nem Freund, der ist Student, der trinkt nur Hopihalido und ist intelligent \[...\]

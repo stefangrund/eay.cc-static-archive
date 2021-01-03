@@ -12,7 +12,7 @@ tags:
   - output
   - weltfrauentag
 meta:
-  - yourls_shorturl: "http://eay.li/t1"
+  - yourls_shorturl: "https://eay.li/t1"
 ---
 
 ![](/uploads/2007/holz_vor_der_huette.gif) Weil ja heute Weltfrauentag ist. Na? Na?

@@ -13,7 +13,7 @@ tags:
   - bizarres
   - buecher
 meta:
-  - yourls_shorturl: "http://eay.li/3i"
+  - yourls_shorturl: "https://eay.li/3i"
 ---
 
 ![](/uploads/2008/bestfriendbook.jpg)

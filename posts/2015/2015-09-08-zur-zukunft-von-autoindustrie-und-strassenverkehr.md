@@ -19,7 +19,7 @@ tags:
   - tesla
   - zukunft
 meta:
-  - yourls_shorturl: "http://eay.li/2q0"
+  - yourls_shorturl: "https://eay.li/2q0"
 ---
 
 Zwei gute Artikel, die mir in den letzten Tagen begegnet sind:

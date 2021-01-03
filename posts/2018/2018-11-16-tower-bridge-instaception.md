@@ -12,10 +12,11 @@ categories:
 tags:
   - england
   - fotos
+  - instaception
   - london
 meta:
   - content_copy: "https://instagram.com/p/BqPX3k5n-jL/"
-  - yourls_shorturl: "http://eay.li/37q"
+  - yourls_shorturl: "https://eay.li/37q"
   - geo_latitude: "51.505603858802"
   - geo_longitude: "-0.075288782260299"
   - geo_public: "1"

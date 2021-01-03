@@ -14,7 +14,7 @@ tags:
   - filme
   - trailer
 meta:
-  - yourls_shorturl: "http://eay.li/1z5"
+  - yourls_shorturl: "https://eay.li/1z5"
   - linked_list_url: "http://movies.yahoo.com/movie/good-day-to-die-hard/trailers/a-good-day-to-die-hard-teaser-trailer-30781677.html"
 ---
 

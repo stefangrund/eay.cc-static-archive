@@ -16,7 +16,7 @@ tags:
   - kino
 meta:
   - content_copy: "https://www.instagram.com/p/BuEtc27ngEm/"
-  - yourls_shorturl: "http://eay.li/398"
+  - yourls_shorturl: "https://eay.li/398"
   - geo_latitude: "52.38399"
   - geo_longitude: "4.88465"
   - geo_public: "1"

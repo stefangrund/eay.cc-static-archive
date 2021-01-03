@@ -17,7 +17,7 @@ tags:
   - offentlich-rechtliche
   - politik
 meta:
-  - yourls_shorturl: "http://eay.li/2av"
+  - yourls_shorturl: "https://eay.li/2av"
 ---
 
 Ich habe vorgestern die Übersetzung eines [Textes von Jeff Jarvis](//eay.cc/2013/jeff-jarvis-fordert-hippokratischen-eid-fuer-informatiker/) gelesen, dann aber das Original zitiert und verlinkt, weil der Akt der Überführung von Besuchern auf deutsche Verlagsangebote hierzulande ja eventuell - wer weiß das schon genau? - nicht rechtens ist. Stichwort [Leistungsschutzrecht](https://de.wikipedia.org/wiki/Leistungsschutzrecht_f%C3%BCr_Presseverleger).

@@ -16,7 +16,7 @@ tags:
   - social-media
   - whatsapp
 meta:
-  - yourls_shorturl: "http://eay.li/20o"
+  - yourls_shorturl: "https://eay.li/20o"
   - linked_list_url: "http://techcrunch.com/2012/12/02/whats-up-with-whatsapp-facebook-might-want-to-buy-it-thats-what/"
 ---
 

@@ -15,7 +15,7 @@ tags:
   - theme
   - wordpress
 meta:
-  - yourls_shorturl: "http://eay.li/n8"
+  - yourls_shorturl: "https://eay.li/n8"
 ---
 
 ![](https://eay.cc/uploads/2009/eayz1080.jpg) Von wegen [Lost in 1920x1080](//eay.cc/2009/lost-in-1920x1080/): manchmal sind's die einfachen Lösungen!

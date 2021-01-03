@@ -15,7 +15,7 @@ tags:
   - koestliches
   - politik
 meta:
-  - yourls_shorturl: "http://eay.li/dc"
+  - yourls_shorturl: "https://eay.li/dc"
 ---
 
 - [David Hasselhoff Paperdoll](http://www.artforrobots.com/strip_03-2.shtml) · Für alle (weiblichen) Fans von "The Hoff" gibt's jetzt eine Papierpuppe von ihm, der ihr Knight-Rider-Jacke oder The-Hoff-Shirt überstülpen könnt.

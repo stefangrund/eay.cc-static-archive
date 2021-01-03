@@ -10,7 +10,7 @@ format: "post"
 categories:
   - 0815
 meta:
-  - yourls_shorturl: "http://eay.li/36r"
+  - yourls_shorturl: "https://eay.li/36r"
   - content_copy: "https://twitter.com/eay/status/1041957958073167872"
   - content_copy: "https://eay.social/@eay/100745682295830201"
 ---

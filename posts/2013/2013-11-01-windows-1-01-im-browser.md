@@ -17,7 +17,7 @@ tags:
   - windows
 meta:
   - linked_list_url: "http://jsmachines.net/demos/pc/cga-win101/"
-  - yourls_shorturl: "http://eay.li/292"
+  - yourls_shorturl: "https://eay.li/292"
 ---
 
 Simuliert auf einem 4.77 Mhz-Rechner mit 256 Kb RAM, einem CGA-Display und 10MB Festplattenspeicher.

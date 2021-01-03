@@ -13,7 +13,7 @@ tags:
   - comics
   - trailer
 meta:
-  - yourls_shorturl: "http://eay.li/82"
+  - yourls_shorturl: "https://eay.li/82"
 ---
 
 Lange Zeit schenkte ich Joscha Sauers [Nichtlustig](http://nichtlustig.de/) keine Beachtung. Fälschlicherweise wie ich irgendwann feststellen musste. Mittlerweile erscheint sein viertes Buch beim Carlsen Verlag, das konsequenterweise auch [Nichtlustig 4](http://www.amazon.de/exec/obidos/ASIN/3551680078/eayznet-21) genannt wurde. Zu Promotionszwecken ist dafür folgender Trailer entstanden:

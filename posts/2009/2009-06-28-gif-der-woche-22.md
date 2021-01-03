@@ -13,7 +13,7 @@ tags:
   - gif-der-woche
   - michael-jackson
 meta:
-  - yourls_shorturl: "http://eay.li/j4"
+  - yourls_shorturl: "https://eay.li/j4"
 ---
 
 ![](https://eay.cc/uploads/2009/lastmoonwalk.gif) Ganz ohne MJ komm ich wohl nicht aus der Nummer raus...

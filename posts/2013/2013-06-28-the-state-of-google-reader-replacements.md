@@ -16,7 +16,7 @@ tags:
   - webservice
 meta:
   - linked_list_url: "http://tidbits.com/article/13858"
-  - yourls_shorturl: "http://eay.li/24g"
+  - yourls_shorturl: "https://eay.li/24g"
 ---
 
 Am 1. Juli wird der Google Reader bekanntlich eingestellt. Ich teste gerade auch diverse Alternativen und werde hier bestimmt noch ein, zwei Worte zu meiner Wahl verlieren. Bis es soweit ist, lege ich euch aber [John Centers' TidBITS-Artikel](http://tidbits.com/article/13858) zum Thema ans Herz. Guter Überblick, dessen Fazit ich mich für Normalonutzer, denke ich, soweit anschließen werde:

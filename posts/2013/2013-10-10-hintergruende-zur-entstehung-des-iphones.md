@@ -16,7 +16,7 @@ tags:
   - technologie
 meta:
   - linked_list_url: "http://www.nytimes.com/2013/10/06/magazine/and-then-steve-said-let-there-be-an-iphone.html?_r=0&pagewanted=all"
-  - yourls_shorturl: "http://eay.li/285"
+  - yourls_shorturl: "https://eay.li/285"
 ---
 
 (Massive New York Times Tech Read 1/[2](//eay.cc/2013/das-fuehrungschaos-von-twitter/))

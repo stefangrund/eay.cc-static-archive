@@ -20,7 +20,7 @@ tags:
   - twitter
   - twitterbot
 meta:
-  - yourls_shorturl: "http://eay.li/rarbot"
+  - yourls_shorturl: "https://eay.li/rarbot"
 ---
 
 Die über 15jährigen unter euch werden sich vielleicht erinnern: Bevor jedermann ein Smartphone in der Tasche hatte, wurde Twitter außer Haus vornehmlich per SMS befüllt und konsumiert. So auch im Sommer 2008 als am Nürburgring das größte, schönste, beste und vor allem meiste Rockfestival Deutschlands stattfand - [Rock am Ring](//eay.cc/tag/rock-am-ring/). Doch waren wir Twitter-Opis zu jener Zeit nicht nur auf einen vergleichsweise steinzeitlichen SMS-Dienst angewiesen, sondern auch auf externe Dienste: eine Twitter-eigene Suche, mit der man [#RaR](https://twitter.com/#!/search/%23RaR)\-Tweets hätte finden können, gab es nicht. ((Der bis dahin einzige bzw. einzig gute Suchdienst war [Summize](http://twitter.com/summize), der im Juli 2008 von Twitter gekauft und integriert wurde.)) Ebenso wenig wie einen App Store, iPhone-Apps oder einen Twitter-Client. ((Der iPhone App Store, das vergessen wir alle gerne, ist nämlich noch gar nicht so alt und wurde auch erst im Juli 2008 gestartet.))

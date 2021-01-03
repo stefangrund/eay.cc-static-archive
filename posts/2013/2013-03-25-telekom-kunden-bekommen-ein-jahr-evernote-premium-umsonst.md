@@ -13,7 +13,7 @@ tags:
   - evernote
   - telekom
 meta:
-  - yourls_shorturl: "http://eay.li/22j"
+  - yourls_shorturl: "https://eay.li/22j"
   - linked_list_url: "https://evernote.telekom-dienste.de/?wt_mc=alias_1135_evernote"
 ---
 

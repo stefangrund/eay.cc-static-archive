@@ -20,7 +20,7 @@ tags:
   - retro
 meta:
   - linked_list_url: "http://sequentialcrush.blogspot.com/2014/02/romance-in-black-and-white-romance.html"
-  - yourls_shorturl: "http://eay.li/2dt"
+  - yourls_shorturl: "https://eay.li/2dt"
 ---
 
 [![](https://eay.cc/uploads/2014/comicsdiversity.jpg)](http://sequentialcrush.blogspot.com/2014/02/romance-in-black-and-white-romance.html)

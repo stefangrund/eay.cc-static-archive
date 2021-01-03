@@ -16,7 +16,7 @@ tags:
   - t-mobile
   - telekom
 meta:
-  - yourls_shorturl: "http://eay.li/rb"
+  - yourls_shorturl: "https://eay.li/rb"
 ---
 
 Okay, das war's dann wohl mit [dem Traum vom iPhone](//eay.cc/2008/3g-iphone-399-to-199/) (wobei es sich gerade jetzt angeboten hätte, da sich mein altes Motorola auflöst). Die deutschen iPhone-Tarfie von T-Mobile wurden soeben veröffentlicht und schlagen sich im Ländervergleich [bei SpOn](http://www.spiegel.de/netzwelt/mobil/0,1518,559870,00.html) alles anderes als gut - sondern eher beschissen.

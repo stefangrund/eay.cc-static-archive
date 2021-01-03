@@ -15,7 +15,7 @@ tags:
   - pacman
   - werbung
 meta:
-  - yourls_shorturl: "http://eay.li/uw"
+  - yourls_shorturl: "https://eay.li/uw"
 ---
 
 Christian Bale, seines Zeichens [dunkler Ritter](//eay.cc/2008/christopher-nolans-batman/), [Kermit Look-alike](//eay.cc/2008/bei-der-geburt-getrennt/) und muffiger John Connor, hat - und das wird jetzt einige verwundern - auch mal klein angefangen und nicht schon seit Anbeginn der Zeit irgendwelche Set-Kollegen [in Grund und Boden geschrien](//eay.cc/2009/are-you-professional-or-not/). Früher war er scheinbar sogar noch ein ganz braver, hat er doch überaus freudig im überaus melodischen Werbespot dieser überaus appetitlich aussehenden Pac-Man Frühstückflocken mitgespielt.

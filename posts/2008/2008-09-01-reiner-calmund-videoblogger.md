@@ -15,7 +15,7 @@ tags:
   - sport
   - videoblog
 meta:
-  - yourls_shorturl: "http://eay.li/ca"
+  - yourls_shorturl: "https://eay.li/ca"
 ---
 
 Vergessen Sie [Ulmen.tv](//eay.cc/2008/neues-von-den-neuen-freunden/) und Konsorten, denn bereits seit Februar gibt's [Calli.tv](http://anonym.to/?http://www.calli.tv/), das lustige Fußball-Videoblog-Talkformat-Teil von Schwergewicht Reiner Calmund (zwar irgendwie an mir vorbei gegangen, aber besser spät als nie). Zum zweiten Spieltag hat er sich beispielsweise zum Kaffeekränzchen mit Wolfang Overath, dem Präsi vom 1. FC Köln, getroffen. Dabei fallen dann Sätze wie: "Und ich sag auch mal: die Vereinsführung? Absolut erstklassig!" Ich sag ja, vergessen Sie Ulmen. Mehr von diesem Geplänkel im Video nach dem Klick.

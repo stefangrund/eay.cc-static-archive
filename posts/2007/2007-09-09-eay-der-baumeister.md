@@ -14,7 +14,7 @@ tags:
   - nachtleben
   - retro
 meta:
-  - yourls_shorturl: "http://eay.li/wf"
+  - yourls_shorturl: "https://eay.li/wf"
 ---
 
 Ich habe gerade 37 Jahre damit verbracht einen Turm zu bauen, in dem über 6000 Menschen wohnen, arbeiten und einkaufen gehen. Erwirtschaftet hat der "eayz Tower 1" bisher 115 Millionen Dollar. Andere Leute sollen ja Samstagabends ausgehen, hab ich gehört. Ich spiele stattdessen [Sim Tower](http://en.wikipedia.org/wiki/SimTower). Ihr könnt [das auch](http://www.mininova.org/tor/51822).

@@ -17,7 +17,7 @@ tags:
   - serien
   - stranger-things
 meta:
-  - yourls_shorturl: "http://eay.li/3b1"
+  - yourls_shorturl: "https://eay.li/3b1"
 ---
 
 Passend zum »Stranger Things«-Hype dieser Tage, hier zwei sehr schöne Fan-Mashups zu unser aller Lieblingsmysteryserie. Ein mal mit Elfi und der Gang im Stile eines 80er-Jahre-Anime (Achtung, mit Szenen aus Staffel 1 und 2):

@@ -14,7 +14,7 @@ tags:
   - filme
   - star-wars
 meta:
-  - yourls_shorturl: "http://eay.li/22p"
+  - yourls_shorturl: "https://eay.li/22p"
   - linked_list_url: "http://www.crackajack.de/2013/04/02/first-star-wars-draft-becomes-a-comic/"
 ---
 

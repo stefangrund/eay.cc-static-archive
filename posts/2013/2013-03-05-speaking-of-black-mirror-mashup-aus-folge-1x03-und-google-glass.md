@@ -17,7 +17,7 @@ tags:
   - project-glass
   - technologie
 meta:
-  - yourls_shorturl: "http://eay.li/223"
+  - yourls_shorturl: "https://eay.li/223"
   - linked_list_url: "http://www.youtube.com/watch?v=CDi7btsfVYM"
 ---
 

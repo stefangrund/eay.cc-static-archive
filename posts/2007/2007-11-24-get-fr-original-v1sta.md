@@ -13,7 +13,7 @@ tags:
   - vista
   - windows
 meta:
-  - yourls_shorturl: "http://eay.li/c6"
+  - yourls_shorturl: "https://eay.li/c6"
 ---
 
 ![](/uploads/2007/originalvista.gif) Warum unterstreicht der Markenhersteller Dell ausgerechnet das Wort "Original" im Bezug auf das hervorragende Windows Vista so, wie es gerne Rechtschreibprogramme tuhn?

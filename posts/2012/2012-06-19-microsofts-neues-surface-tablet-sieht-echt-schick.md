@@ -16,7 +16,7 @@ tags:
   - tablet
   - technologie
 meta:
-  - yourls_shorturl: "http://eay.li/1wx"
+  - yourls_shorturl: "https://eay.li/1wx"
   - linked_list_url: "http://www.theverge.com/2012/6/18/3094157/new-microsoft-surface-windows-tablet"
 ---
 

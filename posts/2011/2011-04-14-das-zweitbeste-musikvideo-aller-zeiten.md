@@ -14,7 +14,7 @@ tags:
   - musik
   - musikvideo
 meta:
-  - yourls_shorturl: "http://eay.li/173"
+  - yourls_shorturl: "https://eay.li/173"
 ---
 
 \[youtube id="qdRaf3-OEh4"\]

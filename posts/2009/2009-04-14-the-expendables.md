@@ -16,7 +16,7 @@ tags:
   - sylvester-stallone
   - the-expendables
 meta:
-  - yourls_shorturl: "http://eay.li/ja"
+  - yourls_shorturl: "https://eay.li/ja"
 ---
 
 > Was haben Sylvester Stallone, Jason Statham, Mickey Rourke, Arnold Schwarzenegger, Jet Li, Dolph Lundgren, Danny Trejo, Eric Roberts und "Stone Cold" Steve Austin gemeinsam? a) Sie gehören zu den coolsten Action-Säuen, die Hollywood jemals hervorgebracht hat. b) Sie alle (!) spielen mit in [The Expendables (2010)](http://www.imdb.com/title/tt1320253/), dem neuen Söldner-Actionfilm unter der Regie von Stallone (!!), nach einem Drehbuch von wiederum Stallone (!!!), also die selben Voraussetzungen wie weiland bei Rambo 4. (Quelle: [TBHL](http://tbhl.blogspot.com/2009/04/die-mutter-aller-action-filme.html))

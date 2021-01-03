@@ -16,7 +16,7 @@ tags:
   - the-beatles
   - zukunft
 meta:
-  - yourls_shorturl: "http://eay.li/do"
+  - yourls_shorturl: "https://eay.li/do"
 ---
 
 Hier eine kleine [Mockumentary](//eay.cc/tag/mockumentary/) aus dem Jahr 3000 - über die [Beatles](//eay.cc/tag/beatles/). Darin versuchen Historiker die Wege der vier Pilzköpfe, namentlich John Lennon, Paul McKensey, Greg Hudgenson und Scotty Pippen, auf ihrem Weg zur besten Musik-Combo aller Zeiten nachzuzeichnen.

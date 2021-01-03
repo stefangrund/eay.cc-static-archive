@@ -16,7 +16,7 @@ tags:
   - zeit
 meta:
   - linked_list_url: "http://tiii.me/"
-  - yourls_shorturl: "http://eay.li/2ec"
+  - yourls_shorturl: "https://eay.li/2ec"
 ---
 
 Nettes Projekt von [Alex Cican](http://alexcican.com/). (via [Nerdcore](http://www.crackajack.de/2014/04/07/tv-series-wasted-time-calculator/))

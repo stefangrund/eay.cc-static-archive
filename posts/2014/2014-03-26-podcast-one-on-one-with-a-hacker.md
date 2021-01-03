@@ -16,7 +16,7 @@ tags:
   - sicherheit
 meta:
   - linked_list_url: "http://shoptalkshow.com/episodes/special-one-one-hacker/"
-  - yourls_shorturl: "http://eay.li/2e6"
+  - yourls_shorturl: "https://eay.li/2e6"
 ---
 
 Anfang des Monats hat sich ein Unbekannter Zugang auf den Server von [CSS-Tricks](http://css-tricks.com/) verschafft. Chris Coyier, der Betreiber der Seite, hat den Hacker daraufhin in seinen Podcast eingeladen und interviewt. Was gleichermaßen bizarr wie hörenswert ist.

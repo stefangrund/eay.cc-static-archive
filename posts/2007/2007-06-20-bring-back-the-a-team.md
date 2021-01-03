@@ -14,7 +14,7 @@ tags:
   - fernsehen
   - mrt
 meta:
-  - yourls_shorturl: "http://eay.li/5j"
+  - yourls_shorturl: "https://eay.li/5j"
 ---
 
 Im Mai 2006 lief im britischen Fernsehen eine Sendung namens "[Bring back ...](http://en.wikipedia.org/wiki/Bring_Back...) The A-Team", in der Reporter und A-Team-Fan [Justin Lee Colins](http://en.wikipedia.org/wiki/Justin_Lee_Collins) versucht innerhalb von zehn Tagen die drei lebenden A-Team'ler und den Rest der Clique von damals aufzuspüren, zu interviewen und zu einer Reunion-Party einzuladen. Und ja, wenn ich die Schauspieler von Murdock, Faceman und B.A. heute so sehe, dann glaube auch ich, [dass das hier Blasphemie ist](//eay.cc/2007/the-new-a-team/). Jedenfalls nett die gealterten Herren heute nochmal zu sehen; gut so sehen sie aus:

@@ -18,7 +18,7 @@ meta:
   - geo_latitude: "48.659746975605"
   - geo_longitude: "13.748951367646"
   - geo_public: "1"
-  - yourls_shorturl: "http://eay.li/3a7"
+  - yourls_shorturl: "https://eay.li/3a7"
 ---
 
 > A curated directory of 230+ Mac menu bar apps

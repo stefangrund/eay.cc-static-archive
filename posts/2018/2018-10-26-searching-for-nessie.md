@@ -17,7 +17,7 @@ tags:
   - schottland
 meta:
   - content_copy: "https://instagram.com/p/BpaHO-bnC0A/"
-  - yourls_shorturl: "http://eay.li/37e"
+  - yourls_shorturl: "https://eay.li/37e"
   - geo_latitude: "57.2739865"
   - geo_longitude: "-4.4857089"
   - geo_public: "1"

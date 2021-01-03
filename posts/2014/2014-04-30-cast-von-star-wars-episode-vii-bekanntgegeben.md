@@ -18,7 +18,7 @@ tags:
   - star-wars
 meta:
   - linked_list_url: "http://starwars.com/news/star-wars-episode-7-cast-announced.html"
-  - yourls_shorturl: "http://eay.li/2f2"
+  - yourls_shorturl: "https://eay.li/2f2"
 ---
 
 [![](https://eay.cc/uploads/2014/starwars_episode7_cast.jpg)](http://cl.ly/VHKb)

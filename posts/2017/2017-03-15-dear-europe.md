@@ -23,7 +23,7 @@ meta:
   - linked_list_url: "http://peprally.co/deareu-press/"
   - linked_list_url: "http://peprally.co/deareu-press/"
   - linked_list_url: "http://peprally.co/deareu-press/"
-  - yourls_shorturl: "http://eay.li/2x1"
+  - yourls_shorturl: "https://eay.li/2x1"
 ---
 
 \[youtube id="iELamBw0-ds"\]

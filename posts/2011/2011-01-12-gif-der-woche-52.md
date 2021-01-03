@@ -14,7 +14,7 @@ tags:
   - gif-der-woche
   - spongebob
 meta:
-  - yourls_shorturl: "http://eay.li/14a"
+  - yourls_shorturl: "https://eay.li/14a"
 ---
 
 ![](https://eay.cc/uploads/2011/thaddaeus.gif)

@@ -16,7 +16,7 @@ tags:
   - indiana-jones
   - star-wars
 meta:
-  - yourls_shorturl: "http://eay.li/r2"
+  - yourls_shorturl: "https://eay.li/r2"
 ---
 
 [Industrial Light & Magic](http://en.wikipedia.org/wiki/Industrial_Light_and_Magic) ist _die_ Firma für Hollywoods Special Effects. Das 1975 von George Lucas gegründete Unternehmen ist u.a. für alle "Wow"-Effekte in Star Wars, Indiana Jones, Jurassic Park, diversen Star Treks, [Fluch der Karibik](//eay.cc/2007/captain-jack-3/), [Transformers](//eay.cc/2007/optimus-prime-vs-megatron/) und - am aller wichtigsten - [Captain EO](http://www.youtube.com/watch?v=4kBeD1L_nd4) mit Michael Jackson verantwortlich. Um so schöner, dass Late-Night-Talker Conan O'Brien im Mai die ILM-Büros besucht hat und hinter die Kulissen schauen durfte.

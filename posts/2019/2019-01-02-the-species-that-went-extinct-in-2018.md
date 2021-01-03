@@ -16,7 +16,7 @@ tags:
   - tiere
 meta:
   - linked_list_url: "https://www.livingalongsidewildlife.com/2018/12/the-species-that-went-extinct-in-2018.html"
-  - yourls_shorturl: "http://eay.li/38e"
+  - yourls_shorturl: "https://eay.li/38e"
   - geo_latitude: "50.973731003292"
   - geo_longitude: "6.6831036323314"
   - geo_public: "1"

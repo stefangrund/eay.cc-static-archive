@@ -13,7 +13,7 @@ tags:
   - viral
   - werbung
 meta:
-  - yourls_shorturl: "http://eay.li/gk"
+  - yourls_shorturl: "https://eay.li/gk"
 ---
 
 Your favorite viral video for the next five minutes:

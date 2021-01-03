@@ -15,7 +15,7 @@ tags:
   - ios
   - suchmaschinen
 meta:
-  - yourls_shorturl: "http://eay.li/21v"
+  - yourls_shorturl: "https://eay.li/21v"
   - linked_list_url: "http://www.heise.de/newsticker/meldung/Google-zahlt-vermutlich-eine-Milliarde-US-Dollar-jaehrlich-fuer-Suchstandard-in-iOS-1802224.html"
 ---
 

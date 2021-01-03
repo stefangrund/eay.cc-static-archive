@@ -18,7 +18,7 @@ tags:
   - marvel
   - podcast
 meta:
-  - yourls_shorturl: "http://eay.li/35u"
+  - yourls_shorturl: "https://eay.li/35u"
 ---
 
 Hervorragend produzierte Podcast-Empfehlung, die ich [bei Swen entdeckt](https://swen.antville.org/stories/2263588/) habe: "Business Wars" vom Podcast-Label [Wondery](https://wondery.com/), das mir bis dato unbekannt war. Der Podcast behandelt in sechs bis acht Folgen langen Staffeln den Konflikt von übergroßen Firmen, die in der selben Branche gegeneinander antreten. Wie z.B. Streaming-Anbieter Netflix, der der Videotheken-Kette Blockbuster das Leben schwer gemacht hat. Oder Nintendo und Sony, die von einstigen Kooperationspartnern zu erbitterten Feinden wurden.

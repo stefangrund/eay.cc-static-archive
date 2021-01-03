@@ -15,7 +15,7 @@ tags:
   - nsfw
   - your-favorite-tumblr-for-the-next-5-minutes
 meta:
-  - yourls_shorturl: "http://eay.li/296"
+  - yourls_shorturl: "https://eay.li/296"
 ---
 
 ![](https://eay.cc/uploads/2013/proncomments.jpg) Was in der Kommentarspalte von YouTube passiert, ist berühmt und berüchtigt. Für den, sagen wir mal, ganz speziellen Stil, den die Community hier zu sprechen pflegt. Dass es sogar [eigene Blogs](http://epictu.be/) gibt, die die lustigsten YouTube-Kommentare zusammenstellen, verwundert da nicht weiter. Dass es eine ähnliche Kommentar-Kultur auch unter den Clips von Pornoseiten gibt, verwundert hingegen schon. Und ist auch etwas befremdlich. Was sind das für Leute, die sich die Zeit nehmen, den Geschlechtsakt fremder Menschen zu kommentieren? ((Sicherlich ein interessantes Thema für eine Bachelorarbeit in Medienpsychologie.))

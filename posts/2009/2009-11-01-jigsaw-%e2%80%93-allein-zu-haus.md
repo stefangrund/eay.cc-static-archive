@@ -15,7 +15,7 @@ tags:
   - mashup
   - trailer
 meta:
-  - yourls_shorturl: "http://eay.li/ql"
+  - yourls_shorturl: "https://eay.li/ql"
 ---
 
 Im folgenden ein Mashup-Trailer der Familienkomödie [Kevin – Allein zu Haus](http://www.amazon.de/exec/obidos/ASIN/B00004W482/eayznet-21) und der Gewaltorgie [Saw](http://www.amazon.de/exec/obidos/ASIN/B002NJ9ASY/eayznet-21), im dem der kleine Kevin endlich mal als das geoutet wird, was er eigentlich ist: ein blutrünstiger, folternder Psychopath. Also irgendwie.

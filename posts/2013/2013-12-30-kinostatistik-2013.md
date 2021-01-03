@@ -19,7 +19,7 @@ tags:
   - kosten
   - statistik
 meta:
-  - yourls_shorturl: "http://eay.li/2b8"
+  - yourls_shorturl: "https://eay.li/2b8"
 ---
 
 Bereits [seit sieben Jahren](//eay.cc/2012/kinostatistik-2012/) halte ich hier am Jahresende fest, wie oft es mich in den vergangenen 365 Tagen ins Kino gezogen hat, wieviel mich der Spaß insgesamt und durchschnittlich (ohne Speisen und Getränke) kostete und wie sich die Kinopreise hierzulande entwickelt haben. So natürlich auch dieses Jahr. Zeit für meine allseits beliebte, alljährliche Kinostatistik!

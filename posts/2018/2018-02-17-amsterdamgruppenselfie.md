@@ -17,7 +17,7 @@ tags:
 meta:
   - content_copy: "https://www.instagram.com/p/BfV7ZYrla8k/"
   - content_copy: "https://twitter.com/eay/status/965242653464977408"
-  - yourls_shorturl: "http://eay.li/33s"
+  - yourls_shorturl: "https://eay.li/33s"
 ---
 
 ![](https://eay.cc/uploads/2018/amsterdamgruppenselfie.jpeg)

@@ -12,7 +12,7 @@ tags:
   - empfehlungsschreiben
   - netzkultur
 meta:
-  - yourls_shorturl: "http://eay.li/5q"
+  - yourls_shorturl: "https://eay.li/5q"
 ---
 
 Ich hatte hier ja [neulich ein Stöckchen](//eay.cc/2009/das-interview-stockchen/) rumgereicht, in dem es auch die Frage "Was denkst du über die Person die dich getaggt hat?" gab. Und da so ein bisschen Bauchpinselei meinem Ego natürlich alles andere als schadet, hier mal das, was die Blogger-Kollegen so über mich von sich gaben:

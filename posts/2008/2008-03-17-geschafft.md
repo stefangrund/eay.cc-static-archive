@@ -12,7 +12,7 @@ tags:
   - arbeit
   - studium
 meta:
-  - yourls_shorturl: "http://eay.li/3b"
+  - yourls_shorturl: "https://eay.li/3b"
 ---
 
 ![](/uploads/2008/geschafft.jpg) Bin geschafft und hab's geschaft: Klausur bestanden und Hausarbeiten fertiggestellt und abgegeben (Abgabe-Deadline: heute 12 Uhr; fertiggestellt: heute 8:30 Uhr). Wunderbar. Und wie ihr seht muss ich jetzt endlich mal meinen Schreibtisch aufräumen und sämtliche Kopien (ja, ich bin ein Buchraubkopierer) vom Boden aufsammeln...

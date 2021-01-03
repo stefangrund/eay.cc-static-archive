@@ -15,7 +15,7 @@ tags:
   - technologie
   - zukunft
 meta:
-  - yourls_shorturl: "http://eay.li/1ya"
+  - yourls_shorturl: "https://eay.li/1ya"
   - linked_list_url: "http://www.heise.de/newsticker/meldung/Google-Zulassung-fuer-autonome-Fahrzeuge-1569888.html"
 ---
 

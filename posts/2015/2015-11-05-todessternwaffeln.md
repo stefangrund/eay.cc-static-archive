@@ -14,7 +14,7 @@ tags:
   - konsum
   - star-wars
 meta:
-  - yourls_shorturl: "http://eay.li/2qt"
+  - yourls_shorturl: "https://eay.li/2qt"
 ---
 
 ![](https://eay.cc/uploads/2015/deathstarwafflemaker.jpg)

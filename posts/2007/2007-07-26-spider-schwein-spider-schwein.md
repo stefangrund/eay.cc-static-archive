@@ -17,7 +17,7 @@ tags:
   - spiderman
   - spiderpig
 meta:
-  - yourls_shorturl: "http://eay.li/1n"
+  - yourls_shorturl: "https://eay.li/1n"
   - amazon_id: "B000T9BOIE"
 ---
 

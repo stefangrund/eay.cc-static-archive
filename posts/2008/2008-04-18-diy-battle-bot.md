@@ -13,7 +13,7 @@ tags:
   - roboter
   - transformers
 meta:
-  - yourls_shorturl: "http://eay.li/ex"
+  - yourls_shorturl: "https://eay.li/ex"
 ---
 
 ![](/uploads/2008/diybattlerobot.gif)

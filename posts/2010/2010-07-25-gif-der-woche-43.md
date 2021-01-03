@@ -13,7 +13,7 @@ tags:
   - computer
   - gif-der-woche
 meta:
-  - yourls_shorturl: "http://eay.li/zr"
+  - yourls_shorturl: "https://eay.li/zr"
 ---
 
 ![](https://eay.cc/uploads/2010/computerhass.gif)

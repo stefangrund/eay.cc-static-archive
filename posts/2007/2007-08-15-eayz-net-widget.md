@@ -10,7 +10,7 @@ format: "post"
 categories:
   - 0815
 meta:
-  - yourls_shorturl: "http://eay.li/2s5"
+  - yourls_shorturl: "https://eay.li/2s5"
 ---
 
 ![](https://eay.cc/uploads/2007/eayzwidget.gif)

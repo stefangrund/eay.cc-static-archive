@@ -14,7 +14,7 @@ tags:
   - schifffahrt
   - unfall
 meta:
-  - yourls_shorturl: "http://eay.li/1m5"
+  - yourls_shorturl: "https://eay.li/1m5"
 ---
 
 ![](https://eay.cc/uploads/2012/boot.gif) Ja, ich hinke mal wieder hinterher. Erst musste ein Uniprojekt fertiggestellt werden, dann kam [FTL](http://www.ftlgame.com/) (Groß! Kaufen!) dazwischen. Daher hier das .gif, das ich eigentlich letzte Woche posten wollte. Wobei andererseits: Familien, die durch Boote geschleudert werden, gehen ja eigentlich immer. (via [@UARRR](https://twitter.com/uarrr))

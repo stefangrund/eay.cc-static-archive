@@ -14,7 +14,7 @@ tags:
   - netzkultur
   - veranstaltung
 meta:
-  - yourls_shorturl: "http://eay.li/k8"
+  - yourls_shorturl: "https://eay.li/k8"
 ---
 
 Nur zur Absicherung und falls mal jemand auf die Idee kommt: ich habe gestern den (Veranstaltungs-)Titel "Cologne Comic Con" also known as "C3" respektive "C Three" [erfunden](http://twitter.com/Eay/status/2798307063). Etwaige Lizenzzahlungen sind also zukünftig und für alle Zeiten an mein Schweizer Kölner Bankkonto abzurichten.

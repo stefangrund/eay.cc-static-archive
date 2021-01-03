@@ -15,7 +15,7 @@ tags:
   - sony
   - technologie
 meta:
-  - yourls_shorturl: "http://eay.li/3eh"
+  - yourls_shorturl: "https://eay.li/3eh"
 ---
 
 Ich habe gestern versucht, der Live-Übertragung des PlayStation 5 Reveals zu folgen, was aber gezeigt hat, wie verwöhnt wir/ich durch Apple-Events sind, denn das hier musste ich aufgrund von akuter Langeweile abbrechen.

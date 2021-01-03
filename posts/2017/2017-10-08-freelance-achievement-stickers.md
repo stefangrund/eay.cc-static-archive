@@ -18,7 +18,7 @@ meta:
   - linked_list_url: "https://www.newyorker.com/humor/daily-shouts/freelance-achievement-stickers"
   - linked_list_url: "https://www.newyorker.com/humor/daily-shouts/freelance-achievement-stickers"
   - linked_list_url: "https://www.newyorker.com/humor/daily-shouts/freelance-achievement-stickers"
-  - yourls_shorturl: "http://eay.li/31i"
+  - yourls_shorturl: "https://eay.li/31i"
 ---
 
 ![](https://eay.cc/uploads/2017/freelance-stickers.gif)

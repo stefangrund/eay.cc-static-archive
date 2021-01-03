@@ -15,7 +15,7 @@ tags:
   - filme
   - kinolog
 meta:
-  - yourls_shorturl: "http://eay.li/2of"
+  - yourls_shorturl: "https://eay.li/2of"
 ---
 
 ![](https://eay.cc/uploads/2015/abschussfahrt.jpg)

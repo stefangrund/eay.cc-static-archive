@@ -16,7 +16,7 @@ tags:
   - robot-uprising
 meta:
   - linked_list_url: "http://www.gamestar.de/artikel/kuenstliche-intelligenz-facebook-stoppt-ki-nachdem-sie-neue-sprache-erfindet,3317639.html"
-  - yourls_shorturl: "http://eay.li/30m"
+  - yourls_shorturl: "https://eay.li/30m"
   - geo_latitude: "50.973774905285"
   - geo_longitude: "6.6828542747796"
   - geo_public: "1"

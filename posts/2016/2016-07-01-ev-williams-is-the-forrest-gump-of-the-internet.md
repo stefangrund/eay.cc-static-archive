@@ -15,7 +15,7 @@ tags:
   - twitter
 meta:
   - linked_list_url: "http://www.theatlantic.com/technology/archive/2016/06/ev-williams-is-the-forrest-gump-of-the-internet/486899/"
-  - yourls_shorturl: "http://eay.li/2ui"
+  - yourls_shorturl: "https://eay.li/2ui"
 ---
 
 Portrait über Ev Williams, den Gründer von Blogger, Odeo/Twitter und Medium, über das Open Web, Kreativität und wie er mit Textboxen ((Nice one, Mr. Meyer! 👌🏻)) die Welt verändert hat und reich geworden ist.

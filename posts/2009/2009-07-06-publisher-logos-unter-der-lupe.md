@@ -15,7 +15,7 @@ tags:
   - sega
   - typographie
 meta:
-  - yourls_shorturl: "http://eay.li/tn"
+  - yourls_shorturl: "https://eay.li/tn"
 ---
 
 [Superlevel hat fünf Designmenschen die Logos diverser Publisher vorgelegt](http://www.superlevel.de/spielkram/publisher-logos-unter-der-lupe) und diese jeweils benoten lassen. Das wenig überraschende Ergebnis: die meisten Logos sind in den 80ern stecken geblieben und mein Favorit hat das Rennen gemacht.

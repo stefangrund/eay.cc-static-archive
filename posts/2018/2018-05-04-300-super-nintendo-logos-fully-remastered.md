@@ -17,7 +17,7 @@ tags:
   - retro
 meta:
   - linked_list_url: "https://www.behance.net/gallery/63535513/300-Super-Nintendo-Logos-Fully-Remastered"
-  - yourls_shorturl: "http://eay.li/351"
+  - yourls_shorturl: "https://eay.li/351"
 ---
 
 Gute und bestimmt für irgendeinen Zweck super sinnvolle Arbeit von [Nico Vliek](https://mobile.twitter.com/WhaddupNico). (via [moep0r](http://www.omgwtfbbq1337.de/2018/05/05/hunderte-super-nintendo-logos-als-hochauflosende-vektorgrafiken/))

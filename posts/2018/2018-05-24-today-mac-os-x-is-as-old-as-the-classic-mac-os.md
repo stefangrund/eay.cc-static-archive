@@ -15,7 +15,7 @@ tags:
   - mac
 meta:
   - linked_list_url: "https://sixcolors.com/post/2018/05/today-mac-os-x-is-as-old-as-the-classic-mac-os/"
-  - yourls_shorturl: "http://eay.li/35d"
+  - yourls_shorturl: "https://eay.li/35d"
 ---
 
 > Today the Mac’s second operating system era, powered by Mac OS X (now macOS) has been in existence as long as the first era \[with Classic Mac OS\] was.

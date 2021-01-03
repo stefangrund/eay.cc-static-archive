@@ -18,7 +18,7 @@ tags:
   - weltgeschehen
 meta:
   - linked_list_url: "http://www.zeit.de/2015/32/fluechtlinge-bayern-passau/komplettansicht"
-  - yourls_shorturl: "http://eay.li/2pt"
+  - yourls_shorturl: "https://eay.li/2pt"
 ---
 
 > Eine irakische Familie, ausgesetzt auf der Autobahn. Polizisten im ständigen Kampf gegen Schleuser. Kriegsopfer, die durch eine bayerische Idylle irren. In Passau stranden täglich Hunderte Flüchtlinge – Geschichten aus Deutschlands Lampedusa.

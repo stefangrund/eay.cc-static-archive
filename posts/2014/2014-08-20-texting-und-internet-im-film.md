@@ -15,7 +15,7 @@ tags:
   - technologie
   - video-essay
 meta:
-  - yourls_shorturl: "http://eay.li/2i9"
+  - yourls_shorturl: "https://eay.li/2i9"
 ---
 
 \[vimeo id="103554797"\]

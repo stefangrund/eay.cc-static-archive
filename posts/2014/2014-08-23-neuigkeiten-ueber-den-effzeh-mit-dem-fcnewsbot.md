@@ -17,7 +17,7 @@ tags:
   - twitterbot
 meta:
   - linked_list_url: "https://twitter.com/fcnewsbot"
-  - yourls_shorturl: "http://eay.li/2ib"
+  - yourls_shorturl: "https://eay.li/2ib"
 ---
 
 Um 15:30 Uhr startet auch mein Verein, der 1. FC Köln, endlich in die neue (1.!) Bundesliga-Saison. Daher an dieser Stelle mal der Hinweis auf den [@fcnewsbot](https://twitter.com/fcnewsbot), einen Twitterbot, den ich bereits im Feburar 2008 eingerichtet habe und der seitdem zuverlässig [#effzeh](//eay.cc/tag/effzeh/)\-Nachrichten aus diversen Quellen aggregiert.

@@ -10,7 +10,7 @@ format: "post"
 tags:
   - musik
 meta:
-  - yourls_shorturl: "http://eay.li/pu"
+  - yourls_shorturl: "https://eay.li/pu"
 ---
 
 ![](/uploads/2007/note.gif) Wir sind Helden - The Geek ![](/uploads/2007/note.gif) Rooney - When Did Your Heart Go Missing ![](/uploads/2007/note.gif) MaxÃ¯mo Park - Apply Some Pressure ![](/uploads/2007/note.gif) The Hives - Tick Tick Boom ![](/uploads/2007/note.gif) Die Ärzte - Junge

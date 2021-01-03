@@ -17,7 +17,7 @@ tags:
   - mcdonalds
   - tiere
 meta:
-  - yourls_shorturl: "http://eay.li/2bn"
+  - yourls_shorturl: "https://eay.li/2bn"
 ---
 
 Auf Twitter hat gestern jemand ((Konnte leider nicht mehr rekonstruieren wer...)) [hierzu](//eay.cc/2014/if-a-t-rex-were-released-in-new-york-city-how-many-humansday-would-it-need-to-consume-to-get-its-needed-calorie-intake/) gefragt, wie viel es denn dann kosten würde, sich einen T-Rex als Haustier zu halten. Wenn wir jetzt nur mal vom Futter ausgehen und unserem T-Rex ungeachtet der Tatsache, dass das wahrscheinlich ziemlich ungesund für ihn ist, weiterhin mit 80 McDonald's-Hamburgern pro Tag füttern, würde uns die Versorgung unseres Fleischfressers bei einem Preis von 1,19 Dollar pro Hambruger [laut delivery.com](https://www.delivery.com/nyc/mcdonalds) ((Danke an [@JJBs\_Cinema](https://twitter.com/JJBs_Cinema/) für's Auffinden dieser Seite.)) in New York City 1.042.440 Dollar kosten. Vorausgesetzt der T-Rex wird genau 30 Jahre alt, was [das geschätzte Höchstalter](http://dinosaurs.about.com/od/dinosaurbasics/a/trexfacts.htm) für Riesenechsen dieser Art ist. Hierzulande wären das bei einem Euro pro McDonald's-Hamburger 876.000 Euro.

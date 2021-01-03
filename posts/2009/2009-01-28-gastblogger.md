@@ -16,7 +16,7 @@ tags:
   - social-media
   - web-2-0
 meta:
-  - yourls_shorturl: "http://eay.li/91"
+  - yourls_shorturl: "https://eay.li/91"
 ---
 
 ![](https://eay.cc/uploads/2009/eayzwantsyou.gif)Du hast wieder kein Volontariat bei der Bild-Zeitung FAZ bekommen, die Besucherzahlen deines Blogs machen einen auf Finanzkrise und bei Twitter verlierst du Follower schneller als Scatman John den [Scatman](http://de.youtube.com/watch?v=mpHLEm9-0bg) rappt? Dann ist das hier deine Chance: El Jefe kann dieser Tage leider nicht so viel Zeit für's Bloggen aufwenden, wie er gerne würde. Von daher dachte ich mir, dass wir hier ein bisschen Outsourcing betreiben und ihr dieses Blog befüllen könnt.

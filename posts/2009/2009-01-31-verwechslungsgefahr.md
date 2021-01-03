@@ -12,7 +12,7 @@ tags:
   - eayz
   - namen
 meta:
-  - yourls_shorturl: "http://eay.li/fz"
+  - yourls_shorturl: "https://eay.li/fz"
 ---
 
 > via easy.net

@@ -15,7 +15,7 @@ tags:
   - gif-der-woche
   - tanzen
 meta:
-  - yourls_shorturl: "http://eay.li/1jv"
+  - yourls_shorturl: "https://eay.li/1jv"
 ---
 
 ![](https://eay.cc/uploads/2012/drwho.gif) Aus aktuellem Anlass, da ich [ja](//eay.cc/2012/misfits/) gerade die erste (bzw. siebenundzwanzigste) Staffel von »[Doctor Who](http://de.wikipedia.org/wiki/Doctor_Who)« gucke, das alles ziemlich gut finde und Christopher Eccleston als neunter Doctor eine (wie ich vermute; ich hab ja keinen Vergleich) gute Figur macht.

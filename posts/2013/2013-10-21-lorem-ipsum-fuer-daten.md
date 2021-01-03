@@ -14,7 +14,7 @@ tags:
   - tool
 meta:
   - linked_list_url: "http://www.generatedata.com/"
-  - yourls_shorturl: "http://eay.li/28p"
+  - yourls_shorturl: "https://eay.li/28p"
 ---
 
 (via [@dennishorn](https://twitter.com/dennishorn/status/392342576789209088))

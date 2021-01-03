@@ -15,7 +15,7 @@ tags:
   - netzkultur
 meta:
   - _oembed_503d500cb4c9ad471006571569f292f3: "{{unknown}}"
-  - yourls_shorturl: "http://eay.li/2m1"
+  - yourls_shorturl: "https://eay.li/2m1"
 ---
 
 [Johnny Haeusler blickt zehn Jahre später](http://www.spreeblick.com/2014/12/12/zum-zehnjaehrigen-jamba-laya/) auf seinen [legendären Jamba-Artikel](http://www.spreeblick.com/2004/12/12/jamba-kurs/) zurück, den ich damals als 19 jähriger Blogger natürlich auch brav verlinkte. Mein Beitrag ist, zusammen mit diversen Jugendsünden, zwar nicht mehr online und die damals verwendete Blog-Software gibt's auch nicht mehr, aber [hier ein Beweisfoto](http://cl.ly/Z8Og) aus meinem persönlichen Giftschrank Offline-Archiv.

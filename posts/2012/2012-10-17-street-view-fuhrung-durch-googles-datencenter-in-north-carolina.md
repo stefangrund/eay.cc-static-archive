@@ -14,7 +14,7 @@ tags:
   - informatik
   - star-wars
 meta:
-  - yourls_shorturl: "http://eay.li/1zm"
+  - yourls_shorturl: "https://eay.li/1zm"
   - linked_list_url: "http://www.google.com/about/datacenters/inside/streetview/"
 ---
 

@@ -14,7 +14,7 @@ tags:
   - filme
   - jurassic-park
 meta:
-  - yourls_shorturl: "http://eay.li/1sy"
+  - yourls_shorturl: "https://eay.li/1sy"
 ---
 
 ![](https://eay.cc/uploads/2013/pakoto_jurassicpark.jpg)

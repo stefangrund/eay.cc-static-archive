@@ -29,7 +29,7 @@ tags:
   - sport
   - stoeckchen
 meta:
-  - yourls_shorturl: "http://eay.li/ln"
+  - yourls_shorturl: "https://eay.li/ln"
 ---
 
 Dieser Eintrag wurde jeder Kategorie hinzugefügt. Weil's geht.

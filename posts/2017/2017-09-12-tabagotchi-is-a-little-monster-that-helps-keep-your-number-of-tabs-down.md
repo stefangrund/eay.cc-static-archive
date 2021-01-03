@@ -20,7 +20,7 @@ meta:
   - linked_list_url: "http://tabagotchi.com/"
   - linked_list_url: "http://tabagotchi.com/"
   - linked_list_url: "http://tabagotchi.com/"
-  - yourls_shorturl: "http://eay.li/312"
+  - yourls_shorturl: "https://eay.li/312"
   - geo_latitude: "52.381347228123"
   - geo_longitude: "5.7004914371512"
   - geo_public: "1"

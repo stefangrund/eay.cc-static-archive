@@ -14,7 +14,7 @@ tags:
   - katzencontent
   - webdesign
 meta:
-  - yourls_shorturl: "http://eay.li/1zk"
+  - yourls_shorturl: "https://eay.li/1zk"
   - linked_list_url: "http://www.flickr.com/photos/girliemac/sets/72157628409467125/"
 ---
 

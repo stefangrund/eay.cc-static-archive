@@ -16,7 +16,7 @@ meta:
   - geo_longitude: "13.749052469787"
   - geo_public: "1"
   - content_copy: "https://twitter.com/eay/status/990190162121543681"
-  - yourls_shorturl: "http://eay.li/365"
+  - yourls_shorturl: "https://eay.li/365"
 ---
 
 Medienausbeute nach einer Woche Urlaub...

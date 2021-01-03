@@ -16,7 +16,7 @@ tags:
   - piraten
   - radio
 meta:
-  - yourls_shorturl: "http://eay.li/jh"
+  - yourls_shorturl: "https://eay.li/jh"
 ---
 
 ![](/uploads/2009/radiorockrevolution.jpg)[Radio Rock Revolution](http://www.imdb.com/title/tt1131729/), der mit Originaltitel übrigens völlig alliterationsfrei "The Boat That Rocked" heißt, handelt von einem Piratensender in den 1960er Jahren, der die britischen Inseln mit Rock'n'Roll und Schimpfworten versorgt. Und zwar von einem Schiff inmitten der rechtsfreien Nordsee. Klar, dass Obrigkeit und Sittenwächter toben, weshalb dennoch ein Verbot des Senders in die Wege geleitet wird - doch indes können sich die Piraten des Volkes Rückhalts sicher sein. (Angelehnt ist das ganze an die wahre Geschichte des von der See aus sendenden Piratensenders [Radio Caroline](http://de.wikipedia.org/wiki/Radio_Caroline), den es heute übrigens [immer noch gibt](http://www.radiocaroline.co.uk/).)

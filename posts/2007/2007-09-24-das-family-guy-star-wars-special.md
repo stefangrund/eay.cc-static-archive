@@ -17,7 +17,7 @@ tags:
   - robot-chicken
   - star-wars
 meta:
-  - yourls_shorturl: "http://eay.li/2k"
+  - yourls_shorturl: "https://eay.li/2k"
 ---
 
 > A long time ago, but somehow in the future...

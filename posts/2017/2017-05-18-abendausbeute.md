@@ -10,7 +10,7 @@ format: "aside"
 categories:
   - 0815
 meta:
-  - yourls_shorturl: "http://eay.li/2yt"
+  - yourls_shorturl: "https://eay.li/2yt"
 ---
 
 Gute Abendausbeute: Einen neuen Raspberry Pi in Betrieb genommen, [Home Assistant](https://home-assistant.io/) darauf installiert/konfiguriert und schließlich die ganze Kiste abgesichert und ins Netz gestellt. Jetzt können wir auch von unterwegs aus auf die Schaltzentrale unserer meiner Automatisierungs­bemühungen zugreifen.

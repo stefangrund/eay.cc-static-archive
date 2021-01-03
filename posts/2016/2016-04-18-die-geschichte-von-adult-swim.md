@@ -17,7 +17,7 @@ tags:
   - popkultur
   - video-essay
 meta:
-  - yourls_shorturl: "http://eay.li/2sm"
+  - yourls_shorturl: "https://eay.li/2sm"
 ---
 
 \[youtube id="Pkup4zo97E0"\]

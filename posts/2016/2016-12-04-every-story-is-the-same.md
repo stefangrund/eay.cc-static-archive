@@ -19,7 +19,7 @@ tags:
   - storytelling
   - video-essay
 meta:
-  - yourls_shorturl: "http://eay.li/2vi"
+  - yourls_shorturl: "https://eay.li/2vi"
 ---
 
 \[youtube id="LuD2Aa0zFiA"\]

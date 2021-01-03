@@ -18,7 +18,7 @@ tags:
   - podcast
 meta:
   - linked_list_url: "https://kulturindustrie.podigee.io/"
-  - yourls_shorturl: "http://eay.li/33x"
+  - yourls_shorturl: "https://eay.li/33x"
   - content_copy: "https://twitter.com/eay/status/969671404647075840"
 ---
 

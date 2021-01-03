@@ -15,7 +15,7 @@ tags:
   - mp3
   - musik
 meta:
-  - yourls_shorturl: "http://eay.li/ig"
+  - yourls_shorturl: "https://eay.li/ig"
 ---
 
 Mein Lieblings-Mash-Up-Künstler [Girl Talk](http://www.myspace.com/girltalk) hat vor zwei Tagen sein neues Album "Feed the Animals" released. Klar, wieder bei dem Label mit dem besten Namen der Welt: [Illegal Art](http://illegalart.net/mainindex.html). Ähnlich wie beim letzten Radiohead kann man den Preis für [den Download](http://74.124.198.47/illegal-art.net/__girl__talk___feed__the__anima.ls___/) (120 MB) selbst bestimmen: kostenlos bis Ende offen, aber beim aktuellen Dollar-Kurs (und natürlich wegen der Musik) sollte man schon mal ne kleine Finanzspritze rüberschicken. Und außerdem gibt's ab 10$ noch die CD obendrauf!

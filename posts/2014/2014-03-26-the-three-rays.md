@@ -18,7 +18,7 @@ tags:
   - webcomic
 meta:
   - linked_list_url: "http://www.incidentalcomics.com/2014/03/the-three-rays.html"
-  - yourls_shorturl: "http://eay.li/2e7"
+  - yourls_shorturl: "https://eay.li/2e7"
 ---
 
 [![](https://eay.cc/uploads/2014/thethreerays.jpg)](http://www.incidentalcomics.com/2014/03/the-three-rays.html)

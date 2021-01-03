@@ -15,7 +15,7 @@ tags:
   - schlangen
   - tiere
 meta:
-  - yourls_shorturl: "http://eay.li/nh"
+  - yourls_shorturl: "https://eay.li/nh"
 ---
 
 ![](/uploads/2008/vandamme.gif) Van Damme ist schon der coolste aller Schlangentöter!

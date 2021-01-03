@@ -14,7 +14,7 @@ tags:
   - konsum
   - wissenschaft
 meta:
-  - yourls_shorturl: "http://eay.li/2dd"
+  - yourls_shorturl: "https://eay.li/2dd"
 ---
 
 <iframe width="520" height="390" src="https://www.kickstarter.com/projects/2054592112/mini-museum/widget/video.html" frameborder="0" scrolling="no"></iframe>

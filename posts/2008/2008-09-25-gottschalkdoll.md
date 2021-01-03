@@ -16,7 +16,7 @@ tags:
   - thomas-gottschalk
   - werbung
 meta:
-  - yourls_shorturl: "http://eay.li/xy"
+  - yourls_shorturl: "https://eay.li/xy"
 ---
 
 Jedesmal wenn ich [dieses Plakat](http://anonym.to/?http://www.misereor50.de/thomas-gottschalk.html) irgendwo sehe, denke ich, dass Thomas Gottschalk im Alter immer mehr wie eine schlechte Puppe von [Jim Henson](http://de.wikipedia.org/wiki/Jim_Henson) aussieht. Findet ihr nicht auch?

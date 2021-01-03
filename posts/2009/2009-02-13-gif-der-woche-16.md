@@ -13,7 +13,7 @@ tags:
   - burger-king
   - gif-der-woche
 meta:
-  - yourls_shorturl: "http://eay.li/qd"
+  - yourls_shorturl: "https://eay.li/qd"
 ---
 
 ![](/uploads/2009/nightmareking.gif) Freitag, der 13., Albträume, Wochenende, Fast Food - passt ja irgendwie alles.

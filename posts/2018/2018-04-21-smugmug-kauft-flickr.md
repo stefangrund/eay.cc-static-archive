@@ -15,7 +15,7 @@ tags:
   - yahoo
 meta:
   - linked_list_url: "https://www.usatoday.com/story/tech/2018/04/20/smugmug-buys-flickr-verizon-oath/537377002/"
-  - yourls_shorturl: "http://eay.li/34x"
+  - yourls_shorturl: "https://eay.li/34x"
 ---
 
 Das familiengeführte Photo-Sharing-Unternehmen [SmugMug](https://www.smugmug.com/) – "mit 100 Angestellten und einem geschätzten Jahresumsatz im niedrigen einstelligen Millionenbereich" ([iPhoneBlog](https://www.iphoneblog.de/2018/04/21/smugmug-flickr/)) – kauft den Web 2.0- und Photo-Sharing-Pionier flickr von Yahoo frei (und folgt damit [Upcoming](https://waxy.org/2014/05/the_return_of_upcomingorg/) und [del.icio.us](https://eay.cc/2017/pinboard-uebernimmt-delicious/)). Gute Sache, aber vermutlich zu spät, leider.

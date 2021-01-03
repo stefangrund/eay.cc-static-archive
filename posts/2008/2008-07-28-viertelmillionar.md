@@ -15,7 +15,7 @@ tags:
   - netzkultur
   - webservice
 meta:
-  - yourls_shorturl: "http://eay.li/vk"
+  - yourls_shorturl: "https://eay.li/vk"
 ---
 
 [Hier](http://seo-scout.org/tool/domainvalue/) kann man den Geldwert einer Domain bestimmen. [www.eayz.net](http://eay.cc/) bringt's demnach auf stattliche 249.067,75 US-Dollar. Ha, das heißt wohl ich habe für's erste ausgesorgt! Also: wer will bei diesem Schnäppchen zugreifen? Rupert vielleicht? ([via](http://www.amypink.com/2008/07/28/im-rich-bitch/))

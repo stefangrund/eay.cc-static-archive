@@ -17,7 +17,7 @@ tags:
   - webservice
 meta:
   - linked_list_url: "https://snapdrop.net/"
-  - yourls_shorturl: "http://eay.li/2ug"
+  - yourls_shorturl: "https://eay.li/2ug"
 ---
 
 > Snapdrop is inspired by Apple's AirDrop, but is a Progressive Web App built with Polymer and Web RTC.

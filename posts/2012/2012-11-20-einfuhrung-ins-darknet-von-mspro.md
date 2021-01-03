@@ -15,7 +15,7 @@ tags:
   - netzkultur
   - zensur
 meta:
-  - yourls_shorturl: "http://eay.li/20d"
+  - yourls_shorturl: "https://eay.li/20d"
   - linked_list_url: "http://www.spex.de/2012/11/19/darknet-reportage-mspro-michael-seemann/"
 ---
 

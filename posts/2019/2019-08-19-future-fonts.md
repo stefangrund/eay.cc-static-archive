@@ -15,7 +15,7 @@ tags:
 meta:
   - linked_list_url: "https://www.futurefonts.xyz/"
   - linked_list_url: "https://www.futurefonts.xyz/"
-  - yourls_shorturl: "http://eay.li/3b3"
+  - yourls_shorturl: "https://eay.li/3b3"
   - content_copy: "https://twitter.com/eay/status/1163411479971946497"
 ---
 

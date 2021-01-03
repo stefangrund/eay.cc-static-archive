@@ -16,7 +16,7 @@ tags:
   - twitterbot
 meta:
   - linked_list_url: "https://twitter.com/newapps"
-  - yourls_shorturl: "http://eay.li/2jh"
+  - yourls_shorturl: "https://eay.li/2jh"
 ---
 
 Kurzer Hinweis in eigener Sache: Ich habe meinen [2008 gestarteten](https://twitter.com/eay/statuses/864636979) Twitterbot [@newapps](https://twitter.com/newapps) reaktiviert. Während damals einfach alle Neuerscheinungen getwittert wurden, also ziemlich viel Mist dabei war, wird nun ausschließlich auf Apps hingewiesen, die in die Top 100 des App Stores einsteigen, um so eine gewisse Qualität sicherzustellen. Vielleicht ist das ja für den ein oder anderen interessant und ihr gesellt euch zu den 4800 Followern, die der Bot bisher vorweisen kann.

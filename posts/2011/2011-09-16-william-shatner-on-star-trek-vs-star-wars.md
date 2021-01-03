@@ -17,7 +17,7 @@ tags:
   - star-wars
   - william-shatner
 meta:
-  - yourls_shorturl: "http://eay.li/1b8"
+  - yourls_shorturl: "https://eay.li/1b8"
 ---
 
 Natürlich ist der gute Mann parteiisch, aber verdammt nochmal er ist fucking [William Shatner](//eay.cc/tag/william-shatner/), der darf das. (Andere Schauspieler die ebenfalls "Pro ihr SciFi-Franchise" sein dürfen sind übrigens nur Harrison Ford und Edward James Olmos.) (via [Mister Honk](http://www.misterhonk.de/blog/21319/william-shatner-on-star-trek-vs-star-wars/) und [Laughing Squid](http://laughingsquid.com/william-shatner-on-star-trek-vs-star-wars/))

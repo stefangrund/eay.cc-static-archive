@@ -17,7 +17,7 @@ tags:
   - science-fiction
 meta:
   - linked_list_url: "https://www.theverge.com/2019/1/14/18139316/justina-ireland-theory-of-flight-story-rocket-better-worlds"
-  - yourls_shorturl: "http://eay.li/38m"
+  - yourls_shorturl: "https://eay.li/38m"
   - content_copy: "https://twitter.com/eay/status/1085070747050086400"
   - content_copy: "https://eay.social/@eay/101436332878040808"
 ---

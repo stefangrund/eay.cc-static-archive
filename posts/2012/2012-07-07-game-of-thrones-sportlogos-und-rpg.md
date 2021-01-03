@@ -17,7 +17,7 @@ tags:
   - pixelart
   - serien
 meta:
-  - yourls_shorturl: "http://eay.li/1k8"
+  - yourls_shorturl: "https://eay.li/1k8"
 ---
 
 ![](https://eay.cc/uploads/2012/gotsportslogos.jpg)

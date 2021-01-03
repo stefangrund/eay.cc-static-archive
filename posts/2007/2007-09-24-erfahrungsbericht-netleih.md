@@ -17,7 +17,7 @@ tags:
   - leihen
   - videothek
 meta:
-  - yourls_shorturl: "http://eay.li/yl"
+  - yourls_shorturl: "https://eay.li/yl"
 ---
 
 **Update, Oktober 2008:** Dieser Artikel bezog sich ursprünglich auf den DVD-Verleiher Netleih.de. Dieser wurde jedoch vor einigen Monaten in Video Buster umbenannt. Da sich jedoch noch eine Vielzahl von Lesern für diesen Erfahrungsbericht interessiert, haben wir Video Buster nochmal unserem Test unterzogen und die hier genannten Preise und Gutscheine auf den aktuellen Stand gebracht.

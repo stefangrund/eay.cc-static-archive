@@ -16,7 +16,7 @@ tags:
   - offentlich-rechtliche
   - serien
 meta:
-  - yourls_shorturl: "http://eay.li/1e3"
+  - yourls_shorturl: "https://eay.li/1e3"
 ---
 
 [Stefan Niggemeier berichtet heute](http://www.stefan-niggemeier.de/blog/ein-mann-fuer-den-letzten-dreck/) über die NDR-Miniserie »Der Tatortreiniger«, von der ihr wahrscheinlich noch nie gehört habt. Weil der NDR quasi alle Spuren verwischt und die Serie unter den Teppisch gekehrt hat. Warum ist nicht so recht nachvollziehbar, da die wenigen Kritiker und Feuilletonisten, die es trotz der Quasi-Nachrichtensperre geschafft haben, sich den Comedy-Vierteiler mit Bjarne Mädel (Ernie aus »Stromberg«) anzusehen, überaus angetan sind. Niggemeier spricht sogar von der lustigsten deutschen Serie seit langem.

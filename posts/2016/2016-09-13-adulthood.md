@@ -13,7 +13,7 @@ tags:
   - email
   - netzkultur
 meta:
-  - yourls_shorturl: "http://eay.li/2v2"
+  - yourls_shorturl: "https://eay.li/2v2"
 ---
 
 > Adulthood is emailing "Sorry for the delayed response!" back and forth until one of you dies.

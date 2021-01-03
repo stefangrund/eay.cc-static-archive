@@ -17,7 +17,7 @@ tags:
   - supermarkt
   - werbung
 meta:
-  - yourls_shorturl: "http://eay.li/yh"
+  - yourls_shorturl: "https://eay.li/yh"
 ---
 
 ![](/uploads/2007/kwikemart.jpg) Wie schon [im Mai](//eay.cc/2007/attack-of-the-simpsons/) erwähnt, sollten in den USA zur Bewerbung des Simpsons-Kinofilms einige Supermärkte "Kwik-E-Mart"-gerecht umgestylet werden. Mittlerweile sind sie fertig und sehen tatsächlich aus als wären sie unser aller Lieblingsfamilienserie entsprungen: samt bekannten Charakteren, Krusty-Cornflakes und Squishee-Automaten. Fotos davon gibt es [in diesem flickr-Set](http://flickr.com/photos/rdr07/sets/72157600590001691/), wo ihr auch weitere Links vorfindet. _Ich fordere Kwik-E-Marts für Deutschland!_

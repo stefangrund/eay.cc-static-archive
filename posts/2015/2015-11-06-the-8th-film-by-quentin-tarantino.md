@@ -14,7 +14,7 @@ tags:
   - quentin-tarantino
   - trailer
 meta:
-  - yourls_shorturl: "http://eay.li/2qv"
+  - yourls_shorturl: "https://eay.li/2qv"
 ---
 
 Teaser & Trailer zu »The Hateful Eight«, der hierzulande am 28. Januar startet.

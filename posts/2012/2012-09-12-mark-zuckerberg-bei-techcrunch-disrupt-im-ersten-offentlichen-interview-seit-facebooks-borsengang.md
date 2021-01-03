@@ -14,7 +14,7 @@ tags:
   - interview
   - mark-zuckerberg
 meta:
-  - yourls_shorturl: "http://eay.li/1yl"
+  - yourls_shorturl: "https://eay.li/1yl"
   - linked_list_url: "http://techcrunch.com/2012/09/11/zuckerberg-says-on-mobile-we-are-going-to-make-a-lot-more-money-than-on-desktop/"
 ---
 

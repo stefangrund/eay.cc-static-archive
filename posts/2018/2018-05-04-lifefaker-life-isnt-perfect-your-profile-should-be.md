@@ -15,7 +15,7 @@ tags:
   - social-web
 meta:
   - linked_list_url: "http://lifefaker.com/"
-  - yourls_shorturl: "http://eay.li/350"
+  - yourls_shorturl: "https://eay.li/350"
 ---
 
 > Lifefaker is the world’s first online life faking service. Instead of going through the hassle of living a perfect life, now you can just get the photos.

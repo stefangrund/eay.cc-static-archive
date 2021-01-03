@@ -16,7 +16,7 @@ tags:
   - serien
   - torrent
 meta:
-  - yourls_shorturl: "http://eay.li/13w"
+  - yourls_shorturl: "https://eay.li/13w"
 ---
 
 Nach den [Most Pirated Movies of 2010](//eay.cc/2010/the-most-pirated-movies-of-2010/) hat everybody´s favorite filesharing news blog [TorrentFreak](http://torrentfreak.com/top-10-most-pirated-tv-shows-of-2010-101230/) nun auch die Top 10 der 2010 am meisten heruntergeladenen TV-Serien ermittelt. Wenig überraschend wird die Liste von [Lost](//eay.cc/tag/lost/) angeführt, was ganz klar auf die finale Staffel (oder wie ich sie nenne: die größte popkulturelle Enttäuschung, die mir jemals widerfahren ist ((Ich kann immer noch nicht richtig drüber reden (ihr wisst schon, der Schock), aber eines Tages rechne ich in einem Post mit der sechsten, alles zerstörenden Staffel ab und erkläre, warum es für Damon Lindelof und Carlton Cuse besser ist, mir niemals über den Weg zu laufen...))) zurückzuführen ist. Danach folgen die üblichen Verdächtigen mit den großen internationalen Fanbases.

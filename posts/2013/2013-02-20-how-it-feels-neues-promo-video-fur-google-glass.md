@@ -16,7 +16,7 @@ tags:
   - technologie
   - wearables
 meta:
-  - yourls_shorturl: "http://eay.li/21y"
+  - yourls_shorturl: "https://eay.li/21y"
   - linked_list_url: "http://www.youtube.com/watch?v=v1uyQZNg2vE"
 ---
 

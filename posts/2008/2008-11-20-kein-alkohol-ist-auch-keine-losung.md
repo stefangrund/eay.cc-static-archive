@@ -14,7 +14,7 @@ tags:
   - koeln
   - verbot
 meta:
-  - yourls_shorturl: "http://eay.li/qp"
+  - yourls_shorturl: "https://eay.li/qp"
 ---
 
 Erst haben sie uns das Transfer-Bierchen in der KVB genommen, jetzt wollen sie das belgische Viertel: [Alkoholverbot im Belgischen Viertel geplant](http://www.koeln.de/koeln/nachrichten/lokales/alkoholverbot_im_belgischen_viertel_geplant_94099.html), berichtet Koeln.de.

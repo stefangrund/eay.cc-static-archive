@@ -15,7 +15,7 @@ tags:
   - trash
   - weihnachten
 meta:
-  - yourls_shorturl: "http://eay.li/hu"
+  - yourls_shorturl: "https://eay.li/hu"
 ---
 
 ![](/uploads/2008/japanchristmas.jpg) Das obige Bid wünscht uns frohe Weihnachten. Und obwohl ich nicht weiß, was es uns sonst noch so mitteilt, weil es aber so schön bunt ist, schließe ich mich an: Frohe Weihnachten.

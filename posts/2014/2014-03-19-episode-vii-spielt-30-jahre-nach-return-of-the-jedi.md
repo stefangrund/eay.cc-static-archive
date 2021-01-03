@@ -15,7 +15,7 @@ tags:
   - star-wars
 meta:
   - linked_list_url: "http://starwars.com/news/star-wars-episode-vii-set-to-roll-cameras-may-2014.html"
-  - yourls_shorturl: "http://eay.li/2dw"
+  - yourls_shorturl: "https://eay.li/2dw"
 ---
 
 > Episode VII is set about 30 years after the events of Star Wars: Episode VI Return of the Jedi, and will star a trio of new young leads along with **some very familiar faces**.

@@ -14,7 +14,7 @@ tags:
   - iphone
   - webcomic
 meta:
-  - yourls_shorturl: "http://eay.li/ih"
+  - yourls_shorturl: "https://eay.li/ih"
 ---
 
 [![](/uploads/2008/iphonemillionaire.gif "by/via The Joy of Tech")](http://www.geekculture.com/joyoftech/joyarchives/1125.html) "iPhone or Millionaire?", fragt sich [The Joy of Tech heute](http://www.geekculture.com/joyoftech/joyarchives/1125.html).

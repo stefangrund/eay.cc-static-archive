@@ -18,7 +18,7 @@ tags:
   - technologie
 meta:
   - linked_list_url: "https://spiegel.de/kultur/literatur/marc-uwe-kling-qualityland-wird-zur-hbo-serie-a-1257512.html"
-  - yourls_shorturl: "http://eay.li/39p"
+  - yourls_shorturl: "https://eay.li/39p"
   - geo_latitude: "50.973767036796"
   - geo_longitude: "6.6831577337378"
   - geo_public: "1"

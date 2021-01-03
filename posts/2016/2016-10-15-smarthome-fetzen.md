@@ -13,7 +13,7 @@ tags:
   - smarthome
   - technologie
 meta:
-  - yourls_shorturl: "http://eay.li/2v8"
+  - yourls_shorturl: "https://eay.li/2v8"
 ---
 
 Apropos England: Als wir Freitagnacht zurückgekehrt sind, fanden wir hier ein eiskaltes Haus vor. Stellt sich heraus, dass man nämlich auch bei all der hier verbauten Smarthome-Technik erstmal auf die Idee kommen muss, die fernsteuerbare Heizung auch wirklich fernzusteuern und anzuwerfen. 😅

@@ -13,7 +13,7 @@ tags:
   - farin-urlaub
   - konsum
 meta:
-  - yourls_shorturl: "http://eay.li/am"
+  - yourls_shorturl: "https://eay.li/am"
 ---
 
 > Farin Urlaub und seine Kamera: ein halbes Jahr durch Indien und Bhutan. Entstanden sind bezaubernde Fotos von bestechender Klarheit. Aus ihnen sprechen die Neugier und die Offenheit, das Sich-Einlassen auf das Neue, Unbekannte, auf Menschen, auf Kultur.

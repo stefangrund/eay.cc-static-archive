@@ -14,7 +14,7 @@ tags:
   - netzkultur
   - rock-am-ring
 meta:
-  - yourls_shorturl: "http://eay.li/p2"
+  - yourls_shorturl: "https://eay.li/p2"
 ---
 
 Wem [mein Rückblick](//eay.cc/2008/rock-am-ring-2008/) auf den rockenden Ring nicht genügt, der sei hiermit an meine kleine [RaR-Blogger-Sammelstelle](//eay.cc/2008/rock-am-ring-blogger-gesucht/) erinnert, wo nach und nach weitere Berichte anderer Blogger gelistet werden. Unterhaltsam, wenn man so erfährt, was anderen widerfahren ist...

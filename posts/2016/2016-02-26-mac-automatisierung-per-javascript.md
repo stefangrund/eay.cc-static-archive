@@ -16,7 +16,7 @@ tags:
   - javascript
   - mac
 meta:
-  - yourls_shorturl: "http://eay.li/2rr"
+  - yourls_shorturl: "https://eay.li/2rr"
 ---
 
 Habe mich heute mal an der Mac-Automatisierung per JavaScript versucht (guter Einstiegspunkt ist das [JXA-Cookbook](https://github.com/dtinth/JXA-Cookbook/wiki)). Das ganze Unterfangen war allerdings ziemlich ernüchternd, da die Dokumentation innerhalb des [Skript-Editors](https://en.wikipedia.org/wiki/AppleScript_Editor) sehr unvollständig ist und die Schnittstellen teilweise einfach nicht funktionieren.

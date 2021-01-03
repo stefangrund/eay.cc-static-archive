@@ -14,7 +14,7 @@ tags:
   - programmieren
 meta:
   - linked_list_url: "https://github.com/danistefanovic/build-your-own-x"
-  - yourls_shorturl: "http://eay.li/354"
+  - yourls_shorturl: "https://eay.li/354"
   - content_copy: "https://twitter.com/eay/status/995576893339512832"
 ---
 

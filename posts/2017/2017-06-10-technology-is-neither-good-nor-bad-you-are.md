@@ -18,7 +18,7 @@ tags:
   - urheberrecht
   - vortrag
 meta:
-  - yourls_shorturl: "http://eay.li/2zp"
+  - yourls_shorturl: "https://eay.li/2zp"
 ---
 
 [Peter Sunde](https://en.wikipedia.org/wiki/Peter_Sunde) of The Pirate Bay fame schlägt in diesem unterhaltsamen Vortrag von der TNW Conference ((Fun-Fact: Wir waren 2008 bei der "The Next Web Conference", um der legendären Amsterdam-Live-Episode von [Diggnation](https://en.wikipedia.org/wiki/Diggnation) beizuwohnen.)) in eine ganz ähnliche Kerbe wie [Ted Nelson](https://eay.cc/2017/good-and-bad-news-about-computers/) und [meine Urgroßtante](https://eay.cc/2017/im-internet-gibt-es-gute-und-schlechte-dinge/), indem er über einen Schwenk aus der Historie von TBP dazu kommt, wie man Technologie politisch einsetzen kann und dass man öfter mal nach dem "Warum?" fragen sollte.

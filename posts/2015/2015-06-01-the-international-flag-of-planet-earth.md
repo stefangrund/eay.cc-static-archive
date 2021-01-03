@@ -15,7 +15,7 @@ tags:
   - raumfahrt
 meta:
   - linked_list_url: "http://www.flagofplanetearth.com/"
-  - yourls_shorturl: "http://eay.li/2ob"
+  - yourls_shorturl: "https://eay.li/2ob"
 ---
 
 ![](https://eay.cc/uploads/2015/falgofplanetearth.jpg)

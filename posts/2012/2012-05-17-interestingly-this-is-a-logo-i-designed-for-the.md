@@ -13,7 +13,7 @@ tags:
   - logo
   - ze-frank
 meta:
-  - yourls_shorturl: "http://eay.li/1xd"
+  - yourls_shorturl: "https://eay.li/1xd"
   - linked_list_url: "http://www.youtube.com/watch?v=nTQWtJVlJhk"
 ---
 

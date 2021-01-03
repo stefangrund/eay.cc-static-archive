@@ -18,7 +18,7 @@ tags:
   - harry-potter
   - kinolog
 meta:
-  - yourls_shorturl: "http://eay.li/1ah"
+  - yourls_shorturl: "https://eay.li/1ah"
 ---
 
 So, liebe Filmfreunde, die Sommerpause ist beendet - es kommen wieder Film-Reviews. Den Anfang machen zwei halbwegs alte Schinken, namentlich »Harry Potter und die Heiligtümer des Todes - Teil 2« und »Green Lantern«, und dann kämpfe ich mich zu den aktuellen Neustarts vor. ((Viel wichtiger aber folgende Frage: Was mache ich mit all den Filmen von Januar bis Juni, die ich nicht rezensiert habe? Wäret ihr mit einem ultimativen Review-Rundumschlag der ersten Jahreshälfte einverstanden, in dem ich all die Filme mit nur einem Satz abhandele? Oder ist's euch schlichtweg egal? (Geheimtipp: mir nicht.) ))

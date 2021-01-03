@@ -12,7 +12,7 @@ tags:
   - kinolog
   - sneak-preview
 meta:
-  - yourls_shorturl: "http://eay.li/w"
+  - yourls_shorturl: "https://eay.li/w"
 ---
 
 ![](https://eay.cc/uploads/2010/old_emdb.jpg)

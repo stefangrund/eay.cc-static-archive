@@ -14,7 +14,7 @@ tags:
   - netzkultur
   - webcomic
 meta:
-  - yourls_shorturl: "http://eay.li/6b"
+  - yourls_shorturl: "https://eay.li/6b"
 ---
 
 [![](/uploads/2008/dutycalls.gif)](http://xkcd.com/386/) Für die Freundin dürfte diese Szene einen gewissen Wiedererkennungswert haben. ([via](http://laughingsquid.com/someone-is-wrong-on-the-internet/))

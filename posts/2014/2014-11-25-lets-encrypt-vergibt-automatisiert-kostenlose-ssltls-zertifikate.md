@@ -15,7 +15,7 @@ tags:
   - webservice
 meta:
   - linked_list_url: "https://letsencrypt.org/"
-  - yourls_shorturl: "http://eay.li/2kw"
+  - yourls_shorturl: "https://eay.li/2kw"
 ---
 
 > Anyone who has gone through the trouble of setting up a secure website knows what a hassle getting a certificate can be. Let´s Encrypt automates away all this pain and lets site operators turn on HTTPS with a single click or shell command.

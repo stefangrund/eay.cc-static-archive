@@ -15,7 +15,7 @@ tags:
   - ipad
   - iphone
 meta:
-  - yourls_shorturl: "http://eay.li/2tg"
+  - yourls_shorturl: "https://eay.li/2tg"
 ---
 
 Bei [Alex' Homescreen-Post](https://www.iphoneblog.de/2016/04/19/homescreens-april-2016-iphone-6s-plus-129-ipad-pro-apple-watch/) (ich finde anderer Leute Homescreens immer überaus interessant; muss ich hier auch mal wieder zeigen) habe ich neulich [Desqueeze](https://itunes.apple.com/de/app/desqueeze/id1046809993?l=en&mt=8&uo=4&at=11lohW) kennengelernt, eine iOS-App zum Resizing von (mehreren) Bild- und Videodateien. Dabei lässt sich auch das Dateiformat ändern, nur die Komprimierung könnte besser sein (was sich ja aber auch im Nachhinein lösen lässt).

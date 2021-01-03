@@ -20,7 +20,7 @@ tags:
   - tribute
   - weezer
 meta:
-  - yourls_shorturl: "http://eay.li/o3"
+  - yourls_shorturl: "https://eay.li/o3"
 ---
 
 > Do you remember that dream you had, where the sound chips from the beloved games consoles of your youth all got together and formed a Weezer tribute band? Yeah? No? OK. That dream is about to come true. \[...\]

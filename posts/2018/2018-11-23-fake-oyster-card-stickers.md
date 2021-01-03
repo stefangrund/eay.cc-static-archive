@@ -16,7 +16,7 @@ tags:
   - sticker
 meta:
   - linked_list_url: "https://www.spellingmistakescostlives.com/single-post/2018/11/21/REAL-FAKE-OYSTER"
-  - yourls_shorturl: "http://eay.li/37w"
+  - yourls_shorturl: "https://eay.li/37w"
 ---
 
 ![](https://eay.cc/uploads/2018/fake-oyster-card-stickers.jpg)

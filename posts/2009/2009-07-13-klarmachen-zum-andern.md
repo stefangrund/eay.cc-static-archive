@@ -15,7 +15,7 @@ tags:
   - wahlen
   - wahlwerbespot
 meta:
-  - yourls_shorturl: "http://eay.li/3p"
+  - yourls_shorturl: "https://eay.li/3p"
 ---
 
 Dieser im Rahmen des [Piratenspot](http://piratenspot.de/)\-Wettbewerbs von [Chris Grabinski](http://www.chrisgrabinski.com/) (Director) und [René Dawn-Claude](http://www.dawn-claude.de/) (Stimme) eingereichte Werbespot ist auf jeden Fall besser als der semi-professionelle, offizielle [Herzschmerzspot zur Europawahl](http://www.youtube.com/watch?v=0ClHZ6rGeMU), bringt ein paar Eckpfeiler des Piratenparteiprogramms bündig an den Mann und könnte sogar den ein oder anderen Unentschlossenen überzeugen. Etablierte Parteien sollten sich hieran an Beispiel nehmen anstatt uns ständig den Einheitsbrei der dauer grinsenden Politiker vorzusetzen.

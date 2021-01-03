@@ -12,7 +12,7 @@ tags:
   - superman
   - tiere
 meta:
-  - yourls_shorturl: "http://eay.li/jw"
+  - yourls_shorturl: "https://eay.li/jw"
 ---
 
 ![](/uploads/2007/superturtle.jpg)

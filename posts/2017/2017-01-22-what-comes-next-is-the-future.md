@@ -23,7 +23,7 @@ meta:
   - linked_list_url: "http://shortfil.ms/film/what-comes-next-is-the-future-2016"
   - linked_list_url: "http://shortfil.ms/film/what-comes-next-is-the-future-2016"
   - linked_list_url: "http://shortfil.ms/film/what-comes-next-is-the-future-2016"
-  - yourls_shorturl: "http://eay.li/2we"
+  - yourls_shorturl: "https://eay.li/2we"
 ---
 
 > A documentary film about the web created by [Bearded](http://www.bearded.com/) founder [Matt Griffin](http://matt-griffin.com/). It is the story of Tim Berners-Lee’s creation – how it came to be, where it’s been, and where it’s going – as told by the people who build it.

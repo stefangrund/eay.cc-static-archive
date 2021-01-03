@@ -12,7 +12,7 @@ categories:
 tags:
   - video
 meta:
-  - yourls_shorturl: "http://eay.li/1w9"
+  - yourls_shorturl: "https://eay.li/1w9"
   - linked_list_url: "http://www.youtube.com/watch?v=lUZ-e2SkeMI"
 ---
 

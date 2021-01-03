@@ -15,7 +15,7 @@ tags:
   - fussball
   - sport
 meta:
-  - yourls_shorturl: "http://eay.li/1ju"
+  - yourls_shorturl: "https://eay.li/1ju"
 ---
 
 Heute ist es also soweit: Der Klassiker, das Trauma, Deutschland trifft auf Italien. Ich bin zwar frohen Mutes, aber ganz so unbeschwert wie beim [erwarteten Viertelfinalsieg](//eay.cc/2012/viertelfinale/) bin ich dann doch nicht mehr. Ich hätte unsere Elf heute sehr viel lieber gegen England antreten sehen. Denn dann wäre unsere Finalteilnahme bereits jetzt beschlossene Sache gewesen. Aber so? Angstgegner, nein, aber Ehrfurcht ist schon angesagt. Also hoffen wir das Beste und sagen: Bis Sonntag! :P

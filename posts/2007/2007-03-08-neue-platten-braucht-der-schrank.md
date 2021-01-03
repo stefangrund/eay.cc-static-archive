@@ -20,7 +20,7 @@ tags:
   - musik
   - plattenschrank
 meta:
-  - yourls_shorturl: "http://eay.li/4d"
+  - yourls_shorturl: "https://eay.li/4d"
 ---
 
 Okay, die [neue Kaiser Chiefs](http://www.amazon.de/exec/obidos/ASIN/B000MQ57QY/eayznet-21) ist ganz ordentlich und [Bloc Partys Neue](http://www.amazon.de/exec/obidos/ASIN/B000K7V6YC/eayznet-21) ist auch ganz nett. Die Vorgänger liefen jedenfalls besser in der hauseigenen Heavy Rotation. Für die gibt's aber schon potentielle Neueinsteiger, die in der nächsten Zeit herauskommen und auf jeden Fall gekauft werden. Für mich und euch daher im folgenden die Einkaufs- & Erinnerungsliste:

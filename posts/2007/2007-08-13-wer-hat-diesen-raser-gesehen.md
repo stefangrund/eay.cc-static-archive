@@ -14,7 +14,7 @@ tags:
   - post
   - strasenverkehr
 meta:
-  - yourls_shorturl: "http://eay.li/s4"
+  - yourls_shorturl: "https://eay.li/s4"
 ---
 
 ![](/uploads/2007/raser.jpg) Soll [am 7.7.](//eay.cc/2007/die-fantastische-rheinkultur/) durch Bonn gekurvt sein, sagt der Zeuge Truvelo M4².

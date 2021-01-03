@@ -14,7 +14,7 @@ tags:
   - webcomic
 meta:
   - linked_list_url: "http://thedoghousediaries.com/5216"
-  - yourls_shorturl: "http://eay.li/24x"
+  - yourls_shorturl: "https://eay.li/24x"
 ---
 
 Genau so ist es. (via [Laughing Squid](http://laughingsquid.com/bad-with-names-a-comic-about-forgetting-peoples-names-by-doghouse-diaries/))

@@ -15,7 +15,7 @@ tags:
   - popkultur
 meta:
   - linked_list_url: "https://www.langweiledich.net/"
-  - yourls_shorturl: "http://eay.li/348"
+  - yourls_shorturl: "https://eay.li/348"
 ---
 
 ![](https://eay.cc/uploads/2018/langweiledichnet.png)Nach der [Podcast-Empfehlung](https://eay.cc/2018/follow-friday-kulturindustrie/) von vorletzter und der [Newsletter-Empfehlung](https://eay.cc/2018/follow-friday-five-things/) von letzter Woche, folgt in dieser Woche endlich ein Blog: [LangweileDich.net](https://www.langweiledich.net/), das 2006 (!) "aus Lange­weile heraus gegen die Langeweile" gegegründete Blog von Maik Zehrfeld, der dort mit beeindruckender Konstanz und Frequenz ein großes Feuerwerk an sehenswerten Netzfundstücken und lesenswertem Original Content abfackelt. Wenn ihr [mit Katzen nachgestellte Plattencover](https://www.langweiledich.net/albencover-mit-katzen-nachgestellt/), [redende Dinge](https://www.langweiledich.net/wenn-dinge-reden-koennten-3/) oder ein [Küchenmesser aus Pastateig](https://www.langweiledich.net/kuechenmesser-aus-pastateig/) sehen wollt, seid ihr hier genau richtig. Ausbleibende Langeweile garantiert.

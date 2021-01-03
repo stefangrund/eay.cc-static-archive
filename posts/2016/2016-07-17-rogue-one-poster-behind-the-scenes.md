@@ -14,7 +14,7 @@ tags:
   - rogue-one
   - star-wars
 meta:
-  - yourls_shorturl: "http://eay.li/2up"
+  - yourls_shorturl: "https://eay.li/2up"
 ---
 
 ![](https://eay.cc/uploads/2016/rogue-one-poster.jpg)

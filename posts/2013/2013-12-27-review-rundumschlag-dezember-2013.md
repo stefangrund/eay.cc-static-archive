@@ -15,7 +15,7 @@ tags:
   - lord-of-the-rings
   - review-rundumschlag
 meta:
-  - yourls_shorturl: "http://eay.li/2b5"
+  - yourls_shorturl: "https://eay.li/2b5"
 ---
 
 Machen wir mal was anderes: regelmäßige, über-ausführliche Rezensionen bekomme ich schon seit längerem zeitlich einfach nicht gestemmt. Daher versuche ich jetzt jeden Monat einen "Review-Rundumschlag" rauszuhauen, in dem ich die Kinofilme der vergangenen vier Wochen nochmal Revue passieren lasse. Den Anfang macht der Dezember mit (nur) vier Sichtungen - und zwar »[The Counselor](#thecounselor)«, »[Der Lieferheld](#derlieferheld)«, [der zweite Hobbit](#derhobbit2) und [der zweite Machete](#machetekills).

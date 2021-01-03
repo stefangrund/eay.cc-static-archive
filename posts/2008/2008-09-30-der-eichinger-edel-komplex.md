@@ -14,7 +14,7 @@ tags:
   - geschichte
   - kinolog
 meta:
-  - yourls_shorturl: "http://eay.li/72"
+  - yourls_shorturl: "https://eay.li/72"
 ---
 
 ![](/uploads/2008/bmkomplex.jpg)Mit [Der Baader Meinhof Komplex](http://www.imdb.com/title/tt0765432/), der Verfilmung von Stefan Austs gleichnamigem Sach(!)buch, steht uns dieser Tage eine weitere filmische Aufarbeitung Deutscher Geschichte ins Haus. Von vorneherein möchte ich auf die Absurdität dieser Verfilmung aufmerksam machen: Stefan Austs Baader Meinhof Komplex umfasst in seiner [Standard-Ausgabe](http://www.amazon.de/exec/obidos/ASIN/3442469015/eayznet-21) satte 672 Seiten. In der aktualisierten, doppelt so teuren [Deluxe-Edition](http://www.amazon.de/exec/obidos/ASIN/3455500293/eayznet-21) sind es sogar 896 Seiten. Man muss kein Filmkenner sein - nein, nicht einmal einen Film gesehen haben -, um zu erkennen, dass es in keinem Fall möglich ist, dieses gigantische Gros an mehr oder minder aufwendig recherchierten Fakten, dieses Jahrzehnt Deutscher Geschichte, auf einen 150-Minuten-Film herunterzubrechen. Das geht nicht.

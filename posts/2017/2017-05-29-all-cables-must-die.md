@@ -19,7 +19,7 @@ tags:
   - wearables
 meta:
   - content_copy: "https://instagram.com/p/BUr4fqrlw0Y/"
-  - yourls_shorturl: "http://eay.li/2zb"
+  - yourls_shorturl: "https://eay.li/2zb"
 ---
 
 ![](https://eay.cc/uploads/2017/airpods.jpeg)

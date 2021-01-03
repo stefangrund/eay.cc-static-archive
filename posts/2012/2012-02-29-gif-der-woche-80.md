@@ -14,7 +14,7 @@ tags:
   - puppen
   - sonic
 meta:
-  - yourls_shorturl: "http://eay.li/1gi"
+  - yourls_shorturl: "https://eay.li/1gi"
 ---
 
 ![](https://eay.cc/uploads/2012/sonicpuppet.gif) Preview auf »Sonic the Hedgehog 4: Episode 2«.

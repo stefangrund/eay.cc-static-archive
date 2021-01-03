@@ -15,7 +15,7 @@ tags:
   - star-wars
   - the-daily-show
 meta:
-  - yourls_shorturl: "http://eay.li/3l"
+  - yourls_shorturl: "https://eay.li/3l"
 ---
 
 George Lucas war am Dienstagabend bei Jon Stewarts [The Daily Show](http://www.thedailyshow.com/) zu Gast, um sein gerade erschienenes, meines Erachtens durchaus interessantes Buch [George Lucas's Blockbusting](http://www.amazon.de/exec/obidos/ASIN/0061778893/eayznet-21) vorzustellen; seht selbst:

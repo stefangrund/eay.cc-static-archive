@@ -15,7 +15,7 @@ tags:
   - fernsehen
   - parodie
 meta:
-  - yourls_shorturl: "http://eay.li/8u"
+  - yourls_shorturl: "https://eay.li/8u"
 ---
 
 Während die Simpsons am vergangenen US-Sonntagabend zwar [das neue, hochauflösende Intro](//eay.cc/2009/hdtv-is-worth-every-cent/) einführten, in der Folge für meinen Geschmack jedoch nur unterdurchschnittliche Kost ablieferten, konnte die neue [Family Guy](//eay.cc/tag/family-guy/)\-Folge vollends überzeugen. `Ansehbefehl!`

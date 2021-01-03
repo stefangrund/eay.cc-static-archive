@@ -15,7 +15,7 @@ tags:
   - satire
   - the-onion
 meta:
-  - yourls_shorturl: "http://eay.li/xc"
+  - yourls_shorturl: "https://eay.li/xc"
 ---
 
 [The Onion hat Details](http://www.theonion.com/content/news/next_tarantino_movie_an_homage_to) zum nächsten Tarantino-Film:

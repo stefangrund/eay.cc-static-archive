@@ -13,7 +13,7 @@ tags:
   - vine
   - wohnen
 meta:
-  - yourls_shorturl: "http://eay.li/1sk"
+  - yourls_shorturl: "https://eay.li/1sk"
 ---
 
 Hier [ein kleines Vine-Video](http://vine.co/v/bnngIAVw0rZ) von meinem Tageswerk. Ist wie schon im Zimmer zuvor recht ordentlich geworden, so dass mein Alternativplan, falls das mit _den Medien_ doch nichts gibt, jetzt jedenfalls das professionelle Laminat verlegen ist.

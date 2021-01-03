@@ -19,7 +19,7 @@ tags:
   - technologie
 meta:
   - linked_list_url: "https://www.macstories.net/news/samsung-announces-itunes-movies-and-tv-shows-app-and-airplay-2-support-for-its-smart-tvs/"
-  - yourls_shorturl: "http://eay.li/38i"
+  - yourls_shorturl: "https://eay.li/38i"
 ---
 
 > In a first among TV manufacturers, Samsung has announced that its 2019 TVs will ship with an iTunes Movies and TV Shows app in over 100 countries as well as AirPlay 2 support in 190 countries. 2018 models will receive the same support via a firmware update.

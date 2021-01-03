@@ -17,7 +17,7 @@ meta:
   - linked_list_url: "http://www.theverge.com/a/new-devils-dictionary"
   - linked_list_url: "http://www.theverge.com/a/new-devils-dictionary"
   - linked_list_url: "http://www.theverge.com/a/new-devils-dictionary"
-  - yourls_shorturl: "http://eay.li/2pj"
+  - yourls_shorturl: "https://eay.li/2pj"
 ---
 
 > embed (v).: Socially permissible theft.

@@ -15,7 +15,7 @@ tags:
   - stoeckchen
   - zombies
 meta:
-  - yourls_shorturl: "http://eay.li/rp"
+  - yourls_shorturl: "https://eay.li/rp"
 ---
 
 Aus Richtung des [Affenheimtheaters](http://blog.affenheimtheater.de/2007/05/01/filmstoeckchen-2/) habe ich ein Filmstöckchen erhalten. Und daher geht's im folgenden um Filme, die ich mag, Filme, bei denen ich geweint habe, erste Filme, letzte Filme, Filme, die ich im dunkeln geguckt habe, Filme, die ich nicht geguckt habe und Filme, bei denen ich mitgesunden habe. Nicht zu vergessen: Popcorn!

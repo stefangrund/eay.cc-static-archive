@@ -18,7 +18,7 @@ tags:
   - munchen
   - sport
 meta:
-  - yourls_shorturl: "http://eay.li/ef"
+  - yourls_shorturl: "https://eay.li/ef"
 ---
 
 Ich war [ja](//eay.cc/2007/auswaertsspiel/) übers Wochenende in München und "wenn man mal für knapp zwei Tage München erkunden kann", dachte sich mein Köper, "dann kann man doch auch krank werden. Mit Fieber und so. Das wird ihn upfucken, den Eay." So ist er also zu mir, mein Körper. Nun ja, ich lag tatsächlich am Samstag flach im Hotelzimmer und konnte [es selbst kaum glauben](http://www.flickr.com/photos/eay/467181575/). Dennoch: Am Freitag war ich fit und konnte mir die Allianz Arena ansehen...

@@ -13,7 +13,7 @@ tags:
   - konsum
   - magazine
 meta:
-  - yourls_shorturl: "http://eay.li/2u"
+  - yourls_shorturl: "https://eay.li/2u"
 ---
 
 ![](/uploads/2008/sleaze1.jpg) Nachdem ich vor einem Monat [meine Abrechnung mit Neon](//eay.cc/2008/neon-eine-abrechnung/), dem "jungen Magazin vom Stern", veröffentlicht hatte, trudelte hier wenige Tage später die sechste Ausgabe von [SLEAZE](http://sleazemag.de/) ein. Dahinter verbirgt sich ein "bundesweit erhältliches Printmagazin aus Berlin", dass "kostenlos in den meisten Großstädten erhältlich" ist. ((So steht's zumindest in [SLEAZEs eigener Vorstellung](http://sleaze.twoday.net/stories/5179020/).)) Parallelen zum [Vice Magazine](http://www.viceland.com/germany/), das ebenfalls durch Werbung finanziert wird und gratis abgegeben wird, sind aber nicht nur im Vertriebsweg erkennbar, sondern auch thematisch. Und da ich immer mal wieder gerne im Vice lese, aber jede Konkurrenz nur begrüßen kann und man mir freundlicherweise eine Ausgabe zuschickte, wird's nun Zeit sich sich (endlich ((Ja, seit Eingang des Hefts in meiner Offline-Inbox und Verfassen dieses Eintrags ist einige Zeit vergangen, aber ich bin ja sowas von überaus vielbeschäftigt und außerdem ist [Kiefer Sutherland ein Pirat](//eay.cc/2008/kiefer-sutherland-ist-ein-pirat/).))) mal näher mit SLEAZE zu beschäftigen.

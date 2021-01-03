@@ -15,7 +15,7 @@ tags:
   - kurzgeschichte
 meta:
   - linked_list_url: "https://nextdraft.com/something-something-something-murder/"
-  - yourls_shorturl: "http://eay.li/3db"
+  - yourls_shorturl: "https://eay.li/3db"
 ---
 
 > The excellent [Damon Lindelof](https://en.wikipedia.org/wiki/Damon_Lindelof) is writing this exclusive, serialized story for [NextDraft](http://nextdraft.com/) to help us, and him, through the quarantine.

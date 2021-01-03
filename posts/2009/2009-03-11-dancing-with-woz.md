@@ -13,7 +13,7 @@ tags:
   - tanzen
   - woz
 meta:
-  - yourls_shorturl: "http://eay.li/py"
+  - yourls_shorturl: "https://eay.li/py"
 ---
 
  ([YouTube Direkttanz](http://www.youtube.com/watch?v=aoiGJMZjs0o)bär)

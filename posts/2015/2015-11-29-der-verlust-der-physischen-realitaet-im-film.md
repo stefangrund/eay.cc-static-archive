@@ -17,7 +17,7 @@ tags:
   - zukunft
 meta:
   - linked_list_url: "http://www.kino-zeit.de/blog/b-roll/der-verlust-der-physischen-realitaet-teil-1"
-  - yourls_shorturl: "http://eay.li/2ra"
+  - yourls_shorturl: "https://eay.li/2ra"
 ---
 
 > Die Digitalisierung des Alltags stellt das Kino vor ein Problem: Unsere Lebenswelt entzieht sich immer mehr der filmischen Darstellbarkeit.

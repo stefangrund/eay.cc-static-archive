@@ -14,7 +14,7 @@ tags:
   - iphone
   - samsung-galaxy
 meta:
-  - yourls_shorturl: "http://eay.li/1yt"
+  - yourls_shorturl: "https://eay.li/1yt"
   - linked_list_url: "http://www.youtube.com/watch?v=6M5q5TRuAsY"
 ---
 

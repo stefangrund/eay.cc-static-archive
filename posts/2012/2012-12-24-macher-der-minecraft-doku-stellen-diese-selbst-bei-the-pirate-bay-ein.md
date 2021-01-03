@@ -19,7 +19,7 @@ tags:
   - the-pirate-bay
   - urheberrecht
 meta:
-  - yourls_shorturl: "http://eay.li/1qn"
+  - yourls_shorturl: "https://eay.li/1qn"
 ---
 
 Ich habe zwar genau nichts mit Minecraft zu tun, es weder selbst gespielt, noch jemand anderem dabei zugesehen, aber die Doku »[Minecraft: The Story of Mojang](http://redux.com/minecraft-movie)«, die diesen Samstag auf Xbox Live Premiere hatte und den Werdegang von [notch](http://notch.tumblr.com/) und seinem Studio [Mojang](http://www.mojang.com/) vom No-Name zum gefeierten Indie-Star begleitet, sah auch für mich nicht zuletzt wegen dem wirklich großartigen »[Indie Game: The Movie](http://www.indiegamethemovie.com/)« überaus interessant aus. Und wie schon bei »Indie Game: The Movie« wird der ebenfalls per Kickstarter vorfinanzierte Film für wenige Dollar DRM-frei zum Download angeboten.

@@ -16,7 +16,7 @@ tags:
   - netzkultur
 meta:
   - linked_list_url: "https://resilientwebdesign.com/"
-  - yourls_shorturl: "http://eay.li/2vo"
+  - yourls_shorturl: "https://eay.li/2vo"
 ---
 
 > Resilient Web Design, you might think that this is a handbook for designing robust websites. This is not a handbook. It’s more like a history book.

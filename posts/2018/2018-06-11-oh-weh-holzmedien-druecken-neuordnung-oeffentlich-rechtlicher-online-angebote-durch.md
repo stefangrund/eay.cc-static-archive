@@ -17,7 +17,7 @@ tags:
   - politik
 meta:
   - linked_list_url: "http://www.turi2.de/aktuell/horizont-verleger-und-intendanten-einigen-sich-auf-neuordnung-oeffentlich-rechtlicher-online-angebote/"
-  - yourls_shorturl: "http://eay.li/35i"
+  - yourls_shorturl: "https://eay.li/35i"
   - content_copy: "https://twitter.com/eay/status/1006425876194562048"
 ---
 

@@ -20,7 +20,7 @@ tags:
   - trash
 meta:
   - linked_list_url: "http://shortfil.ms/film/kung-fury-2015"
-  - yourls_shorturl: "http://eay.li/2oa"
+  - yourls_shorturl: "https://eay.li/2oa"
 ---
 
 Habt ihr schon in jedem halbwegs brauchbaren Blog da draußen gesehen, darf hier aber natürlich auch nicht fehlen: »Kung Fury«, der ambitionierte, wahnwitzige Action-Kurzfilm, [der Ende 2013 per Kickstarter finanziert wurde](//eay.cc/2013/kung-fury/), ist diese Woche erschienen und kann natürlich [auch auf shortfil.ms](http://shortfil.ms/film/kung-fury-2015) bestaunt werden. 30 Minuten Trash vom feinsten!

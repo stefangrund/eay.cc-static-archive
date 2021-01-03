@@ -14,7 +14,7 @@ tags:
   - star-wars
   - twitter-review
 meta:
-  - yourls_shorturl: "http://eay.li/2rh"
+  - yourls_shorturl: "https://eay.li/2rh"
   - linked_list_url: "https://twitter.com/eay/status/677623942367092738"
 ---
 

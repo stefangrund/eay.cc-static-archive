@@ -15,7 +15,7 @@ tags:
   - politik
   - streetart
 meta:
-  - yourls_shorturl: "http://eay.li/ut"
+  - yourls_shorturl: "https://eay.li/ut"
 ---
 
 ![](https://eay.cc/uploads/2009/pimptheelectionposter.jpg) Kitty [verschönert](http://kitty.blogsport.de/2009/08/16/pimp-the-election-poster/) Wahlplakate. Sehr löblich. ([via](http://www.rebelart.net/diary/?p=1867))

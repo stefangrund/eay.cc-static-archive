@@ -12,7 +12,7 @@ tags:
   - filme
   - musthave
 meta:
-  - yourls_shorturl: "http://eay.li/11t"
+  - yourls_shorturl: "https://eay.li/11t"
 ---
 
 Wenn ihr euch noch an meine erstaunlich gute [Prognose](//eay.cc/2010/oscar-prognose-2010/) zur Oscar-Verleihung erinnert (die von [@MoD85](http://twitter.com/MoD85) ((Er hat übrigens keine Kosten und Mühen gescheut und sich [ein eigenes, armseliges kleines Blog](http://blogfarm.phil-fak.uni-duesseldorf.de/mod85/) eingerichtet, dass er derzeit zu befüllen sucht.)) und [@mir](http://twitter.com/Eay) ausschweifend und -ufernd livegetickert wurde und wohl auch im nächsten Jahr, am 27.2., wieder wird), wisst ihr vielleicht noch, dass mein Tipp teil eines Wettbewerbs unter verschiedenen Filmbloggern war, der von den Jungs und Mädels von [Gutschein-Codes.de](http://www.gutschein-codes.de/) initiiert wurde. Und genau die sind nun erneut auf mich zugekommen und haben mir vorgeschlagen, euch fünf Filme von 2010, die in keiner DVD-Sammlung fehlen dürfen, zu empfehlen. Der nicht-hakenförmige Haken: Ich bekomme einen Amazon-Gutschein dafür. Meines Erachtens also eine Win-Win-Win-Situation für alle Beteiligten. ((Sie bekommen ihre Werbung, ihr bekommt was zu lesen und - most important - ich bekomme Quasi-Bares zum Aufstocken meiner Mediathek.)) Also worauf warten wir noch?

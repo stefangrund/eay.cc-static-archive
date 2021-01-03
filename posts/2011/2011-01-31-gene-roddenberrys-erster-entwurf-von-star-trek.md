@@ -15,7 +15,7 @@ tags:
   - pitch
   - star-trek
 meta:
-  - yourls_shorturl: "http://eay.li/158"
+  - yourls_shorturl: "https://eay.li/158"
 ---
 
 [Hier gibt es ein 16 seitiges PDF](http://leethomson.myzen.co.uk/Star_Trek/1_Original_Series/Star_Trek_Pitch.pdf) von Gene Roddenberrys erstem Entwurf zu [Star Trek](//eay.cc/tag/star-trek/). Datiert auf den 11. März 1964. Zu dieser Zeit hatte Roddenberry offensichtlich noch etwas ganz anderes als Raumschiff Enterprise im Kopf, denn dieser Pitch erinnert eher an eine bunte Parallelweltreise Ã¡ la »[Sliders](http://en.wikipedia.org/wiki/Sliders)«:

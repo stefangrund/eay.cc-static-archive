@@ -23,7 +23,7 @@ tags:
   - theme
   - wordpress
 meta:
-  - yourls_shorturl: "http://eay.li/z5"
+  - yourls_shorturl: "https://eay.li/z5"
 ---
 
 \[audio src="https://eay.cc/uploads/audio/erhatunsalleingelassenerhatunsalleingelassen.mp3"\]
@@ -34,7 +34,7 @@ Und das hört auf den Namen **Steven** - in alter, neuer eayz-Tradition nach ein
 
 Dass Spielberg ein großer Fan, später Freund und noch später [Co-Worker](http://www.imdb.com/title/tt0212720/) von Kubrick gewesen ist, fand ich bei der Namensgebung natürlich auch überaus nett. Doch genug Geplänkel, jetzt noch ein paar Worte zum Theme an sich: Das auffälligste Merkmal ist wohl, dass die Navigationsleiste von oben nach unten gewandert ist. Der Gedanke dahinter ist, dass die Unterseiten von regelmäßig wiederkehrenden Lesern eh so gut wie nie aufgerufen werden (wozu auch?) und neue Leser sich erstmal dafür interessieren, wer den Quatsch hier überhaupt verzapft. Deswegen gibt's jetzt oben den Info-Teaser zur ebenfalls überarbeiteten [About](http://eay.cc/about/)\-Seite. Damit man aber dennoch zügig navigieren kann, habe ich unten rechts den "Escalator" eingebaut, der einen runter und hoch fahren lässt. Ich habe keine Kosten gescheut.
 
-Auch neu, aber [bei Twitter](http://twitter.com/Eay) schon seit nem Monat im Einsatz: mit [eay.li](http://eay.li/) habe ich mir jetzt meinen eigenen URL-Shortener gegönnt. Zum einen heißt das, dass alle hiesigen Blogeinträge absofort eine eigene, direkt twitterbare Kurz-URL spendiert bekommen, zum anderen bringt das Vorteile mit sich, die ich in einem eigenen Eintrag nochmal ausführen werde. Unter der Haube hab ich auch was nachgebessert (und dabei drei Mal meine Datenbank in die Knie gezwungen), aber das würde jetzt zu weit führen.
+Auch neu, aber [bei Twitter](http://twitter.com/Eay) schon seit nem Monat im Einsatz: mit [eay.li](https://eay.li/) habe ich mir jetzt meinen eigenen URL-Shortener gegönnt. Zum einen heißt das, dass alle hiesigen Blogeinträge absofort eine eigene, direkt twitterbare Kurz-URL spendiert bekommen, zum anderen bringt das Vorteile mit sich, die ich in einem eigenen Eintrag nochmal ausführen werde. Unter der Haube hab ich auch was nachgebessert (und dabei drei Mal meine Datenbank in die Knie gezwungen), aber das würde jetzt zu weit führen.
 
 **Denn jetzt möchte ich erstmal eure Meinung hören: Was sagt ihr? Gefällt's euch? Hasst ihr es? Gibt es Darstellungsprobleme? Tötet es euren Goldfisch?**
 

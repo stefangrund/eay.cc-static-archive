@@ -14,7 +14,7 @@ tags:
   - gif-der-woche
   - men-in-black
 meta:
-  - yourls_shorturl: "http://eay.li/18l"
+  - yourls_shorturl: "https://eay.li/18l"
 ---
 
 ![](https://eay.cc/uploads/2011/mib_sunglasses.gif) Aus der beliebten Serie "Wird lustiger je öfter man es sich ansieht".

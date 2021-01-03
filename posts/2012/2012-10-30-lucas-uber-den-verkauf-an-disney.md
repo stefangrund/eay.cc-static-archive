@@ -17,7 +17,7 @@ tags:
   - lucasfilm
   - star-wars
 meta:
-  - yourls_shorturl: "http://eay.li/1og"
+  - yourls_shorturl: "https://eay.li/1og"
 ---
 
 Hier noch ein kurzes Video, in dem George Lucas und Kathleen Kennedy über den [Verkauf von Lucasfilm an Disney](//eay.cc/2012/disney-kauft-lucasfilm/) sprechen. Lucas scheint es darum zu gehen, sein Werk bei Disney _verewigen_ zu wollen (und nochmal reichlich Kohle für seine Erben rauszuschlagen), Kennedy betont nochmals, dass sie jetzt viele weitere Filme machen werden. Freude. Angst. Gefühlschaos. (via [SuperPunch](http://www.superpunch.net/2012/10/video-of-lucas-talking-about-sale.html))

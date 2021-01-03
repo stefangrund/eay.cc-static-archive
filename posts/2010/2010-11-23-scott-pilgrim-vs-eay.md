@@ -15,7 +15,7 @@ tags:
   - kinolog
   - scott-pilgrim
 meta:
-  - yourls_shorturl: "http://eay.li/12e"
+  - yourls_shorturl: "https://eay.li/12e"
 ---
 
 ![](https://eay.cc/uploads/2010/scottpilgrim1.gif)Die Geschichte von [Scott Pilgrim](http://www.scottpilgrim.com/) und Eay ist eine Geschichte voller Missverständnisse. (([Klassisches Zitat](http://www.youtube.com/watch?v=Wy3e_SjGAUA), viel zu oft genutzt, immer noch gut.)) Einst als [Bryan Lee O'Malley](http://radiomaru.com/)s Comic für mich noch ein unbeschriebenes Blatt war, ließ ich mich durch die durchweg positiven Äußerungen meiner Peergroup davon überzeugen, dass die Abenteuer des jungen Indiana Pilgrim auch meiner einer unterhalten würden. So machte ich mich also auf, deckte mich mit [Band 1](http://www.amazon.de/exec/obidos/ASIN/1932664084/eayznet-21) ein, las ihn auf der Stelle (Hallo Bahnhofsbuchhandlung!) durch und war tatsächlich belustigt. Begeisterung verspürte ich zwar keine, aber doch, das war schon gut und wer weiß, vielleicht würde es ja sogar besser werden? Schnurstracks also die Seite eines allseits bekannten Online-Versandhändlers aufgerufen und - so gar nicht kleckernd - direkt [die restlichen fünf Bände](http://amzn.to/9TeB4X) geordert.

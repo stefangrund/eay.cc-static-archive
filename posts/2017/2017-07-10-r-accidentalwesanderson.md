@@ -16,7 +16,7 @@ tags:
   - wes-anderson
 meta:
   - linked_list_url: "https://www.reddit.com/r/AccidentalWesAnderson/"
-  - yourls_shorturl: "http://eay.li/302"
+  - yourls_shorturl: "https://eay.li/302"
 ---
 
 Grandios: Redditors sammeln Bilder von Orten, die so aussehen, als seien sie Schauplätze eines Wes-Anderson-Films. Bei [My Modern Met](http://mymodernmet.com/accidental-wes-anderson-reddit/) gibt's eine sehenswerte Auswahl aus den zahlreichen Submissions. (via [Yewknee](http://yewknee.com/blog/accidental-wes-anderson/))

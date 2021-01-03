@@ -17,7 +17,7 @@ tags:
   - science-fiction
 meta:
   - linked_list_url: "http://www.hollywoodreporter.com/heat-vision/flash-gordon-movie-works-at-698291"
-  - yourls_shorturl: "http://eay.li/2eu"
+  - yourls_shorturl: "https://eay.li/2eu"
 ---
 
 Nach [Battlestar Galactica](//eay.cc/2014/kino-reboot-von-battlestar-galactica/) soll nun auch endlich der Klassiker schlechthin auf die Leinwand zurückkehren. Jetzt noch Innovation [Barbarella](//eay.cc/2008/barbarella-ba-ba-barbarella/) und ich bin zufrieden.

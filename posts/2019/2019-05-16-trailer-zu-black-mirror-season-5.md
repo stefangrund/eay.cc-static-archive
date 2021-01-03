@@ -17,7 +17,7 @@ tags:
   - technologie
   - trailer
 meta:
-  - yourls_shorturl: "http://eay.li/3aa"
+  - yourls_shorturl: "https://eay.li/3aa"
 ---
 
 \[youtube id="2bVik34nWws"\]

@@ -11,7 +11,7 @@ tags:
   - netzkultur
   - wikipedia
 meta:
-  - yourls_shorturl: "http://eay.li/k2"
+  - yourls_shorturl: "https://eay.li/k2"
 ---
 
 Die folgende Grafik veranschaulicht anhand der Länge verschiedener gleichnamiger [Wikipedia](http://de.wikipedia.org/)\-Artikel, worauf die freie Enzyklopädie ihr eigentliches Hauptaugenmerk legt (und warum wir sie so toll finden):

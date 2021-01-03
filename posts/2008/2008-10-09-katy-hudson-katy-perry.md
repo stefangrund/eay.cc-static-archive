@@ -13,7 +13,7 @@ tags:
   - katy-perry
   - output
 meta:
-  - yourls_shorturl: "http://eay.li/oq"
+  - yourls_shorturl: "https://eay.li/oq"
 ---
 
 [![](/uploads/2008/slutup_perry.jpg)](http://eay.cc//uploads/2008/slutup_perry_big.jpg)

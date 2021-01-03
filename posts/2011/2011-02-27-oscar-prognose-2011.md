@@ -15,7 +15,7 @@ tags:
   - oscars
   - wetten
 meta:
-  - yourls_shorturl: "http://eay.li/160"
+  - yourls_shorturl: "https://eay.li/160"
 ---
 
 ![](https://eay.cc/uploads/2010/oscar.jpg)Heute Abend finden im Kodak Theatre in Hollywood die [83rd Academy Awards](http://en.wikipedia.org/wiki/83rd_Academy_Awards) statt. Und natürlich werde auch ich wieder die ganze Nacht vor dem Fernsehgerät sitzen und den Stars und Sternchen beim über den Teppich schreiten, die Bühne emporklimmen und beim Dankesreden halten zusehen (die Liveberichterstattung startet im hiesigen Fernsehen am Montag um 1:10 Uhr auf Pro7).

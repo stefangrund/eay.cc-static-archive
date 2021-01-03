@@ -16,7 +16,7 @@ tags:
   - weihnachten
 meta:
   - linked_list_url: "http://realvirtuality.wordpress.com/2013/11/30/film-blog-group-hug-2-ein-adventskalender/"
-  - yourls_shorturl: "http://eay.li/2a1"
+  - yourls_shorturl: "https://eay.li/2a1"
 ---
 
 Alex von [Real Virtuality](http://realvirtuality.wordpress.com/) hatte im September den ersten [Film Blog Group Hug](http://realvirtuality.wordpress.com/2013/09/14/film-blog-group-hug-die-filme-des-sommers/) ausgerufen, bei dem er einige Filmblogger nach ihrem liebsten Sommer-Blockbuster gefragt hat. Der Group Hug geht heute in die zweite Runde, diesmal in Form eines Adventskalenders, bei dem sich 24 Filmblogger vorstellen und Geschenktipps für's kurz bevorstehende Weihnachtsfest geben.

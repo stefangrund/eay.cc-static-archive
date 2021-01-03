@@ -16,7 +16,7 @@ tags:
   - technologie
 meta:
   - linked_list_url: "http://www.j-bradford-delong.net/movable_type/2003_archives/000032.html"
-  - yourls_shorturl: "http://eay.li/2ez"
+  - yourls_shorturl: "https://eay.li/2ez"
 ---
 
 > It wasn´t that we intended to build a search engine. We built a ranking system to deal with annotations. We wanted to annotate the web – build a system so that after you´d viewed a page you could click and see what smart comments other people had about it. But how do you decide who gets to annotate Yahoo? We needed to figure out how to choose which annotations people should look at, which meant that we needed to figure out which other sites contained comments we should classify as authoritative. Hence PageRank.

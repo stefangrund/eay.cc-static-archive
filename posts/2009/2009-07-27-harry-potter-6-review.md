@@ -15,7 +15,7 @@ tags:
   - kinolog
   - sequel
 meta:
-  - yourls_shorturl: "http://eay.li/da"
+  - yourls_shorturl: "https://eay.li/da"
 ---
 
 ![](/uploads/2009/harrypotter6.jpg)Mein erster Harry Potter, Teil 5, konnte mich [vor zwei Jahren](//eay.cc/2007/harry-potter-und-der-gahner-des-eay/) nicht wirklich überzeugen. Damals schrieb ich, dass der Film "erwartungsgemäß nur für Fans respektive Kenner der Materie und weniger als Standalone-Film für Potter-Noobs geeignet" sei und war von der narrativen Langatmigkeit und dem unspektakulären Showdown bestenfalls gelangweilt. Seitdem hat sich viel getan: In den vergangenen Wochen habe ich durch weibliche Initiative und zur Vorbereitung auf [Harry Potter und der Halbblutprinz](http://www.imdb.de/title/tt0417741/) sämtliche Potter-Filme erstmals bzw. Teil 5 erneut gesehen. Und es ist natürlich wie mit allen großen Geschichten: wenn man Ausgangspositionen, Zusammenhänge und Motivationen kennt, wird die Handlung packender. So auch geschehen bei Harry Potter und mir. ((Auch wenn gerade die Filme unter [Chris Columbus](http://www.imdb.com/name/nm0001060/), der auch für die unsäglichen [Fantastic Four](//eay.cc/2007/ruin-of-the-silver-surfer/)\-Verfilmungen mitverantwortlich war, harte Kost sind...)) Jetzt wo ich weiß, wo die Reise ungefähr hingeht, was Gryffindor und wer Tom Riddle ist und was es mit den Dementoren auf sich hat, interessiert mich das Treiben von Harry, Hermine und Ron ((... und natürlich Neville!)) natürlich umso mehr, so dass ich schließlich auch wirklich auf "den Halbblutprinz" gespannt war.

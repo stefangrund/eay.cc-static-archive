@@ -15,7 +15,7 @@ tags:
   - oscars
   - wetten
 meta:
-  - yourls_shorturl: "http://eay.li/2rt"
+  - yourls_shorturl: "https://eay.li/2rt"
 ---
 
 ![](https://eay.cc/uploads/2010/oscar.jpg)Es ist mal wieder soweit: Im Dolby Theatre in Los Angeles werden heute die [88\. Academy Awards](https://en.wikipedia.org/wiki/88th_Academy_Awards) verliehen. Zeit für meine alljährliche Oscar-Prognose! ((Leider ohne mir dabei, wie in den wilden Studentenzeiten, die Nacht mit Bier und Live-Twittern um die Ohren zu schlagen, aber hey, that’s life.)) [Im vorletzten Jahr](//eay.cc/2014/oscar-prognose-2014/) erzielte ich mit 19 von 24 Kategorien meinen bisherigen Highscore. [Im letzten Jahr](//eay.cc/2015/oscar-prognose-2015/) waren’s immerhin 16 richtige Tipps. Mal sehen, wie's dieses Jahr läuft. ((Auf [Oscar-Picks.com](http://oscar-picks.com/) von [@TheRealBaker](https://twitter.com/TheRealBaker) kann man sich wie schon in den letzten Jahren wieder mit Deutschlands twitternden Filmfreunde (und mir) messen, falls noch jemand eine Prognose wagen will.))

@@ -14,7 +14,7 @@ tags:
   - rock-am-ring
   - urlaub
 meta:
-  - yourls_shorturl: "http://eay.li/l6"
+  - yourls_shorturl: "https://eay.li/l6"
 ---
 
 Same procedure as [every](//eay.cc/2007/rockender-ring-ich-komme/) [year](//eay.cc/2008/ich-bin-dann-mal-rocken/): Die nächsten Tage verbringe ich am Ring. Das heißt, dass ihr, sofern ihr nicht auf eure tägliche Portion Eay verzichten möchtet, [bei Twitter](http://twitter.com/Eay) mitlesen könnt, welche Band ich total schnieke fand oder was wir gerade auf dem Grill haben. Eventuell sogar live und in Farbe fotodokumentiert per [Twitpic](http://twitpic.com/photos/Eay) und [flickr](http://www.flickr.com/photos/eay/). (Wer jetzt schon einen Information overflow erleidet, beschränkt sich vielleicht besser auf meinen [Lifestream bei friendfeed](http://friendfeed.com/eayz), der alle Services zusammenfasst). In diesem Sinne: Eay out. Bis dann & rock on!

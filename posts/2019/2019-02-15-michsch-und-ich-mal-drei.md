@@ -14,7 +14,7 @@ tags:
   - fotos
 meta:
   - content_copy: "https://www.instagram.com/p/Bt6G7wUnbTn/"
-  - yourls_shorturl: "http://eay.li/394"
+  - yourls_shorturl: "https://eay.li/394"
   - content_copy: "https://twitter.com/eay/status/1096436176142118912"
 ---
 

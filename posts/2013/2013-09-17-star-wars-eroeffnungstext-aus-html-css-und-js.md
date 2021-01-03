@@ -16,7 +16,7 @@ tags:
   - webdesign
 meta:
   - linked_list_url: "http://timpietrusky.com/star-wars-opening-crawl-from-1977"
-  - yourls_shorturl: "http://eay.li/27f"
+  - yourls_shorturl: "https://eay.li/27f"
 ---
 
 [Tim Pietrusky](http://timpietrusky.com/), ein Webentwickler aus Frankfurt, hat den [Star Wars Opening Crawl](https://en.wikipedia.org/wiki/Star_Wars_opening_crawl) mit den Sprachen des Webs umgesetzt. Für viele mag das marginal aussehen, aber wenn man damit auskennt, ist das wirklich beeindruckend. (via [Kottke](http://kottke.org/13/09/star-wars-opening-crawl-done-with-htmlcss))

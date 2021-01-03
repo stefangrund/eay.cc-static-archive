@@ -24,7 +24,7 @@ tags:
   - trailer
   - web-development
 meta:
-  - yourls_shorturl: "http://eay.li/2ro"
+  - yourls_shorturl: "https://eay.li/2ro"
 ---
 
 Wenn ihr schon länger in diesen ominösen Social-Web-Gefilden unterwegs seid, werdet ihr euch an [del.icio.us](http://del.icio.us) erinnern, einen Bookmarking-Dienst, der zusammen mit flickr Vorbild- und Paradebeispiel für das gesamte Web 2.0 gewesen ist. Wie flickr hat sich Yahoo irgendwann auch del.icio.us einverleibt und den Dienst damit quasi zu Grabe getragen. Die coolen Kids setzen seitdem auf das kostenpflichtige, ebenfalls designfreie [Pinboard](https://pinboard.in/), del.icio.us, das dann irgendwann zu delicious.com _umbenannt_ wurde, fandt und findet quasi gar nicht mehr statt.

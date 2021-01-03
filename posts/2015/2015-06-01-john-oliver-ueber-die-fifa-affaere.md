@@ -16,7 +16,7 @@ tags:
   - kriminalitat
   - sport
 meta:
-  - yourls_shorturl: "http://eay.li/2od"
+  - yourls_shorturl: "https://eay.li/2od"
 ---
 
 [John Oliver](http://en.wikipedia.org/wiki/John_Oliver_%28comedian%29), der sich ja bereits letztes Jahr über [die Machenschaften der FIFA](//eay.cc/2014/die-machenschaften-der-fifa/) ausließ, hat nach den aktuellen Geschehnissen nochmal nachgelegt:

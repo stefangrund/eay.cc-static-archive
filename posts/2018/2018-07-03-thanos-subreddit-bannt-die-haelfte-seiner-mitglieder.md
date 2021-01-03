@@ -17,7 +17,7 @@ tags:
   - reddit
 meta:
   - linked_list_url: "https://www.theverge.com/2018/7/3/17530668/thanos-subreddit-avengers-infinity-war"
-  - yourls_shorturl: "http://eay.li/35s"
+  - yourls_shorturl: "https://eay.li/35s"
 ---
 
 > Once mostly a place for jokes, memes, and chatter about the mad Titan’s ideologies, the more than 200,000 members of [r/ThanosDidNothingWrong](https://www.reddit.com/r/thanosdidnothingwrong/) have turned their attention to fulfilling a one-off joke that will decimate their community: randomly banning half of their members. Today, a moderator announced that they’d finally [received permission](https://www.reddit.com/user/The-Jedi-Apprentice/comments/8vtlhi/hey_everyone_im_here_to_tell_you_all_some_good/?st=JJ6798X5&sh=a22bf362) from the subreddit’s administrators.

@@ -13,7 +13,7 @@ tags:
   - nonsens
   - your-favorite-tumblr-for-the-next-5-minutes
 meta:
-  - yourls_shorturl: "http://eay.li/1sn"
+  - yourls_shorturl: "https://eay.li/1sn"
 ---
 
 ![](https://eay.cc/uploads/2013/tfpiot.jpg) [Things Fitting Perfectly Into Other Things](http://thingsfittingperfectlyintothings.tumblr.com/) - Ein Tumblelog voller Dinge, die eigentlich nicht zusammengehören, aber auf wundersame Weise dennoch perfekt ineinander passen. Wunderschön. (via [Laughing Squid](http://laughingsquid.com/things-fitting-perfectly-into-other-things/))

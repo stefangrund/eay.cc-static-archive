@@ -16,7 +16,7 @@ tags:
   - pixelart
   - simpsons
 meta:
-  - yourls_shorturl: "http://eay.li/2mv"
+  - yourls_shorturl: "https://eay.li/2mv"
 ---
 
 > "Pixel art is not real art"

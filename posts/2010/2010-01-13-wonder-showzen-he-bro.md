@@ -16,7 +16,7 @@ tags:
   - parodie
   - serien
 meta:
-  - yourls_shorturl: "http://eay.li/d8"
+  - yourls_shorturl: "https://eay.li/d8"
 ---
 
 ![](https://eay.cc/uploads/2010/hebro.jpg) Ich tauche gerade in den audiovisuellen Untiefen, der mir bis dato vollkommen unbekannten MTV-Serie [Wonder Showzen](http://en.wikipedia.org/wiki/Wonder_Showzen). Ziemlich verrückt, aber bisher gefällt's mir doch sehr gut. Ich meine, wie könnte mir eine Show, die uns einen schwarzen, jüdischen [He-Man](//eay.cc/tag/he-man/) namens He-Bro präsentiert, der seine Gegner auf ekelhafteste Art und Weise mit seinen Muskeln bekämpft, auch nicht gefallen? Genau.

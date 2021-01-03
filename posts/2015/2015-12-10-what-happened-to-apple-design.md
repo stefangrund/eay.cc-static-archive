@@ -11,7 +11,7 @@ categories:
   - 0815
 meta:
   - linked_list_url: "http://www.theverge.com/2015/12/8/9872746/apple-bad-hardware-design-iphone-case-pencil-magic-mouse"
-  - yourls_shorturl: "http://eay.li/2rf"
+  - yourls_shorturl: "https://eay.li/2rf"
 ---
 
 > Where Apple design chief Jony Ive and crew may have seen a practical way to improve the devices' longevity, the rest of the world saw a terribly designed case — one that makes your smartphone look as if it's undergoing some type of painful evolution into a crappier product.

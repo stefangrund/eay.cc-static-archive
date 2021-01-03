@@ -16,7 +16,7 @@ tags:
   - technologie
   - wwdc
 meta:
-  - yourls_shorturl: "http://eay.li/1j3"
+  - yourls_shorturl: "https://eay.li/1j3"
 ---
 
 Apple hat bekanntlich gestern im Rahmen der eröffnenden [WWDC-Keynote](http://www.apple.com/apple-events/june-2012/) neue MacBooks vorgestellt. Was gut ist, denn eigentlich brauche ich ein neues MacBook. Meinem 2009er MacBook Pro ist sein Alter nämlich so langsam anzumerken - nicht bei alltäglichen Aufgaben, sondern bei 3D-Spielereien mit 3ds Max, hochauflösender Videoschneiderei und Diablo 3. Zunächst schien es also keine Frage zu sein, das alte 13-Zoller durch ein neues zu ersetzen. Doch dann tauchte ich einmal mehr in die Tiefen der [technischen Details](http://www.apple.com/de/macbook-pro/specs/13-and-15-inch/) ein.

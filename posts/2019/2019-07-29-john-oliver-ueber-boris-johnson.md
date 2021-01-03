@@ -16,7 +16,7 @@ tags:
   - john-oliver
   - uk
 meta:
-  - yourls_shorturl: "http://eay.li/3av"
+  - yourls_shorturl: "https://eay.li/3av"
   - geo_latitude: "50.973958960906"
   - geo_longitude: "6.6830698406166"
   - geo_public: "1"

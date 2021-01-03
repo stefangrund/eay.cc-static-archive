@@ -14,7 +14,7 @@ tags:
   - smartphones
   - zukunft
 meta:
-  - yourls_shorturl: "http://eay.li/34n"
+  - yourls_shorturl: "https://eay.li/34n"
 ---
 
 Der Science-Fiction-Autor [David Gerrold](https://en.wikipedia.org/wiki/David_Gerrold) wurde 1999 gebeten für das "Sm@rt Reseller"-Magazin eine kurze Einschätzung zur "Future of Computing" zu geben und traf damit, wie sich 19 Jahre später herausstellt, voll ins Schwarze, was Technik, Anwendungsfälle und Datenschutz angeht:

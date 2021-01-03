@@ -15,7 +15,7 @@ tags:
   - newsletter
 meta:
   - linked_list_url: "https://medium.com/message/tiny-letters-to-the-web-we-miss-6a695a6316c"
-  - yourls_shorturl: "http://eay.li/2hb"
+  - yourls_shorturl: "https://eay.li/2hb"
 ---
 
 [Joanne McNeil](http://joannemcneil.com/) darüber, wie Newsletter, allen voran solche, die per [TinyLetter](http://tinyletter.com/) realisiert werden, klassisches Bloggen wiederbelebt haben. Und [Webringe](https://de.wikipedia.org/wiki/Webring).

@@ -15,7 +15,7 @@ tags:
   - recut
   - star-wars
 meta:
-  - yourls_shorturl: "http://eay.li/2fk"
+  - yourls_shorturl: "https://eay.li/2fk"
 ---
 
 [Jason Kottke berichtete gestern](http://kottke.org/14/05/star-wars-prequels-recut) über diesen 2 Stunden und 45 Minuten langen Recut, der auf dem 85 Minuten kurzen Prequel-Zusammenschnitt von [Topher Grace](http://www.imdb.com/name/nm0333410/) (Eric Forman aus »That '70s Show«) basiert. Hört auf den Mann:

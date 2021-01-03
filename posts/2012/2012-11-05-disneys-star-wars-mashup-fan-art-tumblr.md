@@ -21,7 +21,7 @@ tags:
   - star-wars
   - tumblr
 meta:
-  - yourls_shorturl: "http://eay.li/1or"
+  - yourls_shorturl: "https://eay.li/1or"
 ---
 
 [![](https://eay.cc/uploads/2012/disneysstarwars.gif)](http://disneysstarwars.tumblr.com/)

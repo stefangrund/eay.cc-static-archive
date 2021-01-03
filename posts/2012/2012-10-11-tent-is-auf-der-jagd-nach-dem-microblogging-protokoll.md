@@ -15,7 +15,7 @@ tags:
   - tent
   - twitter
 meta:
-  - yourls_shorturl: "http://eay.li/1na"
+  - yourls_shorturl: "https://eay.li/1na"
 ---
 
 [Isger](http://www.hanseat-unik.at/) hat mich gestern [bei Twitter gefragt](https://twitter.com/hanseatunikat/status/255982228612448256), was ich von [Tent.is](https://tent.is/)/[.io](http://tent.io/) ((Tent.is ist die Webseite des Tent-Hosts, Tent.io die des Protokolls. Verwirrend.)), dem neuen Stern am Microblogging-Himmel, halte. Der Idealist in mir findet die Idee dahinter großartig und goldrichtig: Anstatt wie bei [Twitter](//eay.cc/tag/twitter/) und [App.net](//eay.cc/tag/app-net/) auf die Infrastruktur eines zentralen Anbieters zu setzen, benutzt Tent.is ein dezentrales, Tent genanntes Protokoll, das es jedem ermöglicht, einen eigenen Tent-Host zu betreiben. Tent.is ist, so die Idee, nur einer von vielen Tent-Anbietern, die Nutzer können sich bei beliebigen (noch nicht vorhandenen...) Anbietern anmelden, über das gesamte Netzwerk hinweg miteinander kommunizieren und ihre Daten von Tent-Host X zu Tent-Host Y portieren, falls Tent-Host X einen auf Twitter macht.

@@ -16,7 +16,7 @@ tags:
   - nazis
   - ninja-turtles
 meta:
-  - yourls_shorturl: "http://eay.li/15f"
+  - yourls_shorturl: "https://eay.li/15f"
 ---
 
 In die ruhmreiche und anrüchige Riege der merkwürdigen Nazi-Comics reihen sich nun - nach so famosen Totalausfällen wie [Tyrannosaurus Reich](//eay.cc/2008/tyrannosaurus-reich/) (as seen on Major Bummer) und [Captain Nazi](//eay.cc/2008/der-braune-kapitan/) (as seen on Shazam!) - auch unser aller Kindheitshelden und Lieblingsschildkrötenkrieger: die Teenage Mutant Ninja Turtles. Doch keine Angst, Nazi-Mutanten aus Dimension X bleiben uns erspart. Stattdessen treffen Leonardo, Donatello und Raphael auf "[den bösen Mann mit dem kleinen Bart](http://www.youtube.com/watch?v=UsutUEspT_c)" persönlich.

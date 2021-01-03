@@ -15,7 +15,7 @@ tags:
   - webservice
 meta:
   - linked_list_url: "http://cancelhanger.com/"
-  - yourls_shorturl: "http://eay.li/2cf"
+  - yourls_shorturl: "https://eay.li/2cf"
 ---
 
 Schönes Projekt von [Shaun Inman](http://shauninman.com/), um herauszufinden, ob die Handlung einer Serie zu Ende erzählt wurde oder die Serie vorher abgesetzt wurde. Hat er bereits [im Oktober](http://shauninman.com/archive/2013/10/19/the_cancel_hanger) gestartet, ist da aber nicht auf meinem Radar aufgetaucht.

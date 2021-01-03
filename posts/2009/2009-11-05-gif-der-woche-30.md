@@ -14,7 +14,7 @@ tags:
   - gif-der-woche
   - japan
 meta:
-  - yourls_shorturl: "http://eay.li/ld"
+  - yourls_shorturl: "https://eay.li/ld"
 ---
 
 ![](https://eay.cc/uploads/2009/powerbaby.gif) Das Dragonball-Baby! (thx, [Andi](http://www.andisblog.de/))

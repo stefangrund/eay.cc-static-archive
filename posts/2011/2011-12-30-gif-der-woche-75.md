@@ -14,7 +14,7 @@ tags:
   - harry-potter
   - party
 meta:
-  - yourls_shorturl: "http://eay.li/1dv"
+  - yourls_shorturl: "https://eay.li/1dv"
 ---
 
 ![](https://eay.cc/uploads/2011/partyhard.gif) Das letzte .gif des Jahres mit Dumbledores Tipp für den Silvesterabend.

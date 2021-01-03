@@ -16,7 +16,7 @@ tags:
   - filme
   - star-wars
 meta:
-  - yourls_shorturl: "http://eay.li/185"
+  - yourls_shorturl: "https://eay.li/185"
 ---
 
  [![](https://eay.cc/uploads/2011/wookietalkie.gif) Wookie Talkie](http://www.flickr.com/photos/lishoffs/5740943303/) by [Fabian Gonzalez](http://www.flickr.com/photos/lishoffs/) (via [Laughing Squid](http://laughingsquid.com/wookie-talkie/))

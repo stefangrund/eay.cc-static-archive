@@ -15,7 +15,7 @@ tags:
   - maus
   - microsoft
 meta:
-  - yourls_shorturl: "http://eay.li/l5"
+  - yourls_shorturl: "https://eay.li/l5"
 ---
 
 Vielleicht können sich einige meiner aufmerksamen [Twitter-Verfolger](http://twitter.com/Eay) noch daran erinnern, dass meine [Mighty Mouse](http://www.amazon.de/exec/obidos/ASIN/B000V053O2/eayznet-21/eayznet-21) im November das Zeitliche gesegnet hat (der Laser war fritte, [der Scrollball nach wie vor eins a](//eay.cc/2009/der-uberraschenderweise-einfachste-und-beste-weg-die-mighty-mouse-zu-reinigen/)). Nun brauchte ich möglichst zügig eine neue Maus, die sich bestensfalls problemlos unter Mac OS X und Windows XY nutzen lässt, da ich damals™ noch in beiden Gefilden wandelte. Dass Apple kurze Zeit später die überaus interessante [Magic Mouse](http://www.apple.com/de/magicmouse/) veröffentlichen würde und dass mein Windows-PC sich ebenfalls in die digitalen Jagdgründe verabschieden würde und ich nun ein Mac-only Guy bin, stand zu diesem Zeitpunkt bestenfalls in den Sternen. Schlechtes Timing, nennt man sowas wohl.

@@ -14,7 +14,7 @@ tags:
   - projekte
   - yonks
 meta:
-  - yourls_shorturl: "http://eay.li/395"
+  - yourls_shorturl: "https://eay.li/395"
   - geo_latitude: "52.385831378984"
   - geo_longitude: "4.8468766664768"
   - geo_public: "1"

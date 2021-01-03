@@ -20,7 +20,7 @@ tags:
   - the-dark-knight
   - the-dark-knight-rises
 meta:
-  - yourls_shorturl: "http://eay.li/1ky"
+  - yourls_shorturl: "https://eay.li/1ky"
 ---
 
 ![](https://eay.cc/uploads/2012/thedarkknightrises.jpg)(Für die folgende Rezension gilt eine **leichte Spoiler-Warnung**, da die Ausgangssituation der Handlung beschrieben wird. Also auch nicht mehr als sonst.)

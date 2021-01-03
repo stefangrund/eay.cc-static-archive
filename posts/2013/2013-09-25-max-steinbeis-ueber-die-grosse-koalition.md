@@ -16,7 +16,7 @@ tags:
   - politik
 meta:
   - linked_list_url: "http://www.carta.info/64654/einige-gedanken-am-tag-nach-der-bundestagswahl/"
-  - yourls_shorturl: "http://eay.li/27o"
+  - yourls_shorturl: "https://eay.li/27o"
 ---
 
 > Eine von Union und SPD getragene Regierung könnte sich auf 503 von 630 Sitze stützen – fast eine Vierfünftelmehrheit.

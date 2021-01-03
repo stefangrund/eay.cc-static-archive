@@ -15,7 +15,7 @@ tags:
   - religion
   - sex
 meta:
-  - yourls_shorturl: "http://eay.li/wg"
+  - yourls_shorturl: "https://eay.li/wg"
 ---
 
 Würde ich einen Satz wie "Die Benutzung von Kondomen verschlimmert das Aids-Problem" sagen, würdet ihr mich zu Recht als den größten Vollidioten auf Erden bezeichnen. Wenn das jedoch [ein alter, enthaltsamer (!) Greis sagt](http://www.tagesschau.de/ausland/papstafrika100.html), dann ist das für viele das Wort Gottes.

@@ -16,7 +16,7 @@ tags:
   - privatsphare
 meta:
   - linked_list_url: "https://1.1.1.1/"
-  - yourls_shorturl: "http://eay.li/34k"
+  - yourls_shorturl: "https://eay.li/34k"
   - geo_latitude: "50.973829185125"
   - geo_longitude: "6.683232454818"
   - geo_public: "1"

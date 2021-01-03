@@ -12,7 +12,7 @@ tags:
   - twitter
   - ze-frank
 meta:
-  - yourls_shorturl: "http://eay.li/ow"
+  - yourls_shorturl: "https://eay.li/ow"
 ---
 
 [![](/uploads/2008/greenteam.gif)](http://twitter.com/veryGreenTeam)

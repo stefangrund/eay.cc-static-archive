@@ -14,7 +14,7 @@ tags:
   - kickstarter
   - lernen
 meta:
-  - yourls_shorturl: "http://eay.li/1ye"
+  - yourls_shorturl: "https://eay.li/1ye"
   - linked_list_url: "http://www.kickstarter.com/projects/bravecadet/i-draw-comics-sketchbook-and-reference-guide"
 ---
 

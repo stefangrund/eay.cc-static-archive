@@ -15,8 +15,8 @@ tags:
   - games
   - ios
 meta:
-  - yourls_shorturl: "http://eay.li/22a"
-  - linked_list_url: "http://eay.li/1tp"
+  - yourls_shorturl: "https://eay.li/22a"
+  - linked_list_url: "https://eay.li/1tp"
 ---
 
 Bei Superlevel gibt's [ein lesenswertes Review](http://superlevel.de/spiele/ridiculous-fishing-a-tale-of-redemption/), das auch die, mir bis dahin unbekannte Hintergrundgeschichte des Spiels erzählt.

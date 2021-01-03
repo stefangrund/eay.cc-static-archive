@@ -16,7 +16,7 @@ tags:
   - nintendo-ds
   - zensur
 meta:
-  - yourls_shorturl: "http://eay.li/ai"
+  - yourls_shorturl: "https://eay.li/ai"
 ---
 
 Warum wollen _die_ uns das Leben nur so schwer machen? Warum wollen _die_ uns nur mit ihren Regionalcodes und übertriebenen EU-Preisen für dumm verkaufen? Und wenn es dann ein bisschen [Hoffung](http://lik-sang.com/) gibt, müssen _sie_ sie zerstören!

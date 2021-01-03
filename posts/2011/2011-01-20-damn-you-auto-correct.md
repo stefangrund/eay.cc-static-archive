@@ -16,7 +16,7 @@ tags:
   - iphone
   - konsum
 meta:
-  - yourls_shorturl: "http://eay.li/14n"
+  - yourls_shorturl: "https://eay.li/14n"
 ---
 
-[![](https://eay.cc/uploads/2011/damnyouautocorrect.gif)](http://eay.li/14m)
+[![](https://eay.cc/uploads/2011/damnyouautocorrect.gif)](https://eay.li/14m)

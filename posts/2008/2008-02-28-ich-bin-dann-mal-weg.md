@@ -12,7 +12,7 @@ tags:
   - pause
   - urlaub
 meta:
-  - yourls_shorturl: "http://eay.li/q2"
+  - yourls_shorturl: "https://eay.li/q2"
 ---
 
 Erwartet über's Wochenende keine Updates. Zwar nehme ich den iPod Touch mit und wenn das Hotel WLAN hat, dann wird sich das wohl nur auf [mein Twitter-Dingen](http://twitter.com/Eay) beschränken. In der Zwischenzeit sind unsere sonst sehenswerten [Links](http://eay.cc/links/) noch sehenswerter. Bis +/- Sonntag.

@@ -15,7 +15,7 @@ tags:
   - serienkiller
   - twist
 meta:
-  - yourls_shorturl: "http://eay.li/37"
+  - yourls_shorturl: "https://eay.li/37"
 ---
 
 ![](/uploads/2009/kurzerprozess.jpg)Damit ich die [51 Kinobesuche von 2008](//eay.cc/2008/kino-statistik-2008/) in diesem Jahr noch toppen kann, sind die Freundin und ich Neujahr direkt ins Kino marschiert. Und seien wir ehrlich: nach [diesem](//eay.cc/2008/1-12-ritter-zuviel/) grausigen Paradebeispiel für "Exkrementenkino" ([SEO-Battle](//eay.cc/2008/der-kampf-der-kampfe/ "Exkrementenfernsehen") anyone?) hätte mich jeder Film versöhnlich gestimmt, bei dem die Schauspieler zwei Sätze fehlerfrei vortragen können. Wenn es sich dabei dann auch noch um die Altherren Al Pacino und Robert De Niro handelt - noch besser. Nachdem die beiden also vor dreizehn Jahren in [Heat](http://www.amazon.de/exec/obidos/ASIN/B00004RYVX/eayznet-21) das erste Mal aufeinander trafen, ist es nun mit Jon Avnets Serienkiller-Hatz [Kurzer Prozess - Righteous Kill](http://www.imdb.com/title/tt1034331/) zum dritten Mal soweit.

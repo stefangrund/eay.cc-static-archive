@@ -14,7 +14,7 @@ tags:
   - technologie
   - ted-nelson
 meta:
-  - yourls_shorturl: "http://eay.li/2zn"
+  - yourls_shorturl: "https://eay.li/2zn"
 ---
 
 > The good news about computers is that they do what you tell them to do. The bad news is that they do what you tell them to do.

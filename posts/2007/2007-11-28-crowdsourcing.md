@@ -11,7 +11,7 @@ tags:
   - analogleben
   - crowdsourcing
 meta:
-  - yourls_shorturl: "http://eay.li/56"
+  - yourls_shorturl: "https://eay.li/56"
 ---
 
 Ich glaube an die [Weisheit der Vielen](http://de.wikipedia.org/wiki/Die_Weisheit_der_Vielen). Von daher: Ich brauch mal bitte **insgesamt** sechs Zahlen zwischen 1 und 49. Der sichere Erlös von 30 Millionen fließt natürlich allen voran in diese Webseite (und somit an euch!) zurück. Eure Zahl nehme ich dankbar [hier entgegen](//eay.cc/2007/crowdsourcing/).

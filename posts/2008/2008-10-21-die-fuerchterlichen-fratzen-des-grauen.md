@@ -18,7 +18,7 @@ tags:
   - usa
   - wahlkampf
 meta:
-  - yourls_shorturl: "http://eay.li/fk"
+  - yourls_shorturl: "https://eay.li/fk"
 ---
 
 ![](/uploads/2008/halloween_palin.jpg "Halloween masks by Ethan Persoff

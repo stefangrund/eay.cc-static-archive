@@ -18,7 +18,7 @@ tags:
   - trailer
   - weihnachten
 meta:
-  - yourls_shorturl: "http://eay.li/1ds"
+  - yourls_shorturl: "https://eay.li/1ds"
 ---
 
 Da das diesjährige Weihnachtsprogramm bis auf die siebenunddreißigtausendste »Stirb Langsam«-Wiederholung nicht allzu viel zu bieten hat, müssen wir uns halt wieder in den Cyberspace flüchten (was, nebenbei gesagt, auch vielmehr unserer total ausgelutschten Aufmerksamkeitsspanne entspricht). Wie passend also, dass folgender Fake-Trailer mit allem daherkommt, was wir an Weihnachten (und nicht nur da) so lieben: iPhones und Horrorfilme. (via [/film](http://www.slashfilm.com/lol-siri-holiday-horror-movie/))

@@ -19,7 +19,7 @@ tags:
   - zensur
 meta:
   - linked_list_url: "http://www.spiegel.de/netzwelt/netzpolitik/urheberrecht-die-alles-mitmach-partei-spd-a-1256527.html"
-  - yourls_shorturl: "http://eay.li/39d"
+  - yourls_shorturl: "https://eay.li/39d"
   - geo_latitude: "50.973853728182"
   - geo_longitude: "6.6831783410871"
   - geo_public: "1"

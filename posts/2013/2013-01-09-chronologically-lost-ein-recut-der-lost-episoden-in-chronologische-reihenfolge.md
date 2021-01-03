@@ -16,7 +16,7 @@ tags:
   - lost
   - recut
 meta:
-  - yourls_shorturl: "http://eay.li/21c"
+  - yourls_shorturl: "https://eay.li/21c"
   - linked_list_url: "http://www.chronologicallylost.com/"
 ---
 

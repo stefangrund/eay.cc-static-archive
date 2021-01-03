@@ -16,7 +16,7 @@ tags:
   - konsum
   - netzkultur
 meta:
-  - yourls_shorturl: "http://eay.li/17c"
+  - yourls_shorturl: "https://eay.li/17c"
 ---
 
 ![](https://eay.cc/uploads/2011/iphonetracker.gif) (via [Stefans iPhone 4](http://petewarden.github.com/iPhoneTracker/))

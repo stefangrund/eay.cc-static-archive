@@ -14,7 +14,7 @@ tags:
   - the-oatmeal
   - webcomic
 meta:
-  - yourls_shorturl: "http://eay.li/1wj"
+  - yourls_shorturl: "https://eay.li/1wj"
   - linked_list_url: "http://theoatmeal.com/comics/music_industry"
 ---
 

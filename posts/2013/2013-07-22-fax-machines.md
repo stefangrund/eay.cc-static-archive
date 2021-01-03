@@ -14,7 +14,7 @@ tags:
   - webcomic
 meta:
   - linked_list_url: "http://www.geekculture.com/joyoftech/joyarchives/1876.html"
-  - yourls_shorturl: "http://eay.li/25k"
+  - yourls_shorturl: "https://eay.li/25k"
 ---
 
 [![](https://eay.cc/uploads/2013/faxmachines.gif)](http://www.geekculture.com/joyoftech/joyarchives/1876.html)

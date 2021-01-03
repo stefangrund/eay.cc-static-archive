@@ -16,7 +16,7 @@ tags:
   - star-trek
   - trailer
 meta:
-  - yourls_shorturl: "http://eay.li/20q"
+  - yourls_shorturl: "https://eay.li/20q"
   - linked_list_url: "http://trailers.apple.com/trailers/paramount/startrekintodarkness/"
 ---
 

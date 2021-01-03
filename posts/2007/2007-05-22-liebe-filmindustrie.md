@@ -13,7 +13,7 @@ tags:
   - grindhouse
   - transformers
 meta:
-  - yourls_shorturl: "http://eay.li/ah"
+  - yourls_shorturl: "https://eay.li/ah"
 ---
 
 [Clerks 2](http://www.imdb.com/title/tt0424345/) lief am 21. Juli 2006 in den USA an. Hier hingegen kommt der Film [am 12. Juli 2007](http://www.abspannsitzenbleiber.de/2007/05/22/clerks-ii-kommt-doch-noch/) in die Kinos - ein Jahr zuspät später. Als [Import](http://www.amazon.de/exec/obidos/ASIN/B000KRNMMG/eayznet-21) usw. natürlich schon längst zu haben.

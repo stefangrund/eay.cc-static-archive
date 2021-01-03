@@ -19,7 +19,7 @@ tags:
   - web-2-0
   - webservice
 meta:
-  - yourls_shorturl: "http://eay.li/22d"
+  - yourls_shorturl: "https://eay.li/22d"
   - linked_list_url: "http://www.cracked.com/video_18540_internet-party-why-nobody-gets-anything-done-web.html"
 ---
 

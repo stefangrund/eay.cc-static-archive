@@ -15,7 +15,7 @@ tags:
   - weezer
   - windows
 meta:
-  - yourls_shorturl: "http://eay.li/1ed"
+  - yourls_shorturl: "https://eay.li/1ed"
 ---
 
 war, dass auf der Installations-CD das Video von Weezers "Buddy Holly" drauf war.

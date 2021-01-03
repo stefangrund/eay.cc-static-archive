@@ -14,7 +14,7 @@ tags:
   - paul-robertson
   - pixelart
 meta:
-  - yourls_shorturl: "http://eay.li/34"
+  - yourls_shorturl: "https://eay.li/34"
 ---
 
 Ich bin ja ein großer Freund von Pixel-Kunst jeder Art und älterer 2D-Pixel-Videospiele wie [Metal Slug](http://de.wikipedia.org/wiki/Metal_Slug) (( War ja klar: Gerade erscheint [Metal Slug 1](http://en.wikipedia.org/wiki/Metal_Slug) für die Virtual Console, da habe ich meine Wii verliehen. Na ja, bleibt mir immer noch [Teil 3](http://en.wikipedia.org/wiki/Metal_Slug_3) für die Xbox.)) & Co. Klar, dass ich auch schon immer die Arbeiten von [Paul Robertson](http://probertson.livejournal.com/) gut fand (ich könnte schwören, ich hätte den Mann schon mal verlinkt, aber ich kann nichts finden).

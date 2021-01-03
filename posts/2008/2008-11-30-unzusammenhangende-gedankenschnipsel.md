@@ -15,7 +15,7 @@ tags:
   - iphone
   - mtv
 meta:
-  - yourls_shorturl: "http://eay.li/xr"
+  - yourls_shorturl: "https://eay.li/xr"
 ---
 
 die vor allem dem Zweck dienen, diesem Blog Inhalt einzuhauchen:

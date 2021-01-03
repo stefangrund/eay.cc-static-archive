@@ -16,7 +16,7 @@ tags:
   - privatsphare
   - ueberwachung
 meta:
-  - yourls_shorturl: "http://eay.li/29r"
+  - yourls_shorturl: "https://eay.li/29r"
 ---
 
 > Es geht nicht mehr um die Frage, wie entfalten wir uns, sondern um die Frage, wie schaffen wir es, nicht aufzufallen? Das ist das Gegenteil von Freiheit.

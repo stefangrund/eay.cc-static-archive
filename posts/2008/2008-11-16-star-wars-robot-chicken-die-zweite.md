@@ -15,7 +15,7 @@ tags:
   - star-wars
   - trailer
 meta:
-  - yourls_shorturl: "http://eay.li/8a"
+  - yourls_shorturl: "https://eay.li/8a"
 ---
 
 Nachdem sich Seth Greens Puppentheater "Robot Chicken" [bereits im letzten Jahr](//eay.cc/2007/the-force-is-strong-with-this-chicken/) dem Krieg der Sterne annahm, wird heute die langerwartete Episode II im US-Fernsehen ausgestrahlt. Und damit unsere raubkopierenden Leser (ich hab euch genau deswegen trotzdem lieb!) den amerikanischen Zuschauern in nichts nachstehen, hier vier Promospots zum warm werden:

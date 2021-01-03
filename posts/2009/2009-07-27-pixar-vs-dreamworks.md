@@ -15,7 +15,7 @@ tags:
   - filme
   - pixar
 meta:
-  - yourls_shorturl: "http://eay.li/xu"
+  - yourls_shorturl: "https://eay.li/xu"
 ---
 
 Keine Ahnung, wo mir die folgende Grafik, die den Arbeitsprozess von [Pixar](http://en.wikipedia.org/wiki/Pixar) und [Dreamsworks Animation](http://en.wikipedia.org/wiki/DreamWorks_Animation) zeigt, neulich wieder über den Weg gelaufen ist, aber sie ist einfach zu großartig und zu wahr, um sie nicht auch zu bringen:

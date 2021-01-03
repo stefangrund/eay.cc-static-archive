@@ -16,7 +16,7 @@ tags:
   - superhelden
   - tiere
 meta:
-  - yourls_shorturl: "http://eay.li/cq"
+  - yourls_shorturl: "https://eay.li/cq"
 ---
 
 ![](/uploads/2009/bolt.jpg)Wann immer ein neuer [Pixar](//eay.cc/tag/pixar/)\-Film in die Kinos kommt, regnet es Vorschusslorbeeren: die Geschichte ist traumhaft, die Figuren liebenswert und es sieht fantastisch aus - Eltern wie Kinder sind begeistert. Lange bevor es Computeranimation und Pixar gab, wehte dieser filmische Feenstaub um die Firma Disney. Seitdem ist bekanntlich viel Zeit vergangen und in den letzten zehn Jahren waren die _wirklich guten_ Disney-Filme von Pixar. Also machen nun auch die [Walt Disney Animation Studios](http://www.disneyanimation.com/) unabhängig von Pixar CGI-Filme. Nach _Meet the Robinsons_, zu dessen Sichtung ich keine Lust habe und daher nichts zu sagen kann, kam dieser Tage nun [Bolt - Ein Hund für alle Fälle](http://www.imdb.com/title/tt0397892/) in die Kinos. Nix Pixar, aber vielleicht ja trotzdem sehenswert?

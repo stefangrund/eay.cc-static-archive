@@ -16,7 +16,7 @@ tags:
   - retro
   - sega
 meta:
-  - yourls_shorturl: "http://eay.li/2t"
+  - yourls_shorturl: "https://eay.li/2t"
 ---
 
 ![](https://eay.cc/uploads/2009/mdportabledeluxe.jpg) Die Mega Drive-Liebhaber unter euch erinnern sich sicherlich [an das Mega Drive-Handheld](//eay.cc/2008/mega-drive-portable/), das letztes Jahr die Runde machte und zu Weihnachten [auch](//eay.cc/2008/mega-drive-portable-bei-aldi/) in unser aller Aldi verkauft wurde. Von der Idee bin ich nach wie vor begeistert: ein [Gameboy Micro](http://de.wikipedia.org/w/index.php?title=Datei:Game_Boy_Micro.jpg&filetimestamp=20070319075214)\-ähnliches Gadget, das mir unterwegs das Zocken der alten Mega Drive-Klassiker ermöglicht - hui, das wär was.

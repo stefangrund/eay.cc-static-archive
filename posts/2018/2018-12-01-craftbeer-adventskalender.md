@@ -18,7 +18,7 @@ meta:
   - geo_latitude: "50.97384203115"
   - geo_longitude: "6.6831443515245"
   - geo_public: "1"
-  - yourls_shorturl: "http://eay.li/387"
+  - yourls_shorturl: "https://eay.li/387"
 ---
 
 ![](https://eay.cc/uploads/2018/craftbeer-adventskalender.jpeg)

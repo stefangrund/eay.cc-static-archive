@@ -14,7 +14,7 @@ tags:
   - liveticker
   - oscars
 meta:
-  - yourls_shorturl: "http://eay.li/m3"
+  - yourls_shorturl: "https://eay.li/m3"
 ---
 
 Freunde der (Oscar-)Nacht, in rund einer Stunde beginnen die diesjährigen [82\. Academy Awards](http://en.wikipedia.org/wiki/82nd_Academy_Awards). Wie bereits vielerorts zu lesen war, haben sich einige Twitterinos und Twitterettes rund um @[peternoster](http://twitter.com/peternoster) zusammen gefunden und berichten live und in 140 farbigen Zeichen von der Nacht der Nächte. Und was wir weltbewegendes zu sagen haben, könnt ihr [hier bei Mostly Movies](http://www.peter-noster.de/wordpress/2010-03-07/oscars-2010-liveblogging) oder der entsprechenden [Twitter-Liste](http://twitter.com/peternoster/oscars2010) nachlesen. (Garantiert ohne Fünf-Sekunden-Delay.)

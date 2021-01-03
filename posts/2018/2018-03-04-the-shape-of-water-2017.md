@@ -16,7 +16,7 @@ tags:
   - kinolog
   - oscar-nominiert
 meta:
-  - yourls_shorturl: "http://eay.li/33z"
+  - yourls_shorturl: "https://eay.li/33z"
   - content_copy: "https://twitter.com/eay/status/970316512828551170"
 ---
 

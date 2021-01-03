@@ -20,7 +20,7 @@ tags:
 meta:
   - content_copy: "https://www.instagram.com/p/BfQO_ZRFoVF/"
   - content_copy: "https://twitter.com/eay/status/964439389240807426"
-  - yourls_shorturl: "http://eay.li/33r"
+  - yourls_shorturl: "https://eay.li/33r"
 ---
 
 ![](https://eay.cc/uploads/2018/vuejsamsterdam.jpeg)

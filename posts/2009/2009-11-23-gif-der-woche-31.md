@@ -13,7 +13,7 @@ tags:
   - gif-der-woche
   - tiere
 meta:
-  - yourls_shorturl: "http://eay.li/m2"
+  - yourls_shorturl: "https://eay.li/m2"
 ---
 
 ![](https://eay.cc/uploads/2009/bananenaffe.gif) Und heute, liebe Kinder: Wo die Bananen herkommen.

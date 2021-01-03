@@ -15,7 +15,7 @@ tags:
   - zukunft
 meta:
   - linked_list_url: "http://istodaythedaymartymcflyarriveswhenhetravelstothefuture.com/"
-  - yourls_shorturl: "http://eay.li/2qf"
+  - yourls_shorturl: "https://eay.li/2qf"
 ---
 
 Yes.

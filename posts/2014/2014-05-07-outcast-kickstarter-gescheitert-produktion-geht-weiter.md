@@ -16,7 +16,7 @@ tags:
   - outcast
 meta:
   - linked_list_url: "https://www.kickstarter.com/projects/outcast-reboot-hd/outcast-reboot-hd/posts/835262"
-  - yourls_shorturl: "http://eay.li/2fg"
+  - yourls_shorturl: "https://eay.li/2fg"
 ---
 
 Das [Crowdfunding des Outcast HD-Reboots](//eay.cc/2014/outcast-reboot-als-kickstarter-kampagne/) ist (trotz meiner [Bemühungen](https://twitter.com/eay/statuses/463378487358009346)) wie erwartet gescheitert, da nur 255.000 der gewünschten und zu hoch angesetzten 600.000 Dollar erzielt werden konten. Die Macher gestehen einige Fehler bei der Planung und Umsetzung ihres ersten Kickstarters ein, stellen aber klar, dass sie das Spiel weiterhin produzieren wollen und werden. Sei es durch eine weitere Crowdfunding-Kampagne oder andere Deals. So schade das Scheitern auch ist, das sind nicht die schlechtesten Nachrichten und ich bin positiv gestimmt, dass wir eines Tages einen hochauflösenden Cutter Slade durch Adelpha steuern können.

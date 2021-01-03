@@ -17,7 +17,7 @@ tags:
   - werbung
   - wii
 meta:
-  - yourls_shorturl: "http://eay.li/hd"
+  - yourls_shorturl: "https://eay.li/hd"
 ---
 
 ![](/uploads/2007/wiisturbation.gif) Wen spricht Nintendo eigentlich mit dieser Art von Werbung an? ([via](http://www.wiiwelt.com/2007/07/24/wii-erfolgreich-durch-extrem-gutes-marketing/))

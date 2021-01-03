@@ -15,7 +15,7 @@ tags:
   - newsletter
 meta:
   - linked_list_url: "https://www.getrevue.co/profile/5things"
-  - yourls_shorturl: "http://eay.li/343"
+  - yourls_shorturl: "https://eay.li/343"
   - content_copy: "https://twitter.com/eay/status/972230071552495621"
 ---
 

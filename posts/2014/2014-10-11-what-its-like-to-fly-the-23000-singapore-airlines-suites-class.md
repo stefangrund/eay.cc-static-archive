@@ -15,7 +15,7 @@ tags:
   - reisen
 meta:
   - linked_list_url: "http://dereklow.co/what-its-like-to-fly-the-23000-singapore-airlines-suites-class/"
-  - yourls_shorturl: "http://eay.li/2jo"
+  - yourls_shorturl: "https://eay.li/2jo"
 ---
 
 [Derek Low](http://dereklow.co/) ist in der teuersten Klasse von Singapur nach New York geflogen und hat das ganze luxuriöse Erlebnis fotodokumentiert. (via [Kottke](http://kottke.org/14/10/what-its-like-to-fly-the-18000-singapore-airlines-suites-class))

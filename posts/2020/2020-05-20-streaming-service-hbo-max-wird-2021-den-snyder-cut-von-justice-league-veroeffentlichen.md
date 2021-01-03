@@ -16,7 +16,7 @@ tags:
   - streaming
 meta:
   - linked_list_url: "https://variety.com/2020/film/news/zack-snyder-release-the-snyder-cut-justice-league-hbo-max-1234611928/"
-  - yourls_shorturl: "http://eay.li/3eb"
+  - yourls_shorturl: "https://eay.li/3eb"
 ---
 
 > The mythical, unreleased version of the 2017 superhero film “Justice League” will finally see the light of day on Warner Media’s HBO Max in 2021.

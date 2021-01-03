@@ -14,7 +14,7 @@ tags:
   - kunst
   - output
 meta:
-  - yourls_shorturl: "http://eay.li/13"
+  - yourls_shorturl: "https://eay.li/13"
 ---
 
 Mein [Lieblingsforumuser](http://eay.tumblr.com/post/1535627) [MrRogers](http://eay.cc/board/profile.php?f=1&id=15) (jaja, ihr anderen seid auf eure äußerst komische Art auch ganz nett) hat die äußerst komplexe Form unserer eayzlies (-> :) ) in einem wunderschönen Zahlenbild festgehalten, dass auch dem Untalentiertesten von euch die Erschaffung eines originalgetreuen eayzlies ermöglichen sollte. Und so geht's: ![](/uploads/2007/eayzlyzahlenbild.gif) Zahlen verbinden, Konturen nachzeichnen und siehe da: ein eayzly wie es im Buche steht. (Bilder, Idee, Umsetzung und Coolness von [Mr. Eugene Rogers](http://eay.cc/board/profile.php?f=1&id=15). Vielen Dank dafür!)

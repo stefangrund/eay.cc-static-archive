@@ -14,7 +14,7 @@ tags:
   - serien
   - the-big-bang-theory
 meta:
-  - yourls_shorturl: "http://eay.li/3ab"
+  - yourls_shorturl: "https://eay.li/3ab"
   - geo_latitude: "50.973850510506"
   - geo_longitude: "6.6831835916186"
   - geo_public: "1"

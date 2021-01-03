@@ -12,7 +12,7 @@ categories:
 tags:
   - your-favorite-tumblr-for-the-next-5-minutes
 meta:
-  - yourls_shorturl: "http://eay.li/1kg"
+  - yourls_shorturl: "https://eay.li/1kg"
 ---
 
 ![](https://eay.cc/uploads/2012/rrrrrrrroll.gif) [RRRRRRRROLL](http://rrrrrrrroll.tumblr.com/), ein Tumblr mit rotierenden Asiatinnen. (via [Nerdcore](http://www.crackajack.de/2012/07/14/rrrrrrrroll/))

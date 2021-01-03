@@ -15,7 +15,7 @@ tags:
   - twitter
 meta:
   - linked_list_url: "https://daringfireball.net/linked/2020/06/12/disney-twitter-bob-iger"
-  - yourls_shorturl: "http://eay.li/3ei"
+  - yourls_shorturl: "https://eay.li/3ei"
 ---
 
 “Disney's realDonaldTrump”

@@ -16,7 +16,7 @@ tags:
   - kunst
   - waffen
 meta:
-  - yourls_shorturl: "http://eay.li/24a"
+  - yourls_shorturl: "https://eay.li/24a"
   - linked_list_url: "http://www.pearlmanphotography.com/%23a%3D0%26at%3D0%26mi%3D2%26pt%3D1%26pi%3D10000%26s%3D0%26p%3D0"
 ---
 

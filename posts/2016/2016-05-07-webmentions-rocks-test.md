@@ -15,7 +15,7 @@ tags:
   - test
   - webmentions
 meta:
-  - yourls_shorturl: "http://eay.li/2sz"
+  - yourls_shorturl: "https://eay.li/2sz"
 ---
 
 I'm at the [IndieWebCamp Düsseldorf](http://indiewebcamp.com/2016/Dusseldorf) right now, just learned about [Webmentions](https://indiewebcamp.com/Webmention) and want to give the [Webmentions-WordPress-Plugin](https://de.wordpress.org/plugins/webmention/) by [pfefferle](http://notizblog.org/) a try with [Webmention.rocks](https://webmention.rocks/), [Aaron](https://aaronparecki.com/)'s helpful validator for sending Webmentions.

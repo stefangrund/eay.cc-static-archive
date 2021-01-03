@@ -14,7 +14,7 @@ tags:
   - retro
   - twitter
 meta:
-  - yourls_shorturl: "http://eay.li/2kq"
+  - yourls_shorturl: "https://eay.li/2kq"
 ---
 
 \[youtube id="KX4iRIcU3FQ"\]

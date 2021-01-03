@@ -15,7 +15,7 @@ tags:
   - robert-rodriguez
   - superhelden
 meta:
-  - yourls_shorturl: "http://eay.li/nv"
+  - yourls_shorturl: "https://eay.li/nv"
 ---
 
 ![](/uploads/2007/hsifm.jpg) [Howard Stern](http://en.wikipedia.org/wiki/Howard_Stern) dürfte den meisten von euch, abseits seiner legendären Radioshow, für seinen autobiographischen Film [Private Parts](http://www.amazon.de/exec/obidos/ASIN/1593078447/eayznet-21) bekannt sein, der 1997 ins Kino kam und hierzulande ein mal im Jahr auf einem "Kinoklassiker-Kanal" verramscht wird. Überraschenderweise war der Film über sein Leben aber eigentlich gar nicht der Film, den er ursprünglich im Sinn hatte: Seit 1992 bemühte Stern sich seinen Charakter [Fartman](http://en.wikipedia.org/wiki/Fartman_%28Howard_Stern%29), einen Superhelden der seine Gegner durch seine Blähungen bezwingt, in die Kinos zu bringen. New Line Cinema spendierte zehn Millionen Dollar, Regie und Schreiberlinge waren eingekauft. Da die Produzenten aber einen "ab 13"-Film draus machen wollten, scheiterte das Projekt schließlich.

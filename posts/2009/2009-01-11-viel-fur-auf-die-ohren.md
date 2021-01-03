@@ -13,7 +13,7 @@ tags:
   - album
   - musik
 meta:
-  - yourls_shorturl: "http://eay.li/4a"
+  - yourls_shorturl: "https://eay.li/4a"
 ---
 
 ![](/uploads/2009/nicorolacds.jpg) [Nicorola](http://www.nicorola.de/) hat mir Musik geschickt. [Weil ich ein Gewinnertyp bin](http://www.nicorola.de/features/jahrespoll-2008-das-ergebnis). 12 Promo-CDs mit teils richtig tollen Sachen. Die nächsten zwei Wochen Bahnfahrt zur Uni sind gerettet. Danke dafür!

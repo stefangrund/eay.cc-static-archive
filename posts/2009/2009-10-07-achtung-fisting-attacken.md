@@ -15,7 +15,7 @@ tags:
   - phishing
   - zdf
 meta:
-  - yourls_shorturl: "http://eay.li/e6"
+  - yourls_shorturl: "https://eay.li/e6"
 ---
 
 > Auch die Konzerne Yahoo und Google sind Opfer sogenannter Fisting-Attacken geworden.

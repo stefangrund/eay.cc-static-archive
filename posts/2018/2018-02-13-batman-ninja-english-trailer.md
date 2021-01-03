@@ -17,7 +17,7 @@ tags:
   - japan
   - trailer
 meta:
-  - yourls_shorturl: "http://eay.li/33o"
+  - yourls_shorturl: "https://eay.li/33o"
 ---
 
 \[youtube id="08dHXfIprYE"\]

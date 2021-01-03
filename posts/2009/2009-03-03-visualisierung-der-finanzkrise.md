@@ -15,7 +15,7 @@ tags:
   - geld
   - visualisierung
 meta:
-  - yourls_shorturl: "http://eay.li/9s"
+  - yourls_shorturl: "https://eay.li/9s"
 ---
 
 Und wo wir [gerade schon](//eay.cc/2009/ein-mann-und-sein-ohrlappchen/) bei der Finanzkrise sind, wollen wir auch unserem selbstauferlegten Bildungsauftrag nachkommen und euch die [One Velociraptor per Child](http://velociraptorz.org/)\-Initiative vorstellen dieses virklich verständlich visualisierte Video (Alliteration-Vlash!) über die Hintergründe der Krise nachreichen. Dann klappt's auch mit der VWL-Studentin.

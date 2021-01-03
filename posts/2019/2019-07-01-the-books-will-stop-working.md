@@ -18,7 +18,7 @@ tags:
   - urheberrecht
 meta:
   - linked_list_url: "https://boingboing.net/2019/06/28/jun-17-2004.html"
-  - yourls_shorturl: "http://eay.li/3ak"
+  - yourls_shorturl: "https://eay.li/3ak"
 ---
 
 Microsoft schließt seinen eBook-Store wegen Erfolglosigkeit zum heutigen 1. Juli, was bedeutet dass alle gekauften Bücher mit Abschaltung der dazugehörigen DRM-Server aufhören zu funktionieren (!). Das ganze wurde mit nur zwei (!) Monaten Vorlaufzeit angekündigt. Kunden sollen ihre Einkäufe erstattet bekommen. Wer sich Notizen in den DRM-geschützten Microsoft-eBooks gemacht hat, verliert diese, bekommt aber 25$ "Entschädigung".

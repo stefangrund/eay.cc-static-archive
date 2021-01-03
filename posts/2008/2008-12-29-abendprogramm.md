@@ -13,7 +13,7 @@ tags:
   - konzerte
   - musik
 meta:
-  - yourls_shorturl: "http://eay.li/9y"
+  - yourls_shorturl: "https://eay.li/9y"
 ---
 
 ![](/uploads/2008/dthticket.jpg) Ne Ovend mit De kapotte Buzze (astreine Übersetzung von Gamto; [Foto von McLee](http://www.flickr.com/photos/the_one_and_only_mclee/3147364326/)).

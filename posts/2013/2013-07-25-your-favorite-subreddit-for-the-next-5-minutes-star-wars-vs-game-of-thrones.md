@@ -15,7 +15,7 @@ tags:
   - reddit
   - star-wars
 meta:
-  - yourls_shorturl: "http://eay.li/25o"
+  - yourls_shorturl: "https://eay.li/25o"
   - linked_list_url: "http://www.reddit.com/r/warsvthrone/"
 ---
 

@@ -10,7 +10,7 @@ format: "post"
 tags:
   - output
 meta:
-  - yourls_shorturl: "http://eay.li/uv"
+  - yourls_shorturl: "https://eay.li/uv"
 ---
 
 ![](/uploads/2008/secretproject_2.gif) Manchmal kommt man halt nicht weiter. Und manchmal ist's sogar kontraproduktiv. Manchmal auch man selbst. So oder so: da kommt was großes auf euch zu (würdet ihr was anderes hören wollen?), für das wir immer noch einen Namen suchen. Die bisherigen Vorschläge sind zwar schon gut, aber [da geht noch was](//eay.cc/2008/ein-nichtssagender-ladebalken/).

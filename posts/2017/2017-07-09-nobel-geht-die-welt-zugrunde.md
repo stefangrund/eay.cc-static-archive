@@ -19,7 +19,7 @@ tags:
   - musik
   - politik
 meta:
-  - yourls_shorturl: "http://eay.li/301"
+  - yourls_shorturl: "https://eay.li/301"
 ---
 
 \[youtube id="5RLT2sBXNI0"\]

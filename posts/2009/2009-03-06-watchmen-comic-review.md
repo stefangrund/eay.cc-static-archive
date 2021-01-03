@@ -13,7 +13,7 @@ tags:
   - superhelden
   - watchmen
 meta:
-  - yourls_shorturl: "http://eay.li/4v"
+  - yourls_shorturl: "https://eay.li/4v"
 ---
 
 ![](/uploads/2009/watchmen_c1.jpg)Für euch, liebste Leser, scheue ich natürlich keine Kosten & Mühen und so kam es, dass ich mir [am Montag](//eay.cc/2009/wenn-ihr-mich-jetzt-entschuldigen-wurdet/) die [Gesamtausgabe von Watchmen](http://www.amazon.de/exec/obidos/ASIN/386607607X/eayznet-21) besorgte, um am Mittwochabend im Kino perfekt auf die heiß erwartete Watchmen-Verfilmung vorbereitet zu sein. Warum ich mich erst jetzt mit dem Werk beschäftige, das vom Time-Magazine einst als einziges Comic in der Top 100 der besten Romane des 20. Jahrhunderts aufgeführt wurde, kann ich nicht sagen. Es ist mir wohl irgendwie durch die Lappen gegangen...

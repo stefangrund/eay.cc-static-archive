@@ -16,7 +16,7 @@ tags:
   - john-carter
   - science-fiction
 meta:
-  - yourls_shorturl: "http://eay.li/1gu"
+  - yourls_shorturl: "https://eay.li/1gu"
 ---
 
 Ich komme gerade aus »[John Carter](//eay.cc/2012/review-john-carter/)« und da ich zu meiner Überraschung sehr angetan war (ausführliches Review folgt später), beschloss ich soeben, mir die Vorlage von [Edgar Rice Burroughs](http://de.wikipedia.org/wiki/Edgar_Rice_Burroughs) mal genauer anzusehen. Also wie gewohnt zu Amazon, wo meine Kaufgelüste diesmal jedoch enttäuscht wurden: Eine deutsche Ausgabe des Erstlings wurde zuletzt 1999 aufgelegt und kostet mittlerweile [gebraucht 65 Euro](http://www.amazon.de/exec/obidos/ASIN/3930040417/eayznet-21) - keine Kindle-Version vorhanden (wie ich das hasse). Englische Ausgaben gibt's zwar, aber nur mit wochenlangen Lieferzeiten. Normalerweise würde ich nun zum englischsprachigen Kindle-eBook greifen, doch das kleine Geld kann man sich diesmal sparen. Denn das Copyright der ersten Texte ist längst abgelaufen (der erste Teil des Barsoom-Zyklus erschien in den USA 1912 als Zeitschriften-Serial), weshalb zumindest die ersten fünf Bücher bereits kostenlos im Netz zu haben sind.

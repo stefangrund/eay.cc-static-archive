@@ -15,7 +15,7 @@ tags:
   - dinosaurier
   - gif-der-woche
 meta:
-  - yourls_shorturl: "http://eay.li/92"
+  - yourls_shorturl: "https://eay.li/92"
 ---
 
 ![](/uploads/2009/humanraptor.gif) Und heute im Gruselkabinett des Internets: der menschliche Velociraptor Dilophosaurus! (Das erste .gif des Jahres könnte nicht Furcht einflößender und lustiger sein...)

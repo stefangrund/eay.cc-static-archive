@@ -15,7 +15,7 @@ tags:
   - harrison-ford
   - star-wars
 meta:
-  - yourls_shorturl: "http://eay.li/1aa"
+  - yourls_shorturl: "https://eay.li/1aa"
 ---
 
 \[youtube id="sWTtMdXAazs"\]

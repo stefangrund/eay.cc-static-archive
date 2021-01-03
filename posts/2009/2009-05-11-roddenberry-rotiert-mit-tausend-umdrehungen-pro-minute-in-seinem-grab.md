@@ -17,7 +17,7 @@ tags:
   - star-trek
   - verriss
 meta:
-  - yourls_shorturl: "http://eay.li/38"
+  - yourls_shorturl: "https://eay.li/38"
 ---
 
 Dass mich der neue [Star Trek](//eay.cc/2009/star-trek-2-punkt-0/) begeistern konnte, [wisst ihr ja](//eay.cc/2009/star-trek-2-punkt-0/). Dass es natürlich auch anders geht, beweist Etrit Hasler in seinem durchaus lesenswerten Verriss in der Schweizer WOZ:

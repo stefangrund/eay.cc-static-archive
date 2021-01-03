@@ -14,7 +14,7 @@ tags:
   - geschichte
   - video-essay
 meta:
-  - yourls_shorturl: "http://eay.li/2yl"
+  - yourls_shorturl: "https://eay.li/2yl"
 ---
 
 \[youtube id="xuCn8ux2gbs"\]

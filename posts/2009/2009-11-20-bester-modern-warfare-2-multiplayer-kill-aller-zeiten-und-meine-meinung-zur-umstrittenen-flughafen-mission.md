@@ -17,7 +17,7 @@ tags:
   - shooter
   - xbox
 meta:
-  - yourls_shorturl: "http://eay.li/1m"
+  - yourls_shorturl: "https://eay.li/1m"
 ---
 
 **(Und meine Meinung zur umstrittenen Flughafen-Mission)**

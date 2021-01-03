@@ -13,7 +13,7 @@ tags:
   - rob-zombie
   - trailer
 meta:
-  - yourls_shorturl: "http://eay.li/h4"
+  - yourls_shorturl: "https://eay.li/h4"
 ---
 
 Vor einem Jahr [berichtete ich](//eay.cc/2008/the-haunted-world-of-el-superbeasto/) an dieser Stelle bereits von [The Haunted World of El Superbeasto](http://www.imdb.com/title/tt0419724/), dem Trickfilmprojekt von Rob Zombie. Seitdem war es zwar außerordentlich still um El Superbeasto geworden, dieser Tage wurde aber endlich ein erster Trailer veröffentlicht und auch ein Release am 22. September steht im Raum. Ich bleib dabei: das könnte ganz unterhaltsam werden! Seht selbst:

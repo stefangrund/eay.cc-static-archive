@@ -16,7 +16,7 @@ tags:
   - workflow
 meta:
   - linked_list_url: "https://www.macstories.net/news/apple-acquires-workflow/"
-  - yourls_shorturl: "http://eay.li/2x6"
+  - yourls_shorturl: "https://eay.li/2x6"
 ---
 
 Überraschender Schachzug von Apple. Ich bin selbst begeisterter und fleißiger Nutzer von [Workflow](https://itunes.apple.com/de/app/workflow-powerful-automation-made-simple/id915249334?l=en&mt=8&uo=4&at=11lohW) ((Sowohl dieser Partnerlink, als auch dieser Blogeintrag wurden [unter Verwendung von Workflow](https://eay.cc/2015/post-to-wordpress-with-workflow/) erstellt.)) und freue mich einerseits, dass sie auch bei Apple auf Gegenliebe stößt, weil das eine tiefere Integration ins Betriebssystem und mehr Commitment für iOS als ernsthafte Arbeitsplattform bedeuten könnte. Andererseits bedeutet eine derartige Übernahme über kurz oder lang eigentlich immer da Ende der Aufgrkauften – trotz solcher Aussagen:

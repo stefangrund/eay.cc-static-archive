@@ -13,7 +13,7 @@ tags:
   - frauen
   - retro
 meta:
-  - yourls_shorturl: "http://eay.li/4k"
+  - yourls_shorturl: "https://eay.li/4k"
 ---
 
 Unsere beliebte Feminismus-Rubrik ist zurück. Nach [Deny, Deny, Deny](//eay.cc/2008/deny-deny-deny/) haben wir uns heute in den Archiven des öffentlich-rechtlichen Rundfunks umgesehen und abermals erschreckendes entdeckt: In [Der 7. Sinn](http://de.wikipedia.org/wiki/Der_7._Sinn), einer Fernsehsendung über Verkehrssichterheit, die von 1966 bis 2005 ausgestrahlt wurde, erblickten wir folgende Tipps für den Umgang von und mit Frauen im Straßenverkehr. Darunter Weisheiten wie "Männer, lasst eure Frauen öfter ans Steuer! Aber nicht zu Verkehrsspitzenzeiten!", die sich jeder verinnerlichen sollte als Negativbeispiel ansehen sollte. Video nach dem Klick:

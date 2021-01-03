@@ -16,7 +16,7 @@ tags:
   - webservice
 meta:
   - linked_list_url: "http://www.internetlivestats.com/"
-  - yourls_shorturl: "http://eay.li/2l1"
+  - yourls_shorturl: "https://eay.li/2l1"
 ---
 
 Danach sind bereits über 3.000.000.000 Menschen online.

@@ -13,7 +13,7 @@ tags:
   - netzkultur
   - trigami
 meta:
-  - yourls_shorturl: "http://eay.li/18z"
+  - yourls_shorturl: "https://eay.li/18z"
 ---
 
 \[[Trigami-Review](http://www.trigami.com/?blog=http://eay.cc/)\]

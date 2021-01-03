@@ -23,7 +23,7 @@ meta:
   - linked_list_url: "http://pipes.yqlblog.net/post/120705592639/pipes-end-of-life-announcement"
   - linked_list_url: "http://pipes.yqlblog.net/post/120705592639/pipes-end-of-life-announcement"
   - linked_list_url: "http://pipes.yqlblog.net/post/120705592639/pipes-end-of-life-announcement"
-  - yourls_shorturl: "http://eay.li/2oi"
+  - yourls_shorturl: "https://eay.li/2oi"
 ---
 
 Yahoo stampft seinen 2007 gestarteten Mashup-Dienst [Pipes](http://pipes.yahoo.com/pipes/), mit dem es über ein GUI relativ einfach möglich war, Feeds und Services miteinander zu verknüpfen, am 30. August ein. Ein Datenexport ist bis zum 30. September möglich.

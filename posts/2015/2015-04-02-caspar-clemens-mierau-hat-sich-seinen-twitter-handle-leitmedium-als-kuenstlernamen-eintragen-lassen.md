@@ -22,7 +22,7 @@ meta:
   - linked_list_url: "http://www.leitmedium.de/2015/04/02/es-kann-nur-ein-leitmedium-geben-wie-ich-mein-twitter-handle-als-kuenstlernamen-in-den-ausweis-eintragen-liess/"
   - linked_list_url: "http://www.leitmedium.de/2015/04/02/es-kann-nur-ein-leitmedium-geben-wie-ich-mein-twitter-handle-als-kuenstlernamen-in-den-ausweis-eintragen-liess/"
   - linked_list_url: "http://www.leitmedium.de/2015/04/02/es-kann-nur-ein-leitmedium-geben-wie-ich-mein-twitter-handle-als-kuenstlernamen-in-den-ausweis-eintragen-liess/"
-  - yourls_shorturl: "http://eay.li/2ny"
+  - yourls_shorturl: "https://eay.li/2ny"
 ---
 
 Vielleicht sollte es auch nur einen "eay" geben...

@@ -16,7 +16,7 @@ tags:
   - games
 meta:
   - linked_list_url: "http://gabrieloc.com/2017/03/21/GIOVANNI.html"
-  - yourls_shorturl: "http://eay.li/2x4"
+  - yourls_shorturl: "https://eay.li/2x4"
 ---
 
 ![](https://eay.cc/uploads/2017/applewatch-gameboy.png)

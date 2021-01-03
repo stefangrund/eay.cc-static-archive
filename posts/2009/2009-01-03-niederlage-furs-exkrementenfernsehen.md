@@ -13,7 +13,7 @@ tags:
   - netzkultur
   - seo-battle
 meta:
-  - yourls_shorturl: "http://eay.li/9g"
+  - yourls_shorturl: "https://eay.li/9g"
 ---
 
 ![](/uploads/2009/seobattleende.gif) Am 2. Januar um Punkt Zwölf konnte unser offizieller SEO-Battle-Notar [HerrK](http://www.herrk.de/) das obige, äußerst knappe Ergebnis [feststellen](http://twitter.com/CholeriK/status/1091402277), was bedeutet, dass ich direkt zu Beginn des Jahres eine herbe Niederlage einstecken musste: [im Kampf der Kämpfe](//eay.cc/2008/der-kampf-der-kampfe/) unterlag meine Wortneuschöpfung "Exkrementenfernsehen" dem Neologismus meines Kontrahenten [Asphar](http://so-war-das-damals.de/). Sein ["Käppi-Code"](http://so-war-das-damals.de/2008/12/03/der-kappi-code/) konnte mein Wort durch geschickte Linkprostitution im letzten Moment überholen und Asphar einen Kasten Bier auf meine Kosten bescheren. Ich gratuliere ihm zu diesem hart umkämpften Sieg und freue mich, dass der alte Sportsfreund sich ganz der Sportsmann mein [Lieblingsbier](http://eay.cc/blog/2005/11/your_favorite_b.shtml) gewünscht hat.

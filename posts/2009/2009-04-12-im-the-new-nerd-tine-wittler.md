@@ -14,7 +14,7 @@ tags:
   - star-trek
   - tastatur
 meta:
-  - yourls_shorturl: "http://eay.li/e8"
+  - yourls_shorturl: "https://eay.li/e8"
 ---
 
 Willkommen zurück bei eayz.net, _dem_ Fachblog für [über-nerdige Einrichtungsgegenstände](//eay.cc/tag/einrichtung/). Um die hiesige Leserschaft mit überaus aktueller Aktualität aus den Latschen zu hauen, [unterbricht](http://twitter.com/Eay/status/1500313456) meine großmütige Wenigkeit schon mal gerne ihren samstagnächtlichen, mehr als nötigen Schlaf, damit ihr euer Haupt demnächst auf Alt-Ctrl-Del-Kissen niederlegen könnt. Na, wenn das mal kein Service ist (den ihr selbstredend \_nirgendwo\_ anders bekommt)!

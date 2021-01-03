@@ -12,7 +12,7 @@ tags:
   - itunes
   - musik
 meta:
-  - yourls_shorturl: "http://eay.li/it"
+  - yourls_shorturl: "https://eay.li/it"
 ---
 
 ![](/uploads/2008/genius.gif) Ich würde ja meine Meinung zur neuen [Genius-Funktion von iTunes 8](http://www.fscklog.com/2008/09/apple-stellt-it.html) äußern, aber bis das Dingen durchstartet, ist womöglich schon wieder [alles vorbei](//eay.cc/2008/wer-hat-angst-vorm-schwarzen-loch/) mit unserem Planeten. Daher an dieser Stelle etwas apokalyptische Überbrückungsmusik:

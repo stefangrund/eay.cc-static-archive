@@ -19,7 +19,7 @@ tags:
   - politik
   - religion
 meta:
-  - yourls_shorturl: "http://eay.li/3da"
+  - yourls_shorturl: "https://eay.li/3da"
   - content_copy: "https://twitter.com/eay/status/1242252798965710848"
 ---
 

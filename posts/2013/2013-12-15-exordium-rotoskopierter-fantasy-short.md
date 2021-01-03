@@ -16,7 +16,7 @@ tags:
   - kurzfilm
   - rotoskopie
 meta:
-  - yourls_shorturl: "http://eay.li/2ap"
+  - yourls_shorturl: "https://eay.li/2ap"
 ---
 
 \[youtube id="vxR-oKkwJLI"\]

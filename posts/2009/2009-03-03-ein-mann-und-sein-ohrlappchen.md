@@ -15,7 +15,7 @@ tags:
   - thriller
   - tom-tykwer
 meta:
-  - yourls_shorturl: "http://eay.li/8z"
+  - yourls_shorturl: "https://eay.li/8z"
 ---
 
 ![](/uploads/2009/theinternational.jpg)... kämpfen gegen die Finanzkrise! So geschehen in Tom Tykwers neuestem Film [The International](http://www.imdb.com/title/tt0963178/), der von der aktuellen akuten Wirtschaftslage wie kein anderer profitiert, verleiht sie ihm doch ungeahnte Relevanz. The International handelt nämlich von nichts anderem als dem Kampf gegen ein korruptes Bankensystem. Hauptprotagonisten sind hier nicht die Finanzminister und Staatschefs dieser Welt, sondern ein Interpol-Agent (gespielt von [Clive Owen](http://clive-owen.org/)) und eine ihn unterstütztende New Yorker Staatsanwältin. Gemeinsam ermitteln sie gegen die fiesen Machenschaften der "International Bank of Business and Credit", die neben Geldwäsche und Waffenschieberei so ziemlich alles kriminelle anstellt, was sich mit Geld so anstellen lässt. Und natürlich werden etwaige Kritiker sofort und raffiniert um die Ecke gebracht.

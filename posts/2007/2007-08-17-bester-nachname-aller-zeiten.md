@@ -14,7 +14,7 @@ tags:
   - mac
   - namen
 meta:
-  - yourls_shorturl: "http://eay.li/u6"
+  - yourls_shorturl: "https://eay.li/u6"
 ---
 
 ![](/uploads/2007/mcintosh.jpg "aus NEON 8/2007")

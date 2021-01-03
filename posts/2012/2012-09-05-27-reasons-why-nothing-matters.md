@@ -10,7 +10,7 @@ format: "link"
 categories:
   - 0815
 meta:
-  - yourls_shorturl: "http://eay.li/1yf"
+  - yourls_shorturl: "https://eay.li/1yf"
   - linked_list_url: "http://www.buzzfeed.com/jwherrman/27-reasons-why-nothing-matters"
 ---
 

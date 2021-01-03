@@ -12,7 +12,7 @@ tags:
   - grindhouse
   - robert-rodriguez
 meta:
-  - yourls_shorturl: "http://eay.li/iv"
+  - yourls_shorturl: "https://eay.li/iv"
 ---
 
 "Was der Eay, mein allerliebster Filmkritikermensch, wohl von Robert Rodriguezs neuem Film **Planet Terror** hält, der Morgen in die deutschen Kino kommt?" Nun, holder Leser, du wirst an [diese Rezension](//eay.cc/2007/planet-trash-of-the-dead/) verwiesen, da ich Planet Terror bereits vor 1½ Monaten sehen durfte.

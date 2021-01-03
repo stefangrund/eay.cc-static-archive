@@ -14,7 +14,7 @@ tags:
   - usa
   - waffen
 meta:
-  - yourls_shorturl: "http://eay.li/212"
+  - yourls_shorturl: "https://eay.li/212"
   - linked_list_url: "http://www.slate.com/articles/news_and_politics/crime/2012/12/gun_death_tally_every_american_gun_death_since_newtown_sandy_hook_shooting.html"
 ---
 

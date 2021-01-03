@@ -17,7 +17,7 @@ tags:
   - social-media
 meta:
   - linked_list_url: "http://www.theverge.com/2014/7/23/5926843/this-is-the-new-foursquare"
-  - yourls_shorturl: "http://eay.li/2hn"
+  - yourls_shorturl: "https://eay.li/2hn"
 ---
 
 ![](https://eay.cc/uploads/2014/newfoursquare.gif) Nachdem Foursquare seine Check-In-Funktion [im Mai in die neue Swarm-App ausgelagert hat](//eay.cc/2014/foursquare-lagert-check-in-funktion-in-neue-app-aus/), wird es selbst in den nächsten Wochen zur dedizierten Location-Recommendations-App samt neuem Look & Feel und, örks, Logo.

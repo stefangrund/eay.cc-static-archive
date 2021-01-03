@@ -17,7 +17,7 @@ tags:
   - mashup
   - superman
 meta:
-  - yourls_shorturl: "http://eay.li/1se"
+  - yourls_shorturl: "https://eay.li/1se"
 ---
 
 ![](https://eay.cc/uploads/2013/superman.gif)

@@ -19,7 +19,7 @@ tags:
   - work-life-balance
 meta:
   - linked_list_url: "http://www.ppw.de/blog/ppw-bei-der-nightly-build-2015/"
-  - yourls_shorturl: "http://eay.li/2pz"
+  - yourls_shorturl: "https://eay.li/2pz"
 ---
 
 Am Freitagabend fand hier in Köln die Frontend-/Feierabendkonferenz [Nighty Build](http://www.nightlybuild.io/) statt. Für das [PPW](http://www.ppw.de/)\-Agenturblog habe ich jetzt mal meine Eindrücke festgehalten. Schon mal soviel: Es hat sich gelohnt!

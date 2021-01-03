@@ -17,7 +17,7 @@ tags:
   - mashup
   - retro
 meta:
-  - yourls_shorturl: "http://eay.li/2ev"
+  - yourls_shorturl: "https://eay.li/2ev"
 ---
 
 \[youtube id="miqkqJJtg3s"\]

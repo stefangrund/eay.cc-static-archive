@@ -14,7 +14,7 @@ tags:
   - mac
   - to-do
 meta:
-  - yourls_shorturl: "http://eay.li/1xh"
+  - yourls_shorturl: "https://eay.li/1xh"
   - linked_list_url: "http://www.dueapp.com/mac.html"
 ---
 

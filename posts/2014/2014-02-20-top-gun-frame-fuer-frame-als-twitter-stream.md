@@ -15,7 +15,7 @@ tags:
   - netzkultur
 meta:
   - linked_list_url: "https://twitter.com/555uhz"
-  - yourls_shorturl: "http://eay.li/2d5"
+  - yourls_shorturl: "https://eay.li/2d5"
 ---
 
 Jede halbe Stunde kommt ein neuer Frame hinzu. Danke an [@JJBs\_Cinema](https://twitter.com/JJBs_Cinema/status/435877623751647232) für den Hinweis, der zu Recht meinte, dass mir so ein Unsinn gefällt. Und als wäre das nicht genug, hier noch jemand – denn einer muss es ja tun –, der all diese [Screenshots wieder zusammenfügt](http://akrobat.ultim8team.com/tg/) (via [Waxy](http://waxy.org/links)). Hach, Internet.

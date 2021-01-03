@@ -19,7 +19,7 @@ tags:
   - kinolog
   - star-wars
 meta:
-  - yourls_shorturl: "http://eay.li/32q"
+  - yourls_shorturl: "https://eay.li/32q"
   - content_copy: "https://twitter.com/eay/status/941429923096514560"
 ---
 

@@ -16,7 +16,7 @@ tags:
   - sex
   - warren-ellis
 meta:
-  - yourls_shorturl: "http://eay.li/93"
+  - yourls_shorturl: "https://eay.li/93"
 ---
 
 ![](/uploads/2009/godzillabukkake.jpg) Im Buch [Crooked Little Vein](http://www.amazon.de/exec/obidos/ASIN/0061252050/eayznet-21) berichtet Sonst-Comic-Autor Warren Ellis von "Godzilla Bukkake". Und wie das heutzutage mit uns Internetmenschen so ist, hat sich direkt jemand gefunden, der lustige, leicht ekelige Godzilla-Bukkake-Bilder anfertigt, [godzillabukkake.com](http://godzillabukkake.com/) registriert hat und diese dort hochlädt. Could be your favorite next meme. Und Ellis [bereut schon](http://www.warrenellis.com/?p=7051), was er da ins Rollen gebracht hat. ([via](http://iheartpluto.blogspot.com/2009/03/godzilla-bukkake.html))

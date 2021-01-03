@@ -15,7 +15,7 @@ tags:
   - wikipedia
 meta:
   - linked_list_url: "http://wikipedia.moesalih.com/"
-  - yourls_shorturl: "http://eay.li/2iw"
+  - yourls_shorturl: "https://eay.li/2iw"
 ---
 
 [Moe Salih](http://moesalih.com/), der Designer und Entwickler davon:

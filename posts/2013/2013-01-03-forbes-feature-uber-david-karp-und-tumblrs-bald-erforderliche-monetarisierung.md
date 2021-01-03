@@ -17,7 +17,7 @@ tags:
   - tumblr
   - werbung
 meta:
-  - yourls_shorturl: "http://eay.li/211"
+  - yourls_shorturl: "https://eay.li/211"
   - linked_list_url: "http://www.forbes.com/sites/jeffbercovici/2013/01/02/tumblr-david-karps-800-million-art-project/"
 ---
 

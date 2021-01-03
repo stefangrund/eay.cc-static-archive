@@ -15,7 +15,7 @@ tags:
   - oscar-gewinner
   - oscars
 meta:
-  - yourls_shorturl: "http://eay.li/jb"
+  - yourls_shorturl: "https://eay.li/jb"
 ---
 
 > Dear Academy of Motion Picture Arts and Science Officers, [This](http://img3.imageshack.us/img3/4782/1235075752496jc8.png) is the final list of winners of the 81st Annual Academy Awards. **As always, please treat this information with extreme care.**

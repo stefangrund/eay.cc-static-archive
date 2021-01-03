@@ -16,7 +16,7 @@ tags:
   - westworld
 meta:
   - linked_list_url: "http://www.crackajack.de/2014/07/23/westworld-series-is-a-go/"
-  - yourls_shorturl: "http://eay.li/2hp"
+  - yourls_shorturl: "https://eay.li/2hp"
 ---
 
 René fast die frohe Kunde dankenswerterweise zusammen:

@@ -17,7 +17,7 @@ tags:
   - satire
   - terrorismus
 meta:
-  - yourls_shorturl: "http://eay.li/2m7"
+  - yourls_shorturl: "https://eay.li/2m7"
 ---
 
 > Religion (und so manch andere Weltanschauung) ist Wahnsinn im Kleide der Rationalität, Satire und Komik Rationalität im Kleide des Wahnsinns.

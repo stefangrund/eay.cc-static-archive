@@ -15,7 +15,7 @@ tags:
   - social-media
 meta:
   - linked_list_url: "http://inessential.com/2014/08/27/waffle_on_social_media"
-  - yourls_shorturl: "http://eay.li/2ih"
+  - yourls_shorturl: "https://eay.li/2ih"
 ---
 
 > My blog´s older than Twitter and Facebook, and it will outlive them. It has seen Flickr explode and then fade. It´s seen Google Wave and Google Reader come and go, and it´ll still be here as Google Plus fades. When Medium and Tumblr are gone, my blog will be here.

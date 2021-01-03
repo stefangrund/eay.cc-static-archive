@@ -14,7 +14,7 @@ tags:
   - netzkultur
   - studium
 meta:
-  - yourls_shorturl: "http://eay.li/x"
+  - yourls_shorturl: "https://eay.li/x"
 ---
 
 Da ich zur Zeit eine Hausarbeit zum Thema "Social Networks" schreibe und das, was ich eh schon weiß per Literaturangaben belegen muss, habe ich mir eben das Buch [Social Web](http://www.amazon.de/exec/obidos/ASIN/3825230651/eayznet-21) von Anja Ebersbach, Markus Glaser und Richard Heigl besorgt. Beim überfliegen des Blog-Kapitels ist mir dann vor allem die zweite Übungsfrage aufgefallen:

@@ -16,7 +16,7 @@ tags:
   - filme
   - star-wars
 meta:
-  - yourls_shorturl: "http://eay.li/l"
+  - yourls_shorturl: "https://eay.li/l"
 ---
 
 ![](/uploads/2007/petersolo.jpg "Â© Eigentum des Studios/Vertriebes")Anlässlich des [30\. Geburtstag von Star Wars](//eay.cc/2007/30-jahre-sternenkrieg/) hat man sich was besonderes einfallen lassen: Neben dem Star Wars Special von [Robot Chicken](http://eay.cc/artikel/robotchicken/) am 17. Juni, siehe [ Trailer](http://www.youtube.com/watch?v=smlMQc0zKfw) & [Webseite](http://www.adultswim.com/shows/robotchicken/stuff/rcsw/), wird's im Herbst auch eine einstündige Episode von Family Guy geben, die einzig und allein die Story vom ersten Film "A New Hope" nachspielen wird. Peter Griffin als Han Solo, seine Frau Lois als Leia, Chris als Luke und - wie sollte es anders sein? - Stewie als Darth Vader und Brian als Chewbacca. Und natürlich Meg als Monster. Herrlich. Wer nicht mehr bis Herbst warten kann, sei beruhigt: Im Rahmen der Geburtstagsfeierlichkeiten hat man den Fans bereits ein 10 Minuten langes Preview gezeigt, welches nun wiederum abgefilmt auf YouTube aufgetaucht ist. Nach dem Klick könnt ihr's euch auch hier ansehen - lohnt sich wirklich! (via [so ziemlich alle Blogs hier](http://eay.cc/links/))

@@ -17,7 +17,7 @@ tags:
   - romantic-comedy
   - sneak-preview
 meta:
-  - yourls_shorturl: "http://eay.li/bu"
+  - yourls_shorturl: "https://eay.li/bu"
 ---
 
 ![](https://eay.cc/uploads/2010/reviewrundumschlag8.jpg)

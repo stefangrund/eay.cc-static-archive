@@ -14,7 +14,7 @@ tags:
   - fernsehen
   - simpsons
 meta:
-  - yourls_shorturl: "http://eay.li/3k"
+  - yourls_shorturl: "https://eay.li/3k"
 ---
 
 Wenn [Garfield ohne Garfield](//eay.cc/2008/komisch-ohne-kater/) fast schon besser ist als mit, dachte sich RomÃ¡n Cortés, wie gut müssen dann die Simpsons ohne die Simpsons sein? Kurzerhand hat er deshalb Homer & Co. Frame für Frame [aus ihrem Intro entfernt](http://www.romancortes.com/blog/the-simpsons-minus-the-simpsons/). Strange, but, hey!, it's teh internets! ([via](http://waxy.org/links/))

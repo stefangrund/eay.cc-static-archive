@@ -19,7 +19,7 @@ tags:
   - retro
   - weisheiten
 meta:
-  - yourls_shorturl: "http://eay.li/5v"
+  - yourls_shorturl: "https://eay.li/5v"
 ---
 
 Campy Batman erklärt die Welt. Made my day und generell sollte jeder aus dem Stegreif eine diese Weisheiten zitieren können - dann wäre diese Welt eine bessere!

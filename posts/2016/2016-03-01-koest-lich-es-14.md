@@ -24,7 +24,7 @@ tags:
   - web-development
   - zukunft
 meta:
-  - yourls_shorturl: "http://eay.li/2s4"
+  - yourls_shorturl: "https://eay.li/2s4"
 ---
 
 Die letzte Ausgabe des neuen Runs meiner unregelmäßig erscheinenden Linkliste "[koest.lich.es](//eay.cc/tag/koestliches/)" liegt schon wieder einen Monat zurück. Zeit für weitere, feine Hyperlinks. Feedback dazu, was ihr von derartigen Linklisten im allgemeinen und dieser im speziellen haltet, gerne [in die Kommentare](//eay.cc/2016/koest-lich-es-14/#respond)! 😌

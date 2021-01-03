@@ -18,7 +18,7 @@ tags:
   - yonks
   - zeit
 meta:
-  - yourls_shorturl: "http://eay.li/38j"
+  - yourls_shorturl: "https://eay.li/38j"
   - content_copy: "https://twitter.com/eay/status/1083307045045047301"
   - content_copy: "https://eay.social/@eay/101392006104963059"
   - content_copy: "https://www.instagram.com/p/BsdGMpQHMi6/"

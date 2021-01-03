@@ -15,7 +15,7 @@ tags:
   - koeln
   - musik
 meta:
-  - yourls_shorturl: "http://eay.li/3dh"
+  - yourls_shorturl: "https://eay.li/3dh"
 ---
 
 > 40 Kölner Musiker – ein Song. So habt Ihr "En unserem Veedel" noch nie gehört. Denn he hält mer zesamme!

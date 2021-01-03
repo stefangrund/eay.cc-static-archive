@@ -15,7 +15,7 @@ tags:
   - oscars
 meta:
   - linked_list_url: "https://www.slashfilm.com/2020-oscar-nominations/"
-  - yourls_shorturl: "http://eay.li/3cd"
+  - yourls_shorturl: "https://eay.li/3cd"
   - geo_latitude: "50.973714420105"
   - geo_longitude: "6.6833338347744"
   - geo_public: "1"

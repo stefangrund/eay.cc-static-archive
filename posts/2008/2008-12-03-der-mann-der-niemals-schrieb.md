@@ -12,7 +12,7 @@ tags:
   - kinolog
   - terrorismus
 meta:
-  - yourls_shorturl: "http://eay.li/wr"
+  - yourls_shorturl: "https://eay.li/wr"
 ---
 
 ![](/uploads/2008/bodyoflies.jpg)[Der Mann, der niemals lebte](http://www.imdb.com/title/tt0758774/) ist ein weiterer Versuch seitens Leonardo DiCaprio sich von seinem ewigen Milchbubi-Image zu verabschieden. Und das gelingt ihm meines Erachtens nach, wie schon bei Scorseses grandiosem [The Departed](http://www.amazon.de/exec/obidos/ASIN/B000UWT92S/eayznet-21), ziemlich gut. Und vor der Kamera von Regisseur-Legende Ridley Scott, der immerhin dreimal erfolglos für den Oscar als "Bester Regisseur" nominiert war, sollte auch die größte Pfeife glaubhaft zum gescheiten Geheimagenten werden.

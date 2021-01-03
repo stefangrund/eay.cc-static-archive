@@ -14,7 +14,7 @@ tags:
   - technologie
 meta:
   - linked_list_url: "http://was-ist-quantified-self.de/"
-  - yourls_shorturl: "http://eay.li/2ik"
+  - yourls_shorturl: "https://eay.li/2ik"
 ---
 
 Wer im Rahmen meiner [Personal API](//eay.cc/2014/meine-personal-api-bachelorarbeit-ist-nun-online-und-als-kostenloses-ebook-verfuegbar/) bei "Quantified Self" nur Bahnhof versteht, sollte sich diese informative Seite von [Arne Tensfeldt](http://www.arnetensfeldt.de/) ansehen (oder [Kapitel 2.3.4](http://stefangrund.de/personalapi/#2.3.4) durchlesen). Ideal um unwissende Mitmenschen daran zu verweisen.

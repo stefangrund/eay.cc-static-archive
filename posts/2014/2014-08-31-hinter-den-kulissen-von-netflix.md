@@ -17,7 +17,7 @@ tags:
   - streaming
 meta:
   - linked_list_url: "http://heise.de/ct/artikel/Hinter-den-Kulissen-von-Netflix-2304264.html"
-  - yourls_shorturl: "http://eay.li/2ip"
+  - yourls_shorturl: "https://eay.li/2ip"
 ---
 
 c't-Redakteur Nico Jurran hat kurz vor dem Deutschlandstart die Firmenzentrale von Netflix in Kalifornien besucht und ist überrascht,

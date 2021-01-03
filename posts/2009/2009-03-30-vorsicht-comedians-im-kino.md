@@ -14,7 +14,7 @@ tags:
   - mario-barth
   - trailerfilm
 meta:
-  - yourls_shorturl: "http://eay.li/lc"
+  - yourls_shorturl: "https://eay.li/lc"
 ---
 
 ![](/uploads/2009/maennersache.jpg)Eigentlich wollte ich mir [Männersache](http://www.imdb.com/title/tt1263757/), den Kinofilm von Mario Barth, gar nicht ansehen. Auch wenn Herr Barth einen super Einstand hinlegte und mich in der Nachbarkleinstadt im privaten Rahmen mit seinem Programm wirklich begeistern konnte, ließ mein Enthusiasmus zu Beginn seines zweiten Programms doch recht schnell nach, da seine Geschichten beim ersten Hören zwar witzig sind und natürlich auch die gewünschten Kabbeleien unter Pärchen erreichen, jedoch beim zweiten Mal schon eher ausgelutscht wirken. Jedenfalls überzeugte mich überraschenderweise ein Fernseh-Special zum Film und so ging ich am Freitagabend eben doch ins Kino.

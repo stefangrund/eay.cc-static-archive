@@ -15,7 +15,7 @@ tags:
   - tanzen
   - tiere
 meta:
-  - yourls_shorturl: "http://eay.li/1da"
+  - yourls_shorturl: "https://eay.li/1da"
 ---
 
 ![](https://eay.cc/uploads/2011/catdance.gif) Dinner für Spinner.

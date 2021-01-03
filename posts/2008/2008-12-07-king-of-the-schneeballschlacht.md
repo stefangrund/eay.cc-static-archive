@@ -14,7 +14,7 @@ tags:
   - waffen
   - winter
 meta:
-  - yourls_shorturl: "http://eay.li/xd"
+  - yourls_shorturl: "https://eay.li/xd"
 ---
 
 ![](/uploads/2008/snowballblaster.jpg "by/via hammacher.com") Heute in unserer mehr als losen, manch einer würde gar sagen, gar nicht existenten Reihe der merkwürdigen Weihnachtsgeschenktipps für den merkwürdigen Spielzeugwaffennarr von Nebenan, der die herkömmlichen [Wasserpistolen](//eay.cc/2007/waffenlobby-2/) und [Gummikanonen](//eay.cc/2007/waffenlobby-1/) nicht mehr sehen kann: der [Snowball Blaster](http://www.hammacher.com/publish/76244.asp). Für nur 30 Dollar bekommen wir eine Gerätschaft aus Kälte-resistentem Plastik, die einem nicht nur das Formen von Schnellbällen abnimmt, sondern auch das Bewerfen gar nicht so Kälte-resistenter Mitmenschen automatisiert. Hiermit, das wissen alle Schnellballschlachttaktiker, ist der Sieg so gut wie sicher. [Herr Lee](http://twitter.com/The_McLee), ich fordere Sie heraus!

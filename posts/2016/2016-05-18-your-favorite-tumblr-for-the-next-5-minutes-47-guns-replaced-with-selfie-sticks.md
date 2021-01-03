@@ -15,7 +15,7 @@ tags:
   - waffen
   - your-favorite-tumblr-for-the-next-5-minutes
 meta:
-  - yourls_shorturl: "http://eay.li/2te"
+  - yourls_shorturl: "https://eay.li/2te"
 ---
 
 ![](https://eay.cc/uploads/2016/guns-replaced-with-selfie-sticks.jpg)

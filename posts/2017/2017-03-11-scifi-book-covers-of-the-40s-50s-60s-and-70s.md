@@ -16,7 +16,7 @@ tags:
 meta:
   - linked_list_url: "https://www.flickr.com/groups/22742217@N00/pool/page1"
   - linked_list_url: "https://www.flickr.com/groups/22742217@N00/pool/page1"
-  - yourls_shorturl: "http://eay.li/2wx"
+  - yourls_shorturl: "https://eay.li/2wx"
 ---
 
 [![](https://eay.cc/uploads/2017/scifi-books.jpg)](https://www.flickr.com/groups/22742217@N00/pool/page1)

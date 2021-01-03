@@ -20,7 +20,7 @@ tags:
   - theme
   - wordpress
 meta:
-  - yourls_shorturl: "http://eay.li/27v"
+  - yourls_shorturl: "https://eay.li/27v"
 ---
 
 Liebe Freunde, liebe Leser, liebe Laufkundschaft, es ist Zeit für Veränderungen!

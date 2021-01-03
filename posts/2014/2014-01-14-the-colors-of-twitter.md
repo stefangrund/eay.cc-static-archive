@@ -15,7 +15,7 @@ tags:
   - visualisierung
 meta:
   - linked_list_url: "http://www.thecolorsoftwitter.com/"
-  - yourls_shorturl: "http://eay.li/2bu"
+  - yourls_shorturl: "https://eay.li/2bu"
 ---
 
 Schöne Visualisierung von Tweets mit Farben. (via [@dennishorn](https://twitter.com/dennishorn/status/423119999788908544))

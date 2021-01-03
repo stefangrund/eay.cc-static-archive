@@ -18,7 +18,7 @@ tags:
   - xbox
   - zukunft
 meta:
-  - yourls_shorturl: "http://eay.li/2mp"
+  - yourls_shorturl: "https://eay.li/2mp"
 ---
 
 \[youtube id="aThCr0PsyuA"\]

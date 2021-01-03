@@ -12,7 +12,7 @@ tags:
   - konzerte
   - musik
 meta:
-  - yourls_shorturl: "http://eay.li/16x"
+  - yourls_shorturl: "https://eay.li/16x"
 ---
 
 > In mehr als drei Jahrzehnten ihrer Karriere haben [Laternen-Joe](http://www.laternen-joe.de/) keine Anzeichen von Ermüdung gezeigt. Damals wie heute ist dieser Band eine unerschöpfliche Quelle von Kraft und Energie für die ganze Welt und berührt die Herzen von Millionen Menschen, denen sie mit ihren schwermütigen und trotzdem hoffnungsvollen Liedern einen Weg zur Flucht aus dem oftmals so bitteren Alltag bieten.

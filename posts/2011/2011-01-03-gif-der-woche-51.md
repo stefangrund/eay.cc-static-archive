@@ -14,7 +14,7 @@ tags:
   - gif-der-woche
   - waffen
 meta:
-  - yourls_shorturl: "http://eay.li/13v"
+  - yourls_shorturl: "https://eay.li/13v"
 ---
 
 ![](https://eay.cc/uploads/2011/fembots.gif) Als nachträglicher Silvesterkracher ein paar [Fembots](http://austinpowers.wikia.com/wiki/Fembots). Frohes neues Jahr!

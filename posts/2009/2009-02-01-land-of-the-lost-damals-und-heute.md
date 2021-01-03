@@ -16,7 +16,7 @@ tags:
   - trash
   - will-ferrell
 meta:
-  - yourls_shorturl: "http://eay.li/9b"
+  - yourls_shorturl: "https://eay.li/9b"
 ---
 
 Erinnert ihr euch noch an die Serie [Land of the Lost](http://en.wikipedia.org/wiki/Land_of_the_Lost_(1974_TV_series)), die hierzulande irreführenderweise [Im Land der Saurier](http://de.wikipedia.org/wiki/Im_Land_der_Saurier) hieß? Die Serie von 1974, die sich vor allem durch die überaus schlechten Stop-Motion-Dinosaurier auszeichnete, hat in den US of A, wie das halt so ist, mittlerweile Kultstatus erreicht, ist [auf DVD](http://www.amazon.com/Land-Lost-Complete-Second-Season/dp/B0002XL2KW/ref=sr_1_4/190-2207826-6660130?ie=utf8mb4&s=dvd&qid=1233478884&sr=8-4) erschienen und kommt in diesem Jahr neu verfilmt ins Kino. Mit Hauptdarsteller Will Ferrell und einem verhältnismäßig günstigen Budget von 100 Millionen.

@@ -14,7 +14,7 @@ tags:
   - komoedie
   - weihnachten
 meta:
-  - yourls_shorturl: "http://eay.li/2x"
+  - yourls_shorturl: "https://eay.li/2x"
 ---
 
 ![](/uploads/2008/fourchristmases.jpg)Um uns auf die familiären Feierlichkeiten der Festtage bestens einzustimmen, haben die Freundin und ich uns kurz zuvor die romantische Weihnachtskomödie "Four Chistmases" gegeben, die hierzulande den schon mindestens tausend Mal gehörten Titel [Mein Schatz, unsere Familie und ich](http://www.imdb.com/title/tt0369436/) trägt. Eine weitere Beziehungskomödie, die irgendwas mit Weihnachten zu tun hat. Aber was? Der ebenso unspektakuläre Original-Titel offenbart: irgendjemand ist hier in vier Weihnachtsfeste involviert. Klar, dass es sich dabei um "mein Schatz" und "ich" handelt. Konkret liest sich das dann so:

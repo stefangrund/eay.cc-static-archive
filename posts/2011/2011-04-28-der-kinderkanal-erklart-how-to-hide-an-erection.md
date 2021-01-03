@@ -15,7 +15,7 @@ tags:
   - how-to
   - kika
 meta:
-  - yourls_shorturl: "http://eay.li/17k"
+  - yourls_shorturl: "https://eay.li/17k"
 ---
 
 Das hier ist so bizarr, dass ich es selbst - auch nach mehrmaliger Sichtung - nicht glauben kann: [KI.KA](http://de.wikipedia.org/wiki/KI.KA), der Kinderkanal von ARD und ZDF, erklärt in einem Beitrag, wie kleine und große Jungs am besten eine Erektion in der Öffentlichkeit verbergen können. WTF der Woche. Mindestens. (via [turi2](http://www.turi2.de/2011/04/28/heute2-bunte-dpa-motor-presse-11068913/))

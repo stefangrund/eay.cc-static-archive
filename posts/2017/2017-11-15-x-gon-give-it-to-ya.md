@@ -17,7 +17,7 @@ tags:
   - technologie
 meta:
   - content_copy: "https://instagram.com/p/BbhlCU6lyNC/"
-  - yourls_shorturl: "http://eay.li/32a"
+  - yourls_shorturl: "https://eay.li/32a"
   - content_copy: "https://twitter.com/eay/status/930853534442156032"
 ---
 

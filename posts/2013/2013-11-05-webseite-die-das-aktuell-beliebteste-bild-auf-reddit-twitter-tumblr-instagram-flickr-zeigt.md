@@ -19,7 +19,7 @@ tags:
   - webservice
 meta:
   - linked_list_url: "http://www.oublio.com/"
-  - yourls_shorturl: "http://eay.li/299"
+  - yourls_shorturl: "https://eay.li/299"
 ---
 
 (via [Laughing Squid](http://laughingsquid.com/oublio-a-website-for-the-most-popular-images-on-reddit-twitter-tumblr-more/))

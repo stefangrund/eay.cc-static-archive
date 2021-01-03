@@ -15,7 +15,7 @@ tags:
   - kickstarter
   - zukunft
 meta:
-  - yourls_shorturl: "http://eay.li/1yp"
+  - yourls_shorturl: "https://eay.li/1yp"
   - linked_list_url: "http://www.kickstarter.com/projects/limemouse/lifx-the-light-bulb-reinvented"
 ---
 

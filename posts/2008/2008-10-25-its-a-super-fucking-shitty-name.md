@@ -15,7 +15,7 @@ tags:
   - usa
   - wahlkampf
 meta:
-  - yourls_shorturl: "http://eay.li/g8"
+  - yourls_shorturl: "https://eay.li/g8"
 ---
 
 Die US-Wahlen werden ja bekanntlich in Florida entschieden. Deshalb hat die Webseite [The Great Schlep](http://www.thegreatschlep.com/) es sich zur Aufgabe gemacht, Enkelkinder dazu zu motivieren, ihre jüdischen Großeltern in Florida zu besuchen und sie von Barack Obama zu überzeugen.

@@ -15,7 +15,7 @@ tags:
   - wikipedia
 meta:
   - linked_list_url: "http://en.wikipedia.org/wiki/Wikipedia:Deleted_articles_with_freaky_titles"
-  - yourls_shorturl: "http://eay.li/2l3"
+  - yourls_shorturl: "https://eay.li/2l3"
 ---
 
 feat. "Dog Fart Neutralizing Thong", "List of deaths by cello" und "Video Games that Announce Future War", die ich z.B. alle gerne gelesen hätte. (via [Nerdcore](http://www.nerdcore.de/2014/11/09/deleted-wikipedia-articles-with-freaky-titles/))

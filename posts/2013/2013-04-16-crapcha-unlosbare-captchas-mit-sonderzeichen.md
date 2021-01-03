@@ -14,7 +14,7 @@ tags:
   - parodie
   - webservice
 meta:
-  - yourls_shorturl: "http://eay.li/22y"
+  - yourls_shorturl: "https://eay.li/22y"
   - linked_list_url: "http://crapcha.com/"
 ---
 

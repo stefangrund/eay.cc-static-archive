@@ -16,7 +16,7 @@ tags:
   - trailer
   - trash
 meta:
-  - yourls_shorturl: "http://eay.li/87"
+  - yourls_shorturl: "https://eay.li/87"
 ---
 
 Bisher dachte ich, dass sich das Schaffen des 60er-Jahre-Batman Adam West in den letzten Jahren [auf infantiles Gekritzel](//eay.cc/2008/die-kunst-des-batman-adam-west/) beschränkte. Wie ich gerade [bei Popmoderne](http://news.antville.org/stories/1853493/) erfahren habe, habe ich mich jedoch in ihm getäuscht: 2007 hat er sein durchaus unterhaltsames Lebenswerk nämlich mit dem wahrscheinlich sehr anspruchsvollen Film [Sexina: Popstar P.I.](http://www.imdb.com/title/tt0479978/) gekrönt.

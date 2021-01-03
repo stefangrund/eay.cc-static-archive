@@ -13,7 +13,7 @@ tags:
   - webservice
   - weihnachten
 meta:
-  - yourls_shorturl: "http://eay.li/1qm"
+  - yourls_shorturl: "https://eay.li/1qm"
 ---
 
 Und damit's heute Abend und die nächsten Tage richtig schön feierlich wird, einfach das folgende, drei Stunden lange Kaminfeuer-Video im Vollbild auf eurem Monitor oder Fernseher abspielen.

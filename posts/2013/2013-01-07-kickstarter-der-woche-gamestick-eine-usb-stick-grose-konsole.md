@@ -16,7 +16,7 @@ tags:
   - kickstarter-der-woche
   - konsolen
 meta:
-  - yourls_shorturl: "http://eay.li/217"
+  - yourls_shorturl: "https://eay.li/217"
   - linked_list_url: "http://www.kickstarter.com/projects/872297630/gamestick-the-most-portable-tv-games-console-ever"
 ---
 

@@ -14,7 +14,7 @@ tags:
   - gif-der-woche
   - queen
 meta:
-  - yourls_shorturl: "http://eay.li/x1"
+  - yourls_shorturl: "https://eay.li/x1"
 ---
 
 ![](/uploads/2008/queen.gif) Die [Queen](http://de.wikipedia.org/wiki/Elisabeth_II._(Vereinigtes_K%C3%B6nigreich)) beim Nudeln essen - zur Feier ihres 82. Geburtstags.

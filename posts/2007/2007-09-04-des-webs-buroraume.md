@@ -17,7 +17,7 @@ tags:
   - twitter
   - web-2-0
 meta:
-  - yourls_shorturl: "http://eay.li/4c"
+  - yourls_shorturl: "https://eay.li/4c"
 ---
 
 Also ich würde ja am liebsten [bei Twitter arbeiten](http://www.techtear.com/2007/08/29/la-web-20-en-el-mundo-real/). (via [Basic Thinking](http://www.basicthinking.de/blog/2007/09/04/einblicke-in-startup-bueros/))

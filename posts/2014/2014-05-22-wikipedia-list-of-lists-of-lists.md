@@ -15,7 +15,7 @@ tags:
   - wikipedia
 meta:
   - linked_list_url: "https://en.wikipedia.org/wiki/List_of_lists_of_lists"
-  - yourls_shorturl: "http://eay.li/2g0"
+  - yourls_shorturl: "https://eay.li/2g0"
 ---
 
 > This article is a list of articles that consist of a list of things that are themselves about lists of things, such as the lists of lists listed below.

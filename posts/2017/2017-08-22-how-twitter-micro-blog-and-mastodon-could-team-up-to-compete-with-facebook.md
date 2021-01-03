@@ -19,7 +19,7 @@ tags:
   - twitter
 meta:
   - linked_list_url: "http://altplatform.org/2017/06/22/flip-the-iceberg/"
-  - yourls_shorturl: "http://eay.li/30s"
+  - yourls_shorturl: "https://eay.li/30s"
 ---
 
 Brian Hendrickson has a point:

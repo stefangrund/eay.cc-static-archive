@@ -16,7 +16,7 @@ tags:
   - the-walking-dead
   - zombies
 meta:
-  - yourls_shorturl: "http://eay.li/116"
+  - yourls_shorturl: "https://eay.li/116"
 ---
 
 \[vimeo id="15266890"\]

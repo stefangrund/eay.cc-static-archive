@@ -18,7 +18,7 @@ meta:
   - linked_list_url: "https://www.washingtonpost.com/graphics/2020/world/corona-simulator/"
   - content_copy: "https://twitter.com/eay/status/1239108460979109889"
   - content_copy: "https://eay.social/@eay/103826160964621120"
-  - yourls_shorturl: "http://eay.li/3d2"
+  - yourls_shorturl: "https://eay.li/3d2"
 ---
 
 Die Washington Post zeigt hier anhand von ein paar sehr guten Visuali­sierungen sehr anschaulich, was “flatten the curve” bedeutet und worin die Unterschiede von Quarantäne und Social Distancing liegen.

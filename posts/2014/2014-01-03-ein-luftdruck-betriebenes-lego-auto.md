@@ -14,7 +14,7 @@ tags:
   - lego
   - technologie
 meta:
-  - yourls_shorturl: "http://eay.li/2bb"
+  - yourls_shorturl: "https://eay.li/2bb"
 ---
 
 \[youtube id="\_ObE4\_nMCjE"\]

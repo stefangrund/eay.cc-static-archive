@@ -15,7 +15,7 @@ tags:
   - star-wars
 meta:
   - linked_list_url: "https://www.tmz.com/2014/06/02/star-wars-episode-7-set-photos-secret-pics-new-creature/"
-  - yourls_shorturl: "http://eay.li/2gk"
+  - yourls_shorturl: "https://eay.li/2gk"
 ---
 
 Darf hier aus Chronistenpflicht natürlich nicht fehlen: Die Hollywood-Gossip-Seite TMZ hat ein paar Behind-the-Scenes-Bilder vom Set von [Episode VII](//eay.cc/tag/episode-7/) aufgetan und gestern veröffentlicht. Was ich sehe, gefällt mir soweit schon mal, weil sich [das hier](https://twitter.com/eay/statuses/468539957976764416) nicht (allzu sehr) zu bewahrheiten scheint.

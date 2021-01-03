@@ -14,7 +14,7 @@ tags:
   - serien
   - zombies
 meta:
-  - yourls_shorturl: "http://eay.li/5a"
+  - yourls_shorturl: "https://eay.li/5a"
 ---
 
 Im Urlaub habe ich endlich die Zeit gefunden, mir mal wieder ein paar mehr Filme und Serien anzusehen. Unter anderem ist mir dabei - vor der US-Erstausstrahlung, nicht fragen \*hust\* - die Pilotfolge von [J.J. Abrams](//eay.cc/tag/jjabrams/) neuer Serie [Fringe](http://www.imdb.com/title/tt1119644/) untergekommen.

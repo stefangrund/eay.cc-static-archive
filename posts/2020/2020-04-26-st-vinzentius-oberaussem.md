@@ -14,10 +14,10 @@ tags:
   - oberaussem-niederaussem
 meta:
   - content_copy: "https://www.instagram.com/p/B_dEDKXnvGy/"
-  - yourls_shorturl: "http://eay.li/3dy"
+  - yourls_shorturl: "https://eay.li/3dy"
   - content_copy: "https://twitter.com/eay/status/1254504053343731713"
 ---
 
 ![](https://eay.cc/uploads/2020/st-vinzentius.jpeg)
 
-Aus meiner beliebten Reihe von Oberaußem-Bildern: Eine weitere Aufnahme von St. Vinzentius am Abend.
+Aus meiner beliebten [Reihe von Oberaußem-Bildern](https://eay.cc/tag/oberaussem-niederaussem/): Eine weitere Aufnahme von St. Vinzentius am Abend.

@@ -15,7 +15,7 @@ tags:
   - twitter
   - werbung
 meta:
-  - yourls_shorturl: "http://eay.li/1z8"
+  - yourls_shorturl: "https://eay.li/1z8"
   - linked_list_url: "http://mashable.com/2012/10/02/ew-has-smartphone-inside/"
 ---
 

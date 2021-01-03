@@ -19,7 +19,7 @@ tags:
   - musik
   - sport
 meta:
-  - yourls_shorturl: "http://eay.li/nt"
+  - yourls_shorturl: "https://eay.li/nt"
 ---
 
 Oder: "Warum wurde hier die letzten Tage nichts gebloggt? - Die wirklich wahre Wahrheit über das verlängerte Pfingstwochenende des Eay." Ja, es war zwar körperlich anstrengend, aber vor allem schön. Freitag, Samstag, Sonntag: volles Programm. Montag: Ruhetag. Und jetzt Pfingstferien. Es könnte schlimmer sein. Um einiges. Aber eine Frage drängte sich immer wieder auf: wie hat das ganze eigentlich angefangen?

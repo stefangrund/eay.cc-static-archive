@@ -11,7 +11,7 @@ tags:
   - schlafen
   - stoeckchen
 meta:
-  - yourls_shorturl: "http://eay.li/g0"
+  - yourls_shorturl: "https://eay.li/g0"
 ---
 
 Da der Herr Winkelsen jedermann aufgefordert hat, [sein Stöckchen](http://www.whudat.de/?p=1013) im eigenen Blog zu beantworten (ein geschickter SEO-Schachzug. Warum ist das vorher noch niemandem eingefallen?), werde ich dies nun hiermit tun, allmächtiger MC.

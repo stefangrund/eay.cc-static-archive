@@ -13,7 +13,7 @@ tags:
   - microsoft
   - xbox
 meta:
-  - yourls_shorturl: "http://eay.li/20e"
+  - yourls_shorturl: "https://eay.li/20e"
   - linked_list_url: "http://www.theverge.com/2012/11/21/3674802/xbox-tv-set-top-box-casual-gaming-streaming-2013"
 ---
 

@@ -18,7 +18,7 @@ tags:
   - technologie
 meta:
   - linked_list_url: "http://www.coding2learn.org/blog/2013/07/29/kids-cant-use-computers/"
-  - yourls_shorturl: "http://eay.li/26e"
+  - yourls_shorturl: "https://eay.li/26e"
 ---
 
 Marc Scott ist Informatiklehrer in England und beschreibt hier recht lesenswert, dass seine Schüler keine Ahnung mehr von Computern haben, woran das liegt und wie man das ändern kann. Dieser Praxistipp für Eltern hat's mir besonders angetan:

@@ -14,7 +14,7 @@ tags:
   - weltall
   - wissenschaft
 meta:
-  - yourls_shorturl: "http://eay.li/3cm"
+  - yourls_shorturl: "https://eay.li/3cm"
   - content_copy: "https://twitter.com/eay/status/1222810040937127938"
   - content_copy: "https://eay.social/@eay/103571495763387427"
   - geo_latitude: "50.973878374821"

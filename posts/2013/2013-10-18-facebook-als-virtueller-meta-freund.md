@@ -14,7 +14,7 @@ tags:
   - medienwissenschaft
   - social-media
 meta:
-  - yourls_shorturl: "http://eay.li/28k"
+  - yourls_shorturl: "https://eay.li/28k"
 ---
 
 > Alle Vorzüge einer Freundschaft vermag Facebook nicht zu bieten: So kann man zwar vor dem Bildschirm einen trinken, doch wird dabei nur einer besoffen. Auch antwortet Facebook einem nicht immer, wenn man es wünscht. Und der Geschlechtsverkehr »mit« dem Netzwerk unterliegt erheblichen Einschränkungen.

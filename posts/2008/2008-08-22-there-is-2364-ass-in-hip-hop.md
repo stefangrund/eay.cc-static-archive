@@ -12,7 +12,7 @@ tags:
   - musik
   - wissenschaft
 meta:
-  - yourls_shorturl: "http://eay.li/gm"
+  - yourls_shorturl: "https://eay.li/gm"
 ---
 
 ![](/uploads/2008/bodymusic.jpg) [Hier](http://www.fleshmap.com/listen/music.html) (etwas nsfw) hat jemand eine aufschlussreiche und wissenschaftlich mal wieder äußerst wichtige Übersicht angefertigt, die verrät wie oft welches Körperteil besungen wird. Im Rock gibt's übrigens nur 0.77% Arsch, was vor allem verwunderlich ist, wenn man weiß, dass sogar der Gospel 0.62% Arschanteil hat. Hach, ich liebe das Internet... ([via](http://waxy.org/links/))

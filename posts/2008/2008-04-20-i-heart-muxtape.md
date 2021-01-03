@@ -16,7 +16,7 @@ tags:
   - netzkultur
   - webservice
 meta:
-  - yourls_shorturl: "http://eay.li/fd"
+  - yourls_shorturl: "https://eay.li/fd"
 ---
 
 [![](/uploads/2008/eayzmuxtape.jpg)](http://eayz.muxtape.com/) [Muxtape](http://muxtape.com/) ist eine minimalistische und großartige Webseite, auf der man sich ein 12 Tracks umfassendes Mixtape zusammenstellen kann. Einfach ein paar stimmige MP3s hochgeladen, sortiert, fertig. Klar, das sich hier etliche Perlen finden lassen und man ganze Wochenenden hierin stöbern kann. Rechtlich versucht sich das Angebot dahingehend abzusichern, das man die Songs nur anhören und nicht runterladen kann. [Nun ja](http://userscripts.org/scripts/show/24382). Und was unsere GEMA bei entsprechender Popularität des Services sagen wird, dürfte auch klar sein.

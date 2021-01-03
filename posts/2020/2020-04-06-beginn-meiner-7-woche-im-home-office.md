@@ -17,7 +17,7 @@ meta:
   - content_copy: "https://twitter.com/eay/status/1247083250423660544"
   - content_copy: "https://twitter.com/eay/status/1247084580739387392"
   - content_copy: "https://twitter.com/eay/status/1247085447752409093"
-  - yourls_shorturl: "http://eay.li/3dp"
+  - yourls_shorturl: "https://eay.li/3dp"
 ---
 
 Beginn meiner 7. Woche im Home Office. Die meisten Einkäufe erledigt meine Frau. Wofür besitzt man mehr als zwei Hosen? Bin bei Menschenmengen im fiktionalen Fernsehen besorgt. Nudeln kann ich auch nicht mehr sehen. In den frühen Morgenstunden klaue in den Nachbarn die Zeitungen.

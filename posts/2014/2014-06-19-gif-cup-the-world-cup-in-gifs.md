@@ -15,7 +15,7 @@ tags:
   - wm-2014
 meta:
   - linked_list_url: "http://www.gifcup.com/"
-  - yourls_shorturl: "http://eay.li/2h5"
+  - yourls_shorturl: "https://eay.li/2h5"
 ---
 
 Ich hätte dann gerne demnächst sämtliche Nachrichten in GIF-Form.

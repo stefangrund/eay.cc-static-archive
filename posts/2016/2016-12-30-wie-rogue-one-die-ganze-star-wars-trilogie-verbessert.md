@@ -15,7 +15,7 @@ tags:
   - star-wars
 meta:
   - linked_list_url: "http://www.pewpewpew.de/2016/12/30/the-great-retcon-rogue-one-verbessert-die-ganze-star-wars-trilogie/"
-  - yourls_shorturl: "http://eay.li/2vx"
+  - yourls_shorturl: "https://eay.li/2vx"
 ---
 
 Bleiben wir [beim neuesten Star Wars](https://eay.cc/2016/rogue-one-a-star-wars-story/): Sascha erklärt, wie »Rogue One« Plot Holes stopft und Probleme, die seit Jahrzehnten im Fandom diskutiert werden, löst.

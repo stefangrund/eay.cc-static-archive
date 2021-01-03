@@ -14,7 +14,7 @@ tags:
   - tiere
 meta:
   - linked_list_url: "http://www.vox.com/xpress/2014/10/2/6875031/chickens-breeding-farming-boilers-giant"
-  - yourls_shorturl: "http://eay.li/2kn"
+  - yourls_shorturl: "https://eay.li/2kn"
 ---
 
 ![](https://eay.cc/uploads/2014/chickens.jpg)

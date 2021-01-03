@@ -13,7 +13,7 @@ tags:
   - rugby
   - sport
 meta:
-  - yourls_shorturl: "http://eay.li/21r"
+  - yourls_shorturl: "https://eay.li/21r"
   - linked_list_url: "http://kottke.org/13/01/the-worlds-fastest-rugby-player"
 ---
 

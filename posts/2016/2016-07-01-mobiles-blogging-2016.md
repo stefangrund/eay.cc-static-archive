@@ -12,7 +12,7 @@ categories:
 tags:
   - blogging
 meta:
-  - yourls_shorturl: "http://eay.li/2uj"
+  - yourls_shorturl: "https://eay.li/2uj"
 ---
 
 [Der vorherige Beitrag](https://eay.cc/2016/ev-williams-is-the-forrest-gump-of-the-internet/) wurde übrigens, genau wie dieser hier, während meines Arbeitswegs in der Bahn und auf dem Fußweg vom Kölner Hauptbahnhof zur Agentur geschrieben, sagte er, bevor er beim Überqueren der Straße ein Auto übersah.

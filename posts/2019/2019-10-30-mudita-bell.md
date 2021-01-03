@@ -15,7 +15,7 @@ tags:
   - konsum
   - schlafen
 meta:
-  - yourls_shorturl: "http://eay.li/3bp"
+  - yourls_shorturl: "https://eay.li/3bp"
   - geo_latitude: "51.28098500862"
   - geo_longitude: "6.7660680730889"
   - geo_public: "1"

@@ -18,7 +18,7 @@ meta:
   - linked_list_url: "http://jspaint.ml/"
   - linked_list_url: "http://jspaint.ml/"
   - linked_list_url: "http://jspaint.ml/"
-  - yourls_shorturl: "http://eay.li/33a"
+  - yourls_shorturl: "https://eay.li/33a"
 ---
 
 > JS Paint is a web-based remake of MS Paint by [Isaiah Odhner](http://1j01.github.io/). You can check out the project [on Github](https://github.com/1j01/jspaint).

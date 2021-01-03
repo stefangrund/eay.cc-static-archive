@@ -14,7 +14,7 @@ tags:
   - gif-der-woche
   - nahrung
 meta:
-  - yourls_shorturl: "http://eay.li/3o"
+  - yourls_shorturl: "https://eay.li/3o"
 ---
 
 ![](/uploads/2009/kartoffel.gif) Eine Selbstmordkartoffel. _Natürlich._

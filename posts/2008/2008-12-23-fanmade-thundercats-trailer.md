@@ -18,7 +18,7 @@ tags:
   - trailer
   - vin-diesel
 meta:
-  - yourls_shorturl: "http://eay.li/q0"
+  - yourls_shorturl: "https://eay.li/q0"
 ---
 
 Bereits [vor 1 ½ Jahren](//eay.cc/2007/thundercats-the-movie/) haben wir uns an dieser Stelle darüber gefreut, dass die [Thundercats](http://www.thundercatslair.org/cartoon/) es _irgendwann demnächst mal_ auf die große Leinwand schaffen. Damals war noch von einem CGI-Abenteuer die Rede und über die diversen Synchronsprecher wurde spekuliert. Seitdem ist es jedoch ruhig um eine Thundercats-Verfilmung geworden und lediglich [ein mysteriöser IMDb-Eintrag](http://www.imdb.com/title/tt1047015/) lässt auf Realisierung und eine Veröffentlichung im Jahr 2010 schließen.

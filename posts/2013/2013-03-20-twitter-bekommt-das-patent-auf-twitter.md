@@ -15,7 +15,7 @@ tags:
   - twitter
   - web-2-0
 meta:
-  - yourls_shorturl: "http://eay.li/22g"
+  - yourls_shorturl: "https://eay.li/22g"
   - linked_list_url: "http://www.theverge.com/2013/3/19/4124888/twitter-gets-a-patent-on-twitter"
 ---
 

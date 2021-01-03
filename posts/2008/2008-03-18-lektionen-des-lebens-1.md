@@ -11,7 +11,7 @@ tags:
   - analogleben
   - nahrung
 meta:
-  - yourls_shorturl: "http://eay.li/2f"
+  - yourls_shorturl: "https://eay.li/2f"
 ---
 
 Wenn man erst um 15:00 Uhr zu Mittag isst und deswegen auf's Abendessen verzichtet, muss man sich um 1:30 Uhr nochmal zum _frühstücken_ in die Küche begeben. 155 Zeichen und somit zu lang. Sonst hätte ich's ja getwittert...

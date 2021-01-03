@@ -17,7 +17,7 @@ tags:
   - in-produktion
 meta:
   - linked_list_url: "http://www.slashfilm.com/warner-bros-announces-harry-potter-spinoff-film-j-k-rowling-to-script/"
-  - yourls_shorturl: "http://eay.li/276"
+  - yourls_shorturl: "https://eay.li/276"
 ---
 
 [Sascha dazu](http://www.pewpewpew.de/2013/09/12/neuer-harry-potter-spin-off-film/):

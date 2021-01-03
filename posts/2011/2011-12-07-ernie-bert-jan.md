@@ -13,7 +13,7 @@ tags:
   - neil-patrick-harris
   - sesamstrasse
 meta:
-  - yourls_shorturl: "http://eay.li/1d8"
+  - yourls_shorturl: "https://eay.li/1d8"
 ---
 
 [![](https://eay.cc/uploads/2011/jandelaysesamstrasse.jpg)](http://www.ndr.de/fernsehen/sendungen/sesamstrasse/jandelaysesamstrasse111.html) In den USA kommt [Neil Patrick Harris](http://www.youtube.com/watch?v=TxdPYMRSg5A) in die Sesamstraße, hierzulande Jan Delay. Aber immerhin tun sich die drei stimmtechnisch so rein gar nichts. (via [Macelodeon](http://macelodeon.de/links/bookmark-6498/jan-delay-feat.-ernie-%26-bert/))

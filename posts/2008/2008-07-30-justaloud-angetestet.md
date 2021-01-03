@@ -13,7 +13,7 @@ tags:
   - musik
   - netzkultur
 meta:
-  - yourls_shorturl: "http://eay.li/og"
+  - yourls_shorturl: "https://eay.li/og"
 ---
 
 ![](/uploads/2008/justaloud.gif)Bei [Justaloud.com](http://justaloud.com/) habe ich soeben zwei Alben und zwei EPs von [Olli Schulz und der Hund Marie](http://www.ollischulz.com/) erstanden. Für nur 596 Cent. Die drei kompletten Kettcar-Alben gehen derzeit für 577 Cent über die virtuelle Ladentheke und alle vier Alben von Tomte gibt's für 760 Cent. "Haha, 2 Euro für'n Album-Download? Der olle Eay macht uns hier doch nicht etwa auf einen illegalen [allofmp3](http://en.wikipedia.org/wiki/AllOfMP3)\-Klon aufmerksam?!", höre ich euch fragen. Doch keine Sorge, Justaloud ist vollkommen legal, stellt aber das Musikdownload-Geschäft auf den Kopf: die angebotenen MP3s (DRM-frei, bis zu 320 kbit/s) steigen im Preis je öfter sie runtergeladen werden - und beginnen bei Null. Nada. Kostenlos. Und danach geht's im Cent-Takt weiter. Das Angebot ist natürlich (noch) recht spärlich, aber gerade die GHvC-Platten sind für den Preis ein Muss!

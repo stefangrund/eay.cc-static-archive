@@ -14,7 +14,7 @@ tags:
   - rob-zombie
   - trailer
 meta:
-  - yourls_shorturl: "http://eay.li/kx"
+  - yourls_shorturl: "https://eay.li/kx"
 ---
 
 > How many of you would like to see a full length movie of WEREWOLF WOMEN OF THE SS?

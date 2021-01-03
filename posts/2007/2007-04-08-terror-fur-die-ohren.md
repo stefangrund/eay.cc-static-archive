@@ -15,7 +15,7 @@ tags:
   - mp3
   - podcast
 meta:
-  - yourls_shorturl: "http://eay.li/yn"
+  - yourls_shorturl: "https://eay.li/yn"
 ---
 
 [![](/uploads/2007/ohrenterror.jpg)](http://www.azet.de/)Gestern wollte ich mir zwei, drei Folgen des Podcasts [Ohrenterror](http://www.azet.de/) anhören. Aus den "zwei, drei" sind dann zehn, zwanzig geworden und weil's so gut gefallen hat, möchte ich euch die ca. 4 Minuten langen und äußerst unterhaltsamen Tondokumente nicht vorenthalten: Der beste Einstieg, das _Must-Hear_, ist die Realversion von Dittsche: **Rolf** - und der erkärt gänzlich unnüchtern, dass er Superkräfte hat, Illuminat ist und Politiker Scientologen sind ([Teil 1](http://www.azet.de/tagesgerichte/36_OhrenTerror.mp3), [Teil 2](http://www.azet.de/tagesgerichte/37_OhrenTerror.mp3)). Groß!

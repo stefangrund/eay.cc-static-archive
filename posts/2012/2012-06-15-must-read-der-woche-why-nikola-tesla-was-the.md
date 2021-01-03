@@ -16,7 +16,7 @@ tags:
   - the-oatmeal
   - wissenschaft
 meta:
-  - yourls_shorturl: "http://eay.li/1xv"
+  - yourls_shorturl: "https://eay.li/1xv"
   - linked_list_url: "http://theoatmeal.com/comics/tesla"
 ---
 

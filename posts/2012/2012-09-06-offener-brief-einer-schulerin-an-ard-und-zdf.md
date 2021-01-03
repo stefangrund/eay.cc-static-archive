@@ -14,7 +14,7 @@ tags:
   - fernsehen
   - offentlich-rechtliche
 meta:
-  - yourls_shorturl: "http://eay.li/1lw"
+  - yourls_shorturl: "https://eay.li/1lw"
 ---
 
 [Sascha](http://www.pewpewpew.de/) hat Post von Clara Siepmann, einer Schülerin der 10. Klasse, bekommen, mit der Bitte einen offenen Brief ans öffentlich-rechtliche Fernsehen in seinem Blog zu veröffentlichen. Bei dem was die junge Frau dann schreibt, fällt es natürlich nicht schwer [dieser Bitte nachzukommen](http://www.pewpewpew.de/2012/09/06/offener-brief-einer-schulerin-an-die-offentlicher-brief-einer-schulerin-an-ard-und-zdf/):

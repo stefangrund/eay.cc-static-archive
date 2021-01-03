@@ -16,7 +16,7 @@ tags:
   - video-essay
   - zukunft
 meta:
-  - yourls_shorturl: "http://eay.li/2i4"
+  - yourls_shorturl: "https://eay.li/2i4"
 ---
 
 \[youtube id="7Pq-S557XQU"\]

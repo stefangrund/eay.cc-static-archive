@@ -14,7 +14,7 @@ tags:
   - die-aerzte
   - musik
 meta:
-  - yourls_shorturl: "http://eay.li/3df"
+  - yourls_shorturl: "https://eay.li/3df"
 ---
 
 > Wir sitzen zuhause und langweilen uns Drum haben wir dieses Lied hier hingehunzt

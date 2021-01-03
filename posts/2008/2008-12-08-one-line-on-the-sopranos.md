@@ -13,7 +13,7 @@ tags:
   - rap
   - the-sopranos
 meta:
-  - yourls_shorturl: "http://eay.li/s8"
+  - yourls_shorturl: "https://eay.li/s8"
 ---
 
 > I got one line on The Sopranos. That makes me more gangster than you.

@@ -15,7 +15,7 @@ tags:
   - kinolog
   - quentin-tarantino
 meta:
-  - yourls_shorturl: "http://eay.li/3az"
+  - yourls_shorturl: "https://eay.li/3az"
   - content_copy: "https://twitter.com/eay/status/1163039297752195073"
   - content_copy: "https://eay.social/@eay/102637579238102493"
 ---

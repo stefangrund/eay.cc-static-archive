@@ -14,7 +14,7 @@ tags:
   - netzkultur
 meta:
   - linked_list_url: "http://wirres.net/article/articleview/7281/1/6/"
-  - yourls_shorturl: "http://eay.li/2iu"
+  - yourls_shorturl: "https://eay.li/2iu"
 ---
 
 Felix Schwenzel über Linkblogging. Alles richtig, tut es uns gleich, denn Twitter ist in der Tat zu schnelllebig und bei Facebook wird zu viel wegalgorithmisiert.

@@ -14,7 +14,7 @@ tags:
   - liste
   - quentin-tarantino
 meta:
-  - yourls_shorturl: "http://eay.li/ao"
+  - yourls_shorturl: "https://eay.li/ao"
 ---
 
 Das folgende Video, in dem [Quentin Tarantino](//eay.cc/tag/tarantino/) seine Top 20 der besten Filme seitdem er Regisseur ist ([1992](http://www.imdb.com/title/tt0105236/)), offenbart, wird dieser Tage zwar inflationär oft von einem Blog zum anderen gereicht, aber zur Einstimmung auf euren und meinen [Inglourious Basterds](//eay.cc/tag/inglourious-basterds/)\-Kinoabend ist's ideal (und dass da [wirklich tolle Filme bei](http://kottke.org/09/08/quentin-tarantinos-top-20-movies) sind, ist natürlich Tarantinos Ehrensache):

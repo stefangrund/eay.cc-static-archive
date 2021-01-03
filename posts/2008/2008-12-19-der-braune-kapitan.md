@@ -19,7 +19,7 @@ tags:
   - retro
   - usa
 meta:
-  - yourls_shorturl: "http://eay.li/71"
+  - yourls_shorturl: "https://eay.li/71"
 ---
 
 Wer neulich dachte, dass [DC Comics](//eay.cc/tag/dc/) bereits mit dem Nazi-Dinosaurier [Tyrannosaurus Reich](//eay.cc/2008/tyrannosaurus-reich/) (Zitat: "Fliegende Affen??!! Ich hab's Gefühl ich bin nicht mehr in der Kaiserzeit...") den nationalsozialistischen Vogel abgeschossen hat, den muss ich enttäuschen, denn scheinbar hat DC noch weitere, ebenso fehlgeleitete Figuren im Ärmel. Etwa [Captain Nazi](http://en.wikipedia.org/wiki/Captain_Nazi).

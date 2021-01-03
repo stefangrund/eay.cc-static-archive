@@ -15,7 +15,7 @@ tags:
   - smart-phones-stupid-people
 meta:
   - linked_list_url: "https://boingboing.net/2018/01/12/this-google-query-was-evidence.html"
-  - yourls_shorturl: "http://eay.li/38k"
+  - yourls_shorturl: "https://eay.li/38k"
 ---
 
 In Texas hat eine Frau ihren Ehemann umgebracht und wurde u.a. dadurch überführt, dass sich in ihrer Browserhistorie noch die Google-Suche "How to kill someone and not get caught" befand.

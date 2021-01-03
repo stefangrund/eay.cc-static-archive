@@ -14,7 +14,7 @@ tags:
   - nahrung
 meta:
   - content_copy: "https://www.instagram.com/p/uN5DUnHS_c/"
-  - yourls_shorturl: "http://eay.li/2yq"
+  - yourls_shorturl: "https://eay.li/2yq"
 ---
 
 ![](https://eay.cc/uploads/2014/puddingteilchen.jpg)

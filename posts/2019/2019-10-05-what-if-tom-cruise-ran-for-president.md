@@ -15,7 +15,7 @@ tags:
   - usa
   - video
 meta:
-  - yourls_shorturl: "http://eay.li/3bl"
+  - yourls_shorturl: "https://eay.li/3bl"
   - geo_latitude: "52.969238219387"
   - geo_longitude: "5.4185270152731"
   - geo_public: "1"

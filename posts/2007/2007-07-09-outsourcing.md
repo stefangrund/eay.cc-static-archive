@@ -16,7 +16,7 @@ tags:
   - twitter
   - webservice
 meta:
-  - yourls_shorturl: "http://eay.li/ta"
+  - yourls_shorturl: "https://eay.li/ta"
 ---
 
 Vielleicht ist's euch schon aufgefallen: Seit gestern schmückt [mein](http://twitter.com/Eay) letzter Twitter-Eintrag auch die [Startseite](http://eay.cc/) von eayz.net. Praktisch ist das schamlos von [Frischvater](http://www.kottke.org/07/07/ollie-kottke) Jason [Kottke](http://kottke.org/) geklaut, aber während der bevorstehenden Urlaubssaison könnte sich das rumgetwittere für die breitere Öffentlichkeit als nützlich herausstellen. Whatever. Jetzt ist's [so](/uploads/2007/jetzt_mit_twitter.gif) und wer weiss schon, was [übermorgen](http://de.wikipedia.org/wiki/Mittwoch) ist?

@@ -16,7 +16,7 @@ tags:
   - musik
   - terminator
 meta:
-  - yourls_shorturl: "http://eay.li/a9"
+  - yourls_shorturl: "https://eay.li/a9"
 ---
 
 Für die, die's noch nicht mitbekommen haben (soll's ja geben): Christian Bale ([Batman](//eay.cc/2008/christopher-nolans-batman/)) ist am Set von [Terminator Salvation](http://www.imdb.com/title/tt0438488/) ausgerastet, nachdem der Director of Photography [Shane Hurlbut](http://www.imdb.com/name/nm0403397/) während (<- das ist der Grund!) eines Drehs am Licht gewerkelt hat. Irgendwer hat seine Hasstirade jedenfalls aufgenommen und ins Netz gestellt:

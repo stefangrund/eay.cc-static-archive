@@ -15,7 +15,7 @@ tags:
   - palindrome
 meta:
   - linked_list_url: "https://blog.sumymus.de/palindrome-day-20200202"
-  - yourls_shorturl: "http://eay.li/3cp"
+  - yourls_shorturl: "https://eay.li/3cp"
   - geo_latitude: "50.973904348799"
   - geo_longitude: "6.6831049175722"
   - geo_public: "1"

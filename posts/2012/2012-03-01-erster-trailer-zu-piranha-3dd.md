@@ -15,7 +15,7 @@ tags:
   - piranha
   - trailer
 meta:
-  - yourls_shorturl: "http://eay.li/1gj"
+  - yourls_shorturl: "https://eay.li/1gj"
 ---
 
 Vergesset den [zweiten Avengers-Trailer](http://www.youtube.com/watch?&v=NPoHPNeU9fc)! Das erste Bewegtbild zu »Piranha 3DD« ist da - und sieht genauso wie der erste aus. Aber das wollten wir ja, nicht?

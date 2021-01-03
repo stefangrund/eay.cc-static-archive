@@ -18,7 +18,7 @@ tags:
   - vue-js
 meta:
   - content_copy: "https://www.instagram.com/p/Bt3TjDsnYfW/"
-  - yourls_shorturl: "http://eay.li/393"
+  - yourls_shorturl: "https://eay.li/393"
   - geo_latitude: "52.39703"
   - geo_longitude: "4.87775"
   - geo_public: "1"

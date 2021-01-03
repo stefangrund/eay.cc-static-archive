@@ -13,7 +13,7 @@ tags:
   - domains
   - netzkultur
 meta:
-  - yourls_shorturl: "http://eay.li/20y"
+  - yourls_shorturl: "https://eay.li/20y"
   - linked_list_url: "http://www1.wdr.de/themen/infokompakt/nachrichten/nrwkompakt/archiv/nrwkompakt12682.html"
 ---
 

@@ -14,7 +14,7 @@ tags:
   - tiere
   - your-favorite-tumblr-for-the-next-5-minutes
 meta:
-  - yourls_shorturl: "http://eay.li/29f"
+  - yourls_shorturl: "https://eay.li/29f"
 ---
 
 ![](https://eay.cc/uploads/2013/dogswaitinginberlin.jpg) Das dieswöchige Single Serving Tumblelog widmet sich einem Phänomen, das in allen Großstädten Orten Zivilisationen der Welt zu beobachten ist: Hunde, die vor Ladenlokalen auf Herrchen oder Frauchen warten. Weil Hunde in der Hauptstadt aber besonders hip zu sein scheinen, zeigt uns [Dogs waiting in Berlin](http://dogswaitinginberlin.tumblr.com/) allerdings nur wartende Hunde in der Spreemetropole. Oder weil der Macher in Berlin lebt. Wer weiß das schon? (via [@stefan\_ry](https://twitter.com/stefan_ry/status/398733111464181760))

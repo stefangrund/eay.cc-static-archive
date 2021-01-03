@@ -16,7 +16,7 @@ tags:
   - pinterest
   - webservice
 meta:
-  - yourls_shorturl: "http://eay.li/2yb"
+  - yourls_shorturl: "https://eay.li/2yb"
 ---
 
 **Kurzes Update zu meinem Beitrag zum [Ende von FFFFOUND!](https://eay.cc/2017/ffffound/):** Pinterest ist kurz vor knapp mit einem [eigenen Importer](https://pinterest.github.io/ffffound/) auf den Plan getreten, woraufhin FFFFOUND! das eigene Ende vom 8. auf den 15. Mai verschoben hat. Ich habe den Importer sämtliche meiner Bilder in meinen kaum genutzten Pinterest-Account [importieren lassen](https://www.pinterest.de/eayz/ffffound-import/), was erstaunlich schnell und einfach ging.

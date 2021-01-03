@@ -14,7 +14,7 @@ tags:
   - ddr
   - deutschland
 meta:
-  - yourls_shorturl: "http://eay.li/1x4"
+  - yourls_shorturl: "https://eay.li/1x4"
   - linked_list_url: "http://www.bild.de/news/inland/60-jahre-bild/so-faelschte-die-ddr-bild-24947846,view=popupAutoOverflow.bild.html"
 ---
 

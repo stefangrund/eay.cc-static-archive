@@ -18,7 +18,7 @@ tags:
   - usa
 meta:
   - content_copy: "https://twitter.com/eay/status/1246565042692202498"
-  - yourls_shorturl: "http://eay.li/3dn"
+  - yourls_shorturl: "https://eay.li/3dn"
   - geo_latitude: "50.973898351503"
   - geo_longitude: "6.6829290328764"
   - geo_public: "1"

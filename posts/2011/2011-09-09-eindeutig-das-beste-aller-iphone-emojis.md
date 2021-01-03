@@ -13,7 +13,7 @@ tags:
   - output
   - smilies
 meta:
-  - yourls_shorturl: "http://eay.li/1ay"
+  - yourls_shorturl: "https://eay.li/1ay"
 ---
 
 ![](https://eay.cc/uploads/2011/facewithnogoodgesture.png)  

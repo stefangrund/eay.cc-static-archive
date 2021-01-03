@@ -16,7 +16,7 @@ tags:
   - serien
 meta:
   - linked_list_url: "http://www.radiotimes.com/news/2015-09-07/charlie-brookers-black-mirror-to-become-a-netflix-show"
-  - yourls_shorturl: "http://eay.li/2q1"
+  - yourls_shorturl: "https://eay.li/2q1"
 ---
 
 > Sources say the US streaming giant has agreed terms to make original episodes of the hit dystopian drama.

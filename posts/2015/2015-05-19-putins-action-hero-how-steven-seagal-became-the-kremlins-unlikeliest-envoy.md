@@ -19,7 +19,7 @@ tags:
 meta:
   - linked_list_url: "http://www.buzzfeed.com/maxseddon/putins-action-hero-how-steven-seagal-became-the-kremlins-unl"
   - linked_list_url: "http://www.buzzfeed.com/maxseddon/putins-action-hero-how-steven-seagal-became-the-kremlins-unl"
-  - yourls_shorturl: "http://eay.li/2o6"
+  - yourls_shorturl: "https://eay.li/2o6"
 ---
 
 Bizarre Geschichte über einen gealterten Hollywood-Star und Weltpolitik.

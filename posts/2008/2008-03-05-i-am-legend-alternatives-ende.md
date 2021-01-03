@@ -11,7 +11,7 @@ tags:
   - alternatives-ende
   - filme
 meta:
-  - yourls_shorturl: "http://eay.li/7k"
+  - yourls_shorturl: "https://eay.li/7k"
 ---
 
 Wenn euch [I am Legend](//eay.cc/2008/ich-bin-legende/) auch nicht überzeugen konnte, dann könnt ihr euch jetzt immerhin das (offizielle!) alternative Ende ansehen. Macht die Sache zwar ein bisschen besser, der Gesamteindruck bleibt aber trotzdem dürftig. Das YouTube-Video gibt's - sicherlich nur für kurze Zeit - nach dem Klick.

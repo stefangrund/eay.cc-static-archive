@@ -17,7 +17,7 @@ tags:
   - watchmen
   - webcomic
 meta:
-  - yourls_shorturl: "http://eay.li/2ee"
+  - yourls_shorturl: "https://eay.li/2ee"
 ---
 
 [![](https://eay.cc/uploads/2014/minusjonplusjon.jpg)](http://unseenllc.com/mjpj/)

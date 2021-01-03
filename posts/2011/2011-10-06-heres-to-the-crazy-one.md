@@ -16,7 +16,7 @@ tags:
   - rip
   - steve-jobs
 meta:
-  - yourls_shorturl: "http://eay.li/1bo"
+  - yourls_shorturl: "https://eay.li/1bo"
 ---
 
 ![](https://eay.cc/uploads/2011/stevejobs.jpg) [Steve Jobs](http://de.wikipedia.org/wiki/Steve_Jobs) ist heute im Alter von nur 56 Jahren im Kreise seiner Familie verstorben. Der Gründer und CEO der mittlerweile wertvollsten (Technologie-)Firma der Welt erlag damit seiner jahrelangen Krebserkrankung. Dazu wurde heute von vielen [viel lesenswertes](http://kottke.org/11/10/remembering-steve-jobs) und von Medienseite vor allem viel Blödsinn ("iGod") geschrieben und sich gefragt, was nun aus Apple wird. Doch das ist egal, denn wir hatten eine gute Zeit: Steve, Steves Produkte und ich. Danke dafür.

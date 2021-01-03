@@ -12,7 +12,7 @@ categories:
 tags:
   - backup
 meta:
-  - yourls_shorturl: "http://eay.li/2uf"
+  - yourls_shorturl: "https://eay.li/2uf"
 ---
 
 Aaaand it's done!

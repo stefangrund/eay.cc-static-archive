@@ -15,7 +15,7 @@ tags:
   - google
   - serien
 meta:
-  - yourls_shorturl: "http://eay.li/13z"
+  - yourls_shorturl: "https://eay.li/13z"
 ---
 
 Auch wenn ich zu meinem Erschrecken gerade festgestellt habe, dass ich das hier noch nirgends verraten habe, ich bin ein großer Fan von [30 Rock](http://en.wikipedia.org/wiki/30_Rock) und kann [Tina Fey](http://en.wikipedia.org/wiki/Tina_Fey)s NBC-Comedy-Serie über eine NBC-Comedy-Serie wirklich nur jedem ans Herz legen. Kostprobe gefällig? Na dann, hier Tracy Jordan (gespielt von [Tracy Morgan](http://en.wikipedia.org/wiki/Tracy_Morgan)), der sich schon mal gerne selbst googelt:

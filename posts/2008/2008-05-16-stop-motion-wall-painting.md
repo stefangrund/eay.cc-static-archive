@@ -15,7 +15,7 @@ tags:
   - kunst
   - streetart
 meta:
-  - yourls_shorturl: "http://eay.li/s9"
+  - yourls_shorturl: "https://eay.li/s9"
 ---
 
 Ich habe keine Ahnung wie man sowas nennen soll, weshalb @[Andi](http://twitter.com/AndiH) und ich und gerade den Titel dieses Blogeintrags zusammengetwittert haben. Seht selbst (von unten nach oben):

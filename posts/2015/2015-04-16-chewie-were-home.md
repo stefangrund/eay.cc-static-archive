@@ -15,7 +15,7 @@ tags:
   - star-wars
   - trailer
 meta:
-  - yourls_shorturl: "http://eay.li/2o0"
+  - yourls_shorturl: "https://eay.li/2o0"
 ---
 
 Wenn man keine Zeit hat, um sich ordnungsgemäß ums eigene Blog zu kümmern, kommt von irgendwo der Star Wars Celebration, die gerade in Anaheim stattfindet, der zweite Teaser zu »[The Force Awakens](//eay.cc/2014/the-force-awakens/)« daher. Passend um vor »Avengers: Age of Ultron« und in dieses Blog gepackt werden zu können.

@@ -16,7 +16,7 @@ tags:
   - dinosaurier
   - konsum
 meta:
-  - yourls_shorturl: "http://eay.li/1hk"
+  - yourls_shorturl: "https://eay.li/1hk"
 ---
 
 ![](https://eay.cc/uploads/2012/t-rex-skelett.jpg) Die Wege des Algorithmus sind unergründlich: Soeben hat mir Amazon den Kauf eines lebensgroßen [T-Rex Skeletts](http://www.amazon.de/exec/obidos/ASIN/B007O743H8/eayznet-21) vorgeschlagen. Kostenpunkt 22.831 Euro, fast vier Meter hoch und neun Meter lang. Da kommt man natürlich ins Grübeln. Besonders wenn man die Rezensionen anderer Kunden liest:

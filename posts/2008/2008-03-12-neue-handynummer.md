@@ -11,7 +11,7 @@ tags:
   - analogleben
   - mobilfunk
 meta:
-  - yourls_shorturl: "http://eay.li/5u"
+  - yourls_shorturl: "https://eay.li/5u"
 ---
 
 Alle die meine alte Nummer haben, können sich die neue selbst erbasteln:

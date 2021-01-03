@@ -18,7 +18,7 @@ tags:
   - quantified-self
   - web-entwicklung
 meta:
-  - yourls_shorturl: "http://eay.li/38a"
+  - yourls_shorturl: "https://eay.li/38a"
   - content_copy: "https://twitter.com/eay/status/1078620528389304320"
   - content_copy: "https://twitter.com/eay/status/1078620657175445509"
   - content_copy: "https://eay.social/@eay/101318541488015607"

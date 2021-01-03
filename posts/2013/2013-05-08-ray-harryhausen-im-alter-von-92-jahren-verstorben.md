@@ -15,7 +15,7 @@ tags:
   - rip
   - stop-motion
 meta:
-  - yourls_shorturl: "http://eay.li/23e"
+  - yourls_shorturl: "https://eay.li/23e"
   - linked_list_url: "http://www.guardian.co.uk/film/2013/may/07/ray-harryhausen-dies"
 ---
 

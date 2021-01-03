@@ -14,7 +14,7 @@ tags:
   - oscars
 meta:
   - linked_list_url: "http://www.slashfilm.com/2017-oscar-nominations/"
-  - yourls_shorturl: "http://eay.li/2wg"
+  - yourls_shorturl: "https://eay.li/2wg"
 ---
 
 Von den Best Picture-Nominierungen habe ich bisher nur »Arrival« und »La La Land« gesehen. Aber mal sehen, welche ich noch schaffe.

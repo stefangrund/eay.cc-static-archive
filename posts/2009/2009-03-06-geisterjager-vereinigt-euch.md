@@ -15,7 +15,7 @@ tags:
   - retro
   - tshirt
 meta:
-  - yourls_shorturl: "http://eay.li/ol"
+  - yourls_shorturl: "https://eay.li/ol"
 ---
 
 T-Shirt-Großmeister [Glenn](http://store.glennz.com/) hat mal wieder den popkulturellen Vogel abgeschossen:

@@ -15,7 +15,7 @@ tags:
   - mashup
   - wes-anderson
 meta:
-  - yourls_shorturl: "http://eay.li/2ex"
+  - yourls_shorturl: "https://eay.li/2ex"
 ---
 
 \[vimeo id="92419083"\]

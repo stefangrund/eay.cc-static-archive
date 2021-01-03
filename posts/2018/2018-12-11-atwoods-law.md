@@ -15,7 +15,7 @@ tags:
   - programmieren
   - web-entwicklung
 meta:
-  - yourls_shorturl: "http://eay.li/385"
+  - yourls_shorturl: "https://eay.li/385"
 ---
 
 > Atwood's Law: any application that can be written in JavaScript, will eventually be written in JavaScript.

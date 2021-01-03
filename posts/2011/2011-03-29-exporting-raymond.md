@@ -16,7 +16,7 @@ tags:
   - russland
   - sitcom
 meta:
-  - yourls_shorturl: "http://eay.li/16r"
+  - yourls_shorturl: "https://eay.li/16r"
 ---
 
 \[youtube id="AGWObW6lK4E"\]

@@ -17,7 +17,7 @@ tags:
   - programmieren
 meta:
   - linked_list_url: "https://medium.com/global-silicon-valley/a2dc04ea9529"
-  - yourls_shorturl: "http://eay.li/27a"
+  - yourls_shorturl: "https://eay.li/27a"
 ---
 
 > A collection of resources.

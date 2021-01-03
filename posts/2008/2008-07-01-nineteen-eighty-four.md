@@ -14,7 +14,7 @@ tags:
   - filme
   - george-orwell
 meta:
-  - yourls_shorturl: "http://eay.li/vd"
+  - yourls_shorturl: "https://eay.li/vd"
 ---
 
 Wollte ich schon vor Tagen bringen, hatte dann aber vergessen woher ich's hab, aber dann bringt's zum Glück noch jemand alle: Bei Google Video gibt's die beiden Verfilmungen von George Orwells berühmt-berüchtigten Roman [1984](http://de.wikipedia.org/wiki/1984_(Roman)).

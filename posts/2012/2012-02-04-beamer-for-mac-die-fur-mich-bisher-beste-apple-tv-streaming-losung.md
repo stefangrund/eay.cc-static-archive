@@ -14,7 +14,7 @@ tags:
   - mac
   - streaming
 meta:
-  - yourls_shorturl: "http://eay.li/1fp"
+  - yourls_shorturl: "https://eay.li/1fp"
 ---
 
 Vor ein paar Monaten habe ich das hiesige Apple-Lineup um einen [Apple TV 2](http://de.wikipedia.org/wiki/Apple_TV) erweitert. Eine tolle, kleine Box und ideales iPhone-/iPad-Addon. Leider leidet das Ding jedoch an den Apple-typischen Restriktionen: es gibt von Haus aus keine Möglichkeit Videos in Apple-unerwünschten Formaten (.AVI, .FLV, .MKV, USW.) vom Mac rüberzustreamen. Bei .MP4- und .M4V-Dateien ist das zwar kein Problem, doch müssen die Videos dafür erst in die eigene iTunes-Mediathek importiert werden. Ich nutze iTunes allerdings nicht für Videos und lagere meine Videothek vorwiegend im .AVI-Format auf einer externen Festplatte (deren Inhalte ich mir alle auf dem Schulhof ertauscht habe).

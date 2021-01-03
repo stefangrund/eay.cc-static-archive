@@ -16,7 +16,7 @@ tags:
   - konsum
   - sega
 meta:
-  - yourls_shorturl: "http://eay.li/43"
+  - yourls_shorturl: "https://eay.li/43"
 ---
 
 ![](/uploads/2008/segavision.jpg) Der Markt der mobilen Konsolen ist bekanntlich zwischen [Nintendo](//eay.cc/tag/nintendo/) und Sony aufgeteilt. Ab 2009 will Sega aber [angeblich](http://www.reghardware.co.uk/2008/10/03/sega_vision/) wieder mit einem eigenen Handheld mitmischen. Zwar sind noch keinerlei technische Spezifikationen für das "Sega Vision" getaufte Gerät bekannt, was man aber schon weiß, ist, dass es praktisch alles (und daher voraussichtlich nichts richtig) können soll. Namentlich nämlich Videos und Musik abspielen, Foto- und Videokamera sein, Fernsehen empfangen, Ebooks darstellen, Diktiergerät sein und ([Java](http://de.wikipedia.org/wiki/Java_(Programmiersprache))\-)Spiele abspielen. Das alles vereint auf der Größe einer Kreditkarte.

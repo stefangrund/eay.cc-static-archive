@@ -13,7 +13,7 @@ tags:
   - games
   - halo
 meta:
-  - yourls_shorturl: "http://eay.li/9t"
+  - yourls_shorturl: "https://eay.li/9t"
 ---
 
 _Ein Gastbeitrag von **René**, der selbst unter [Primaerfunktion](http://www.primaerfunktion.de/) bloggt, auch [twittert](http://twitter.com/primaerfunktion) und seine Entstehungsgeschichte gerne mit dem Krieg der Sterne vergleicht._

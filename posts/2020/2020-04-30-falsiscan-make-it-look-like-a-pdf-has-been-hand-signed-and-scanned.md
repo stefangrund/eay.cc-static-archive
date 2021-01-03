@@ -15,7 +15,7 @@ tags:
   - business
 meta:
   - linked_list_url: "https://gitlab.com/edouardklein/falsisign"
-  - yourls_shorturl: "http://eay.li/3e1"
+  - yourls_shorturl: "https://eay.li/3e1"
 ---
 
 Edouard Klein hat "ein Skript geschrieben, um so zu tun als ob man ein Dokument ausgedruckt, unterschrieben und wieder eingescannt hätte". Ein Vorgehen, das aus rechtlicher Absurdität heraus immer mal wieder eingefordert wird. (via [mkln.org](https://mkln.org/2020/04/so-tun-als-ob-es-ausgedruckt-unterschrieben-und-wieder-eingescannt-waere/))

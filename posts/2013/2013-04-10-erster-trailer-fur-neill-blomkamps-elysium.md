@@ -14,8 +14,8 @@ tags:
   - neill-blomkamp
   - trailer
 meta:
-  - yourls_shorturl: "http://eay.li/22v"
+  - yourls_shorturl: "https://eay.li/22v"
   - linked_list_url: "http://movies.yahoo.com/video/elysium-trailer-200248321.html"
 ---
 
-Sieht gut aus, ich freu mich drauf. Danach macht Blomkamp dann seine SciFi-Comedy »Chappie« und dann, ja dann hat er [Zeit für Episode 8](http://eay.li/1uo). (via [Pewpewpew](http://www.pewpewpew.de/2013/04/10/erster-trailer-zu-neill-blomkamps-elysium/))
+Sieht gut aus, ich freu mich drauf. Danach macht Blomkamp dann seine SciFi-Comedy »Chappie« und dann, ja dann hat er [Zeit für Episode 8](https://eay.li/1uo). (via [Pewpewpew](http://www.pewpewpew.de/2013/04/10/erster-trailer-zu-neill-blomkamps-elysium/))

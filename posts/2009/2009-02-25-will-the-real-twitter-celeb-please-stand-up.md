@@ -14,7 +14,7 @@ tags:
   - prominent
   - twitter
 meta:
-  - yourls_shorturl: "http://eay.li/9w"
+  - yourls_shorturl: "https://eay.li/9w"
 ---
 
 Während es in der englischsprachigen Twittersphere nicht unüblich ist, dass Prominente mitzwitschern und das mitunter zu einem lustigen [Aufeinandertreffen mit NBA-Profi Shaquille O'Neal](http://sesquipedalis.blogspot.com/2009/02/finally-use-for-twitter.html) führt, dachte ich, dass es hierzulande kaum bis gar keine twitternden Promis gibt.

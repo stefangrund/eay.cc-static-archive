@@ -20,7 +20,7 @@ meta:
   - linked_list_url: "http://www.hollywoodreporter.com/news/jurassic-world-2-set-2018-810727"
   - linked_list_url: "http://www.hollywoodreporter.com/news/jurassic-world-2-set-2018-810727"
   - linked_list_url: "http://www.hollywoodreporter.com/news/jurassic-world-2-set-2018-810727"
-  - yourls_shorturl: "http://eay.li/2pa"
+  - yourls_shorturl: "https://eay.li/2pa"
 ---
 
 > Universal has announced that a sequel to Jurassic World will be released on Friday, June 22, 2018. Chris Pratt and Bryce Dallas Howard will return to star. Jurassic World helmer Colin Trevorrow and Derek Connolly, who did a rewrite on World, will write the script for the sequel.

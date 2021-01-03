@@ -18,7 +18,7 @@ tags:
   - ironman
   - lost
 meta:
-  - yourls_shorturl: "http://eay.li/lb"
+  - yourls_shorturl: "https://eay.li/lb"
 ---
 
 Die Entertainment-Overkill-Woche hat begonnen: Morgen gibt's endlich [Grand Theft Auto 4](http://www.amazon.de/exec/obidos/ASIN/B000FII8CE/eayznet-21), das wahrscheinlich großartigste Spiel aller Zeiten. Am Donnerstag (bzw. via Vorpremiere am Mittwoch) gibt's [Iron Man](http://www.imdb.com/title/tt0371746/), die wahrscheinlich großartigste Superheldencomicverfilmung aller Zeiten[1](#batman). Ach, und dann war da auch noch der Start der zweiten Hälfte der vierten Staffel von Lost (verrückt!). Grund genug uns die Wartezeit mit ein paar passenden Links zu verkürzen...

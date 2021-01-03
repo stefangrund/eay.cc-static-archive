@@ -14,7 +14,7 @@ tags:
   - sex
   - single
 meta:
-  - yourls_shorturl: "http://eay.li/83"
+  - yourls_shorturl: "https://eay.li/83"
 ---
 
 Unsere Mainstream-Rapper von [Fettes Brot](http://www.fettesbrot.de/) kommen am 15.2. mit ihrem neuen Song "Bettina, zieh dir bitte etwas an" daher. Im Pressetext verkauft man uns das ganze folgendermaßen:

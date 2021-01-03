@@ -15,7 +15,7 @@ tags:
   - star-wars
 meta:
   - linked_list_url: "http://www.vanityfair.com/hollywood/2017/05/star-wars-the-last-jedi-cover-portfolio"
-  - yourls_shorturl: "http://eay.li/2z9"
+  - yourls_shorturl: "https://eay.li/2z9"
 ---
 
 > Star Wars devotees who can’t wait for December need look no further. With exclusive access to writer-director Rian Johnson, plus interviews with Mark Hamill, Daisy Ridley, and others, V.F. presents the ultimate sneak peek at The Last Jedi—and Carrie Fisher’s lasting legacy.

@@ -10,7 +10,7 @@ format: "post"
 tags:
   - output
 meta:
-  - yourls_shorturl: "http://eay.li/1dg"
+  - yourls_shorturl: "https://eay.li/1dg"
 ---
 
 - Heute vor vier Jahren hatte ich scheinbar [höllische Zahnschmerzen](//eay.cc/2007/zucker-in-der-jugend-faule-zahne-im-alter/). Eine ungemein wichtige Information für nachfolgende Generationen. ((Derartige Uninformationen wurden derweil vom Blog zum Twitter ausgelagert.))

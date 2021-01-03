@@ -12,7 +12,7 @@ tags:
   - himym
   - serien
 meta:
-  - yourls_shorturl: "http://eay.li/54"
+  - yourls_shorturl: "https://eay.li/54"
 ---
 
 ![](/uploads/2008/hotcrazyscale.jpg) Freunde der Nacht, bevor ihr heute Abend ausschwärmt und das tut, was ihr tun müsst, vergesst nicht euren Wecker auf 14:00 Uhr zu stellen. Dann nämlich verkündet Barney Stinson erstmals auch einem deutschen Publikum seine äußerst wichtigen, klugen und frauenfeindlichen Lebensweisheiten, sprich: morgen startet endlich [How I met your mother](//eay.cc/2008/how-i-met-my-favorite-tv-series/) auf Pro7. Wahrscheinlich wird uns das nur zeigen, dass HIMYM auf deutsch nicht funktioniert und in der dritten Woche abgesetzt wird. Aber hey, irgendjemand bei Pro7 hat Geschmack. Und das ist ja auch mal gut zu wissen.

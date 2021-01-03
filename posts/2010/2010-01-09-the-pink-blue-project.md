@@ -16,7 +16,7 @@ tags:
   - kinder
   - kunst
 meta:
-  - yourls_shorturl: "http://eay.li/cu"
+  - yourls_shorturl: "https://eay.li/cu"
 ---
 
 [![](https://eay.cc/uploads/2010/pinkblue.jpg)](http://www.jeongmeeyoon.com/aw_pinkblue.htm)

@@ -15,7 +15,7 @@ tags:
   - rogue-one
   - star-wars
 meta:
-  - yourls_shorturl: "http://eay.li/2vw"
+  - yourls_shorturl: "https://eay.li/2vw"
 ---
 
 ![](https://eay.cc/uploads/2016/rogue-one.jpg)Ich habe »[Rogue One – A Star Wars Story](http://www.imdb.com/title/tt3748528/)« mitterweile bereits zwei Mal gesehen (einmal synchronisiert, einmal im O-Ton) und kann [den Eindruck, den ich nach meiner ersten Sichtung hatte](https://twitter.com/eay/status/809526377825398784), weiterhin bestätigen: »Rogue One« ist der viertbeste Star Wars-Film – gleich nach der unantastbaren Original Trilogy, versteht sich. Die ganzen Anspielungen, das originalgetreue Szenenbild, die Liebe zum Detail (X-Wing-Piloten mit Schnäuzern, [die Retrotechnologie](http://www.blindltd.com/rogue-one)!) und dieser fantastische Schluss lassen das Herz eines jeden Fanboys höher Schlagen.

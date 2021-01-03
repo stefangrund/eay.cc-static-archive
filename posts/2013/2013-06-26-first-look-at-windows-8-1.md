@@ -14,7 +14,7 @@ tags:
   - microsoft
   - windows
 meta:
-  - yourls_shorturl: "http://eay.li/24b"
+  - yourls_shorturl: "https://eay.li/24b"
   - linked_list_url: "http://www.theverge.com/2013/6/26/4465888/windows-8-1-preview-video"
 ---
 

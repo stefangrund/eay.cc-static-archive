@@ -15,7 +15,7 @@ tags:
   - limp-bizkit
   - musik
 meta:
-  - yourls_shorturl: "http://eay.li/36g"
+  - yourls_shorturl: "https://eay.li/36g"
 ---
 
 ![](https://eay.cc/uploads/2018/limp-bizkit.gif)

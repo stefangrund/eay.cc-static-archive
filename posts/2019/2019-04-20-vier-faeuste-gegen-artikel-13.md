@@ -18,7 +18,7 @@ tags:
   - terrence-hill
   - urheberrecht
 meta:
-  - yourls_shorturl: "http://eay.li/39z"
+  - yourls_shorturl: "https://eay.li/39z"
   - geo_latitude: "51.691585408705"
   - geo_longitude: "4.4404893237195"
   - geo_public: "1"

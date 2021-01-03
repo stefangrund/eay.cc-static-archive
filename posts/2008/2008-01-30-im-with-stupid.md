@@ -14,7 +14,7 @@ tags:
   - sascha-lobo
   - twitter
 meta:
-  - yourls_shorturl: "http://eay.li/ro"
+  - yourls_shorturl: "https://eay.li/ro"
 ---
 
 ![](/uploads/2008/twitterlobo.gif) Der (eigentlich nicht existierende, aber das sagt man ja so) Preis für das eindeutig beste Twitter-Bildchen und die skurrilste Twitter-Profilseite geht an [Sascha Lobo](http://twitter.com/saschalobo).

@@ -14,7 +14,7 @@ tags:
   - eayz
   - sexman
 meta:
-  - yourls_shorturl: "http://eay.li/184"
+  - yourls_shorturl: "https://eay.li/184"
 ---
 
 ![](https://eay.cc/uploads/2011/aheadtothepast.jpg)In den letzten fünf Jahren habe ich hier fast 1700 Posts, also rund 340 pro Jahr, rausgehauen. Darunter viel Blödsinn, aber auch einige echte Perlen. Leider liegt der "Geburtsfehler von Blogs", wie eine ARD-Intendantin es [sicherlich nennen würde](http://www.tagesspiegel.de/medien/die-ard-steht-fuer-eine-allianz-gegen-google-bereit/3687510.html), jedoch darin, dass die guten Sachen (und Gott sei dank auch die schlechten) viel zu schnell von Seite 1, also eurer Aufmerksamkeitsspanne, verschwinden und langsam aber sicher in den Archiven verstauben. Und genau hier kommt unsere neue, kleine und jetzt schon überaus beliebte Serie "Ahead to the Past" ins Spiel, die euch fortan mit unregelmäßiger Regelmäßigkeit eben diese Hochs an kreativem Output und immer noch tollen Netzfundstücke erneut unter die Nase reibt. Etwa so (nur in Zukunft dann ohne die Doc Browns):

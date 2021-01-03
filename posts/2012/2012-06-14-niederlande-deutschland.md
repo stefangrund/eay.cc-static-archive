@@ -16,7 +16,7 @@ tags:
   - jogi-low
   - sport
 meta:
-  - yourls_shorturl: "http://eay.li/1j9"
+  - yourls_shorturl: "https://eay.li/1j9"
 ---
 
 Klar, als der zutiefst unsympathische Super Mario zweimal gezaubert hat, das war klasse. Aber der beste Moment der Partie war dann doch der hier:

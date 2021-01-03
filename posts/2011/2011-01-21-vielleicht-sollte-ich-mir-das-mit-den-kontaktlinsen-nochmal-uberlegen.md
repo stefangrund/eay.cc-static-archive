@@ -12,7 +12,7 @@ tags:
   - brillen
   - kontaktlinsen
 meta:
-  - yourls_shorturl: "http://eay.li/14l"
+  - yourls_shorturl: "https://eay.li/14l"
 ---
 
 ![](https://eay.cc/uploads/2011/glasses.gif) (gesehen bei [wondergirl](http://wgirl.tumblr.com/post/2090334817/via-alternativen-alphoenix))

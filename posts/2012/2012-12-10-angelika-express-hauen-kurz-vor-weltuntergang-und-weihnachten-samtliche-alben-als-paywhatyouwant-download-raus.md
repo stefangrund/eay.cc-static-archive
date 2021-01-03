@@ -15,7 +15,7 @@ tags:
   - musik
   - musikindustrie
 meta:
-  - yourls_shorturl: "http://eay.li/20s"
+  - yourls_shorturl: "https://eay.li/20s"
   - linked_list_url: "http://angelikaexpress.bandcamp.com/"
 ---
 

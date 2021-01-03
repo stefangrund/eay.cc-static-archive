@@ -14,7 +14,7 @@ tags:
   - peanuts
   - weihnachten
 meta:
-  - yourls_shorturl: "http://eay.li/13j"
+  - yourls_shorturl: "https://eay.li/13j"
 ---
 
 ![](https://eay.cc/uploads/2010/snoopyclaus.gif) Frohe Weihnachten (und wenn wir uns nicht mehr sehen: Guten Rutsch) euch allen!

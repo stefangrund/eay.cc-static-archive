@@ -16,7 +16,7 @@ tags:
   - kickstarter
   - koeln
 meta:
-  - yourls_shorturl: "http://eay.li/32b"
+  - yourls_shorturl: "https://eay.li/32b"
 ---
 
 Köln schreint sich zur Hochburg für handgemachte Indie-Adventures zu entwickeln: Nach dem leider nicht erfolgreich per Crowdfunding finanzierten Stop-Motion-Game [Harold Halibut](https://eay.cc/2017/harold-halibut-a-handmade-adventure-game/) kommt mit [Trüberbrook](http://trueberbrook.com/) nun schon ein zweites Point-and-Click-Adventure aus der schönsten Stadt Deutschlands – diesmal mit IRL gebauten und per [Photogrammetrie](https://de.wikipedia.org/wiki/Photogrammetrie) digitaliersten Modell­landschaften als Hintergrund.

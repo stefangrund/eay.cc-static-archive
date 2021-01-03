@@ -22,7 +22,7 @@ tags:
   - virtual-reality
   - web-development
 meta:
-  - yourls_shorturl: "http://eay.li/2sl"
+  - yourls_shorturl: "https://eay.li/2sl"
 ---
 
 Der FC liegt gerade 0:2 gegen Leverkusen zurück, so dass ich mir dachte, anstatt mich zu ärgern, kann ich die Zeit auch sinnvoll nutzen und mal wieder eine neue Ausgabe der hiesigen, köstlichen Linkliste zusammenzustellen. Wie immer mit Star Wars, mehr oder weniger nützlichen Web-Tools und erstmals auch [Rick & Morty](https://en.wikipedia.org/wiki/Rick_and_Morty)!

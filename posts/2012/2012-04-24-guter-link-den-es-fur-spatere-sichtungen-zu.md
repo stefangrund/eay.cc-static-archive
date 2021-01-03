@@ -15,7 +15,7 @@ tags:
   - ebooks
   - kindle
 meta:
-  - yourls_shorturl: "http://eay.li/1y4"
+  - yourls_shorturl: "https://eay.li/1y4"
   - linked_list_url: "https://kindle.amazon.com/most_popular"
 ---
 

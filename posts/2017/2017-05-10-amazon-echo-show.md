@@ -16,7 +16,7 @@ tags:
   - technologie
 meta:
   - linked_list_url: "https://www.amazon.com/dp/B01J24C0TI"
-  - yourls_shorturl: "http://eay.li/2y9"
+  - yourls_shorturl: "https://eay.li/2y9"
 ---
 
 Nachdem Amazon vor zwei Wochen mit dem [Echo Look](https://eay.cc/2017/amazon-echo-look/) das erste Alexa-Device mit Kamera (aber ohne Display) vorgestellt hat, kommt heute der Echo Show ((Warum auch Marketing-effektiv an einem Tag releasen?)), konsequenterweise nun auch mit Display. Neben Videotelefonie mit anderen Alexa-Geräten kann man sich auf Zuruf YouTube-Videos ansehen oder das Bild von kompatiblen Kameras anzeigen lassen ("Alexa, show me the nursery."). 

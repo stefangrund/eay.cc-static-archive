@@ -16,7 +16,7 @@ tags:
   - paid-content
   - werbung
 meta:
-  - yourls_shorturl: "http://eay.li/210"
+  - yourls_shorturl: "https://eay.li/210"
   - linked_list_url: "http://www.stefan-niggemeier.de/blog/die-unabhaengigkeitserklaerung-des-andrew-sullivan/"
 ---
 

@@ -15,7 +15,7 @@ tags:
   - own-your-content
 meta:
   - linked_list_url: "https://rachelandrew.co.uk/archives/2017/01/05/its-more-than-just-the-words/"
-  - yourls_shorturl: "http://eay.li/2wb"
+  - yourls_shorturl: "https://eay.li/2wb"
 ---
 
 > As we move our code to CodePen, our writing to Medium, our photographs to Instagram we don’t just run the risk of losing that content and the associated metadata if those services vanish. We also lose our own place to experiment and add personality to that content, in the context of our own home on the web.

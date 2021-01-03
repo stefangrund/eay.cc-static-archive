@@ -14,7 +14,7 @@ tags:
   - ipad
   - webcomic
 meta:
-  - yourls_shorturl: "http://eay.li/1zp"
+  - yourls_shorturl: "https://eay.li/1zp"
   - linked_list_url: "http://www.geekculture.com/joyoftech/joyarchives/1758.html"
 ---
 

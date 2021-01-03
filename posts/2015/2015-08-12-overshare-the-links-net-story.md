@@ -16,7 +16,7 @@ tags:
   - netzkultur
 meta:
   - linked_list_url: "http://overshare.links.net/"
-  - yourls_shorturl: "http://eay.li/2po"
+  - yourls_shorturl: "https://eay.li/2po"
 ---
 
 > Hello, my name is Justin Hall and I've been sharing my personal life in explicit detail online for over twenty years. Starting in 1994, my personal web site Justin's Links from the Underground has documented family secrets, romantic relationships, and my experiments with sex and drugs.

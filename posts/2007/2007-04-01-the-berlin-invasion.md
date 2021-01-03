@@ -16,7 +16,7 @@ tags:
   - streetart
   - urlaub
 meta:
-  - yourls_shorturl: "http://eay.li/ju"
+  - yourls_shorturl: "https://eay.li/ju"
 ---
 
 Wir sind mittlerweile aus unserer Hauptstadt [zurückgekehrt](//eay.cc/2007/berlin-revisited/). Wir haben das übrliche Touriprogramm durchgehauen und vor Ort im Kino den [besten Film aller Zeiten](//eay.cc/2007/mein-kopf-macht-ferien/) gesehen und haben mein Auto mit frisch geklauften, polnischen Bauteilen bestückt. Außerdem sind wir wie wild clubgetourt (hier ein herzliches Dankeschön an alle Anwesenden!) und ich war durchgehend total ausgeschlafen und nüchtern. Des weiteren haben wir gelegentlich in der Zusammenfassung unseres Kurztrips gelogen und konnten beobachten wie positiv [eayzlies](/features/eayzlies/) das Berliner Stadtbild beeinflussen können.

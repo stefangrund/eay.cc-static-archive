@@ -17,7 +17,7 @@ tags:
   - wahlwerbespot
   - werbung
 meta:
-  - yourls_shorturl: "http://eay.li/du"
+  - yourls_shorturl: "https://eay.li/du"
 ---
 
 Bisher habe ich hier ja nur für die [Piratenpartei](//eay.cc/tag/piratenpartei/) geworben. Weil ich ganz klar mit denen sympathisiere und weil ich deren Werbespots bisher am gelungensten, da am ehrlichsten, fand. Nun aber kommt die Verräterpartei ((Terminologie frei nach [Fefe](http://blog.fefe.de/).)) mit dem meiner Meinung nach bisher besten Spot um die Ecke, der den gemeinen Wähler mit einem M. Night Shyamalan-würdigen Twist überrascht und immerhin zum Denken anregt. ((Was toll ist, weil ihr Koalitionspartner, die schwarze Pest (vgl. Fußnote 1), ja lieber auf einen praktisch nicht stattfindenden Wahlkampf setzt, damit möglichst viele Wählerinnen und Wähler überhaupt mitbekommen, dass irgendwas gewählt werden kann und am 27.9. nur die schwarzen (und ihretwegen auch gelben) Schafe zu den Wahlcomputern Wahlurnen rennen.))

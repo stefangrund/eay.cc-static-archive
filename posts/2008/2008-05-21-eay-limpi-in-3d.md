@@ -12,7 +12,7 @@ tags:
   - analogleben
   - kira-und-ich
 meta:
-  - yourls_shorturl: "http://eay.li/l2"
+  - yourls_shorturl: "https://eay.li/l2"
 ---
 
 ![](/uploads/2008/limpieay3d.jpg) Weil man ja zwischendurch immer mal wieder was persönliches bringen muss...

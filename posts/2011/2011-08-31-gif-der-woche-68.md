@@ -15,7 +15,7 @@ tags:
   - predator
   - whoopi-goldberg
 meta:
-  - yourls_shorturl: "http://eay.li/1ap"
+  - yourls_shorturl: "https://eay.li/1ap"
 ---
 
 ![](https://eay.cc/uploads/2011/whoopi.gif) Sister Act vs. Predator, die neue Verwechslungskomödie mit Whoopi Goldberg. (via [Patrick Neville's shake](http://mlkshk.com/p/617G))

@@ -14,7 +14,7 @@ tags:
   - games
   - mac
 meta:
-  - yourls_shorturl: "http://eay.li/1wm"
+  - yourls_shorturl: "https://eay.li/1wm"
   - linked_list_url: "https://itunes.apple.com/de/app/the-incident/id408679233?mt=12"
 ---
 

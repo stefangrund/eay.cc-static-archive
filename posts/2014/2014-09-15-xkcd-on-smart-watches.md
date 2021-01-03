@@ -16,7 +16,7 @@ tags:
   - xkcd
 meta:
   - linked_list_url: "https://xkcd.com/1420/"
-  - yourls_shorturl: "http://eay.li/2j2"
+  - yourls_shorturl: "https://eay.li/2j2"
 ---
 
 [![](https://eay.cc/uploads/2014/xkcd_watches.png)](https://xkcd.com/1420/)

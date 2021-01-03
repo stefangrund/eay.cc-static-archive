@@ -13,7 +13,7 @@ tags:
   - jurassic-park
   - urlaub
 meta:
-  - yourls_shorturl: "http://eay.li/1sz"
+  - yourls_shorturl: "https://eay.li/1sz"
 ---
 
 [Bleiben](//eay.cc/2013/pakotos-jurassic-park-tribut/) wir im Jurassic Park: Der von der Wikipedia inspirierte, frei zugängliche, weltweite Reiseführer [Wikitravel](http://wikitravel.org/) hilft euch nämlich nicht nur weiter, wenn ihr nach [New York](http://wikitravel.org/de/New_York) oder [London](http://wikitravel.org/de/London) wollt, sondern auch wenn's im nächsten Urlaub eines der abgelegeneren Ziele sein soll. Wie z.B. [Isla Nublar](http://jurassicpark.wikia.com/wiki/Isla_Nublar_(Movie_canon)), "one of five charming islands, known locally as Las Cinco Muertes (»The Five Deaths«)", die Insel auf der sich der weltberühmte Dinosaurierfreizeitpark befindet. Klingt gut, und scheint im Gegensatz zu anders lautenden Gerüchten auch vollkommen sicher zu sein:

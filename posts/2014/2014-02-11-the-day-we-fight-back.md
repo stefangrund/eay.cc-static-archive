@@ -16,7 +16,7 @@ tags:
   - usa
 meta:
   - linked_list_url: "https://thedaywefightback.org/"
-  - yourls_shorturl: "http://eay.li/2cu"
+  - yourls_shorturl: "https://eay.li/2cu"
 ---
 
 (Interessant ist ja nicht nur, welche Firmen und Organisationen das unterstützen, sondern vor allem welche nicht.)

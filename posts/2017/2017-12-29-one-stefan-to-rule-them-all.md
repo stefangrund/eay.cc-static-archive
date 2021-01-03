@@ -12,7 +12,7 @@ categories:
 tags:
   - projekte
 meta:
-  - yourls_shorturl: "http://eay.li/32w"
+  - yourls_shorturl: "https://eay.li/32w"
 ---
 
 Nach [stefangrund.de](https://stefangrund.de/), [stefangrund.eu](http://stefangrund.eu/) und [stefangrund.blog](http://stefangrund.blog/) bin ich seit kurzem auch im Besitz von [stefangrund.com](http://stefangrund.com/), [stefangrund.net](http://stefangrund.net/) und [stefangrund.org](http://stefangrund.org/). Das Triumvirat der TLDs gehörte jahrelang jemand anderem, weshalb ich mir initial für eine etwaige Internationalisierung der Personal Brand auch .eu gesichert habe. Nun sind sie aber alle da, wo sie hingehören. ((Sorry, liebe Namensvetter. 😉))

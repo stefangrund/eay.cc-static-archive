@@ -17,7 +17,7 @@ tags:
   - technologie
   - zukunft
 meta:
-  - yourls_shorturl: "http://eay.li/28v"
+  - yourls_shorturl: "https://eay.li/28v"
 ---
 
 > The first Great artist of the 21st century will be a programmer.

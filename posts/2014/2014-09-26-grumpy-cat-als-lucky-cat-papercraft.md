@@ -15,7 +15,7 @@ tags:
   - papercraft
 meta:
   - linked_list_url: "http://digitprop.com/2014/09/grumpy-unlucky-cat/"
-  - yourls_shorturl: "http://eay.li/2jf"
+  - yourls_shorturl: "https://eay.li/2jf"
 ---
 
 ![](https://eay.cc/uploads/2014/papergrumpycat.gif)

@@ -13,7 +13,7 @@ tags:
   - fernsehen
   - trailer
 meta:
-  - yourls_shorturl: "http://eay.li/1xe"
+  - yourls_shorturl: "https://eay.li/1xe"
   - linked_list_url: "http://www.andisblog.de/2012/05/20/trailer-fast-aller-tv-shows-kommender-saison-herbst-2012/"
 ---
 

@@ -13,7 +13,7 @@ tags:
   - pause
   - twitter
 meta:
-  - yourls_shorturl: "http://eay.li/b"
+  - yourls_shorturl: "https://eay.li/b"
 ---
 
 [![](https://eay.cc/uploads/2010/goldieayz.gif)](http://twitter.com/Goldi1945/status/12931683492)

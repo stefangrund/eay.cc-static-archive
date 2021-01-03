@@ -13,7 +13,7 @@ tags:
   - musik
   - musikindustrie
 meta:
-  - yourls_shorturl: "http://eay.li/ve"
+  - yourls_shorturl: "https://eay.li/ve"
 ---
 
 ![](/uploads/2008/angelikaexpressvertrag.jpg) Heute bin ich ganz offiziell ins Musikbusiness eingestiegen. Als Förderer von [Angelika Express](http://angelika-express.de/).

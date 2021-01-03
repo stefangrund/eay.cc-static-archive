@@ -15,7 +15,7 @@ tags:
   - news
 meta:
   - linked_list_url: "http://laughingsquid.com/cnn-founder-ted-turners-eerie-cold-war-era-video-made-to-be-broadcast-at-the-end-of-the-world/"
-  - yourls_shorturl: "http://eay.li/2m6"
+  - yourls_shorturl: "https://eay.li/2m6"
 ---
 
 > Hold for release till the end of the world confirmed.

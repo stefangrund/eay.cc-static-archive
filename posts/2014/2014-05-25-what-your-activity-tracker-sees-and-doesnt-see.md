@@ -15,7 +15,7 @@ tags:
   - visualisierung
   - wearables
 meta:
-  - yourls_shorturl: "http://eay.li/2g8"
+  - yourls_shorturl: "https://eay.li/2g8"
   - linked_list_url: "http://well.blogs.nytimes.com/projects/2014/03/accelerometers.html"
 ---
 

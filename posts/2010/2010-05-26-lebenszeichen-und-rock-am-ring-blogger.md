@@ -15,7 +15,7 @@ tags:
   - rar10
   - rock-am-ring
 meta:
-  - yourls_shorturl: "http://eay.li/ya"
+  - yourls_shorturl: "https://eay.li/ya"
 ---
 
 Kurze Zwischenmeldung: Wirklich vielen, vielen Dank für eure zahlreichen Emails und [DMs](http://twitter.com/Eay)! Ja, mir geht's gut, das Redesign der Seite schreitet tatsächlich voran (es gibt sogar eine ultrageheime, ultraunscharfte [Twitpic-Preview](http://twitpic.com/1mr34j)...) und ich bin frohen Mutes, dass ich hier bald wieder ordentlich loslegen kann.

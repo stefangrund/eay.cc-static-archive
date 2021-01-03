@@ -15,7 +15,7 @@ tags:
   - visualisierung
 meta:
   - linked_list_url: "http://www.emojitracker.com/"
-  - yourls_shorturl: "http://eay.li/25q"
+  - yourls_shorturl: "https://eay.li/25q"
 ---
 
 Live-Übersicht der iOS-Emoji-Nutzung auf Twitter. (via [Daring Fireball](http://daringfireball.net/linked/2013/07/26/emoji))

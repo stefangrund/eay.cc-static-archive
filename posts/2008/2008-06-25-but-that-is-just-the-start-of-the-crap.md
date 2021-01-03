@@ -12,7 +12,7 @@ tags:
   - email
   - windows
 meta:
-  - yourls_shorturl: "http://eay.li/cr"
+  - yourls_shorturl: "https://eay.li/cr"
 ---
 
 Wie das [fscklog berichtet](http://www.fscklog.com/2008/06/interne-microso.html), ist ein interner Mail-Wechsel von Microsoft aus dem Jahr 2003 aufgetaucht, in dem Bill Gates von seiner Erfahrung beim (vergeblichen) Download des Windows Movie Maker berichtet. Und er ist offensichtlich not amused:

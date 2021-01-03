@@ -16,7 +16,7 @@ tags:
   - politik
   - usa
 meta:
-  - yourls_shorturl: "http://eay.li/2vd"
+  - yourls_shorturl: "https://eay.li/2vd"
 ---
 
 \[youtube id="vZnlz-b2NnY"\]

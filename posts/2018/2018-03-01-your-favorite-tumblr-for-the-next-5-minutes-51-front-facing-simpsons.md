@@ -16,7 +16,7 @@ tags:
   - simpsons
   - your-favorite-tumblr-for-the-next-5-minutes
 meta:
-  - yourls_shorturl: "http://eay.li/33v"
+  - yourls_shorturl: "https://eay.li/33v"
 ---
 
 ![](https://eay.cc/uploads/2018/frontfacingsimpsons.jpg)

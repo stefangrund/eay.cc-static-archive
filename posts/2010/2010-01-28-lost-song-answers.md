@@ -15,7 +15,7 @@ tags:
   - lost
   - musikvideo
 meta:
-  - yourls_shorturl: "http://eay.li/5"
+  - yourls_shorturl: "https://eay.li/5"
 ---
 
 Am 2. Februar geht [Lost](//eay.cc/tag/lost/) bekanntlich in die finale, sechste Staffel, die uns verspricht, endlich Antworten rund um Insel und Dharma-Initiative zu liefern. Zumindest, wenn man den Show Runnern Damon Lindelof und Carlton Cuse glauben kann. Denn das wirklich alle Rätsel gelöst werden, bezweifele ich immer noch sehr stark und wie's aussieht nicht nur ich: die [Fine Bros.](http://www.youtube.com/thefinebros) haben aus eben diesen Zweifeln heraus ein sehr sehens- und hörenswerte Musikvideo zur Thematik produziert, das auf Petula Clarks "[Downtown](http://www.youtube.com/watch?v=FKCnHWas3HQ)" von 1964 basiert und immerhin schon mal die Wartezeit bis nächsten Dienstag verkürzt.

@@ -19,7 +19,7 @@ meta:
   - geo_latitude: "50.941888289583"
   - geo_longitude: "6.9573618892668"
   - geo_public: "1"
-  - yourls_shorturl: "http://eay.li/31v"
+  - yourls_shorturl: "https://eay.li/31v"
 ---
 
 > Far from the promised 1,500 cars, Musk let us know that Tesla had shipped only 220 Model 3s in Q3.

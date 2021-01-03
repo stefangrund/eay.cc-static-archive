@@ -15,7 +15,7 @@ tags:
   - fanart
   - games
 meta:
-  - yourls_shorturl: "http://eay.li/u4"
+  - yourls_shorturl: "https://eay.li/u4"
 ---
 
 Als alter Freund von alten 2D-Point-and-Click-Adventures habe ich damals™ anno 1996 und 97 natürlich auch [Baphomets Fluch](http://de.wikipedia.org/wiki/Baphomets_Fluch) 1 und 2 gespielt, waren es doch im Vergleich zu anderen Adventures endlich mal ernste Krimi-Abenteuer. Das gefiel.

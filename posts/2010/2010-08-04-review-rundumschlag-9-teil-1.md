@@ -21,7 +21,7 @@ tags:
   - romantic-comedy
   - tim-burton
 meta:
-  - yourls_shorturl: "http://eay.li/zx"
+  - yourls_shorturl: "https://eay.li/zx"
 ---
 
 Heute möchte ich die Gelegenheit beim Schopfe packen und den durch meine Blogpause vernachlässigten [Kinolog](//eay.cc/themen/kinolog/) und ergo die [EMDb](http://eay.cc/emdb/) wieder auf einen aktuellen Stand bringen - und zwar im Superschnelldurchlauf (in zwei Teilen). Die folgenden Filme sind zwar schon auf DVD raus, aber so wisst ihr am Wochenende wenigstens welchen Silberling ihr aus der DVDthek mitnehmen müsst.

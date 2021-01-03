@@ -17,7 +17,7 @@ tags:
   - vine
   - werbung
 meta:
-  - yourls_shorturl: "http://eay.li/23k"
+  - yourls_shorturl: "https://eay.li/23k"
   - linked_list_url: "http://www.youtube.com/watch?v=LUuVgarbROE"
 ---
 

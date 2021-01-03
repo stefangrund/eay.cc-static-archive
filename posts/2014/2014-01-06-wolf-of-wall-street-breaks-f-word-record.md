@@ -14,7 +14,7 @@ tags:
   - funfacts
 meta:
   - linked_list_url: "http://variety.com/2014/film/news/wolf-of-wall-street-breaks-f-word-record-1201022655/"
-  - yourls_shorturl: "http://eay.li/2bf"
+  - yourls_shorturl: "https://eay.li/2bf"
 ---
 
 > According to Wikipedia, the word âfuckâ is used 506 times over âThe Wolf of Wall Street´sâ 180-minute running time. Previously, the record for a non-documentary was Spike Lee´s 1999 film Summer of Sam with 435 instances.

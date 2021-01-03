@@ -15,7 +15,7 @@ tags:
   - oscars
   - wetten
 meta:
-  - yourls_shorturl: "http://eay.li/2n2"
+  - yourls_shorturl: "https://eay.li/2n2"
 ---
 
 ![](https://eay.cc/uploads/2010/oscar.jpg)Nachdem mein Verhältnis zu den Best-Picture-Nominierten [nun geklärt ist](//eay.cc/2015/oscars-2015-review-rundumschlag/), hier meine alljährliche, wie immer kurz vor knapp veröffentlichte 5. Einschätzung zur Lage im Dolby Theatre, wo heute zum [87\. Mal die Academy Awards](https://en.wikipedia.org/wiki/87th_Academy_Awards) verliehen werden. In diesem Jahr ist die Qualität der Nominierten besonders hoch, ein klarer Überflieger scheint mir aber nicht dabei zu sein. Das macht die Sache besonders schwer. Ob ich meinen Bestwert [vom letzten Jahr](//eay.cc/2014/oscar-prognose-2014/), wo ich 19 von 24 Kategorien richtig tippte, dieses Jahr übertreffen oder auch nur halten kann, ist also eher fraglich, befürchte ich.

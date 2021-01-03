@@ -17,7 +17,7 @@ tags:
   - piraterie
   - torrent
 meta:
-  - yourls_shorturl: "http://eay.li/1qs"
+  - yourls_shorturl: "https://eay.li/1qs"
 ---
 
 Wie schon in den letzten zwei Jahren ([2010](//eay.cc/2010/the-most-pirated-movies-of-2010/), [2011](//eay.cc/2011/the-most-pirated-movies-and-tv-shows-of-2011/)) haben die Jungs von [TorrentFreak](http://torrentfreak.com/), immer noch everybody´s favorite filesharing news blog, Top 10s der am häufigsten per BitTorrent heruntergeladenen Filme und TV-Serien zusammengestellt. Und auch 2012 gab es wieder die ein oder andere Überraschung, allen voran die Tatsache, dass die Party-Mockumentary »Project X« sämtliche Blockbuster links liegen ließ und sich an die Spitze der Download-Charts absetzte.

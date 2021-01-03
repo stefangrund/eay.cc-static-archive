@@ -16,7 +16,7 @@ tags:
   - urheberrecht
   - wordpress
 meta:
-  - yourls_shorturl: "http://eay.li/fc"
+  - yourls_shorturl: "https://eay.li/fc"
 ---
 
 Ich weiß ja, [Stanley, mein "one-column Kubrick"](//eay.cc/2008/introducing-stanley/), ist ein tolles kleines Wordpress-Theme. ((Ist ja auch von mir!)) ((Mmmhhhmmm, Eigenlob.)) Deshalb werde ich's an dem Tag, an dem ich mich hier davon abwende, auch zum freien Download raushauen. Bis dahin bleibt's eayz exklusiv und, ja, auch urheberrechtlich geschützt. ((Dass man sich natürlich inspirieren lassen darf, ist klar...))

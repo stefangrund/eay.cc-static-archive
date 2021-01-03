@@ -15,7 +15,7 @@ tags:
   - transformers
   - tshirt
 meta:
-  - yourls_shorturl: "http://eay.li/fg"
+  - yourls_shorturl: "https://eay.li/fg"
 ---
 
 ![](https://eay.cc/uploads/2009/piratron.jpg) Best. T-Shirt. Ever. Vor allem wenn man sich gerade den neuesten Transformers runterlädt... [Hier](http://www.piratron.com/) könnt ihr's (auch in der Decepticon-Variante) für 20$ erstehen, also zumindest solange bis Hasbro die Seite weggeklagt hat. ([via](http://www.boingboing.net/2009/10/12/transformer-and-cros.html))

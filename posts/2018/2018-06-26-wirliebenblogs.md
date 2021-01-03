@@ -14,7 +14,7 @@ tags:
   - blogging
   - netzkultur
 meta:
-  - yourls_shorturl: "http://eay.li/35p"
+  - yourls_shorturl: "https://eay.li/35p"
   - content_copy: "https://twitter.com/eay/status/1011733543339352064"
 ---
 

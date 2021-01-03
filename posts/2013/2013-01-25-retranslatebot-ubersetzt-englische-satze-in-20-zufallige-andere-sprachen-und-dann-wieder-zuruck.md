@@ -13,7 +13,7 @@ tags:
   - sprache
   - webservice
 meta:
-  - yourls_shorturl: "http://eay.li/21n"
+  - yourls_shorturl: "https://eay.li/21n"
   - linked_list_url: "http://retranslatebot.herokuapp.com/"
 ---
 

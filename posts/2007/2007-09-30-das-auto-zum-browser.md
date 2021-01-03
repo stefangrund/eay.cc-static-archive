@@ -15,7 +15,7 @@ tags:
   - firefox
   - netzkultur
 meta:
-  - yourls_shorturl: "http://eay.li/kn"
+  - yourls_shorturl: "https://eay.li/kn"
 ---
 
 [![](/uploads/2007/firefoxauto.jpg "by-nc-sa, by nobihaya")](http://www.flickr.com/photos/nobihaya/1386720470/in/pool-515600@N23/) Mit [dieser](http://www.flickr.com/photos/nobihaya/1386720470/in/pool-515600@N23/) mobilen Werbefläche würde ich auch schon rumcruisen...

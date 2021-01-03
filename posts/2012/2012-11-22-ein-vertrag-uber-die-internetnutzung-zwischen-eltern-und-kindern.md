@@ -16,7 +16,7 @@ tags:
   - medienrecht
   - netzkultur
 meta:
-  - yourls_shorturl: "http://eay.li/20f"
+  - yourls_shorturl: "https://eay.li/20f"
   - linked_list_url: "http://www.wbs-law.de/wp-content/uploads/2012/11/Vertrag-%C3%BCber-die-Internetnutzung-wbs-law.de_1.pdf"
 ---
 

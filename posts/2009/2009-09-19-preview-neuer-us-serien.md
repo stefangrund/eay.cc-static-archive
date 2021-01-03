@@ -11,7 +11,7 @@ tags:
   - fernsehen
   - serien
 meta:
-  - yourls_shorturl: "http://eay.li/7j"
+  - yourls_shorturl: "https://eay.li/7j"
 ---
 
 Blogger-Kollege und Leistungstwitterer @[AndiH](http://twitter.com/AndiH), dem ich in Sachen Serien vollends vertraue, hat u.a. auf meinen Wunsch drüben im seinem Blog eine [Preview zur neuen US-Serien-Saison](http://www.andisblog.de/2009/09/19/us-serien-herbst-2009-preview/) veröffentlicht, die ja bekanntlich kommende Woche startet. Must-Read, damit ihr wisst, was es sich _wahrscheinlich_ lohnt anzusehen.

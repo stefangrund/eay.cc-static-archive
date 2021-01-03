@@ -16,7 +16,7 @@ tags:
   - personal-api
   - studium
 meta:
-  - yourls_shorturl: "http://eay.li/2fb"
+  - yourls_shorturl: "https://eay.li/2fb"
   - content_copy: "https://www.instagram.com/p/nnZEWTnSx2/"
 ---
 

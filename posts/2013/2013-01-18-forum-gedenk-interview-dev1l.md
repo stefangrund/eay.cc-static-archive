@@ -13,7 +13,7 @@ tags:
   - forum
   - forum-gedenk-interview
 meta:
-  - yourls_shorturl: "http://eay.li/1rp"
+  - yourls_shorturl: "https://eay.li/1rp"
 ---
 
 Vor ziemlich genau fünf Jahren wurde das eayz.net Forum geschlossen, das bis dahin einer kleinen, aber außerordentlich feinen Community ein digitales Dach über dem Kopf bot. [Im Gedenken ans Forum](//eay.cc/2013/remembering-das-forum/) habe ich mich gefragt, was die Leute, die hier damals zum Mobiliar gehörten, heute eigentlich so machen. Ein paar Emails später hatte ich dankenswerterweise einige interessante Antworten zusammen. [Unter anderem](//eay.cc/tag/forum-gedenk-interview/) von Dev1l, der auf den Namen Timo hört und tatsächlich ein alter Klassenkamerad von mir ist und - noch wichtiger - früher sogar für eben diese Webseite schrieb (vgl. [10 Jahre eayz](//eay.cc/2013/10-jahre-eayz/)) und hier für den Ärger zuständig war.

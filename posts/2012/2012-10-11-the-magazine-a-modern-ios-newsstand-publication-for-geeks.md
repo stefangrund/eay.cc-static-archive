@@ -15,7 +15,7 @@ tags:
   - ios
   - marco-arment
 meta:
-  - yourls_shorturl: "http://eay.li/1zd"
+  - yourls_shorturl: "https://eay.li/1zd"
   - linked_list_url: "http://the-magazine.org/"
 ---
 

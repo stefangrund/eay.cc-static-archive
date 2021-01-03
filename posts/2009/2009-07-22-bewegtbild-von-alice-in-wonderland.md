@@ -13,7 +13,7 @@ tags:
   - tim-burton
   - trailer
 meta:
-  - yourls_shorturl: "http://eay.li/qz"
+  - yourls_shorturl: "https://eay.li/qz"
 ---
 
 Weil den ja zur Stunde [jeder](http://www.fuenf-filmfreunde.de/2009/07/22/alice-in-wonderland-%E2%80%93-teaser-trailer/), [aber](http://www.nerdcore.de/wp/2009/07/22/alice-in-wonderland-%E2%80%93-teaser-trailer/) [auch](http://www.cinematze.de/2009/07/22/alice-in-wonderland-teaser/) [wirklich](http://tbhl.blogspot.com/2009/07/tim-burtons-alice-in-wonderland-der.html) [jeder](http://blog.affenheimtheater.de/2009/07/22/first-teaser-trailer-alice-in-wonderland-tim-burton/) bringt und weil er in der Tat toll aussieht und Lust auf mehr macht, hier der erste Teaser Trailer zu dem Film, auf dessen Umsetzung Tim Burtons gesamte Filmografie seit jeher hindeutet und für den er prädestiniert ist wie kein anderer: [Alive in Wonderland](http://www.imdb.com/title/tt1014759/).

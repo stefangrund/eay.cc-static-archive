@@ -15,7 +15,7 @@ tags:
   - tagebuchblogging
   - zaehne
 meta:
-  - yourls_shorturl: "http://eay.li/v1"
+  - yourls_shorturl: "https://eay.li/v1"
 ---
 
 Stellt euch folgende Situation vor: Gegen 3:30 Uhr Nachts verlasst ihr eine Party. Während ihr an der Straße auf euer Taxi wartet, findet ihr euch in einem dieser Wortgefechte wieder, die in unserem Alter schon mal ausgetragen werden müssen. Unvermittelt plötzlich spuckt ihr Blut, Kopf küsst Asphalt, eure Brille ist kaputt (sofern ihr Brillenträger seid) und der linke Schneidezahn geht in die Geschichte ein. Was nun? Ärztlicher Support wäre ganz nett...

@@ -17,7 +17,7 @@ tags:
   - twitter
 meta:
   - linked_list_url: "http://www.wired.com/business/2013/12/twitter-book-to-television/"
-  - yourls_shorturl: "http://eay.li/2au"
+  - yourls_shorturl: "https://eay.li/2au"
 ---
 
 Ich hab's [ja gesagt](//eay.cc/2013/das-fuehrungschaos-von-twitter/):

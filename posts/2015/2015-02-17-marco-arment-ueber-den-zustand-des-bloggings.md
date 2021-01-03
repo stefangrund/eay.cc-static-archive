@@ -14,7 +14,7 @@ tags:
   - netzkultur
 meta:
   - linked_list_url: "http://www.marco.org/2015/02/16/google-and-blogs-shit"
-  - yourls_shorturl: "http://eay.li/2ni"
+  - yourls_shorturl: "https://eay.li/2ni"
 ---
 
 > If we want it to get better, we need to start pushing back against the trend, modernizing blogs, and building what we want to come next.

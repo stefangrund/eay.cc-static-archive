@@ -15,7 +15,7 @@ tags:
   - mashup
   - steve-jobs
 meta:
-  - yourls_shorturl: "http://eay.li/ay"
+  - yourls_shorturl: "https://eay.li/ay"
 ---
 
 ![](https://eay.cc/uploads/2009/gooflactus.gif) [Good Ol' Disney hat sich also Marvel einverleibt](http://www.spiegel.de/wirtschaft/unternehmen/0,1518,646099,00.html). Was wohl bedeutet, dass Steve Jobs unbedingt Spidey & Co. auf's iPhone (oder ein plötzlich auftauchendes, wie für Comics gemachtes [Tablet](//eay.cc/2009/apples-flachmann/)...) bringen will. Und dass die Disney-Vergnügungsparks demnächst mit Marvel-Rides aufwarten werden. Und dass dieser Tage allerhand Mashups (wie der äußert geniale [Gooflactus](http://www.flickr.com/photos/apelad/3876980936/) von [Adam Koford](http://apelad.blogspot.com/) hier oben) in den digitalen Äther geblassen werden. Exciting times ahead!

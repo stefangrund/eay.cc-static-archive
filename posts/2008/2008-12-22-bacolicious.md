@@ -13,7 +13,7 @@ tags:
   - netzkultur
   - nonsens
 meta:
-  - yourls_shorturl: "http://eay.li/wo"
+  - yourls_shorturl: "https://eay.li/wo"
 ---
 
 Jetzt neu: [eayz.net mit der Extraportion Speck!](http://bacolicio.us/http://www.eayz.net) ([via](http://www.i-jeriko.de/2008/12/20/i-am-jeriko-jetzt-auch-mit-speck/))

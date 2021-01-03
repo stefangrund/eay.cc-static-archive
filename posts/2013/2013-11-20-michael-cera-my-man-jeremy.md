@@ -14,7 +14,7 @@ tags:
   - michael-cera-2
 meta:
   - linked_list_url: "http://www.newyorker.com/humor/2013/11/25/131125sh_shouts_cera?currentPage=all"
-  - yourls_shorturl: "http://eay.li/29p"
+  - yourls_shorturl: "https://eay.li/29p"
 ---
 
 [Michael Cera](https://en.wikipedia.org/wiki/Michael_Cera) bekam eines Tages eine SMS von einem ihm unbekannten Kerl, der sich offensichtlich nur vertan hat. Cera antwortet und baut eine Beziehung zu dem Fremden auf. Dies ist ihre Geschichte.

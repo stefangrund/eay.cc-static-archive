@@ -16,7 +16,7 @@ tags:
   - netzkultur
 meta:
   - linked_list_url: "http://www.themorningnews.org/article/a-brief-history-of-bloggering"
-  - yourls_shorturl: "http://eay.li/2hk"
+  - yourls_shorturl: "https://eay.li/2hk"
 ---
 
 > âAfter the internet, it was an obvious next step,â says Al Gore, in that Al Gore kind of way. âPeople were all like, 'Before we invent social networking, we really need to start somewhere else. So how about blogging?´â

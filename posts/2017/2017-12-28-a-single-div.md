@@ -17,7 +17,7 @@ meta:
   - linked_list_url: "http://a.singlediv.com/"
   - linked_list_url: "http://a.singlediv.com/"
   - linked_list_url: "http://a.singlediv.com/"
-  - yourls_shorturl: "http://eay.li/32v"
+  - yourls_shorturl: "https://eay.li/32v"
 ---
 
 > Each drawing is a single HTML element (the beloved div) and a whole bunch of styles.

@@ -17,7 +17,7 @@ tags:
   - peter-mayhew
   - star-wars
 meta:
-  - yourls_shorturl: "http://eay.li/26s"
+  - yourls_shorturl: "https://eay.li/26s"
   - linked_list_url: "http://www.kickstarter.com/projects/lenswithaview/standing-in-the-stars-the-peter-mayhew-story"
 ---
 

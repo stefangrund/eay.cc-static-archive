@@ -13,7 +13,7 @@ tags:
   - netzkultur
   - nsfw
 meta:
-  - yourls_shorturl: "http://eay.li/44"
+  - yourls_shorturl: "https://eay.li/44"
 ---
 
 [Zfen](http://www.hohlerzeh.de/) hat den bisher besten Verwendungszweck für [Chatroulette](http://chatroulette.com/)\* gefunden:

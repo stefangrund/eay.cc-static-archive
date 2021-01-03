@@ -16,7 +16,7 @@ tags:
   - mashup
   - webcomic
 meta:
-  - yourls_shorturl: "http://eay.li/2h8"
+  - yourls_shorturl: "https://eay.li/2h8"
 ---
 
 ![](https://eay.cc/uploads/2014/stephenbyrne_who.jpg)

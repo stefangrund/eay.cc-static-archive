@@ -19,7 +19,7 @@ tags:
   - serien
   - video-essay
 meta:
-  - yourls_shorturl: "http://eay.li/2u8"
+  - yourls_shorturl: "https://eay.li/2u8"
 ---
 
 \[youtube id="u5Cdguyut8s"\]

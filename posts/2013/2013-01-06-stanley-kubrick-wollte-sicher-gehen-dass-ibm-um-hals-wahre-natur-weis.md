@@ -14,7 +14,7 @@ tags:
   - ibm
   - stanley-kubrick
 meta:
-  - yourls_shorturl: "http://eay.li/216"
+  - yourls_shorturl: "https://eay.li/216"
   - linked_list_url: "http://www.lettersofnote.com/2013/01/does-ibm-know-that-hal-is-psychotic.html"
 ---
 

@@ -13,7 +13,7 @@ tags:
   - intro
   - simpsons
 meta:
-  - yourls_shorturl: "http://eay.li/95"
+  - yourls_shorturl: "https://eay.li/95"
 ---
 
 Bringt ja jeder, ist aber auch einfach zu gut: [Die Simpsons](//eay.cc/tag/simpsons/) haben ein neues Intro. Passend zur ersten HD-Folge, die heute in den US of A ausgestrahlt wird, hat man die alteingesessene Anfangssequenz zwar runderneuert, ist dem Charme und Ablauf des alten Intros aber treu geblieben. Seht selbst:  ([YouTube Direktintro](http://www.youtube.com/watch?v=qZGz1Ajg7QU))

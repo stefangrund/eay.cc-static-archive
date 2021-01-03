@@ -17,7 +17,7 @@ tags:
 meta:
   - linked_list_url: "https://www.kickstarter.com/projects/manton/indie-microblogging-owning-your-short-form-writing"
   - _mentionme_tries: "1"
-  - yourls_shorturl: "http://eay.li/2w0"
+  - yourls_shorturl: "https://eay.li/2w0"
 ---
 
 Als aufmerksamer Hörer von [Core Intuition](https://www.coreint.org/) verfolge ich schon seit einigen Monaten die Arbeit an [Micro.blog](http://micro.blog/), einem neuen Microblogging-Service von [Manton Reece](http://www.manton.org/). Nun hat Manton, der hier kein weiteres [Silo](https://indieweb.org/silo) schaffen will, sondern die Prinzipien von Open Web und Indieweb aufgreift, eine Kickstarter-Kampagne zur Finanzierung des Dienstes und eines begleitenden eBooks gestartet. Selbstredend habe ich bereits meine paar Dollars eingeworfen – und ihr solltet es mir gleich tun. 😌

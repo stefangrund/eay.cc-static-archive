@@ -15,7 +15,7 @@ tags:
   - gesundheit
 meta:
   - linked_list_url: "https://ragmask.com/"
-  - yourls_shorturl: "http://eay.li/3dm"
+  - yourls_shorturl: "https://eay.li/3dm"
 ---
 
 > Ultra-simple, fast-to-make, great-fitting mask.

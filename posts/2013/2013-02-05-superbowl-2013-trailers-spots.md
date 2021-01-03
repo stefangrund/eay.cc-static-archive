@@ -15,7 +15,7 @@ tags:
   - trailer
   - werbung
 meta:
-  - yourls_shorturl: "http://eay.li/21s"
+  - yourls_shorturl: "https://eay.li/21s"
   - linked_list_url: "http://www.pewpewpew.de/2013/02/04/superbowl-2013-trailers-spots/"
 ---
 

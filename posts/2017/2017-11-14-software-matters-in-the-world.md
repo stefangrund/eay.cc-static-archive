@@ -15,7 +15,7 @@ tags:
   - technologie
 meta:
   - linked_list_url: "https://medium.com/make-better-software/software-matters-in-the-world-f24d25b255d7"
-  - yourls_shorturl: "http://eay.li/329"
+  - yourls_shorturl: "https://eay.li/329"
 ---
 
 > Software didn’t eat the world: it bent the world to fit the values of people who make software. And not everybody was happy with the result.

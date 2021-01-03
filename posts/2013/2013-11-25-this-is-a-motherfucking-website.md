@@ -14,7 +14,7 @@ tags:
   - webdesign
 meta:
   - linked_list_url: "http://motherfuckingwebsite.com/"
-  - yourls_shorturl: "http://eay.li/29u"
+  - yourls_shorturl: "https://eay.li/29u"
 ---
 
 Angry web designer is angry. And right.

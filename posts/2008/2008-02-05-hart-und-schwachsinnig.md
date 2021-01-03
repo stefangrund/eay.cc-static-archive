@@ -12,7 +12,7 @@ tags:
   - filmindustrie
   - piraterie
 meta:
-  - yourls_shorturl: "http://eay.li/a5"
+  - yourls_shorturl: "https://eay.li/a5"
 ---
 
 Ich hab ja noch nie verstanden, warum man zahlenden Kunden im Kino und auf DVDs diese furchtbaren "Raubkopierer sind Verbrecher"-Wahlwerbespots zumutet. Anscheinend hat auch endlich mal einer [in dem Laden](http://anonym.to/?http://www.hartabergerecht.de/) sein Köpfchen angestrengt und so ist man zu dem Entschluss gekommen, sich endlich mal bei den Kunden, die diesen Mist ertragen müssen, zu bedanken:

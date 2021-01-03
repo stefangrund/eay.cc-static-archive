@@ -16,7 +16,7 @@ tags:
   - torrent
   - urheberrecht
 meta:
-  - yourls_shorturl: "http://eay.li/9m"
+  - yourls_shorturl: "https://eay.li/9m"
 ---
 
  [![](/uploads/2009/thepirategoogle.gif) Google is the new Pirate Bay.](http://www.thepirategoogle.com/) Und ich frag's [nochmal](http://twitter.com/Eay/status/1573477123): Wann kommen Larry Page und Sergey Brin denn dann ins Gefängnis? Oder wird da etwa mit zweierlei Maß gemessen?

@@ -15,7 +15,7 @@ tags:
   - tiere
   - vogel
 meta:
-  - yourls_shorturl: "http://eay.li/188"
+  - yourls_shorturl: "https://eay.li/188"
 ---
 
 ![](https://eay.cc/uploads/2011/partygans.gif) Party on, Gans.

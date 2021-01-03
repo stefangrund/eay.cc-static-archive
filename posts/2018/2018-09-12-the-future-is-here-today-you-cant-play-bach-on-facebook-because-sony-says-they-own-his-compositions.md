@@ -17,7 +17,7 @@ tags:
   - urheberrecht
 meta:
   - linked_list_url: "https://boingboing.net/2018/09/05/mozart-bach-sorta-mach.html"
-  - yourls_shorturl: "http://eay.li/36q"
+  - yourls_shorturl: "https://eay.li/36q"
 ---
 
 Boing Boing-Posting von letzter Woche, das zeigt, was für ein Wahnsinn nach der [Pro-Upload-Filter-Abstimmung von heute](https://eay.cc/2018/europaparlament-stimmt-fuer-upload-filter-und-ein-eu-leistungsschutzrecht/) absofort noch viel häufiger auf uns zukommen wird:

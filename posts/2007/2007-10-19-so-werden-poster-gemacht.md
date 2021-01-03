@@ -13,7 +13,7 @@ tags:
   - poster
   - rambo
 meta:
-  - yourls_shorturl: "http://eay.li/jq"
+  - yourls_shorturl: "https://eay.li/jq"
 ---
 
 [![](/uploads/2007/ramboposter.jpg)](http://www.slashfilm.com/2007/10/18/new-rambo-title-new-rambo-poster/)

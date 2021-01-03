@@ -14,7 +14,7 @@ tags:
   - web-entwicklung
 meta:
   - linked_list_url: "https://css-tricks.com/future-front-end-web-development/"
-  - yourls_shorturl: "http://eay.li/2z1"
+  - yourls_shorturl: "https://eay.li/2z1"
 ---
 
 [Chris Coyier](http://chriscoyier.net/) hat sich ein paar Gedanken zur Zukunft des Frontends gemacht, die ich alle so unterschreiben kann.

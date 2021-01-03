@@ -17,7 +17,7 @@ tags:
   - kosten
   - statistik
 meta:
-  - yourls_shorturl: "http://eay.li/ny"
+  - yourls_shorturl: "https://eay.li/ny"
 ---
 
 ![](/uploads/2008/kinobesuche.gif) Wie schon [im letzten Jahr](//eay.cc/2007/260-90-euro/) habe ich eben mal die Kinobesuche des Jahres gezählt und den Gesamtpreis aller Filme errechnet. Interessanterweise fällt im Vergleich zum Vorjahr auf, dass der Durchschnittspreis pro Film um sensationelle 23 Cent gesunken ist, was wohl vor allem daran liegt, dass ich in diesem Jahr vermehrt an den günstigeren Wochentagen ins Kino gegangen bin. Mit Getränken und Snacks, schätze ich, käme man auf die doppelte Summe.

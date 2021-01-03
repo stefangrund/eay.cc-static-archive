@@ -13,7 +13,7 @@ tags:
   - games
   - webcomic
 meta:
-  - yourls_shorturl: "http://eay.li/21j"
+  - yourls_shorturl: "https://eay.li/21j"
   - linked_list_url: "http://www.collegehumor.com/article/6864174/how-to-live-life-on-expert-mode"
 ---
 

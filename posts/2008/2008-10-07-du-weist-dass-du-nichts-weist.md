@@ -15,7 +15,7 @@ tags:
   - kinolog
   - komoedie
 meta:
-  - yourls_shorturl: "http://eay.li/sb"
+  - yourls_shorturl: "https://eay.li/sb"
 ---
 
 ![](/uploads/2008/burnafterreading.jpg)Wie jeder halbwegs vernünftige Filmfreund habe auch ich mich in die Filme von Ethan und Joel Coen verguckt. Kaum jemand anders weiß sich derart auf dem Parkett von Komödie & Tragödie zu bewegen. Und mit [Burn After Reading](http://www.imdb.com/title/tt0887883/) tun sie natürlich erneut genau dies. Klar, es ist wieder einer der "lustigeren" Filme der Coens, aber wer mit ihrem Gesamtwerk vertraut ist, weiß, dass das Komische eben wieder aus der individuellen und interdependenten Tragik der Figuren herrührt. In Burn After Reading heißt das, dass die Figuren zwar ein (vergleichsweise lächerliches) Ziel verfolgen, aber im Grunde gar keine Ahnung haben, was sie da eigentlich tun...

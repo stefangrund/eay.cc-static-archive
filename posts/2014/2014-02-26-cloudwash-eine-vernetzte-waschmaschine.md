@@ -16,7 +16,7 @@ tags:
   - zukunft
 meta:
   - linked_list_url: "http://bergcloud.com/case-studies/cloudwash/"
-  - yourls_shorturl: "http://eay.li/2dc"
+  - yourls_shorturl: "https://eay.li/2dc"
 ---
 
 [Berg](http://bergcloud.com/), das Produktdesignstudio hinter [Little Printer](http://littleprinter.com/), hat den Prototyp einer vernetzten, per Smartphone steuerbaren Waschmaschine gebaut, die ich sofort haben will. Push-Notifications über durchgelaufene Wäschen, mobile Steuerung und ein "Do Not Disturb"-Modus, der die Maschine erst dann waschen lässt, wenn's keinen mehr stört, sind schließlich lange überfällig. Dahinter steckt eine ziemlich interessante Device-API, die in Zukunft noch sehr viel mehr "[Internet of Things](http://de.wikipedia.org/wiki/Internet_der_Dinge)" ermöglichen soll. (via [Waxy](http://waxy.org/links))

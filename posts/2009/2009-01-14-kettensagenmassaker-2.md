@@ -14,7 +14,7 @@ tags:
   - microsoft
   - xbox
 meta:
-  - yourls_shorturl: "http://eay.li/m1"
+  - yourls_shorturl: "https://eay.li/m1"
 ---
 
 ![](/uploads/2009/gearsofwar2.jpg) Nachdem meine Xbox 360 repariert zurückgekehrt ist (Übeltäter war übrigens [nicht die GPU](//eay.cc/2008/error-74/), sondern Mainboard und seltsamerweise auch das DVD-Laufwerk), habe ich direkt - nun ja, fast direkt: erst mussten noch einige Updates installiert werden - das langerwartete Gears of War 2 eingelegt. Und bis zur Vollendung des Story-Modus nicht mehr herausgenommen. Was ein tolles Spiel, was eine tolle Grafik. Es war spannend, blutig, lustig, brutal, ekelig, traurig und nochmal spannend - und sah dabei immerzu fabelhaft aus.

@@ -14,7 +14,7 @@ tags:
   - webservice
 meta:
   - linked_list_url: "http://mynoise.net/noiseMachines.php"
-  - yourls_shorturl: "http://eay.li/283"
+  - yourls_shorturl: "https://eay.li/283"
 ---
 
 Auf der Seite kann man sich seine eigene Hintergrundgeräuschkulisse generieren und anhören (und gegen Bares auch runterladen, was ich nebenbei gesagt für ein ziemlich gutes Geschäftsmodell halte). Ideal, wenn man Radio, das Surren des Büro-PCs oder den eigenen Tinnitus mal wieder nicht ertragen kann. (via [1337core](http://www.1337core.de/geraeusche-und-regler-zum-einschlafen/))

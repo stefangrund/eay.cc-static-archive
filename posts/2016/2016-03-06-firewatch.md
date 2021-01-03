@@ -15,7 +15,7 @@ tags:
   - playstation
   - the-division
 meta:
-  - yourls_shorturl: "http://eay.li/2s6"
+  - yourls_shorturl: "https://eay.li/2s6"
 ---
 
 Bevor es morgen mit [The Division](https://en.wikipedia.org/wiki/Tom_Clancy%27s_The_Division), dem MMO-Roleplay-Hybriden im [DMZ](https://en.wikipedia.org/wiki/DMZ_(comics))\-inspirierten Viren-New York losgeht ((Ich habe zuvor schon ein paar unterhaltsame Stunden mit der Beta zubringen können, die mich vor allem mit ihrer nervenaufreibenden Dark Zone angefixt hat.)), habe ich gestern Abend endlich Campo Santos [Firewatch](http://www.firewatchgame.com/) durchgespielt.

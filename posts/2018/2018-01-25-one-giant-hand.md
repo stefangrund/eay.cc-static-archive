@@ -16,7 +16,7 @@ tags:
   - webcomic
 meta:
   - linked_list_url: "http://onegianthand.com/"
-  - yourls_shorturl: "http://eay.li/33e"
+  - yourls_shorturl: "https://eay.li/33e"
 ---
 
 ![](https://eay.cc/uploads/2018/spiderman.jpg)

@@ -19,7 +19,7 @@ meta:
   - content_copy: "https://twitter.com/eay/status/948312312087236616"
   - content_copy: "https://twitter.com/eay/status/948312397919514624"
   - content_copy: "https://twitter.com/eay/status/948312524214231045"
-  - yourls_shorturl: "http://eay.li/330"
+  - yourls_shorturl: "https://eay.li/330"
 ---
 
 Es folgen einige Quantified-Self-Daten, die ich eben für 2017 ausgewertet habe:

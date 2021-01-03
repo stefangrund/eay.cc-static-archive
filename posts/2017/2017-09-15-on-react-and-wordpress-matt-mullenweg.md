@@ -19,7 +19,7 @@ tags:
   - wordpress
 meta:
   - linked_list_url: "https://ma.tt/2017/09/on-react-and-wordpress/"
-  - yourls_shorturl: "http://eay.li/317"
+  - yourls_shorturl: "https://eay.li/317"
   - geo_latitude: "52.381263644551"
   - geo_longitude: "5.7004708518599"
   - geo_public: "1"

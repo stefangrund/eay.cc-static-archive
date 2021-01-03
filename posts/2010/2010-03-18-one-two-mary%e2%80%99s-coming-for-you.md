@@ -19,7 +19,7 @@ tags:
   - recut
   - trailer
 meta:
-  - yourls_shorturl: "http://eay.li/h2"
+  - yourls_shorturl: "https://eay.li/h2"
 ---
 
 Nach dem [Familienfilm Shining](//eay.cc/2008/the-shining-redux/) und der [Grindhouse-Version des Wrestlers](//eay.cc/2009/the-wrestler-grindhouse-trailer/) hier nun der Recut-Trailer von [Mary Poppins](http://de.wikipedia.org/wiki/Mary_Poppins_%28Film%29), bei dem das Disney-Musical von 1964 zu einem wahren Horrortrip wird. Also: Hide your children.

@@ -17,7 +17,7 @@ tags:
   - technologie
 meta:
   - linked_list_url: "https://www.bloomberg.com/news/articles/2020-06-09/apple-plans-to-announce-move-to-its-own-mac-chips-at-wwdc"
-  - yourls_shorturl: "http://eay.li/3ef"
+  - yourls_shorturl: "https://eay.li/3ef"
 ---
 
 Stoppt die Maschinen! Verkauft eure Intel-Aktien! Am 22. Juni findet Apples alljährliche Entwicklerkonferenz, die WWDC, statt und Mark Gurman von Bloomberg berichtet, dass dort der bevorstehende Switch von Intel-CPUs zu Apple-eigenen ARM-Chips angekündigt wird. [Wie John Gruber schreibt](https://daringfireball.net/2020/06/on_apple_announcing_the_mac_arm_transition_at_wwdc), wäre das ein wenig überraschender Schritt, performen die iPad-Chips mittlerweile doch schon besser als die Intel-Prozessoren in High-End-MacBooks (in Single-Core-Benchmarks). Die Frage ist nur: Erfolgt die Ankündigung tatsächlich jetzt oder später?

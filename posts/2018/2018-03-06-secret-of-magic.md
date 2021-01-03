@@ -14,7 +14,7 @@ tags:
   - black-mirror
   - magie
 meta:
-  - yourls_shorturl: "http://eay.li/341"
+  - yourls_shorturl: "https://eay.li/341"
 ---
 
 > The only secret of magic is that I'm willing to work harder on it than you think it's worth.

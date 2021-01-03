@@ -13,7 +13,7 @@ tags:
   - eayzlies
   - musik
 meta:
-  - yourls_shorturl: "http://eay.li/o0"
+  - yourls_shorturl: "https://eay.li/o0"
 ---
 
 ![](/uploads/2007/jazzistanders.jpg) Der Vollständigkeit halber, denn geneigte eayz-Leser dürfte [Jazz ist anders](http://www.amazon.de/exec/obidos/ASIN/B000VOEETI/eayznet-21), die neue Platte "der nach damals einhelliger Meinung besten Band der Welt" eh schon sein Eigen nennen: Ich, der mindestens schon genauso lange, wenn nicht noch länger als [Stephie](//eay.cc/2007/ein-leben-fur-die-arzte/), ein Fan Supporter der drei Berufsjugendlichen ist, stand als entschlossener [Geräusch](http://www.amazon.de/exec/obidos/ASIN/B0000AN32D/eayznet-21)\-nicht-Möger einer neuen Platte zwiespältig gegenüber. Als Freund der vorherigen Alben, passte Geräusch - trotz der viel gelobten Fortentwicklung - nicht so recht in mein Geschmacksmuster.

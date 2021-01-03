@@ -15,7 +15,7 @@ tags:
   - monetarisierung
   - publishing
 meta:
-  - yourls_shorturl: "http://eay.li/219"
+  - yourls_shorturl: "https://eay.li/219"
   - linked_list_url: "http://blog.svbtle.com/svbtle-funding"
 ---
 

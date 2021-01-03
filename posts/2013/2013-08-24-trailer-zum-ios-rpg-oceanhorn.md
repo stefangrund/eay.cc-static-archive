@@ -16,7 +16,7 @@ tags:
   - trailer
 meta:
   - linked_list_url: "http://oceanhorn.blogspot.de/2013/08/oceanhorn-debut-trailer-is-here.html"
-  - yourls_shorturl: "http://eay.li/26n"
+  - yourls_shorturl: "https://eay.li/26n"
 ---
 
 Sieht vielversprechend aus. Vielleicht könnte das sogar iOS' Zelda werden.

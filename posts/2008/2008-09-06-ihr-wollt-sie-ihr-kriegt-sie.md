@@ -15,7 +15,7 @@ tags:
   - sarah-palin
   - usa
 meta:
-  - yourls_shorturl: "http://eay.li/p7"
+  - yourls_shorturl: "https://eay.li/p7"
 ---
 
 ![](/uploads/2008/palin3.jpg) Morgen gibt's wieder richtigen Content.

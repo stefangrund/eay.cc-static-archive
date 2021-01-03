@@ -18,7 +18,7 @@ meta:
   - linked_list_url: "https://www.vox.com/2020/2/12/21132260/who-vote-for-biden-sanders-warren-buttigieg-bloomberg-klobuchar"
   - linked_list_url: "https://www.vox.com/2020/2/12/21132260/who-vote-for-biden-sanders-warren-buttigieg-bloomberg-klobuchar"
   - linked_list_url: "https://www.vox.com/2020/2/12/21132260/who-vote-for-biden-sanders-warren-buttigieg-bloomberg-klobuchar"
-  - yourls_shorturl: "http://eay.li/3cy"
+  - yourls_shorturl: "https://eay.li/3cy"
   - geo_latitude: "50.97389915036"
   - geo_longitude: "6.6829988006343"
   - geo_public: "1"

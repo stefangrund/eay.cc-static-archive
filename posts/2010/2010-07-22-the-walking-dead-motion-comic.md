@@ -16,7 +16,7 @@ tags:
   - the-walking-dead
   - zombies
 meta:
-  - yourls_shorturl: "http://eay.li/zm"
+  - yourls_shorturl: "https://eay.li/zm"
 ---
 
 Ich glaube, ich habe es hier zuvor noch nicht erwähnt (aber [hier](http://twitter.com/Eay) - also seriously, [folgt mir einfach bei Twitter](http://twitter.com/Eay), dann wisst ihr Bescheid und ich muss nicht immer wiederholen, was die Menschen die bereits so klug waren mir zu folgen, schon wissen), aber ich bin ein riesengroßer Fan von Robert Kirkmans Zombie-Comic [The Walking Dead](http://en.wikipedia.org/wiki/The_Walking_Dead).

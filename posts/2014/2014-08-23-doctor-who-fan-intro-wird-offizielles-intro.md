@@ -15,7 +15,7 @@ tags:
   - fernsehen
   - serien
 meta:
-  - yourls_shorturl: "http://eay.li/2ic"
+  - yourls_shorturl: "https://eay.li/2ic"
 ---
 
 \[youtube id="oXOBHnWiinY"\]

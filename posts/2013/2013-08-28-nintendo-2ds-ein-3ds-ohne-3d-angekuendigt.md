@@ -17,7 +17,7 @@ tags:
   - nintendo-ds
 meta:
   - linked_list_url: "http://www.nintendo.com/3ds/new/"
-  - yourls_shorturl: "http://eay.li/26p"
+  - yourls_shorturl: "https://eay.li/26p"
 ---
 
 Eigentlich macht Nintendo mit dem für Oktober angekündigten 2DS genau das, was mich mir von einem "neuen" Nintendo-Handheld erhofft hatte (ein ordentliches Gerät, frei von diesem 3D-Mist), um's dann doch wieder zu versauen: Warum nur diese furchtbare Türstopper-Optik, anstelle eines zusammenklappbaren Geräts wie eh und je? So gehört das Ding wirklich nur ins (Klein-)Kinderzimmer...

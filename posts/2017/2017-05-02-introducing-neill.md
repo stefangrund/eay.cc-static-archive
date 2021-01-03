@@ -18,7 +18,7 @@ tags:
   - theme
   - wordpress
 meta:
-  - yourls_shorturl: "http://eay.li/2y4"
+  - yourls_shorturl: "https://eay.li/2y4"
 ---
 
 ![](https://media.giphy.com/media/l0Iy5dMAZBy15REbK/giphy.gif)Alles neu macht der Mai: Nachdem [Jeffrey Jacob](https://eay.cc/2013/introducing-jeffrey-jacob/), das hiesige Haus- und Hof-Theme, jetzt schon seit dreieinhalb Jahren im unermüdlich Dauer­einsatz war, wurde es langsam mal wieder Zeit hier neue Farbe aufzutragen. Mit “**Neill**”, dem neuen Theme, das in alter Blogtradition nach einem Über-Regisseur benannt wurde (vorher: [Stanley](https://eay.cc/2008/introducing-stanley/), [Steven](https://eay.cc/2010/introducing-steven/) und eben JJ), habe ich genau das heute getan. Namenspatron ist [Neill Blomkamp](https://en.wikipedia.org/wiki/Neill_Blomkamp), seines Zeichens Regisseur und Autor von so wunderbaren Dystopien wie »District 9«, »Elysium« und »Chapie« (was zugegebenermaßen bisher all seine Feature­filme sind, die ich aber mit Ausnahme von »Elysium« beide großartig fand 😉 – nein, ernsthaft, ich glaube, der vollbringt noch großes). Und da wir uns ja mit Brexit, Trump und Erdogan mittlerweile inmitten einer dystopischen Parallelwelt zu befinden scheinen, dachte ich, passt das doch ganz gut.

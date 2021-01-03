@@ -18,7 +18,7 @@ tags:
   - volkswagen
   - werbung
 meta:
-  - yourls_shorturl: "http://eay.li/17d"
+  - yourls_shorturl: "https://eay.li/17d"
 ---
 
 Den [Volkwagen-Spot mit dem kleinen Darth Vader](http://www.youtube.com/watch?v=R55e-uHQna0) muss man wirklich niemandem mehr zeigen - jedermann kennt ihn, weiß um seine Großartigkeit und findet ihn klasse (auch die Menschen, die nicht in unserer bizarren Internetwelt leben). Marvel hat sich diesen instant classic im Rahmen seiner Thor-Werbekampagne nun zu Eigen gemacht und präsentiert uns jetzt den kleinen Thor. Nicht ganz so gut wie das Original, aber alleine als Hommage an den VW-Spot immer noch große Klasse.

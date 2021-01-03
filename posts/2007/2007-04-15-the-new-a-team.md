@@ -18,7 +18,7 @@ tags:
   - mrt
   - output
 meta:
-  - yourls_shorturl: "http://eay.li/6n"
+  - yourls_shorturl: "https://eay.li/6n"
 ---
 
 ![The New A-Team](/uploads/2007/ateam.jpg) Das wär doch mal was: Bruce Willis als John "Hannibal" Smith, Jim Carrey als Murdock, Brad Pitt als Faceman und Lawrence Fishburne als B.A. Baracus. Jetzt wo ich mich ums Casting gekümmert habe, steht einem A-Team Kinofilm ja eigentlich nichts mehr im Weg...

@@ -16,7 +16,7 @@ tags:
   - the-pirate-bay
   - urheberrecht
 meta:
-  - yourls_shorturl: "http://eay.li/20g"
+  - yourls_shorturl: "https://eay.li/20g"
   - linked_list_url: "http://torrentfreak.com/police-raid-9-year-old-pirate-bay-girl-confiscate-winnie-the-pooh-laptop-121122/"
 ---
 

@@ -19,7 +19,7 @@ tags:
   - output
   - podcast
 meta:
-  - yourls_shorturl: "http://eay.li/9h"
+  - yourls_shorturl: "https://eay.li/9h"
 ---
 
 Jahrelang ([wirklich!](http://eay.cc/blog/2005/10/trailer_zum_eay.shtml)) habe ich am Konzept des eayz-Podcasts gewerkelt und kein Format schien gut genug zu sein, um den hohen Erwartungen meiner Leser standhalten zu können. Bis heute. Nachdem wir uns physisch, psychisch und vor allem linguistisch wochenlang auf die Aufnahme vorbereitet haben, Radio-, Podcast- und Hauswirtschaftslehrgänge besucht haben und die renommiertesten Witzeschreiber an Bord holen konnten, präsentieren [Limpi](http://spaetz.eayz.net/) und ich (unter unseren total verrückten Real-Life-Pseudonymen Kira und Stefan) die erste Ausgabe des abendfüllenden eayz-Podcasts. Viel Spaß!

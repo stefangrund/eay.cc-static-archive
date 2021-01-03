@@ -18,7 +18,7 @@ tags:
   - science-fiction
   - trailer
 meta:
-  - yourls_shorturl: "http://eay.li/2ky"
+  - yourls_shorturl: "https://eay.li/2ky"
 ---
 
 Wegen meiner [projektbedingten Pause](//eay.cc/2014/whatsapp-fuehrt-ende-zu-ende-verschluesselung-ein/#footnote_0_29259) bin ich nicht nur noch nicht dazu gekommen mich zu »The Force Awakens« zu äußern, nein, ich habe auch versäumt, mir den Trailer zu [Neill Blomkamps](//eay.cc/tag/neill-blomkamp/) dritten Feature Film »Chappie« ins Blog zu kleben. Als großer Blomkamp-Fanboy, der ich nach »[District 9](//eay.cc/2009/district-9-review/)« und nach »Elysium« nicht mehr so ganz war, darf der aber natürlich nicht fehlen.

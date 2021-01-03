@@ -17,7 +17,7 @@ tags:
   - star-wars
   - werbung
 meta:
-  - yourls_shorturl: "http://eay.li/za"
+  - yourls_shorturl: "https://eay.li/za"
 ---
 
 Ich bin ja _leider_ im Besitz eines integrierten Navigationsgerätes und greife ansonsten auf ein Navigon-Gerät zurück - falls das aber mal das Zeitliche segnet, werde ich mir mit Sicherheit so ein TomTomTeil zulegen, weil man sich damit von Meister Yoda persönlich ans gewünschte Ziel leiten lassen kann.

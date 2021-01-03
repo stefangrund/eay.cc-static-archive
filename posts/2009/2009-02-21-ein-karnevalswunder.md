@@ -14,7 +14,7 @@ tags:
   - karneval
   - sport
 meta:
-  - yourls_shorturl: "http://eay.li/w7"
+  - yourls_shorturl: "https://eay.li/w7"
 ---
 
 ![](/uploads/2009/karnevalswunder.gif)

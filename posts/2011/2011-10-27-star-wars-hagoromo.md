@@ -18,7 +18,7 @@ tags:
   - star-wars
   - werbung
 meta:
-  - yourls_shorturl: "http://eay.li/1c5"
+  - yourls_shorturl: "https://eay.li/1c5"
 ---
 
 \[youtube id="2Q02weIJD3I"\]

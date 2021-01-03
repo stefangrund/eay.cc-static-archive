@@ -18,7 +18,7 @@ tags:
   - himym
   - wallpaper
 meta:
-  - yourls_shorturl: "http://eay.li/h5"
+  - yourls_shorturl: "https://eay.li/h5"
 ---
 
 ![](/uploads/2008/barney.jpg)Mittlerweile habe ich endlich alle drei Staffeln von [How I met your mother](//eay.cc/2008/how-i-met-my-favorite-tv-series/) gesehen, alle [Catch phrases](http://en.wikiquote.org/wiki/How_I_Met_Your_Mother#Catchphrases) von Barney auswendig gelernt und in meinem Sprachgebrauch überführt und mehr Leute mit dem HIMYM-Virus infiziert, die es mir wiederum gleich getan haben und ihrerseits von der frohen Botschaft des Barney Stinson berichteten. Und während wir alle sehnsüchtigst auf den Start der vierten Staffel am 22.9. warten und nur noch [I'm Gonna Be (500 Miles)](//eay.cc/2008/arrivederci-fiero/) hören, stellt sich die Frage, was tun in der Zwischenzeit?

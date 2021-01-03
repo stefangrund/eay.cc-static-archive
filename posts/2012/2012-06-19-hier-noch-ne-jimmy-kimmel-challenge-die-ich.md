@@ -14,7 +14,7 @@ tags:
   - jimmy-kimmel
   - sport
 meta:
-  - yourls_shorturl: "http://eay.li/1wy"
+  - yourls_shorturl: "https://eay.li/1wy"
   - linked_list_url: "http://www.youtube.com/watch?v=KMmqqKV49cg"
 ---
 

@@ -17,7 +17,7 @@ tags:
   - kinolog
   - remake
 meta:
-  - yourls_shorturl: "http://eay.li/32i"
+  - yourls_shorturl: "https://eay.li/32i"
   - content_copy: "https://twitter.com/eay/status/935771705720692739"
 ---
 

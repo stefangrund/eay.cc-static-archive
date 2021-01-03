@@ -11,7 +11,7 @@ tags:
   - fernsehen
   - it-crowd
 meta:
-  - yourls_shorturl: "http://eay.li/6m"
+  - yourls_shorturl: "https://eay.li/6m"
 ---
 
 fragt Graham Linehan, der Erfinder und Regisseur der [IT Crowd](//eay.cc/2007/have-you-tried-turning-it-off-and-on-again/), in einem [Blogeintrag](http://whythatsdelightful.wordpress.com/2007/12/28/german-it-crowd/) bezüglich der deutschen Kopie [iTeam](//eay.cc/2007/it-crowd-vs-iteam/). Per [Kommentar](http://whythatsdelightful.wordpress.com/2007/12/28/comment-comment-comment-comment-comment-chameleon/#comment-4436) ergänzt er zudem:

@@ -17,7 +17,7 @@ tags:
   - netzkultur
   - technologie
 meta:
-  - yourls_shorturl: "http://eay.li/2ta"
+  - yourls_shorturl: "https://eay.li/2ta"
 ---
 
 [![](https://eay.cc/uploads/2016/indiewebcamp-dus-2016.gif)](https://www.flickr.com/photos/tollwerk/26266222363/) Photo by [Julie Anne Noying](http://julieannenoying.com/) & [tollwerk](https://tollwerk.de/) under Creative Commons (by-nc-sa), [see flickr](https://www.flickr.com/photos/tollwerk/26266222363/).

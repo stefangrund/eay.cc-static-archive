@@ -14,7 +14,7 @@ tags:
   - kunst
   - star-wars
 meta:
-  - yourls_shorturl: "http://eay.li/re"
+  - yourls_shorturl: "https://eay.li/re"
 ---
 
 ![](https://eay.cc/uploads/2009/stitchwars.jpg) ... so der Name einer aktuell in Lauderhill, Florida stattfindenden Ausstellung, bei der ein paar Dutzend Künstler von Star Wars inspirierte Häkel- und Strickereien abgeliefert haben. Im [flickr-Stream der Galerie](http://www.flickr.com/photos/bearandbird/sets/72157621227964172/) könnt ihr euch das ganze genauer ansehen und mehr Infos gibt's auf [deren Webseite](http://www.tatescomics.com/bearandbird/index.html). ([via](http://www.rebelart.net/diary/?p=1723))

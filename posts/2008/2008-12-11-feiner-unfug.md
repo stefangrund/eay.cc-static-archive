@@ -11,7 +11,7 @@ tags:
   - nonsens
   - stoeckchen
 meta:
-  - yourls_shorturl: "http://eay.li/7e"
+  - yourls_shorturl: "https://eay.li/7e"
 ---
 
 [Die Freundin](http://spaetz.eayz.net/) hat mich vor zwei Wochen mit [einem Stöckchen](http://spaetz.eayz.net/2008/11/all-small-things.html) beworfen. Nachdem die Wunden nun verheilt sind, fühle ich mich in der Lage, die mitgeworfene Aufgabenstellung zu erfüllen. Gefragt wird nach sechs unwichtigen Dingen, die mich glücklich machen. Also:

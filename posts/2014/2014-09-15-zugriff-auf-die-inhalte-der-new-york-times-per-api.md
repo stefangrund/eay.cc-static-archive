@@ -17,7 +17,7 @@ tags:
   - new-york-times
 meta:
   - linked_list_url: "http://developer.nytimes.com/docs"
-  - yourls_shorturl: "http://eay.li/2j1"
+  - yourls_shorturl: "https://eay.li/2j1"
 ---
 
 Ich predige das ja schon seit Jahren für deutsche Medien (z.B. [bei der ARD-ZDF-Onlinestudie](//eay.cc/2014/ard-zdf-onlinestudie-2014-veroeffentlicht/)), bei der New York Times macht man derweil ganz vorbildlich Nägel mit Köpfen und stellt eine eigene Programmierschnittstelle mit verschiedenen Zugriffspunkten bereit, über die man neben aktuellen Artikeln bspw. Bestseller-Listen, Immobilienanzeigen und Film-Reviews abrufen kann. Neben den offensichtlichen Nutzungseinschränkungen scheint die einzige Bedingung dabei eigentlich nur das Verlinken des Originalmaterials zu sein. (via [D64 Ticker](http://ticker.d-64.org/))

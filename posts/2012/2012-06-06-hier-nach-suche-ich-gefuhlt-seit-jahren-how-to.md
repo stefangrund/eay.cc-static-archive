@@ -13,7 +13,7 @@ tags:
   - how-to
   - mac
 meta:
-  - yourls_shorturl: "http://eay.li/1xn"
+  - yourls_shorturl: "https://eay.li/1xn"
   - linked_list_url: "http://shawnblanc.net/2012/05/quicklook-text-selection/"
 ---
 

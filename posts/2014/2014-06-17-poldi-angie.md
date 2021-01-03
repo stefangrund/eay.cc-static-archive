@@ -18,7 +18,7 @@ tags:
   - sport
   - wm-2014
 meta:
-  - yourls_shorturl: "http://eay.li/2h1"
+  - yourls_shorturl: "https://eay.li/2h1"
 ---
 
 Deutschland hat 4:0 gewonnen, drei Mal hat der Kerl, der [wie mein Erstgeborener heißt](http://twitter.com/eay/statuses/17237842699), getroffen, Angie hat die Jungs [in der Kabine besucht](http://mashable.com/2014/06/16/angela-merkel-world-cup/) und Poldi ein Selfie mit ihr gemacht.

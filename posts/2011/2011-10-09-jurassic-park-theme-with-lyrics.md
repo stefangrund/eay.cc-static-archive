@@ -18,7 +18,7 @@ tags:
   - musik
   - theme
 meta:
-  - yourls_shorturl: "http://eay.li/1bp"
+  - yourls_shorturl: "https://eay.li/1bp"
 ---
 
 \[youtube id="G6fdywQlmaY"\]

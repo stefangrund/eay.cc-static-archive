@@ -15,7 +15,7 @@ tags:
   - rob-zombie
   - trash
 meta:
-  - yourls_shorturl: "http://eay.li/l0"
+  - yourls_shorturl: "https://eay.li/l0"
 ---
 
 Zwischen all den Neuigkeiten zu [Werewolf Women of the SS](//eay.cc/2007/werewolf-women-of-the-ss/) und [Tyrannosaurus Rex](http://twitter.com/Eay/statuses/842514323) muss mir der neue Animationsfilm "The Haunted World of El Superbeasto" von Rob Zombie irgendwie entgangen sein. Es geht um El Superbeasto, einen mexikanischen Luchador, und seinen temperamentvollen, weiblichen Sidekick Suzi-X (nebenbei auch noch seine Schwester; wtf?), und deren Kampf gegen Dr. Satan. Ort des Geschehens ist, klar, Monsterland. Was sonst.

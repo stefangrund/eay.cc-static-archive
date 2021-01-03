@@ -17,7 +17,7 @@ tags:
   - ueberwachung
 meta:
   - linked_list_url: "http://www.br.de/nachrichten/vosshoff-datenschutz-bundesbeauftragte-100.html"
-  - yourls_shorturl: "http://eay.li/2ay"
+  - yourls_shorturl: "https://eay.li/2ay"
 ---
 
 [Andrea Voßhoff](https://de.wikipedia.org/wiki/Andrea_Vo%C3%9Fhoff) wurde heute zur neuen Bundesbeauftragten für Datenschutz und Informationsfreiheit gewählt. Die Mini-Opposition bezeichnet Voßhoff zu Recht als Fehlbesetzung, was vor allem in Hinblick auf ihre bisherige netzpolitische Vita deutlich wird:

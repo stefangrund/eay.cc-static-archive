@@ -15,7 +15,7 @@ tags:
   - simpsons
   - toys
 meta:
-  - yourls_shorturl: "http://eay.li/uo"
+  - yourls_shorturl: "https://eay.li/uo"
 ---
 
 [![](/uploads/2008/wayland.jpg)](http://www.flickr.com/photos/eay/3046199296/) ... und Malibu Stacy hängen vor meinen DVDs ab.

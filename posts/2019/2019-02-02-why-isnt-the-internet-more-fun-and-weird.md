@@ -15,7 +15,7 @@ tags:
   - web-entwicklung
 meta:
   - linked_list_url: "https://jarredsumner.com/codeblog/"
-  - yourls_shorturl: "http://eay.li/38x"
+  - yourls_shorturl: "https://eay.li/38x"
   - content_copy: "https://eay.social/@eay/101524956989781371"
 ---
 

@@ -16,7 +16,7 @@ tags:
   - your-favorite-tumblr-for-the-next-5-minutes
   - zukunft
 meta:
-  - yourls_shorturl: "http://eay.li/27g"
+  - yourls_shorturl: "https://eay.li/27g"
 ---
 
 ![](https://eay.cc/uploads/2013/70sscifiart.jpg) Das heutige Tumblelog widmet sich mal keinem Meme, sondern Bildern davon, wie man sich in den 70er Jahren die Zukunft vorgestellt hat. Dazu werden in [70s Sci-Fi Art](http://70sscifiart.tumblr.com/) hunderte sehenswerte Illustrationen, Comiccover und Filmplakate versammelt, die zeigen, wie sich die damaligen Künstler, sicherlich beflügelt durch die Mondlandung, die verrücktesten Zukunftsszenarien ausgedacht. (via [@reeft](https://twitter.com/reeft/status/380601938825330688))

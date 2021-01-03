@@ -17,7 +17,7 @@ tags:
   - sony
   - xbox
 meta:
-  - yourls_shorturl: "http://eay.li/h7"
+  - yourls_shorturl: "https://eay.li/h7"
 ---
 
 Was denken sich die Herren von Microsoft und Sony eigentlich, würde mich mal interessieren. Gestern habe ich einen kleinen Mini-Schock bekommen als meine frische Xbox 360 abstürzte und den berühmt berüchtigten [Red Ring of Death](http://www.splitreason.com/productdetail.php?id=468) anzeigte. Nach nem Neustart war zwar wieder alles okay und ich konnte heute weiterhin ausgiebig spielen, aber den Garantiefall vermute ich dennoch in absehbarer Zeit.

@@ -15,7 +15,7 @@ tags:
   - retro
   - schluempfe
 meta:
-  - yourls_shorturl: "http://eay.li/mj"
+  - yourls_shorturl: "https://eay.li/mj"
 ---
 
 ![](/uploads/2008/schlumpftag.jpg) Das [kleine blaue Imperium](http://de.wikipedia.org/wiki/Die_Schl%C3%BCmpfe) von Papa Schlumpf befindet sich heute seit genau 50 Jahren im Kampf gegen den fiesen Zauberer Gargamel und seine Schergen. Wir gratulieren, sind aber dennoch traurig, da wir offenbar nicht brav genug waren, um selbst mal einen Schlumpf zu sehen. Aber egal, bald gibt's die kleinen Viehcher ja schließlich [im Kino](http://movies.yahoo.com/movie/1808706887/info). (Bild: [PipersAngel](http://pipersangel.deviantart.com/art/Smurf-Squam-74691251))

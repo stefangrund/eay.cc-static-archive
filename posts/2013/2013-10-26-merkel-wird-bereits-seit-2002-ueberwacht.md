@@ -18,7 +18,7 @@ tags:
   - usa
 meta:
   - linked_list_url: "http://www.spiegel.de/politik/deutschland/nsa-ueberwachung-merkel-steht-seit-2002-auf-us-abhoerliste-a-930193.html"
-  - yourls_shorturl: "http://eay.li/28w"
+  - yourls_shorturl: "https://eay.li/28w"
 ---
 
 Außerdem:

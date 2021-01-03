@@ -17,7 +17,7 @@ tags:
   - wirtschaft
 meta:
   - linked_list_url: "https://taz.de/Corona-Daemmerung-fuer-Neoliberalismus/!5669238/"
-  - yourls_shorturl: "http://eay.li/3d5"
+  - yourls_shorturl: "https://eay.li/3d5"
   - geo_latitude: "50.973905496744"
   - geo_longitude: "6.6829886116612"
   - geo_public: "1"

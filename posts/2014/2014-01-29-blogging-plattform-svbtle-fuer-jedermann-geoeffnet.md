@@ -14,7 +14,7 @@ tags:
   - publishing
 meta:
   - linked_list_url: "http://blog.svbtle.com/open-for-everyone"
-  - yourls_shorturl: "http://eay.li/2cj"
+  - yourls_shorturl: "https://eay.li/2cj"
 ---
 
 Dustin Curtis' schickes und bisher elitäres Blognetzwerk macht ziemlich genau ein Jahr [nach der ersten Finanzierungsrunde](//eay.cc/2013/svbtle-die-blogging-plattform-von-und-mit-dustin-curtis-erhalt-erste-finanzierungsrunde/) einen auf Medium und öffnet sich. Medium wiederum hat heute seine erste [Kapitalspritze von 25 Millionen Dollar](http://recode.net/2014/01/28/medium-evan-williams-post-twitter-media-startup-raises-25-million-round/) erhalten, nachdem Twitter-Gründer Ev Williams die Rechnungen bisher alleine bezahlt hat. Scheint ganz so, als sollte man dieser Tage ins Publishing-Plattform-Business einsteigen.

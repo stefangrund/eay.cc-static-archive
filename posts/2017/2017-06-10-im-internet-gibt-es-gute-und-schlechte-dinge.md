@@ -14,7 +14,7 @@ tags:
   - tante-gretchen
   - technologie
 meta:
-  - yourls_shorturl: "http://eay.li/2zo"
+  - yourls_shorturl: "https://eay.li/2zo"
 ---
 
 Meine mittlerweile 96 Jahre alte Urgroßtante [hat 2012 festgestellt](https://twitter.com/eay/statuses/164007043898949633), dass sich [das](https://eay.cc/2017/good-and-bad-news-about-computers/) auch auf's Internet übertragen lässt – ohne jemals im Internet gewesen zu sein: "Im Internet gibt es gute und schlechte Dinge." ☝🏻

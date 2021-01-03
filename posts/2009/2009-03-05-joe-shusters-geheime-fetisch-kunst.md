@@ -18,7 +18,7 @@ tags:
   - sex
   - superman
 meta:
-  - yourls_shorturl: "http://eay.li/2a"
+  - yourls_shorturl: "https://eay.li/2a"
 ---
 
 ![](/uploads/2009/secretidentity.jpg)

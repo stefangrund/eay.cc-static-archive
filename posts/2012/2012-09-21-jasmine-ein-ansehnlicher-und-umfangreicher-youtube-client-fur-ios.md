@@ -16,7 +16,7 @@ tags:
   - iphone
   - youtube
 meta:
-  - yourls_shorturl: "http://eay.li/1ys"
+  - yourls_shorturl: "https://eay.li/1ys"
   - linked_list_url: "https://itunes.apple.com/de/app/jasmine-youtube-client/id554937050?mt=8"
 ---
 

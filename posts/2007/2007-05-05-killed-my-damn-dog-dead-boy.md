@@ -15,7 +15,7 @@ tags:
   - usa
   - webservice
 meta:
-  - yourls_shorturl: "http://eay.li/j7"
+  - yourls_shorturl: "https://eay.li/j7"
 ---
 
 [![](/uploads/2007/joost.jpg)](http://www.joost.com/)Durch die Einladung von Fellowblogger [Mr. Ape](http://blog.ape-designs.de/) ist es mir seit gestern möglich [Joost](http://www.joost.com/), die herbeigeschriebene Revolution des Fernsehens, zu testen. Kar, momentan herrscht vor allem ein Lack an interessanten und hochwertigen Inhalten, aber die Idee und Umsetzung sind - bis auf ein paar Beta-Bugs - ganz gut gelungen. Obwohl _Content_ noch nicht _King_ ist, bin ich derweil mit dem Sender "Braindead" ganz gut gefahren. Jackass-Kopien und Autocrashs machen es möglich. Und da kann es auch schon Mal passieren, dass eine unschuldige Familie mitten in der Nacht von US-Polizisten für ne wilde Bankräubertruppe gehalten wird und dann muss halt deren Hund sterben, weil der Polizist Angst vorm Wauwau hat ... 

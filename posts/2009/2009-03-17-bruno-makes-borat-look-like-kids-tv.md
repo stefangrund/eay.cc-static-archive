@@ -13,7 +13,7 @@ tags:
   - sxsw
   - twitter
 meta:
-  - yourls_shorturl: "http://eay.li/oh"
+  - yourls_shorturl: "https://eay.li/oh"
 ---
 
 ![](/uploads/2009/bruno.jpg) Im Rahmen der [SXSW-Conference](http://sxsw.com/) wurden dieser Tage 22 Minuten aus Sasha Baron Cohnes [Borat](http://eay.cc/blog/2006/10/jagshemash_bora.shtml)\-Nachfolger Brüno gezeigt. Dass auch der homosexuelle österreichische Modejournalist unterhalten wird, haben wir uns ja schon gedacht - schließlich ist Borat die Mockumentary par excellence! -, aber wie sich [aus ihren Tweets](http://www.slashfilm.com/2009/03/16/early-twitter-buzz-sacha-baron-cohens-bruno-at-sxsw/) folgen lässt, sind die Sneak-Peak-Zuschauer sogar schlichtweg begeistert. Im Juni soll Brüno das US-Kinopublikum schockieren und alsbald hoffentlich auch uns - im O-Ton, hoffe ich.

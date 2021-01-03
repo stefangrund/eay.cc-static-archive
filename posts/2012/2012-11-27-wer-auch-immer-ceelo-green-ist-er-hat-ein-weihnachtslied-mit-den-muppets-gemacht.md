@@ -14,7 +14,7 @@ tags:
   - musik
   - weihnachten
 meta:
-  - yourls_shorturl: "http://eay.li/20k"
+  - yourls_shorturl: "https://eay.li/20k"
   - linked_list_url: "http://www.youtube.com/watch?v=U6ttXzJq42Y"
 ---
 

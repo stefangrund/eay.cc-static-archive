@@ -14,7 +14,7 @@ tags:
   - knut
   - tiere
 meta:
-  - yourls_shorturl: "http://eay.li/pg"
+  - yourls_shorturl: "https://eay.li/pg"
 ---
 
 ![](/uploads/2008/irrerknut.jpg "via Popmoderne.de") "Ist Knut irre?", fragt der Berliner Kurier. Und weiter: "So böse haben wir unser Bärchen noch nie gesehen. Was sagen Experten:" Aber Expertenmeinung ist hier gar nicht nötig, schließlich gibt's ja schlaue Menschen in Berlin, [die sich zu Wort melden](http://anonym.to/?http://www.berlinonline.de/berliner-kurier/print/berlin/209000.html) und mit allerlei rhetorischen Wassern gewaschen sind. So fragt und erklärt da einer:

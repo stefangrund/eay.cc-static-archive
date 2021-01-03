@@ -14,7 +14,7 @@ tags:
   - sport
   - video
 meta:
-  - yourls_shorturl: "http://eay.li/1jj"
+  - yourls_shorturl: "https://eay.li/1jj"
 ---
 
 Die Werbeagentur [Carmichael Lynch](http://carmichaellynch.com/), die uns bereits das [verpixelte Zensurhandtuch](http://www.carmichaelcollective.com/Censorship-Towel) und das ["Ziehen Sie eine Nummer"-Toilettenpapier](http://www.carmichaelcollective.com/Now-Serving-Toilet-Paper) brachte, erfindet hier möglicherweise die nächste Trendsportart (unter Filmstudenten):

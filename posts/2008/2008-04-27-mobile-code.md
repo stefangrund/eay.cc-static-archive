@@ -12,7 +12,7 @@ tags:
   - handy
   - qr-codes
 meta:
-  - yourls_shorturl: "http://eay.li/uc"
+  - yourls_shorturl: "https://eay.li/uc"
 ---
 
 ![](/uploads/2008/mobilecode.gif)

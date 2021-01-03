@@ -15,7 +15,7 @@ tags:
   - star-wars
 meta:
   - linked_list_url: "http://starwars.com/news/josh-trank-to-direct-stand-alone-star-wars-film.html"
-  - yourls_shorturl: "http://eay.li/2gq"
+  - yourls_shorturl: "https://eay.li/2gq"
 ---
 
 > In addition to the episodes of a new Star Wars trilogy, Lucasfilm and Disney continue development of multiple stand-alone movies that will offer new stories beyond the core Saga. The newest director to come on board is Josh Trank.

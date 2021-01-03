@@ -18,7 +18,7 @@ tags:
   - nsfw
   - sex
 meta:
-  - yourls_shorturl: "http://eay.li/hz"
+  - yourls_shorturl: "https://eay.li/hz"
 ---
 
 Wie könnte man das neue Jahrzehnt (btw: Happy New Year!) in diesem Blog besser beginnen als mit einem absolut abgedrehten [Musikvideo](//eay.cc/tag/musikvideo/)/[Kurzfilm](//eay.cc/tag/kurzfilm/), in dem ein Frauen fressender Kampf-Trucker einer Blondine nachjagt? Richtig: besser geht's nicht und vor allem nicht, wenn das auch noch in [8-bit](//eay.cc/tag/8bit/)\-Optik gehalten ist. (Achtung, nsfw!)

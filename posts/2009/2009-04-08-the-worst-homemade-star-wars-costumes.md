@@ -13,7 +13,7 @@ tags:
   - kostum
   - star-wars
 meta:
-  - yourls_shorturl: "http://eay.li/9o"
+  - yourls_shorturl: "https://eay.li/9o"
 ---
 
 > Some people really love Star Wars. So, to show their love, they will go to great lengths to dress up as their favorite characters for nerd conventions, nerd parties and any other nerd-based gatherings. [Here are some of the worst](http://www.holytaco.com/worst-homemade-star-wars-costumes).

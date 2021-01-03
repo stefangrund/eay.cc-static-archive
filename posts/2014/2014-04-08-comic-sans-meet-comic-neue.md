@@ -15,7 +15,7 @@ tags:
   - typographie
 meta:
   - linked_list_url: "http://comicneue.com/"
-  - yourls_shorturl: "http://eay.li/2ef"
+  - yourls_shorturl: "https://eay.li/2ef"
 ---
 
 > Comic Sans wasn't designed to be the world's most ubiquitous casual typeface. Comic Neue aspires to be the casual script choice for everyone including the typographically savvy.

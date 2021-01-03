@@ -18,7 +18,7 @@ tags:
   - star-wars
   - trailer
 meta:
-  - yourls_shorturl: "http://eay.li/1as"
+  - yourls_shorturl: "https://eay.li/1as"
 ---
 
 Nach all den Jahren, Prequels und Sequels ist es für mich immer noch schwierig, zu verstehen, dass [George Lucas](//eay.cc/tag/george-lucas/), der Mann, der uns die originale [Star Wars](//eay.cc/tag/star-wars/)\-Trilogie, Indiana Jones und »THX 1138« geschenkt hat, tatsächlich derselbe ist, der auch für die Star Wars-Prequels, neue [Noooooos](http://www.crackajack.de/2011/08/31/my-united-states-of-star-wars-bluray-noooooofuckingway/) und das »[Königreich des Kristallschädels](//eay.cc/2008/shooting-guys-in-the-dick-is-not-cool/)« verantwortlich ist. [Mike Litzenberg und Bridge Stuart](http://www.slickgigolo.com/) scheint es da ähnlich zu gehen, haben sie in ihrem Fake-Trailer »George Lucas strikes back« doch die Ursache für dieses Kuriosum aufgedeckt: George Lucas wurde vor zwanzig Jahren entführt und eingesperrt. As seen in »[Oldboy](http://de.wikipedia.org/wiki/Oldboy)«. In der Zwischenzeit haben seine Peiniger sein Vermächtnis systematisch entweiht, doch nun ist Georgieboy zurück um blutige Rache zu nehmen. Und "how do you take down an empire like that?" "You shot first."

@@ -15,7 +15,7 @@ tags:
   - itunes
   - marvel
 meta:
-  - yourls_shorturl: "http://eay.li/1gg"
+  - yourls_shorturl: "https://eay.li/1gg"
 ---
 
 Vor zweieinhalb Jahren schrieb ich [an dieser Stelle](//eay.cc/2009/disney-heart-marvel/):

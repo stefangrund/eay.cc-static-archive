@@ -15,7 +15,7 @@ tags:
   - pixelart
   - webcomic
 meta:
-  - yourls_shorturl: "http://eay.li/2e"
+  - yourls_shorturl: "https://eay.li/2e"
 ---
 
 ![](/uploads/2008/dieselsweetiesjoker.gif "by rstevens") Wir bleiben bei Pixel-Kunst: Der Joker hat [heute einen Gastauftritt](http://www.dieselsweeties.com/archive/2129) bei den hervorragenden [Diesel Sweeties](http://www.dieselsweeties.com/). Und zwar gleich in dreifacher Ausführung.

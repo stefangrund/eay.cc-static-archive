@@ -19,7 +19,7 @@ tags:
   - superman
   - zack-snyder
 meta:
-  - yourls_shorturl: "http://eay.li/2j9"
+  - yourls_shorturl: "https://eay.li/2j9"
 ---
 
 \[youtube id="3C7lUfVIOa4"\]

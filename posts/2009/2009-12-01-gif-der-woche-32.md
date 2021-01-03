@@ -14,7 +14,7 @@ tags:
   - katzencontent
   - tiere
 meta:
-  - yourls_shorturl: "http://eay.li/ae"
+  - yourls_shorturl: "https://eay.li/ae"
 ---
 
 ![](https://eay.cc/uploads/2009/suprisedkitty.gif) Weil [Katzen-Content](//eay.cc/tag/katzencontent/) immer geht und [das Video](http://www.youtube.com/watch?v=0Bmhjf0rKe8) einfach zu schnuckelig ist.

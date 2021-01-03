@@ -16,7 +16,7 @@ tags:
   - konsum
   - tiere
 meta:
-  - yourls_shorturl: "http://eay.li/we"
+  - yourls_shorturl: "https://eay.li/we"
 ---
 
 ![](/uploads/2008/kittywigs.jpg "by/via kittywigs.com") Falls euch eure Katze[\*](#muschi) nicht haarig genug ist, dann gibt es mit den [Kitty Wigs](http://anonym.to/?http://kittywigs.com/) endlich die Möglichkeit das zu ändern und euer Kätzchen[\*](#muschi) mit ner waschechten Loveparade-Perücke auszustatten. Wird sie bestimmt mögen! Und die netten Tierschützer auch! ([via](http://twitter.com/svensonsan/statuses/930252096))

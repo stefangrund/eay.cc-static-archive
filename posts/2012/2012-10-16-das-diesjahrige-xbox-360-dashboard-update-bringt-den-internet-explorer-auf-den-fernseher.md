@@ -16,7 +16,7 @@ tags:
   - microsoft
   - xbox
 meta:
-  - yourls_shorturl: "http://eay.li/1zj"
+  - yourls_shorturl: "https://eay.li/1zj"
   - linked_list_url: "http://gizmodo.com/5952060/xbox-360-dashboard-update-oh-hey-internet-explorer-for-your-tv"
 ---
 

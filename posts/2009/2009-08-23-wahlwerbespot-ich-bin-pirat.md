@@ -14,7 +14,7 @@ tags:
   - politik
   - wahlwerbespot
 meta:
-  - yourls_shorturl: "http://eay.li/1j"
+  - yourls_shorturl: "https://eay.li/1j"
 ---
 
 Während Verräterpartei und schwarze Pest durch Schwachsinns- und Nicht-Wahlkampf auffallen bzw. eben nicht auffallen, werden die Spots der [Piratenpartei](http://www.piratenpartei.de/) (auf deren Wahl ich mich übrigens immer noch nicht festgelegt sehen möchte, sie aber wohl als Option ansehe) [mit jedem Mal](//eay.cc/2009/klarmachen-zum-andern/) besser. Seht selbst:

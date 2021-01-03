@@ -13,7 +13,7 @@ tags:
   - buecher
   - marshall-mcluhan
 meta:
-  - yourls_shorturl: "http://eay.li/1e5"
+  - yourls_shorturl: "https://eay.li/1e5"
 ---
 
 [Surat Lozowick](http://suratlozowick.com/blog/2011/12/marshall-mcluhan-reading-technique/) hat in Paddy Scannells [Media and Communication](http://books.google.de/books/about/Media_and_communication.html?id=mr77caW9YysC&redir_esc=y) ([S. 131](http://books.google.de/books?id=mr77caW9YysC&lpg=PP1&hl=de&pg=PA131#v=onepage&q&f=false)) folgende Beschreibung von Marshall McLuhans ungewöhnlicher Lesetechnik gefunden. War mir noch nicht bekannt, dass McLuhan so mehrere Bücher pro Tag überflog, unterstreicht aber einmal mehr, was für ein kauziger Kerl der Mann gewesen sein muss.

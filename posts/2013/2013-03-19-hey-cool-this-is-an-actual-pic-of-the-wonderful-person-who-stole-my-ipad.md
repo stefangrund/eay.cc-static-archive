@@ -16,7 +16,7 @@ tags:
   - kriminalitat
   - smart-phones-stupid-people
 meta:
-  - yourls_shorturl: "http://eay.li/22e"
+  - yourls_shorturl: "https://eay.li/22e"
   - linked_list_url: "http://laughingsquid.com/woman-grabs-lost-ipad-takes-silly-selfies-which-then-autoload-to-owners-iphone/"
 ---
 

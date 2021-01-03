@@ -14,7 +14,7 @@ tags:
   - fernsehen
   - simpsons
 meta:
-  - yourls_shorturl: "http://eay.li/2q4"
+  - yourls_shorturl: "https://eay.li/2q4"
 ---
 
 \[vimeo id="139911208"\]

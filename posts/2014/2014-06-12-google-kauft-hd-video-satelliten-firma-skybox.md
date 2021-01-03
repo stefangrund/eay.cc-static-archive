@@ -16,7 +16,7 @@ tags:
   - ueberwachung
 meta:
   - linked_list_url: "http://recode.net/2014/06/10/google-pays-500m-for-satellite-maker-skybox-for-photos-and-eventually-internet-access/"
-  - yourls_shorturl: "http://eay.li/2gx"
+  - yourls_shorturl: "https://eay.li/2gx"
 ---
 
 Und der Vollständigkeit halber darf diese Nachricht hier natürlich nicht fehlen: Google macht das, was wir alle schon immer prophezeit haben und kauft sich Echtzeitbilder für Google Maps ein.

@@ -14,7 +14,7 @@ tags:
   - videoblog
   - ze-frank
 meta:
-  - yourls_shorturl: "http://eay.li/1hn"
+  - yourls_shorturl: "https://eay.li/1hn"
 ---
 
 Das wird vermutlich in jedem Feed eures Feedreaders stehen, aber darauf hat das Internet schließlich fünf Jahre gewartet: [The Show with Ze Frank](http://www.zefrank.com/theshow/) ist zurück und heißt nun [A Show with Ze Frank](http://ashow.zefrank.com/). Großer Internetzelebrationstag! [Kickstarter](http://www.kickstarter.com/projects/zefrank/a-show-with-ze-frank) ftw!

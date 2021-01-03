@@ -18,7 +18,7 @@ tags:
   - usa
 meta:
   - linked_list_url: "http://gutjahr.biz/2013/07/dagger-complex/"
-  - yourls_shorturl: "http://eay.li/25c"
+  - yourls_shorturl: "https://eay.li/25c"
 ---
 
 Richard Gutjahr hat den Spaziergänger (im [Team Edward-Shirt](http://www.amazon.de/exec/obidos/ASIN/B00DMWJR70/eayznet-21)) daraufhin mal angerufen und sich den ganzen Vorfall schildern lassen. Unglaublich, was das mittlerweile alles für Auswüchse annimmt.

@@ -17,7 +17,7 @@ tags:
   - zukunft
 meta:
   - linked_list_url: "http://newsroom.fb.com/news/2014/03/facebook-to-acquire-oculus/"
-  - yourls_shorturl: "http://eay.li/2e4"
+  - yourls_shorturl: "https://eay.li/2e4"
 ---
 
 > "Mobile is the platform of today, and now we´re also getting ready for the platforms of tomorrow,â said Facebook founder and CEO, Mark Zuckerberg. âOculus has the chance to create the most social platform ever, and change the way we work, play and communicate."

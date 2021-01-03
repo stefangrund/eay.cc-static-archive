@@ -15,7 +15,7 @@ tags:
   - horspiel
   - konsum
 meta:
-  - yourls_shorturl: "http://eay.li/w9"
+  - yourls_shorturl: "https://eay.li/w9"
 ---
 
 Soeben habe ich erfahren, dass das "Masters of the Universe" Fan-Hörspiel [Das Grauen aus der Tiefe](//eay.cc/2007/gewinnspiel-of-the-universe/) quasi komplett ausverkauft ist. Schlechte Karten für alle, die He-Mans Abenteuer noch erstehen wollten. Glück aber, dass [unser Gewinnspiel](//eay.cc/2007/gewinnspiel-of-the-universe/) erst heute Abend endet und ihr euch hier vielleicht doch noch ein Exemplar sichern könnt. [Hier mitmachen!](//eay.cc/2007/gewinnspiel-of-the-universe/)

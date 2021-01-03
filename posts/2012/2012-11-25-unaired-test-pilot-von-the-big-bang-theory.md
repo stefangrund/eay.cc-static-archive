@@ -14,7 +14,7 @@ tags:
   - serien
   - the-big-bang-theory
 meta:
-  - yourls_shorturl: "http://eay.li/20h"
+  - yourls_shorturl: "https://eay.li/20h"
   - linked_list_url: "http://videosift.com/video/The-Big-Bang-Theory-00x00-Unaired-Test-Pilot"
 ---
 

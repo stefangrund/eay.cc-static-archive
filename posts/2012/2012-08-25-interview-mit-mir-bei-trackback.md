@@ -16,7 +16,7 @@ tags:
   - trackback
   - twitter
 meta:
-  - yourls_shorturl: "http://eay.li/1ll"
+  - yourls_shorturl: "https://eay.li/1ll"
 ---
 
 Freunde, ich melde mich gerade [aus dem Urlaub](http://instagr.am/p/OuMljZnSxT/), den ich gestern erfolgreich angetreten habe. Doch bevor es gestern losging, habe ich mit [Marcus Richter](http://www.monoxyd.de/) von [Trackback](http://trackback.fritz.de/) noch ein bisschen über die aktuellen, Besorgnis erregenden Entwicklungen bei Twitter und die neue, kostenpflichtige Twitter-Alternative App.net gesprochen. Das ganze könnt ihr euch heute Abend bei [Radio Fritz](http://www.fritz.de/) anhören, wo Trackback von 18 bis 20 Uhr läuft. Sobald der Podcast raus ist Sobald ich aus dem Urlaub bin, werde ich den natürlich auch noch hier anhängen.

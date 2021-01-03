@@ -17,7 +17,7 @@ tags:
   - sicherheit
 meta:
   - linked_list_url: "https://blog.agilebits.com/2017/05/18/introducing-travel-mode-protect-your-data-when-crossing-borders/"
-  - yourls_shorturl: "http://eay.li/2yw"
+  - yourls_shorturl: "https://eay.li/2yw"
 ---
 
 Gut, dass 1Password-Nutzer nun etwas sicherer international reisen können, aber schlimm, dass es überhaupt soweit gekommen ist, dass man ein derartiges Feature braucht.

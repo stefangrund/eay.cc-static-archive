@@ -17,7 +17,7 @@ tags:
   - robert-downey-jr
   - tropic-thunder
 meta:
-  - yourls_shorturl: "http://eay.li/kh"
+  - yourls_shorturl: "https://eay.li/kh"
 ---
 
 ![](/uploads/2008/tropicthunder.jpg)Selbstredend bin ich ein großer Fan von Ben Stiller, Jack Black und, klar, Robert Downey Jr.. Ich habe [Zoolander](http://www.amazon.de/exec/obidos/ASIN/B000067UCB/eayznet-21) geliebt, verehre [Tenacious D](http://eay.cc/blog/2007/02/the_greatest_mo.shtml) und denke, dass Downey Jr. die coolste Sau auf dem Planeten ist. Dementsprechend erfreut war ich, als ich hörte, dass die drei im Rahmen einer Komödie unter Stillers Regie zusammengefunden haben. Und daher wiederum trugen mich meine Füße am Release-Donnerstag ins hiesige Lichtspielhaus, um mit einer nicht zu knappen Erwartungshaltung [Tropic Thunder](http://www.imdb.com/title/tt0942385/) zu begutachten...

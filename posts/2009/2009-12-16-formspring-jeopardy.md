@@ -15,7 +15,7 @@ tags:
   - netzkultur
   - output
 meta:
-  - yourls_shorturl: "http://eay.li/bh"
+  - yourls_shorturl: "https://eay.li/bh"
 ---
 
 Zur Zeit geht eine Seuche durch die Blogosphäre. Eine Seuche, die alle infiziert, die schon immer mal ein Interview geben wollten, bisher aber nie um eins gebeten wurden. Eine Seuche namens [formspring.me](http://www.formspring.me/)!

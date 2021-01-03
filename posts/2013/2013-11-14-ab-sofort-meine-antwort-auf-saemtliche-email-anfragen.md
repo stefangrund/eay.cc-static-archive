@@ -13,7 +13,7 @@ tags:
   - email
   - to-do
 meta:
-  - yourls_shorturl: "http://eay.li/29h"
+  - yourls_shorturl: "https://eay.li/29h"
 ---
 
 ![](https://eay.cc/uploads/2013/todolist.jpg)

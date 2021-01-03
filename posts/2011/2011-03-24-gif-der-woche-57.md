@@ -14,7 +14,7 @@ tags:
   - gif-der-woche
   - looney-tunes
 meta:
-  - yourls_shorturl: "http://eay.li/16k"
+  - yourls_shorturl: "https://eay.li/16k"
 ---
 
 ![](https://eay.cc/uploads/2011/duckseasonrabbitseason.gif) Frühlingsanfang! Wintereinbruch! Frühlingsanfang! Wintereinbruch!

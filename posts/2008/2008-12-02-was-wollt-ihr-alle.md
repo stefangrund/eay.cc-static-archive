@@ -12,7 +12,7 @@ tags:
   - konzerte
   - musik
 meta:
-  - yourls_shorturl: "http://eay.li/vl"
+  - yourls_shorturl: "https://eay.li/vl"
 ---
 
 [![](/uploads/2008/angelikaexpress_sw.jpg "Foto von Andi Müller")](http://www.flickr.com/photos/angelikaexpress/3070631451/) Den letzten Freitag habe ich - wie meine Twitter-Stalker natürlich tagesaktuell [erfahren haben](http://twitter.com/Eay/status/1028251828) - im Kölner [Stereo Wonderland](http://www.stereowonderland.com/) beim Konzert von Angelika Express verbracht begonnen, die vor Ort den Release ihrer aktuellen EP "Was wollt ihr alle?" zelebrierten. [Wie versprochen](http://angelika-express.de/2008/11/25/schutt-und-asche-im-indie-ballermann/) haben Robert, Bassmaedchen Dani und Schlagzeuger Caddy den Kölner Indie-Ballermann in Schutt und Asche zerlegt und mich in meiner Entscheidung das kommende Album zu [fördern](//eay.cc/2008/who-the-fuck-is-rick-rubin/) nochmals mehr als bestätigt (ich sag euch, hätte es vor der Ankündigung der [Angelika-Aktie](http://angelika-express.de/die-angelika-aktie/) ein paar Konzerte gegeben, die eh schon knappen 500 Förderanteile wären noch sehr viel schneller über die virtuelle Ladentheke gegangen). Sobald Tante Angelika also _irgendwann_ mal bei euch vor der Tür spielt, solltet ihr sowas von unbedingt hingehen!

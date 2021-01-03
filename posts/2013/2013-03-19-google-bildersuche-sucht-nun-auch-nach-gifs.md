@@ -12,7 +12,7 @@ categories:
 tags:
   - google
 meta:
-  - yourls_shorturl: "http://eay.li/22f"
+  - yourls_shorturl: "https://eay.li/22f"
   - linked_list_url: "https://plus.google.com/app/basic/stream/z13wv3lywtmtj3s2n22hcvzimtebslkul"
 ---
 

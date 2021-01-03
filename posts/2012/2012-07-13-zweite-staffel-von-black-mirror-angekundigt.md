@@ -14,7 +14,7 @@ tags:
   - fernsehen
   - serien
 meta:
-  - yourls_shorturl: "http://eay.li/1kf"
+  - yourls_shorturl: "https://eay.li/1kf"
 ---
 
 Sehr fein: [Channel 4](http://www.chortle.co.uk/news/2012/07/12/15757/another_look_in_the_black_mirror) hat eine zweite Staffel von »Black Mirror«, der dystopischen SciFi-Miniserie von Charlie Brooker, die ich euch [hier bereits wärmstens empfohlen habe](//eay.cc/2012/black-mirror/), angekündigt. Brooker selbst dazu:

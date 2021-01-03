@@ -15,7 +15,7 @@ tags:
   - medienkompetenz
   - netzkultur
 meta:
-  - yourls_shorturl: "http://eay.li/1yn"
+  - yourls_shorturl: "https://eay.li/1yn"
   - linked_list_url: "http://dasnuf.de/kinder-kinder/fragmentarische-gedanken-zum-thema-medienkompetenz/"
 ---
 

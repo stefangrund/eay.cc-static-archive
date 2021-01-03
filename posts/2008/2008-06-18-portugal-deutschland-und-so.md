@@ -21,7 +21,7 @@ tags:
   - sport
   - videotext
 meta:
-  - yourls_shorturl: "http://eay.li/2p"
+  - yourls_shorturl: "https://eay.li/2p"
 ---
 
 Morgen Abend zeigt sich, ob unsere Elf vielleicht doch noch über sich wächst und Christiano Ronaldo & Freunde an die Wand spielt. Außerdem wird sich zeigen, ob das Schweizer Fernsehen die deutsche Nationalhymne diesmal richtig untertiteln kann. Im [Spiel gegen die Österreicher](//eay.cc/2008/osterreich-deutschland/) hat man unseren Singsang nämlich anstatt mit "Einigkeit und Recht und Freiheit" mit "Deutschland, Deutschland über alles" versehen. (Quelle: [Focus Online](http://www.focus.de/kultur/medien/lied-der-deutschen-die-schweiz-singt-strophe-eins_aid_311924.html), [via](http://blog.fanfaktor.de/geschichtskompetenz-beim-schweizer-fernsehen/2008/06/18/)).

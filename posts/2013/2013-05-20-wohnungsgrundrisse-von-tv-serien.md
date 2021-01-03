@@ -16,7 +16,7 @@ tags:
   - serien
   - wohnen
 meta:
-  - yourls_shorturl: "http://eay.li/1vx"
+  - yourls_shorturl: "https://eay.li/1vx"
 ---
 
 ![](https://eay.cc/uploads/2013/himymfloorplan.jpg)

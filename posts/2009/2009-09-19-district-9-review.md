@@ -15,7 +15,7 @@ tags:
   - neill-blomkamp
   - science-fiction
 meta:
-  - yourls_shorturl: "http://eay.li/1v"
+  - yourls_shorturl: "https://eay.li/1v"
 ---
 
 ![](/uploads/2009/district9.jpg)Einmal mehr besser spät als nie ((Ich bin es zwar leid, jedes Review mit einer Entschuldigung zu beginnen, aber was soll ich tun? Zur Zeit bin ich nun mal voll ausgelastet, da bleibt mir nur der Urlaub um was ordentliches zu schreiben. In diesem Sinne: erneut fettes Sorry, für die überaus späte Veröffentlichung dieses Reviews.)): Als ich irgendwann im August erfuhr, dass der hoch- und viel gelobte SciFi-Streifen [Moon](http://www.imdb.de/title/tt1182345/) im Rahmen des [Fantasy Filmfest](http://www.fantasyfilmfest.com/) gezeigt werden würde, war klar, dass ich dahin musste. Diese selbst auferlegte, aber gern erfüllte Pflicht verstärkte sich dann wenige Tage später immens, als klar wurde, dass nicht nur Duncan Jones' Debüt, sondern auch das von Neill Blomkamp, namentlich [District 9](http://www.imdb.com/title/tt1136608/), es ins Programm schaffte - und das nur knapp zwei Wochen nach US-Start. Respekt! Ehrensache, dass ich am ersten Verkaufstag die Kasse des Kölner Cinedoms stürmte, um auf Nummer Sicher zu gehen und Tickets für besagte Filme zu erstehen. Gesagt, getan, standen die Freundin und ich also am dritten Festivaltag vor dem größten Kinosaal des Cinedoms, in den District 9 eigens verlegt wurde und der dennoch ausverkauft war. ((Manch einer muste sogar mit einem Platz auf der Treppe vorliebnehmen...))

@@ -14,7 +14,7 @@ tags:
   - kurzfilm
   - shortfil-ms
 meta:
-  - yourls_shorturl: "http://eay.li/2lg"
+  - yourls_shorturl: "https://eay.li/2lg"
 ---
 
 [Vor einer Woche](//eay.cc/2014/shortfil-ms-meine-neue-kurzfilmplattform/) ist die neue Kurzfilm-Plattform [shortfil.ms](http://shortfil.ms), die ich mit meinen Partnern in Crime [Peer](https://twitter.com/The_McLee) und [Sebastian](https://twitter.com/MoD85) gegründet habe, gestartet. Es war eine großartige erste Woche, in der wir auch gleich ein paar Premieren feiern konnten: So erhielten wir am Montag mit »[Wanderers](http://shortfil.ms/film/wanderers-2014)« unsere erste [User Submission](http://shortfil.ms/about/submit) und konnten [am Samstag](https://twitter.com/shortfil/status/541186513317683200) die 24-Stunden-Marke bei der Gesamtlänge aller Kurzfilme knacken. Darüber hinaus durften wir uns bereits über zahlreiches positives Feedback, dutzende Tweets und auch den ein oder anderen wohlwollenden Artikel aus der deutschen und amerikanischen Blogosphäre freuen.

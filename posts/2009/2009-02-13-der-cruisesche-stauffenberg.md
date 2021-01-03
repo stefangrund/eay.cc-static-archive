@@ -16,7 +16,7 @@ tags:
   - scientology
   - tom-cruise
 meta:
-  - yourls_shorturl: "http://eay.li/8w"
+  - yourls_shorturl: "https://eay.li/8w"
 ---
 
 ![](/uploads/2009/operationwalkuere.jpg)[Operation Walküre](http://www.imdb.com/title/tt0985699/), der Film über das [Stauffenberg Attentat und den versuchten Staatsstreich vom 20. Juli 1944](http://de.wikipedia.org/wiki/20._Juli_1944) wurde hierzulande ja bereits von jedem, warum auch immer dazu befähigten und/oder berufenen Medienmenschen von allen erdenklichen Seiten beleuchtet und durchgekaut. Während der Dreharbeiten, längst bevor der Film die hiesigen Kinos erreichen sollte, [während der Premiere](//eay.cc/2009/von-anonymous-und-tom-cruise/) und danach. Alles nur, weil der (unter)durchschnittliche Hauptdarsteller ein _der_ Scientologe per se ist und so einer natürlich nicht das Gesicht des Deutschen Widerstands verkörpern sollte. Die ganze Diskussion ist vielleicht nicht gerechtfertigt, wahrscheinlich ist sie es schon, aber auf jeden Fall ist sie ermüdend und im Endeffekt mehr als ertraglos. Euer schreibfauler Lieblingsrezensionist wird seine kostbaren Ressourcen daher also nicht für diesen Diskurs aufbringen, sondern direkt im eigentlichen Film einsteigen.

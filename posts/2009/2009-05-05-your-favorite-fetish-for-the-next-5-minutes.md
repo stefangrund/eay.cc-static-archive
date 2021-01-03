@@ -13,7 +13,7 @@ tags:
   - frauen
   - kundendienst
 meta:
-  - yourls_shorturl: "http://eay.li/50"
+  - yourls_shorturl: "https://eay.li/50"
 ---
 
 [Headset Hotties](http://www.headsethotties.com/). Ich glaub, ich werde demnächst ganz wibbelig wenn ich bei Telekom & Co. anrufe... ([via](http://www.mindsdelight.de/linktipp/ganz-tolle-blogs-mit-bildern-teil-2/))

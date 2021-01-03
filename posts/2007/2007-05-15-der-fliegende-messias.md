@@ -16,7 +16,7 @@ tags:
   - musik
   - musikvideo
 meta:
-  - yourls_shorturl: "http://eay.li/k6"
+  - yourls_shorturl: "https://eay.li/k6"
 ---
 
 ![](/uploads/2007/hasselhoff.jpg)Immer wenn ich denke "Hey, das wars! Das kann David Hasselhoff nicht mehr toppen!" macht der gute Mann was neues. Mal ist er der [König der Internets](http://eay.cc/blog/2006/07/david_hasselhof.shtml), dann besingt er, dass wir [in sein Auto springen](http://www.youtube.com/watch?v=pgX-hiQdfFw) sollen und transformiert sich in ein [Jetski](http://eay.cc/artikel/spongebob/) oder ist [voll wie bolle](http://www.youtube.com/watch?v=BPYDOam_qec), so dass das mit dem Burgern auch nicht mehr klappt. Und dann - es scheint wieder alles erreicht - findet jemand ein Musikvideo von The Hoff, das defintiv eines der besten (oder schlechtesten - but hey, we ? trash) Musikvideos aller Zeiten ist. _The Hassel, The Hoff_ fliegt, flirtet und frisst hier Fische, während der Song selbst vor allem durch phänomenale Lyrics wie "Ooga Chakka, Ooga Chakka" auffällt. Zwischen diesen wundervollen Textstellen singt The Hoff irgendetwas, was dem Stück im nachhinein wohl den Titel "Hooked on a feeling" beschert hat. Aber ganz ehrlich, bei diesen Bilder hört man weniger - vielmehr versucht man seinen Augen zu trauen, so super und/oder schlecht ist's. Ansehen könnt ihr's euch [bei YouTube](http://www.youtube.com/watch?v=x20v9F-sWHQ) oder direkt hier nach dem Klick. (thx, McLee) 

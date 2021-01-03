@@ -15,7 +15,7 @@ tags:
   - netzkultur
 meta:
   - linked_list_url: "https://blog.mozilla.org/opendesign/arrival/"
-  - yourls_shorturl: "http://eay.li/2wd"
+  - yourls_shorturl: "https://eay.li/2wd"
 ---
 
 Schade um [Shepard Faireys Dinosaurier](https://en.wikipedia.org/wiki/Mozilla#/media/File:Mozilla_dinosaur_head_logo.png), aber großartiges neues Logo:

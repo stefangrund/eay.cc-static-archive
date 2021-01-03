@@ -15,7 +15,7 @@ tags:
   - tshirt
 meta:
   - content_copy: "https://www.instagram.com/p/BL4pQJzgsSV/"
-  - yourls_shorturl: "http://eay.li/2yn"
+  - yourls_shorturl: "https://eay.li/2yn"
 ---
 
 ![](https://eay.cc/uploads/2016/shortfilms-shirt.jpg)

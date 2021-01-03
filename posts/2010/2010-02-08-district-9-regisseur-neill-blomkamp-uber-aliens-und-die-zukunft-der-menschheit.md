@@ -17,7 +17,7 @@ tags:
   - ted
   - wissenschaft
 meta:
-  - yourls_shorturl: "http://eay.li/e3"
+  - yourls_shorturl: "https://eay.li/e3"
 ---
 
 \[youtube id="tripD00-9zU"\]

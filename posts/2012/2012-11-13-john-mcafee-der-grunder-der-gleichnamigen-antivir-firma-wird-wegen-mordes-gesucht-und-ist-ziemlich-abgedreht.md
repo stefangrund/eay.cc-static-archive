@@ -16,7 +16,7 @@ tags:
   - news
   - wired
 meta:
-  - yourls_shorturl: "http://eay.li/208"
+  - yourls_shorturl: "https://eay.li/208"
   - linked_list_url: "http://www.wired.com/threatlevel/2012/11/threatlevel_1112_mcafee"
 ---
 

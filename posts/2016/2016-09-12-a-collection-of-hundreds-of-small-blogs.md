@@ -16,7 +16,7 @@ tags:
   - netzkultur
 meta:
   - linked_list_url: "http://kottke.org/16/09/kottkeorg-the-fall-2016-edition"
-  - yourls_shorturl: "http://eay.li/2uz"
+  - yourls_shorturl: "https://eay.li/2uz"
 ---
 
 Jason Kottke hat heute sein Weblog relauncht. Im Post dazu schreibt er:

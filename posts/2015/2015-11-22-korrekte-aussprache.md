@@ -18,7 +18,7 @@ meta:
   - linked_list_url: "https://www.youtube.com/playlist?list=PL45xb3ujEhqUexNt53jb9WT2mS-uUaUrn"
   - linked_list_url: "https://www.youtube.com/playlist?list=PL45xb3ujEhqUexNt53jb9WT2mS-uUaUrn"
   - linked_list_url: "https://www.youtube.com/playlist?list=PL45xb3ujEhqUexNt53jb9WT2mS-uUaUrn"
-  - yourls_shorturl: "http://eay.li/2qx"
+  - yourls_shorturl: "https://eay.li/2qx"
 ---
 
 Herrliche Parodie der unzähligen Pronounciation-Channels. (via [Mediasteak](http://mediasteak.com/korrekte-aussprache-die-lustigsten-videos-ueber-die-richtige-aussprache-von-woertern/))

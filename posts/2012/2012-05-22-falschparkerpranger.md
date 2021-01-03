@@ -16,7 +16,7 @@ tags:
   - russland
   - strasenverkehr
 meta:
-  - yourls_shorturl: "http://eay.li/1in"
+  - yourls_shorturl: "https://eay.li/1in"
 ---
 
 \[vimeo id="42188610"\]

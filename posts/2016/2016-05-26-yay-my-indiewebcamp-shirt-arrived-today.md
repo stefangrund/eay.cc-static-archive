@@ -15,7 +15,7 @@ tags:
   - tshirt
 meta:
   - content_copy: "https://www.instagram.com/p/BF2UKIFnS1E/"
-  - yourls_shorturl: "http://eay.li/2yj"
+  - yourls_shorturl: "https://eay.li/2yj"
 ---
 
 ![](https://eay.cc/uploads/2016/indiewebcamp-shirt.jpg)

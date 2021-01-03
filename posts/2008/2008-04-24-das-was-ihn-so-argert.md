@@ -13,7 +13,7 @@ tags:
   - interview
   - sport
 meta:
-  - yourls_shorturl: "http://eay.li/cw"
+  - yourls_shorturl: "https://eay.li/cw"
 ---
 
 [Thomas Doll](http://de.wikipedia.org/wiki/Thomas_Doll), Noch-Trainer bei Borussia Dortmund, haut in einem Interview auf den Putz, wettert gegen die Medien und sagt das, was ihn so ärgert. Inklusive: Kohle aus dem Feuer holen, geile Kiste, anderen Seiten, nochmal das, was ihn so ärgert und alles blablabla, alles blablabla. Großes Trainertennis, nach dem Klick.

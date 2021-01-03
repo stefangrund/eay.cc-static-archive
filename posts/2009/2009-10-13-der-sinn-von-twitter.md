@@ -11,7 +11,7 @@ tags:
   - twitter
   - wahnsinn
 meta:
-  - yourls_shorturl: "http://eay.li/e7"
+  - yourls_shorturl: "https://eay.li/e7"
 ---
 
 ![](https://eay.cc/uploads/2009/twittersinn.gif) Als @[Goldi1945](http://twitter.com/Goldi1945) und @[Eay](http://twitter.com/Eay) den Punk erfanden an einem überaus gewöhnlichen Dienstagnachmittag die Daseinsberechtigung von Twitter & Co. entdeckten.

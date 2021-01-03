@@ -14,7 +14,7 @@ tags:
   - output
   - zaehne
 meta:
-  - yourls_shorturl: "http://eay.li/se"
+  - yourls_shorturl: "https://eay.li/se"
 ---
 
 ![](/uploads/2007/elmex.jpg) Hilfe! Womit putzt man sich den dann Mittags die Zähne? Täglich wechseln ist zu komplex!

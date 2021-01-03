@@ -14,7 +14,7 @@ tags:
   - the-oatmeal
   - webcomic
 meta:
-  - yourls_shorturl: "http://eay.li/1x1"
+  - yourls_shorturl: "https://eay.li/1x1"
   - linked_list_url: "http://theoatmeal.com/comics/movie_theater_layout"
 ---
 

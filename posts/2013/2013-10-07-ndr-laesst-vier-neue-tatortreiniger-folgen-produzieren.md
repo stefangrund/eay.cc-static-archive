@@ -16,7 +16,7 @@ tags:
   - serien
 meta:
   - linked_list_url: "http://www.dwdl.de/nachrichten/42924/der_tatortreiniger_ndr_laesst_neue_folgen_drehen/"
-  - yourls_shorturl: "http://eay.li/281"
+  - yourls_shorturl: "https://eay.li/281"
 ---
 
 Drehbeginn ist Mitte November. Wann ([und zu welcher Uhrzeit](//eay.cc/2012/der-tatortreiniger/)) sie ausgestrahlt werden, steht noch nicht fest. Ist aber auch egal. Hauptsache eine dieser kleinen, feinen, seltenen deutschen Fernsehperlen wird fortgeführt.

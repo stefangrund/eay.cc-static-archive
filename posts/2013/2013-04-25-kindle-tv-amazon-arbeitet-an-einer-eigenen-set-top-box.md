@@ -14,7 +14,7 @@ tags:
   - fernsehen
   - kindle
 meta:
-  - yourls_shorturl: "http://eay.li/234"
+  - yourls_shorturl: "https://eay.li/234"
   - linked_list_url: "http://www.businessweek.com/articles/2013-04-24/here-comes-amazons-kindle-tv-set-top-box"
 ---
 

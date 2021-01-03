@@ -12,7 +12,7 @@ tags:
   - wikipedia
   - wochenrueckblick
 meta:
-  - yourls_shorturl: "http://eay.li/1d4"
+  - yourls_shorturl: "https://eay.li/1d4"
 ---
 
 Nach einer [Idee von Neven Mrgan](http://mrgan.tumblr.com/post/12405719332/my-week-seen-through-my-wikipedia-browsing-history) hier die Wikipedia-Einträge, die ich mir in der letzten Woche angesehen habe.

@@ -16,7 +16,7 @@ tags:
   - netzkultur
   - projekte
 meta:
-  - yourls_shorturl: "http://eay.li/2ig"
+  - yourls_shorturl: "https://eay.li/2ig"
 ---
 
 Here's a handy little bookmarklet I used while writing my bachelor thesis to save quoted web pages. It enables you to add a web page to the [Internet Archive](https://archive.org/)'s Wayback Machine without opening it's [frontpage](https://archive.org/web/), copying and pasting the URL. Just drag the following link to your browser's bookmark bar, hit it and it saves the current web page to Archive.org's index.

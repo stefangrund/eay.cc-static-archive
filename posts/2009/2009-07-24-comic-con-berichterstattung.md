@@ -17,7 +17,7 @@ tags:
   - usa
   - veranstaltung
 meta:
-  - yourls_shorturl: "http://eay.li/ha"
+  - yourls_shorturl: "https://eay.li/ha"
 ---
 
 ![](https://eay.cc/uploads/2009/comiccon.gif)Ich bin mir zwar sicher, dass ich es letztes Jahr auch schon so gehandhabt habe, aber ich kann nichts finden, daher nochmal von vorne: Dieser Tage findet in San Diego die berühmt-berüchtigte [Comic-Con](http://www.comic-con.org/), die in diesem Jahrtausend mehr mit Film & Fernsehen als Comics zu tun hat, statt und ich möchte euch hiermit (eventuell, I don't know...) erneut auf [mein Lieblings-Convention-Blog Xdest](http://xdest.com/) hinweisen, in dem Hendrik wieder vom aktuellen Geschehen berichtet.

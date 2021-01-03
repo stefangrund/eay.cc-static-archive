@@ -16,7 +16,7 @@ tags:
   - netzkultur
   - youtube
 meta:
-  - yourls_shorturl: "http://eay.li/su"
+  - yourls_shorturl: "https://eay.li/su"
 ---
 
 Wie [bereits erwähnt](//eay.cc/2007/qualitat-setzt-sich-durch/), hat mein kleiner Cartoon [Katze plus Butterbrot](http://de.youtube.com/watch?v=D_AGrgUB1UI) in den letzten zwei Wochen verspätet den Ruhm eingestrichen, der ihm - meiner bescheidenen Meinung nach - gebührt. Diverse Erwähnungen bei österreichischen (?) Lokal- und Boulevardzeitungen später, hat's der Film auch auf die deutsche Diskussionsplattform [Hans Wurst](http://www.hans-wurst.de/katze_plus_butterbrot_4689_media.html) geschafft.

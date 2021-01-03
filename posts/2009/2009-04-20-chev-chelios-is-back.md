@@ -14,7 +14,7 @@ tags:
   - kinolog
   - sequel
 meta:
-  - yourls_shorturl: "http://eay.li/va"
+  - yourls_shorturl: "https://eay.li/va"
 ---
 
 ![](https://eay.cc/uploads/2009/crank2.jpg)[Crank 2](http://www.imdb.com/title/tt1121931/), die unmittelbare Fortsetzung des Überraschungserfolgs von 2006, ist genau die Nonsens-Gewaltorgie, die wir uns alle [seit der Ankündigung des Sequels](//eay.cc/2007/crankes-maiherz/) erhofft haben. Eine Prise Gesellschaftskritik und eine gehörige Portion Trash runden das Geschmacksbild gekonnt ab. Natürlich wirkt das ganze nicht mehr ganz so originell wie noch vor drei Jahren, aber Fans & Freunde von Chev Chelios und [Kaiju](http://en.wikipedia.org/wiki/Kaiju) werden vollends auf ihre Kosten kommen. Guten Appetit!

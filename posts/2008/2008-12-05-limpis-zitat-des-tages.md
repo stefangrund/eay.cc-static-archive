@@ -12,7 +12,7 @@ tags:
   - worte
   - zitat
 meta:
-  - yourls_shorturl: "http://eay.li/mo"
+  - yourls_shorturl: "https://eay.li/mo"
 ---
 
 Ich habe übrigens [ein kleines, privates Projekt](http://limpiszitat.tumblr.com/) gestartet.

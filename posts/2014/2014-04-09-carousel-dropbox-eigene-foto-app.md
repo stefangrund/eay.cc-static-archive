@@ -18,7 +18,7 @@ tags:
   - social-media
 meta:
   - linked_list_url: "https://www.carousel.com/"
-  - yourls_shorturl: "http://eay.li/2eh"
+  - yourls_shorturl: "https://eay.li/2eh"
 ---
 
 Dropbox hat heute endlich eine eigene Foto-App veröffentlicht, mit der sich die in der Cloud gespeicherten Fotos (halbwegs) komfortabel durchsuchen lassen. Hier [der Blogeintrag dazu](https://blog.dropbox.com/2014/04/introducing-carousel/), hier [der Download-Link](https://itunes.apple.com/de/app/carousel-by-dropbox/id825931374?mt=8&uo=4&at=11lohW).

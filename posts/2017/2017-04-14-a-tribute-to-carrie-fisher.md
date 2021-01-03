@@ -14,7 +14,7 @@ tags:
   - filme
   - star-wars
 meta:
-  - yourls_shorturl: "http://eay.li/2xl"
+  - yourls_shorturl: "https://eay.li/2xl"
 ---
 
 \[youtube id="sE99le5FBrY"\]

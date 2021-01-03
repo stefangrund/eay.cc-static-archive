@@ -15,7 +15,7 @@ tags:
   - youtube
 meta:
   - linked_list_url: "https://www.gifyoutube.com/"
-  - yourls_shorturl: "http://eay.li/2i8"
+  - yourls_shorturl: "https://eay.li/2i8"
 ---
 
 Einfach `gif` vor eine `youtube.com`\-URL schreiben, um aus dem entsprechenden Video ein GIF zu machen. Genius. (via [Waxy](http://waxy.org/links/))

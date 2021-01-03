@@ -15,7 +15,7 @@ tags:
   - technologie
   - zukunft
 meta:
-  - yourls_shorturl: "http://eay.li/20l"
+  - yourls_shorturl: "https://eay.li/20l"
   - linked_list_url: "http://www.wired.com/design/2012/11/staples-goes-3-d/"
 ---
 

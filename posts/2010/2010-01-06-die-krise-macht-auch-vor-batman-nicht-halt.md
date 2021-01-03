@@ -19,7 +19,7 @@ tags:
   - retro
   - wirtschaft
 meta:
-  - yourls_shorturl: "http://eay.li/d0"
+  - yourls_shorturl: "https://eay.li/d0"
 ---
 
 ![](https://eay.cc/uploads/2010/batmanpleite.jpg) Aber mal ernsthaft: wie haben sie in dieser Story erklärt, dass der aberwitzig reiche Trilliardär Bruce Wayne knapp bei Kasse ist? (via [@plockhead](http://twitter.com/plockhead/status/7334234680))

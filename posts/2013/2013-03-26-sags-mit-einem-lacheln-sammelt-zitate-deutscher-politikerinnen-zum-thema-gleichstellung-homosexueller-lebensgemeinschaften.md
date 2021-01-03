@@ -15,7 +15,7 @@ tags:
   - homosexualitaet
   - politik
 meta:
-  - yourls_shorturl: "http://eay.li/22l"
+  - yourls_shorturl: "https://eay.li/22l"
   - linked_list_url: "http://einlaecheln.tumblr.com/"
 ---
 

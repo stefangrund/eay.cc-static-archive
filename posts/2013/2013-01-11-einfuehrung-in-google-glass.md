@@ -18,7 +18,7 @@ tags:
   - vortrag
   - wearables
 meta:
-  - yourls_shorturl: "http://eay.li/2j0"
+  - yourls_shorturl: "https://eay.li/2j0"
 ---
 
 Ich habe gestern an der Uni einen Vortrag über [Google Glass](//eay.cc/tag/project-glass/), Augmented-Reality-Brillen und Wearables gehalten. Da einige von euch bei App.net und Twitter Interesse [bekundeten](https://alpha.app.net/eay/post/2355145), hier die Slides:

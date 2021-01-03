@@ -16,7 +16,7 @@ tags:
   - horspiel
   - konsum
 meta:
-  - yourls_shorturl: "http://eay.li/fb"
+  - yourls_shorturl: "https://eay.li/fb"
 ---
 
 ![](/uploads/2007/motucd.jpg)Anfang des Monats ist das lang erwartete zweite "Masters of the Universe" Fan-Hörspiel von [Hearoic](http://www.hearoic.de/) erschienen. In dem neuesten Abenteuer der Masters bedrohen Skeletor und Mer-Man mit Hilfe eines grausamen Seeungeheuers die Küstenregion von Eternia. Klar, dass da nur noch He-Man helfen kann. (Mehr dazu im Trailer [bei YouTube](http://www.youtube.com/watch?v=Za_7hzdTXwE).)

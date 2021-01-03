@@ -15,7 +15,7 @@ tags:
   - musik
   - star-wars
 meta:
-  - yourls_shorturl: "http://eay.li/1ki"
+  - yourls_shorturl: "https://eay.li/1ki"
 ---
 
 Ein bisschen holprig, aber dennoch ganz groß: Carly Rae Jepsens "Call Me Maybe" aus Star Wars-Dialogfetzen zusammengeschustert. (Mal gucken, wer's zuerst geofickt oder löschen lässt: Lucasfilm, Fox, die GEMA oder Universal.)

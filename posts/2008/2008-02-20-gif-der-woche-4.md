@@ -12,7 +12,7 @@ categories:
 tags:
   - gif-der-woche
 meta:
-  - yourls_shorturl: "http://eay.li/ks"
+  - yourls_shorturl: "https://eay.li/ks"
 ---
 
 ![](/uploads/2008/babylife.gif "via b3ta") Fast vergessen, aber hier ist es nun, das vierte [.gif der Woche](//eay.cc/tag/gif-der-woche/) feat. Patrick Stewart und dem Kreislauf des Lebens (via [b3ta](http://b3ta.com/)). Frage: Verkommt eayz eigentlich langsam zum [Tumblelog](http://en.wikipedia.org/wiki/Tumblelog)?

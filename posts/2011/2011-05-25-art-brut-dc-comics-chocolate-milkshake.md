@@ -16,7 +16,7 @@ tags:
   - konzerte
   - musik
 meta:
-  - yourls_shorturl: "http://eay.li/189"
+  - yourls_shorturl: "https://eay.li/189"
 ---
 
 Zur Einstimmung auf [heute Abend](http://www.luxor-koeln.de/mi-25-05-2011-art-brut/)...

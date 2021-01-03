@@ -19,7 +19,7 @@ tags:
   - rock-am-ring
   - trailer
 meta:
-  - yourls_shorturl: "http://eay.li/ms"
+  - yourls_shorturl: "https://eay.li/ms"
 ---
 
 > Manche Menschen warten auf Weihnachten. Manche auf ihren Hochzeitstag auf Sylt. Es gibt auch welche, die warten nur auf ein Jubiläum...

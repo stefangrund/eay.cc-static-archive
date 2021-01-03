@@ -16,7 +16,7 @@ tags:
   - kostum
   - sesamstrasse
 meta:
-  - yourls_shorturl: "http://eay.li/1zf"
+  - yourls_shorturl: "https://eay.li/1zf"
   - linked_list_url: "http://laughingsquid.com/sexy-bert-and-ernie-halloween-costumes/"
 ---
 

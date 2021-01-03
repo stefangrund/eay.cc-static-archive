@@ -16,7 +16,7 @@ tags:
   - urheberrecht
 meta:
   - linked_list_url: "https://abmahnbeantworter.ccc.de/"
-  - yourls_shorturl: "http://eay.li/2uw"
+  - yourls_shorturl: "https://eay.li/2uw"
 ---
 
 > Sie haben eine Abmahnung für einen Urheberrechtsverstoß erhalten? Erzeugen Sie mit diesem Schriftsatz-Generator in fünf Schritten ein Antwortschreiben, das die abmahnende Kanzlei über die Unrechtmäßigkeit der Abmahnung in Kenntnis setzt.

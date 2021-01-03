@@ -16,7 +16,7 @@ tags:
   - lego
   - mashup
 meta:
-  - yourls_shorturl: "http://eay.li/26v"
+  - yourls_shorturl: "https://eay.li/26v"
 ---
 
 Das hier ist ziemlich mathematisch: Die Macher von »Adventure Time« haben [Screen Novelties](http://screen-novelties.com/), "a collective of creative weirdos who dabble in stop motion animation", angeheuert, um das Intro der Sendung in Lego umzusetzen. Toll!

@@ -18,7 +18,7 @@ tags:
   - trailer
   - virtual-reality
 meta:
-  - yourls_shorturl: "http://eay.li/32o"
+  - yourls_shorturl: "https://eay.li/32o"
 ---
 
 \[youtube id="cSp1dM2Vj48"\]

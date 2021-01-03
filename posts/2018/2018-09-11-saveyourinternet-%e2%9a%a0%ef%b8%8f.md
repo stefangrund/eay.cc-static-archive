@@ -20,7 +20,7 @@ meta:
   - linked_list_url: "https://de.saveyourinternet.eu/"
   - content_copy: "https://twitter.com/eay/status/1039397232779386880"
   - content_copy: "https://eay.social/@eay/100705671632276689"
-  - yourls_shorturl: "http://eay.li/36n"
+  - yourls_shorturl: "https://eay.li/36n"
 ---
 
 Wer's noch nicht getan hat, sollte heute unbedingt die letzte Gelegenheit nutzen und sich gegenüber unseren EU-Abgeordneten gegen die geplanten Upload-Filter aussprechen, auf das diese morgen gegen Etablierung einer Überwachungs- und Zensurmaschinerie stimmen. [Julia Reda erklärt dazu im Detail](https://juliareda.eu/2018/09/showdown-urheberrecht/), was es zu verhindern gilt.

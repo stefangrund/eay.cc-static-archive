@@ -13,7 +13,7 @@ tags:
   - musik
   - wissenschaft
 meta:
-  - yourls_shorturl: "http://eay.li/8l"
+  - yourls_shorturl: "https://eay.li/8l"
 ---
 
 Wir nehmen unseren Bildungsauftrag sehr ernst. Die tägliche eayz-Lektüre soll ja schließlich nicht Schuld darain sein, dass ihr Teil der "Generation Doof" seid. Deshalb beantworten wir, womit eigentlich [Knorkator](http://www.knorkator.de/), die meiste Band der Welt, und ihr Freund Pythagoras gemeint ist, heute die Frage: Wie weit ist es bis zum Horizont? Aber seht selbst:

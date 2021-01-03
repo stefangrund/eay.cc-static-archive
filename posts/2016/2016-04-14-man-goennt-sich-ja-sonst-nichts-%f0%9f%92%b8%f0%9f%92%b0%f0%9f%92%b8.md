@@ -14,7 +14,7 @@ tags:
   - fotos
   - ipad
 meta:
-  - yourls_shorturl: "http://eay.li/2su"
+  - yourls_shorturl: "https://eay.li/2su"
   - content_copy: "https://www.instagram.com/p/BEMTE4dnS5N/"
 ---
 

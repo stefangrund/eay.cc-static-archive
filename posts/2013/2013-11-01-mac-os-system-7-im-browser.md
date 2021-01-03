@@ -17,7 +17,7 @@ tags:
   - technologie
 meta:
   - linked_list_url: "http://jamesfriend.com.au/pce-js/"
-  - yourls_shorturl: "http://eay.li/293"
+  - yourls_shorturl: "https://eay.li/293"
 ---
 
 Und passend [hierzu](//eay.cc/2013/windows-1-01-im-browser/) hier noch ein im Browser emuliertes Mac OS. (via [Waxy](http://waxy.org/))

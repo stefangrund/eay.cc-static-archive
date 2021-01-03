@@ -14,7 +14,7 @@ tags:
   - social-media
   - webservice
 meta:
-  - yourls_shorturl: "http://eay.li/1wp"
+  - yourls_shorturl: "https://eay.li/1wp"
   - linked_list_url: "http://tosdr.org/"
 ---
 

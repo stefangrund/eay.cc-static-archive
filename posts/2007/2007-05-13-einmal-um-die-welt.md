@@ -13,7 +13,7 @@ tags:
   - europa
   - urlaub
 meta:
-  - yourls_shorturl: "http://eay.li/hb"
+  - yourls_shorturl: "https://eay.li/hb"
 ---
 
 ![](/uploads/2007/myworld.gif)Mit dem [Visited Countries](http://douweosinga.com/projects/visitedcountries)\-Projekt soeben festgestellt, dass ich bisher nur 4% aller Länder gesehen hab. Ernüchternd irgendwie, dass ich noch nicht wirklich außerhalb Europas war. Dafür kenne ich Deutschlands Ecken und Enden. Aber da geht noch was. Wieviel Welt habt ihr gesehen?

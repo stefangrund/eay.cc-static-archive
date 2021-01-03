@@ -17,7 +17,7 @@ tags:
   - stanley-kubrick
   - trailer
 meta:
-  - yourls_shorturl: "http://eay.li/ib"
+  - yourls_shorturl: "https://eay.li/ib"
 ---
 
 > A post-production house organized a competition where assistant editors âre-cut´ trailers for famous movies to try and make them seem like different movies.

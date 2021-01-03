@@ -16,7 +16,7 @@ tags:
   - propaganda
   - urheberrecht
 meta:
-  - yourls_shorturl: "http://eay.li/b7"
+  - yourls_shorturl: "https://eay.li/b7"
 ---
 
 Heute mal wieder ein wunderbares Beispiel für gut gemachte Lobbyarbeit:

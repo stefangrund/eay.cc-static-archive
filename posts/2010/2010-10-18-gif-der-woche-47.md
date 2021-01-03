@@ -16,7 +16,7 @@ tags:
   - schmerzen
   - tiere
 meta:
-  - yourls_shorturl: "http://eay.li/11r"
+  - yourls_shorturl: "https://eay.li/11r"
 ---
 
 ![](https://eay.cc/uploads/2010/reallifegarfield.gif) Introducing Real Life Jon and Garfield.

@@ -14,7 +14,7 @@ tags:
   - sicherheit
 meta:
   - linked_list_url: "https://securitycheckli.st/"
-  - yourls_shorturl: "http://eay.li/38s"
+  - yourls_shorturl: "https://eay.li/38s"
 ---
 
 > An open source checklist of resources designed to improve your online privacy and security.

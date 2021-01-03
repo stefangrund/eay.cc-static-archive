@@ -17,7 +17,7 @@ tags:
   - tablet
   - werbung
 meta:
-  - yourls_shorturl: "http://eay.li/b8"
+  - yourls_shorturl: "https://eay.li/b8"
 ---
 
 Soviel zum diesem unsäglichen Namen...

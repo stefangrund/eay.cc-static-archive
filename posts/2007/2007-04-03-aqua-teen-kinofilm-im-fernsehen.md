@@ -14,7 +14,7 @@ tags:
   - fernsehen
   - filme
 meta:
-  - yourls_shorturl: "http://eay.li/rw"
+  - yourls_shorturl: "https://eay.li/rw"
 ---
 
 ![](/uploads/2007/aquateens.jpg)Mein Gott, ich liebe die [Aqua Teen Hunger Force](/artikel/aquateens/). So wie ich eigentlich alles von _adult swim_ liebe. Und zum 1. April haben sich die Jungs was besonderes einfallen lassen: Seit Wochen kündigte man im Fernsehen an, dass der Kinofilm [Aqua Teen Hunger Force Colon Movie Film For Theaters](http://www.imdb.com/title/tt0455326/) bereits am 1. April im Fernsehen laufen würde bevor er ins Kino kommt. Warum? Laut eigenen Angaben, "because we´re fucking crazy!"

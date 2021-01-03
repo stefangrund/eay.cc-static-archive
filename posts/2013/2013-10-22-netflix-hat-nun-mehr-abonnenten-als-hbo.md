@@ -20,7 +20,7 @@ tags:
   - watchever
 meta:
   - linked_list_url: "http://daringfireball.net/linked/2013/10/21/netflix"
-  - yourls_shorturl: "http://eay.li/28q"
+  - yourls_shorturl: "https://eay.li/28q"
 ---
 
 Während [HBO](https://en.wikipedia.org/wiki/HBO) im September auf 28,7 Millionen kam, hat [Netflix](https://en.wikipedia.org/wiki/Netflix) mittlerweile 31 Millionen zahlende US-Kunden. Interessante Entwicklung, die den Trend zu Eigenproduktionen von Netflix (wie »House of Cards«, »Orange Is the New Black« und die neuen Folgen von »[Arrested Development](http://www.andisblog.de/2013/05/26/arrested-development/)«) noch weiter verstärken dürfte und den Streaming-Anbieter noch mehr mit dem klassischen (Bezahl-)Fernsehen konkurrieren lässt.

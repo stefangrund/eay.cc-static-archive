@@ -16,7 +16,7 @@ tags:
   - monster
   - wm-2010
 meta:
-  - yourls_shorturl: "http://eay.li/z6"
+  - yourls_shorturl: "https://eay.li/z6"
 ---
 
 ![](https://eay.cc/uploads/2010/gizmo.gif) Erinnert mich ja irgendwie an [den hier](http://yfrog.com/2gimage98144galleryv9fwdtj)...

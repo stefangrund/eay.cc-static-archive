@@ -16,7 +16,7 @@ tags:
   - social-web
 meta:
   - linked_list_url: "https://matthiasott.com/articles/into-the-personal-website-verse"
-  - yourls_shorturl: "http://eay.li/3ao"
+  - yourls_shorturl: "https://eay.li/3ao"
 ---
 
 > If we would make the conscious decision to find better ways to connect our personal sites and to enable more social interaction again, and if we would then persistently work on this idea, then we could, bit by bit, influence the development of Web technologies into this direction. What we would end up with is not only a bunch of personal websites but a whole interconnected personal-website-verse.

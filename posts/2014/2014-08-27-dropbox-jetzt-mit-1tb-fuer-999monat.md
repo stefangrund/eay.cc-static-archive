@@ -14,7 +14,7 @@ tags:
   - dropbox
 meta:
   - linked_list_url: "https://blog.dropbox.com/2014/08/introducing-more-powerful-dropbox-pro/"
-  - yourls_shorturl: "http://eay.li/2if"
+  - yourls_shorturl: "https://eay.li/2if"
 ---
 
 Wir haben gestern noch [bei nem Bier](https://twitter.com/eay/status/504449377222811649) darüber gefachsimpelt, dass Dropbox' Preise zu hoch sind und der Speicher zu niedrig, und als hätten sie uns gehört, dann heute das. Längst überfällig, aber gut!

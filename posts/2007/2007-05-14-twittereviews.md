@@ -16,7 +16,7 @@ tags:
   - twitter
   - twitter-review
 meta:
-  - yourls_shorturl: "http://eay.li/hk"
+  - yourls_shorturl: "https://eay.li/hk"
 ---
 
 Filmbesprechungen können auch schön kurz sein. Habe nämlich [Lucky Number Slevin](http://twitter.com/Eay/statuses/57738282) und - endlich! - [A Scanner Darkly](http://twitter.com/Eay/statuses/63062752) gesehen und twittern geht ja doch schneller als bloggen.

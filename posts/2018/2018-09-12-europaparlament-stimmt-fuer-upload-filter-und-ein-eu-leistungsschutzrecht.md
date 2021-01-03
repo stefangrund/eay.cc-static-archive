@@ -19,7 +19,7 @@ tags:
   - zensur
 meta:
   - linked_list_url: "http://www.spiegel.de/netzwelt/netzpolitik/urheberrechts-reform-eu-parlament-stimmt-fuer-umstrittene-upload-filter-a-1227752.html"
-  - yourls_shorturl: "http://eay.li/36p"
+  - yourls_shorturl: "https://eay.li/36p"
   - content_copy: "https://eay.social/@eay/100713097103173294"
   - content_copy: "https://twitter.com/eay/status/1039872460005564417"
 ---

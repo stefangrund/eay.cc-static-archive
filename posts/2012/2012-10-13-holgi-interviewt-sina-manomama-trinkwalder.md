@@ -16,7 +16,7 @@ tags:
   - podcast
   - soziale-verantwortung
 meta:
-  - yourls_shorturl: "http://eay.li/1zg"
+  - yourls_shorturl: "https://eay.li/1zg"
   - linked_list_url: "http://www.wrint.de/2012/10/12/wr115-holger-ruft-an-bei-sina-manomama-trinkwalder/"
 ---
 

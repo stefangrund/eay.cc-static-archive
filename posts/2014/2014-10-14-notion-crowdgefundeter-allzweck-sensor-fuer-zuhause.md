@@ -16,7 +16,7 @@ tags:
   - kickstarter
   - sensoren
 meta:
-  - yourls_shorturl: "http://eay.li/2jg"
+  - yourls_shorturl: "https://eay.li/2jg"
   - linked_list_url: "https://www.kickstarter.com/projects/1044009888/notion-be-home-even-when-youre-not"
 ---
 

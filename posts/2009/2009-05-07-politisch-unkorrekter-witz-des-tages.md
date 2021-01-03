@@ -15,7 +15,7 @@ tags:
   - prominent
   - twitter
 meta:
-  - yourls_shorturl: "http://eay.li/pw"
+  - yourls_shorturl: "https://eay.li/pw"
 ---
 
 für die anwesenden Twitter-Nutzer:

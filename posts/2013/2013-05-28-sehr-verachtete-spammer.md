@@ -14,7 +14,7 @@ tags:
   - spam
   - wordpress
 meta:
-  - yourls_shorturl: "http://eay.li/1w3"
+  - yourls_shorturl: "https://eay.li/1w3"
 ---
 
 würdet ihr, namentlich die 171.25.190.77 aus Lettland, 178.151.216.53 aus der Ukraine, 94.23.99.213 aus Frankreich, 188.143.233.30 aus Russland und allen voran der König der Nervensägen, die 146.0.79.23 aus Holland, es bitte unterlassen jeden Tag hunderte Login-Versuche in mein Wordpress-Dashboard zu unternehmen. Hat eh keinen Zweck, früher oder später werdet ihr blockiert. Und die Passwörter? Die kenn ich ja selbst nicht ein mal! Wie sollen eure Standardphrasen da funktionieren? Also lasst's doch bitte gleich sein.

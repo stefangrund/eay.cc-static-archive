@@ -14,7 +14,7 @@ tags:
   - forum-gedenk-interview
   - mclee
 meta:
-  - yourls_shorturl: "http://eay.li/1rz"
+  - yourls_shorturl: "https://eay.li/1rz"
 ---
 
 Vor ziemlich genau fünf Jahren wurde das eayz.net Forum geschlossen, das bis dahin einer kleinen, aber außerordentlich feinen Community ein digitales Dach über dem Kopf bot. [Im Gedenken ans Forum](//eay.cc/2013/remembering-das-forum/) habe ich mich gefragt, was die Leute, die hier damals zum Mobiliar gehörten, heute eigentlich so machen. Ein paar Emails später hatte ich dankenswerterweise einige interessante Antworten zusammen. [Unter anderem](//eay.cc/tag/forum-gedenk-interview/) von Peer a.k.a. McLee, Partner in Crime in Sachen [Sweded Star Wars](//eay.cc/2012/unsere-empire-uncut-szene/) und stets unterlegenen FIFA-Kontrahenten. SeÃ±or Lee hat die Fragen außerdem gleich zwei Mal beantwortet: Ein Mal aus seiner Sicht, ein Mal [aus Eugenes Sicht](//eay.cc/2013/forum-gedenk-interview-fake-eugene/).

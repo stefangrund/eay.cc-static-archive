@@ -16,7 +16,7 @@ tags:
   - offentlich-rechtliche
   - politik
 meta:
-  - yourls_shorturl: "http://eay.li/1zy"
+  - yourls_shorturl: "https://eay.li/1zy"
   - linked_list_url: "http://www.dwdl.de/nachrichten/38166/bundestagsstudie_depublizierungszwang_schadet/"
 ---
 

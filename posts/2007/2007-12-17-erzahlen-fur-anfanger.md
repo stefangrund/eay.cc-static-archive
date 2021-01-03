@@ -15,7 +15,7 @@ tags:
   - lehrbuch
   - schule
 meta:
-  - yourls_shorturl: "http://eay.li/si"
+  - yourls_shorturl: "https://eay.li/si"
 ---
 
 ![](/uploads/2007/erzaehlen.jpg) Da blättert man im Deutschbuch der kleinen Cousine und muss erstaunt feststellen, was Fünftklässler heute so lernen: Einfach spöttisch über lächerlich aussehende Menschen mit blöden Namen schreiben und du bist König Lustig. Spannung, Ladies and Gentlemen, gibt's obendrauf per Zauberwort. Sprache kann so einfach sein. Ja, hätte ich all das mal vorher gewusst, ich wäre heute der lustigste und spannendste Blogger Deutschlands. Mindestens.

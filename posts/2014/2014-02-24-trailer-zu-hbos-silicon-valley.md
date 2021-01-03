@@ -16,7 +16,7 @@ tags:
   - serien
   - social-media
 meta:
-  - yourls_shorturl: "http://eay.li/2d8"
+  - yourls_shorturl: "https://eay.li/2d8"
 ---
 
 \[youtube id="69V\_\_a49xtw"\]

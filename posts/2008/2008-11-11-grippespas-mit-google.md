@@ -17,7 +17,7 @@ tags:
   - suchmaschinen
   - webservice
 meta:
-  - yourls_shorturl: "http://eay.li/1g"
+  - yourls_shorturl: "https://eay.li/1g"
 ---
 
 Also ich setze [darauf](http://www.google.org/flutrends/), dass die Grippewelle demnächst nach Tennessee kommt. ([via](http://waxy.org/links/))

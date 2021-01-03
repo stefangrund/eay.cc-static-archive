@@ -13,7 +13,7 @@ tags:
   - gewalt
   - gif-der-woche
 meta:
-  - yourls_shorturl: "http://eay.li/17q"
+  - yourls_shorturl: "https://eay.li/17q"
 ---
 
 ![](https://eay.cc/uploads/2011/tortuegraph.gif) Die dunkle, fiese Torture-Porn-Seite der [Cinemagraphs von neulich](//eay.cc/2011/gif-der-woche-59/).

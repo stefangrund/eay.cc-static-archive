@@ -14,7 +14,7 @@ tags:
   - rar11
   - rock-am-ring
 meta:
-  - yourls_shorturl: "http://eay.li/16u"
+  - yourls_shorturl: "https://eay.li/16u"
 ---
 
 ![](https://eay.cc/uploads/2011/rockamring2011.jpg)

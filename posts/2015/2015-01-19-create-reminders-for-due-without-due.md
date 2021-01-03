@@ -19,7 +19,7 @@ tags:
   - web-development
   - zeit
 meta:
-  - yourls_shorturl: "http://eay.li/2mn"
+  - yourls_shorturl: "https://eay.li/2mn"
 ---
 
 One of the all-time favorites on my homescreen is [Due](http://www.dueapp.com/), a reminder app for iOS and Mac. In fact, I wrote a [review of it back in 2011](//eay.cc/2011/to-do-or-not-to-do-oder-ein-loblied-auf-due/) and recommended it to everyone who's looking for a simple, but efficient todo and reminder app. A few days ago Lin Junjie, the developer of Due, released the long-awaited 2.0 of my everyday companion with a new look and feel. I really like it and I'm pretty sure that I'll keep on using Due for the next couple of years. But there's one problem: **My wife doesn't use Due.**
@@ -34,4 +34,4 @@ The web interface is based on Due's UI and mimics it when creating reminders. Ev
 
 This was a fun little finger exercise for me, but my wife is actually using it. So, mission accomplished! If you're curious about the code, [check it out on CodePen](http://codepen.io/eay/pen/ByRjyv).
 
-And if your loved ones use Due and you do not, please reconsider your life choices and [get Due](http://eay.li/due). Or [give my little tool a try](http://stefangrund.de/projekte/due/). ;)
+And if your loved ones use Due and you do not, please reconsider your life choices and [get Due](https://eay.li/due). Or [give my little tool a try](http://stefangrund.de/projekte/due/). ;)
