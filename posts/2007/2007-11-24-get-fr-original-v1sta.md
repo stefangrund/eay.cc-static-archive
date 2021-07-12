@@ -1,5 +1,5 @@
 ---
-title: "Get fr|≡|≡ *Original* V1sta"
+title: "Get fr|&equiv;|&equiv; *Original* V1sta"
 date: "2007-11-24"
 datetime: "2007-11-24 01:15:46"
 id: "301"

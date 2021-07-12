@@ -1,5 +1,5 @@
 ---
-title: "SPD-Politiker Ulrich Kelber zum neuen Bundes­datenschutz­beauftragten gewählt"
+title: "SPD-Politiker Ulrich Kelber zum neuen Bundes&shy;datenschutz&shy;beauftragten gewählt"
 date: "2018-11-30"
 datetime: "2018-11-30 08:35:10"
 id: "35111"

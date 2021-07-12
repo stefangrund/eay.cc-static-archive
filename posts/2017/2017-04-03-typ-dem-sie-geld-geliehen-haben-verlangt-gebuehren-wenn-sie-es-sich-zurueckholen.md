@@ -13,6 +13,8 @@ tags:
   - finanzen
   - geld
   - konsum
+  - postillon
+  - satire
 meta:
   - linked_list_url: "http://www.der-postillon.com/2017/04/gebuehren-auf-geldabheben.html"
   - yourls_shorturl: "https://eay.li/2xf"

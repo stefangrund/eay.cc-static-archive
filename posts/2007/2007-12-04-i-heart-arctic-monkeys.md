@@ -1,5 +1,5 @@
 ---
-title: "I ♥ Arctic Monkeys"
+title: "I &hearts; Arctic Monkeys"
 date: "2007-12-04"
 datetime: "2007-12-04 18:46:54"
 id: "314"

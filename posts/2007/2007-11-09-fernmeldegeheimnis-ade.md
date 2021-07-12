@@ -1,5 +1,5 @@
 ---
-title: "Fernmeldegeheimnis"
+title: "<del>Fernmeldegeheimnis</del>"
 date: "2007-11-09"
 datetime: "2007-11-09 20:36:50"
 id: "287"

@@ -1,5 +1,5 @@
 ---
-title: "Katy Hudson → Katy Perry"
+title: "Katy Hudson &rarr; Katy Perry"
 date: "2008-10-09"
 datetime: "2008-10-09 14:39:47"
 id: "2523"

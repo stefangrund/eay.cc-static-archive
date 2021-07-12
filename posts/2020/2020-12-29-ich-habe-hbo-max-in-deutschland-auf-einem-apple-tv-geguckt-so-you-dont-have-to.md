@@ -1,5 +1,5 @@
 ---
-title: "Ich habe HBO Max in Deutschland auf einem Apple TV geguckt so you don't have to"
+title: "Ich habe HBO Max in Deutschland auf einem Apple TV geguckt <del>so you don't have to</del>"
 date: "2020-12-29"
 datetime: "2020-12-30 00:37:39"
 id: "36895"

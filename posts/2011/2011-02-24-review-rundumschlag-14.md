@@ -1,5 +1,5 @@
 ---
-title: "Review-Rundumschlag #14 ¼"
+title: "Review-Rundumschlag #14 &frac14;"
 date: "2011-02-24"
 datetime: "2011-02-24 01:07:14"
 id: "14068"

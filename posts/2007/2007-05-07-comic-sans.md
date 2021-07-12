@@ -1,5 +1,5 @@
 ---
-title: "I ♥︎ Comic Sans"
+title: "I <del>♥︎</del> Comic Sans"
 date: "2007-05-07"
 datetime: "2007-05-07 14:44:34"
 id: "87"

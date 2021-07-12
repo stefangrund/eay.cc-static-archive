@@ -1,5 +1,5 @@
 ---
-title: "Wohnung mit 8 Zimmern auf 32 m²"
+title: "Wohnung mit 8 Zimmern auf 32 m&sup2;"
 date: "2013-01-29"
 datetime: "2013-01-29 11:09:13"
 id: "22086"

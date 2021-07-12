@@ -1,5 +1,5 @@
 ---
-title: "Kino ruft FBI Homeland Security um Google-Glass-Nutzer wegen Piraterie zu verhaften"
+title: "Kino ruft <del>FBI</del> Homeland Security um Google-Glass-Nutzer wegen Piraterie zu verhaften"
 date: "2014-01-21"
 datetime: "2014-01-21 09:58:01"
 id: "26924"

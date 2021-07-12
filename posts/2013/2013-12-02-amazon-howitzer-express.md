@@ -12,6 +12,7 @@ categories:
 tags:
   - amazon
   - logistik
+  - postillon
   - satire
 meta:
   - linked_list_url: "http://www.der-postillon.com/2013/12/amazon-plant-pakete-mit-riesigen.html"

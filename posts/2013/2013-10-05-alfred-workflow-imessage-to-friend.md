@@ -22,7 +22,7 @@ meta:
   - yourls_shorturl: "https://eay.li/alfred2imessage"
 ---
 
-![](https://eay.cc/uploads/2013/alfred2_imessage_1.png)
+![](https://eay.cc/uploads/2021/imessage-to-friend-v1.3.png) 
 
 While working, everything can be a distraction: Twitter, email, your co-workers and texts from iMessage, of course. Answering your friends' texts will take you out of your workflow and after that, it takes minutes to get back into it.
 
@@ -30,14 +30,14 @@ That's why I created the [Alfred](http://www.alfredapp.com/) workflow "iMessage 
 
 ### Download
 
-[![](https://eay.cc/uploads/2013/alfred2_workflow_icon.png)iMessage to Friend.alfredworkflow](//eay.cc/uploads/software/iMessage%20to%20Friend.alfredworkflow)  
-Version 1.2, 05.10.2013
+[![](https://eay.cc/uploads/2013/alfred2_workflow_icon.png)**iMessage to Friend.alfredworkflow**](//eay.cc/uploads/software/iMessage%20to%20Friend.alfredworkflow)  
+Version 1.3, 08.05.2021
 
 If you are looking for the old extension for Alfred v1 [click here](//eay.cc/2012/alfred-extension-imessage-to-friend/).
 
 ### Changelog
 
-**1.2 (05.10.2013):** Compatibility with Alfred v2 and higher. **1.1 (05.01.2013):** Fixed bug in which the extension didn't work properly, if your iCloud account isn't the first account in iMessage's account list. (thanks to [@Cinematze](http://twitter.com/Cinematze) for reporting) **1.0 (05.12.2012):** First release of iMessage to Friend.
+**1.3 (08.05.2021):** Add compatibility with macOS 11.0 Big Sur. **1.2 (05.10.2013):** Add compatibility with Alfred v2 and higher. **1.1 (05.01.2013):** Fixed bug in which the extension didn't work properly, if your iCloud account isn't the first account in iMessage's account list. (thanks to [@Cinematze](http://twitter.com/Cinematze) for reporting) **1.0 (05.12.2012):** First release of iMessage to Friend.
 
 ### Known issues
 
@@ -71,6 +71,4 @@ This will send an iMessage with the text "Hello Kira, how are you?" to Kira's iM
 
 ### Feedback
 
-Feel free to leave a comment, if you have a question, discovered a bug or just want to say hi. You can also [contact me on Twitter](https://twitter.com/eay) or [App.net](https://alpha.app.net/eay).
-
-And if you really like this workflow, maybe you'll want to flattr it: [![](https://eay.cc/uploads/misc/flattr_button.png "Support eay via Flattr")](https://flattr.com/submit/auto?user_id=Eay&url=<?php echo urlencode( get_permalink() ); ?>&title=<?php echo urlencode( get_the_title() ); ?>)
+Feel free to leave a comment, if you have a question, discovered a bug or just want to say hi. You can also [contact me on Twitter](https://twitter.com/eay).

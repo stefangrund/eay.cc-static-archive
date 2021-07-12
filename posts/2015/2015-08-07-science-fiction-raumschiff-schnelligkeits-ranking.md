@@ -1,5 +1,5 @@
 ---
-title: "Science-Fiction-Raumschiff-Schnelligkeits-Ranking™"
+title: "Science-Fiction-Raumschiff-Schnelligkeits-Ranking&trade;"
 date: "2015-08-07"
 datetime: "2015-08-07 22:33:01"
 id: "30783"

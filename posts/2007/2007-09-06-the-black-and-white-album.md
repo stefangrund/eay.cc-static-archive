@@ -1,5 +1,5 @@
 ---
-title: "The Black and White Album"
+title: "The Black <em>and</em> White Album"
 date: "2007-09-06"
 datetime: "2007-09-06 11:46:17"
 id: "221"

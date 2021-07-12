@@ -1,5 +1,5 @@
 ---
-title: "Er wurde nur 1 ½ Jahre alt"
+title: "Er wurde nur 1 &frac12; Jahre alt"
 date: "2007-09-18"
 datetime: "2007-09-19 00:16:45"
 id: "234"

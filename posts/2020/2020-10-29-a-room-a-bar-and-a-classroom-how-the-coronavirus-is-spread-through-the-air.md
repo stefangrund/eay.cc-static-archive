@@ -11,6 +11,7 @@ categories:
   - 0815
 tags:
   - coronavirus
+  - datenjournalismus
   - gesundheit
   - visualisierung
   - wissenschaft

@@ -1,5 +1,5 @@
 ---
-title: "Home is where the Dom this church is."
+title: "Home is where <del>the Dom</del> this church is."
 date: "2019-08-19"
 datetime: "2019-08-19 13:12:39"
 id: "35928"

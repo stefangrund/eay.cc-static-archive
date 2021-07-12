@@ -1,5 +1,5 @@
 ---
-title: "Eine Frage der Ehre"
+title: "Eine Frage <del>der Ehre</del>"
 date: "2009-06-24"
 datetime: "2009-06-25 00:28:47"
 id: "7913"

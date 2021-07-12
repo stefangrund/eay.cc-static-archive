@@ -1,5 +1,5 @@
 ---
-title: "Microsofts Tablet Netbook DS Booklet"
+title: "Microsofts <del>Tablet</del> <del>Netbook</del> <del>DS</del> Booklet"
 date: "2009-09-23"
 datetime: "2009-09-23 12:30:24"
 id: "9532"

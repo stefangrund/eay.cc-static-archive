@@ -1,5 +1,5 @@
 ---
-title: "The Dark Knight Rises simpsonisiert™"
+title: "The Dark Knight Rises simpsonisiert&trade;"
 date: "2012-07-02"
 datetime: "2012-07-02 23:42:27"
 id: "20091"

@@ -1,5 +1,5 @@
 ---
-title: "Four Two Fantastic Four Funfacts"
+title: "<del>Four</del> Two Fantastic Four Funfacts"
 date: "2007-08-15"
 datetime: "2007-08-16 00:49:04"
 id: "194"

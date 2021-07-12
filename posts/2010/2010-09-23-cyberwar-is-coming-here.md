@@ -1,5 +1,5 @@
 ---
-title: "Cyberwar is coming here!"
+title: "Cyberwar is <del>coming</del> here!"
 date: "2010-09-23"
 datetime: "2010-09-23 19:02:45"
 id: "13175"

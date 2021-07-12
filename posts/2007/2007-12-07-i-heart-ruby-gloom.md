@@ -1,5 +1,5 @@
 ---
-title: "I ♥ Ruby Gloom"
+title: "I &hearts; Ruby Gloom"
 date: "2007-12-07"
 datetime: "2007-12-07 14:07:20"
 id: "317"

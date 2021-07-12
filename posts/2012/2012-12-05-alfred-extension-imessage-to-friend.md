@@ -31,7 +31,7 @@ That's why I created the [Alfred](http://www.alfredapp.com/) extension "iMessage
 
 **Old version!** This version of "iMessage to Friend" only works with Alfred v1. If you're looking for the [updated **workflow for Alfred v2** click here](http://eay.cc/projects/alfred-workflow-imessage-to-friend/).
 
-[![](https://eay.cc/uploads/2012/icon_alfredextension.gif)iMessage to Friend.alfredextension](//eay.cc/uploads/software/iMessage%20to%20Friend.alfredextension)  
+[![](https://eay.cc/uploads/2012/icon_alfredextension.gif)iMessage to Friend.alfredextension](//eay.cc/uploads/software/iMessage%20to%20Friend%201.1.alfredextension)  
 Version 1.1, 05.01.2013, **for Alfred v1**
 
 ### Changelog

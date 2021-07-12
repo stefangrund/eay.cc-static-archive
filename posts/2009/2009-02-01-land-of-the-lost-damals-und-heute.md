@@ -1,5 +1,5 @@
 ---
-title: "Land of the Lost, damals™ und heute"
+title: "Land of the Lost, damals&trade; und heute"
 date: "2009-02-01"
 datetime: "2009-02-01 11:00:28"
 id: "5393"
