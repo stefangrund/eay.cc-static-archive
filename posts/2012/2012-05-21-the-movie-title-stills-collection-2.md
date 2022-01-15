@@ -18,4 +18,4 @@ meta:
   - linked_list_url: "http://annyas.com/screenshots/"
 ---
 
-
+**Update, 10.12.2021:** Fun-fact: Ich habe beim Stöbern im Archiv gerade – 8½ Jahre nach Veröffentlichung dieses Posts – festgestellt, dass ich diese Seite [schon 3 Jahre zuvor verlinkt](https://eay.cc/2009/the-movie-title-stills-collection/) habe.

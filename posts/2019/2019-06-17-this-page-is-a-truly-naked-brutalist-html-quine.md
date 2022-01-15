@@ -11,7 +11,7 @@ categories:
   - 0815
 tags:
   - frontend
-  - netzkuktur
+  - netzkultur
   - web-entwicklung
 meta:
   - linked_list_url: "https://secretgeek.github.io/html_wysiwyg/html.html"

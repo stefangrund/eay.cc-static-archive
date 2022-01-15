@@ -11,9 +11,10 @@ categories:
   - 0815
 tags:
   - coronavirus
+  - mobilfunk
   - smart-phones-stupid-people
   - uk
-  - verschworung
+  - verschwoerungen
 meta:
   - linked_list_url: "https://www.theverge.com/2020/4/4/21207927/5g-towers-burning-uk-coronavirus-conspiracy-theory-link"
   - yourls_shorturl: "https://eay.li/3do"

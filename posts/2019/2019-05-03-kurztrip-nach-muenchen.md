@@ -12,6 +12,8 @@ categories:
 tags:
   - analogleben
   - fotos
+  - munchen
+  - urlaub
 meta:
   - content_copy: "https://www.instagram.com/p/BxA1RG9nHx3/"
   - yourls_shorturl: "https://eay.li/3a6"

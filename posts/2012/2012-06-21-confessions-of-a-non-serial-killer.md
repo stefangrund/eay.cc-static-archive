@@ -12,7 +12,7 @@ categories:
 tags:
   - kriminalitat
   - serienkiller
-  - verschworung
+  - verschwoerungen
   - zodiac
 meta:
   - yourls_shorturl: "https://eay.li/1jl"

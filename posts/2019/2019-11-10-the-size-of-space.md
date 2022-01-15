@@ -10,6 +10,7 @@ format: "link"
 categories:
   - 0815
 tags:
+  - neal-agarwal
   - visualisierung
   - weltall
 meta:

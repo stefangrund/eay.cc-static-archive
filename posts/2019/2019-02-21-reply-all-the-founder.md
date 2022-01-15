@@ -11,7 +11,7 @@ categories:
   - 0815
 tags:
   - kriminalitat
-  - netzkuktur
+  - netzkultur
   - podcast
 meta:
   - linked_list_url: "https://www.gimletmedia.com/reply-all/the-founder"

@@ -13,7 +13,7 @@ tags:
   - fanart
   - mp3
   - musik
-  - netzkuktur
+  - netzkultur
   - podcast
 meta:
   - linked_list_url: "https://skins.webamp.org/"

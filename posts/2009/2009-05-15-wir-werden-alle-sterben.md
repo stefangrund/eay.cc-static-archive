@@ -13,7 +13,7 @@ tags:
   - interview
   - krankheit
   - podcast
-  - verschworung
+  - verschwoerungen
 meta:
   - yourls_shorturl: "https://eay.li/9x"
 ---

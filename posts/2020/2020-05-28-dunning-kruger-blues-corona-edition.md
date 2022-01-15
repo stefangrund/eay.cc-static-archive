@@ -12,7 +12,7 @@ categories:
 tags:
   - coronavirus
   - dunning-kruger-effekt
-  - verschwoerungstheorien
+  - verschwoerungen
 meta:
   - yourls_shorturl: "https://eay.li/3ed"
   - geo_latitude: "50.973721873876"

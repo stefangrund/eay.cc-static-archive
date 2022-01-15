@@ -16,6 +16,9 @@ meta:
   - content_copy: "https://instagram.com/p/CPB0TxWHnTH/"
   - yourls_shorturl: "https://eay.li/2no"
   - content_copy: "https://twitter.com/eay/status/1394763803942952969"
+  - geo_latitude: "50.9735063779"
+  - geo_longitude: "6.68758551497"
+  - geo_public: "1"
 ---
 
 ![](https://eay.cc/uploads/2021/driesch.jpeg)

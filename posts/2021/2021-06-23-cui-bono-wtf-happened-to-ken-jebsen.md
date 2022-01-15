@@ -12,7 +12,7 @@ categories:
 tags:
   - netzkultur
   - podcast
-  - verschworung
+  - verschwoerungen
 meta:
   - linked_list_url: "https://www.ardaudiothek.de/cui-bono-wtf-happened-to-ken-jebsen/89991466"
   - yourls_shorturl: "https://eay.li/2p4"

@@ -10,6 +10,7 @@ format: "link"
 categories:
   - 0815
 tags:
+  - btw21
   - bundestagswahl
   - deutschland
   - digitalisierung

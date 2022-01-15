@@ -16,6 +16,9 @@ meta:
   - content_copy: "https://instagram.com/p/CN0GsYKnffP/"
   - yourls_shorturl: "https://eay.li/2my"
   - content_copy: "https://twitter.com/eay/status/1383826799726010374"
+  - geo_latitude: "50.9334663904"
+  - geo_longitude: "6.87511324883"
+  - geo_public: "1"
 ---
 
 ![](https://eay.cc/uploads/2021/rheinenergiestadion.jpg)

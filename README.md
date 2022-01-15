@@ -40,15 +40,11 @@ meta:
 Wie sich herausstellt, bleiben die Hobbies in dem Jahr, in dem man seinen Job kündigt und fast jede wache Minute in die Gründung der [eigenen Firma](https://hypercode.de/) steckt, schon mal auf der Strecke. Kein Wunder also...
 ```
 
-
-
 The compatility with static site generators was tested with [Eleventy](https://github.com/11ty/eleventy), v0.10.0.
-
 
 ## About Stefan and eay.cc
 
 [Stefan Grund](https://stefangrund.eu/), born in 1985, is an entrepreneur, developer and media scientist from Cologne, Germany. He is the CEO and co-founder of [Hypercode](https://hypercode.de/), a digital product studio, which focuses on creating high-quality web and mobile apps. Stefan, whose online alias is “eay“, started blogging on [eay.cc](https://eay.cc/) in 2003. In his mostly German blog he writes about media, pop culture, technology and their intersection.
-
 
 ## Setup
 
@@ -58,7 +54,6 @@ I hope you are well! In order to update the static copy of your blog, you'll nee
 
 Best regards,
 *Vergangenheitsstefan*
-
 
 ## Acknowledgements
 
