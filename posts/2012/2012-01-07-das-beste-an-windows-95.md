@@ -20,6 +20,4 @@ meta:
 
 war, dass auf der Installations-CD das Video von Weezers "Buddy Holly" drauf war.
 
-<iframe frameborder="0" width="500" height="375" src="http://www.dailymotion.com/embed/video/xdxt78?highlight=%2300AC42"></iframe>
-
- ([Dailymotion Direktfonz](http://www.dailymotion.com/video/xdxt78_weezer-buddy-holly_music))
+\[youtube id="kemivUKb4f4"\]

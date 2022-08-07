@@ -13,6 +13,7 @@ tags:
   - coronavirus
   - fotos
   - hypercode
+  - koeln
 meta:
   - geo_latitude: "50.9524156"
   - geo_longitude: "6.7367214"

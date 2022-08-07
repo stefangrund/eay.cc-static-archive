@@ -13,8 +13,8 @@ tags:
   - coronavirus
   - fotos
 meta:
-  - geo_latitude: "50.973808"
-  - geo_longitude: "6.683053"
+  - geo_latitude: "50.99852"
+  - geo_longitude: "6.67739"
   - geo_public: "1"
   - content_copy: "https://twitter.com/eay/status/1476163989369499654"
   - yourls_shorturl: "https://eay.li/3gd"

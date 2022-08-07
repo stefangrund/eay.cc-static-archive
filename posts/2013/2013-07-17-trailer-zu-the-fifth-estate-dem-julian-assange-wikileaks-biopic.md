@@ -6,19 +6,21 @@ id: "24350"
 slug: "trailer-zu-the-fifth-estate-dem-julian-assange-wikileaks-biopic"
 url: "https://eay.cc/2013/trailer-zu-the-fifth-estate-dem-julian-assange-wikileaks-biopic/"
 author: "eay"
-format: "link"
+format: "post"
 categories:
   - 0815
 tags:
   - biopic
   - filme
+  - julian-assange
   - politik
   - trailer
   - ueberwachung
   - wikileaks
 meta:
-  - linked_list_url: "http://youtu.be/ZT1wb8_tcYU"
   - yourls_shorturl: "https://eay.li/25g"
 ---
+
+\[youtube id="ZT1wb8\_tcYU"\]
 
 Sieht überraschend gut aus. (via [PewPewPew](http://www.pewpewpew.de/2013/07/17/trailer-zum-julian-assange-wikileaks-biopic-the-fifth-estate/))

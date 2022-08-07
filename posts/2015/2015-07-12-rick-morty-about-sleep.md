@@ -12,7 +12,7 @@ categories:
 tags:
   - fernsehen
   - rick-and-morty
-  - schlafen
+  - schlaf
   - zeit
 meta:
   - yourls_shorturl: "https://eay.li/2p0"

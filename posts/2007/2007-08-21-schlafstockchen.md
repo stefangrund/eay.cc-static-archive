@@ -8,7 +8,7 @@ url: "https://eay.cc/2007/schlafstockchen/"
 author: "eay"
 format: "post"
 tags:
-  - schlafen
+  - schlaf
   - stoeckchen
 meta:
   - yourls_shorturl: "https://eay.li/g0"

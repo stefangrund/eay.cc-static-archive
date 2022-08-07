@@ -13,7 +13,7 @@ tags:
   - design
   - gesundheit
   - konsum
-  - schlafen
+  - schlaf
 meta:
   - yourls_shorturl: "https://eay.li/3bp"
   - geo_latitude: "51.28098500862"

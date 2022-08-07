@@ -13,6 +13,7 @@ tags:
   - brutalismus
   - design
   - kunst
+  - notion
   - web-development
 meta:
   - linked_list_url: "https://www.viget.com/articles/web-brutalism-seamfulness-and-notion/"

@@ -26,7 +26,7 @@ meta:
   - yourls_shorturl: "https://eay.li/3gl"
 ---
 
-Stephen Diehl erklärt mit Blick in die Geschichtsbücher sehr anschaulich, was das Problem mit Cryptocurrencies ist und warum man die Finger von Bitcoin & Co. lassen sollte:
+Stephen Diehl erklärt mit Blick in die Geschichts­bücher sehr anschaulich, was das Problem mit Crypto­currencies ist und warum man die Finger von Bitcoin & Co. lassen sollte:
 
 > Crypto coins are simply speculative gambling products that only create a massive set of negative externalities on the world. It is introducing artificial volatility into markets untethered to any economic activity and creates an enormous opportunity cost where the only investment opportunity is as an economically corrosive synthetic hedge against all productive assets. This is not innovation, this is technical regression and flirtation with ecological disaster in a time when we cannot afford to gamble our planet’s fate on pyramid schemes and dog memes.
 
