@@ -18,4 +18,4 @@ meta:
   - linked_list_url: "http://www.lettersofnote.com/2013/01/does-ibm-know-that-hal-is-psychotic.html"
 ---
 
-Schöne Anekdote. (IBM hat die Produktion von â2001: A Space Odysseyâ beratend unterstützt.)
+Schöne Anekdote. (IBM hat die Produktion von »2001: A Space Odyssey« beratend unterstützt.)

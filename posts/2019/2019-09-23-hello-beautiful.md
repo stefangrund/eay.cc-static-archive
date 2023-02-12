@@ -11,6 +11,7 @@ categories:
   - 0815
 tags:
   - apple
+  - apple-watch
   - fotos
   - konsum
 meta:

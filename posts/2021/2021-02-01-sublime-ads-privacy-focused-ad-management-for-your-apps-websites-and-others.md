@@ -9,6 +9,9 @@ author: "eay"
 format: "link"
 categories:
   - 0815
+tags:
+  - webservice
+  - werbung
 meta:
   - linked_list_url: "https://sublimeads.com/"
   - yourls_shorturl: "https://eay.li/12t"

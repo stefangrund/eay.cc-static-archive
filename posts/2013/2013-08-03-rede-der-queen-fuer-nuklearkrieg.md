@@ -16,6 +16,7 @@ tags:
   - kalter-krieg
   - krieg
   - politik
+  - queen-elizabeth
 meta:
   - linked_list_url: "http://www.slate.com/blogs/the_vault/2013/08/01/queen_elizabeth_speech_written_for_her_to_give_in_case_of_nuclear_war.html"
   - yourls_shorturl: "https://eay.li/25s"

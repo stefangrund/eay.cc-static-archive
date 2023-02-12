@@ -10,6 +10,7 @@ format: "link"
 categories:
   - 0815
 tags:
+  - bloggeburtstag
   - blogging
   - boing-boing
   - netzkultur
