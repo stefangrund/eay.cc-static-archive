@@ -13,7 +13,6 @@ tags:
   - 60er
   - adam-west
   - batman
-  - best-of
   - bizarres
   - fernsehen
   - retro

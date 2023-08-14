@@ -1,5 +1,5 @@
 ---
-title: "»Black Mirror« Christmas Special angekündigt"
+title: "»Black Mirror« Christmas Special angekündigt"
 date: "2014-08-21"
 datetime: "2014-08-21 18:27:57"
 id: "28568"

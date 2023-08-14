@@ -12,6 +12,7 @@ categories:
 tags:
   - apple
   - apple-watch
+  - best-of
   - konsum
 meta:
   - geo_latitude: "50.973813"

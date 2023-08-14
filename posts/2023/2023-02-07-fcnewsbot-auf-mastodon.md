@@ -10,6 +10,7 @@ format: "link"
 categories:
   - 0815
 tags:
+  - best-of
   - effzeh
   - mastodon
   - projekte

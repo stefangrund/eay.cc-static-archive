@@ -12,6 +12,7 @@ categories:
 tags:
   - analogleben
   - ariane
+  - best-of
   - hypercode
 meta:
   - geo_latitude: "50.973817"

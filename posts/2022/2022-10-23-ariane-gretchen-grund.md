@@ -12,6 +12,7 @@ categories:
 tags:
   - analogleben
   - ariane
+  - best-of
   - kira-und-ich
 meta:
   - geo_latitude: "50.96223"

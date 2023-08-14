@@ -20,6 +20,6 @@ meta:
   - yourls_shorturl: "https://eay.li/26m"
 ---
 
-Gefällt! Und [Johnny hat recht](http://www.spreeblick.com/2013/08/23/thees-uhlmann-am-7-marz/): "Ein Wikipedia-Artikel zum Mitsingen, sozusagen." Nächste Woche, am 30.08., erscheint Thees' zweites Studioalbum â#2â, das natürlich direkt gekauft wird.
+Gefällt! Und [Johnny hat recht](http://www.spreeblick.com/2013/08/23/thees-uhlmann-am-7-marz/): "Ein Wikipedia-Artikel zum Mitsingen, sozusagen." Nächste Woche, am 30.08., erscheint Thees' zweites Studioalbum »#2«, das natürlich direkt gekauft wird.
 
 Und hier noch der besagte [Wikipedia-Artikel zum 07. März](http://de.m.wikipedia.org/wiki/7._M%C3%A4rz).

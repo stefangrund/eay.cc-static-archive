@@ -7,8 +7,9 @@ slug: "achtung-fisting-attacken"
 url: "https://eay.cc/2009/achtung-fisting-attacken/"
 author: "eay"
 format: "post"
+categories:
+  - 0815
 tags:
-  - best-of
   - email
   - fernsehen
   - netzkultur

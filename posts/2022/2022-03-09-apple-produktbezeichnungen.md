@@ -33,9 +33,9 @@ meta:
   - yourls_shorturl: "https://eay.li/3hd"
 ---
 
-Apple macht vieles richtig, die Produktbezeichnungen gehören aber nicht dazu.
+Apple macht vieles richtig, die Produkt­bezeichnungen gehören aber nicht dazu.
 
-Nach dem Air/mini/Max/Pro/SE/Magic/touch/Plus/+-Nonsens kann man „Mac“ in Kombination nun auch schreiben, wie man will:
+Nach dem „Air / mini / Max / Pro / SE / Magic / touch / Plus / +“-Nonsens kann man „Mac“ in Kombination nun auch schreiben, wie man will:
 
 macOS, MacBook, iMac, Mac Pro, Mac Studio, Mac mini.
 

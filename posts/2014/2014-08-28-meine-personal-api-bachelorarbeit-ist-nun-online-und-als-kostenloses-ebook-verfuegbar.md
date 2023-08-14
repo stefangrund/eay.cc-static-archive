@@ -1,5 +1,5 @@
 ---
-title: "Meine \"Personal API\"-Bachelorarbeit ist nun online und als kostenloses eBook verfügbar"
+title: "Meine »Personal API«-Bachelorarbeit ist nun online und als kostenloses eBook verfügbar"
 date: "2014-08-28"
 datetime: "2014-08-28 09:16:20"
 id: "28646"

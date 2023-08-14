@@ -10,6 +10,7 @@ format: "link"
 categories:
   - 0815
 tags:
+  - bluesky
   - elon-musk
   - microblogging
   - netzkultur

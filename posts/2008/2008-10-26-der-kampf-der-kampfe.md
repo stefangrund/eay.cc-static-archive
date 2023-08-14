@@ -7,8 +7,9 @@ slug: "der-kampf-der-kampfe"
 url: "https://eay.cc/2008/der-kampf-der-kampfe/"
 author: "eay"
 format: "post"
+categories:
+  - 0815
 tags:
-  - best-of
   - eayz
   - eayz-originals
   - exkrementenfernsehen
