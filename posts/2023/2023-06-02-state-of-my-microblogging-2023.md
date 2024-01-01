@@ -19,18 +19,18 @@ meta:
   - yourls_shorturl: "https://eay.li/3mq"
   - content_copy: "https://eay.social/@eay/110477006408519760"
   - _mentionme_tries: "1"
+  - _share_on_mastodon: "0"
 ---
 
 You should follow me on...
 
-- Mastodon: [@eay@eay.social](https://eay.social/@eay)
 - Bluesky: [@eay.social](https://staging.bsky.app/profile/eay.social)
+- Mastodon: [@eay@eay.social](https://eay.social/@eay)
 - Micro.blog: [@eay](https://micro.blog/eay)
-- Statuslog: [@eay](https://eay.status.lol/)
-- T2: [@eay](https://t2.social/eay)
 - Nostr: [@eay](https://damus.io/npub1cyh9j0wacydxm3kjssn7ewxl0f3wghrjl43ylpl0nqh49g7454qq7468yz)
-- Twitter: [@eay](https://twitter.com/eay)
-
-**Update, 06.07.:**
-
+- Statuslog: [@eay](https://eay.status.lol/)
+- T2/Pebble: @eay
 - Threads: [@eay](https://www.threads.net/@eay)
+- Twitter/X: [@eay](https://twitter.com/eay)
+
+**Update, 06.07.:** Added Threads. **Update, 25.10.:** Disabled Pebble.

@@ -9,7 +9,7 @@
 	"author": "Stefan Grund <stefan@grund.email> (https://stefangrund.eu/)",
 	"license": "CC BY-NC-ND 3.0",
 	"engines": {
-		"node": ">= 12.14.1"
+		"node": ">= 18.17.0"
 	},
 	"devDependencies": {
 		"camelcase": "^6.0.0",

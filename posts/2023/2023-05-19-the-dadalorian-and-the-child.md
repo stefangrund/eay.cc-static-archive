@@ -11,15 +11,17 @@ categories:
   - 0815
 tags:
   - analogleben
+  - fotos
   - kinder
   - star-wars
 meta:
   - geo_latitude: "51.000137"
   - geo_longitude: "6.794163"
   - geo_public: "1"
-  - content_copy: "https://instagram.com/p/Csbn-ebMXX0/"
+  - content_copy: "https://www.instagram.com/p/Csbn-ebMXX0/"
   - yourls_shorturl: "https://eay.li/3mj"
   - content_copy: "https://eay.social/@eay/110396339088544393"
+  - _share_on_mastodon: "0"
 ---
 
 ![Stefan wearing a t-shirt that says 'The Dadalorian' while holding his daughter who is wearing a t-shirt that says 'The Child'.](https://eay.cc/uploads/2023/the-dadalorian-and-the-child.jpg)
