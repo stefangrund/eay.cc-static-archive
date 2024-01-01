@@ -2,7 +2,7 @@
 
 This is a static archive of [eay.cc](https://eay.cc/), the weblog of [Stefan Grund](https://stefangrund.eu/).
 
-It consists of every blog post published between 2007-02-02 and 2023-08-12. The posts are saved as Markdown files with static site generator compatible front matters. These contain all meta data about each post (e.g. original URL, datetime, tags, geolocation, and so on).
+It consists of every blog post published between 2007-02-02 and 2023-12-31. The posts are saved as Markdown files with static site generator compatible front matters. These contain all meta data about each post (e.g. original URL, datetime, tags, geolocation, and so on).
 
 #### Example post:
 
