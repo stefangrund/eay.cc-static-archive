@@ -8,7 +8,7 @@ url: "https://eay.cc/2011/how-did-the-dinosaurs-die/"
 author: "eay"
 format: "post"
 categories:
-  - weltgeschehen
+  - 0815
 tags:
   - bizarres
   - dinosaurier

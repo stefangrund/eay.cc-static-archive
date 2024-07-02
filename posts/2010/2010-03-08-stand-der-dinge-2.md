@@ -8,7 +8,7 @@ url: "https://eay.cc/2010/stand-der-dinge-2/"
 author: "eay"
 format: "post"
 categories:
-  - weltgeschehen
+  - 0815
 tags:
   - filme
   - liveticker

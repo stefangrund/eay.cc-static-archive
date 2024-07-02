@@ -8,7 +8,7 @@ url: "https://eay.cc/2008/grippespas-mit-google/"
 author: "eay"
 format: "post"
 categories:
-  - weltgeschehen
+  - 0815
 tags:
   - google
   - grippe

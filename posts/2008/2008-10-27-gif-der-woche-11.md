@@ -8,6 +8,7 @@ url: "https://eay.cc/2008/gif-der-woche-11/"
 author: "eay"
 format: "post"
 categories:
+  - 0815
   - the-others
 tags:
   - gif-der-woche

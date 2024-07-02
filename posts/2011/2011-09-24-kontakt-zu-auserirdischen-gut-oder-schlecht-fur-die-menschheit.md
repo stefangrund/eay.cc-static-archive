@@ -8,7 +8,7 @@ url: "https://eay.cc/2011/kontakt-zu-auserirdischen-gut-oder-schlecht-fur-die-me
 author: "eay"
 format: "post"
 categories:
-  - weltgeschehen
+  - 0815
 tags:
   - alien
   - science-fiction

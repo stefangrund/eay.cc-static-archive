@@ -8,7 +8,7 @@ url: "https://eay.cc/2010/district-9-regisseur-neill-blomkamp-uber-aliens-und-di
 author: "eay"
 format: "post"
 categories:
-  - weltgeschehen
+  - 0815
 tags:
   - alien
   - best-of

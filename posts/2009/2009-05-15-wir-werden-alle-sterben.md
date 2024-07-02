@@ -8,7 +8,7 @@ url: "https://eay.cc/2009/wir-werden-alle-sterben/"
 author: "eay"
 format: "post"
 categories:
-  - weltgeschehen
+  - 0815
 tags:
   - interview
   - krankheit

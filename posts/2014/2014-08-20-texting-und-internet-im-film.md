@@ -16,11 +16,12 @@ tags:
   - video-essay
 meta:
   - yourls_shorturl: "https://eay.li/2i9"
+  - _share_on_mastodon: "0"
 ---
 
 \[vimeo id="103554797"\]
 
-Und wo ich gerade [schon Waxy reblogge](//eay.cc/2014/gifyoutube-com/), hier noch ein Video-Essay ([!!](//eay.cc/2014/humans-need-not-apply/)) von [Tony Zhou](http://twitter.com/tonyszhou), der im Rahmen seiner â[Every Frame a Painting](http://everyframeapainting.tumblr.com/)â-Serie auf immerzu gekonnt gute Weise filmische Techniken und Darstellungsweisen erklärt. Im obigen Video hat er sich mal angesehen, wie eigentlich die Kommunikation über SMS und dieses ominöse Internet im Film dargestellt werden. Die Sherlock-/House of Cards-Lösung für ersteres finde ich schon ziemlich perfekt, aber das Netz ist in der Tat eher schwierig in Bildern einzufangen. (via [Waxy](http://waxy.org/links/))
+Und wo ich gerade [schon Waxy reblogge](//eay.cc/2014/gifyoutube-com/), hier noch ein Video-Essay ([!!](//eay.cc/2014/humans-need-not-apply/)) von [Tony Zhou](http://twitter.com/tonyszhou), der im Rahmen seiner "[Every Frame a Painting](http://everyframeapainting.tumblr.com/)"-Serie auf immerzu gekonnt gute Weise filmische Techniken und Darstellungsweisen erklärt. Im obigen Video hat er sich mal angesehen, wie eigentlich die Kommunikation über SMS und dieses ominöse Internet im Film dargestellt werden. Die Sherlock-/House of Cards-Lösung für ersteres finde ich schon ziemlich perfekt, aber das Netz ist in der Tat eher schwierig in Bildern einzufangen. (via [Waxy](http://waxy.org/links/))
 
 Jason Kottke hat das Video heute [auch verlinkt](http://kottke.org/14/08/texting-in-movies) und dazu [den Trailer](https://www.youtube.com/watch?v=lR_lKig3toQ) zu »[Men, Women & Children](http://www.imdb.com/title/tt3179568/)« von Jason Reitman gepackt, der sich ebenfalls mit der Darstellung der Technik, sowie deren Folgen für Männer, Frauen und Kinder beschäftigt und sehr interessant aussieht.
 

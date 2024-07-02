@@ -8,7 +8,7 @@ url: "https://eay.cc/2011/nuke-vader/"
 author: "eay"
 format: "post"
 categories:
-  - weltgeschehen
+  - 0815
 tags:
   - atomenergie
   - fanart

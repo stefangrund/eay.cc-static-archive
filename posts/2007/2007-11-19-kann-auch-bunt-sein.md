@@ -8,6 +8,7 @@ url: "https://eay.cc/2007/kann-auch-bunt-sein/"
 author: "eay"
 format: "post"
 categories:
+  - 0815
   - the-others
 tags:
   - atombombe

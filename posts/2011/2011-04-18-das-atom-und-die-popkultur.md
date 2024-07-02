@@ -8,7 +8,7 @@ url: "https://eay.cc/2011/das-atom-und-die-popkultur/"
 author: "eay"
 format: "post"
 categories:
-  - weltgeschehen
+  - 0815
 tags:
   - atombombe
   - atomenergie

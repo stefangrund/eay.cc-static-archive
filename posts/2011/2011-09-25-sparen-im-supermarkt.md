@@ -8,6 +8,7 @@ url: "https://eay.cc/2011/sparen-im-supermarkt/"
 author: "eay"
 format: "post"
 categories:
+  - 0815
   - the-others
 tags:
   - bizarres

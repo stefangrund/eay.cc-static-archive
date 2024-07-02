@@ -8,6 +8,7 @@ url: "https://eay.cc/2011/die-ultimative-hulk-spraydose/"
 author: "eay"
 format: "post"
 categories:
+  - 0815
   - the-others
 tags:
   - comics

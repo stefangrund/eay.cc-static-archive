@@ -12,6 +12,7 @@ categories:
 tags:
   - datenschutz
   - mac
+  - macpaw
   - russland
   - ukraine
 meta:
@@ -20,6 +21,7 @@ meta:
   - geo_longitude: "6.683032"
   - geo_public: "1"
   - yourls_shorturl: "https://eay.li/3hh"
+  - _share_on_mastodon: "0"
 ---
 
 > SpyBuster is an anti-spyware tool that will help you spot potentially shady software and monitor the data flow of your applications for undesirable connections. \[SpyBuster's\] Static Analysis identifies applications with undesirable countries of origin, such as the Russian Federation and Belarus.

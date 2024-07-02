@@ -8,6 +8,7 @@ url: "https://eay.cc/2011/the-downside-of-having-a-batcave/"
 author: "eay"
 format: "post"
 categories:
+  - 0815
   - the-others
 tags:
   - adventure-time

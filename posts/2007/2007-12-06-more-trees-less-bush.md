@@ -8,7 +8,7 @@ url: "https://eay.cc/2007/more-trees-less-bush/"
 author: "Limpi"
 format: "post"
 categories:
-  - weltgeschehen
+  - 0815
 tags:
   - george-w-bush
   - konsum

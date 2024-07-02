@@ -8,6 +8,7 @@ url: "https://eay.cc/2008/tell-a-lie-using-photographs/"
 author: "eay"
 format: "post"
 categories:
+  - 0815
   - the-others
 tags:
   - fotografie

@@ -8,6 +8,7 @@ url: "https://eay.cc/2007/du-bist-roy/"
 author: "eay"
 format: "post"
 categories:
+  - 0815
   - the-others
 tags:
   - it-crowd

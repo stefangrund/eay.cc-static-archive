@@ -8,7 +8,7 @@ url: "https://eay.cc/2009/wahl-o-mat-fur-digitale-burgerrechte/"
 author: "eay"
 format: "post"
 categories:
-  - weltgeschehen
+  - 0815
 tags:
   - bundestagswahl
   - piratenpartei

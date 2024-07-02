@@ -8,6 +8,7 @@ url: "https://eay.cc/2009/die-rotierende-kuche/"
 author: "eay"
 format: "post"
 categories:
+  - 0815
   - the-others
 tags:
   - dusseldorf

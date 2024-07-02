@@ -8,6 +8,7 @@ url: "https://eay.cc/2007/fur-alle-schichtdienstler/"
 author: "eay"
 format: "post"
 categories:
+  - 0815
   - the-others
 tags:
   - arbeit

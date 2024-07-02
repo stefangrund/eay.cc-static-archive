@@ -8,6 +8,7 @@ url: "https://eay.cc/2011/the-past-and-future-of-famous-logos/"
 author: "eay"
 format: "post"
 categories:
+  - 0815
   - the-others
 tags:
   - design

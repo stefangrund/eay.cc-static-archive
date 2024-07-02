@@ -8,7 +8,7 @@ url: "https://eay.cc/2007/support-our-troops/"
 author: "eay"
 format: "post"
 categories:
-  - weltgeschehen
+  - 0815
 tags:
   - analogleben
   - eayzlies

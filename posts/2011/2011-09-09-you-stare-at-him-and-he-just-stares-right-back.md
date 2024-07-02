@@ -8,6 +8,7 @@ url: "https://eay.cc/2011/you-stare-at-him-and-he-just-stares-right-back/"
 author: "eay"
 format: "post"
 categories:
+  - 0815
   - the-others
 tags:
   - dinosaurier

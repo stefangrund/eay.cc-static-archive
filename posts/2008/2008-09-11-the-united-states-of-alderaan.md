@@ -8,6 +8,7 @@ url: "https://eay.cc/2008/the-united-states-of-alderaan/"
 author: "eay"
 format: "post"
 categories:
+  - 0815
   - the-others
 tags:
   - fanart

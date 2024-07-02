@@ -8,6 +8,7 @@ url: "https://eay.cc/2010/motion-cover-a-la-tagesprophet/"
 author: "eay"
 format: "post"
 categories:
+  - 0815
   - the-others
 tags:
   - cover

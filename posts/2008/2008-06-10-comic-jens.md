@@ -8,6 +8,7 @@ url: "https://eay.cc/2008/comic-jens/"
 author: "eay"
 format: "post"
 categories:
+  - 0815
   - the-others
 tags:
   - comic-sans

@@ -8,7 +8,7 @@ url: "https://eay.cc/2007/tag-der-deutschen-einheit/"
 author: "eay"
 format: "post"
 categories:
-  - weltgeschehen
+  - 0815
 tags:
   - deutschland
   - feiertage

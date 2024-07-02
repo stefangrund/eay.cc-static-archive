@@ -8,8 +8,8 @@ url: "https://eay.cc/2008/kaugummiwahl/"
 author: "eay"
 format: "post"
 categories:
+  - 0815
   - the-others
-  - weltgeschehen
 tags:
   - barack-obama
   - john-mccain

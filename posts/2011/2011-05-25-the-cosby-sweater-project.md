@@ -8,6 +8,7 @@ url: "https://eay.cc/2011/the-cosby-sweater-project/"
 author: "eay"
 format: "post"
 categories:
+  - 0815
   - the-others
 tags:
   - 80er

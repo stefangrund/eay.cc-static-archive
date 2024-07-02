@@ -8,7 +8,7 @@ url: "https://eay.cc/2009/bundestagswahl-o-mat/"
 author: "eay"
 format: "post"
 categories:
-  - weltgeschehen
+  - 0815
 tags:
   - bundestagswahl
   - wahlen

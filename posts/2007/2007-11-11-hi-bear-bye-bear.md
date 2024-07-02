@@ -8,6 +8,7 @@ url: "https://eay.cc/2007/hi-bear-bye-bear/"
 author: "eay"
 format: "post"
 categories:
+  - 0815
   - the-others
 tags:
   - kunst

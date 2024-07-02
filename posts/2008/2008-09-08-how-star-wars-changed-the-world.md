@@ -8,7 +8,7 @@ url: "https://eay.cc/2008/how-star-wars-changed-the-world/"
 author: "eay"
 format: "post"
 categories:
-  - weltgeschehen
+  - 0815
 tags:
   - filme
   - george-lucas

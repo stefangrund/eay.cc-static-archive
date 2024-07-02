@@ -8,6 +8,7 @@ url: "https://eay.cc/2011/das-kostum-fur-karneval-2012-steht-bereits-fest/"
 author: "eay"
 format: "post"
 categories:
+  - 0815
   - the-others
 tags:
   - alien

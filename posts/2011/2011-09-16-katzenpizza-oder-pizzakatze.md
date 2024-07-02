@@ -8,7 +8,7 @@ url: "https://eay.cc/2011/katzenpizza-oder-pizzakatze/"
 author: "eay"
 format: "post"
 categories:
-  - weltgeschehen
+  - 0815
 tags:
   - katzencontent
   - nahrung

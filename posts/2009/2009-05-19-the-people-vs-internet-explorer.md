@@ -8,6 +8,7 @@ url: "https://eay.cc/2009/the-people-vs-internet-explorer/"
 author: "eay"
 format: "post"
 categories:
+  - 0815
   - the-others
 tags:
   - internet-explorer

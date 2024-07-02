@@ -8,7 +8,7 @@ url: "https://eay.cc/2008/wer-hat-angst-vorm-schwarzen-loch/"
 author: "eay"
 format: "post"
 categories:
-  - weltgeschehen
+  - 0815
 tags:
   - cern
   - stream

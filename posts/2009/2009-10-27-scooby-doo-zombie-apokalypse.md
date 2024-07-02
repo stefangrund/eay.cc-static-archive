@@ -8,6 +8,7 @@ url: "https://eay.cc/2009/scooby-doo-zombie-apokalypse/"
 author: "eay"
 format: "post"
 categories:
+  - 0815
   - the-others
 tags:
   - fanart

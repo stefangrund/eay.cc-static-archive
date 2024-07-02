@@ -8,7 +8,7 @@ url: "https://eay.cc/2011/theme-park-of-the-dead/"
 author: "eay"
 format: "post"
 categories:
-  - weltgeschehen
+  - 0815
 tags:
   - apokalypse
   - vergnugungspark

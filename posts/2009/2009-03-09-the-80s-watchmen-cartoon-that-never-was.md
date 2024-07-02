@@ -8,6 +8,7 @@ url: "https://eay.cc/2009/the-80s-watchmen-cartoon-that-never-was/"
 author: "eay"
 format: "post"
 categories:
+  - 0815
   - the-others
 tags:
   - 80er

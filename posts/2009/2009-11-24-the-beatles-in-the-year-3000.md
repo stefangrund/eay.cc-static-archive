@@ -8,7 +8,7 @@ url: "https://eay.cc/2009/the-beatles-in-the-year-3000/"
 author: "eay"
 format: "post"
 categories:
-  - weltgeschehen
+  - 0815
 tags:
   - dokumentation
   - mockumentary

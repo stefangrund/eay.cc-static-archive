@@ -8,7 +8,7 @@ url: "https://eay.cc/2011/tschernobyl-doku-alone-in-the-zone/"
 author: "eay"
 format: "post"
 categories:
-  - weltgeschehen
+  - 0815
 tags:
   - dokumentation
   - filme

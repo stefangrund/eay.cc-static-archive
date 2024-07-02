@@ -8,6 +8,7 @@ url: "https://eay.cc/2010/dr-horrible-das-8-bit-musical-videospiel/"
 author: "eay"
 format: "post"
 categories:
+  - 0815
   - the-others
 tags:
   - 8bit

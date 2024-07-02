@@ -23,6 +23,7 @@ meta:
   - geo_public: "1"
   - yourls_shorturl: "https://eay.li/3nw"
   - _share_on_mastodon_url: "https://eay.social/@eay/111014429382318810"
+  - _share_on_mastodon: "0"
 ---
 
 \[youtube id="qpUFQWIfm88"\]
@@ -30,3 +31,5 @@ meta:
 > A beautiful artbook that celebrates the art and craft of app icon design on the desktop.
 
 Nach [Michael Flarup](http://flarup.co/)s [iOS App Icon Book](https://eay.cc/2021/kickstarter-the-ios-app-icon-book/), in das es [auch Yonks geschafft hat](https://eay.cc/2022/status-2022-05-05-1657/), hier nun die Kickstarter-Kampagne für das macOS-Pendant. Erneut direkt finanziert, erneut unter anderem von mir.
+
+**Update, 10.01.2024:** [Hier ist es](https://eay.social/@eay/111731644872421737). Toll geworden!

@@ -8,6 +8,7 @@ url: "https://eay.cc/2007/immer-mitten-in-die-fresseaah-das-iphone-rein/"
 author: "Limpi"
 format: "post"
 categories:
+  - 0815
   - the-others
 tags:
   - apple

@@ -8,8 +8,8 @@ url: "https://eay.cc/2008/einer-fur-alle/"
 author: "eay"
 format: "post"
 categories:
+  - 0815
   - the-others
-  - weltgeschehen
 tags:
   - analogleben
   - bizarres

@@ -8,6 +8,7 @@ url: "https://eay.cc/2010/livestream-fusboden-navigation/"
 author: "eay"
 format: "post"
 categories:
+  - 0815
   - the-others
 tags:
   - design

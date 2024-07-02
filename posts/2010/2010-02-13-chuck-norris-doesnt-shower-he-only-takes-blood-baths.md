@@ -8,6 +8,7 @@ url: "https://eay.cc/2010/chuck-norris-doesnt-shower-he-only-takes-blood-baths/"
 author: "eay"
 format: "post"
 categories:
+  - 0815
   - the-others
 tags:
   - chuck-norris

@@ -8,6 +8,7 @@ url: "https://eay.cc/2008/tubeyou-rohre-dich/"
 author: "eay"
 format: "post"
 categories:
+  - 0815
   - the-others
 tags:
   - netzkultur

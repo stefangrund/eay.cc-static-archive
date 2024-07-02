@@ -8,6 +8,7 @@ url: "https://eay.cc/2007/blog-der-woche/"
 author: "eay"
 format: "post"
 categories:
+  - 0815
   - the-others
 tags:
   - blogging

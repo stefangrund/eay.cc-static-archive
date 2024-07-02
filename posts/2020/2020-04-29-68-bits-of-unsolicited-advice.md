@@ -10,6 +10,7 @@ format: "link"
 categories:
   - 0815
 tags:
+  - kevin-kelly
   - lebensweisheit
 meta:
   - linked_list_url: "https://kk.org/thetechnium/68-bits-of-unsolicited-advice/"

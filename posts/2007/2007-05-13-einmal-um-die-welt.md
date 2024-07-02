@@ -8,6 +8,7 @@ url: "https://eay.cc/2007/einmal-um-die-welt/"
 author: "eay"
 format: "post"
 categories:
+  - 0815
   - the-others
 tags:
   - europa

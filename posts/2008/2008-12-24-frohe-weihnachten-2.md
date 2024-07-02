@@ -8,7 +8,7 @@ url: "https://eay.cc/2008/frohe-weihnachten-2/"
 author: "eay"
 format: "post"
 categories:
-  - weltgeschehen
+  - 0815
 tags:
   - japan
   - science-fiction

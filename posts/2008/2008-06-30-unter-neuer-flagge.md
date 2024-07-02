@@ -8,7 +8,7 @@ url: "https://eay.cc/2008/unter-neuer-flagge/"
 author: "eay"
 format: "post"
 categories:
-  - weltgeschehen
+  - 0815
 tags:
   - 2008
   - europameisterschaft

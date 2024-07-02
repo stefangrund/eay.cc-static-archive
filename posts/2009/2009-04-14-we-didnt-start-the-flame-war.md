@@ -8,6 +8,7 @@ url: "https://eay.cc/2009/we-didnt-start-the-flame-war/"
 author: "eay"
 format: "post"
 categories:
+  - 0815
   - the-others
 tags:
   - cover

@@ -8,6 +8,7 @@ url: "https://eay.cc/2009/retro-comic-cover-zu-inglourious-basterds/"
 author: "eay"
 format: "post"
 categories:
+  - 0815
   - the-others
 tags:
   - 60er

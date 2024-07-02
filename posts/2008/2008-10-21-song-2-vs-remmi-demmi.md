@@ -8,6 +8,7 @@ url: "https://eay.cc/2008/song-2-vs-remmi-demmi/"
 author: "eay"
 format: "post"
 categories:
+  - 0815
   - the-others
 tags:
   - deichkind

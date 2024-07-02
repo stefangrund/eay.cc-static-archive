@@ -8,6 +8,7 @@ url: "https://eay.cc/2009/bad-paintings-of-barack-obama-dot-com/"
 author: "eay"
 format: "post"
 categories:
+  - 0815
   - the-others
 tags:
   - barack-obama

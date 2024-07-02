@@ -8,7 +8,7 @@ url: "https://eay.cc/2008/sarah-palins-ass/"
 author: "eay"
 format: "post"
 categories:
-  - weltgeschehen
+  - 0815
 tags:
   - john-mccain
   - milf

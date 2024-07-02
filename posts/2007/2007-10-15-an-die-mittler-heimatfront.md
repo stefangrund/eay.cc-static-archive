@@ -8,7 +8,7 @@ url: "https://eay.cc/2007/an-die-mittler-heimatfront/"
 author: "eay"
 format: "post"
 categories:
-  - weltgeschehen
+  - 0815
 tags:
   - alkohol
   - getraenke

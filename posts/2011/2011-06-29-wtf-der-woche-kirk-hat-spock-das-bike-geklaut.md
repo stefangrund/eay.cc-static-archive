@@ -8,7 +8,7 @@ url: "https://eay.cc/2011/wtf-der-woche-kirk-hat-spock-das-bike-geklaut/"
 author: "eay"
 format: "post"
 categories:
-  - weltgeschehen
+  - 0815
 tags:
   - bizarres
   - leonard-nimoy

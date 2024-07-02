@@ -8,6 +8,7 @@ url: "https://eay.cc/2011/i-draw-ninja-turtles/"
 author: "eay"
 format: "post"
 categories:
+  - 0815
   - the-others
 tags:
   - comics

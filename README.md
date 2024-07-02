@@ -2,7 +2,7 @@
 
 This is a static archive of [eay.cc](https://eay.cc/), the weblog of [Stefan Grund](https://stefangrund.eu/).
 
-It consists of every blog post published between 2007-02-02 and 2023-12-31. The posts are saved as Markdown files with static site generator compatible front matters. These contain all meta data about each post (e.g. original URL, datetime, tags, geolocation, and so on).
+It consists of every blog post published between 2007-02-02 and 2024-07-32. The posts are saved as Markdown files with static site generator compatible front matters. These contain all meta data about each post (e.g. original URL, datetime, tags, geolocation, and so on).
 
 #### Example post:
 
@@ -36,7 +36,6 @@ meta:
   - content_copy: "https://twitter.com/eay/status/1212000692497461254"
   - content_copy: "https://eay.social/@eay/103402603466779713"
 ---
-
 Wie sich herausstellt, bleiben die Hobbies in dem Jahr, in dem man seinen Job kündigt und fast jede wache Minute in die Gründung der [eigenen Firma](https://hypercode.de/) steckt, schon mal auf der Strecke. Kein Wunder also...
 ```
 
@@ -53,7 +52,7 @@ Dear future self,
 I hope you are well! In order to update the static copy of your blog, you'll need to export your blog posts from WordPress and place the XML file it creates as `export.xml` in the root directory over here. After this you can run `npm run build` to generate all the Markdown files.
 
 Best regards,
-*Vergangenheitsstefan*
+_Vergangenheitsstefan_
 
 ## Acknowledgements
 

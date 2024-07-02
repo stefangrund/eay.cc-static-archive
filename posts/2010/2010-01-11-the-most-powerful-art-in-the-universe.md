@@ -8,6 +8,7 @@ url: "https://eay.cc/2010/the-most-powerful-art-in-the-universe/"
 author: "eay"
 format: "post"
 categories:
+  - 0815
   - the-others
 tags:
   - fanart

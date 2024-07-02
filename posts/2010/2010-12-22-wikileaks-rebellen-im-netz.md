@@ -8,7 +8,7 @@ url: "https://eay.cc/2010/wikileaks-rebellen-im-netz/"
 author: "eay"
 format: "post"
 categories:
-  - weltgeschehen
+  - 0815
 tags:
   - dokumentation
   - julian-assange

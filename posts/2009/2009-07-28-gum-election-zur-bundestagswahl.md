@@ -8,8 +8,8 @@ url: "https://eay.cc/2009/gum-election-zur-bundestagswahl/"
 author: "eay"
 format: "post"
 categories:
+  - 0815
   - the-others
-  - weltgeschehen
 tags:
   - angela-merkel
   - bundestagswahl

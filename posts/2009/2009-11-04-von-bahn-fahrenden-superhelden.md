@@ -8,6 +8,7 @@ url: "https://eay.cc/2009/von-bahn-fahrenden-superhelden/"
 author: "eay"
 format: "post"
 categories:
+  - 0815
   - the-others
 tags:
   - bahn

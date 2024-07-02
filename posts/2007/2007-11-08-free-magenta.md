@@ -8,6 +8,7 @@ url: "https://eay.cc/2007/free-magenta/"
 author: "eay"
 format: "post"
 categories:
+  - 0815
   - the-others
 tags:
   - abmahnung

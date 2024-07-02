@@ -8,7 +8,7 @@ url: "https://eay.cc/2008/kalkofe-die-csu-bezirksratin/"
 author: "eay"
 format: "post"
 categories:
-  - weltgeschehen
+  - 0815
 tags:
   - bizarres
   - csu

@@ -8,6 +8,7 @@ url: "https://eay.cc/2008/kopfstand/"
 author: "eay"
 format: "post"
 categories:
+  - 0815
   - the-others
 meta:
   - yourls_shorturl: "https://eay.li/hc"

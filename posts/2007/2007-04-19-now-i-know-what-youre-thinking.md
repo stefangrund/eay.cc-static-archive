@@ -8,6 +8,7 @@ url: "https://eay.cc/2007/now-i-know-what-youre-thinking/"
 author: "eay"
 format: "post"
 categories:
+  - 0815
   - the-others
 tags:
   - bild

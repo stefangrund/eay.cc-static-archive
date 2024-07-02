@@ -8,7 +8,7 @@ url: "https://eay.cc/2007/wenn-sie-mal-wieder-sueden-suchen/"
 author: "eay"
 format: "post"
 categories:
-  - weltgeschehen
+  - 0815
 tags:
   - how-to
   - navigationsgeraete

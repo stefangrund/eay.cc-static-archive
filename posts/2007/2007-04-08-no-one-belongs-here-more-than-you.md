@@ -8,6 +8,7 @@ url: "https://eay.cc/2007/no-one-belongs-here-more-than-you/"
 author: "eay"
 format: "post"
 categories:
+  - 0815
   - the-others
 tags:
   - idee

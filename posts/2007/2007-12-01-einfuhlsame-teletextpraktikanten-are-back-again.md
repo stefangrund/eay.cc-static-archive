@@ -8,7 +8,7 @@ url: "https://eay.cc/2007/einfuhlsame-teletextpraktikanten-are-back-again/"
 author: "Limpi"
 format: "post"
 categories:
-  - weltgeschehen
+  - 0815
 tags:
   - bizarres
   - flugzeug

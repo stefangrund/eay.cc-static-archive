@@ -8,7 +8,7 @@ url: "https://eay.cc/2008/iraqs-weapons-of-mass-destruction/"
 author: "eay"
 format: "post"
 categories:
-  - weltgeschehen
+  - 0815
 tags:
   - bizarres
   - george-w-bush

@@ -8,6 +8,7 @@ url: "https://eay.cc/2009/support-the-troops-and-veterans/"
 author: "eay"
 format: "post"
 categories:
+  - 0815
   - the-others
 tags:
   - fanart

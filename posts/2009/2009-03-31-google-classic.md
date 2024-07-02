@@ -8,6 +8,7 @@ url: "https://eay.cc/2009/google-classic/"
 author: "eay"
 format: "post"
 categories:
+  - 0815
   - the-others
 tags:
   - google

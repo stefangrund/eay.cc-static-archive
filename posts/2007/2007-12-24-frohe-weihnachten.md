@@ -8,7 +8,7 @@ url: "https://eay.cc/2007/frohe-weihnachten/"
 author: "eay"
 format: "post"
 categories:
-  - weltgeschehen
+  - 0815
 tags:
   - comics
   - dc

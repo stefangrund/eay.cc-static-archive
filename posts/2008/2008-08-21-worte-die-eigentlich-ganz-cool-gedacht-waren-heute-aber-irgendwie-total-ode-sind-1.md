@@ -8,7 +8,7 @@ url: "https://eay.cc/2008/worte-die-eigentlich-ganz-cool-gedacht-waren-heute-abe
 author: "eay"
 format: "post"
 categories:
-  - weltgeschehen
+  - 0815
 tags:
   - bizarres
   - worte

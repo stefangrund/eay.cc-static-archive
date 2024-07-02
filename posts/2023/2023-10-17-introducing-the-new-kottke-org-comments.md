@@ -12,6 +12,7 @@ categories:
   - english
 tags:
   - blogging
+  - jason-kottke
   - netzkultur
 meta:
   - linked_list_url: "https://kottke.org/23/10/introducing-the-new-kottke-comments"

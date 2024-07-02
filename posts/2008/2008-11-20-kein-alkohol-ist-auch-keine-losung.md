@@ -8,7 +8,7 @@ url: "https://eay.cc/2008/kein-alkohol-ist-auch-keine-losung/"
 author: "eay"
 format: "post"
 categories:
-  - weltgeschehen
+  - 0815
 tags:
   - alkohol
   - koeln

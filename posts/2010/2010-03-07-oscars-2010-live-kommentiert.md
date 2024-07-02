@@ -8,7 +8,7 @@ url: "https://eay.cc/2010/oscars-2010-live-kommentiert/"
 author: "eay"
 format: "post"
 categories:
-  - weltgeschehen
+  - 0815
 tags:
   - filme
   - liveticker

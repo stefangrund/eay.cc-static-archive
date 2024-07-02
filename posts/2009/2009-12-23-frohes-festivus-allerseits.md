@@ -8,7 +8,7 @@ url: "https://eay.cc/2009/frohes-festivus-allerseits/"
 author: "eay"
 format: "post"
 categories:
-  - weltgeschehen
+  - 0815
 tags:
   - feiertage
   - fernsehen

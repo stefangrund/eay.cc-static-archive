@@ -8,7 +8,7 @@ url: "https://eay.cc/2011/china-wird-verpixelt/"
 author: "eay"
 format: "post"
 categories:
-  - weltgeschehen
+  - 0815
 tags:
   - china
   - netzkultur

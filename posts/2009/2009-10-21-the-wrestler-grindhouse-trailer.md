@@ -8,6 +8,7 @@ url: "https://eay.cc/2009/the-wrestler-grindhouse-trailer/"
 author: "eay"
 format: "post"
 categories:
+  - 0815
   - the-others
 tags:
   - fanart

@@ -8,7 +8,7 @@ url: "https://eay.cc/2011/ninja-turtles-vs-adolf-hitler/"
 author: "eay"
 format: "post"
 categories:
-  - weltgeschehen
+  - 0815
 tags:
   - best-of
   - bizarres

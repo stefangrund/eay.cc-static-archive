@@ -7,6 +7,8 @@ slug: "deny-deny-deny"
 url: "https://eay.cc/2008/deny-deny-deny/"
 author: "eay"
 format: "post"
+categories:
+  - 0815
 tags:
   - beziehung
   - filme
@@ -15,10 +17,9 @@ tags:
   - sex
 meta:
   - yourls_shorturl: "https://eay.li/dz"
+  - _share_on_mastodon: "0"
 ---
 
-Vergesst den chauvinistischen Mist Ã¡ la "Warum Männer nicht zuhören und Frauen schlecht einparken", denn - man mag es glauben oder nicht - sowas gab's schon in den prüden 60ern. Und dass das mitunter auch besser gewesen ist, beweist der folgende Ausschnitt aus dem 1967er [A Guide for the Married Man](http://www.imdb.com/title/tt0061736/) (zu deutsch: Leitfaden für Seitensprünge). Die einfache Botschaft: Mann muss einfach alles, was eine Frau sagt, verleugnen und in Frage stellen und schon klappt's auch mit dem Seitensprung. Überzeugt euch selbst:
+Vergesst den chauvinistischen Mist à la "Warum Männer nicht zuhören und Frauen schlecht einparken", denn - man mag es glauben oder nicht - sowas gab's schon in den prüden 60ern. Und dass das mitunter auch besser gewesen ist, beweist der folgende Ausschnitt aus dem 1967er »[A Guide for the Married Man](http://www.imdb.com/title/tt0061736/)« (zu deutsch: Leitfaden für Seitensprünge). Die einfache Botschaft: Mann muss einfach alles, was eine Frau sagt, verleugnen und in Frage stellen und schon klappt's auch mit dem Seitensprung. Überzeugt euch selbst:
 
- ([YouTube Direktdeny](http://youtube.com/watch?v=nWLd2zo-EVE))
-
-PS: Wir danken dem holländischen YouTube-User [IllegalEay](http://youtube.com/user/IllEay) für's Hochladen dieses Clips!
+\[youtube id="SGu8qiBUf-4"\]

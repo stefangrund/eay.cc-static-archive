@@ -8,6 +8,7 @@ url: "https://eay.cc/2007/thees-is-back/"
 author: "Limpi"
 format: "post"
 categories:
+  - 0815
   - the-others
 tags:
   - blog

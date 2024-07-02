@@ -8,6 +8,7 @@ url: "https://eay.cc/2007/mac-ohne-donalds/"
 author: "eay"
 format: "post"
 categories:
+  - 0815
   - the-others
 tags:
   - apple

@@ -8,8 +8,8 @@ url: "https://eay.cc/2008/palin-telefoniert-mit-fake-sarkozy/"
 author: "eay"
 format: "post"
 categories:
+  - 0815
   - the-others
-  - weltgeschehen
 tags:
   - politik
   - sarah-palin

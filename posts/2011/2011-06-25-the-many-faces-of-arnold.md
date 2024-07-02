@@ -8,6 +8,7 @@ url: "https://eay.cc/2011/the-many-faces-of-arnold/"
 author: "eay"
 format: "post"
 categories:
+  - 0815
   - the-others
 tags:
   - arnold-schwarzenegger

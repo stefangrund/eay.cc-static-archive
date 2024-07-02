@@ -13,11 +13,11 @@ tags:
   - apple
   - crowdfunding
   - iphone
-  - jason-kottke
   - kickstarter
 meta:
   - yourls_shorturl: "https://eay.li/1yx"
   - linked_list_url: "http://kottke.org/12/09/what-if-apple-launched-iphone-5-on-kickstarter"
+  - _share_on_mastodon: "0"
 ---
 
 

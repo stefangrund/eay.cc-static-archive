@@ -8,6 +8,7 @@ url: "https://eay.cc/2011/sonic-the-unemployed/"
 author: "eay"
 format: "post"
 categories:
+  - 0815
   - the-others
 tags:
   - comedy

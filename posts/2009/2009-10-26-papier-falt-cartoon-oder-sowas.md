@@ -8,6 +8,7 @@ url: "https://eay.cc/2009/papier-falt-cartoon-oder-sowas/"
 author: "eay"
 format: "post"
 categories:
+  - 0815
   - the-others
 tags:
   - animation

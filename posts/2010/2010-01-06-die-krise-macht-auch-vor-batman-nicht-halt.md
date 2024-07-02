@@ -8,7 +8,7 @@ url: "https://eay.cc/2010/die-krise-macht-auch-vor-batman-nicht-halt/"
 author: "eay"
 format: "post"
 categories:
-  - weltgeschehen
+  - 0815
 tags:
   - batman
   - comics

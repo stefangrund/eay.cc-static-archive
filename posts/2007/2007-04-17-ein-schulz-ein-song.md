@@ -8,6 +8,7 @@ url: "https://eay.cc/2007/ein-schulz-ein-song/"
 author: "eay"
 format: "post"
 categories:
+  - 0815
   - the-others
 tags:
   - album

@@ -8,6 +8,7 @@ url: "https://eay.cc/2008/die-fuerchterlichen-fratzen-des-grauen/"
 author: "eay"
 format: "post"
 categories:
+  - 0815
   - the-others
 tags:
   - bizarres

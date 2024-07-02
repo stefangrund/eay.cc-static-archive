@@ -8,7 +8,7 @@ url: "https://eay.cc/2008/its-a-super-fucking-shitty-name/"
 author: "eay"
 format: "post"
 categories:
-  - weltgeschehen
+  - 0815
 tags:
   - barack-obama
   - sarah-silverman

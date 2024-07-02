@@ -8,6 +8,7 @@ url: "https://eay.cc/2009/doug-bloodworths-popkulturkunst/"
 author: "eay"
 format: "post"
 categories:
+  - 0815
   - the-others
 tags:
   - comics

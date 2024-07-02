@@ -8,8 +8,8 @@ url: "https://eay.cc/2009/pimp-the-election/"
 author: "eay"
 format: "post"
 categories:
+  - 0815
   - the-others
-  - weltgeschehen
 tags:
   - bundestagswahl
   - politik

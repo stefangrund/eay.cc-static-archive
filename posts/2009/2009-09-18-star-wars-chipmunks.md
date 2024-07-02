@@ -8,6 +8,7 @@ url: "https://eay.cc/2009/star-wars-chipmunks/"
 author: "eay"
 format: "post"
 categories:
+  - 0815
   - the-others
 tags:
   - fanart

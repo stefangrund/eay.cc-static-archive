@@ -8,6 +8,7 @@ url: "https://eay.cc/2008/twittern-wie-bei-muttern/"
 author: "eay"
 format: "post"
 categories:
+  - 0815
   - the-others
 tags:
   - meme

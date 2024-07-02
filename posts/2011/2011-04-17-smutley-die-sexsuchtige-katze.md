@@ -8,6 +8,7 @@ url: "https://eay.cc/2011/smutley-die-sexsuchtige-katze/"
 author: "eay"
 format: "post"
 categories:
+  - 0815
   - the-others
 tags:
   - aids

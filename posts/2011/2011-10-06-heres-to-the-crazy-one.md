@@ -8,7 +8,7 @@ url: "https://eay.cc/2011/heres-to-the-crazy-one/"
 author: "eay"
 format: "post"
 categories:
-  - weltgeschehen
+  - 0815
 tags:
   - apple
   - best-of

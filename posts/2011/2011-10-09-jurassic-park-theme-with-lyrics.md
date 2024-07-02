@@ -8,6 +8,7 @@ url: "https://eay.cc/2011/jurassic-park-theme-with-lyrics/"
 author: "eay"
 format: "post"
 categories:
+  - 0815
   - the-others
 tags:
   - bizarres
