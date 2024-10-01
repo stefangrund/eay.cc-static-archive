@@ -14,12 +14,14 @@ tags:
   - journalismus
   - microblogging
   - technologie
+  - the-verge
   - webdesign
 meta:
   - geo_latitude: "51.000113"
   - geo_longitude: "6.794191"
   - geo_public: "1"
   - yourls_shorturl: "https://eay.li/3ix"
+  - _share_on_mastodon: "0"
 ---
 
 Das Tech-Onlinemagazin [The Verge](https://www.theverge.com/) hat am Dienstag den [Relaunch seiner Website](https://www.theverge.com/2022/9/13/23349876/the-verge-website-redesign-new-newsfeed-blogs-logo) veröffentlicht: neues Branding, neues Design und vor allem eine Website, die mit den gängigen Gewohnheiten von Onlinemagazinen bricht, indem sie neben klassischen Artikeln prominent Micro-Blog-Posts und Linked-List-Items (([Im hörenswerten Vergecast](https://www.theverge.com/23352835/verge-website-redesign-embeds-podcast-vergecast) zum Relaunch erwähnt Chefredakteur Nilay Patel dann auch, dass John Grubers [Daring Fireball](https://daringfireball.net/) eine große Inspiration für das Format war – [wie auch hier](https://eay.cc/2022/daring-fireball-20/).)) einführt.

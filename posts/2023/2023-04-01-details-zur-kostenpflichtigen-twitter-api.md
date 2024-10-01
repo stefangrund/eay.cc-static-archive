@@ -19,11 +19,12 @@ meta:
   - yourls_shorturl: "https://eay.li/3lx"
   - content_copy: "https://eay.social/@eay/110122257507183146"
   - content_copy: "https://twitter.com/eay/status/1642060060644847622"
+  - _share_on_mastodon: "0"
 ---
 
 [Bleiben wir bei der Shit Show](https://eay.cc/2023/feedbin-hat-nun-auch-keinen-zugang-mehr-zur-twitter-api/): Twitter hat nun – rund zwei Monate [nach der Ankündigung](https://eay.cc/2023/twitter-api-wird-kostenpflichtig/) – Details zu den Tiers, Kosten und Limits verraten:
 
-- **Free**: Write-only, 1 App-IDs, Posting-Limit von 1.500 Tweets pro Monat
+- **Free**: Write-only, 1 App-ID, Posting-Limit von 1.500 Tweets pro Monat
 - **Basic** "for hobbyists & prototypes" (!): 2 App-IDs, Posting-Limit von 50.000 Tweets pro Monat insgesamt und 3.000 Tweets pro User pro Monat, sowie ein Lese-Limit von 10.000 Tweets, Kosten: $100 pro Monat
 
 Absolut witzlos und fern jeder Realität.

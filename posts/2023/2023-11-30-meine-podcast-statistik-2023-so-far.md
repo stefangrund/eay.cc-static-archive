@@ -10,6 +10,7 @@ format: "aside"
 categories:
   - 0815
 tags:
+  - haken-dran
   - podcast
 meta:
   - geo_latitude: "50.973787"
@@ -31,4 +32,4 @@ meta:
 
 An den Platzierungen wird sich bis Ende Dezember nichts mehr ändern, an der Gesamthördauer schon.
 
-**Update, 01.01.2024:** Es sind seitdem insgesamt noch 28 Tage und 8 Stunden mit 129 unterschiedlichen Shows und 1.417 Episoden geworden. »Haken dran« bleibt Platz 1 mit nunmehr 4 Tagen und 8 Stunden. Abschlussquote aller Episoden liegt bei 87%, d.h. 171 Episoden habe ich irgendwann geskippt.
+**Update, 01.01.2024:** Es sind seitdem insgesamt noch 28 Tage und 8 Stunden mit 129 unterschiedlichen Shows und 1.417 Episoden geworden. »Haken dran« bleibt Platz 1 mit nunmehr 4 Tagen und 8 Stunden. Abschlussquote aller Episoden liegt bei 87%, d.h. 171 Episoden habe ich irgendwann geskipped.

@@ -1,5 +1,5 @@
 ---
-title: "âXbox TVâ, eine auf Medien und Casual Gaming spezialisierte Set-top-Box"
+title: "\"Xbox TV\", eine auf Medien und Casual Gaming spezialisierte Set-top-Box"
 date: "2012-11-21"
 datetime: "2012-11-21 20:04:35"
 id: "22787"
@@ -15,6 +15,7 @@ tags:
 meta:
   - yourls_shorturl: "https://eay.li/20e"
   - linked_list_url: "http://www.theverge.com/2012/11/21/3674802/xbox-tv-set-top-box-casual-gaming-streaming-2013"
+  - _share_on_mastodon: "0"
 ---
 
 Diese soll, so The Verge, eine kostengünstige Alternative zur ebenfalls 2013 erscheinenden Next-Gen Xbox (720) werden.

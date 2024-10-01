@@ -11,6 +11,7 @@ categories:
   - 0815
 tags:
   - netzkultur
+  - the-verge
   - twitter
 meta:
   - linked_list_url: "https://www.theverge.com/c/23972308/twitter-x-death-tweets-history-elon-musk"
@@ -19,6 +20,7 @@ meta:
   - geo_public: "1"
   - yourls_shorturl: "https://eay.li/3p6"
   - _share_on_mastodon_url: "https://eay.social/@eay/111573277023179477"
+  - _share_on_mastodon: "0"
 ---
 
 > Twitter was many things: a news accelerator, a harassment engine, and an infinite joke machine. It will be missed.

@@ -13,6 +13,7 @@ tags:
   - best-of
   - blogging
   - netzkultur
+  - the-verge
 meta:
   - linked_list_url: "https://www.theverge.com/23513418/bring-back-personal-blogging"
   - geo_latitude: "50.973915"
@@ -20,6 +21,7 @@ meta:
   - geo_public: "1"
   - yourls_shorturl: "https://eay.li/3kt"
   - content_copy: "https://twitter.com/eay/status/1610518186914357253"
+  - _share_on_mastodon: "0"
 ---
 
 Absolut richtiger Artikel von [Monique Judge](http://moniquejudge.com/) bei The Verge, wo man ja vor kurzem auch wieder [zu den Blogwurzeln zurückgekehrt](https://eay.cc/2022/revolutionizing-the-media-with-blog-posts/) ist. Und natürlich hat sie ihren ersten Verge-Artikel auch in ihrem Personal Blog [querverlinkt](http://moniquejudge.com/do-you-have-a-personal-weblog/).

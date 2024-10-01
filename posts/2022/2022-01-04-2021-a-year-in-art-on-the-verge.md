@@ -13,12 +13,14 @@ tags:
   - fotografie
   - illustrationen
   - kunst
+  - the-verge
 meta:
   - geo_latitude: "50.973807"
   - geo_longitude: "6.683052"
   - geo_public: "1"
   - linked_list_url: "https://www.theverge.com/c/22829680/2021-art-illustrations-photography-verge-roundup"
   - yourls_shorturl: "https://eay.li/3gk"
+  - _share_on_mastodon: "0"
 ---
 
 [![](https://eay.cc/uploads/2022/verge-art.jpg)](https://www.theverge.com/c/22829680/2021-art-illustrations-photography-verge-roundup)
