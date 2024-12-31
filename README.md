@@ -54,6 +54,15 @@ I hope you are well! In order to update the static copy of your blog, you'll nee
 Best regards,
 _Vergangenheitsstefan_
 
+## Report
+
+I've added a shell script to analyze the files and print out the numbers of posts, words and characters for each year:
+
+```
+chmod +x scripts/count-posts.sh 
+bash scripts/count-posts.sh
+```
+
 ## Acknowledgements
 
 To generate the Markdown files from WordPress' exported XML file, I'm using a custom fork of [Will Boyd](https://codersblock.com/)'s [WordPress export to Markdown](https://github.com/lonekorean/wordpress-export-to-markdown) script (located under `scripts/wordpress-export-to-markdown/`). If you want to do this, too, you should definitely use Will's script, not mine, which is highly customized to my personal blog setup.
