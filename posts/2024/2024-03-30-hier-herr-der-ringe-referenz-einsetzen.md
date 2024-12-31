@@ -13,6 +13,7 @@ tags:
   - blogging
   - in-eigener-sache
   - netzkultur
+  - uberblogr
 meta:
   - geo_latitude: "51.000107"
   - geo_longitude: "6.794249"

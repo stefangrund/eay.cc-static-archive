@@ -9,6 +9,7 @@ author: "eay"
 format: "image"
 categories:
   - 0815
+  - hypercode
 tags:
   - hypercode
   - lehre

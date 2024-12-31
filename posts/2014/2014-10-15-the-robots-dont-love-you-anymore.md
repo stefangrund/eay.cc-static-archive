@@ -9,8 +9,16 @@ author: "eay"
 format: "post"
 categories:
   - 0815
+tags:
+  - apple
+  - fanart
+  - humor
+  - ios
+  - musik
+  - roboter
 meta:
   - yourls_shorturl: "https://eay.li/2jw"
+  - _share_on_mastodon: "0"
 ---
 
 \[youtube id="\_zcTPFQitEs"\]

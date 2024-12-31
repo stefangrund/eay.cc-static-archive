@@ -9,9 +9,11 @@ author: "eay"
 format: "link"
 categories:
   - 0815
+  - fc-news-bot
 tags:
   - best-of
   - effzeh
+  - fc-news-bot
   - mastodon
   - projekte
   - twitter

@@ -9,6 +9,7 @@ author: "eay"
 format: "post"
 categories:
   - 0815
+  - hypercode
 tags:
   - hypercode
   - in-eigener-sache

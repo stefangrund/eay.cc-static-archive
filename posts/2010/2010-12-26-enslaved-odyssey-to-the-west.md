@@ -10,12 +10,14 @@ format: "post"
 categories:
   - 0815
 tags:
+  - alex-garland
   - enslaved
   - games
   - playstation
   - xbox
 meta:
   - yourls_shorturl: "https://eay.li/13k"
+  - _share_on_mastodon: "0"
 ---
 
 ![](https://eay.cc/uploads/2010/enslaved1.jpg)

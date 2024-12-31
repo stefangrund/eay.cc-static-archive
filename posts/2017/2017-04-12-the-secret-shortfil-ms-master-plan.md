@@ -9,6 +9,7 @@ author: "eay"
 format: "post"
 categories:
   - 0815
+  - shortfil-ms
 tags:
   - projekte
   - shortfil-ms

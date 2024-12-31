@@ -9,6 +9,7 @@ author: "eay"
 format: "image"
 categories:
   - 0815
+  - shortfil-ms
 tags:
   - fotos
   - shortfil-ms
