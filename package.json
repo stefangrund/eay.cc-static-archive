@@ -18,8 +18,8 @@
     "inquirer": "^7.2.0",
     "luxon": "^1.28.1",
     "request": "^2.88.2",
-    "request-promise-native": "^1.0.8",
+    "request-promise-native": "^1.0.9",
     "turndown": "^6.0.0",
-    "xml2js": "^0.4.23"
+    "xml2js": "^0.6.2"
   }
 }
