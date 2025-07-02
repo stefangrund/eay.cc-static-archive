@@ -7,11 +7,14 @@ slug: "nennt-mich-mclovin"
 url: "https://eay.cc/2007/nennt-mich-mclovin/"
 author: "eay"
 format: "post"
+categories:
+  - 0815
 tags:
   - filme
   - judd-apatow
   - kinolog
   - komoedie
+  - seth-rogen
   - sneak-preview
   - superbad
   - teeniefilm

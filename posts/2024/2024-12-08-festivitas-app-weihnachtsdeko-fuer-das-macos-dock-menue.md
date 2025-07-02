@@ -20,7 +20,6 @@ meta:
   - geo_public: "1"
   - yourls_shorturl: "https://eay.li/3tk"
   - _share_on_mastodon_url: "https://eay.social/@eay/113619649982293111"
-  - _share_on_mastodon: "1"
 ---
 
 ![](https://eay.cc/uploads/2024/festivitas.png)

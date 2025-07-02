@@ -17,6 +17,9 @@ tags:
 meta:
   - linked_list_url: "https://www.youtube.com/watch?v=DeWGukDrc1U"
   - yourls_shorturl: "https://eay.li/2oh"
+  - linked_list_og-title: "✨ Playdate Update #1— 6/8/21"
+  - linked_list_og-description: "🟨 Join us for the latest news on Playdate, the tiny handheld game system with a crank!Follow us on Twitter: https://twitter.com/playdate/ • Or, learn more a..."
+  - linked_list_og-image: "https://eay.cc/wordpress/uploads/og-cache/c815d06675cea164bc2f9a9dcb1ac669.webp"
 ---
 
 Nach der gestrigen WWDC-Keynote ((Die, da scheiden sich ja aktuell die Fanboys, von den einen als hervorragende Apple-Keynote, voller sehnsüchtig erwarteter Detailverbesserung gesehen wird, während sie für andere an Langeweile nicht zu überbieten zu sein schien. Ich gehöre, das wird hier wenige überraschen, zu den zuerst genannten und freue mich sehnsüchtigst auf Shortcuts for Mac und iPadOS 15, das ich allerdings [selbst schon teste](https://twitter.com/eay/status/1401987678531375105).)) folgt heute eine weitere kleine Keynote, diesmal nicht von Apple, sondern von [Panic](https://panic.com/), selbst Mac-Software-Entwickler, Spiele-Publisher ((Die beiden bisher verlegten Spiele »[Firewatch](http://www.firewatchgame.com/)« und »[Untitled Goose Game](https://goose.game/)« sind hervorragende, kleine Spieleperlen, die ich ständig und überall empfehle.)) und mit dem [Playdate](https://eay.cc/2019/playdate/) neuerdings auch Gaming-Handheld-Hersteller.

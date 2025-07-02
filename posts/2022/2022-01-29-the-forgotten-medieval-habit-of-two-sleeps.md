@@ -19,6 +19,9 @@ meta:
   - geo_longitude: "6.683047"
   - geo_public: "1"
   - yourls_shorturl: "https://eay.li/3h0"
+  - linked_list_og-title: "The forgotten medieval habit of 'two sleeps'"
+  - linked_list_og-description: "For millennia, people slept in two shifts – once in the evening, and once in the morning. But why? And how did the habit disappear?"
+  - linked_list_og-image: "https://eay.cc/wordpress/uploads/og-cache/f44dd2acbf21b10aae4b1a45f0bd59dd.webp"
 ---
 
 > For millennia, people slept in two shifts – once in the evening, and once in the morning. But why? And how did the habit disappear?

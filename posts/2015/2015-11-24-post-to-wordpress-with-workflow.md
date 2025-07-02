@@ -11,6 +11,7 @@ categories:
   - 0815
 tags:
   - apps
+  - automation
   - blogging
   - drafts
   - ios
@@ -29,7 +30,9 @@ Da der offiziellen WordPress-App die Unterstützung sämtlicher Features seit je
 
 Mein Drafts-Template aus dem Workflow dann die entsprechenden Variablen zieht, sieht dabei folgendermaßen aus (anstelle von Drafts ist aber auch jede andere Text-/Notiz-App denkbar, die sowas als Plain Text an Workflow übergeben kann):
 
-Title  
+```
+
+Title
 http://example.com/ (Link-Post only)
 
 Paragraph #1.
@@ -37,6 +40,7 @@ Paragraph #1.
 Paragraph #2 and so on.
 
 tag1, tag2, tag3
+```
 
 Hier findet ihr die dazugehörigen WordPress-Workflows, die ihr natürlich an euer Setup anpassen könnt/müsst:
 

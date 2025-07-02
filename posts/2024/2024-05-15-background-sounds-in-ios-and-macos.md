@@ -20,7 +20,6 @@ meta:
   - geo_public: "1"
   - yourls_shorturl: "https://eay.li/3r2"
   - _share_on_mastodon_url: "https://eay.social/@eay/112447765708200859"
-  - _share_on_mastodon: "1"
 ---
 
 TIL that [iOS has build-in ambient background sounds](https://support.apple.com/en-us/109346). And [macOS, too](https://support.apple.com/en-us/guide/mac-help/mchl3061cdc6/mac). 👂

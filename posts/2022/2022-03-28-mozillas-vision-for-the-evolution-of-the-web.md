@@ -19,6 +19,8 @@ meta:
   - geo_latitude: "50.973805"
   - geo_longitude: "6.683075"
   - yourls_shorturl: "https://eay.li/3hk"
+  - linked_list_og-title: "Mozilla's Vision of the Web"
+  - linked_list_og-image: "https://eay.cc/wordpress/uploads/og-cache/d1339f9cbffa4ddd976d19a4183848c5.webp"
 ---
 
 > The Web is the most important communication system in the world today and is an essential part of the daily lives of many. The Web gets many things right — hence its wild success — but is nonetheless imperfect. Our objective is to preserve what is good about the Web while improving what is less good and fixing what is actively harmful.

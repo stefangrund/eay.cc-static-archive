@@ -53,11 +53,12 @@ async function writeMarkdownFilesPromise (posts, config) {
   await processPayloadsPromise(payloads, loadMarkdownFilePromise, config)
 }
 
-async function loadMarkdownFilePromise (post) {
+async function loadMarkdownFilePromise (post, config) {
   let output = '---\n'
   Object.entries(post.frontmatter).forEach(pair => {
     const key = pair[0]
     const value = pair[1]
+    
     if (key === 'title') {
       output += key + ': "' + value.replace(/\\([\s\S])|(")/g, '\\$1$2') + '"\n'
     } else if (key === 'categories' || key === 'tags' || key === 'meta') {

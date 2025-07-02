@@ -22,7 +22,6 @@ meta:
   - yourls_shorturl: "https://eay.li/3q5"
   - _share_on_mastodon_url: "https://eay.social/@eay/112037595069972107"
   - content_copy: "https://bsky.app/profile/eay.social/post/3kmuqbqe52a2m"
-  - _share_on_mastodon: "1"
 ---
 
 ![Collage of March MODOK Madness artwork](https://eay.cc/uploads/2024/modok.png)

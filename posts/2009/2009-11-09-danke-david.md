@@ -18,7 +18,6 @@ tags:
   - musik
 meta:
   - yourls_shorturl: "https://eay.li/2h"
-  - _share_on_mastodon: "0"
 ---
 
 \[youtube id="NxAd2sHtMf0"\]

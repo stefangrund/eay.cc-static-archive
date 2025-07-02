@@ -20,7 +20,6 @@ meta:
   - geo_public: "1"
   - yourls_shorturl: "https://eay.li/3qw"
   - _share_on_mastodon_url: "https://eay.social/@eay/112369993190590364"
-  - _share_on_mastodon: "1"
 ---
 
 Malcolm Coles collects websites that forbid people from linking to them:

@@ -20,7 +20,6 @@ meta:
   - geo_public: "1"
   - yourls_shorturl: "https://eay.li/3p0"
   - _share_on_mastodon_url: "https://eay.social/@eay/111524735316700149"
-  - _share_on_mastodon: "1"
 ---
 
 Nachdem der eigentlich erst für heute Nachmittag (unserer Zeit) geplante Trailer bereits geleaked wurde, hat Rockstar ihn nun vorgezogen und selbst veröffentlicht:

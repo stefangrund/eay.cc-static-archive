@@ -23,7 +23,6 @@ meta:
   - geo_public: "1"
   - yourls_shorturl: "https://eay.li/3su"
   - _share_on_mastodon_url: "https://eay.social/@eay/113403826940145284"
-  - _share_on_mastodon: "1"
 ---
 
 ChatGPT jetzt mit Web-Suche. Meine ersten Tests waren überaus zufriedenstellend. Nur dass die Suche bisher über einen Search-Toggle aktiviert werden muss, verwundert noch. Vermutlich aber auch nur eine Frage der Zeit bis das LLM selbst entscheidet, ob es genügend Informationen hat oder eine Web-Suche tätigen möchte. Siehe Update unten, ist bereits so.

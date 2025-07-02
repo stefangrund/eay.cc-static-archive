@@ -12,6 +12,7 @@ categories:
 tags:
   - apple
   - apps
+  - automation
   - ios
   - workflow
 meta:

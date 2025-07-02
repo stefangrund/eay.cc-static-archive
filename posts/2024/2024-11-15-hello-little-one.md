@@ -21,7 +21,6 @@ meta:
   - content_copy: "https://eay.social/@eay/113481507624380831"
   - content_copy: "https://www.threads.net/@eay/post/DCWmzZnI4gF"
   - content_copy: "https://bsky.app/profile/eay.social/post/3lavxl4d5no2x"
-  - _share_on_mastodon: "1"
   - yourls_shorturl: "https://eay.li/3t0"
   - _share_on_mastodon_url: "https://eay.social/@eay/113489309685017090"
 ---

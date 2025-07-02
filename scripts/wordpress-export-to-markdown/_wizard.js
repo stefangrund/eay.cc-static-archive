@@ -67,6 +67,13 @@ const options = [
     type: 'boolean',
     description: 'Save images scraped from post body content',
     default: true
+  },
+  {
+    name: 'ignore-meta-keys',
+    aliases: ['ignoremetakeys'],
+    type: 'string',
+    description: 'Comma-separated list of meta keys to ignore in frontmatter',
+    default: ''
   }
 ]
 
@@ -114,6 +121,10 @@ function extendOptionsData () {
     folder: {
       prompt: 'input',
       coerce: coercePath
+    },
+    string: {
+      prompt: 'input',
+      coerce: (value) => value.toString()
     }
   }
 

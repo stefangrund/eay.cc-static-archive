@@ -22,6 +22,9 @@ meta:
   - geo_public: "1"
   - yourls_shorturl: "https://eay.li/3l0"
   - content_copy: "https://twitter.com/eay/status/1616243774333517824"
+  - linked_list_og-title: "Twitterrific: End of an Era • The Breakroom"
+  - linked_list_og-description: "Twitterrific has been discontinued. A sentence that none of us wanted to write, but have long felt would need to be written someday. We didn’t expect to be writing it so soon, though, and certainly not without having had time to notify you that it was coming. We are sorry to say that the app’..."
+  - linked_list_og-image: "https://eay.cc/wordpress/uploads/og-cache/a243fc8161c7c9c100c3cae2117dce8f.webp"
 ---
 
 > We are sorry to say that the app’s sudden and undignified demise is due to an unannounced and undocumented policy change by an increasingly capricious Twitter – a Twitter that we no longer recognize as trustworthy nor want to work with any longer.

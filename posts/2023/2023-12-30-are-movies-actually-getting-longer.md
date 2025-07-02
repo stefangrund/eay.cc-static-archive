@@ -20,7 +20,12 @@ meta:
   - geo_public: "1"
   - yourls_shorturl: "https://eay.li/3p8"
   - _share_on_mastodon_url: "https://eay.social/@eay/111669983083181838"
-  - _share_on_mastodon: "1"
+  - linked_list_og-title: "Are movies actually getting longer?"
+  - linked_list_og-description: "Are movies getting longer than they used to be? It’s something I think a lot of us feel is true, but is it? I wanted to get a feel for this, so I collected some data, looked at the trends, and made some proposals based on that info.
+
+
+The"
+  - linked_list_og-image: "https://eay.cc/wordpress/uploads/og-cache/4648adf8be545e28f7a67a2182ec0c3c.webp"
 ---
 
 I'm all too familiar with the feeling that movies are getting longer and longer. Especially now with a toddler, we prefer shorter movies, but they're not even that easy to find these days.

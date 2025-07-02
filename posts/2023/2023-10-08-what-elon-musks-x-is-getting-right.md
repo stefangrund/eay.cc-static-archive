@@ -21,7 +21,6 @@ meta:
   - yourls_shorturl: "https://eay.li/3o2"
   - _oembed_6e97328d9099de30a2eb6a48fb0f0b8f: "{{unknown}}"
   - _share_on_mastodon_url: "https://eay.social/@eay/111198642615009023"
-  - _share_on_mastodon: "1"
 ---
 
 

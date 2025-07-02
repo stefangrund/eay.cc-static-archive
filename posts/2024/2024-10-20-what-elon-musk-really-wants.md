@@ -22,7 +22,9 @@ meta:
   - geo_public: "1"
   - yourls_shorturl: "https://eay.li/3sf"
   - _share_on_mastodon_url: "https://eay.social/@eay/113338583051472825"
-  - _share_on_mastodon: "1"
+  - linked_list_og-title: "What Elon Musk Really Wants"
+  - linked_list_og-description: "Why is Elon Musk really all in for Trump? The mogul has long dreamed of redesigning the world to achieve his techno-authoritarian dreams. As @FranklinFoer writes, Trump is just the perfect Trojan horse:"
+  - linked_list_og-image: "https://eay.cc/wordpress/uploads/og-cache/8180d0af6864a300d48a3caa593efd3a.webp"
 ---
 
 > The Tesla and X mogul has long dreamed of redesigning the world in his own extreme image. Trump may be his Trojan horse.

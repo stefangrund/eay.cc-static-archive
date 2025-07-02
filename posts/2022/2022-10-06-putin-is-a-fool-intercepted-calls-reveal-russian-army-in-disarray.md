@@ -22,6 +22,9 @@ meta:
   - geo_longitude: "6.683063"
   - geo_public: "1"
   - yourls_shorturl: "https://eay.li/3jd"
+  - linked_list_og-title: "‘Putin Is a Fool’: Intercepted Calls Reveal Russian Army in Disarray (Published 2022)"
+  - linked_list_og-description: "In phone calls to friends and relatives at home, Russian soldiers gave damning insider accounts of battlefield failures and civilian executions, excoriating their leaders just weeks into the campaign to take Kyiv."
+  - linked_list_og-image: "https://eay.cc/wordpress/uploads/og-cache/4a13b6a8eca3150cfab18e504624ca2e.webp"
 ---
 
 > Russian soldiers made thousands of calls from the battlefield in Ukraine to relatives at home. Here are their conversations.

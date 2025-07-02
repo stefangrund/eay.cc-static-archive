@@ -24,7 +24,9 @@ meta:
   - geo_public: "1"
   - yourls_shorturl: "https://eay.li/3s3"
   - _share_on_mastodon_url: "https://eay.social/@eay/113153698258746270"
-  - _share_on_mastodon: "0"
+  - linked_list_og-title: "iOS and iPadOS 18: The MacStories Review"
+  - linked_list_og-description: "There is still fun beyond AI."
+  - linked_list_og-image: "https://eay.cc/wordpress/uploads/og-cache/51684cbbaa19e7f52ab587bc2b2ccbdb.webp"
 ---
 
 [Federico Vittici](https://mastodon.macstories.net/@viticci) macht für iOS und iPadOS bekanntlich das, was [John Siracusa](https://hypercritical.co/about/) einst für macOS machte [als es noch Mac OS X hieß](https://eay.cc/?s=John+Siracusa): Ein super-ausführliches Review schreiben, dass bis ins kleinste Detail von Apples mobilen Betriebssystemen geht.

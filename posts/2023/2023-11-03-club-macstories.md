@@ -22,7 +22,6 @@ meta:
   - geo_public: "1"
   - yourls_shorturl: "https://eay.li/3oj"
   - _share_on_mastodon_url: "https://eay.social/@eay/111348753425848022"
-  - _share_on_mastodon: "1"
 ---
 
 Speaking of [content subscriptions](https://eay.cc/2023/the-pioneer-abo/): I've also just subscribed to [Club MacStories](https://club.macstories.net/). Long-time fan of their extensive app and OS reviews, as well as their presented Shortcuts and tips. How fitting that [Federico](https://mastodon.macstories.net/@viticci) and [John](https://mastodon.macstories.net/@johnvoorhees) shared useful Shortcuts for my favorite todo-app [Things](https://culturedcode.com/things/) in the first issue I've read.

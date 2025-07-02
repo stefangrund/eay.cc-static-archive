@@ -21,6 +21,9 @@ meta:
   - geo_public: "1"
   - yourls_shorturl: "https://eay.li/3s9"
   - _share_on_mastodon_url: "https://eay.social/@eay/113236521807205939"
+  - linked_list_og-title: "Inside the $621 Million Legal Battle for the 'Soul of the Internet'"
+  - linked_list_og-description: "Major record labels have sued the Internet Archive for $621 million over thousands of old recordings, raising the question: Who owns the past?"
+  - linked_list_og-image: "https://eay.cc/wordpress/uploads/og-cache/7c94f7c3c64c16033b9926793685f32a.webp"
 ---
 
 > Major record labels have sued the online library Internet Archive over thousands of old recordings, raising the question: Who owns the past?

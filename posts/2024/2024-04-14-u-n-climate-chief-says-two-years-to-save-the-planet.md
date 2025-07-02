@@ -20,7 +20,6 @@ meta:
   - geo_public: "1"
   - yourls_shorturl: "https://eay.li/3qo"
   - _share_on_mastodon_url: "https://eay.social/@eay/112268751432956838"
-  - _share_on_mastodon: "1"
   - content_copy: "https://eay.social/@eay/112268761423475869"
   - content_copy: "https://eay.social/@eay/112268764230678706"
 ---

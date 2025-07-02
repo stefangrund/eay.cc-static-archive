@@ -19,7 +19,9 @@ meta:
   - geo_public: "1"
   - yourls_shorturl: "https://eay.li/3pk"
   - _share_on_mastodon_url: "https://eay.social/@eay/111804075655079102"
-  - _share_on_mastodon: "1"
+  - linked_list_og-title: "New ‘Jurassic World’ Movie in the Works With David Koepp Writing (Exclusive)"
+  - linked_list_og-description: "Universal is said to be moving fast with the script from Koepp, who penned Steven Spielberg's original 'Jurassic Park' and its 1997 sequel."
+  - linked_list_og-image: "https://eay.cc/wordpress/uploads/og-cache/ad45eca41bf933c09e8d0756c8261d30.webp"
 ---
 
 > \[Universal Pictures\] deep into the development of an all-new Jurassic World movie and has [David Koepp](https://en.wikipedia.org/wiki/David_Koepp) back at the keyboard. Koepp was the writer of the original 1993 Jurassic Park, famously directed by Steven Spielberg, and its sequel, 1997’s Jurassic Park: The Lost World.

@@ -23,6 +23,9 @@ meta:
   - geo_public: "1"
   - yourls_shorturl: "https://eay.li/3qe"
   - _share_on_mastodon_url: "https://eay.social/@eay/112127490540041113"
+  - linked_list_og-title: "ActivityPub Server in a Single PHP File"
+  - linked_list_og-description: "Any computer program can be designed to run from a single file if you architect it wrong enough!  I wanted to create the simplest possible Fediverse server which can be used as an educational tool to show how ActivityPub / Mastodon works.  The design goals were:   Upload a single PHP file to the ..."
+  - linked_list_og-image: "https://eay.cc/wordpress/uploads/og-cache/0188e2ed171dda59a3aa12b42fcb0e98.webp"
 ---
 
 [Terence Eden](https://mastodon.social/@edent) baut einen ActivityPub-Server in einer einzigen PHP-Datei und statt einer Datenbank, nutzt er JSON-Dateien zum Persistieren. [Hier das Git-Repository](https://gitlab.com/edent/activitypub-single-php-file), das auch auflistest, welche Features bereits bzw. noch nicht unterstützt werden.

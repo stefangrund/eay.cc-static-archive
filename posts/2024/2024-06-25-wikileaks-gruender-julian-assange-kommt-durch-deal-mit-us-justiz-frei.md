@@ -21,7 +21,6 @@ meta:
   - geo_public: "1"
   - yourls_shorturl: "https://eay.li/3rb"
   - _share_on_mastodon_url: "https://eay.social/@eay/112675679504593661"
-  - _share_on_mastodon: "1"
 ---
 
 > Mehr als zehn Jahre dauerte der Rechtsstreit um eine Auslieferung von Julian Assange an - nun darf er wohl in seine Heimat Australien zurückkehren. Hintergrund ist ein Deal mit den USA, der ein Schuldbekenntnis des Wikileaks-Gründers vorsieht.

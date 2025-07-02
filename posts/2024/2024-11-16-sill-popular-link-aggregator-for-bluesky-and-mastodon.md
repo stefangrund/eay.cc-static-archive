@@ -23,7 +23,6 @@ meta:
   - yourls_shorturl: "https://eay.li/3t2"
   - _share_on_mastodon_url: "https://eay.social/@eay/113491654146736445"
   - content_copy: "https://bsky.app/profile/eay.social/post/3lb2hhnys3a2t"
-  - _share_on_mastodon: "0"
 ---
 
 > Sill connects to your Bluesky and Mastodon accounts and gathers all of the links posted to your timeline. Then, Sill aggregates those links to show you the most popular links in your network.

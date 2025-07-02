@@ -22,7 +22,6 @@ meta:
   - geo_public: "1"
   - yourls_shorturl: "https://eay.li/3t6"
   - _share_on_mastodon_url: "https://eay.social/@eay/113508336491442329"
-  - _share_on_mastodon: "1"
 ---
 
 > Between 2009 and 2012, iPhones had a built-in "Send to YouTube" button in the Photos app. Many of these uploads kept their default IMG\_XXXX filenames, creating a time capsule of raw, unedited moments from random lives.

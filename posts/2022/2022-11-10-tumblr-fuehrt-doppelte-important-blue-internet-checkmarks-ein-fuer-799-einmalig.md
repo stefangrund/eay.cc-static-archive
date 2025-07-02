@@ -22,6 +22,9 @@ meta:
   - geo_latitude: "50.973822"
   - geo_longitude: "6.683061"
   - yourls_shorturl: "https://eay.li/3jt"
+  - linked_list_og-title: "Post by @staff · 1 image"
+  - linked_list_og-description: "💬 0  🔁 46107  ❤️ 75128 · Hi! We're introducing Important Blue Internet Checkmarks here on Tumblr. They're a steal at $7.99—that's cheaper than some other places, when you consider that you get not…"
+  - linked_list_og-image: "https://eay.cc/wordpress/uploads/og-cache/54948c9afbd170d64df922db7e0d9d27.webp"
 ---
 
 > We're introducing Important Blue Internet Checkmarks here on Tumblr. They're a steal at $7.99—that's cheaper than some other places, when you consider that you get not one but TWO checkmarks for your blog on web only (for now). Why, you ask? Why not? Nothing matters! ¯\\\_(ツ)\_/¯

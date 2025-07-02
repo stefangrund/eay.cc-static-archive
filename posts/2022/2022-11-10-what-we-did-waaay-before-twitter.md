@@ -18,6 +18,9 @@ meta:
   - geo_longitude: "6.682946"
   - geo_public: "1"
   - yourls_shorturl: "https://eay.li/3js"
+  - linked_list_og-title: "What We Did Waaay Before Twitter"
+  - linked_list_og-description: "There was another medium where characters were precious"
+  - linked_list_og-image: "https://eay.cc/wordpress/uploads/og-cache/0f1d6777a054bd02df719e03101bb2ce.webp"
 ---
 
 [David Friedman](https://mastodon.social/@ironicsans) von [Ironic Sans](https://www.ironicsans.com/) vergleicht Twitter und die [Telegrafie](https://de.wikipedia.org/wiki/Telegrafie), was Zeichenanzahl, verifizierte “Accounts“, Kultur und Streitigkeiten angeht.

@@ -20,6 +20,9 @@ meta:
   - geo_public: "1"
   - yourls_shorturl: "https://eay.li/3nj"
   - content_copy: "https://eay.social/@eay/110877668856693329"
+  - linked_list_og-title: "AI can identify passwords by sound of keys being pressed, study suggests"
+  - linked_list_og-description: "Researchers create system using sound recordings that can work out what is being typed with more than 90% accuracy"
+  - linked_list_og-image: "https://eay.cc/wordpress/uploads/og-cache/ec56332585d39b638987f583e3ad4ac5.webp"
 ---
 
 > Researchers say they have created a system that can work out which keys are being pressed on a laptop keyboard with more than 90% accuracy, just based on sound recordings.

@@ -20,7 +20,9 @@ meta:
   - geo_public: "1"
   - yourls_shorturl: "https://eay.li/3p6"
   - _share_on_mastodon_url: "https://eay.social/@eay/111573277023179477"
-  - _share_on_mastodon: "0"
+  - linked_list_og-title: "The year Twitter died: a special series from The Verge"
+  - linked_list_og-description: "The platform was a news accelerator, a tool of mass harassment, and an infinite joke machine."
+  - linked_list_og-image: "https://eay.cc/wordpress/uploads/og-cache/923895efe2860875f188b82369b14acb.webp"
 ---
 
 > Twitter was many things: a news accelerator, a harassment engine, and an infinite joke machine. It will be missed.

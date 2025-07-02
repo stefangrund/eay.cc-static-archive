@@ -22,7 +22,6 @@ meta:
   - geo_public: "1"
   - yourls_shorturl: "https://eay.li/3rt"
   - _share_on_mastodon_url: "https://eay.social/@eay/112965560708304835"
-  - _share_on_mastodon: "1"
 ---
 
 _Achtung, Publishing-/Web-Development-Nerdery:_

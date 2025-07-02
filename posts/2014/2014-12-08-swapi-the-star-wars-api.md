@@ -18,7 +18,6 @@ tags:
 meta:
   - linked_list_url: "http://swapi.co/"
   - yourls_shorturl: "https://eay.li/2lh"
-  - _share_on_mastodon: "0"
 ---
 
 > The Star Wars API will provide a RESTful API for Planets, People, Starships, Vehicles, Species and Films from the six major Star Wars films.

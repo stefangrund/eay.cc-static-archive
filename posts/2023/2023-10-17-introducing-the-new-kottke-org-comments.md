@@ -21,7 +21,6 @@ meta:
   - geo_public: "1"
   - yourls_shorturl: "https://eay.li/3o7"
   - _share_on_mastodon_url: "https://eay.social/@eay/111248721179741867"
-  - _share_on_mastodon: "0"
 ---
 
 Jason Kottke has reactivated comments at his site - but for paying [members](https://kottke.org/members/) only.

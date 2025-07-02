@@ -22,7 +22,6 @@ meta:
   - yourls_shorturl: "https://eay.li/3pi"
   - _share_on_mastodon_url: "https://eay.social/@eay/111770879497079669"
   - content_copy: "https://staging.bsky.app/profile/eay.social/post/3kj6brp3usc26"
-  - _share_on_mastodon: "0"
 ---
 
 ![](https://eay.cc/uploads/2024/imessage-backup.png)

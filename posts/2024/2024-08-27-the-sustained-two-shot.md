@@ -20,7 +20,6 @@ meta:
   - geo_public: "1"
   - yourls_shorturl: "https://eay.li/3ry"
   - _share_on_mastodon_url: "https://eay.social/@eay/113036396176269884"
-  - _share_on_mastodon: "1"
 ---
 
 »[Every Frame a Painting](https://youtube.com/@everyframeapainting)«, die legendäre [Video-Essay](https://eay.cc/tag/video-essay/)\-Serie von Taylor Ramos und Tony Zhou, ist gestern – nach 8 Jahren Wartezeit – mit einem neuen Video über den [Two-Shot](https://en.wikipedia.org/wiki/Two_shot) zurückgekehrt:

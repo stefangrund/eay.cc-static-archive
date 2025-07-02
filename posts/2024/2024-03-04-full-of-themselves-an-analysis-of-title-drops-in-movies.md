@@ -22,7 +22,6 @@ meta:
   - geo_public: "1"
   - yourls_shorturl: "https://eay.li/3q6"
   - _share_on_mastodon_url: "https://eay.social/@eay/112038398740888131"
-  - _share_on_mastodon: "0"
 ---
 
 > A title drop is when a character in a movie says the title of the movie they're in. Here's a large-scale analysis of 73,921 movies from the last 80 years on how often, when and maybe even why that happens.

@@ -23,7 +23,9 @@ meta:
   - geo_public: "1"
   - yourls_shorturl: "https://eay.li/3sr"
   - _share_on_mastodon_url: "https://eay.social/@eay/113396094767221535"
-  - _share_on_mastodon: "1"
+  - linked_list_og-title: "A vote for Donald Trump is a vote for school shootings and measles"
+  - linked_list_og-description: "Trump doesn’t care about any of this."
+  - linked_list_og-image: "https://eay.cc/wordpress/uploads/og-cache/0051cb1c08e43603bfa25681c5d5b966.webp"
 ---
 
 > An endorsement of democracy, solving problems, and Kamala Harris.

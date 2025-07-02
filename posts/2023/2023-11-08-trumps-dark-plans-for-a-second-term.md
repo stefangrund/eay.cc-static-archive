@@ -21,7 +21,6 @@ meta:
   - geo_public: "1"
   - yourls_shorturl: "https://eay.li/3or"
   - _share_on_mastodon_url: "https://eay.social/@eay/111373563452111529"
-  - _share_on_mastodon: "1"
 ---
 
 John Gruber:

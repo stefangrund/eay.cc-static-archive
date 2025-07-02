@@ -21,7 +21,9 @@ meta:
   - geo_public: "1"
   - yourls_shorturl: "https://eay.li/3p3"
   - _share_on_mastodon_url: "https://eay.social/@eay/111546956447360690"
-  - _share_on_mastodon: "0"
+  - linked_list_og-title: "Threads is counting down to an EU launch next week"
+  - linked_list_og-description: "December 14th to be exact, according to the countdown timer."
+  - linked_list_og-image: "https://eay.cc/wordpress/uploads/og-cache/a43c4e1b4d03b00a5c5c02bcf1b91881.webp"
 ---
 
 > Meta hasn’t made an official announcement yet, instead opting to sneakily update the [Threads website](https://www.threads.net/) with an untitled countdown timer \[…\] with just under six days remaining on the clock. 

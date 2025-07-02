@@ -18,6 +18,9 @@ meta:
   - geo_longitude: "6.683026"
   - geo_public: "1"
   - yourls_shorturl: "https://eay.li/3kd"
+  - linked_list_og-title: "A year of new avenues"
+  - linked_list_og-description: "It's 2003 again."
+  - linked_list_og-image: "https://eay.cc/wordpress/uploads/og-cache/f56cfdbce07501cc443431e76e136322.webp"
 ---
 
 > It’s so pow­er­fully obvi­ous to me, it might as well be writ­ten in ten-foot let­ters of flame: the plat­forms of the last decade are done. \[…\] Their only con­clu­sion can be abandonment; an over­due MySpace-ification.

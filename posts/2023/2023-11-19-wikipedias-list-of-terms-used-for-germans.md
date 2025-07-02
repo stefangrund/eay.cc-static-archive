@@ -19,7 +19,6 @@ meta:
   - geo_public: "1"
   - yourls_shorturl: "https://eay.li/3ov"
   - _share_on_mastodon_url: "https://eay.social/@eay/111436485683362064"
-  - _share_on_mastodon: "0"
   - content_copy: "https://bsky.app/profile/eay.social/post/3kejrqs7nak2m"
 ---
 

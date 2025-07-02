@@ -20,7 +20,6 @@ meta:
   - geo_public: "1"
   - yourls_shorturl: "https://eay.li/3om"
   - _share_on_mastodon_url: "https://eay.social/@eay/111354657854240917"
-  - _share_on_mastodon: "1"
 ---
 
 In the [recent episode](https://listen.hemisphericviews.com/097) of the [Hemispheric Views](https://hemisphericviews.com/) podcast [Andrew](https://canion.omg.lol/), [Martin](https://loungeruminator.net/) & [Jason](https://grepjason.sh/) talk about their default apps in several categories. This has prompted some bloggers to share their default apps as well, which [Robb](https://rknight.me/) is now [collecting over here](https://defaults.rknight.me/).

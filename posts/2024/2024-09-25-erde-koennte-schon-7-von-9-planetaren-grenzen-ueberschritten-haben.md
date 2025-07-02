@@ -19,6 +19,9 @@ meta:
   - geo_public: "1"
   - yourls_shorturl: "https://eay.li/3s8"
   - _share_on_mastodon_url: "https://eay.social/@eay/113196799745142384"
+  - linked_list_og-title: "Erde könnte schon 7 von 9 planetaren Grenzen überschritten haben"
+  - linked_list_og-description: "Jede überschrittene Grenze bringt das Ökosystem näher zu einem Kollaps und damit einer Gefährdung der Menschheit."
+  - linked_list_og-image: "https://eay.cc/wordpress/uploads/og-cache/3d642b69bb9615d4748a4792829081ef.webp"
 ---
 
 > 2009 haben Forscher des Stockholm Resilience Centre [das Konzept der planetaren Grenzen veröffentlicht](https://www.stockholmresilience.org/research/planetary-boundaries.html) \[_Anmerkung: Link von mir ergänzt_\]. Dabei wurden ökologische Belastungsgrenzen für 9 Bereiche definiert.

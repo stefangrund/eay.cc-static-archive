@@ -22,6 +22,9 @@ meta:
   - geo_public: "1"
   - yourls_shorturl: "https://eay.li/3rz"
   - _share_on_mastodon_url: "https://eay.social/@eay/113043506770198800"
+  - linked_list_og-title: "Shipping Tumblr and WordPress"
+  - linked_list_og-description: "Since Automattic acquired Tumblr we’ve made it more efficient, grown its revenue, and worked to improve the platform. But there’s one part of the plan that we haven’t yet started, which is to run T…"
+  - linked_list_og-image: "https://eay.cc/wordpress/uploads/og-cache/64e954e4567367385ad953a72e7d914b.webp"
 ---
 
 > We're not talking about _changing_ Tumblr. We're not turning Tumblr _into_ WordPress.

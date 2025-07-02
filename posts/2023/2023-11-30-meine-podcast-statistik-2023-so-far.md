@@ -18,7 +18,6 @@ meta:
   - geo_public: "1"
   - yourls_shorturl: "https://eay.li/3oz"
   - _share_on_mastodon_url: "https://eay.social/@eay/111498528932344431"
-  - _share_on_mastodon: "1"
   - content_copy: "https://eay.social/@eay/111681826841661494"
 ---
 

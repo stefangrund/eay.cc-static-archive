@@ -16,7 +16,6 @@ tags:
   - video-essay
 meta:
   - yourls_shorturl: "https://eay.li/2i9"
-  - _share_on_mastodon: "0"
 ---
 
 \[vimeo id="103554797"\]

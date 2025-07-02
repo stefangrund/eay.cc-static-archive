@@ -19,7 +19,6 @@ meta:
   - _share_on_mastodon_url: "https://eay.social/@eay/110968520546312321"
   - yourls_shorturl: "https://eay.li/3np"
   - linked_list_url: "https://youtube.com/@PhilEdwardsInc"
-  - _share_on_mastodon: "0"
 ---
 
 \[youtube id="jiiV9TciUfE"\]

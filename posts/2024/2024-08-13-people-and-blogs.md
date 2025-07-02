@@ -19,7 +19,6 @@ meta:
   - geo_public: "1"
   - yourls_shorturl: "https://eay.li/3rr"
   - _share_on_mastodon_url: "https://eay.social/@eay/112956389812381256"
-  - _share_on_mastodon: "1"
 ---
 
 > People and Blogs is a weekly newsletter series where interesting people talk about themselves and their blogs.

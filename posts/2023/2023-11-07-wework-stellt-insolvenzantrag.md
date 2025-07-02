@@ -18,7 +18,6 @@ meta:
   - geo_public: "1"
   - yourls_shorturl: "https://eay.li/3oq"
   - _share_on_mastodon_url: "https://eay.social/@eay/111369432497010135"
-  - _share_on_mastodon: "1"
 ---
 
 > WeWork galt einst als wertvollstes Start-up der USA. Nun hat der Bürovermieter Insolvenz­antrag gestellt. Statt 47 Milliarden ist das Unternehmen nun nur noch 44 Millionen Dollar wert.

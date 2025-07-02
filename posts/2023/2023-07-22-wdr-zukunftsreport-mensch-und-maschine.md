@@ -19,6 +19,9 @@ meta:
   - yourls_shorturl: "https://eay.li/3nb"
   - linked_list_url: "https://zukunft.wdr.de/"
   - content_copy: "https://eay.social/@eay/110758382758620093"
+  - linked_list_og-title: "WDR INNOVATION HUB"
+  - linked_list_og-description: "Wir sind der WDR Innovation Hub. Und hier findet ihr unsere Zukunftsreports zu unseren Innovationsfeldern "Generation Alpha" und  "Synthetische Medien"."
+  - linked_list_og-image: "https://eay.cc/wordpress/uploads/og-cache/c933274702fb0d62ffbc9ace593ec13f.webp"
 ---
 
 > Entscheider:innen in Medienhäusern weltweit sind sich einig: Künstliche Intelligenz wird der wichtigste technologische Wegbereiter für journalistische Innovation. Das sehen wir auch so. Und zeigen in diesem Report die Zukunft der fiktiven Future Media Company – einem Medienhaus, in dem Mensch und Maschine konsequent zusammenarbeiten.

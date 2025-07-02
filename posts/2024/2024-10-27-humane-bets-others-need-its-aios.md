@@ -19,9 +19,11 @@ meta:
   - geo_latitude: "53.930541"
   - geo_longitude: "11.381364"
   - geo_public: "1"
-  - _share_on_mastodon: "0"
   - yourls_shorturl: "https://eay.li/3sn"
   - _share_on_mastodon_url: "https://eay.social/@eay/113380335683068099"
+  - linked_list_og-title: "AI Pin: From Promise to Reality in Personal Computing"
+  - linked_list_og-description: "Explore the challenges and innovations behind the AI Pin as co-founders navigate product criticism and pivot to an AI operating system."
+  - linked_list_og-image: "https://eay.cc/wordpress/uploads/og-cache/96ab6c11935ff6e8e5f21f2a212c7aef.webp"
 ---
 
 _Was macht eigentlich [Humane](https://humane.com/), die Firma hinter dem [gescheiterten AI Pin](https://www.theverge.com/24126502/humane-ai-pin-review)?_

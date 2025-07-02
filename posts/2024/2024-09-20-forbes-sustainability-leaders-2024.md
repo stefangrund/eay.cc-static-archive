@@ -22,6 +22,9 @@ meta:
   - geo_public: "1"
   - yourls_shorturl: "https://eay.li/3s6"
   - _share_on_mastodon_url: "https://eay.social/@eay/113168903018516976"
+  - linked_list_og-title: "Forbes Sustainability Leaders 2024 - Sustainability Across Sectors"
+  - linked_list_og-description: "Forbes spotlights entrepreneurs, scientists, philanthropists, corporate leaders and policymakers focused on sustainable practices and environmentally friendly solutions."
+  - linked_list_og-image: "https://eay.cc/wordpress/uploads/og-cache/737d10e2ee8b53acb9172dc5aa1ed10c.webp"
 ---
 
 > For the first time, Forbes is highlighting 50 superstar entrepreneurs, scientists, funders, policymakers and activists who are leading the charge to combat the climate crisis with real, tangible impact.

@@ -21,6 +21,9 @@ meta:
   - geo_longitude: "6.683028"
   - geo_public: "1"
   - yourls_shorturl: "https://eay.li/3my"
+  - linked_list_og-title: "My Father’s Death in 7 Gigabytes"
+  - linked_list_og-description: "Dad spent decades writing weird, experimental literature. His last wish: Upload it all to the Internet Archive."
+  - linked_list_og-image: "https://eay.cc/wordpress/uploads/og-cache/302ce2d0e9d9f461818a97b73ed3024d.webp"
 ---
 
 > \[Paul Ford's\] Dad spent decades writing weird, experimental literature. His last wish: Upload it all to the Internet Archive.

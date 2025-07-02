@@ -19,4 +19,4 @@ meta:
 
 Es folgt ein bemerkenswerter Ausschnitt aus Werner Herzogs 1999er Doku [Mein liebster Feind](http://de.wikipedia.org/wiki/Mein_liebster_Feind), der [Klaus Kinski](http://de.wikipedia.org/wiki/Klaus_Kinski) ungewohnt ausgeglichen zeigt. Quasi das direkte Kontrastprogramm zu Kinskis [Wutausbruch am Set von Herzogs Fitzcarraldo](http://www.youtube.com/watch?v=75ADI9p2wHY).
 
-\[youtube id="ZNSfiho54rM"\]
+\[youtube id="-n2kcLAYQBs"\]

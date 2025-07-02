@@ -21,6 +21,9 @@ meta:
   - content_copy: "https://twitter.com/eay/status/1501899341082112003"
   - content_copy: "https://twitter.com/eay/status/1502669045426003974"
   - yourls_shorturl: "https://eay.li/3hf"
+  - linked_list_og-title: "Bundle for Ukraine by Necrosoft Games and 738 others"
+  - linked_list_og-description: "Bundle for Ukraine: 998 items for $10.00"
+  - linked_list_og-image: "https://eay.cc/wordpress/uploads/og-cache/71e7c9cad075d7d91e1adc94be44f106.webp"
 ---
 
 Sehr cool und unterstützenswert. 992 Items, davon 573 Games, im Wert von 6.553$ für nur 10$ (oder gerne mehr). Alle Käufe werden zu 100% gespendet.

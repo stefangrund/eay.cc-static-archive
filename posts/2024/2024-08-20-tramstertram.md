@@ -20,7 +20,6 @@ meta:
   - geo_public: "1"
   - yourls_shorturl: "https://eay.li/3rw"
   - _share_on_mastodon_url: "https://eay.social/@eay/112993956540227489"
-  - _share_on_mastodon: "0"
 ---
 
 ![](https://eay.cc/uploads/2024/tramstertram.png "Screenshot of the browser game Tramstertram")

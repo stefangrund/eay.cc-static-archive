@@ -19,7 +19,6 @@ meta:
   - geo_public: "1"
   - yourls_shorturl: "https://eay.li/3r5"
   - _share_on_mastodon_url: "https://eay.social/@eay/112489114767706080"
-  - _share_on_mastodon: "1"
 ---
 
 Nachdem Kevin Kelly zu seinem 68. Geburtstag [68 Lebensweisheiten](https://eay.cc/2020/68-bits-of-unsolicited-advice/), dann [nochmal 99](https://eay.cc/2021/99-additional-bits-of-unsolicited-advice/) und schließlich [ein Buch](https://www.amazon.de/exec/obidos/ASIN/0593654528/eayznet-21) (Partnerlink) daraus veröffentlicht hat, lieferte er zu seinem 73. Geburtstag im letzten Monat nun nochmal 101 nach. (Seltsamerweise auf X und nicht in seinem Blog gepostet.)

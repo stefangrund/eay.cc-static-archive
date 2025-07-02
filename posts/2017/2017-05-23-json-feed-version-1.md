@@ -17,6 +17,11 @@ tags:
 meta:
   - linked_list_url: "https://jsonfeed.org/version/1"
   - yourls_shorturl: "https://eay.li/2yy"
+  - linked_list_og-title: "JSON Feed - JSON Feed Version 1"
+  - linked_list_og-description: "by Brent Simmons and Manton Reece
+There is a new version available: JSON Feed Version 1.1
+The JSON Feed format is a pragmatic syndication format, like RSS and Atom, but with one big difference: it’s JSON instead of XML.
+For most developers, JSON is far easier to read and write than XML. Develop..."
 ---
 
 [Brent Simmons](http://inessential.com/) und [Manton Reece](http://manton.org/) haben einen neuen Feed-Standard spezifiziert, der die Arbeit mit diversen News-, Blog- und Whatever-Feeds erleichtern soll, indem auf JSON anstelle von XML gesetzt wird, das bei RSS und Atom zum Einsatz kommt.

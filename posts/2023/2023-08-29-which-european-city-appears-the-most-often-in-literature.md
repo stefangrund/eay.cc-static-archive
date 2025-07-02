@@ -21,7 +21,6 @@ meta:
   - geo_public: "1"
   - _share_on_mastodon_url: "https://eay.social/@eay/110972136215369015"
   - yourls_shorturl: "https://eay.li/3nq"
-  - _share_on_mastodon: "1"
 ---
 
 It is what you think it is. (via [Ligne Claire](https://ligneclaire.de/links-28-august-2023))

@@ -20,6 +20,9 @@ meta:
   - geo_longitude: "6.683065"
   - geo_public: "1"
   - yourls_shorturl: "https://eay.li/3km"
+  - linked_list_og-title: "Why the super rich are inevitable"
+  - linked_list_og-description: "Why some mathematicians argue the economy is designed to create a few super rich people – unless we stop it."
+  - linked_list_og-image: "https://eay.cc/wordpress/uploads/og-cache/51efe4dd90564e897bea86bf0949b40a.webp"
 ---
 
 > Why do super rich people exist in a society?

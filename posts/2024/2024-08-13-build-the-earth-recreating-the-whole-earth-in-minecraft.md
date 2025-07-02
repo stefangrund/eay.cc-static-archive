@@ -22,7 +22,6 @@ meta:
   - geo_public: "1"
   - yourls_shorturl: "https://eay.li/3rp"
   - _share_on_mastodon_url: "https://eay.social/@eay/112954140140561943"
-  - _share_on_mastodon: "0"
 ---
 
 > We want to create a complete 1:1 scale replicate of every building on Earth in the computer game Minecraft, a virtual copy of our whole world that showcases the diversity of culture and living space on our planet and stands as a testament for what we can achieve when we work together as a global humanity.

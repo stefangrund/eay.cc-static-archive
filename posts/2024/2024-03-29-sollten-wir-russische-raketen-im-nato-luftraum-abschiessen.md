@@ -21,6 +21,9 @@ meta:
   - geo_public: "1"
   - yourls_shorturl: "https://eay.li/3qg"
   - _share_on_mastodon_url: "https://eay.social/@eay/112177456895243805"
+  - linked_list_og-title: "Sollten wir russische Raketen im NATO Luftraum abschießen? - Berlin Story News"
+  - linked_list_og-description: "Seit der Invasion der Ukraine durch Russland gab es mehrere Vorfälle, bei welche russische Drohnen, Hubschrauber oder Raketen in den polnischen NATO-Luftraum eindrangen. Könnte und sollte man diese einfach abschießen? Welche technischen, militärischen und politischen Gründe sprechen dafür o..."
+  - linked_list_og-image: "https://eay.cc/wordpress/uploads/og-cache/6ab3a546795bca568005760e7bf3d12d.webp"
 ---
 
 [Enno Lenze](https://ennolenze.de/) beantwortet eine Frage, die ihr euch vielleicht auch gestellt habt, als in der letzten Woche [eine russische Rakete den polnischen Luftraum verletzt hat](https://www.tagesschau.de/newsticker/liveblog-ukraine-sonntag-404.html).

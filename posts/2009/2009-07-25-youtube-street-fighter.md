@@ -23,6 +23,6 @@ Scheint zwar schon was älter zu sein, aber ich bin gerade erst drauf gestoßen 
 
 Keine Ahnung, was das heißen soll? Ausprobieren, es ist grandios! Im folgenden der Startbildschirm, wo ein erster Gegner ausgewählt wird. Viel Spaß beim Zocken!
 
- ([YouTube Direktstartbildschirm](http://www.youtube.com/watch?v=LPQ1XrllZmA), [via](http://blog.otakumag.com/post/148888906/youtube-street-fighter-by-patrickboivin))
+\[youtube id="LPQ1XrllZmA"\]
 
 **Update:** Boivin hat noch mehr interaktive YouTube-Spielchen am Start. Etwa einen B-Boy-Battle zwischen dem Joker und Batman. Hier [eine Übersicht](http://www.youtube.com/user/PatrickBoivin#grid/user/4B4F0DC9B1F5B376).

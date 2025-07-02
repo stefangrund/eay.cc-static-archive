@@ -22,7 +22,9 @@ meta:
   - geo_public: "1"
   - yourls_shorturl: "https://eay.li/3qf"
   - _share_on_mastodon_url: "https://eay.social/@eay/112175780449169622"
-  - _share_on_mastodon: "1"
+  - linked_list_og-title: "GitHub - akirk/enable-mastodon-apps: Allow accessing your WordPress blog with Mastodon clients"
+  - linked_list_og-description: "Allow accessing your WordPress blog with Mastodon clients - akirk/enable-mastodon-apps"
+  - linked_list_og-image: "https://eay.cc/wordpress/uploads/og-cache/bbf6fc21d26bcafa4a358dd3c914da57.webp"
 ---
 
 > Allow accessing your WordPress with Mastodon clients. Just enter your own blog URL as your instance.

@@ -21,7 +21,9 @@ meta:
   - yourls_shorturl: "https://eay.li/3o1"
   - _share_on_mastodon_url: "https://eay.social/@eay/111198298915637487"
   - content_copy: "https://bsky.app/profile/eay.social/post/3kb7yvy224n2p"
-  - _share_on_mastodon: "0"
+  - linked_list_og-title: "Bezel • Mirror any iPhone on your Mac"
+  - linked_list_og-description: "Bezel mirrors any iPhone onto your Mac by just plugging it in. Beautifully designed for Mac, with ease of use in mind."
+  - linked_list_og-image: "https://eay.cc/wordpress/uploads/og-cache/32eef44fab5bd589e8035432e16d30c8.webp"
 ---
 
 > Bezel is the easiest way to view, present and record an iPhone.

@@ -19,9 +19,11 @@ meta:
   - geo_latitude: "0.0"
   - geo_longitude: "0.0"
   - geo_public: "1"
-  - _share_on_mastodon: "1"
   - yourls_shorturl: "https://eay.li/3pw"
   - _share_on_mastodon_url: "https://eay.social/@eay/111917337595239368"
+  - linked_list_og-title: "We need to talk about digital ownership"
+  - linked_list_og-description: ""Ownership" means ten different things to ten different people. Let's talk about what we actually want."
+  - linked_list_og-image: "https://eay.cc/wordpress/uploads/og-cache/ed9f8c7592bfab6e345d3783259a16bf.webp"
 ---
 
 > „Ownership“ means ten different things to ten different people. Let’s talk about what we actually want.

@@ -21,7 +21,6 @@ meta:
   - yourls_shorturl: "https://eay.li/3n1"
   - content_copy: "https://eay.social/@eay/110612758998202256"
   - content_copy: "https://eay.social/@eay/110671655193245110"
-  - _share_on_mastodon: "0"
 ---
 
 ![Three podcast app icons](https://eay.cc/uploads/2023/pocket-casts-in-purple.png)

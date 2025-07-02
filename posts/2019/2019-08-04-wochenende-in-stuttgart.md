@@ -10,7 +10,7 @@ format: "image"
 categories:
   - 0815
 tags:
-  - abalogleben
+  - analogleben
   - fotos
 meta:
   - content_copy: "https://instagram.com/p/B0whawaoLdM/"

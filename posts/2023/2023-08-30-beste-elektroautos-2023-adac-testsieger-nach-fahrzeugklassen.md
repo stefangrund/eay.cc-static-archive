@@ -20,7 +20,6 @@ meta:
   - yourls_shorturl: "https://eay.li/3nv"
   - _share_on_mastodon_url: "https://eay.social/@eay/110976949393079986"
   - content_copy: "https://staging.bsky.app/profile/eay.social/post/3k65pe6nnw62v"
-  - _share_on_mastodon: "0"
 ---
 
 Stellt sich heraus, ich fahre den Testsieger in seiner Klasse, namentlich den [Volvo C40 Pure Electric Single Motor Ultimate](https://www.adac.de/rund-ums-fahrzeug/autokatalog/marken-modelle/volvo/c40/1generation/323952/). (via [Thomas Gigold](https://gigold.me/links/die-besten-e-autos))

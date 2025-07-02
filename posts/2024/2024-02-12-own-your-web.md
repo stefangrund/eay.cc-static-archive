@@ -19,6 +19,9 @@ meta:
   - geo_public: "1"
   - yourls_shorturl: "https://eay.li/3px"
   - _share_on_mastodon_url: "https://eay.social/@eay/111917808097546390"
+  - linked_list_og-title: "Own Your Web"
+  - linked_list_og-description: "Own Your Web is a newsletter by Matthias Ott about designing, building, creating, and publishing for and on the Web. Every other week, I send out an exclusive email full of actionable insights, best practices, hacks, links, books, tools, and other high-quality insights I found or explored. Whethe..."
+  - linked_list_og-image: "https://eay.cc/wordpress/uploads/og-cache/ba9213d48f214075026403562cb4b75e.webp"
 ---
 
 > Own Your Web is a newsletter by [Matthias Ott](https://matthiasott.com/) about designing, building, creating, and publishing for and on the Web.

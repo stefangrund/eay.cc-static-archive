@@ -21,7 +21,9 @@ meta:
   - geo_public: "1"
   - yourls_shorturl: "https://eay.li/3q7"
   - _share_on_mastodon_url: "https://eay.social/@eay/112042044528535143"
-  - _share_on_mastodon: "1"
+  - linked_list_og-title: "Alternative App Marketplace  Setapp Mobile"
+  - linked_list_og-description: "MacPaw’s Setapp is the first subscription-based platform offering a curated collection of Mac and iOS apps to users."
+  - linked_list_og-image: "https://eay.cc/wordpress/uploads/og-cache/45c0bc541eb9336f821b51f4f4f3bd2e.webp"
 ---
 
 [MacPaw](https://macpaw.com/), die Entwickler von u.a. CleanMyMac, The Unarchiver und eben Anbieter des macOS-Software-Abos [Setapp](https://setapp.com/), haben gerade die Beta gestartet, um ihr Software-Netflix mit den kurz bevor­stehenden Änderungen von [iOS 17.4](https://eay.cc/2024/ios-17-4/) in der EU auf iOS zu bringen. Spannend und – nach Jahren des Nicht-Abonnierens – ein Grund für mich wieder einen Blick auf Setapp zu werfen.

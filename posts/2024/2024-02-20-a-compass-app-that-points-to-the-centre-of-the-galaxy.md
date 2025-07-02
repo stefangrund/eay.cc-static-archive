@@ -21,7 +21,9 @@ meta:
   - geo_public: "1"
   - yourls_shorturl: "https://eay.li/3q1"
   - _share_on_mastodon_url: "https://eay.social/@eay/111962784971768423"
-  - _share_on_mastodon: "1"
+  - linked_list_og-title: "New app! A compass that points to the centre of the galaxy"
+  - linked_list_og-description: "Posted on Thursday 15 Feb 2024. 1,675 words, 12 links. By Matt Webb."
+  - linked_list_og-image: "https://eay.cc/wordpress/uploads/og-cache/ae7bc960d4d25e1f3966f0620fbddcaa.webp"
 ---
 
 > Hey I made an app! It's a green floating arrow that always points to the middle of the Milky Way.

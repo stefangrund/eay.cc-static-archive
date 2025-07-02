@@ -16,6 +16,9 @@ tags:
 meta:
   - linked_list_url: "https://github.com/zzanehip/The-OldOS-Project"
   - yourls_shorturl: "https://eay.li/2or"
+  - linked_list_og-title: "GitHub - zzanehip/The-OldOS-Project: Recreating a fully functional version of iOS 4 in SwiftUI."
+  - linked_list_og-description: "Recreating a fully functional version of iOS 4 in SwiftUI.  - GitHub - zzanehip/The-OldOS-Project: Recreating a fully functional version of iOS 4 in SwiftUI."
+  - linked_list_og-image: "https://eay.cc/wordpress/uploads/og-cache/cbb901d200a12cd5f31b35c153b7a6f4.webp"
 ---
 
 > OldOS is a testament to the days of yesteryear, showcasing what iOS once was ten years ago. The ethos of the app is to merge the technologies of today with a pixel-perfect recreation of the user experience of the past. The vast majority of apps in OldOS are fully functional — meaning they seamlessly integrate with the data on your phone to deliver a live, emulator-esque experience.

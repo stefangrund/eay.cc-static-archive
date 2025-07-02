@@ -16,7 +16,6 @@ tags:
   - technologie
 meta:
   - yourls_shorturl: "https://eay.li/2rx"
-  - _share_on_mastodon: "0"
 ---
 
 > The business plans of the next 10,000 startups are easy to forecast: _Take X and add AI_.

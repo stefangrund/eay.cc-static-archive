@@ -20,7 +20,6 @@ meta:
   - geo_public: "1"
   - yourls_shorturl: "https://eay.li/3q3"
   - _share_on_mastodon_url: "https://eay.social/@eay/112030858232391432"
-  - _share_on_mastodon: "1"
 ---
 
 ![](https://eay.cc/uploads/2024/banksy-ausstellung.jpg)

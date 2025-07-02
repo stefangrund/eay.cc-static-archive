@@ -24,7 +24,6 @@ meta:
   - content_copy: "https://eay.social/@eay/109219096583466988"
   - yourls_shorturl: "https://eay.li/3jh"
   - geo_address: "Vinzenz Pallotti Hospital, Bensberg"
-  - _share_on_mastodon: "0"
 ---
 
 ![](https://eay.cc/uploads/2022/ariane-gretchen.jpg)

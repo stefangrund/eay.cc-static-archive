@@ -19,6 +19,9 @@ meta:
   - linked_list_url: "https://arc.net/"
   - yourls_shorturl: "https://eay.li/3nd"
   - content_copy: "https://eay.social/@eay/110803293015245128"
+  - linked_list_og-title: "Arc from The Browser Company"
+  - linked_list_og-description: "Experience a calmer, more personal internet in this browser designed for you. Let go of the clicks, the clutter, the distractions."
+  - linked_list_og-image: "https://eay.cc/wordpress/uploads/og-cache/e6742480e9f8a7e610280195e77193e2.webp"
 ---
 
 Vor knapp einem Jahr habe ich meinen Desktop-Browser der Wahl (([Firefox](https://www.mozilla.org/de/firefox/new/) obviously; don't use Chrome!)) durch einen neuen, etwas anderen Browser namens “Arc” ersetzt. Der wird von der selbstbewusst betitelten [Browser Company of New York](https://thebrowser.company/) entwickelt und stellt allerlei Gewohnheiten, die wir seit Jahren bei unserer Browser­nutzung haben, in Frage und dafür viele neue Features bereit. Zum Beispiel gibt es lediglich eine Sidebar auf der linken Seite und kein alles überlagerndes Browser-UI über der Website. Es gibt eine hervorragende Command Bar, die in Sekunden­schnelle Websites im Splitscreen öffnet. Und neue Links aus anderen Anwendungen werden erstmal in einem kleinen Preview-Fenster namens “Little Arc” geöffnet, bevor man sich entscheidet, diese überhaupt ins große Fenster zu über­nehmen. Dazu gibt's mit s.g. Boosts die Möglichkeit Websites und Webapps komfortabel in Aussehen und Funktionalität anzupassen, und und und.

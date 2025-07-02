@@ -19,7 +19,6 @@ meta:
   - geo_public: "1"
   - yourls_shorturl: "https://eay.li/3nx"
   - _share_on_mastodon_url: "https://eay.social/@eay/111036079326583842"
-  - _share_on_mastodon: "1"
 ---
 
 > “It’s time for global leaders to start telling the truth,” said \[Andrew\] Weaver, a professor at the School of Earth and Ocean Sciences at the University of Victoria in Canada. “We will not limit warming to 1.5C; we will not limit warming to 2.0C. It’s all hands on deck now to prevent 3.0C global warming - a level of warming that will wreak havoc worldwide.”

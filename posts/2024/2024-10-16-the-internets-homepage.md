@@ -20,6 +20,9 @@ meta:
   - geo_public: "1"
   - yourls_shorturl: "https://eay.li/3sd"
   - _share_on_mastodon_url: "https://eay.social/@eay/113315166687380740"
+  - linked_list_og-title: "The internet’s homepage"
+  - linked_list_og-description: "Kevin Rose talks the history, legacy, and maybe future of Digg."
+  - linked_list_og-image: "https://eay.cc/wordpress/uploads/og-cache/e216262ed83563ec1e732538c7fe9458.webp"
 ---
 
 > How Digg helped invent the social internet

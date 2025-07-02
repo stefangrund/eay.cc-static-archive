@@ -21,7 +21,6 @@ meta:
   - geo_public: "1"
   - yourls_shorturl: "https://eay.li/3r6"
   - _share_on_mastodon_url: "https://eay.social/@eay/112507509850229398"
-  - _share_on_mastodon: "1"
 ---
 
 > Slash pages are common pages you can add to your website, usually with a standard, root-level slug like `/now`, `/about`, or `/uses`. They tend to describe the individual behind the site and are distinguishing characteristics of the IndieWeb.

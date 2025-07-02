@@ -18,9 +18,11 @@ meta:
   - geo_latitude: "53.930541"
   - geo_longitude: "11.381364"
   - geo_public: "1"
-  - _share_on_mastodon: "0"
   - yourls_shorturl: "https://eay.li/3sl"
   - _share_on_mastodon_url: "https://eay.social/@eay/113378955602852343"
+  - linked_list_og-title: "Bluesky Announces Series A to Grow Network of 13M+ Users - Bluesky"
+  - linked_list_og-description: "Bluesky now exceeds 13 million users, the AT Protocol developer ecosystem continues to grow, and we’ve shipped highly requested features like direct messages and video."
+  - linked_list_og-image: "https://eay.cc/wordpress/uploads/og-cache/620ce580885a62ca0f374cdef8723d0a.webp"
 ---
 
 [Speaking of Bluesky](https://eay.cc/2024/bluesky-custom-feed-zum-1-fc-koeln/): Dort hat man 15 Millionen US-Dollar an Venture Capital eingesammelt, um Protokoll/Plattform/App weiter ausbauen zu können. Halbwegs kritisch sieht man dann auch den führenden Investor, so dass man sich scheinbar gezwungen sah, sich gleich vom Crypto-Markt loszusagen:

@@ -21,6 +21,9 @@ meta:
   - geo_longitude: "6.683036"
   - geo_public: "1"
   - yourls_shorturl: "https://eay.li/3me"
+  - linked_list_og-title: "Apple previews Live Speech, Personal Voice, and more new accessibility features"
+  - linked_list_og-description: "Apple today previewed software features for cognitive, vision, hearing, and mobility accessibility, along with innovative tools for individuals who are nonspeaking or at risk of losing their ability to speak."
+  - linked_list_og-image: "https://eay.cc/wordpress/uploads/og-cache/cca8e10516966716508bc45670401b5e.webp"
 ---
 
 Apple hat heute im Rahmen des [Global Accessibility Awareness Day](https://accessibility.day/) neue Barriere­freiheits­funktionen angekündigt, die später in diesem Jahr (also mit iOS 17) veröffentlicht werden sollen. Darunter einige Features, wie reduzierte Home Screens und App-Interfaces, die Menschen mit kognitiven Ein­schrän­kungen helfen sollen, insbesondere weiterhin mit ihren Angehörigen kommunizieren zu können.

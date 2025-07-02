@@ -20,7 +20,9 @@ meta:
   - geo_public: "1"
   - yourls_shorturl: "https://eay.li/3p4"
   - _share_on_mastodon_url: "https://eay.social/@eay/111569510424295879"
-  - _share_on_mastodon: "0"
+  - linked_list_og-title: "Die Welt von TMNT | Stay Forever"
+  - linked_list_og-description: "Mit Rahel Schmitz und Mattes Penkert-Hennig"
+  - linked_list_og-image: "https://eay.cc/wordpress/uploads/og-cache/9b071ee74ab72290ea6b5feb2c57a32a.webp"
 ---
 
 Mir wurde zuletzt die obige Episode von [Stay Forever](https://www.stayforever.de/) empfohlen (_danke, Dominik!_), in der Mattes Penkert-Henning von [DeinAntiHeld](https://deinantiheld.de/author/mattes/), selbst [Podcaster bei POW!](https://pow-comicpodcast.de/) , in rund einer Stunde einen Überblick über die Teenage Mutant Ninja Turtles gibt und wie sich diese über verschiedene Medien hinweg in den letzten Jahren entwickelt haben.

@@ -20,7 +20,6 @@ meta:
   - geo_public: "1"
   - yourls_shorturl: "https://eay.li/3nt"
   - _share_on_mastodon_url: "https://eay.social/@eay/110975098289888335"
-  - _share_on_mastodon: "0"
 ---
 
 Nachdem ich bisher meine eigene "Blog → Mastodon"-Brücke genutzt habe, bin ich nun zu [Jan Boddez](https://jan.boddez.net/)'s hervorragendem ["Share on Mastodon"-Plugin für WordPress](https://jan.boddez.net/wordpress/share-on-mastodon) gewechselt.

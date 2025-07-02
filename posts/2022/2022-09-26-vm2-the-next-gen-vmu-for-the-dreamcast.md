@@ -23,6 +23,9 @@ meta:
   - geo_longitude: "6.683011"
   - geo_public: "1"
   - yourls_shorturl: "https://eay.li/3j3"
+  - linked_list_og-title: "VM2: The Next-Gen VMU for the Dreamcast"
+  - linked_list_og-description: "Micro-SD storage. Upgraded LCD. Embedded Battery. USB-C port. | Check out 'VM2: The Next-Gen VMU for the Dreamcast' on Indiegogo."
+  - linked_list_og-image: "https://eay.cc/wordpress/uploads/og-cache/3a130491aebdf4c738a8c138181fb732.webp"
 ---
 
 Bereits finanzierte Crowdfunding-Kampagne für eine zeitgemäße, mit MicroSD und USB-C ausgestattete Version der [Visual Memory Unit](https://de.wikipedia.org/wiki/Visual_Memory), der kurisosen Handheld-Memory-Card der Sega Dreamcast.

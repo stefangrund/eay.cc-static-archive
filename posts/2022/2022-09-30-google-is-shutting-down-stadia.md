@@ -20,6 +20,9 @@ meta:
   - geo_longitude: "6.683089"
   - geo_public: "1"
   - yourls_shorturl: "https://eay.li/3j8"
+  - linked_list_og-title: "Google is shutting down Stadia"
+  - linked_list_og-description: "Google’s cloud gaming service launched three years ago."
+  - linked_list_og-image: "https://eay.cc/wordpress/uploads/og-cache/846fe727dfb6ea729291547eb0cad048.webp"
 ---
 
 Ich hatte Stadia 2019 [vorbestellt und dann gecancelt](https://eay.cc/2019/status-2019-06-07-1820/). Technologisch sicher eine Leistung, als Produkt jedoch Totalversagen.

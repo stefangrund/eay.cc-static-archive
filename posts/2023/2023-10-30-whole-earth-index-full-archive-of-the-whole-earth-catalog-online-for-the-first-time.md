@@ -25,7 +25,9 @@ meta:
   - geo_public: "1"
   - yourls_shorturl: "https://eay.li/3of"
   - _share_on_mastodon_url: "https://eay.social/@eay/111326311078497742"
-  - _share_on_mastodon: "1"
+  - linked_list_og-title: "Whole Earth Index"
+  - linked_list_og-description: "Here lies a nearly-complete archive of Whole Earth publications, a series of journals and magazines descended from the Whole Earth Catalog, published by Stewart Brand and the POINT Foundation between 1968 and 2002."
+  - linked_list_og-image: "https://eay.cc/wordpress/uploads/og-cache/7dddcdfd4a497e6aaffa92773779afb1.webp"
 ---
 
 > Here lies a nearly-complete archive of Whole Earth publications, a series of journals and magazines descended from the Whole Earth Catalog, published by [Stewart Brand](https://en.wikipedia.org/wiki/Stewart_Brand) and the [POINT Foundation](https://en.wikipedia.org/wiki/Point_Foundation_(environment)) between 1970 and 2002.

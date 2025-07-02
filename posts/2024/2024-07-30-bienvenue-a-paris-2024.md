@@ -22,7 +22,6 @@ meta:
   - yourls_shorturl: "https://eay.li/3rl"
   - _share_on_mastodon_url: "https://eay.social/@eay/112877559329135271"
   - content_copy: "https://www.instagram.com/p/C-D-V1HskMt/"
-  - _share_on_mastodon: "1"
 ---
 
 ![Collage von unserem Besuch im St. Nautique Vaires-sur-Marne](https://eay.cc/uploads/2024/paris-2024.jpg)

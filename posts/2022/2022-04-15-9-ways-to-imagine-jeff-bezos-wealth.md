@@ -20,6 +20,9 @@ meta:
   - geo_longitude: "6.683294"
   - geo_public: "1"
   - yourls_shorturl: "https://eay.li/3hm"
+  - linked_list_og-title: "9 Ways to Imagine Jeff Bezos’ Wealth"
+  - linked_list_og-description: "A fortune of $172 billion is almost impossible to fathom. For the magazine’s Money Issue, the artist Mona Chalabi came up with some extremely original comparisons."
+  - linked_list_og-image: "https://eay.cc/wordpress/uploads/og-cache/586ab48ae9e5985c9eb06e3cf37d84de.webp"
 ---
 
 Die Datenjournalistin und Künstlerin [Mona Chalabi](https://monachalabi.com/) hat für die New York Times illustriert, _wie_ reich der Amazon-Gründer ist. (via [Kottke](https://kottke.org/22/04/visualizing-how-rich-jeff-bezos-is))

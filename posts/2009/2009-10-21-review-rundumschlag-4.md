@@ -7,6 +7,8 @@ slug: "review-rundumschlag-4"
 url: "https://eay.cc/2009/review-rundumschlag-4/"
 author: "eay"
 format: "post"
+categories:
+  - 0815
 tags:
   - adam-sandler
   - animationsfilm
@@ -16,6 +18,7 @@ tags:
   - komoedie
   - pixar
   - romantic-comedy
+  - seth-rogen
 meta:
   - yourls_shorturl: "https://eay.li/an"
 ---

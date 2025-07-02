@@ -21,7 +21,6 @@ meta:
   - _share_on_mastodon_url: "https://eay.social/@eay/111365991466861252"
   - yourls_shorturl: "https://eay.li/3oo"
   - yourls_shorturl: "https://eay.li/3oo"
-  - _share_on_mastodon: "1"
 ---
 
 **»Silo« Staffel 1** nach langer Unterbrechung doch noch zu Ende geguckt. Unterbrechung weil nach dem guten Start so viel Spannung rausge­nommen wurde, dass es war als würde man selbst seit Jahrzehnten in einem eintönigen Silo leben. Die letzten Episoden dann wieder deutlich besser. Bonuspunkt für mich: Ausgang frühzeitig richtig erraten. Insgesamt: \[rating value=6 inline=true\]

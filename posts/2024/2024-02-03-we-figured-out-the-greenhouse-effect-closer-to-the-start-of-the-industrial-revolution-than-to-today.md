@@ -19,7 +19,6 @@ meta:
   - geo_longitude: "6.682999"
   - yourls_shorturl: "https://eay.li/3pn"
   - _share_on_mastodon_url: "https://eay.social/@eay/111864743137698237"
-  - _share_on_mastodon: "1"
 ---
 
 [![Screenshot of description of the xkcd comic with the text 'We figured out the greenhouse effect closer to the start of the industrial revolution than to today.'](https://eay.cc/uploads/2024/xkcd-greenhouse.png)](https://xkcd.com/2889/)

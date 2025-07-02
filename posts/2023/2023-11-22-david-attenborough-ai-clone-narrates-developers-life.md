@@ -20,7 +20,9 @@ meta:
   - geo_public: "1"
   - yourls_shorturl: "https://eay.li/3ox"
   - _share_on_mastodon_url: "https://eay.social/@eay/111452829385050916"
-  - _share_on_mastodon: "1"
+  - linked_list_og-title: "Unauthorized “David Attenborough” AI clone narrates developer’s life, goes viral"
+  - linked_list_og-description: "“We observe the sophisticated Homo sapiens engaging in the ritual of hydration.”…"
+  - linked_list_og-image: "https://eay.cc/wordpress/uploads/og-cache/1425f118216daa2c117f94eb9e3320b8.webp"
 ---
 
 > We observe the sophisticated Homo sapiens engaging in the ritual of hydration.

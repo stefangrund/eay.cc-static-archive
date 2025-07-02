@@ -57,7 +57,7 @@ function collectPosts (data, config) {
         format: getPostFormat(post),
         categories: getCategories(post),
         tags: getTags(post),
-        meta: getPostMeta(post)
+        meta: getPostMeta(post, config)
       },
       content: translator.getPostContent(post, turndownService, config)
     }))
@@ -124,19 +124,32 @@ function getTags (post) {
   return items.join('')
 }
 
-function getPostMeta (post) {
+function getPostMeta (post, config) {
+  // Get ignored keys from config
+  const configIgnoredKeys = config && config.ignoreMetaKeys ? 
+    config.ignoreMetaKeys.split(',').map(key => key.trim()).filter(key => key.length > 0) : 
+    []
+  
   let items = post.postmeta.map((item) => {
-    if (item.meta_key[0].includes('utw_tags') ||
-				item.meta_key[0] === 'enclosure' ||
-				item.meta_key[0] === '_mini_post' ||
-				item.meta_key[0] === '_wp_old_slug' ||
-				item.meta_key[0] === '_wp_old_date' ||
-				item.meta_key[0] === 'custom_script' ||
-				item.meta_key[0] === '_edit_last') {
+    const metaKey = item.meta_key[0]
+    
+    // Check hardcoded ignored keys
+    if (metaKey.includes('utw_tags') ||
+				metaKey === 'enclosure' ||
+				metaKey === '_mini_post' ||
+				metaKey === '_wp_old_slug' ||
+				metaKey === '_wp_old_date' ||
+				metaKey === 'custom_script' ||
+				metaKey === '_edit_last') {
       return null
-    } else {
-      return `  - ${item.meta_key[0]}: "${item.meta_value[0]}"\n`
     }
+    
+    // Check config-based ignored keys
+    if (configIgnoredKeys.includes(metaKey)) {
+      return null
+    }
+    
+    return `  - ${metaKey}: "${item.meta_value[0]}"\n`
   })
   items = items.filter(item => item != null)
   return items.join('')

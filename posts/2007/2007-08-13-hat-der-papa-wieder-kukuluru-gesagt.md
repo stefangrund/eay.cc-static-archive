@@ -7,6 +7,8 @@ slug: "hat-der-papa-wieder-kukuluru-gesagt"
 url: "https://eay.cc/2007/hat-der-papa-wieder-kukuluru-gesagt/"
 author: "eay"
 format: "post"
+categories:
+  - 0815
 tags:
   - bizarres
   - konsum
@@ -17,4 +19,4 @@ meta:
 
 Wenn ja, dann hat der Papa ganz bestimmt so gut wie gar keine Tasse mehr im Schrank und sollte schleunigst von der Autobahn runter fahren und ein Tabaluga-Raststätten-Kids-Menü futtern. Aber egal wer oder was ein Kukuluru ist, ich find's herrlich.
 
- ([YouTube Direktkukuluru](http://www.youtube.com/watch?v=woQ2QS7HxGA))
+\[youtube id="6kM32F1sVnI"\]

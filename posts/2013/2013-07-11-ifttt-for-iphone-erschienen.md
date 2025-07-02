@@ -11,6 +11,7 @@ categories:
   - 0815
 tags:
   - apps
+  - automation
   - ifttt
   - ios
   - iphone

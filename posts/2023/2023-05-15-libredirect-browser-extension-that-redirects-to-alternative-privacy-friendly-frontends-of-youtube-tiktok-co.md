@@ -21,6 +21,8 @@ meta:
   - yourls_shorturl: "https://eay.li/3md"
   - content_copy: "https://eay.social/@eay/110375046199319447"
   - content_copy: "https://bsky.app/profile/eay.social/post/3jvsfvq7zee2b"
+  - linked_list_og-title: "LibRedirect - Privacy-friendly Redirector"
+  - linked_list_og-description: "A web extension that redirects YouTube, Twitter, Instagram, etc. requests to alternative privacy-friendly frontends"
 ---
 
 [Via René](https://flip.de/libredirect-leitet-auf-datenschutzfreundliche-frontends-um/), der direkt auch auf einen sehr netten Nebeneffekt hinweist: "Auf der verlinkten Webseite bekommt man praktischerweise gleich eine schöne Übersicht, welche alternativen Dienste es gibt." Und dort habe ich dann von [ProxiTok](https://github.com/pablouser1/ProxiTok) erfahren, ein alternatives Frontend für – ihr ahnt es – TikTok, das auch gleich RSS-Feeds anbietet.

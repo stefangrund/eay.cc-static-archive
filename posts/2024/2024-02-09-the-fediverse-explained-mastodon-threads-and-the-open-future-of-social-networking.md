@@ -21,7 +21,9 @@ meta:
   - geo_public: "1"
   - yourls_shorturl: "https://eay.li/3pp"
   - _share_on_mastodon_url: "https://eay.social/@eay/111902465907627596"
-  - _share_on_mastodon: "0"
+  - linked_list_og-title: "The fediverse, explained"
+  - linked_list_og-description: "It’s Mastodon, it’s Threads, it’s the future, and it’s extremely confusing"
+  - linked_list_og-image: "https://eay.cc/wordpress/uploads/og-cache/ee33a9cdfb9e26a0b5720889b97f119d.webp"
 ---
 
 [David Pierce](https://mastodon.social/@davidpierce) erklärt in einem Dialog nochmal, was es mit dem Fediverse auf sich hat.

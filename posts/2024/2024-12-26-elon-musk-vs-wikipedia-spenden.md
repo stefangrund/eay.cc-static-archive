@@ -18,7 +18,6 @@ meta:
   - geo_public: "1"
   - yourls_shorturl: "https://eay.li/3tt"
   - _share_on_mastodon_url: "https://eay.social/@eay/113716595868741914"
-  - _share_on_mastodon: "1"
 ---
 
 _Und [weiter](https://eay.cc/2024/elon-musk-die-afd/) geht es:_

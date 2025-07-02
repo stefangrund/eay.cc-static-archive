@@ -23,6 +23,9 @@ meta:
   - geo_public: "1"
   - yourls_shorturl: "https://eay.li/3ot"
   - _share_on_mastodon_url: "https://eay.social/@eay/111407766140706871"
+  - linked_list_og-title: "Threads: The inside story of Meta’s newest social app"
+  - linked_list_og-description: "Earlier this year, a small team of engineers at Meta started working on an idea for a new app. It would have all the features people expect from a text-based conversations app, but with one very ke…"
+  - linked_list_og-image: "https://eay.cc/wordpress/uploads/og-cache/6f96df31000a23987a926e35f6605a01.webp"
 ---
 
 From Meta's engineering blog. At least they continue to talk explicitly about ActivityPub and the Fediverse. However, no mention of the EU launch.

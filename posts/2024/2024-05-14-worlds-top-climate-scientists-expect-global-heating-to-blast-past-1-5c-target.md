@@ -20,7 +20,9 @@ meta:
   - geo_public: "1"
   - yourls_shorturl: "https://eay.li/3r1"
   - _share_on_mastodon_url: "https://eay.social/@eay/112437924210482012"
-  - _share_on_mastodon: "1"
+  - linked_list_og-title: "World’s top climate scientists expect global heating to blast past 1.5C target"
+  - linked_list_og-description: "Exclusive: Planet is headed for at least 2.5C of heating with disastrous results for humanity, poll of hundreds of scientists finds"
+  - linked_list_og-image: "https://eay.cc/wordpress/uploads/og-cache/f31fec30ef65923d81c6cf9f7469d66c.webp"
 ---
 
 > Planet is headed for at least 2.5C of heating with disastrous results for humanity, poll of hundreds of scientists finds

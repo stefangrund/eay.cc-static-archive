@@ -1,5 +1,5 @@
 ---
-title: "Thomas Gottschalk wechselt zu RTL und wird dort neben Dieter Bohlen in der âSupertalentâ-Jury sitzen"
+title: "Thomas Gottschalk wechselt zu RTL und wird dort neben Dieter Bohlen in der »Supertalent«-Jury sitzen"
 date: "2012-06-22"
 datetime: "2012-06-22 11:53:50"
 id: "22667"
@@ -16,6 +16,9 @@ tags:
 meta:
   - yourls_shorturl: "https://eay.li/1x0"
   - linked_list_url: "http://www.dwdl.de/nachrichten/36430/rtl_bestaetigt_verpflichtung_von_thomas_gottschalk/"
+  - linked_list_og-title: "RTL bestätigt Verpflichtung von Thomas Gottschalk - DWDL.de"
+  - linked_list_og-description: "Spektakulärer Personalcoup von RTL-Chefin Anke Schäferkordt: Nach dem gescheiterten Vorabend-Experiment wechselt Thomas Gottschalk zu RTL und wird neben Dieter Bohlen in der "Supertalent"-Jury sitzen. Das Format soll überarbeitet werden."
+  - linked_list_og-image: "https://eay.cc/wordpress/uploads/og-cache/89f5d506fdd8011fc3581a8b8a76718b.webp"
 ---
 
 Nicht, dass das irgendwie wichtig wäre. Aber es ist interessant zu sehen, wie Gottschalk seine eigene Karriere immer weiter sabotiert.

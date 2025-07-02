@@ -1,25 +1,25 @@
 {
-	"name": "eay.cc-static-archive",
-	"version": "1.0.0",
-	"description": "A static archive of eay.cc with all posts as static site generator compatible markdown files.",
-	"repository": "https://github.com/stefangrund/eay.cc-static-archive.git",
-	"scripts": {
-		"build": "node ./scripts/wordpress-export-to-markdown/index.js --wizard=false --input=export.xml --output=posts --year-folders=true --month-folders=false --post-folders=false --prefix-date=true --save-attached-images=false --save-scraped-images=false"
-	},
-	"author": "Stefan Grund <stefan@grund.email> (https://stefangrund.eu/)",
-	"license": "CC BY-NC-ND 3.0",
-	"engines": {
-		"node": ">= 18.17.0"
-	},
-	"devDependencies": {
-		"camelcase": "^6.0.0",
-		"chalk": "^4.1.0",
-		"commander": "^5.1.0",
-		"inquirer": "^7.2.0",
-		"luxon": "^1.28.1",
-		"request": "^2.88.2",
-		"request-promise-native": "^1.0.8",
-		"turndown": "^6.0.0",
-		"xml2js": "^0.4.23"
-	}
+  "name": "eay.cc-static-archive",
+  "version": "1.1.0",
+  "description": "A static archive of eay.cc with all posts as static site generator compatible markdown files.",
+  "repository": "https://github.com/stefangrund/eay.cc-static-archive.git",
+  "scripts": {
+    "build": "node ./scripts/wordpress-export-to-markdown/index.js --wizard=false --input=export.xml --output=posts --year-folders=true --month-folders=false --post-folders=false --prefix-date=true --save-attached-images=false --save-scraped-images=false --ignore-meta-keys \"_share_on_mastodon,bcc_checks_scheduled\""
+  },
+  "author": "Stefan Grund (https://stefangrund.eu/)",
+  "license": "CC BY-NC-ND 4.0",
+  "engines": {
+    "node": ">= 18.17.0"
+  },
+  "devDependencies": {
+    "camelcase": "^6.0.0",
+    "chalk": "^4.1.0",
+    "commander": "^5.1.0",
+    "inquirer": "^7.2.0",
+    "luxon": "^1.28.1",
+    "request": "^2.88.2",
+    "request-promise-native": "^1.0.8",
+    "turndown": "^6.0.0",
+    "xml2js": "^0.4.23"
+  }
 }

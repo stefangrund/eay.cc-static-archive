@@ -18,7 +18,6 @@ tags:
   - system-of-a-down
 meta:
   - yourls_shorturl: "https://eay.li/2xq"
-  - _share_on_mastodon: "0"
 ---
 
 Schöner [Hashtag bei Twitter](https://twitter.com/hashtag/YourFirstAmazonOrder) für etwas persönliche Webnostalgie (und Verwunderung wie spät manch einer Amazon erst für sich entdeckt hat). Meine erste Bestellung ging am 25. November 2002 raus und umfasste zwei Mal die damals frisch erschienene System of a Down-Platte "[Steal this Album](http://www.amazon.de/exec/obidos/ASIN/B001HZFLVK/eayznet-21)" zum Preis von je 14,99 Euro. Eine CD war für mich, die andere für meine damalige Freundin – und jetzige Frau. 😄

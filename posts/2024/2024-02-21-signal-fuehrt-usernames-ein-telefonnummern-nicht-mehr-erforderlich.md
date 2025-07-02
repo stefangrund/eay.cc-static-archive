@@ -21,7 +21,9 @@ meta:
   - geo_public: "1"
   - yourls_shorturl: "https://eay.li/3q2"
   - _share_on_mastodon_url: "https://eay.social/@eay/111972037528046900"
-  - _share_on_mastodon: "1"
+  - linked_list_og-title: "Keep your phone number private with Signal usernames"
+  - linked_list_og-description: "Signal’s mission and sole focus is private communication. For years, Signal has kept your messages private, your profile information (like your name and profile photo) private, your contacts private, and your groups private – among much else. Now we’re taking that one step further, by makin..."
+  - linked_list_og-image: "https://eay.cc/wordpress/uploads/og-cache/ef1e86f28b0decedc32e46776d944255.webp"
 ---
 
 Gute Änderung, die lange auf sich hat warten lassen. Usernames lassen sich – auch ein schönes Privacy-Feature – beliebig oft ändern. Für den Moment ist meiner `stefan.85`. Hier könnt ihr die dazugehörigen neuen Links ausprobieren und [mir direkt auf Signal schreiben](https://eay.li/signal).

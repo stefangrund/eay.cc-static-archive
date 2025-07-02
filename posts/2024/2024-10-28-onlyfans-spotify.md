@@ -21,7 +21,6 @@ meta:
   - geo_public: "1"
   - yourls_shorturl: "https://eay.li/3so"
   - _share_on_mastodon_url: "https://eay.social/@eay/113387524714432964"
-  - _share_on_mastodon: "1"
 ---
 
 > Imagine being an artist and having nearly 8 million monthly listeners on Spotify but earning more money from having 1,000 people subscribe to pictures of your feet. [#](https://x.com/lilyallen/status/1849803776753893639)

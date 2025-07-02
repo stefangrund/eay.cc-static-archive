@@ -18,6 +18,8 @@ meta:
   - geo_longitude: "6.683028"
   - geo_public: "1"
   - yourls_shorturl: "https://eay.li/3mz"
+  - linked_list_og-title: "Treat your to-read pile like a river | Oliver Burkeman"
+  - linked_list_og-image: "https://eay.cc/wordpress/uploads/og-cache/deb3bf678e0396096b829f36aed80670.webp"
 ---
 
 > This means treating your "to read" pile like a river (a stream that flows past you, and from which you pluck a few choice items, here and there) instead of a bucket (which demands that you empty it).

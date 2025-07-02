@@ -20,7 +20,6 @@ meta:
   - geo_public: "1"
   - yourls_shorturl: "https://eay.li/3sz"
   - _share_on_mastodon_url: "https://eay.social/@eay/113460797971343241"
-  - _share_on_mastodon: "1"
 ---
 
 ![Screenshots der Kennzeichen-Wiki-App.](https://eay.cc/uploads/2024/kennzeichen-wiki.png)

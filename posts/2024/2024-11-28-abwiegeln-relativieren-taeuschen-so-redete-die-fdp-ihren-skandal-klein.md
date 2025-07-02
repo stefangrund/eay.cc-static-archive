@@ -20,7 +20,6 @@ meta:
   - geo_public: "1"
   - yourls_shorturl: "https://eay.li/3tg"
   - _share_on_mastodon_url: "https://eay.social/@eay/113562476568334805"
-  - _share_on_mastodon: "1"
 ---
 
 > "Es ist Wahlkampf. Wo ist die Nachricht?", "Ich halte das für eine glatte Lüge.", "Dieser Begriff wurde nicht genutzt."

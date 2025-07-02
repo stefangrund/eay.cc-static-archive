@@ -20,6 +20,9 @@ meta:
   - geo_public: "1"
   - yourls_shorturl: "https://eay.li/3tr"
   - _share_on_mastodon_url: "https://eay.social/@eay/113712937544472065"
+  - linked_list_og-title: "86 Stories Of Progress From 2024"
+  - linked_list_og-description: "Not everything that happened this year was terrible."
+  - linked_list_og-image: "https://eay.cc/wordpress/uploads/og-cache/fe6795e6ed130ecdfa6dcae868ed5316.webp"
 ---
 
 > Not everything that happened this year was terrible.

@@ -22,7 +22,9 @@ meta:
   - geo_public: "1"
   - yourls_shorturl: "https://eay.li/3od"
   - _share_on_mastodon_url: "https://eay.social/@eay/111319649900585543"
-  - _share_on_mastodon: "0"
+  - linked_list_og-title: "The poster’s guide to the internet of the future"
+  - linked_list_og-description: "The best of blogging meets the best of social media."
+  - linked_list_og-image: "https://eay.cc/wordpress/uploads/og-cache/4c4dcc6ef2ed7091d2393df8d3a22ef5.webp"
 ---
 
 > The platform era is ending. Rather than build new Twitters and Facebooks, we can create a stuff-posting system that works better for everybody.

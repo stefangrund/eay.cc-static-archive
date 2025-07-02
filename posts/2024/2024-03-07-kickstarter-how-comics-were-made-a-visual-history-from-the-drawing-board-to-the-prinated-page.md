@@ -23,7 +23,6 @@ meta:
   - geo_public: "1"
   - yourls_shorturl: "https://eay.li/3qa"
   - _share_on_mastodon_url: "https://eay.social/@eay/112053531838284641"
-  - _share_on_mastodon: "1"
 ---
 
 ![Cover des Buchs »How Comics Were Made«](https://eay.cc/uploads/2024/how-comics-were-made.jpg)

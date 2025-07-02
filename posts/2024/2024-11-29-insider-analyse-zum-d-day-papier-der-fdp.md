@@ -22,7 +22,6 @@ meta:
   - geo_public: "1"
   - yourls_shorturl: "https://eay.li/3th"
   - _share_on_mastodon_url: "https://eay.social/@eay/113568698300158773"
-  - _share_on_mastodon: "1"
 ---
 
 > Krise 101 sagt: Nicht lügen, und wenn man doch lügt und dabei auffällt, nicht weiterlügen. So gesehen bin ich ganz gespannt, wie lange sie das durchziehen wollen.

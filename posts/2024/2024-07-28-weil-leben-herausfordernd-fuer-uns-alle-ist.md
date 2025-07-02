@@ -20,7 +20,6 @@ meta:
   - geo_public: "1"
   - yourls_shorturl: "https://eay.li/3rk"
   - _share_on_mastodon_url: "https://eay.social/@eay/112863010178442402"
-  - _share_on_mastodon: "1"
 ---
 
 [In der »Haken dran«-Folge von Mittwoch](https://hakendran.podigee.io/313-wie-joe-biden-auf-x-bekannt-gab-mit-nora-hespers) geht es u.a. um Elon Musks verquere Meinung in Bezug auf seine Tochter, die als Junge geboren wurde und später geschlechtsangleichende Maßnahmen hat durchführen lassen. Musk hat sich dazu [im Interview mit Jordan Peterson](https://open.spotify.com/episode/7yAYrfaI28hevsGHBQUYzJ) (([Jordan Peterson](https://de.wikipedia.org/wiki/Jordan_Peterson) selbst ist auch eine überaus problematische Figur. Er vertritt fragwürdige Geschlechterrollenbilder und Erziehungsansätze, leugnet den Klimawandel und gibt sich dabei den Anschein eines Wissenschaftlers und Intellektuellen. Siehe z.B. auch den Artikel ["Wolf im Schafspelz: Was macht Jordan Peterson so gefährlich?" auf Moment.at](https://www.moment.at/story/was-macht-jordan-peterson/).)) (Spotify-Link ((Warum bietet Spotify solchen Meinungen eigentlich eine Plattform?)), ab 01:44:11) ausge­tauscht und davon gesprochen, dass sein Sohn \[sic!\] tot für ihn sei und er das "woke mind virus", das seinen Sohn getötet habe, nun bekämpfen wolle.

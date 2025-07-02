@@ -7,11 +7,13 @@ slug: "seth-macfarlanes-cavalcade-of-web-tv"
 url: "https://eay.cc/2008/seth-macfarlanes-cavalcade-of-web-tv/"
 author: "eay"
 format: "post"
+categories:
+  - 0815
 tags:
   - cartoons
   - family-guy
   - netzkultur
-  - seth-macfarlance
+  - seth-macfarlane
   - youtube
 meta:
   - yourls_shorturl: "https://eay.li/5m"

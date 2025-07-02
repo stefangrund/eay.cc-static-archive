@@ -16,7 +16,6 @@ tags:
 meta:
   - linked_list_url: "https://www.playerone.de/2018/09/19/sony-bringt-mini-playstation-mit-20-spielen/"
   - yourls_shorturl: "https://eay.li/36s"
-  - _share_on_mastodon: "0"
 ---
 
 Verständlich, dass sie an den Erfolg von Nintendos [Mini-NES](https://www.amazon.de/exec/obidos/ASIN/B01IFJEWTM/eayznet-21) und [Mini-SNES](https://www.amazon.de/exec/obidos/ASIN/B073BVHY3F/eayznet-21) anknüpfen wollen, unverständlich dass sie den selben Fehler machen und nur auf vorinstallierte Spiele setzen, anstatt direkt einen Download-Shop zu implementieren und dort klassische PSX-Spiele verkaufen.

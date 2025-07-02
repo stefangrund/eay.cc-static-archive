@@ -19,6 +19,9 @@ meta:
   - geo_longitude: "6.68307"
   - geo_public: "1"
   - yourls_shorturl: "https://eay.li/3hi"
+  - linked_list_og-title: "Russians Are Racing to Download Wikipedia Before It Gets Banned"
+  - linked_list_og-description: "They’re joining doomsday preppers, scientists in Antarctica, and others who have long used a service for people with low or no internet access."
+  - linked_list_og-image: "https://eay.cc/wordpress/uploads/og-cache/43979ee00e51b71e0592b5a6679da8d9.webp"
 ---
 
 > [Andy Baio](https://waxy.org/2022/03/russians-are-racing-to-download-wikipedia-before-its-banned/): The 29 GB torrent was downloaded 106k times in the first half of March, a 4,000% increase since January.

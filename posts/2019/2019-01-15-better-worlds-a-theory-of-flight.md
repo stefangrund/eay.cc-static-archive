@@ -21,7 +21,6 @@ meta:
   - yourls_shorturl: "https://eay.li/38m"
   - content_copy: "https://twitter.com/eay/status/1085070747050086400"
   - content_copy: "https://eay.social/@eay/101436332878040808"
-  - _share_on_mastodon: "0"
 ---
 
 Heute ist die erste Kurzgeschichte „A Theory of Flight“ von [Justina Ireland](http://justinaireland.com/) in The Verges neuer Science-Fiction-Serie „[Better Worlds](https://www.theverge.com/2018/12/5/18055980/better-worlds-science-fiction-short-stories-video)“ erschienen, in der es um illegale Open-Source-Raketen zur Flucht von der Erde geht.

@@ -17,7 +17,6 @@ meta:
   - geo_longitude: "11.459263"
   - geo_public: "1"
   - content_copy: "https://www.instagram.com/p/CzEP-NcsTwc/"
-  - _share_on_mastodon: "0"
   - yourls_shorturl: "https://eay.li/3oh"
   - _share_on_mastodon_url: "https://eay.social/@eay/111330102137334648"
   - content_copy: "https://bsky.app/profile/eay.social/post/3kd2kidjwsk2n"

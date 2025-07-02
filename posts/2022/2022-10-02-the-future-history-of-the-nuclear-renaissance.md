@@ -21,6 +21,8 @@ meta:
   - geo_longitude: "6.683088"
   - geo_public: "1"
   - yourls_shorturl: "https://eay.li/3ja"
+  - linked_list_og-title: "The Future History of the Nuclear Renaissance With Isabelle Boemeke"
+  - linked_list_og-image: "https://eay.cc/wordpress/uploads/og-cache/1f234a6b8f2ba84b48f9a69593d64db2.webp"
 ---
 
 Fiktives Interview mit der echten Atomkraft­befürworterin [Isabelle Boemeke](https://twitter.com/isabelleboemeke) aus dem Jahr 2053.

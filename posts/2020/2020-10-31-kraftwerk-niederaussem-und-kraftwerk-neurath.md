@@ -10,6 +10,7 @@ format: "image"
 categories:
   - 0815
 tags:
+  - bergheim
   - fotos
   - oberaussem-niederaussem
 meta:

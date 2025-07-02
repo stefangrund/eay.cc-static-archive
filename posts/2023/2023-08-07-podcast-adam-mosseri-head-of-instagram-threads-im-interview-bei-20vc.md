@@ -23,6 +23,9 @@ meta:
   - geo_public: "1"
   - yourls_shorturl: "https://eay.li/3nf"
   - content_copy: "https://eay.social/@eay/110850645435303452"
+  - linked_list_og-title: "20VC: Instagram CEO, Adam Mosseri on Threads: The Journey from 0-100M Users; What Worked, What Di..."
+  - linked_list_og-description: "Adam Mosseri is the Head of Instagram, where he is responsible for overseeing the engineering, product, and business teams."
+  - linked_list_og-image: "https://eay.cc/wordpress/uploads/og-cache/562ef9750b324a3072e9975ebb6db5bd.webp"
 ---
 
 Interessantes Interview, das einige überraschende Einblicke in Instagram (z.B. dass der Foto-Feed nur noch der dritt meistgenutzten _Ort_ in Instagram ist, nach den DMs und Stories) und den Start von Threads gibt.

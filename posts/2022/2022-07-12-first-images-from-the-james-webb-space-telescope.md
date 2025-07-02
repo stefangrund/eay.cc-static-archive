@@ -18,6 +18,9 @@ meta:
   - geo_longitude: "6.683082"
   - geo_public: "1"
   - yourls_shorturl: "https://eay.li/3ie"
+  - linked_list_og-title: "Webb Image Galleries - NASA Science"
+  - linked_list_og-description: "Webb's most recent images released by NASA in 2025, displayed in reverse chronological order."
+  - linked_list_og-image: "https://eay.cc/wordpress/uploads/og-cache/caca698fe5ba843eb98970e19c889120.webp"
 ---
 
 > These first images from the world’s largest and most powerful space telescope demonstrate Webb at its full power, ready to begin its mission to unfold the infrared universe.

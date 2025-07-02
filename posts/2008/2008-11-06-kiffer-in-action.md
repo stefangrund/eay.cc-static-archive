@@ -7,11 +7,14 @@ slug: "kiffer-in-action"
 url: "https://eay.cc/2008/kiffer-in-action/"
 author: "eay"
 format: "post"
+categories:
+  - 0815
 tags:
   - drogen
   - filme
   - judd-apatow
   - kinolog
+  - seth-rogen
 meta:
   - yourls_shorturl: "https://eay.li/t9"
 ---

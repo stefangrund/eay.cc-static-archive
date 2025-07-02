@@ -19,7 +19,6 @@ meta:
   - geo_longitude: "6.683"
   - yourls_shorturl: "https://eay.li/3pl"
   - _share_on_mastodon_url: "https://eay.social/@eay/111849569400077677"
-  - _share_on_mastodon: "1"
 ---
 
 ![Poem/1 vor einem grauen Hintergrund mit dem Anzeige ‚With steam that rises, a cup so fine, / Nine forty-one, it's coffee time.‘ auf dem Display.](https://eay.cc/uploads/2024/poem-1.jpg)

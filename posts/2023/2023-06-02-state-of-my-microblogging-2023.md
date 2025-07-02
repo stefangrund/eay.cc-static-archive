@@ -19,7 +19,6 @@ meta:
   - yourls_shorturl: "https://eay.li/3mq"
   - content_copy: "https://eay.social/@eay/110477006408519760"
   - _mentionme_tries: "1"
-  - _share_on_mastodon: "0"
 ---
 
 You should follow me on...

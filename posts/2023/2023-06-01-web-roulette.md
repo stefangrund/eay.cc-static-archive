@@ -19,6 +19,19 @@ meta:
   - geo_public: "1"
   - yourls_shorturl: "https://eay.li/3mo"
   - content_copy: "https://eay.social/@eay/110470952352556122"
+  - linked_list_og-title: "‎Web Roulette!"
+  - linked_list_og-description: "‎Web Roulette is simple and fun to play with like all good toys. Just swipe and shake.
+
+1. Swipe through your favorite sites
+2. Shake when bored for a surprise webpage!
+
+But it's also your new main mobile browser.
+
+NO typing your next page
+NO page loading times (precached!)
+NO tab management
+NO..."
+  - linked_list_og-image: "https://eay.cc/wordpress/uploads/og-cache/beae45bdcd56cd76251e966b01477c3d.webp"
 ---
 
 > When you check the internet, do you mindlessly and randomly bounce back and forth your favorite sites hoping for fresh interesting content?

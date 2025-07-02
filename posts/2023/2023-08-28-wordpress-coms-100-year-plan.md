@@ -15,9 +15,11 @@ tags:
   - wordpress
 meta:
   - linked_list_url: "https://wordpress.com/blog/2023/08/25/introducing-the-100-year-plan/"
-  - _share_on_mastodon: "1"
   - _share_on_mastodon_url: "https://eay.social/@eay/110968515663180779"
   - yourls_shorturl: "https://eay.li/3no"
+  - linked_list_og-title: "Your Home for a Century: Our 100-Year Domains and Plans"
+  - linked_list_og-description: "Meet our 100-Year Domains and 100-Year Plan, here to help you secure your digital legacy long-term."
+  - linked_list_og-image: "https://eay.cc/wordpress/uploads/og-cache/048de6ae51c2e5fcc8e4a7c546d2b0bb.webp"
 ---
 
 Automattic bietet jetzt hundert Jahre Hosting an. Kostenpunkt 38.000 US-Dollar.

@@ -20,7 +20,6 @@ meta:
   - geo_public: "1"
   - yourls_shorturl: "https://eay.li/3pe"
   - _share_on_mastodon_url: "https://eay.social/@eay/111749110385735248"
-  - _share_on_mastodon: "1"
 ---
 
 > The map is showing birthplaces of the most "notable people" around the world. Data has been processed to show only one person for each unique geographic location with the highest notability rank.

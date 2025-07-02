@@ -22,7 +22,9 @@ meta:
   - geo_public: "1"
   - yourls_shorturl: "https://eay.li/3pu"
   - _share_on_mastodon_url: "https://eay.social/@eay/111914638287272770"
-  - _share_on_mastodon: "1"
+  - linked_list_og-title: "20 Years of Significant Moments in Flickr’s Development"
+  - linked_list_og-description: "The celebration of Flickr’s 20th birthday begins today! To celebrate this huge milestone, we’re taking a trip down memory lane to explore all of the technological and structural moments…"
+  - linked_list_og-image: "https://eay.cc/wordpress/uploads/og-cache/ac90f8d328d735d74afc7a87a23397e4.webp"
 ---
 
 [Speaking of Stewart Butterfield](https://eay.cc/2024/slack-ist-ein-akronym/): Flickr ist gestern 20 Jahre alt geworden.

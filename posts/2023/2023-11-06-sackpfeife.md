@@ -18,7 +18,6 @@ meta:
   - geo_public: "1"
   - yourls_shorturl: "https://eay.li/3op"
   - _share_on_mastodon_url: "https://eay.social/@eay/111366018061887272"
-  - _share_on_mastodon: "0"
 ---
 
 ![Straßenschild mit Sackpfeife](https://eay.cc/uploads/2023/sackpfeife.jpg)

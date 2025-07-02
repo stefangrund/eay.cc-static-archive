@@ -20,6 +20,9 @@ meta:
   - geo_longitude: "6.683018"
   - geo_public: "1"
   - yourls_shorturl: "https://eay.li/3lz"
+  - linked_list_og-title: "Bill Gates tries to install Movie Maker"
+  - linked_list_og-description: "I am quite disappointed at how Windows Usability has been going backwards and the program management groups don't drive usability issues."
+  - linked_list_og-image: "https://eay.cc/wordpress/uploads/og-cache/7889f44149b7a789a102b3d842b74295.webp"
 ---
 
 Interne E-Mail vom 15.01.2003, die das 2000er Microsoft in a nutshell aufzeigt:

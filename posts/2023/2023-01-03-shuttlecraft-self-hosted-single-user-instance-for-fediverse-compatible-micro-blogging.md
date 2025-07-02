@@ -23,6 +23,7 @@ meta:
   - yourls_shorturl: "https://eay.li/3kr"
   - content_copy: "https://eay.social/@eay/109627949206061640"
   - content_copy: "https://twitter.com/eay/status/1610421360316014595"
+  - linked_list_og-title: "SHUTTLECRAFT - Run your own social media"
 ---
 
 > It's a small, "easy to host" web app that contains almost everything you need to host your own personal "instance" of a federated ActivityPub server. Your shuttlecraft hosts your social media identity, along with the tools to post, follow, and interact with other people on any other compatible service like Mastodon, GoToSocial, and others.

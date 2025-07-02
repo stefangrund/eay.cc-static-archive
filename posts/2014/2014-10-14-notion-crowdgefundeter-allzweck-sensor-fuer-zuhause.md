@@ -10,11 +10,13 @@ format: "link"
 categories:
   - 0815
 tags:
+  - automation
   - crowdfunding
   - home-automation
   - internet-of-things
   - kickstarter
   - sensoren
+  - smarthome
 meta:
   - yourls_shorturl: "https://eay.li/2jg"
   - linked_list_url: "https://www.kickstarter.com/projects/1044009888/notion-be-home-even-when-youre-not"

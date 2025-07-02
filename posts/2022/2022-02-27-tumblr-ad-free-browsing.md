@@ -21,6 +21,10 @@ meta:
   - geo_longitude: "6.683049"
   - geo_public: "1"
   - yourls_shorturl: "https://eay.li/3ha"
+  - linked_list_og-title: "This is 100% new and 100% Tumblr with 0% ads."
+  - linked_list_og-description: "If you love ads, then this post is not for you. If you love Tumblr but hate ads and want the one to continue without having to endure the other, then this post is literally for you. Hello, you.
+As of..."
+  - linked_list_og-image: "https://eay.cc/wordpress/uploads/og-cache/26d618d6b0f87e7f1e2fc792a9405668.webp"
 ---
 
 Tumblr führt einen Paid-Tier ein, der für 5 Dollar/Monat oder 40 Dollar/Jahr die Werbung auf der Plattform ausschaltet. Fairer Preis. Würde ich Tumblr [noch](https://eay.cc/2013/the-best-tumblelog-in-the-universe/) nutzen, würde ich das auf jeden Fall abschließen. Twitter sollte sich hieran ein Beispiel nehmen und das eigene, bisher recht witzlose [Twitter Blue](https://help.twitter.com/de/using-twitter/twitter-blue) durch Werbefreiheit aufwerten (und dann hierzulande verfügbar machen und 5 Euro/Monat an mir verdienen).

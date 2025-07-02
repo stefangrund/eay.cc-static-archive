@@ -22,7 +22,9 @@ meta:
   - geo_public: "1"
   - yourls_shorturl: "https://eay.li/3qn"
   - _share_on_mastodon_url: "https://eay.social/@eay/112263193198925042"
-  - _share_on_mastodon: "0"
+  - linked_list_og-title: "Dark Visitors - Track the AI Agents and Bots Crawling Your Website"
+  - linked_list_og-description: "Get realtime insight into the hidden ecosystem of crawlers, scrapers, and AI agents browsing your website"
+  - linked_list_og-image: "https://eay.cc/wordpress/uploads/og-cache/7bbf806f67e8a38fe29b29535d06bbcf.webp"
 ---
 
 Die Fortführung der [ChatGPT-Blockierungs­anweisung](https://eay.cc/2023/openais-gptbot-documentation-on-how-to-block-it-from-using-your-website/). Inklusive [per API](https://darkvisitors.com/docs/robots-txts-api) aktualisierbarer [robots.txt](https://darkvisitors.com/docs/set-up-a-robots-txt) und [WordPress-Plugin](https://darkvisitors.com/docs/set-up-a-robots-txt).

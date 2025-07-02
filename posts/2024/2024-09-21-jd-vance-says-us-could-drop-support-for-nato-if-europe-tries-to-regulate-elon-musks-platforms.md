@@ -24,6 +24,9 @@ meta:
   - geo_public: "1"
   - yourls_shorturl: "https://eay.li/3s7"
   - _share_on_mastodon_url: "https://eay.social/@eay/113177277858616391"
+  - linked_list_og-title: "JD Vance says US could veto NATO if Europe tries to regulate Elon Musk’s platforms"
+  - linked_list_og-description: "Republican vice presidential nominee says ‘Germans and other nations’ – not Russia – would ‘have to fund Ukraine’s reconstruction’"
+  - linked_list_og-image: "https://eay.cc/wordpress/uploads/og-cache/6c5bb50688a55b137717a106a7eeae69.webp"
 ---
 
 Wtf. Und in dem zitierten Interview sagt er noch vielen weiteren Unsinn.

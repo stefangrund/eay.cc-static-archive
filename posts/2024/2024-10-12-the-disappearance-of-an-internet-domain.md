@@ -20,7 +20,9 @@ meta:
   - geo_public: "1"
   - yourls_shorturl: "https://eay.li/3sc"
   - _share_on_mastodon_url: "https://eay.social/@eay/113296348905950690"
-  - _share_on_mastodon: "1"
+  - linked_list_og-title: "The Disappearance of an Internet Domain"
+  - linked_list_og-description: "How geopolitics can alter digital infrastructure"
+  - linked_list_og-image: "https://eay.cc/wordpress/uploads/og-cache/265f53fa647ad3a6804e9ca28aec0bb7.webp"
 ---
 
 > How geopolitics can alter digital infrastructure

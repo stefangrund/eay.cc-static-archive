@@ -21,7 +21,9 @@ meta:
   - geo_public: "1"
   - yourls_shorturl: "https://eay.li/3qs"
   - _share_on_mastodon_url: "https://eay.social/@eay/112296916809625631"
-  - _share_on_mastodon: "1"
+  - linked_list_og-title: "EchoFeed"
+  - linked_list_og-description: "Send your posts all over the web"
+  - linked_list_og-image: "https://eay.cc/wordpress/uploads/og-cache/51afe971b4e410a7068f827c9c126ff3.webp"
 ---
 
 Kleiner, feiner, neuer Webservice von [Robb Knight](https://rknight.me/), um Feeds zu Mastodon, Micro.blog, Bluesky, GitHub, Discord oder LinkAce zu crosszuposten. Formatierung ist dabei frei wählbar. Außerdem werden bei RSS- und Atom-Feeds namedspaced attributes und bei JSON-Feeds custom extensions [unterstützt](https://help.echofeed.app/variables/) ((Siehe z.B. [der hiesige JSON-Feed](https://eay.cc/feed/json/), der z.B. für jeden Post den Post Type (Post, Link, Status, usw.) und die Short-URL mit ausgibt.)). Etwas, was Tools wie IFTTT & Co. ohne Umwege schmerzlich vermissen lassen.

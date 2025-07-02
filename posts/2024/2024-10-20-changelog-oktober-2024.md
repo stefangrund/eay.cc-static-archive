@@ -18,7 +18,6 @@ meta:
   - geo_public: "1"
   - yourls_shorturl: "https://eay.li/3sg"
   - _share_on_mastodon_url: "https://eay.social/@eay/113340707625212682"
-  - _share_on_mastodon: "1"
 ---
 
 Ich habe heute mal ein paar Details am Blog angepasst:

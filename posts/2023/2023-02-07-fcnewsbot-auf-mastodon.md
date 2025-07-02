@@ -23,7 +23,9 @@ meta:
   - geo_longitude: "6.683058"
   - geo_public: "1"
   - yourls_shorturl: "https://eay.li/3lb"
-  - _share_on_mastodon: "0"
+  - linked_list_og-title: "FC News Bot (@fcnewsbot@eay.social)"
+  - linked_list_og-description: "6.16K Posts, 1 Following, 155 Followers · Inoffizieller Bot, der auf aktuelle Neuigkeiten rund um den 1. FC Köln verweist. 👨🏻‍💻 Aufgesetzt vom #effzeh-Fan @eay@eay.social mit Unterstützung von @ayacoo@mastodon.social."
+  - linked_list_og-image: "https://eay.cc/wordpress/uploads/og-cache/ec77ac52c4d3a6883670b8bc799fdfbe.webp"
 ---
 
 In Anbetracht der [bevorstehenden](https://eay.cc/2023/twitter-api-wird-kostenpflichtig/) (oder auch [nicht mehr bevorstehenden](https://stadt-bremerhaven.de/twitter-api-bots-mit-guten-inhalten-sollen-sie-doch-weiter-kostenlos-nutzen/)) API-Veränderungen bei Twitter habe ich meinen beliebten [Twitter-Bot @fcnewsbot](https://twitter.com/fcnewsbot), der Neuigkeiten rund um den 1. FC Köln postet, zu einem echten Mastodon-Bot ausgebaut. Bisher wurden lediglich die Tweets rüber syndiziert, nun werden sie zusätzlich zu Twitter auch direkt zu Mastodon gepostet. Damit ist es komplett egal, was drüben bei Elmo passiert.

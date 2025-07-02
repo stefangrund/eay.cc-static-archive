@@ -19,7 +19,6 @@ meta:
   - geo_public: "1"
   - yourls_shorturl: "https://eay.li/3qv"
   - _share_on_mastodon_url: "https://eay.social/@eay/112344970268495193"
-  - _share_on_mastodon: "1"
 ---
 
 ![](https://eay.cc/uploads/2024/millennial-captcha.jpg)

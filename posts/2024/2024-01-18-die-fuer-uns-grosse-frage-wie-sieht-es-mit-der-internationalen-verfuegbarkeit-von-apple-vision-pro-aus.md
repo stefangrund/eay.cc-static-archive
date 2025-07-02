@@ -22,6 +22,9 @@ meta:
   - geo_public: "1"
   - yourls_shorturl: "https://eay.li/3pj"
   - _share_on_mastodon_url: "https://eay.social/@eay/111775670577292121"
+  - linked_list_og-title: "Die (für uns) große Frage: Wie sieht es mit der internationalen Verfügbarkeit von Apple Vision..."
+  - linked_list_og-description: "Keine Preview-Party und ungewöhnliche Pressearbeit: Am Dienstag schrieben The Verge und Engadget über eine vierte In-House-Demonstration von Apple Vision Pro. Andere Journalist:innen schreiben erst später darüber? Dürfen erst später publizieren oder entschieden sich für „Frage …"
+  - linked_list_og-image: "https://eay.cc/wordpress/uploads/og-cache/939edfd0000662442c9cab880ee9b83b.webp"
 ---
 
 Alex geht der Frage nach, wann die Vision Pro hierzulande erscheinen könnte.

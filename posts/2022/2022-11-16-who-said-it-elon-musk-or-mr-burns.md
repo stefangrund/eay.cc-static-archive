@@ -19,6 +19,9 @@ meta:
   - geo_longitude: "6.683038"
   - geo_public: "1"
   - yourls_shorturl: "https://eay.li/3jy"
+  - linked_list_og-title: "Who Said It: Elon Musk or Mr. Burns?"
+  - linked_list_og-description: "The Simpsons character and the guy ruining Twitter often sound a lot alike."
+  - linked_list_og-image: "https://eay.cc/wordpress/uploads/og-cache/ca672ffa66ab4a3732c6cd6907f7c850.webp"
 ---
 
 The New Republic mit einem spannenden und erschreckenden Quiz:

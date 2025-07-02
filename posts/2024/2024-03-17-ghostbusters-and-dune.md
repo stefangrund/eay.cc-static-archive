@@ -22,7 +22,6 @@ meta:
   - geo_public: "1"
   - yourls_shorturl: "https://eay.li/3qc"
   - _share_on_mastodon_url: "https://eay.social/@eay/112112515785645647"
-  - _share_on_mastodon: "1"
 ---
 
 ![Dr. Manhattan is thinking about buying Ghostbusters and Dune tickets in several decades.](https://eay.cc/uploads/2024/ghostbusters-dune.jpg)

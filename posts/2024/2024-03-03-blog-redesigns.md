@@ -18,7 +18,6 @@ tags:
 meta:
   - yourls_shorturl: "https://eay.li/3q4"
   - _share_on_mastodon_url: "https://eay.social/@eay/112032852643606204"
-  - _share_on_mastodon: "1"
   - content_copy: "https://eay.social/@eay/112032877381297835"
 ---
 
