@@ -49,7 +49,11 @@ The compatility with static site generators was tested with [Eleventy](https://g
 
 Dear future self,
 
-I hope you are well! In order to update the static copy of your blog, you'll need to export your blog posts from WordPress and place the XML file it creates as `export.xml` in the root directory over here. After this you can run `npm run build` to generate all the Markdown files.
+I hope you are well! In order to update the static copy of your blog, you'll need to export your blog posts from WordPress and place the XML file it creates as `export.xml` in the root directory over here. After this you can run this to generate all the Markdown files:
+
+```
+npm run build
+```
 
 Best regards,
 _Vergangenheitsstefan_
