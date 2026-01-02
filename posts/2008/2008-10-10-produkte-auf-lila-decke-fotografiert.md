@@ -7,12 +7,15 @@ slug: "produkte-auf-lila-decke-fotografiert"
 url: "https://eay.cc/2008/produkte-auf-lila-decke-fotografiert/"
 author: "eay"
 format: "post"
+categories:
+  - 0815
 tags:
   - album
   - buecher
   - ghvc
   - konsum
   - musik
+  - prokrastination
   - sascha-lobo
   - studium
   - tomte

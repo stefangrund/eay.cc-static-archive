@@ -22,7 +22,6 @@ meta:
   - yourls_shorturl: "https://eay.li/3ui"
   - _share_on_mastodon_url: "https://eay.social/@eay/114000607968593835"
   - content_copy: "https://bsky.app/profile/eay.social/post/3li4i722ctq2a"
-  - bcc_last_updated: "2025-03-27 00:14:34"
 ---
 
 Full quote of [a short, horrifying Kottke post](https://kottke.org/25/02/0046213-on-a-scale-of-10):

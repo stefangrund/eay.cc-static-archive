@@ -10,6 +10,7 @@ format: "post"
 categories:
   - 0815
 tags:
+  - best-of
   - ninja-turtles
   - parodie
   - saturday-night-live

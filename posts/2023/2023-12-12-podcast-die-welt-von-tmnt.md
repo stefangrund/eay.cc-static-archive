@@ -10,6 +10,7 @@ format: "link"
 categories:
   - 0815
 tags:
+  - best-of
   - comics
   - ninja-turtles
   - podcast

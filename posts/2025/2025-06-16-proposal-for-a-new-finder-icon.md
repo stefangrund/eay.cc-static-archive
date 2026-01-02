@@ -24,7 +24,6 @@ meta:
   - linked_list_og-description: "I would like to present, in response to the widely criticized Finder icon in macOS Tahoe Developer Beta 1, the icon I created in literally fifteen minutes."
   - linked_list_og-image: "https://eay.cc/wordpress/uploads/og-cache/aa0b1dd1fbab3453e20321cd40f56d4c_upload.webp"
   - content_copy: "https://bsky.app/profile/eay.social/post/3lrqvjap4mf26"
-  - bcc_last_updated: "2025-06-16 23:26:45"
 ---
 
 > Apple could very easily keep the icon’s historical appearance without compromising the Liquid Glass aesthetic by just… flipping the color palette.

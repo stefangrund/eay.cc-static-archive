@@ -22,7 +22,6 @@ meta:
   - yourls_shorturl: "https://eay.li/3vp"
   - _share_on_mastodon_url: "https://eay.social/@eay/114618327716945813"
   - content_copy: "https://bsky.app/profile/eay.social/post/3lqosizgfmv2z"
-  - bcc_last_updated: "2025-06-03 10:05:07"
   - linked_list_og-title: "Kagi status update: First three years | Kagi Blog"
   - linked_list_og-description: "Three years ago, Kagi officially launched with a splash on popular technology forum Hacker News (to which we are eternally grateful for helping put Kagi on the map)."
   - linked_list_og-image: "https://eay.cc/wordpress/uploads/og-cache/282b022d5691f2969a6d157c9f9110e4_upload.webp"

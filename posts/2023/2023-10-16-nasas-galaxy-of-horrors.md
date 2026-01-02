@@ -10,6 +10,7 @@ format: "link"
 categories:
   - 0815
 tags:
+  - best-of
   - horror
   - nasa
   - poster
@@ -22,6 +23,9 @@ meta:
   - geo_public: "1"
   - yourls_shorturl: "https://eay.li/3o5"
   - _share_on_mastodon_url: "https://eay.social/@eay/111241986230158437"
+  - linked_list_og-title: "Galaxy of Horrors - NASA Science"
+  - linked_list_og-description: "Take a tour of some of the most terrifying and mind-blowing destinations in our galaxy … and beyond."
+  - linked_list_og-image: "https://eay.cc/wordpress/uploads/og-cache/ebc6acbb527d7061c7f204666aa94da5.webp"
 ---
 
 ![](https://eay.cc/uploads/2023/galaxy-of-horrors.jpg)

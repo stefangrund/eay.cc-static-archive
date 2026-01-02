@@ -22,7 +22,6 @@ meta:
   - yourls_shorturl: "https://eay.li/3ut"
   - _share_on_mastodon_url: "https://eay.social/@eay/114206404370666797"
   - content_copy: "https://bsky.app/profile/eay.social/post/3lkxuro47rv23"
-  - bcc_last_updated: "2025-03-26 23:23:27"
 ---
 
 ![Screenshot der App PDF Squeezer, das die erfolgreiche starke Komprimierung eines PDFs zeigt. Die Dateigröße wurde von 315,7 MB auf 21,7 MB reduziert. Rechts sind Metadaten zur Originaldatei eingeblendet, darunter Seitenanzahl, Bildanzahl und Auflösungswerte.](https://eay.cc/uploads/2025/pdf-squeezer.png)

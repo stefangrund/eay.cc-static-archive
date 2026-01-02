@@ -22,6 +22,6 @@ meta:
 
 \[youtube id="5vS0zM6aLl0"\]
 
-Joko & Klaas haben ihre gewonnen 15 Sende­minuten auf ProSieben am Mittwoch­abend dazu genutzt, einer 23 jährigen, die einen schlimmen Corona-Verlauf hatte, sowie dem Oberarzt der Intensiv­station der Charité das Wort zu erteilen. Sie wandten sich mit warnenden Worten an die Zuschauer, bevor dann als dritter Redner über­raschender­weise der designierte Bundeskanzler Olaf Scholz zum Impfen aufrief.
+Joko & Klaas haben ihre gewonnenen 15 Sende­minuten auf ProSieben am Mittwoch­abend dazu genutzt, einer 23 jährigen, die einen schlimmen Corona-Verlauf hatte, sowie dem Oberarzt der Intensiv­station der Charité das Wort zu erteilen. Sie wandten sich mit warnenden Worten an die Zuschauer, bevor dann als dritter Redner über­raschender­weise der designierte Bundeskanzler Olaf Scholz zum Impfen aufrief.
 
 Eindrucksvoller Coup und nach “[Vermeidbares Leid](https://eay.cc/2021/vermeidbares-leid/)”, die zweite, sehr gute Corona-Aktion aus dem Hause [Florida](https://de.wikipedia.org/wiki/Florida_Entertainment) in nicht mal einer Woche.

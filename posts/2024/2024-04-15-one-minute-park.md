@@ -11,6 +11,7 @@ categories:
   - 0815
 tags:
   - natur
+  - single-serving-site
   - webservice
 meta:
   - linked_list_url: "https://sites.elliott.computer/one-minute-park/"
@@ -19,6 +20,9 @@ meta:
   - geo_public: "1"
   - yourls_shorturl: "https://eay.li/3qq"
   - _share_on_mastodon_url: "https://eay.social/@eay/112273743193822073"
+  - linked_list_og-title: "One Minute Park"
+  - linked_list_og-description: "available at a park near you"
+  - linked_list_og-image: "https://eay.cc/wordpress/uploads/og-cache/c44ecb40ac3d7aeabdf61209f45ae7e6.webp"
 ---
 
 > One Minute Park allows you to visit parks from around the world for one minute each. These are just one minute videos, not webcams. Eventually the project will fill in all the minutes (1440) in a day. You can [create your own One Minute Park](https://www.are.na/elliott-cost/one-minute-park) to help achieve this goal.

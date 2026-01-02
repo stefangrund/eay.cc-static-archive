@@ -23,7 +23,6 @@ meta:
   - yourls_shorturl: "https://eay.li/3v3"
   - _share_on_mastodon_url: "https://eay.social/@eay/114312165497114967"
   - content_copy: "https://bsky.app/profile/eay.social/post/3lmgtp4yvz42u"
-  - bcc_last_updated: "2025-04-10 07:22:03"
   - linked_list_og-title: "Full list of Trump’s tariffs: a country-by-country look after the 90-day pause"
   - linked_list_og-description: "Trump announced a pause for most countries – except China whose tariffs he raised to 125%"
   - linked_list_og-image: "https://eay.cc/wordpress/uploads/og-cache/ffa7b8fedf99819942ff4742fb242722.webp"

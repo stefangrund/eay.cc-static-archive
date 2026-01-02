@@ -26,7 +26,6 @@ meta:
   - linked_list_og-description: "Recorded in front of a live audience at The California Theatre in San Jose Tuesday evening, special guests Joanna Stern and Nilay Patel join John Gruber to d..."
   - linked_list_og-image: "https://eay.cc/wordpress/uploads/og-cache/15c37d421452a87e52c3fd4aaad883ac.webp"
   - content_copy: "https://bsky.app/profile/eay.social/post/3lrnu7u4hxo27"
-  - bcc_last_updated: "2025-06-15 18:27:29"
 ---
 
 Zur Vervollständigung der [WWDC-Woche](https://eay.cc/2025/everything-apple-plans-to-show-at-its-ios-26-focused-wwdc-2025-event/) gehört natürlich wie jedes Jahr die Live [Talk Show](https://daringfireball.net/thetalkshow/) von und mit John Gruber of [Daring Fireball](https://daringfireball.net/) ((Neuerdings mit der Tagline: "Very insightful and not negative".)). In den letzten zehn Jahren gaben sich dort die höchsten Executives von Apple die Klinke in die Hand, in diesem Jahr ist Gruber in Ungnade gefallen, nachdem er Demos und Marketing von Apple Intelligence, die im letzten Jahr angekündigt und in dem Umfang bisher nicht veröffentlicht wurden, in ["Something Is Rotten in the State of Cupertino"](https://daringfireball.net/2025/03/something_is_rotten_in_the_state_of_cupertino) zu Recht als [Vaporware](https://en.wikipedia.org/wiki/Vaporware) bezeichnete. Woraufhin man die Tradition seitens Apple nun brach und nicht mehr an dem Live-Podcast teilnahm.

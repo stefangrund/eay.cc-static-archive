@@ -19,12 +19,10 @@ meta:
   - geo_public: "1"
   - yourls_shorturl: "https://eay.li/3vz"
   - _share_on_mastodon_url: "https://eay.social/@eay/114745761571702499"
-  - _webmentioned: "a:1:{i:0;s:49:"https://www.manton.org/2025/06/25/cc-signals.html";}"
   - linked_list_og-title: "CC Signals: A New Social Contract for the Age of AI - Creative Commons"
   - linked_list_og-description: "TL;DR – What are CC signals? CC signals are a proposed framework to help content stewards express how they want their works used in AI training—emphasizing reciprocity, recognition, and sustainability in machine reuse. They aim to preserve open knowledge by encouraging responsible AI behavior..."
   - linked_list_og-image: "https://eay.cc/wordpress/uploads/og-cache/9656ae86cde0613da0e5f74ebfd5e2c9_upload.webp"
   - content_copy: "https://bsky.app/profile/eay.social/post/3lshffi7v6s2b"
-  - bcc_last_updated: "2025-06-25 22:11:15"
 ---
 
 [Creative Commons (CC)](https://creativecommons.org/), das Non-Profit hinter der gleichnamigen Lizenz, die auch beim hiesigen Content zum Einsatz kommt (und zwar [CC BY-NC-ND](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.de)), hat sich eine neue Lizenz ausgedacht, die definiert inwieweit die eigenen Inhalte für AI-Training genutzt werden dürfen:

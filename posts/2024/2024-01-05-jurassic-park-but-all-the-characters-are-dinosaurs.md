@@ -11,6 +11,7 @@ categories:
   - 0815
 tags:
   - artificial-intelligence
+  - best-of
   - fanart
   - filme
   - jurassic-park

@@ -24,7 +24,6 @@ meta:
   - yourls_shorturl: "https://eay.li/3uz"
   - _share_on_mastodon_url: "https://eay.social/@eay/114233160416044678"
   - content_copy: "https://bsky.app/profile/eay.social/post/3lldqywq6uj2d"
-  - bcc_last_updated: "2025-03-27 08:30:18"
   - linked_list_og-title: "„Digitale Bücherverbrennung“: Diese Menschen retten Daten vor der Trump-Zensur"
   - linked_list_og-description: "Brachial lässt Donald Trump Inhalte von Behörden löschen, die nicht seiner rechtsradikalen Ideologie entsprechen. Im Data Rescue Project archivieren Hunderte Freiwillige, was Trump vernichten will – und mittendrin ist ein Historiker aus Köln. Ein Interview."
   - linked_list_og-image: "https://eay.cc/wordpress/uploads/og-cache/881c6dea405515219b7db48d2ba1e9a5.webp"

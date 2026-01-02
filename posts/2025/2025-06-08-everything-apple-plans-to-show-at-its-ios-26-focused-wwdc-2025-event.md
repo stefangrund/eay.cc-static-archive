@@ -20,7 +20,6 @@ meta:
   - yourls_shorturl: "https://eay.li/3vt"
   - _share_on_mastodon_url: "https://eay.social/@eay/114647056085668475"
   - content_copy: "https://bsky.app/profile/eay.social/post/3lr3kqznpl62o"
-  - bcc_last_updated: "2025-06-08 11:49:08"
   - linked_list_og-description: "Company set to highlight software redesigns as it remains on sidelines of AI revolution."
   - linked_list_og-title: "Everything Apple plans to show at its iOS 26-focused WWDC 2025 event"
   - linked_list_og-image: "https://eay.cc/wordpress/uploads/og-cache/6739c90f3ab89903dd8b8e10d47bd947_upload.webp"

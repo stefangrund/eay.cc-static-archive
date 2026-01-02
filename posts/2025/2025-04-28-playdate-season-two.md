@@ -20,7 +20,6 @@ meta:
   - yourls_shorturl: "https://eay.li/3v9"
   - _share_on_mastodon_url: "https://eay.social/@eay/114417691069125510"
   - content_copy: "https://bsky.app/profile/eay.social/post/3lnvpfi3ivf2w"
-  - bcc_last_updated: "2025-04-28 23:38:35"
   - linked_list_og-title: "Season Two for Playdate"
   - linked_list_og-description: "A bundle of unique and wonderful new games—discover them each week along with the rest of the Playdate community."
   - linked_list_og-image: "https://eay.cc/wordpress/uploads/og-cache/e7065bed91aad054313a69e795b4d62f.webp"

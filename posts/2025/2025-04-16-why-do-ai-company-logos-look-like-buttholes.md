@@ -23,7 +23,6 @@ meta:
   - yourls_shorturl: "https://eay.li/3v6"
   - _share_on_mastodon_url: "https://eay.social/@eay/114346452335264378"
   - content_copy: "https://bsky.app/profile/eay.social/post/3lmw2vvbutt2y"
-  - bcc_last_updated: "2025-04-16 08:45:54"
   - linked_list_og-title: "Why do AI company logos look like buttholes?"
   - linked_list_og-description: "A humorous exploration of the uncanny resemblance between AI company logos and human anatomy. Discover why circular, gradient-based designs dominate the AI industry, and what this design convergence tells us about branding in tech."
   - linked_list_og-image: "https://eay.cc/wordpress/uploads/og-cache/bb71ab0dba2adcfdeaae7806dbfd4fec.webp"

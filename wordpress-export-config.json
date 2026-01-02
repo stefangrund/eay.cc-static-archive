@@ -1,0 +1,20 @@
+{
+  "input": "export.xml",
+  "output": "posts",
+  "yearFolders": true,
+  "monthFolders": false,
+  "postFolders": false,
+  "prefixDate": true,
+  "saveAttachedImages": false,
+  "saveScrapedImages": false,
+  "ignoreMetaKeys": [
+    "_share_on_mastodon",
+    "bcc_checks_scheduled",
+    "bcc_last_updated",
+    "iawmlf_links",
+    "iawmlf_post_links",
+    "iawmlf_last_processed",
+    "_webmentioned"
+  ]
+}
+

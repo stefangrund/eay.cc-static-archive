@@ -21,7 +21,6 @@ meta:
   - yourls_shorturl: "https://eay.li/3vb"
   - _share_on_mastodon_url: "https://eay.social/@eay/114428758893183279"
   - content_copy: "https://bsky.app/profile/eay.social/post/3lo2mjys6kd23"
-  - bcc_last_updated: "2025-04-30 22:34:20"
   - linked_list_og-title: "Raycast for iOS"
   - linked_list_og-description: "Power of Raycast, now on iOS - AI, Notes, Snippets and Quicklinks always with you."
   - linked_list_og-image: "https://eay.cc/wordpress/uploads/og-cache/aa570226b5a4f6de055b096454c00be1.webp"

@@ -12,6 +12,8 @@ categories:
   - english
 tags:
   - apps
+  - best-of
+  - drafts
   - iphone
 meta:
   - geo_latitude: "50.973868"

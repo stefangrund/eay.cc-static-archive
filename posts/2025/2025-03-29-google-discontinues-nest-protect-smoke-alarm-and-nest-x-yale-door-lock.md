@@ -20,7 +20,6 @@ meta:
   - yourls_shorturl: "https://eay.li/3v0"
   - _share_on_mastodon_url: "https://eay.social/@eay/114247925342779448"
   - content_copy: "https://bsky.app/profile/eay.social/post/3llkcshz4cu2p"
-  - bcc_last_updated: "2025-03-29 23:04:54"
   - linked_list_og-title: "Google discontinues Nest Protect smoke alarm and Nest x Yale door lock"
   - linked_list_og-description: "The Google Nest Protect is officially dead."
   - linked_list_og-image: "https://eay.cc/wordpress/uploads/og-cache/28ca836191548839d3741f1b8e4f21e8.webp"

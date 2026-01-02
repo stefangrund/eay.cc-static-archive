@@ -2,7 +2,7 @@
 
 This is a static archive of [eay.cc](https://eay.cc/), the weblog of [Stefan Grund](https://stefangrund.eu/).
 
-It consists of every blog post published between 2007-02-02 and 2025-06-30. The posts are saved as Markdown files with static site generator compatible front matters. These contain all meta data about each post (e.g. original URL, datetime, tags, geolocation, and so on).
+It consists of every blog post published between 2007-02-02 and 2026-01-02. The posts are saved as Markdown files with static site generator compatible front matters. These contain all meta data about each post (e.g. original URL, datetime, tags, geolocation, and so on).
 
 #### Example post:
 
@@ -54,13 +54,12 @@ I hope you are well! In order to update the static copy of your blog, you'll nee
 Best regards,
 _Vergangenheitsstefan_
 
-## Report
+## Statistics
 
 I've added a shell script to analyze the files and print out the numbers of posts, words and characters for each year:
 
 ```
-chmod +x scripts/count-posts.sh 
-bash scripts/count-posts.sh
+npm run stats
 ```
 
 ## Acknowledgements
@@ -69,4 +68,4 @@ To generate the Markdown files from WordPress' exported XML file, I'm using a cu
 
 ## License
 
-All posts are licensed under [Creative Commons](https://creativecommons.org/licenses/by-nc-nd/3.0/) (by-nc-nd).
+All posts are licensed under [Creative Commons](https://creativecommons.org/licenses/by-nc-nd/4.0/) (by-nc-nd).

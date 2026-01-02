@@ -23,7 +23,6 @@ meta:
   - yourls_shorturl: "https://eay.li/3v2"
   - _share_on_mastodon_url: "https://eay.social/@eay/114303927329364088"
   - content_copy: "https://bsky.app/profile/eay.social/post/3lmd6ozvmcr2c"
-  - bcc_last_updated: "2025-04-08 20:32:37"
   - linked_list_og-title: "QuietScrob – „Scrobbling“ für Apple Music auf iOS"
   - linked_list_og-description: "Wegen ihrer Apple-Music-Replay-Rückblicke habe ich schon erwachsene Menschen weinen sehen – weil es Apple nicht so toll wie Spotify hinbekommt oder Kinderlieder die Jahrescharts dominieren.
 

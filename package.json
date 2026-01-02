@@ -4,7 +4,8 @@
   "description": "A static archive of eay.cc with all posts as static site generator compatible markdown files.",
   "repository": "https://github.com/stefangrund/eay.cc-static-archive.git",
   "scripts": {
-    "build": "node ./scripts/wordpress-export-to-markdown/index.js --wizard=false --input=export.xml --output=posts --year-folders=true --month-folders=false --post-folders=false --prefix-date=true --save-attached-images=false --save-scraped-images=false --ignore-meta-keys \"_share_on_mastodon,bcc_checks_scheduled\""
+    "build": "node ./scripts/wordpress-export-to-markdown/index.js --wizard=false",
+    "stats": "bash ./scripts/count-posts.sh"
   },
   "author": "Stefan Grund (https://stefangrund.eu/)",
   "license": "CC BY-NC-ND 4.0",
