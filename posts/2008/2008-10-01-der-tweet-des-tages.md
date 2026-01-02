@@ -19,4 +19,4 @@ meta:
   - yourls_shorturl: "https://eay.li/z"
 ---
 
-> @[michael\_bay](http://twitter.com/michael_bay): Shia is crying less today. [#](http://twitter.com/michael_bay/statuses/940861374)
+> @[michael_bay](http://twitter.com/michael_bay): Shia is crying less today. [#](http://twitter.com/michael_bay/statuses/940861374)

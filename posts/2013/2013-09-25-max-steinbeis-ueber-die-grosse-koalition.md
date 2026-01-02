@@ -23,6 +23,6 @@ meta:
 > 
 > Die Opposition aus Grünen und Linken könnte nicht einmal mehr einen Untersuchungsausschuss einsetzen. Sie könnte auch kein Normenkontrollverfahren in Karlsruhe anstrengen. Dazu sind jeweils 25 Prozent der Stimmen im Bundestag nötig, und die bekommen sie selbst dann nicht auf die Waage, wenn sie sich zu einem solchen Schritt zusammenraufen.
 > 
-> \[...\] Ein Parlament ohne Opposition ist kein Parlament.
+> [...] Ein Parlament ohne Opposition ist kein Parlament.
 
 In der Tat erschreckend. Zudem hat [Herr Steinbeis](http://www.verfassungsblog.de/) ähnliche Bedenken zum Wegfallen der FDP [wie ich](//eay.cc/2013/ein-schwarzer-tag-fuer-netzpolitik-und-unsere-grundrechte/). Da diese mit Sabine Leutheusser-Schnarrenberger immerhin gut dagegen gehalten haben, dass "der Innenminister Land und Verfassung schilyfiziert". (via [daMax](http://blog.todamax.net/2013/warum-btw2013-so-ein-desaster-ist/))

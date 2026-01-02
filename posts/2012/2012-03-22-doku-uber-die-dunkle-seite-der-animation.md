@@ -20,7 +20,7 @@ meta:
   - yourls_shorturl: "https://eay.li/1h9"
 ---
 
-\[youtube id="oYXPIbB\_8AQ"\]
+[youtube id="oYXPIbB_8AQ"]
 
 (Hier die weiteren Teile: [Part 2](http://www.youtube.com/watch?v=8Sppeq9QhHM), [Part 3](http://www.youtube.com/watch?v=awq9oK97RzQ), [Part 4](http://www.youtube.com/watch?v=FH23JysXSmU))
 

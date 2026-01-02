@@ -17,7 +17,7 @@ meta:
   - yourls_shorturl: "https://eay.li/2rq"
 ---
 
-\[youtube id="yiw6\_JakZFc"\]
+[youtube id="yiw6_JakZFc"]
 
 Man könnte jede Woche auf das neue Video von [Kurzgesagt a.k.a. In a Nutshell](https://youtube.com/c/inanutshell) verweisen, aber ihr könntet die Videos ja auch einfach selbst abonnieren und jede Woche ohne weitere Aufforderung gucken. Aber ich kenn euch ja.
 

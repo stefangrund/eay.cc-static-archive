@@ -22,7 +22,7 @@ meta:
   - _share_on_mastodon_url: "https://eay.social/@eay/112183933614821834"
 ---
 
-\[youtube id="UkGsk6RBSgg"\]
+[youtube id="UkGsk6RBSgg"]
 
 > The FOX sitcom "Til Death" was so bad that nobody watched it. But a fluke in the TV business meant that it needed to stay on the air for one more season. So with no audience and no stakes, the writers got really weird.
 

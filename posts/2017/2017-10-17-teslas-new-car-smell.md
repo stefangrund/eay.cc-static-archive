@@ -26,4 +26,4 @@ meta:
 
 Jean-Louis Gassée über die Produktions­schwierigkeiten bei Tesla. Grund dafür sieht er u.a. darin, dass die Produktion bei Tesla noch zu viel manuelles Zutun braucht und die Best Practices der Autoindustrie nicht eingehalten werden. Das eröffnet wiederum Möglichkeiten für die klassischen Autokonzerne und ihre immer leistungsfähigeren E-Autos:
 
-> \[Chevy\] Bolts and \[Nissan\] Leafs (Leaves?) might not be as sexy as Model 3s, but they're more real.
+> [Chevy] Bolts and [Nissan] Leafs (Leaves?) might not be as sexy as Model 3s, but they're more real.

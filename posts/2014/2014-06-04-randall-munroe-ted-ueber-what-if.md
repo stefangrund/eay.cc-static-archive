@@ -19,7 +19,7 @@ meta:
   - yourls_shorturl: "https://eay.li/2gp"
 ---
 
-\[youtube id="I64CQp6z0Pk"\]
+[youtube id="I64CQp6z0Pk"]
 
 > Web cartoonist Randall Munroe [answers simple what-if questions](https://what-if.xkcd.com/) ("what if you hit a baseball moving at the speed of light?") using math, physics, logic and deadpan humor. In this charming talk, a reader's question about Google's data warehouse leads Munroe down a circuitous path to a hilariously over-detailed answer â in which, shhh, you might actually learn something.
 

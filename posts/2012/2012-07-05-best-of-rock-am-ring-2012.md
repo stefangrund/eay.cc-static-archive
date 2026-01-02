@@ -19,4 +19,4 @@ meta:
 
 MLK hat einen netten Zusammenschnitt vom diesjährigen Ring [online gestellt](https://vimeo.com/45135493). Einziger Wermutstropfen: die unrepräsentative Emo-Mukke von 30 Seconds to Mars. Das hat beim [25 Jahre-Video](//eay.cc/2010/mini-doku-uber-25-jahre-rock-am-ring/) noch besser geklappt (THE HIVES!!). Aber nun gut.
 
-\[vimeo id="45135493"\]
+[vimeo id="45135493"]

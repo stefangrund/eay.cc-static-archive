@@ -1,11 +1,10 @@
-const fs = require('fs')
-const luxon = require('luxon')
-const xml2js = require('xml2js')
+import fs from 'fs';
+import { DateTime } from 'luxon';
+import xml2js from 'xml2js';
+import * as shared from './_shared.js';
+import * as translator from './_translator.js';
 
-const shared = require('./_shared')
-const translator = require('./_translator')
-
-async function parseFilePromise (config) {
+export async function parseFilePromise (config) {
   console.log('\nParsing...')
   const content = await fs.promises.readFile(config.input, 'utf8')
   const data = await xml2js.parseStringPromise(content, {
@@ -89,7 +88,7 @@ function getPostTitle (post) {
 }
 
 function getPostDate (post) {
-  return luxon.DateTime.fromRFC2822(post.pubDate[0], { zone: 'utc' }).toISODate()
+  return DateTime.fromRFC2822(post.pubDate[0], { zone: 'utc' }).toISODate();
 }
 
 function getPermalink (post) {
@@ -213,7 +212,5 @@ function mergeImagesIntoPosts (images, posts) {
         post.meta.imageUrls.push(image.url)
       }
     }
-  })
+  });
 }
-
-exports.parseFilePromise = parseFilePromise

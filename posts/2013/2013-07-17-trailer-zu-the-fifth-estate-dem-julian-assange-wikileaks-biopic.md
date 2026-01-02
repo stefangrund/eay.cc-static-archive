@@ -21,6 +21,6 @@ meta:
   - yourls_shorturl: "https://eay.li/25g"
 ---
 
-\[youtube id="ZT1wb8\_tcYU"\]
+[youtube id="ZT1wb8_tcYU"]
 
 Sieht überraschend gut aus. (via [PewPewPew](http://www.pewpewpew.de/2013/07/17/trailer-zum-julian-assange-wikileaks-biopic-the-fifth-estate/))

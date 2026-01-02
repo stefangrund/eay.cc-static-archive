@@ -19,6 +19,6 @@ meta:
 
 Am Donnerstag bringt NBC überraschend »30 Rock«, die hervorragende, hervorragende, hervorragende Meta-Comedy-Serie über die Produktion einer NBC-Comedy-Show für ein One-Time Reunion Special zurück auf die Mattscheibe. Ich erwarte nicht mehr als Großartiges.
 
-\[youtube id="hXCgDEz7osA"\]
+[youtube id="hXCgDEz7osA"]
 
 **Update, 17.07.:** [Gesehen und verbloggt.](https://eay.cc/2020/30-rock-a-one-time-special/)

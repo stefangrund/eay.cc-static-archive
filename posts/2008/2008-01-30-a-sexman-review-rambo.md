@@ -24,4 +24,4 @@ meta:
 
 Nun hat Sexman (der meiner bescheidenen Meinung nach jedoch unwesentlich jünger sein dürfte) [Rambo per YouTube-Video reviewt](http://www.youtube.com/watch?v=VCsJ5Tb6WY0) und vergibt in seinem so genannten "Sexman Review" die volle Punktzahl für Opa Stallone. Seine [weiteren "Sexman Films"](http://www.youtube.com/profile_videos?user=Pruane2Forever&p=r) - mit zukünftigen Klassikern wie "Screw you Porn Addicts" und "Shitdicknipples Sucks!!!!" - sind natürlich auch ganz große klasse und ihrer Zeit wahrscheinlich um ein Vielfaches voraus. Ich prophezeie, dem jungen Mann steht eine große Karriere bevor - oder Ärger mit Mama und Papa. Falls letzteres zutrifft, hört euch den einzig wahren Sexman an, solang es ihn noch gibt:
 
-\[audio src="https://eay.cc/uploads/2008/ramborev.mp3"\]
+[audio src="https://eay.cc/uploads/2008/ramborev.mp3"]

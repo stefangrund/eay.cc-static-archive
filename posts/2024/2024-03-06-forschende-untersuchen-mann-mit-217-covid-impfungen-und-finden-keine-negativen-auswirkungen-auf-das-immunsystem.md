@@ -22,4 +22,4 @@ meta:
   - _share_on_mastodon_url: "https://eay.social/@eay/112048759853778350"
 ---
 
-> Forschende der \[Friedrich-Alexander-Universität\] und des Uniklinikums Erlangen haben einen Mann untersucht, der sich mehr als 200 Mal gegen Covid-19 hat impfen lassen. Sie waren durch Zeitungsberichte auf ihn aufmerksam geworden.
+> Forschende der [Friedrich-Alexander-Universität] und des Uniklinikums Erlangen haben einen Mann untersucht, der sich mehr als 200 Mal gegen Covid-19 hat impfen lassen. Sie waren durch Zeitungsberichte auf ihn aufmerksam geworden.

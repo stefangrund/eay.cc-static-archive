@@ -20,4 +20,4 @@ meta:
   - yourls_shorturl: "https://eay.li/39j"
 ---
 
-»[Captain Marvel](https://www.imdb.com/title/tt4154664/)« ist die nette Vorband vor dem eigentlichen Haupt-Act und eine willkommene Variation von der 08/15-Origin-Story, garniert mit viel Fan-Service in einem unterhaltsamen 90er-Jahre-Setting. \[rating value=6 inline=true\]
+»[Captain Marvel](https://www.imdb.com/title/tt4154664/)« ist die nette Vorband vor dem eigentlichen Haupt-Act und eine willkommene Variation von der 08/15-Origin-Story, garniert mit viel Fan-Service in einem unterhaltsamen 90er-Jahre-Setting. [rating value=6 inline=true]

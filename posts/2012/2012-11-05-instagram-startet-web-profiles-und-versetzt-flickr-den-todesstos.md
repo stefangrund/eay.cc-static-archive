@@ -19,4 +19,4 @@ meta:
   - linked_list_url: "http://blog.instagram.com/post/35068144047/announcing-instagram-profiles-on-the-web"
 ---
 
-Werden nach und nach freigeschaltet und sind dann unter instagram.com/\[username\] erreichbar. Hier z.B. schon die Profile von [Nike](http://instagram.com/nike), [cucinadigitaleMG Siegler](http://instagram.com/cucinadigitale) und [meiner Wenigkeit](http://instagram.com/eay)
+Werden nach und nach freigeschaltet und sind dann unter instagram.com/[username] erreichbar. Hier z.B. schon die Profile von [Nike](http://instagram.com/nike), [cucinadigitaleMG Siegler](http://instagram.com/cucinadigitale) und [meiner Wenigkeit](http://instagram.com/eay)

@@ -27,4 +27,4 @@ meta:
 
 ![Cover des Buchs »How Comics Were Made«](https://eay.cc/uploads/2024/how-comics-were-made.jpg)
 
-[Glenn Fleishman](https://glennf.com/), Techjournalist, Jeopardy-Gewinner, Podcaster ((U.a. von [einem meiner leider beendeten Lieblingspodcasts](https://newdisrupt.org/).)), [Typografie](https://glog.glennf.com/blog/2022/1/29/third-anniversary-of-the-tiny-type-museum-amp-time-capsule-project)\- und [Keyboard](https://shifthappens.site/)\-Enthusiast, hat eine Kickstarter-Kampagne für sein neues Buch, über die wortwörtliche Entstehung von Comics gestartet. Sieht sehr spannend aus und habe ich selbstredend unterstützt. 💸
+[Glenn Fleishman](https://glennf.com/), Techjournalist, Jeopardy-Gewinner, Podcaster ((U.a. von [einem meiner leider beendeten Lieblingspodcasts](https://newdisrupt.org/).)), [Typografie](https://glog.glennf.com/blog/2022/1/29/third-anniversary-of-the-tiny-type-museum-amp-time-capsule-project)- und [Keyboard](https://shifthappens.site/)-Enthusiast, hat eine Kickstarter-Kampagne für sein neues Buch, über die wortwörtliche Entstehung von Comics gestartet. Sieht sehr spannend aus und habe ich selbstredend unterstützt. 💸

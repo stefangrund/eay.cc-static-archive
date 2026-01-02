@@ -24,11 +24,11 @@ Epic provoziert Apple mit der Implementierung einer nach den App Store-Regeln st
 
 Spannender Move von [Epic Games](https://de.wikipedia.org/wiki/Epic_Games), dem Betreiber des Epic Games Stores, Entwickler der Unreal-Engine und von Spielen wie eben Fortnite.
 
-Ich vermute, dass es ihnen weniger um die 30% Apple Tax als vielmehr das offene Ökosystem auf iOS-Geräten und zukünftigen [Apple Silicon](https://eay.cc/2020/wwdc-2020-keynote/)\-Systemen geht. Denn wenn Apple weiterhin den Daumen drauf hat bzw. drauf legt, sind Third-Party-Stores wie der Store von Epic auch auf dem Mac und dann irgendwann auch bei Windows und Android Geschichte. Epic konkurriert dahingehend also mit Apple, dem App Store-Anbieter, und möchte sämtliche Plattformen noch auf Jahre für Third-Party- und den eigenen Store geöffnet wissen. Was tendenziell gut für uns alle sein sollte.
+Ich vermute, dass es ihnen weniger um die 30% Apple Tax als vielmehr das offene Ökosystem auf iOS-Geräten und zukünftigen [Apple Silicon](https://eay.cc/2020/wwdc-2020-keynote/)-Systemen geht. Denn wenn Apple weiterhin den Daumen drauf hat bzw. drauf legt, sind Third-Party-Stores wie der Store von Epic auch auf dem Mac und dann irgendwann auch bei Windows und Android Geschichte. Epic konkurriert dahingehend also mit Apple, dem App Store-Anbieter, und möchte sämtliche Plattformen noch auf Jahre für Third-Party- und den eigenen Store geöffnet wissen. Was tendenziell gut für uns alle sein sollte.
 
 Und dafür, dass sie 2020-Apple direkt mit 1984-IBM gleichsetzen, indem sie den berühmten [1984-Werbespot](https://youtu.be/VtvjbmoDx-I) als "Nineteen Eighty-Fortnite" parodieren, gibt es gleich nochmal extra Bonuspunkte.
 
-\[youtube id="euiSHuaw6Q4"\]
+[youtube id="euiSHuaw6Q4"]
 
 > Epic Games has defied the App Store Monopoly. In retaliation, Apple is blocking Fortnite from a billion devices. Join the fight to stop 2020 from becoming “1984”.
 

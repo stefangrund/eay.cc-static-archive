@@ -20,6 +20,6 @@ Im letzten Jahr habe ich mich ein bisschen in das Format des [Video-Essays](//ea
 
 Der von der Times als "King of the Video Essays" geadelte [Kevin B. Lee](https://vimeo.com/kevinblee) hat sich nun im Auftrag des Arthouse-Streaming-Anbieters [Fandor](https://www.fandor.com/) mal ganz grundsätzlich mit Video-Essays beschäftigt, welche Vor- und Nachteile das Format hat und wohin die Reise geht. Natürlich auch als Bewegtbildabhandlung:
 
-\[youtube id="4kyFTIrm-x0"\]
+[youtube id="4kyFTIrm-x0"]
 
 Lee bezieht sich dabei ausschließlich auf die filmbezogenen Essayisten wie [Tony Zhou](https://vimeo.com/tonyzhou), wobei ich persönlich gerade die Video-Essays toll finde, die sich gänzlich anderer Themen widmen, z.B. [umstrittenen Videospielentwicklern](https://www.youtube.com/watch?v=PmTUW-owa2w). Doch so oder so: Ich will mehr davon!

@@ -17,6 +17,6 @@ meta:
   - yourls_shorturl: "https://eay.li/33l"
 ---
 
-\[youtube id="dNW0B0HsvVs"\]
+[youtube id="dNW0B0HsvVs"]
 
 Nach dem wenig überzeugenden [Super-Bowl-Spot](https://eay.cc/2018/super-bowl-lii-movie-trailers/) hat Disney soeben den kompletten Teaser zum Han-Solo-Prequel veröffentlicht. Überzeugt mich ebenso wenig und sieht – Episode VII lässt grüßen – verdächtig nach "more of the same" aus ("I'm gonna be a pilot, the best in the galaxy" – oh, shut up!). 🙄

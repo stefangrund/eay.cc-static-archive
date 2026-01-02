@@ -18,6 +18,6 @@ meta:
   - yourls_shorturl: "https://eay.li/388"
 ---
 
-\[youtube id="rVrRjt69lhU"\]
+[youtube id="rVrRjt69lhU"]
 
 Frohe Weihnachten! 🎁🎄🎅🏻

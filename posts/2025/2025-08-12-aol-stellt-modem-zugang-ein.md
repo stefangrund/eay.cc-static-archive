@@ -29,7 +29,7 @@ meta:
 
 [André](https://andrepitz.de/) hat in seinem Link-Roundup diese erwähnens­werte Meldung festgehalten:
 
-> AOL stampft in den USA zum 30. September 2025 endgültig die Möglichkeit ein, via dial-up ins Internet zu kommen. Noch 2015 gab es dem Bericht zufolge rund anderthalb Millionen Kund\*innen. Heute sollen es nur noch wenige Tausende sein.
+> AOL stampft in den USA zum 30. September 2025 endgültig die Möglichkeit ein, via dial-up ins Internet zu kommen. Noch 2015 gab es dem Bericht zufolge rund anderthalb Millionen Kund*innen. Heute sollen es nur noch wenige Tausende sein.
 
 AOL, seit 2015 zum Sterben bei Verizon/Yahoo verdammt, war als Internet­provider in den USA und hierzulande um die Jahrtausend­wende allgegen­wärtig. Mit einer Flut an CD-ROMs, die tausende Stunden kostenloses Internet versprachen, und einem unentwegt als Post oder Print-Beilagen entgegen­schmetterten.
 

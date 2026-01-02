@@ -22,6 +22,6 @@ meta:
   - yourls_shorturl: "https://eay.li/2pz"
 ---
 
-Am Freitagabend fand hier in Köln die Frontend-/Feierabendkonferenz [Nighty Build](http://www.nightlybuild.io/) statt. Für das [PPW](http://www.ppw.de/)\-Agenturblog habe ich jetzt mal meine Eindrücke festgehalten. Schon mal soviel: Es hat sich gelohnt!
+Am Freitagabend fand hier in Köln die Frontend-/Feierabendkonferenz [Nighty Build](http://www.nightlybuild.io/) statt. Für das [PPW](http://www.ppw.de/)-Agenturblog habe ich jetzt mal meine Eindrücke festgehalten. Schon mal soviel: Es hat sich gelohnt!
 
 **Update, 21.09.2015:** Mittlerweile finden sich [im YouTube-Channel der Nightly Build](https://www.youtube.com/playlist?list=PLJDgiixq_VdlQjGN4RYXBAG6Q2dA2h0xW) die Videoaufzeichnungen, falls ihr die nachholen oder euch selbst einen Eindruck verschaffen wollt.

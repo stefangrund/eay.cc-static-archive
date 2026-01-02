@@ -17,6 +17,6 @@ meta:
   - yourls_shorturl: "https://eay.li/2q9"
 ---
 
-\[youtube id="vx09\_4cEzlM"\]
+[youtube id="vx09_4cEzlM"]
 
 Cara Delevingne showed her house to Architectural Digest and it's absolutely bonkers. And great.

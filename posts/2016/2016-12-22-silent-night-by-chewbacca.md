@@ -17,6 +17,6 @@ meta:
   - yourls_shorturl: "https://eay.li/2vr"
 ---
 
-\[youtube id="Vd79mpzBnJ4"\]
+[youtube id="Vd79mpzBnJ4"]
 
 (via [Zwentner](http://www.zwentner.com/silent-night-by-chewbacca/))

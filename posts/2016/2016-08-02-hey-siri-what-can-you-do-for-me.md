@@ -22,4 +22,4 @@ meta:
 
 > Hey-Siri.io is a large list of commands you can use on your iOS and macOS Devices.
 
-\*still waiting for Echo's release in Germany\*
+*still waiting for Echo's release in Germany*

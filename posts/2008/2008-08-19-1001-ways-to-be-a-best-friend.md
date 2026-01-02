@@ -19,6 +19,6 @@ meta:
 
 ![](/uploads/2008/bestfriendbook.jpg)
 
-> 1\. Watch the same TV shows, so you can talk about them later.
+> 1. Watch the same TV shows, so you can talk about them later.
 
 1000 weitere Möglichkeiten werden [ab sofort hier](http://1001waystobeabestfriend.tumblr.com/) veröffentlicht.

@@ -20,6 +20,6 @@ meta:
   - yourls_shorturl: "https://eay.li/2ju"
 ---
 
-\[youtube id="Wro0VE6i-XM"\]
+[youtube id="Wro0VE6i-XM"]
 
 Die erste Version des Themes, bei der ich nicht sofort mit [peterdinklagen](http://youtu.be/idVozGXbn2Y) muss. (via [Fanboys](http://fanboys.fm/) #186)

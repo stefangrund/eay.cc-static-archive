@@ -18,7 +18,7 @@ meta:
   - yourls_shorturl: "https://eay.li/33q"
 ---
 
-\[youtube id="UrNZ6zKabKU"\]
+[youtube id="UrNZ6zKabKU"]
 
 > By juxtaposing Shadow of the Colossus with Shadow the Hedgehog, this piece asks the viewer to think critically about the elements that identify a piece as "high art."
 

@@ -25,4 +25,4 @@ meta:
 
 [Bleiben wir](https://eay.cc/2024/everything-nothing/) beim [Bloggen über's Bloggen](https://eay.cc/tag/blogging/):
 
-[Manuel Moreale](https://manuelmoreale.com/), Vertreter des Blogging-Minimalismus und Self-Hostings, hat mit People and Blogs eine Interview-Serie mit unter­schied­lichen Bloggern und immer wieder­holenden Fragen gestartet, die gerade ihre [50\. Ausgabe feierte](https://manuelmoreale.com/fifty-shades-of-people-and-their-blogs). Mitunter sehr interessant, wenn ihr _into blogging_ seid, wie eventuell der ein oder andere Autor dieser Zeilen.
+[Manuel Moreale](https://manuelmoreale.com/), Vertreter des Blogging-Minimalismus und Self-Hostings, hat mit People and Blogs eine Interview-Serie mit unter­schied­lichen Bloggern und immer wieder­holenden Fragen gestartet, die gerade ihre [50. Ausgabe feierte](https://manuelmoreale.com/fifty-shades-of-people-and-their-blogs). Mitunter sehr interessant, wenn ihr _into blogging_ seid, wie eventuell der ein oder andere Autor dieser Zeilen.

@@ -22,10 +22,10 @@ Bleiben wir [nochmal](//eay.cc/2008/joker-kubrick-bearbrick/) bei The Dark Knigh
 
 > [So war das damals:](http://so-war-das-damals.de/2008/07/26/von-fledermausen-und-zweikopfigen-hunden/) Der neue Batman braucht ein bisschen um richtig in Fahrt zu kommen, aber dafür kommt er dann auch _richtig_ in Fahrt.
 
-> [Wortvogel:](http://wortvogel.de/?p=1555) Nachdem Nolan \[mit Batman Begins\] bewiesen hat, dass er Batman erfolgreich führen kann, hat er diesmal wirkliche alle Rücksicht fahren lassen, und einen düsteren Actionthriller geschaffen, der auch den Titel âChristopher Nolan´s Batmanâ verdient hätte.
+> [Wortvogel:](http://wortvogel.de/?p=1555) Nachdem Nolan [mit Batman Begins] bewiesen hat, dass er Batman erfolgreich führen kann, hat er diesmal wirkliche alle Rücksicht fahren lassen, und einen düsteren Actionthriller geschaffen, der auch den Titel âChristopher Nolan´s Batmanâ verdient hätte.
 
-> [i:rrhoblog:](http://i.rrhoblog.de/2008/07/29/the-dark-knight/) Heath Ledgers Joker ist einer der intensivsten, verstörendsten Bösewichter des Kinos. \[...\] Mit jeder Geste, jedem Zucken seines Gesichts und seiner Zunge, jedem Wort das er sagt, füllt er seine Figur mit jener Gier nach Vernichtung und Chaos aus, die ihm Story und Drehbuch in den Mund legen.
+> [i:rrhoblog:](http://i.rrhoblog.de/2008/07/29/the-dark-knight/) Heath Ledgers Joker ist einer der intensivsten, verstörendsten Bösewichter des Kinos. [...] Mit jeder Geste, jedem Zucken seines Gesichts und seiner Zunge, jedem Wort das er sagt, füllt er seine Figur mit jener Gier nach Vernichtung und Chaos aus, die ihm Story und Drehbuch in den Mund legen.
 
-> [Popmoderne:](http://news.antville.org/stories/1819986/) Beim nächsten Wiedersehen \[wird\] leider jemand anders die Schminke des Jokers auftragen müssen und dies ist wohl der einzige Wermutstropfen.
+> [Popmoderne:](http://news.antville.org/stories/1819986/) Beim nächsten Wiedersehen [wird] leider jemand anders die Schminke des Jokers auftragen müssen und dies ist wohl der einzige Wermutstropfen.
 
 Natürlich findet sich auch in allen Reviews hier und da Kritik, aber dessen ungeachtet sind alle begeistert. Und ich nehme an, _ihr_ seid (spätestens) jetzt ähnlich heiß wie ich!

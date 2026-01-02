@@ -20,6 +20,6 @@ meta:
   - yourls_shorturl: "https://eay.li/2sm"
 ---
 
-\[youtube id="Pkup4zo97E0"\]
+[youtube id="Pkup4zo97E0"]
 
 Schöne Zusammenfassung der Historie des alternativen Animationsprogramms von [Kristian Williams](https://twitter.com/kaptainkristian). (via [Seriesly Awesome](https://www.serieslyawesome.tv/die-geschichte-von-adult-swim/))

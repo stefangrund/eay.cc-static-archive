@@ -18,6 +18,6 @@ meta:
   - yourls_shorturl: "https://eay.li/3f7"
 ---
 
-\[youtube id="r-P9lJQspq8"\]
+[youtube id="r-P9lJQspq8"]
 
 Earworm of the day. You're welcome.

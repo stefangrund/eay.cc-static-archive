@@ -28,8 +28,8 @@ meta:
 
 > You are logged in as Jeffrey Epstein, jeevacation@gmail.com. These are real emails released by Congress. Explore by name, contribute to the starred list, search, or visit a random page.
 
-[Luke Igel](https://lucasigel.com/) und [Riley Walz](https://walzr.com/), den wir zuletzt schon [mit seinem IMG\_0001-YouTube-Player hier hatten](https://eay.cc/2024/img_0001-viewer-fuer-youtube-videos-die-zwischen-2009-und-2012-ueber-die-send-to-youtube-funktion-von-iphone-usern-hochgeladen-wurden/), haben ein Gmail-Interface gebaut, mit dem sich das zuletzt veröffentliche Email-Postfach von Sexualstraftäter, Promi- und Präsidenten­freund [Jeffrey Epstein](https://de.wikipedia.org/wiki/Jeffrey_Epstein) durchsuchen lässt.
+[Luke Igel](https://lucasigel.com/) und [Riley Walz](https://walzr.com/), den wir zuletzt schon [mit seinem IMG_0001-YouTube-Player hier hatten](https://eay.cc/2024/img_0001-viewer-fuer-youtube-videos-die-zwischen-2009-und-2012-ueber-die-send-to-youtube-funktion-von-iphone-usern-hochgeladen-wurden/), haben ein Gmail-Interface gebaut, mit dem sich das zuletzt veröffentliche Email-Postfach von Sexualstraftäter, Promi- und Präsidenten­freund [Jeffrey Epstein](https://de.wikipedia.org/wiki/Jeffrey_Epstein) durchsuchen lässt.
 
-\---
+---
 
 **Update, 27.12.:** Mit den [weiteren unvollständigen und geschwärzten Ver­öffent­lichungen der Epstein Files](https://www.tagesschau.de/ausland/amerika/epstein-akten-veroeffentlichung-104.html) wurde auch Jmail erweitert ("The Jmail Suite") und enthält nun auch u.a. [Fotos](https://www.jmail.world/photos), [Dokumente](https://www.jmail.world/drive) ("JDrive"), [Epsteins Amazon-Käufe](https://www.jmail.world/jamazon), [iMessages](https://www.jmail.world/messages) und einen [fiktiven Facebook-Feed](https://www.jmail.world/jacebook) auf Basis dieser Daten.

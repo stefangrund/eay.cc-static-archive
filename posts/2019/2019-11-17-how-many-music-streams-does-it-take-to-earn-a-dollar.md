@@ -22,6 +22,6 @@ meta:
   - content_copy: "https://eay.social/@eay/103155107039236981"
 ---
 
-\- 53 streams on Napster - 136 streams on Apple Music - 229 streams on Spotify - 1.449 streams on YouTube
+- 53 streams on Napster - 136 streams on Apple Music - 229 streams on Spotify - 1.449 streams on YouTube
 
 (via [Chris Hannah](https://blog.chrishannah.me/)'s [Newsletter](https://www.getrevue.co/profile/chrishannah))

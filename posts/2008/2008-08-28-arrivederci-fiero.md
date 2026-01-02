@@ -22,4 +22,4 @@ meta:
 
 Es war ein mal ein betrunkener Eay, der die ganze Nacht nichts anderes als dieses Lied hörte ((Ja, ich liebe [HIMYM](//eay.cc/2008/how-i-met-my-favorite-tv-series/) wie keine Serie zuvor.)). Also tut es ihm doch gleich, it's like 1993!
 
-\[youtube id="qQfqSWe8eVE"\]
+[youtube id="qQfqSWe8eVE"]

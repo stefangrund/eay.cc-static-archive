@@ -19,7 +19,7 @@ meta:
   - yourls_shorturl: "https://eay.li/35z"
 ---
 
-\[youtube id="w876zZZIb10"\]
+[youtube id="w876zZZIb10"]
 
 [The Nerdwriter](https://www.youtube.com/user/Nerdwriter1) über den US-amerikanischen Service [MoviePass](https://en.wikipedia.org/wiki/MoviePass), der es seinen Abonnenten für 10 Dollar pro Monat ermöglicht, beliebig oft ins Kino ihrer Wahl zu gehen – und damit aktuell rund 21,7 Millionen Dollar pro Monat (!) verliert. Man darf gespannt sein, ob MoviePass es schafft die kritische Masse zu erreichen, bevor die Lichter ausgehen und ob wir hierzulande jemals einen vergleichbaren, nicht an einzelne Kinoketten gebundenen Service zu sehen bekommen. Wenn ja, [könnte ich bares Geld sparen](https://eay.cc/2017/kinostatistik-2017/).
 

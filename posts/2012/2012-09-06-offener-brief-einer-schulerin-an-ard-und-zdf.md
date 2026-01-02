@@ -19,7 +19,7 @@ meta:
 
 [Sascha](http://www.pewpewpew.de/) hat Post von Clara Siepmann, einer Schülerin der 10. Klasse, bekommen, mit der Bitte einen offenen Brief ans öffentlich-rechtliche Fernsehen in seinem Blog zu veröffentlichen. Bei dem was die junge Frau dann schreibt, fällt es natürlich nicht schwer [dieser Bitte nachzukommen](http://www.pewpewpew.de/2012/09/06/offener-brief-einer-schulerin-an-die-offentlicher-brief-einer-schulerin-an-ard-und-zdf/):
 
-> \[E\]in Erfolgsgeheimnis für gutes und anspruchsvolles Fernsehen liegt darin, nicht von Quoten abhängig zu sein und dementsprechend auch Experimente wagen zu können.
+> [E]in Erfolgsgeheimnis für gutes und anspruchsvolles Fernsehen liegt darin, nicht von Quoten abhängig zu sein und dementsprechend auch Experimente wagen zu können.
 > 
 > Diese Vorraussetzung erfüllen in Deutschland, neben Sky, die Öffentlich-Rechtlichen. Es ist eine Freiheit, die Ihnen unglaubliche Möglichkeiten bietet und sie außerdem privilegiert. Dieses Privileg sollten Sie nutzen allein schon in Ihrem eigenen Interesse, denn Ihre Daseinsberechtigung besteht nur noch darin, dass Sie die Tagesschau produzieren, zur Belustigung der Senioren beitragen und hin und wieder mal einen guten Tatort liefern. Wenn Sie also wieder als bedeutende Fernsehsender gelten wollen, die zu Recht die Plätze eins und zwei auf unseren Fernbedienungen belegen und das nicht nur in den Altersheimen der Republik, dann seien Sie mutig!
 

@@ -24,6 +24,6 @@ meta:
 
 Nachdem der eigentlich erst für heute Nachmittag (unserer Zeit) geplante Trailer bereits geleaked wurde, hat Rockstar ihn nun vorgezogen und selbst veröffentlicht:
 
-\[youtube id="QdBZY2fkU-0"\]
+[youtube id="QdBZY2fkU-0"]
 
 2025 kehren wir zurück nach Vice City.

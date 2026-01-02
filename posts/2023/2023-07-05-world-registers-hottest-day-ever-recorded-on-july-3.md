@@ -24,7 +24,7 @@ meta:
 > 
 > The average global temperature reached 17.01 degrees Celsius (62.62 Fahrenheit), surpassing the August 2016 record of 16.92C (62.46F) as heatwaves sizzled around the world.
 
-> "This is not a milestone we should be celebrating." \[…\] "It's a death sentence for people and ecosystems."
+> "This is not a milestone we should be celebrating." […] "It's a death sentence for people and ecosystems."
 
 🔥
 

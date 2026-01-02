@@ -20,6 +20,6 @@ meta:
 
 Nach den [ersten](//eay.cc/2014/teaser-zu-star-wars-the-force-awakens/) [beiden](//eay.cc/2015/chewie-were-home/) Teasern hier nun der offizielle Trailer zum Film des Jahres:
 
-\[youtube id="sGbxmsDFVnE"\]
+[youtube id="sGbxmsDFVnE"]
 
 Erfüllt seinen Zweck. Wobei das gar nicht mehr nötig gewesen wäre, weil wir ja sowieso schon alle Tickets gekauft haben (und trotzdem hätten). Luke fehlt [weiterhin](//eay.cc/2015/das-offizielle-the-force-awakens-poster-und-star-wars-identities/). Der 17. Dezember kann gar nicht mehr schnell genug kommen.

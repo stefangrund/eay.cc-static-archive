@@ -25,4 +25,4 @@ meta:
 
 Ich für meinen Teil hätte erstmal auch nichts dagegen. »King Arthur« hat für mich als wenig tiefsinniger Fantasy-Action-Hybrid bestens funktioniert, Stichwort: Popcornkino. Ritchies Stil ist dabei eine willkommene Abwechslung zum seelenlosen Geplänkel der Konkurrenz und mir allemal lieber als die drölfte Fassung eines »Fluch der Karibik«. 
 
-\[rating value="7"\]
+[rating value="7"]

@@ -20,6 +20,6 @@ meta:
   - yourls_shorturl: "https://eay.li/3aa"
 ---
 
-\[youtube id="2bVik34nWws"\]
+[youtube id="2bVik34nWws"]
 
 Bereits am 5. Juni ist es soweit. ((Ich habe das Startdatum gerade zur TV-Sektion in den Suggestions von [Yonks](https://yonks.app/) hinzugefügt, if you're into that. 😏)) Es wird drei neue Folgen geben, in denen u.a. Miley Cyrus, Topher Grace, Andrew Scott und Anthony Mackie zu sehen sein werden.

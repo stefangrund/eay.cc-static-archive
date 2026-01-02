@@ -26,6 +26,6 @@ meta:
 
 Großartig: Hier hat jemand einen Grindhouse-Trailer zu [The Wrestler](//eay.cc/2009/the-ram/) angefertigt, der Randy "The Ram" Robinson als eiskalten Psychopathen darstellt und uns einen überaus blutigen B-Movie verspricht.
 
-\[youtube id="QvNG3BpnhNE"\]
+[youtube id="QvNG3BpnhNE"]
 
 PS, wer's nicht kennt: der beste Recut-Trailer ist und bleibt aber [The Shining Redux](//eay.cc/2008/the-shining-redux/), der uns Kubricks Horrorklassiker als hoffnungsvollen Familienfilm verkauft. (via [/film](http://www.slashfilm.com/2009/10/20/votd-the-wrestler-grindhouse-version/))

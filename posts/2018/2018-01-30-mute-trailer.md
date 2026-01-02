@@ -20,7 +20,7 @@ meta:
   - content_copy: "https://twitter.com/eay/status/958617980383965185"
 ---
 
-\[youtube id="ma8te7ywEio"\]
+[youtube id="ma8te7ywEio"]
 
 Hier der Trailer zu »[Mute](http://www.imdb.com/title/tt1464763/)«, dem [lang erwarteten](https://eay.cc/2015/duncan-jones-mute-kommt/) neuen Science-Fiction-Film von Duncan Jones, der mit »Moon« 2009 einen grandiosen Debütfilm ablieferte, dann mit »Source Code« einen okayen Film nachlegte und schließlich mit »Warcraft« einen beschissenen verantwortete. »Mute« wird nicht nur im selben, fiktionalen Universum wie »Moon« spielen, sondern hoffentlich auch an dessen Großartigkeit anknüpfen.
 

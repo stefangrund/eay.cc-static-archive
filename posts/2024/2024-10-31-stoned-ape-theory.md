@@ -21,4 +21,4 @@ meta:
   - _share_on_mastodon_url: "https://eay.social/@eay/113403428135799107"
 ---
 
-TIL: Heute [durch Michael](https://mkln.org/p/stoned-ape-theory) von der [Stoned Ape Theory](https://en.wikipedia.org/wiki/Stoned_ape_theory) erfahren, einer "Evolutionstheorie des Ethnobotanikers [Terence McKenna](https://en.wikipedia.org/wiki/Terence_McKenna), \[…\] in der die Evolution vom Menschenaffen zum Menschen psychoaktive Substanzen als wesentliches und entscheidendes Merkmal beinhaltet". 🙈
+TIL: Heute [durch Michael](https://mkln.org/p/stoned-ape-theory) von der [Stoned Ape Theory](https://en.wikipedia.org/wiki/Stoned_ape_theory) erfahren, einer "Evolutionstheorie des Ethnobotanikers [Terence McKenna](https://en.wikipedia.org/wiki/Terence_McKenna), […] in der die Evolution vom Menschenaffen zum Menschen psychoaktive Substanzen als wesentliches und entscheidendes Merkmal beinhaltet". 🙈

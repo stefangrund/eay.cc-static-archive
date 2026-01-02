@@ -21,4 +21,4 @@ meta:
 
 Capital-A-Aber: Die größte Stärke von »Fast & Furious 8« ist, dass der Film um genau diese Schwächen weiß und sie bis zur Perfektion zelebriert: Gut aussehende Menschen, die sich in Traumautos die Köpfe einschlagen und dabei immer einen coolen Spruch auf den Lippen haben. Und weil das alles schon sieben Mal da war, übertrifft jede Szene die nächste. Wenn die Qualität von Filmen in "What The Fucks per Minute" gemessen würde, wäre das hier das Meisterstück. Wenn man sich darauf einlassen kann, hat man einen Mordsspaß. Wenn nicht, wird man jede Sekunde hassen.
 
-\[rating value=7\]
+[rating value=7]

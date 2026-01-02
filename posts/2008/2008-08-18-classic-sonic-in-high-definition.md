@@ -27,9 +27,9 @@ meta:
 
 Bekanntlich halte ich alter Sega-Oldschool-Fanboy den Mega-Drive-Titel [Sonic 2](http://en.wikipedia.org/wiki/Sonic_the_Hedgehog_2_(16-bit)) für eines der besten Videospiele aller Zeiten. Und dank Virtual Console & Konsorten kommen auch die Kids von heute in den Genuss des Bestsellers von 1992. Doch einigen Sonic-Fans reicht das nicht: inspiriert durch folgenden Wallpaper von [Alchemist Defined](http://alchemistdefined.wiredotaku.com/) haben sie den Entschluss gefasst, Sonic 2 in High Definition zu konvertieren, damit dem hervorragenden Gameplay endlich auch ein zeitgemäßes Äußeres voransteht.
 
-![](/uploads/2008/sonic2hd1.jpg "Wallpaper by Alchemist Defined") Hinter dem S2HD-Projekt stehen einige Szenegrößen aus der [Retro Sonic](http://www.sonicretro.org/)\-Community, wo es in einem [entsprechenden Thread](http://forums.sonicretro.org/index.php?showtopic=10478) auch mehr (technische) Infos gibt. So wurde zum Beispiel der Soundtrack komplett neu aufgelegt und kann hier bereits [herruntergeladen werden](http://blazemp3.sepwich.com/sonic2remastered/).
+![](/uploads/2008/sonic2hd1.jpg "Wallpaper by Alchemist Defined") Hinter dem S2HD-Projekt stehen einige Szenegrößen aus der [Retro Sonic](http://www.sonicretro.org/)-Community, wo es in einem [entsprechenden Thread](http://forums.sonicretro.org/index.php?showtopic=10478) auch mehr (technische) Infos gibt. So wurde zum Beispiel der Soundtrack komplett neu aufgelegt und kann hier bereits [herruntergeladen werden](http://blazemp3.sepwich.com/sonic2remastered/).
 
-\[audio src="http://blazemp3.sepwich.com/sonic2remastered/Emerald%20Hill.mp3"\]
+[audio src="http://blazemp3.sepwich.com/sonic2remastered/Emerald%20Hill.mp3"]
 
 Obwohl die Konvertierung der alten Sprites in neue Vektoren eine Mordsarbeit ist (siehe nächstes Bild), die von Hand gemacht werden muss, soll bereits am 15. September eine erste Tech-Demo veröffentlicht werden. Man darf also vorfreudig gespannt sein.
 

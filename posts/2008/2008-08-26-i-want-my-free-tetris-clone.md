@@ -26,6 +26,6 @@ meta:
 
 Und zur Feier des Copyrights Tages hier eine tolle Metal-Version des Tetris-Themes:
 
-\[audio src="http://vgmetal.com/music/tetris.mp3"\]
+[audio src="http://vgmetal.com/music/tetris.mp3"]
 
 Illustration "Love for Tetris" by DeviantArtist [\=CookiemagiK](http://cookiemagik.deviantart.com/art/Love-for-Tetris-64805505).

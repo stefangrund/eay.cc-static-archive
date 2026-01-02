@@ -19,7 +19,7 @@ meta:
 
 [Ze Frank](http://www.zefrank.com/) at its best on July 11th, 2006 in [The Show](http://www.zefrank.com/theshow/):
 
-\[youtube id="0sHCQWjTrJ8"\]
+[youtube id="0sHCQWjTrJ8"]
 
 > I run out of ideas every day! Each day I live in mortal fear that I've used up the last idea that'll ever come to me. If you don't wanna run out of ideas the best thing to do is not to execute them. You can tell yourself that you don't have the time or resources to do 'em right. Then they stay around in your head like **brain crack**. No matter how bad things get, at least you have those good ideas that you'll get to later.
 > 

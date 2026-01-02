@@ -18,7 +18,7 @@ meta:
   - yourls_shorturl: "https://eay.li/2gf"
 ---
 
-\[vimeo id="90747105"\]
+[vimeo id="90747105"]
 
 > The original Star Wars was a watershed moment, not only in film history, but in technology and modern culture. But where did it come from? What had come before, shaping it? This is Kitbashed, a mashup of Star Wars with many of its sources of inspiration, playing as a feature-length presentation.
 

@@ -20,7 +20,7 @@ meta:
 
 > Everything's changed, but nothing changed.
 
-\[youtube id="CTNJ51ghzdY"\]
+[youtube id="CTNJ51ghzdY"]
 
 Super stimmtiges Behind-The-Scenes-Filmchen, das gerade auf der Comic-Con gezeigt wurde. Steigert die Vorfreude ins Unermessliche.
 

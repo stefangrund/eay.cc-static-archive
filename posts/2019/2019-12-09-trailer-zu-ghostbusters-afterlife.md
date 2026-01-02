@@ -22,4 +22,4 @@ meta:
 
 Stranger-Things'eskes Mysterium um eine Kleinstadt, die einerseits ein Geister­problem, andererseits einen Haufen Kinder mit Geister­jäger­gerät­schaften hat. Bestmögliche (und wahrscheinlich lukrativste) Idee, um sich einem Ghostbusters-Sequel anzunähern.
 
-\[youtube id="FSLPow5EcaE"\]
+[youtube id="FSLPow5EcaE"]

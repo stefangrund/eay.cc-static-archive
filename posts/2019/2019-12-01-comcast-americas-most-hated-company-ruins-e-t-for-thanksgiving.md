@@ -18,6 +18,6 @@ meta:
   - yourls_shorturl: "https://eay.li/3c2"
 ---
 
-\[youtube id="Pdgk3ERKdug"\]
+[youtube id="Pdgk3ERKdug"]
 
 Wtf.

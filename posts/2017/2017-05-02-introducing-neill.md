@@ -25,8 +25,8 @@ meta:
 
 Was das Theme neues mit sich bringt? Zuallererst ist das mein “_take on one column theme in 2017_”. Wie immer recht schmal und diesmal noch reduzierter als zuvor: Selbst auf ein Logo habe ich bei Neill komplett verzichtet. So wird der Inhalt zum Eye-Catcher, gefolgt von der Infobox oben rechts, die kurz und knapp erklärt, was das hier ist. Auch gibt es keine herkömmliche Navigation mehr. Stattdessen gibt es neben der Startseite und den mittlerweile rund 2.750 Einzelposts quasi nur noch [die About-Seite](//eay.cc/about/) und [das Archiv](//eay.cc/archive/), die immer da verlinkt sind, wo sie gerade benötigt werden. Die Idee dahinter war es, das Blog zu einem schnell rezipier- und produzierbaren _Stream_ zu machen, wie es den Nutzungs­gewohnheiten dieser Tage entspricht.
 
-Unter der Haube hat sich auch einiges getan, aber davon sind einige Features noch nicht abgeschlossen (z.B. der [Webmention](https://indieweb.org/Webmention)\-Support). Hier wird also in den nächsten Tagen und Wochen noch gearbeitet, trotzdem **freue ich mich wie immer über Feedback**, am besten direkt [hier in die Kommentare](https://eay.cc/2017/introducing-neill/#comments). 😊
+Unter der Haube hat sich auch einiges getan, aber davon sind einige Features noch nicht abgeschlossen (z.B. der [Webmention](https://indieweb.org/Webmention)-Support). Hier wird also in den nächsten Tagen und Wochen noch gearbeitet, trotzdem **freue ich mich wie immer über Feedback**, am besten direkt [hier in die Kommentare](https://eay.cc/2017/introducing-neill/#comments). 😊
 
-\--
+--
 
 P.S.: Ist das zu glauben, dass es bei Giphy noch kein GIF mit Neill Blomkamp gab, das ich zur Illustration dieses Blogeintrags heranziehen konnte? [Alles muss man selber machen...](https://giphy.com/gifs/neill-blomkamp-l0Iy5dMAZBy15REbK/)

@@ -20,7 +20,7 @@ meta:
   - yourls_shorturl: "https://eay.li/28y"
 ---
 
-\[youtube id="MlDw3gHoSGM"\]
+[youtube id="MlDw3gHoSGM"]
 
 Der Vollständigkeit halber hier noch der Teaser Trailer zu »Return of the Jedi«, der zum Zeitpunkt der Teaser-Veröffentlichung noch »Revenge of the Jedi« hieß. Der Titel wurde wegen der Konkurrenz zu »[Star Trek II: The Wrath of Khan](https://en.wikipedia.org/wiki/Star_Trek_II:_The_Wrath_of_Khan)«, der zuerst noch »Revenge of Khan« heißen sollte, und weil Jedi-Ritter natürlich feine Kerle sind, die nichts mit Rache am Hut haben, noch geändert. Es ist auf jeden Fall interessant zu sehen, wie ausgereift das Franchise hier schon war. Während [im allerersten Teaser](//eay.cc/2013/the-story-of-a-boy-a-girl-and-a-universe/) noch von der "story of a boy, a girl and a universe" die Rede war, stimmt hier von der Musik bis hin zur Aufmachung bereits alles.
 

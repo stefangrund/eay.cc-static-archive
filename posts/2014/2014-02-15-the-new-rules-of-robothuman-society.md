@@ -18,6 +18,6 @@ meta:
   - yourls_shorturl: "https://eay.li/2cz"
 ---
 
-\[youtube id="FfwxQn3AmUQ"\]
+[youtube id="FfwxQn3AmUQ"]
 
 Interessantes Video aus PBS' immer empfehlenswerter Webserie [Off Book](https://www.youtube.com/user/PBSoffbook), das sich mit den Fragen beschäftigt, die sich einer durch Roboter unterstützten Gesellschaft früher oder später stellen werden. Zum Beispiel wer verantwortlich für das Tun eines Roboters ist? Sein Besitzer oder der Programmierer? Oder wie ein Roboter bei Konflikten mit den [Asimov-Gesetzen](https://de.wikipedia.org/wiki/Robotergesetze) vorzugehen hat. Es können natürlich nur Antwortansätze gegeben werden, aber manche Probleme sind tagesaktuell. Wenn es etwa im Drohnenkrieg zu Kollateralschäden kommt, ist das ein Kriegsverbrechen oder nur ein Systemfehler?

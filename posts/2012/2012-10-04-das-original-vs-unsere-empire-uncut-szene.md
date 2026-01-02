@@ -22,6 +22,6 @@ meta:
 
 Hier nochmal [unsere »Empire Uncut«-Szene](//eay.cc/2012/unsere-empire-uncut-szene/), diesmal ergänzt um das Original und einen Direktvergleich beider Szenen. Wir freuen uns natürlich weiterhin über Likes, Shares und Kommentare [auf der Star Wars Uncut-Webseite](http://www.starwarsuncut.com/scene/1191).
 
-\[vimeo id="50753697"\]
+[vimeo id="50753697"]
 
 **Update, 11.10.2014:** Die finale Fassung des Films wurde [heute veröffentlicht](//eay.cc/2014/the-empire-strikes-back-uncut/) und unsere Szene ist drin!

@@ -26,4 +26,4 @@ meta:
 
 > Krise 101 sagt: Nicht lügen, und wenn man doch lügt und dabei auffällt, nicht weiterlügen. So gesehen bin ich ganz gespannt, wie lange sie das durchziehen wollen.
 
-[Frau Herzbruch](https://herzbruch.me/), die "beruflich diese D-Day-Papiere \[schreibt\], wie das von der FDP, nur in ganz anders", beschreibt, was aus ihrer Perspektive gerade rund um Christian Lindners "D-Day" passiert bzw. ihr auffällt. (via [@vowe](https://social.heise.de/@vowe/113568298007511045))
+[Frau Herzbruch](https://herzbruch.me/), die "beruflich diese D-Day-Papiere [schreibt], wie das von der FDP, nur in ganz anders", beschreibt, was aus ihrer Perspektive gerade rund um Christian Lindners "D-Day" passiert bzw. ihr auffällt. (via [@vowe](https://social.heise.de/@vowe/113568298007511045))

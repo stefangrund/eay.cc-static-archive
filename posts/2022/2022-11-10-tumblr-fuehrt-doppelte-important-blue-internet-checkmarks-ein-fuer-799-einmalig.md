@@ -27,7 +27,7 @@ meta:
   - linked_list_og-image: "https://eay.cc/wordpress/uploads/og-cache/54948c9afbd170d64df922db7e0d9d27.webp"
 ---
 
-> We're introducing Important Blue Internet Checkmarks here on Tumblr. They're a steal at $7.99—that's cheaper than some other places, when you consider that you get not one but TWO checkmarks for your blog on web only (for now). Why, you ask? Why not? Nothing matters! ¯\\\_(ツ)\_/¯
+> We're introducing Important Blue Internet Checkmarks here on Tumblr. They're a steal at $7.99—that's cheaper than some other places, when you consider that you get not one but TWO checkmarks for your blog on web only (for now). Why, you ask? Why not? Nothing matters! ¯\\_(ツ)_/¯
 
 Großartig & [Instant Buy](https://www.tumblr.com/eay/700574564687724544/hilarious-instant-buy)! 😄
 

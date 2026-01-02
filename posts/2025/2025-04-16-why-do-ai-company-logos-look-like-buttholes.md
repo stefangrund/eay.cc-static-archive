@@ -30,7 +30,7 @@ meta:
 
 > If you pay attention to AI company branding, you'll notice a pattern:
 > 
-> 1\. Circular shape (often with a gradient) 2. Central opening or focal point 3. Radiating elements from the center 4. Soft, organic curves
+> 1. Circular shape (often with a gradient) 2. Central opening or focal point 3. Radiating elements from the center 4. Soft, organic curves
 > 
 > Sound familiar? It should, because it's also an apt description of... well, you know.
 > 

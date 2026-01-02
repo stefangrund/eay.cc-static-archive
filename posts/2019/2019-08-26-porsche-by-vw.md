@@ -31,4 +31,4 @@ Great essay by [Scott Galloway](https://www.profgalloway.com/) about Facebook's 
 
 Free investment tips included:
 
-> People often ask me what stocks I own. Simple: the only investment strategy anybody needs is to own unregulated monopolies. I own Apple, Amazon, Facebook, and Nike. Ok, Nike isn't a monopoly \[...\].
+> People often ask me what stocks I own. Simple: the only investment strategy anybody needs is to own unregulated monopolies. I own Apple, Amazon, Facebook, and Nike. Ok, Nike isn't a monopoly [...].

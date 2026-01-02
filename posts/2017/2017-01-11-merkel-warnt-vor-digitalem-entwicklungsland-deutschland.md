@@ -20,7 +20,7 @@ meta:
   - yourls_shorturl: "https://eay.li/2w3"
 ---
 
-> Angela Merkel warnt davor, dass Deutschland zum digitalen Entwicklungsland wird - und zwar wegen eines überzogenen Datenschutzes. \[...\] In Deutschland müsse man sich von dem Prinzip der Datensparsamkeit verabschieden und sich der Verarbeitung großer Datenmengen für neue Produkte öffnen. Daran messe sich auch die Innovationsfähigkeit einer Gesellschaft.
+> Angela Merkel warnt davor, dass Deutschland zum digitalen Entwicklungsland wird - und zwar wegen eines überzogenen Datenschutzes. [...] In Deutschland müsse man sich von dem Prinzip der Datensparsamkeit verabschieden und sich der Verarbeitung großer Datenmengen für neue Produkte öffnen. Daran messe sich auch die Innovationsfähigkeit einer Gesellschaft.
 
 Genau, es liegt an der Datensparsamkeit – und nicht an fehlender Medien­kompetenz in der Gesellschaft und politischen Führung, international nicht konkurrenz­fähiger Infrastruktur oder Unsinnsgesetzen, wie dem Leistungs­schutz­recht, das einen z.B. im Unklaren lässt, ob ein Zitat von Titel und "Snippet", wie gerade in diesem Blogeintrag geschehen, überhaupt zulässig ist.
 

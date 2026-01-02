@@ -41,6 +41,6 @@ Während mir mit unserer gerade 14 Monate alten Tochter noch die 95% bevorstehen
 
 Weshalb ich so viel Zeit mit ihr verbracht habe wie möglich. Als die Diagnose klar war, habe ich mich um eine Wohnung bemüht, die nur fünf Minuten Fußweg von uns entfernt war, so dass ich jeden Tag bei ihr vorbeischauen konnte. War sie eine Woche im Krankenhaus, war ich sechs Tage davon da.
 
-Meine Mutter hatte zwischen ihrer plötzlichen Erkrankung und ihrem Tod noch 382 Tage ((Toll, so Day Counter…)), von denen, [wie ich Anfang 2023 festhielt](https://eay.cc/2023/2022/), "es mehr gute und schöne als schlechte Tage für sie und uns \[gab\]." Von diesen 382 Tagen war ich rund 350 bei ihr. Oft auch mehrfach am Tag, meistens vor und nach der Arbeit.
+Meine Mutter hatte zwischen ihrer plötzlichen Erkrankung und ihrem Tod noch 382 Tage ((Toll, so Day Counter…)), von denen, [wie ich Anfang 2023 festhielt](https://eay.cc/2023/2022/), "es mehr gute und schöne als schlechte Tage für sie und uns [gab]." Von diesen 382 Tagen war ich rund 350 bei ihr. Oft auch mehrfach am Tag, meistens vor und nach der Arbeit.
 
 Mehr Tage hätten wir, nach Tim Urbans obiger Rechnung eh nicht gehabt. Von daher bin ich froh, dass wir das Maximum rausgeholt haben.

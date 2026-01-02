@@ -19,4 +19,4 @@ meta:
   - yourls_shorturl: "https://eay.li/2p6"
 ---
 
-Verschriftlichung eines langen Vortrags, den [Maciej Ceglowski](http://idlewords.com/about.htm), der Gründer von Pinboard, im letzten Jahr auf der [HOW Interactive Design](http://www.howinteractiveconference.com/)\-Konferenz gehalten hat. Ausgehend von einer Analogie zur Luftfahrt beschreibt er darin die bisherige und zukünftige Entwicklung des Webs und setzt sich mit verschiedenen, kritisch betrachteten Sichtweisen auf unser aller Digitalsphäre auseinander. Wenn ihr im Netz lebt und arbeitet sicherlich der Must-Read der Woche.
+Verschriftlichung eines langen Vortrags, den [Maciej Ceglowski](http://idlewords.com/about.htm), der Gründer von Pinboard, im letzten Jahr auf der [HOW Interactive Design](http://www.howinteractiveconference.com/)-Konferenz gehalten hat. Ausgehend von einer Analogie zur Luftfahrt beschreibt er darin die bisherige und zukünftige Entwicklung des Webs und setzt sich mit verschiedenen, kritisch betrachteten Sichtweisen auf unser aller Digitalsphäre auseinander. Wenn ihr im Netz lebt und arbeitet sicherlich der Must-Read der Woche.

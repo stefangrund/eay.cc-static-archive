@@ -20,4 +20,4 @@ meta:
 
 Schöner Rückblick von [Dave Wiskus](http://betterelevation.com/), den ihr vielleicht als Podcaster und iOS-Entwickler kennt und der nun auch mit dem Format [Video-Essay](//eay.cc/2015/understanding-the-video-essay/) experimentiert.
 
-\[youtube id="vALW9fVOXHQ"\]
+[youtube id="vALW9fVOXHQ"]

@@ -19,4 +19,4 @@ meta:
 
 Hinter folgendem [Kurzfilm](//eay.cc/tag/kurzfilm/) mit dem einfallsreichen Titel "8 Days Later" verbirgt sich, klar, ein kleiner Zombiestreifen. Erzählt wird von einem einzelnen Soldaten, der einsam durch das Wasteland der Zombieapokalypse wandert und selbstverständlich Zombies killt. Das ganze ist wunderbar fotografiert, eigentlich aber nur ansehnliche Durchschnittskost - wenn da nicht das wirklich grandiose Ende wäre. Seht selbst:
 
-\[youtube id="IO4JFAmS0DY"\]
+[youtube id="IO4JFAmS0DY"]

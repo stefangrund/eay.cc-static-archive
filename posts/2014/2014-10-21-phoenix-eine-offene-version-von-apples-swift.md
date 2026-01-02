@@ -19,6 +19,6 @@ meta:
   - yourls_shorturl: "https://eay.li/2k2"
 ---
 
-> Today we're releasing Phoenix to give \[Apple\] a friendly nudge. It's what friends do when they notice someone they care about making a mistake. We hope Apple does the right thing and release Swift under a free and open license so we can contribute to that instead of needlessly duplicating effort building our own version.
+> Today we're releasing Phoenix to give [Apple] a friendly nudge. It's what friends do when they notice someone they care about making a mistake. We hope Apple does the right thing and release Swift under a free and open license so we can contribute to that instead of needlessly duplicating effort building our own version.
 
-Ich glaube, aus der [Ind.ie](https://ind.ie/)\-Ecke kommt demnächst noch einiges an interessantem Technologie-Zeugs auf uns zu.
+Ich glaube, aus der [Ind.ie](https://ind.ie/)-Ecke kommt demnächst noch einiges an interessantem Technologie-Zeugs auf uns zu.

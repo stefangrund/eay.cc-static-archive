@@ -14,4 +14,4 @@ meta:
   - yourls_shorturl: "https://eay.li/ui"
 ---
 
- [![](/uploads/2009/blinkfeed.gif)](http://eay.cc/feed/) **Jetzt abonnieren!** Nur noch kurze Zeit verfügbar! \* UVP, da noch 4 FR33!
+ [![](/uploads/2009/blinkfeed.gif)](http://eay.cc/feed/) **Jetzt abonnieren!** Nur noch kurze Zeit verfügbar! * UVP, da noch 4 FR33!

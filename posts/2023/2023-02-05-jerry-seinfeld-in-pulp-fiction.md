@@ -29,7 +29,7 @@ Erinnert ihr euch auch gerne an die Seinfeld-Episode, in der Marsellus Wallaces 
 
 Nein, dann dürfte euch dieser Deepfake von [DesiFakes](https://www.youtube.com/@DesiFakes) auf die Sprünge helfen:
 
-\[youtube id="S1MBVXkQbWU"\]
+[youtube id="S1MBVXkQbWU"]
 
 YouTube-Kommentator [HazyShadows](https://www.youtube.com/watch?v=S1MBVXkQbWU&lc=UgwDeo0DzRgI5eFdtpN4AaABAg) liefert auch gleich den passenden Seinfeld-Dialog nach:
 

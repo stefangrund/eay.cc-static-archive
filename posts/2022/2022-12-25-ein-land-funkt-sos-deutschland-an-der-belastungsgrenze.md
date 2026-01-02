@@ -24,7 +24,7 @@ meta:
 
 Oliver Pieper hat bei der Deutschen Welle eine Chronik des letzten Monats zusammengestellt, die exemplarisch aufzeigt, wie marode die kritische Infrastruktur – Brücken, Militär, Medikamente, Kinder- und Krankenversorgung – unseres Landes mittlerweile ist.
 
-Ich habe dieses Jahr viel zu viele Einblicke in unser Gesundheitssystem bekommen und kann das hier nur bestätigen. Getragen wird die Versorgung oftmals nur von engagierten Mitarbeiter\*innen – wobei das Gender-Sternchen hier eigentlich getrost gestrichen werden könnte, handelt es sich doch fast ausschließlich nur um Frauen.
+Ich habe dieses Jahr viel zu viele Einblicke in unser Gesundheitssystem bekommen und kann das hier nur bestätigen. Getragen wird die Versorgung oftmals nur von engagierten Mitarbeiter*innen – wobei das Gender-Sternchen hier eigentlich getrost gestrichen werden könnte, handelt es sich doch fast ausschließlich nur um Frauen.
 
 Wer diesen Zustand der amtierenden Regierung anlastet ("Dieser Lauterbach!"), verkennt natürlich die Misspolitik der davor liegenden 16 Jahre unter Federführung der CDU, aber natürlich mit Beteiligung der SPD. Montgomery-Burns-Lookalike Merz sollte sich, wann immer er den Mund aufmacht, daran erinnern.
 

@@ -24,4 +24,4 @@ meta:
 
 Sehr interessanter Wettbewerb, der zeigt, wie leicht sich die filmische Erwartungshaltung des Zuschauers mit einem Trailer beeinflussen lässt (was wir ja schon alle selbst erlebt haben: Trailer ≠ Film). Gewinner des Wettbewerbs war ein Trailer von [The Shining](http://www.imdb.com/title/tt0081505/), der Kubricks Horror-Klassiker in ein völlig anderes Genre transferiert. Seht selbst:
 
-\[youtube id="KmkVWuP\_sO0"\]
+[youtube id="KmkVWuP_sO0"]

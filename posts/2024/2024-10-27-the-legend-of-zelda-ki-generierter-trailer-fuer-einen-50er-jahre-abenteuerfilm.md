@@ -22,7 +22,7 @@ meta:
   - _share_on_mastodon_url: "https://eay.social/@eay/113379087618733694"
 ---
 
-\[youtube id="LMmVw2yd7VI"\]
+[youtube id="LMmVw2yd7VI"]
 
 Scheinbar hat sich ein ganzes Ökosystem aus YouTube-Channels um diese KI-generierten Fake-Trailer etabliert, [die wir hier auch schon hatten](https://eay.cc/2024/ki-generierte-50er-jahre-trailer-fuer-rick-morty-futurama-spongebob-u-v-m/). Das Erfolgs­rezept ist offenkundig: Beliebtes Franchise nehmen, Trailer in einem anderen Setting erstellen und Teaserbild einer übertriebenen, leicht bekleideten KI-Frau davor setzen.
 

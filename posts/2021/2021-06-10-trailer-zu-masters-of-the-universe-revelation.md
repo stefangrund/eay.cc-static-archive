@@ -18,7 +18,7 @@ meta:
   - yourls_shorturl: "https://eay.li/2on"
 ---
 
-\[youtube id="81wyj65SJIo"\]
+[youtube id="81wyj65SJIo"]
 
 > From Executive Producer Kevin Smith, comes an epic story that picks up where the 80’s series left off and brings the power of Grayskull back to the world. Part 1 of Masters of the Universe: Revelation premieres July 23, only on Netflix.
 

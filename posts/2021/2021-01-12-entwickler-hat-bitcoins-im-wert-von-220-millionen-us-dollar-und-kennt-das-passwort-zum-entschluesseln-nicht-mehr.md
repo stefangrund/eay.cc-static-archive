@@ -23,7 +23,7 @@ meta:
   - yourls_shorturl: "https://eay.li/12j"
 ---
 
-> The password will let him unlock a small hard drive, known as an IronKey, which contains the private keys to a digital wallet that holds 7,002 Bitcoin. \[...\]
+> The password will let him unlock a small hard drive, known as an IronKey, which contains the private keys to a digital wallet that holds 7,002 Bitcoin. [...]
 > 
 > The problem is that Mr. Thomas years ago lost the paper where he wrote down the password for his IronKey, which gives users 10 guesses before it seizes up and encrypts its contents forever.
 

@@ -20,6 +20,6 @@ meta:
 
 Wenn man keine Zeit hat, um sich ordnungsgemäß ums eigene Blog zu kümmern, kommt von irgendwo der Star Wars Celebration, die gerade in Anaheim stattfindet, der zweite Teaser zu »[The Force Awakens](//eay.cc/2014/the-force-awakens/)« daher. Passend um vor »Avengers: Age of Ultron« und in dieses Blog gepackt werden zu können.
 
-\[youtube id="ngElkyQ6Rhs"\]
+[youtube id="ngElkyQ6Rhs"]
 
 Meine Highlights: Der gestrandete Sternenzerstörer, wie wir es uns erhofft ([und teils schon gesehen](//eay.cc/2014/episode-vii-concept-art-geleakt/)) hatten, die neuen Stormtrooper und natürlich Han und Chewie. In 245 Tagen ist es endlich soweit!

@@ -22,6 +22,6 @@ meta:
   - yourls_shorturl: "https://eay.li/303"
 ---
 
-\[youtube id="oUhFXwrd3-I"\]
+[youtube id="oUhFXwrd3-I"]
 
 (via [PewPewPew](https://www.pewpewpew.de/2021/12/13/baby-yoda-shuts-down-jurassic-park/))

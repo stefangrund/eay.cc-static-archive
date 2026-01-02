@@ -17,6 +17,6 @@ meta:
   - yourls_shorturl: "https://eay.li/34q"
 ---
 
-\[youtube id="jPEYpryMp2s"\]
+[youtube id="jPEYpryMp2s"]
 
 Nach dem unsäglichen [ersten Teaser](https://eay.cc/2018/solo-a-star-wars-story-kompletter-teaser/) hier nun der Trailer zum Han-Solo-Spin-Off. Sieht deutlich besser aus, aber nach [den Enttäuschungen](https://twitter.com/eay/status/981571232603701248) der letzten Monate bin ich weiterhin skeptisch.

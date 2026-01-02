@@ -17,6 +17,6 @@ meta:
   - yourls_shorturl: "https://eay.li/12c"
 ---
 
-\[youtube id="fn3KWM1kuAw"\]
+[youtube id="fn3KWM1kuAw"]
 
 Perfekter [Tweet von @RupertMyers](https://twitter.com/RupertMyers/status/1344037813868785664) zum neuen Boston-Dynamics-Video.

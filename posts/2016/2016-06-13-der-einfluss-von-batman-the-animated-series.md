@@ -22,7 +22,7 @@ meta:
   - yourls_shorturl: "https://eay.li/2u8"
 ---
 
-\[youtube id="u5Cdguyut8s"\]
+[youtube id="u5Cdguyut8s"]
 
 Eigentlich könnte ich hier jedes Video-Essay von [Kristian Williams](https://twitter.com/kaptainkristian) ungeprüft und trotzdem besten Gewissens posten, so gut sind seine popkulturellen Bewegtbild­abhandlungen. Und dieses mal hat er sich mit »[Batman: The Animated Series](https://en.wikipedia.org/wiki/Batman:_The_Animated_Series)« einer Lieblingsserie meiner Kindheit angenommen und zeigt, wie diese DC und Batman selbst geprägt hat.
 

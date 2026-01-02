@@ -33,7 +33,7 @@ Die Community macht ein Forum halt zu dem was es ist und ich würde mal behaupte
 
 **Kann man dich dieser Tage online irgendwo antreffen? Wenn ja (und wenn du's verraten möchtest), wo?**
 
-Mich findet man eigentlich überall online meist unter McLee, oder The\_McLee falls ein schottischer Asiate mal wieder meinen Nickname geklaut hat. Wenn es ganz schlimm ist kann's auch mal TheOneAndOnlyMcLee sein, aber das McLee hat sich durchgesetzt. Auch wenn meine Profile wenig gepflegt und teilweise auch tot wirken kann ich euch versichern das man mich jederzeit erreichen kann.
+Mich findet man eigentlich überall online meist unter McLee, oder The_McLee falls ein schottischer Asiate mal wieder meinen Nickname geklaut hat. Wenn es ganz schlimm ist kann's auch mal TheOneAndOnlyMcLee sein, aber das McLee hat sich durchgesetzt. Auch wenn meine Profile wenig gepflegt und teilweise auch tot wirken kann ich euch versichern das man mich jederzeit erreichen kann.
 
 **Welche Frage hättest du hier gerne noch gestellt bekommen und wie lautet die Antwort?**
 

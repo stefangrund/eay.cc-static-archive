@@ -25,6 +25,6 @@ meta:
 
 [Jacob Janerka](https://twitter.com/JacobJanerka) und [Ivan Dixon](https://www.ivandixon.com/) sind verständlicherweise große Fans von Seinfeld, der allseits beliebten "show about nothing", die zwischen 1989 und 1998 alle Rekorde brach. Da sich die Show auch heute noch großer Beliebtheit erfreut und ungebrochen relevant ist, würden sie gerne ein Videospiel zur Serie machen, fürchten aber von Jerry Seinfeld & Konsorten nicht angehört zu werden.
 
-\[youtube id="PAVoHFRytOQ"\]
+[youtube id="PAVoHFRytOQ"]
 
 Weshalb sie [unter seinfeldgame.com](https://www.seinfeldgame.com/) einen ausführlichen Pitch samt perfekter Pixel-Art und vermeintlichem Game-Trailer veröffentlicht haben. Auf das ihre Idee Anklang findet und womöglich realisiert werden kann. Ich für meinen Teil wäre definitiv dafür und dabei!

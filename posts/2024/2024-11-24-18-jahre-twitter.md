@@ -30,7 +30,7 @@ meta:
 
 Gestern war mein 18. Twitter-Geburtstag bzw. wäre er gewesen, wenn ich die zum radikalen, rechten Höllenschlund verkommene Plattform, die heute X heißt, noch aktiv nutzen würde. [Zum 16. Jubiläum schrieb ich](https://eay.cc/2022/16-jahre-twitter/):
 
-> Wenn man sich [meine mit #twitter getaggten Blogposts](https://eay.cc/tag/twitter/) ansieht, \[kann man\] live mitverfolgen, wie Twitter und ich uns mit jeder Fehlentscheidung des Managements voneinander entfernt haben. Was dieser Tage passiert, übertrifft das alles nochmal.
+> Wenn man sich [meine mit #twitter getaggten Blogposts](https://eay.cc/tag/twitter/) ansieht, [kann man] live mitverfolgen, wie Twitter und ich uns mit jeder Fehlentscheidung des Managements voneinander entfernt haben. Was dieser Tage passiert, übertrifft das alles nochmal.
 
 Das ist zwei Jahre her und seitdem ist alles rund um X und Elon Musk, der dieser Tage [die Kumpelei mit Donald Trump strapaziert](https://newrepublic.com/post/188501/elon-musk-annoying-trump-team), noch sehr viel [schlimmer](https://eay.cc/2024/x-for-you-page-vom-08-09-2024/) geworden. Was X angeht und weltpolitisch, wobei die Grenzen hierbei fließend sind.
 

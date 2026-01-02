@@ -20,6 +20,6 @@ meta:
 
 Ein bisschen holprig, aber dennoch ganz groß: Carly Rae Jepsens "Call Me Maybe" aus Star Wars-Dialogfetzen zusammengeschustert. (Mal gucken, wer's zuerst geofickt oder löschen lässt: Lucasfilm, Fox, die GEMA oder Universal.)
 
-\[youtube id="dBM7i84BThE"\]
+[youtube id="dBM7i84BThE"]
 
 (via [Waxy.org Links](http://waxy.org/links/))

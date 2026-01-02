@@ -22,4 +22,4 @@ meta:
 
 ![Hypercode Visitenkarten](https://eay.cc/uploads/2020/visitenkarten.jpeg)
 
-Finde die Aufmachung der [Moo](https://www.moo.com/)\-Produkte nach all den Jahren immer noch überaus gelungen. „Thank you legal folk.“ 😂
+Finde die Aufmachung der [Moo](https://www.moo.com/)-Produkte nach all den Jahren immer noch überaus gelungen. „Thank you legal folk.“ 😂

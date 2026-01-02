@@ -21,7 +21,7 @@ meta:
   - yourls_shorturl: "https://eay.li/2fq"
 ---
 
-\[youtube id="w1m51I95PSI"\]
+[youtube id="w1m51I95PSI"]
 
 Schöner Recut-Trailer, der andeutet, wie der Krieg der Sterne unter Tarantino hätte aussehen können und besetzt worden wäre. (via [Minds Delight](http://www.mindsdelight.de/2014/05/star-wars-reimagined-as-a-quentin-tarantino-film/))
 

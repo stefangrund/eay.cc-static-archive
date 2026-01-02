@@ -26,7 +26,7 @@ Schlechten Menschen geht es ja immer gut! ;) Mir geht es sehr gut, ich bin im pr
 
 **Irgendwelche Erinnerungen ans eayz.net Forum?**
 
-Das Forum war für mich quasi der Einstieg ins Thema Internet. Der erste zaghaft gesetzte Link, das erste \[img\]insertnonsensehere.bmp\[/img\] und fleißiges füllen von Threads mit allem, was rotten.com damals so hergab! ;) Einen Großteil der Community, die da ihr Unwesen trieb kannte man ja, gerade das machte die ganze Sache aber interessanter. Generell muss man sagen, dass eayz.net eine interessante und stetige Entwicklung durchgemacht hat, vom Forum hin zu einer Art Satire-Blog für den wir fleißig schrieben bis hin zum Pop-Blog, der mich wöchentlich mit dem Kopf schütteln lässt, über die Dinge die es so gibt! ;)
+Das Forum war für mich quasi der Einstieg ins Thema Internet. Der erste zaghaft gesetzte Link, das erste [img]insertnonsensehere.bmp[/img] und fleißiges füllen von Threads mit allem, was rotten.com damals so hergab! ;) Einen Großteil der Community, die da ihr Unwesen trieb kannte man ja, gerade das machte die ganze Sache aber interessanter. Generell muss man sagen, dass eayz.net eine interessante und stetige Entwicklung durchgemacht hat, vom Forum hin zu einer Art Satire-Blog für den wir fleißig schrieben bis hin zum Pop-Blog, der mich wöchentlich mit dem Kopf schütteln lässt, über die Dinge die es so gibt! ;)
 
 **Kann man dich dieser Tage online irgendwo antreffen? Wenn ja (und wenn du's verraten möchtest), wo?**
 
@@ -38,7 +38,7 @@ Ansonsten bin ich weiterhin ein großer Fan von [schnittberichte.com](http://sch
 
 Was war das verrückteste Erlebnis, dass du mit eayz.net verbindest?
 
-Da bietet sich bei mir eigentlich nur der Fall eayz vs. Daniel Küblböck an. mIch hatte als ewiger Dauerpraktikant bei eayz (nennt mich Elton) einen... sagen wir etwas kritischen Artikel zu ebenjenem DSDS-Phänomen verfasst. \[...\] ((Anm. v. Eay: Timo führte hier ein langes, bösartiges, aber nach wie vor übelst unterhaltsames Zitat aus seinem Artikel an, auf das ich heutzutage doch lieber verzichten möchte.)) Nun war und bin ich bis heute der Meinung, dass Satire alles darf und ich lediglich meinen Artikel mit diesem stilistischen Mittel verfeinert hatte... wie wenn man am Salzstreuer den Verschluss abdreht.
+Da bietet sich bei mir eigentlich nur der Fall eayz vs. Daniel Küblböck an. mIch hatte als ewiger Dauerpraktikant bei eayz (nennt mich Elton) einen... sagen wir etwas kritischen Artikel zu ebenjenem DSDS-Phänomen verfasst. [...] ((Anm. v. Eay: Timo führte hier ein langes, bösartiges, aber nach wie vor übelst unterhaltsames Zitat aus seinem Artikel an, auf das ich heutzutage doch lieber verzichten möchte.)) Nun war und bin ich bis heute der Meinung, dass Satire alles darf und ich lediglich meinen Artikel mit diesem stilistischen Mittel verfeinert hatte... wie wenn man am Salzstreuer den Verschluss abdreht.
 
 Einige Wochen später ruft der Chef mich an und erläutert mir trocken am Telefon, dass es Ärger gibt. Ein Fan ebenjenes Sängers hätte sich per Mail gemeldet und juristische Konsequenzen angedroht. Doch nicht etwa bezüglich meiner Äußerungen, die waren eher nur der Tropfen der das Fass zum Überlaufen brachte. Nein, es ging vielmehr darum, dass ich das Banner seiner Küblböck Fanseite im Artikel verwendet hatte und er seine Copyright-Rechte (neben seinem Stolz und seiner Selbstachtung) verletzt sah.
 

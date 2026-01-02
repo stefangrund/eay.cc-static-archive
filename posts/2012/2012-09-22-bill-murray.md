@@ -19,4 +19,4 @@ meta:
 
 "Video Remix DJ Producer" [Eclectic Method](https://www.facebook.com/EclecticMethod/info) zollt Bill Murray, dem "hippest dude of Ever!", mit folgendem Zusammenschnitt zu Recht Tribut. Denn ich sag's ja auch immer: Bill Murray, Jack Nicholson und Nic Cage, that's it. (via [Coudal](http://www.coudal.com/))
 
-\[youtube id="p4nH0GsmY14"\]
+[youtube id="p4nH0GsmY14"]

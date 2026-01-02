@@ -24,7 +24,7 @@ meta:
 
 Ein Reporter fragt Passenten in Sydney im August 1962, ob sie an Leben auf anderen Planeten glauben, was aus heutiger Sicht ein paar überraschende Antworten produziert:
 
-\[youtube id="EkvffcxQzMY"\]
+[youtube id="EkvffcxQzMY"]
 
 > Do you think there's no life on other planets?
 

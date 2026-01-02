@@ -30,6 +30,6 @@ Eine Kuriosität von Good Old Twitter, die mir auch noch nicht bekannt war:
 
 Zur Erinnerung: Das iPhone kam bereits 2007 auf den Markt, ein Jahr bevor die US-Firma [Peek](https://en.wikipedia.org/wiki/Peek_(mobile_Internet_device)) standalone Handhelds herausbrachte, mit denen man SMS und Emails empfangen und verschicken konnte. Oder mit dem TwitterPeek eben nur Tweets.
 
-\[youtube id="MgSRB5ARsRE"\]
+[youtube id="MgSRB5ARsRE"]
 
 Im obigen Video sehen wir das damalige, mäßig begeisterte Review von CNET dazu und Gizmodo titelte unverblümt “[The TwitterPeek is so dumb it makes my brain hurt](https://gizmodo.com/the-twitterpeek-is-so-dumb-it-makes-my-brain-hurt-5396213)”.

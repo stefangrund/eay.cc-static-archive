@@ -23,6 +23,6 @@ Ich glaube, ich habe es hier zuvor noch nicht erwähnt (aber [hier](http://twitt
 
 Standesgemäß stehen hier [alle Bände](http://eay.cc/walkingdeadamazon) im Schrank, die nicht nur ich mehrmals verschlungen habe, sondern die bereits für etliche Leute als Einstiegsdroge herhalten mussten. Klar, dass ich mich da, wie es sich für jeden Zombie-Aficionado gehört, überaus sehr auf die im Oktober startende [Walking Dead-Fernsehserie](http://www.amctv.com/originals/The-Walking-Dead/) von AMC ("Breaking Bad") freue. Und damit sich nicht nur die Eingeweihten, sondern die ganze Zielgruppe vorfreuen kann, fackelt AMC dieser Tage ein wahres Werbefreuerwerk ab. Unter anderem eben mit dem folgenden, sehenswerten Motion Comic, der die erste Episode von [Rick Grimes](http://www.comicvine.com/rick-grimes/29-42443/)' Zombiehatz bewegtbebildert und den ihr euch - egal ob ihr TWD schon kennt oder nicht - unbedingt ansehen solltet:
 
-\[youtube id="lhhQRkvcJQ4"\]
+[youtube id="lhhQRkvcJQ4"]
 
 (via [Nerdcore](http://www.nerdcore.de/wp/2010/07/21/the-walking-dead-motioncomic/))

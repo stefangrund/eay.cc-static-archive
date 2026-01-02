@@ -23,6 +23,6 @@ meta:
 
 > The Mutant Ninja Turtles aren’t teenagers anymore in an update of the animated series that shows how the superheroes face problems as middle-aged adults.
 
-Episode 1: \[youtube id="FZwmI0u8Qk8"\]
+Episode 1: [youtube id="FZwmI0u8Qk8"]
 
-Episode 2: \[youtube id="2xRJrfWXNjc"\]
+Episode 2: [youtube id="2xRJrfWXNjc"]

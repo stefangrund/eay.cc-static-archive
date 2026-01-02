@@ -20,6 +20,6 @@ meta:
   - yourls_shorturl: "https://eay.li/2ai"
 ---
 
-Richard Gutjahr über die "immer mieseren Tricks und Täuschungsmanöver \[mit denen\] CDU/CSU und SPD die vom Bundesverfassungsgericht gekippte Vorratsdatenspeicherung wieder einzuführen \[versuchen\]". Vor allem den Zugriff auf die Bestandsdaten hält Gutjahr für problematisch:
+Richard Gutjahr über die "immer mieseren Tricks und Täuschungsmanöver [mit denen] CDU/CSU und SPD die vom Bundesverfassungsgericht gekippte Vorratsdatenspeicherung wieder einzuführen [versuchen]". Vor allem den Zugriff auf die Bestandsdaten hält Gutjahr für problematisch:
 
 > Gerade der ungebremste Zugriff staatlicher Behörden auf die Datenbanken privater Internet- und Telekommunikationsserviceanbieter erweist sich dabei als fatal. Von einem Recht auf informationelle Selbstbestimmung, wie es das Bundesverfassungsgericht im Jahr 1983 verkündet hatte, kann heute, 30 Jahre später, keine Rede mehr sein.

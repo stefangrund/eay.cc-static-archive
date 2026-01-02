@@ -19,7 +19,7 @@ meta:
   - yourls_shorturl: "https://eay.li/2tv"
 ---
 
-\[youtube id="kPnlQTi8heM"\]
+[youtube id="kPnlQTi8heM"]
 
 Animierter He-Man Look-alike kehrt in die Real-Life-Welt seiner Ex-Frau und seines Sohns Alangulon (!) zurück.
 

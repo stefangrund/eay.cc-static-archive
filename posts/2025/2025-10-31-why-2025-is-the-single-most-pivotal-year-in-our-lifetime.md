@@ -22,7 +22,7 @@ meta:
   - content_copy: "https://bsky.app/profile/eay.social/post/3m4jkno44bc2h"
 ---
 
-\[youtube id="w5k72A30kUc"\]
+[youtube id="w5k72A30kUc"]
 
 Ein interessantes, wenn auch etwas pathetisches Video, in dem der Futurist [Peter Leyden](https://www.peterleyden.com/) argumentiert, dass wir uns durch die gleichzeitigen, rasanten Entwicklungen in Künstlicher Intelligenz, sauberer Energie und Biotechnologie an einem historischen Wendepunkt befinden. "One of the rare moments in American and global history when everything gets reimagined at once".
 

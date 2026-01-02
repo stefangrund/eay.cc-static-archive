@@ -43,4 +43,4 @@ In diesem Sinne: Ich warte. Nächste Woche läuft mein Apple Care Protection Pla
 <blockquote class="twitter-tweet"><p>Oder ich entscheide mich dafür mein jetziges MBP noch ein Weilchen zu behalten und den RAM zu verdoppeln. Kostenpunkt: 60â¬. Hm...</p>— Stefan Grund (@Eay) <a href="https://twitter.com/Eay/status/212288090587414532" data-datetime="2012-06-11T20:59:59+00:00">June 11, 2012</a></blockquote>
 <script src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-(alternativer Titel: Als die Vernunft über \*habenwill\* siegte.)
+(alternativer Titel: Als die Vernunft über *habenwill* siegte.)

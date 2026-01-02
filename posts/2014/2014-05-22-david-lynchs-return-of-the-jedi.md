@@ -21,6 +21,6 @@ meta:
   - yourls_shorturl: "https://eay.li/2g3"
 ---
 
-\[youtube id="PALjbTo1D5U"\]
+[youtube id="PALjbTo1D5U"]
 
 Nachdem sich [Wes Anderson](//eay.cc/2012/wes-andersons-star-wars/) und [Quentin Tarantino](//eay.cc/2014/quentin-tarantinos-star-wars/) hier schon spaßeshalber dem Krieg der Sterne angenommen haben, folgt nun ein Recut-Trailer, der sich beinahe hätte bewahrheiten können. Denn [bekanntlich](//eay.cc/2009/david-lynch-sollte-die-ruckkehr-der-jedi-ritter-drehen/) sollte David Lynch ja tatsächlich bei »Die Rückkehr der Jedi-Ritter« im Regiestuhl sitzen, wenn's nach George Lucas gegangen wäre. (via [Nerdcore](http://www.crackajack.de/2014/05/20/david-lynchs-return-of-the-jedi/))

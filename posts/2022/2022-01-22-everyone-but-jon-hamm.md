@@ -22,6 +22,6 @@ meta:
   - yourls_shorturl: "https://eay.li/3gx"
 ---
 
-\[youtube id="VD3wy3drkyA"\]
+[youtube id="VD3wy3drkyA"]
 
 Schöner Werbespot für Apple TV+. (via [Daring Fireball](https://daringfireball.net/linked/2022/01/22/everyone-but-jon-hamm))

@@ -23,4 +23,4 @@ meta:
 
 Genau das hat nämlich gerade ein Unbekannter gemacht, der auf der Suche nach dem vergriffenen Pornofilm »Carl Ludwig, 2. Teil – Carl Ludwigs heiße Träume« war. Das Kölner Verwaltungsgericht litt mit ihm gab ihm Recht und urteilte, die BPjM müsse den Film als amtliche Information nach Â§ 2 IFG herausgeben.
 
-Entweder war da in einem bisher ungeahnten Ausmaß _Not am Mann_ oder das ist ein ziemlich beeindruckender Akt des Trollens, der die Bundesprüfstelle, die "qua Amtsauftrag über eines der bestsortierten Pornoarchive weltweit \[verfügt\]", zur amüsanten Anlaufstelle für seltene Medienprodukte degradiert.
+Entweder war da in einem bisher ungeahnten Ausmaß _Not am Mann_ oder das ist ein ziemlich beeindruckender Akt des Trollens, der die Bundesprüfstelle, die "qua Amtsauftrag über eines der bestsortierten Pornoarchive weltweit [verfügt]", zur amüsanten Anlaufstelle für seltene Medienprodukte degradiert.

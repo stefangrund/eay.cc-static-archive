@@ -20,6 +20,6 @@ meta:
   - yourls_shorturl: "https://eay.li/2k8"
 ---
 
-\[youtube id="30JfbXmLFn0"\]
+[youtube id="30JfbXmLFn0"]
 
 "Das Beste an »[The Wolf of Wall Street](//eay.cc/tag/the-wolf-of-wall-street/#thewolfofwallstreet)« sind die ganzen Mashups", ich kann mich [da](//eay.cc/2014/the-worf-of-starfleet/) nur [wiederholen](//eay.cc/2014/the-dwarf-of-westeros/). Vor allem wenn es ein Mashup mit System of a Down ist und mir gerade wieder [Toxicity](http://www.amazon.de/exec/obidos/ASIN/B009J6214O/eayznet-21) in die Heavy Rotation gespült hat. (via [Pew³](http://www.pewpewpew.de/2014/10/13/the-wolf-of-wall-street-x-system-of-a-down/))

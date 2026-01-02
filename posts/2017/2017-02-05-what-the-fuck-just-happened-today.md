@@ -19,6 +19,6 @@ meta:
   - yourls_shorturl: "https://eay.li/2wi"
 ---
 
-> WTF Just Happened Today is a personal project to log the daily shock and awe in Trump's America. The goal is to capture the most important news in a digestable form \[...\].
+> WTF Just Happened Today is a personal project to log the daily shock and awe in Trump's America. The goal is to capture the most important news in a digestable form [...].
 
-Sehr nützliche Seite von [@matt\_kiser](https://twitter.com/matt_kiser), um all den Trump-News irgendwie folgen zu können.
+Sehr nützliche Seite von [@matt_kiser](https://twitter.com/matt_kiser), um all den Trump-News irgendwie folgen zu können.

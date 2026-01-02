@@ -18,4 +18,4 @@ meta:
   - yourls_shorturl: "https://eay.li/29c"
 ---
 
-> "We're very excited to share the official 2015 release date for Star Wars: Episode VII, where it will not only anchor the popular holiday filmgoing season but also ensure our extraordinary filmmaking team has the time needed to deliver a sensational picture," said Alan Horn, chairman of The Walt Disney Studios. \[...\] Shooting is scheduled to begin spring 2014 at Pinewood Studios.
+> "We're very excited to share the official 2015 release date for Star Wars: Episode VII, where it will not only anchor the popular holiday filmgoing season but also ensure our extraordinary filmmaking team has the time needed to deliver a sensational picture," said Alan Horn, chairman of The Walt Disney Studios. [...] Shooting is scheduled to begin spring 2014 at Pinewood Studios.

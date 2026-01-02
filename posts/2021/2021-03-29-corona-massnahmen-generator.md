@@ -24,6 +24,6 @@ Ministerpräsidentenkonferenz-kompatible Schutzmaßnahmen aus dem Generator von 
 
 > Bibliotheken mit einem Augenzwinkern öffnen
 
-> Krankenpfleger\*innen bei Inzidenz >200 den Facebook-Account sperren
+> Krankenpfleger*innen bei Inzidenz >200 den Facebook-Account sperren
 
 (via [Das Nuf](https://dasnuf.de/willkommen-in-meiner-kleinen-welt/))

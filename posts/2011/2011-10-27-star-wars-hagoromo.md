@@ -21,6 +21,6 @@ meta:
   - yourls_shorturl: "https://eay.li/1c5"
 ---
 
-\[youtube id="2Q02weIJD3I"\]
+[youtube id="2Q02weIJD3I"]
 
 (via [Gavin Rothery](http://www.gavinrothery.com/my-blog/2011/10/23/japanese-star-wars-commercial.html) one more time)

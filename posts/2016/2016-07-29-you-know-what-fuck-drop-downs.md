@@ -18,7 +18,7 @@ meta:
   - yourls_shorturl: "https://eay.li/2ut"
 ---
 
-\[youtube id="hcYAHix-riY"\]
+[youtube id="hcYAHix-riY"]
 
 Unterhaltsamer SXSW-Talk von [Eric Campbell](https://twitter.com/ericlcampbell) und [Golden Krishna](https://twitter.com/goldenkrishna):
 

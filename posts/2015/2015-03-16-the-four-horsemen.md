@@ -24,6 +24,6 @@ meta:
   - yourls_shorturl: "https://eay.li/2nt"
 ---
 
-\[youtube id="XCvwCcEP74Q"\]
+[youtube id="XCvwCcEP74Q"]
 
 Superschneller und superspannender Vortrag von Marketing-Professor [Scott Galloway](http://www.stern.nyu.edu/faculty/bio/scott-galloway) über die Zukunft die von Amazon, Apple, Facebook, Google. Gehalten im Januar beim [DLD](http://dld-conference.com/DLD15). (via [mkln](https://mkln.org/2015/03/scott-galloway-ueber-amazon-apple-facebook-und-google/))

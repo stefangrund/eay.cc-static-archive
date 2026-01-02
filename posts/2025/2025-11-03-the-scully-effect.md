@@ -28,7 +28,7 @@ meta:
   - content_copy: "https://bsky.app/profile/eay.social/post/3m4qhmcp5cw27"
 ---
 
-> The character \[Dana Scully\] is believed by some to have initiated a phenomenon referred to as "The Scully Effect," as the character's role as a medical doctor and FBI Special Agent inspired many young women to pursue careers in science, medicine, engineering, and law enforcement, and as a result brought a perceptible increase in the number of women in those fields.
+> The character [Dana Scully] is believed by some to have initiated a phenomenon referred to as "The Scully Effect," as the character's role as a medical doctor and FBI Special Agent inspired many young women to pursue careers in science, medicine, engineering, and law enforcement, and as a result brought a perceptible increase in the number of women in those fields.
 
 Gillian Anderson bestätigte während der San Diego Comic Con 2013, dass sie das auch wahrnahm:
 

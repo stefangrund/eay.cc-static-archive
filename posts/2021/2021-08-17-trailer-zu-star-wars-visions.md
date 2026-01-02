@@ -21,4 +21,4 @@ meta:
 
 Nach der [Ankündigung und erstem Bewegtbild](https://eay.cc/2021/star-wars-visions/) vom letzten Monat hier nun der erste vollständige und vielversprechende Trailer zur Anime-Anthologie, die am 22. September auf Disney+ startet:
 
-\[youtube id="lle0NNmvIyU"\]
+[youtube id="lle0NNmvIyU"]

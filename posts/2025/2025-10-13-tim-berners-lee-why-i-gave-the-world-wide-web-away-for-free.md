@@ -29,8 +29,8 @@ meta:
   - content_copy: "https://bsky.app/profile/eay.social/post/3m33uhxzdnu2o"
 ---
 
-> \[…\] We need a Cern-like not-for-profit body driving forward international AI research.
+> […] We need a Cern-like not-for-profit body driving forward international AI research.
 
-> \[…\] If we are able to muster it, we have the chance to restore the web as a tool for collaboration, creativity and compassion across cultural borders. We can re-empower individuals, and take the web back. It’s not too late.
+> […] If we are able to muster it, we have the chance to restore the web as a tool for collaboration, creativity and compassion across cultural borders. We can re-empower individuals, and take the web back. It’s not too late.
 
 Da die AI-Entwicklung in China und den USA zu sehr von "for profit" & "for propaganda" geprägt wird, könnte, sollte und müsste das eine europäische Initiative sein.

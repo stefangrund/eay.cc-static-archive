@@ -18,7 +18,7 @@ meta:
   - yourls_shorturl: "https://eay.li/3ct"
 ---
 
-\[youtube id="KUBEXK0\_R2Q"\]
+[youtube id="KUBEXK0_R2Q"]
 
 > Doc and Marty send a new model into the future.
 

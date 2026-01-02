@@ -24,4 +24,4 @@ meta:
 
 ![](https://eay.cc/uploads/2019/scotland2019-4.jpeg)
 
-Great Hall of Linlithgow Palace. (Photo by [@that\_producer](https://instagram.com/that_producer).)
+Great Hall of Linlithgow Palace. (Photo by [@that_producer](https://instagram.com/that_producer).)

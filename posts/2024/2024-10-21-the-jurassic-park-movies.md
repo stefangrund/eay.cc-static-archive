@@ -21,6 +21,6 @@ meta:
   - _share_on_mastodon_url: "https://eay.social/@eay/113345497600697241"
 ---
 
-\[youtube id="AwWz34RVzuA"\]
+[youtube id="AwWz34RVzuA"]
 
 I kind of love them all, but there's certainly a truth to that.

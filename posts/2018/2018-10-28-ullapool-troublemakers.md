@@ -27,4 +27,4 @@ meta:
 
 ![](https://eay.cc/uploads/2018/ullapool-troublemakers.jpeg)
 
-Wenn wir mal ne Band gründen, wird das unser Plattencover. 😄 (Photo by [@that\_producer](https://instagram.com/that_producer) & [@citizenlix](https://instagram.com/citizenlix))
+Wenn wir mal ne Band gründen, wird das unser Plattencover. 😄 (Photo by [@that_producer](https://instagram.com/that_producer) & [@citizenlix](https://instagram.com/citizenlix))

@@ -27,7 +27,7 @@ meta:
 
 [Speaking of Bluesky](https://eay.cc/2024/bluesky-custom-feed-zum-1-fc-koeln/): Dort hat man 15 Millionen US-Dollar an Venture Capital eingesammelt, um Protokoll/Plattform/App weiter ausbauen zu können. Halbwegs kritisch sieht man dann auch den führenden Investor, so dass man sich scheinbar gezwungen sah, sich gleich vom Crypto-Markt loszusagen:
 
-> Our lead, Blockchain Capital, shares our philosophy that technology should serve the user, not the reverse — the technology being used should never come at the expense of the user experience. \[…\] This does not change the fact that the Bluesky app and the AT Protocol do not use blockchains or cryptocurrency, and we will not hyperfinancialize the social experience (through tokens, crypto trading, NFTs, etc.).
+> Our lead, Blockchain Capital, shares our philosophy that technology should serve the user, not the reverse — the technology being used should never come at the expense of the user experience. […] This does not change the fact that the Bluesky app and the AT Protocol do not use blockchains or cryptocurrency, and we will not hyperfinancialize the social experience (through tokens, crypto trading, NFTs, etc.).
 
 Stattdessen möchte man wohl wieder auf Creator-Payments setzen:
 

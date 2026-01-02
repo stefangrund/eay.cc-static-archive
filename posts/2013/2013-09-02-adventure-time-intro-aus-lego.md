@@ -21,6 +21,6 @@ meta:
 
 Das hier ist ziemlich mathematisch: Die Macher von »Adventure Time« haben [Screen Novelties](http://screen-novelties.com/), "a collective of creative weirdos who dabble in stop motion animation", angeheuert, um das Intro der Sendung in Lego umzusetzen. Toll!
 
-\[vimeo id="71054010"\]
+[vimeo id="71054010"]
 
 (via [Seriesly Awesome](http://www.serieslyawesome.tv/2013/animiert/adventure-time-intro-aus-lego/))

@@ -16,6 +16,6 @@ meta:
   - yourls_shorturl: "https://eay.li/137"
 ---
 
-\[youtube id="aKV2VkINt98"\]
+[youtube id="aKV2VkINt98"]
 
 Schlimm, einfach nur schlimm, diese Internetscheiße. Macht die Magie kaputt und jeder darf alles kommentieren, beschmutzen und sich eine Meinung bilden. Schlimm. (via [Netzpolitik](http://www.netzpolitik.org/2010/bill-kaulitz-wolfgang-joop-uber-das-internet/))

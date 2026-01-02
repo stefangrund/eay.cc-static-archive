@@ -21,7 +21,7 @@ meta:
   - _share_on_mastodon_url: "https://eay.social/@eay/112427352763112113"
 ---
 
-\[youtube id="-Nb-M1GAOX8"\]
+[youtube id="-Nb-M1GAOX8"]
 
 Das Musikvideo zu "The Hardest Part" von [Washed Out](https://washedout.net/) (guter Song!) ist das erste, offizielle mit OpenAIs [Sora](https://openai.com/index/sora/) kreierte Musikvideo. Regisseur [Paul Trillo](https://paultrillo.com/) dazu [auf Vimeo](https://vimeo.com/941713443):
 

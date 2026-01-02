@@ -23,6 +23,6 @@ meta:
 
 Nachdem Netflix HBO bereits [im Oktober in der Anzahl der Abonnenten überholte](//eay.cc/2013/netflix-hat-nun-mehr-abonnenten-als-hbo/), zeigt sich das nun auch in den Bilanzen, wie Netflix-CEO [Reed Hastings](http://en.wikipedia.org/wiki/Reed_Hastings) nun [auf Facebook verkündete](https://www.facebook.com/reed1960/posts/10152414721999584) (Mark Zuckerberg gefällt das, [ernsthaft](http://cl.ly/Wyth)):
 
-> Minor milestone: last quarter we passed HBO is \[sic!\] subscriber revenue ($1.146B vs $1.141B). They still kick our ass in profits and Emmy's, but we are making progress. HBO rocks, and we are honored to be in the same league.
+> Minor milestone: last quarter we passed HBO is [sic!] subscriber revenue ($1.146B vs $1.141B). They still kick our ass in profits and Emmy's, but we are making progress. HBO rocks, and we are honored to be in the same league.
 
 Beim Gewinn liegt HBO mit 558 gegenüber 71 Millionen Dollar bei Netflix zwar noch deutlich vorne, aber das ist eigentlich nur eine Frage der Zeit.

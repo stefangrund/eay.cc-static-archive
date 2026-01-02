@@ -23,4 +23,4 @@ Ungefähr acht Jahre zu spät liebäugelt Twitter mit der Einführung von bezahl
 
 Interessanter wären hingegen simple Premium-Accounts, für die keine Werbung angezeigt wird und deren Profil mit einem entsprechenden Badge ausgestattet wird. Hier und da noch ein Extra-Feature obendrauf und fertig wäre ein Bezahlmodell für die breite Masse an Power Usern, die sich nicht um irgendwelche Analytics-Tools kümmern, sondern einfach nur ihr favorisiertes Social Network unterstützen wollen.
 
-**Update, nach Durchlesen meines Feedreaders:** [Nico sieht das ganz genau so](http://couchblog.de/blog/2017/03/27/ach-twitter/) und fordert außerdem "eine Twitterwall im Eingangsbereich der Twitter­zentrale" auf der die Fotos der Abonnenten "in Dauerrotation gezeigt werden, mit dem Hinweis »@\[username\] saves your fucking job, stupid!«." 😄👍🏻
+**Update, nach Durchlesen meines Feedreaders:** [Nico sieht das ganz genau so](http://couchblog.de/blog/2017/03/27/ach-twitter/) und fordert außerdem "eine Twitterwall im Eingangsbereich der Twitter­zentrale" auf der die Fotos der Abonnenten "in Dauerrotation gezeigt werden, mit dem Hinweis »@[username] saves your fucking job, stupid!«." 😄👍🏻

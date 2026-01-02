@@ -18,6 +18,6 @@ meta:
   - yourls_shorturl: "https://eay.li/2sj"
 ---
 
-\[youtube id="Wji-BZ0oCwg"\]
+[youtube id="Wji-BZ0oCwg"]
 
 I'm in love! 😍😍😍

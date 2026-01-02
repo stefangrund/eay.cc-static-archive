@@ -27,7 +27,7 @@ meta:
   - content_copy: "https://bsky.app/profile/eay.social/post/3loivf74x3l2l"
 ---
 
-Insbesondere [in den letzten 100 Tagen](https://www.tagesschau.de/ausland/amerika/trump-100-tage-bilanz-100.html) wiederholte sich beim gemeinsamen Mittagessen im Büro regelmäßig das folgende Szenario: Die Kolleg\*innen und ich arbeiten alle paar Tage kollektiv den Wahnsinn im Trump'schen Amerika auf. _Habt ihr schon gesehen, was er wieder gemacht hat?_
+Insbesondere [in den letzten 100 Tagen](https://www.tagesschau.de/ausland/amerika/trump-100-tage-bilanz-100.html) wiederholte sich beim gemeinsamen Mittagessen im Büro regelmäßig das folgende Szenario: Die Kolleg*innen und ich arbeiten alle paar Tage kollektiv den Wahnsinn im Trump'schen Amerika auf. _Habt ihr schon gesehen, was er wieder gemacht hat?_
 
 Gestern zeigte uns ein Kollege dann einen Screenshot von einem Tweet, wonach der offizielle X-Account des Weißen Hauses zum [Star Wars Day](https://en.wikipedia.org/wiki/Star_Wars_Day) einen KI-generierten (Sith-)Trump gepostet hat, mit dem Text, dass die Menschen, die sich für Gleichheit und Rechtsstaat einsetzen, Teil des Bösen seien.
 
@@ -40,6 +40,6 @@ Das ist alles aus vielerlei Gründen bemerkenswert: Wie hier mit Popkultur Polit
 
 _Disney, release your lawyers!_
 
-\---
+---
 
 Bei der Prüfung des Tweets bin ich nach längerer Ignoranz [mal wieder](https://eay.cc/2024/x-for-you-page-vom-08-09-2024/) durch X gesurfed. Die App ist unbenutzbar und die Inhalte unaushaltbar. Die Posts des @WhiteHouse-Accounts lassen die Bild-Zeitung wie Vorzeige­journalismus aussehen. Inhaltlich also deckungsgleich mit der Website whitehouse.org, die [z.B. – auch direkt unter covid.gov erreichbar – ganz klare Verschwörungs­theorien verbreitet](https://www.whitehouse.gov/lab-leak-true-origins-of-covid-19/). Was ein Wahnsinn.

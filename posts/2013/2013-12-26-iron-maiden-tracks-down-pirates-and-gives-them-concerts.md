@@ -22,6 +22,6 @@ meta:
   - linked_list_og-image: "https://eay.cc/wordpress/uploads/og-cache/38acb556d3cc5aeae382ef5701e557df.webp"
 ---
 
-> \[U\]nauthorized file-sharers are in fact the music industry's best customers. So, instead of hunting down these pirates for lawsuits, it may be more rewarding to play for them. The English heavy metal band Iron Maiden is doing just that. The veteran musicians use the services of music analytics company [Musicmetric](http://musicmetric.com/) which allows them to see where their albums are most pirated.
+> [U]nauthorized file-sharers are in fact the music industry's best customers. So, instead of hunting down these pirates for lawsuits, it may be more rewarding to play for them. The English heavy metal band Iron Maiden is doing just that. The veteran musicians use the services of music analytics company [Musicmetric](http://musicmetric.com/) which allows them to see where their albums are most pirated.
 
 **Update, 30.12.2013:** Zu schön um wahr zu sein - [die Story war ein Fake](http://techcrunch.com/2013/12/27/how-a-fabricated-story-about-iron-maidens-love-of-music-pirates-became-internet-truth/).

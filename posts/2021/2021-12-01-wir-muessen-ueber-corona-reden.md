@@ -20,7 +20,7 @@ meta:
   - yourls_shorturl: "https://eay.li/2z6"
 ---
 
-\[youtube id="5vS0zM6aLl0"\]
+[youtube id="5vS0zM6aLl0"]
 
 Joko & Klaas haben ihre gewonnenen 15 Sende­minuten auf ProSieben am Mittwoch­abend dazu genutzt, einer 23 jährigen, die einen schlimmen Corona-Verlauf hatte, sowie dem Oberarzt der Intensiv­station der Charité das Wort zu erteilen. Sie wandten sich mit warnenden Worten an die Zuschauer, bevor dann als dritter Redner über­raschender­weise der designierte Bundeskanzler Olaf Scholz zum Impfen aufrief.
 

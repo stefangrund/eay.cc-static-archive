@@ -19,6 +19,6 @@ meta:
 
 In vielen Großstädten ist Wohnraum begehrt und teuer und Wohnungen entsprechend klein. Auf Köln trifft das ebenso zu, wie auf London oder New York. [Graham Hill](https://twitter.com/ghill), Entrepreneur und Gründer von [TreeHugger](http://www.treehugger.com/), hat sich nun überlegt dieses Problem zu lösen, indem er das ideale New Yorker Apartment baut: Platzsparend, sehr flexibel und natürlich mit möglichst geringer Umweltbelastung. Herausgekommen ist das [LifeEdited Aparment #1](http://www.lifeedited.com/see-the-lifeedited-apartment-move-through-its-many-functions/), dass auf 32 Quadratmetern acht Zimmer beherbergt, wie man im folgenden Video [von Gizmodo](http://gizmodo.com/5967622/the-tiny-transforming-apartment-that-packs-six-rooms-into-350-square-feet) eindrucksvoll präsentiert bekommt:
 
-\[vimeo id="55389782"\]
+[vimeo id="55389782"]
 
 Natürlich nicht alles ideal, aber nach all diesen kleinen Microwohnungen, die uns alle paar Jahre aus Tokio gezeigt werden, ist das doch mal eine ernst zu nehmende Alternative. Den ausziehbaren [Esszimmertisch von Resource Furniture](http://www.resourcefurniture.com/space-savers/space-saving-tables/goliath) würde ich bspw. sofort hier bei uns aufstellen - wenn der happige Hipster-Preis (âstarting price of $3950â) nicht wäre.

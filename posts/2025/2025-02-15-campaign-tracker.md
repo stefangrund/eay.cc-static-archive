@@ -26,6 +26,6 @@ meta:
   - content_copy: "https://bsky.app/profile/eay.social/post/3li7h77plfg2q"
 ---
 
-> \[Wir\] untersuchen alle Posts und bezahlten Werbeanzeigen auf Facebook und Instagram von Parteien und Kandidierenden zur Bundes­tags­wahl 2025. Im CampAIgn Tracker kann nachgeschaut werden, wie viele KI-generierte Botschaften von welchen Parteien verbreitet werden.
+> [Wir] untersuchen alle Posts und bezahlten Werbeanzeigen auf Facebook und Instagram von Parteien und Kandidierenden zur Bundes­tags­wahl 2025. Im CampAIgn Tracker kann nachgeschaut werden, wie viele KI-generierte Botschaften von welchen Parteien verbreitet werden.
 
 Wie man sieht hält sich die Menge noch in Grenzen, wird aber angeführt von der AfD. Im [KI-Explorer](https://www.campaigntracker.de/explore/) kann man sich die KI-generierten Posts dann ansehen. (via [André Vatter](https://mastodon.social/@avatter))

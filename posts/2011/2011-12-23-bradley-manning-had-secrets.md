@@ -19,6 +19,6 @@ meta:
   - yourls_shorturl: "https://eay.li/1dq"
 ---
 
-[Retrogepixelter Kurzfilm](http://www.adam-butcher.co.uk/bmhs/) von [Adam Butcher](http://www.adam-butcher.co.uk/), der zeigt, dass es beim Fall [Bradley Manning](http://de.wikipedia.org/wiki/Bradley_Manning) nicht einfach nur um einen Wikileaks Hacktivist geht, sondern um einen jungen Soldaten, der - sicherlich auch durch die umstrittene [Don't ask, don't tell](http://de.wikipedia.org/wiki/Don%E2%80%99t_ask,_don%E2%80%99t_tell)\-Politik des US-Militärs - von Selbstzweifeln und einer Identitätskrise geplagt wird. Prädikat wertvoll und sehenswert! (via [Waxy.org Links](http://waxy.org/links/))
+[Retrogepixelter Kurzfilm](http://www.adam-butcher.co.uk/bmhs/) von [Adam Butcher](http://www.adam-butcher.co.uk/), der zeigt, dass es beim Fall [Bradley Manning](http://de.wikipedia.org/wiki/Bradley_Manning) nicht einfach nur um einen Wikileaks Hacktivist geht, sondern um einen jungen Soldaten, der - sicherlich auch durch die umstrittene [Don't ask, don't tell](http://de.wikipedia.org/wiki/Don%E2%80%99t_ask,_don%E2%80%99t_tell)-Politik des US-Militärs - von Selbstzweifeln und einer Identitätskrise geplagt wird. Prädikat wertvoll und sehenswert! (via [Waxy.org Links](http://waxy.org/links/))
 
-\[vimeo id="32837863"\]
+[vimeo id="32837863"]

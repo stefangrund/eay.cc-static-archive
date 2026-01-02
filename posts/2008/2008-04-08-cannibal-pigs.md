@@ -17,6 +17,6 @@ meta:
 
 > Bauer vernachlässigt Schweine - Tiere fressen sich gegenseitig
 
-> "Ich bin entsetzt gewesen", sagte Schweinbestandstierarzt Markus Rost \[...\]
+> "Ich bin entsetzt gewesen", sagte Schweinbestandstierarzt Markus Rost [...]
 
 Sachen (und Schweinbestandstierärzte) gibt's. Mehr dazu [bei der TZ](http://www.tz-online.de/de/aktuelles/bayern/artikel__36606.html). ([via](http://www.imaginaryanimals.com/post/31126100))

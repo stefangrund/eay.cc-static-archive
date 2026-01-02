@@ -20,4 +20,4 @@ meta:
 
 Das sieht so bizarr aus, eigentlich kann das nur was werden:
 
-\[youtube id="fZ\_JOBCLF-I"\]
+[youtube id="fZ_JOBCLF-I"]

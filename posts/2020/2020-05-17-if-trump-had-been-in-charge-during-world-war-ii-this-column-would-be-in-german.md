@@ -21,6 +21,6 @@ meta:
 
 > One day he says the war is already won; the next day that we will just have to accept the occupation of France because that’s the way life is.
 
-> Trump \[...\] cannot focus on a single subject for the length of a paragraph. So it is no surprise that he has already gotten bored with a war against the coronavirus that isn’t going his way.
+> Trump [...] cannot focus on a single subject for the length of a paragraph. So it is no surprise that he has already gotten bored with a war against the coronavirus that isn’t going his way.
 
 Great headline. (If paywalled, try your browser's Article View or a "Read it later" service like [Pocket](https://getpocket.com).)

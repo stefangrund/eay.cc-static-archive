@@ -21,4 +21,4 @@ meta:
   - yourls_shorturl: "https://eay.li/3ip"
 ---
 
-> Waren im ersten Jahr der Corona-Pandemie \[Juli 2020\] noch 136 Menschen infolge einer Covid-19-Erkrankung gestorben, stieg die Zahl im vergangenen Jahr \[Juli 2021\] auf 274. Im Juli 2022 machte die Statistik noch einmal einen Sprung: Im vergangenen Monat starben 2839 Menschen. Das geht aus den Daten des Robert Koch-Institutes (RKI) hervor.
+> Waren im ersten Jahr der Corona-Pandemie [Juli 2020] noch 136 Menschen infolge einer Covid-19-Erkrankung gestorben, stieg die Zahl im vergangenen Jahr [Juli 2021] auf 274. Im Juli 2022 machte die Statistik noch einmal einen Sprung: Im vergangenen Monat starben 2839 Menschen. Das geht aus den Daten des Robert Koch-Institutes (RKI) hervor.

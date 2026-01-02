@@ -22,7 +22,7 @@ meta:
   - content_copy: "https://bsky.app/profile/eay.social/post/3m7hw2e5n2x26"
 ---
 
-\[youtube id="C3bbZ\_I8Ehg"\]
+[youtube id="C3bbZ_I8Ehg"]
 
 Ich hätte schwören können, dass ich hier bereits über die beiden, jeweils seit Jahren in Entwicklung befindlichen Spiele »The Last Night« und »Replaced« was geschrieben habe, habe ich aber nicht. (In dem Fall ist es meistens so, dass ich stattdessen dann meinen Arbeitskollegen einen exklusiven Privat-Podcast zum Thema vorgetragen habe. 😅 ((Nachtrag: Hatte ich auch noch nicht, habe ich dann aber heute gemacht. 😏)))
 

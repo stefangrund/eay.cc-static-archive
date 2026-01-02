@@ -20,6 +20,6 @@ meta:
 
 Wenn ihr die nächsten neun (!) Stunden nichts vorhabt, seht euch das an:
 
-\[youtube id="w9V-A\_26s0M"\]
+[youtube id="w9V-A_26s0M"]
 
 YouTuber [NicksplosionFX](https://www.youtube.com/user/NicksplosionFX) hat einfach mal die Start Screens sämtlicher SNES-Spiele in alphabetischer Reihenfolge aneinander geschnitten. Hier eine [Liste der Spiele](http://nicksplosionfx.tumblr.com/post/81346706208/super-press-start-game-list). Und wenn euch das nicht reicht, hier sein [Video mit den Start-Screens aller NES-Spiele](https://www.youtube.com/watch?v=iOvaSOFLtJU), für das ihr dann drei weitere Stunden einplanen dürft.

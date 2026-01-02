@@ -21,6 +21,6 @@ meta:
   - yourls_shorturl: "https://eay.li/3en"
 ---
 
-> In big cultural concepts like music or fashion, things have a way of coming around full circle. \[...\] When I look at some of the trends on the web today, I wonder if we’re at that point yet. I wonder if we’re ready to revisit some of the ideas of the early web again.
+> In big cultural concepts like music or fashion, things have a way of coming around full circle. [...] When I look at some of the trends on the web today, I wonder if we’re at that point yet. I wonder if we’re ready to revisit some of the ideas of the early web again.
 
 [Max Böck](https://mxb.dev/) fragt sich, ob es auch im Web wiederkehrende Trends gibt, wie wir sie aus anderen Medien kennen, und hat tatsächlich ein paar Early-Web-Prinzipien wiederentdeckt.

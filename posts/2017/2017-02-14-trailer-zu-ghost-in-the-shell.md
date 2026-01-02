@@ -18,6 +18,6 @@ meta:
   - yourls_shorturl: "https://eay.li/2wl"
 ---
 
-\[youtube id="tRkb1X9ovI4"\]
+[youtube id="tRkb1X9ovI4"]
 
 So langsam erliege ich dem Hype auch: Der neue Trailer zu »Ghost in the Shell« sieht super aus. Ich kann mich allerdings nach wie vor nicht so richtig mit dem Casting von Scarlett Johansson anfreunden.

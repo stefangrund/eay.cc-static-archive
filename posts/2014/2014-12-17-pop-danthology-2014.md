@@ -17,6 +17,6 @@ meta:
   - yourls_shorturl: "https://eay.li/2lp"
 ---
 
-\[youtube id="OOHYCZLmbyc"\]
+[youtube id="OOHYCZLmbyc"]
 
 [Daniel Kim](http://canadankim.com/) hat auch dieses Jahr [wieder](//eay.cc/2013/pop-danthology-2013/) die bekanntesten Pop-Songs in seiner aufwändigen "Pop Danthology" zusammengefasst. Die Liste der 66 verwendeten Songs, sowie den Download [gibt's hier](http://danielkim.mixedinkey.com/).

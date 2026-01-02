@@ -23,4 +23,4 @@ meta:
   - yourls_shorturl: "https://eay.li/3oo"
 ---
 
-**»Silo« Staffel 1** nach langer Unterbrechung doch noch zu Ende geguckt. Unterbrechung weil nach dem guten Start so viel Spannung rausge­nommen wurde, dass es war als würde man selbst seit Jahrzehnten in einem eintönigen Silo leben. Die letzten Episoden dann wieder deutlich besser. Bonuspunkt für mich: Ausgang frühzeitig richtig erraten. Insgesamt: \[rating value=6 inline=true\]
+**»Silo« Staffel 1** nach langer Unterbrechung doch noch zu Ende geguckt. Unterbrechung weil nach dem guten Start so viel Spannung rausge­nommen wurde, dass es war als würde man selbst seit Jahrzehnten in einem eintönigen Silo leben. Die letzten Episoden dann wieder deutlich besser. Bonuspunkt für mich: Ausgang frühzeitig richtig erraten. Insgesamt: [rating value=6 inline=true]

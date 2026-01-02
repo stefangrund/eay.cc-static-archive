@@ -19,7 +19,7 @@ meta:
   - yourls_shorturl: "https://eay.li/2bq"
 ---
 
-Zur Abwechslung mal der neueste Klatsch und Tratsch aus der [Episode VII](//eay.cc/tag/episode-vii/)\-Gerüchteküche. Demnach verfolgt J.J. Abrams mittlerweile einen anderen Ansatz als der [im Oktober](//eay.cc/2013/the-battle-between-good-and-evil-rages-on/) entlassene Drehbuchautor Michael Arndt, wie der Hollywood Reporter berichtet:
+Zur Abwechslung mal der neueste Klatsch und Tratsch aus der [Episode VII](//eay.cc/tag/episode-vii/)-Gerüchteküche. Demnach verfolgt J.J. Abrams mittlerweile einen anderen Ansatz als der [im Oktober](//eay.cc/2013/the-battle-between-good-and-evil-rages-on/) entlassene Drehbuchautor Michael Arndt, wie der Hollywood Reporter berichtet:
 
 > Arndt is said to have focused on the offspring of Luke Skywalker (Mark Hamill), Han Solo (Harrison Ford) and Princess Leia (Carrie Fisher), with the original trilogy heroes taking on supporting roles. Abrams, however, wanted Episode VII to focus on the classic trio of characters, so audiences could have one more chance to enjoy them before a fitting send-off. The new characters, the offspring, will now be in supporting roles, according to these sources, and take center stage in Episode VIII and IX.
 

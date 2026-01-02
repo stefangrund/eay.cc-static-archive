@@ -24,10 +24,10 @@ meta:
   - linked_list_og-image: "https://eay.cc/wordpress/uploads/og-cache/ad45eca41bf933c09e8d0756c8261d30.webp"
 ---
 
-> \[Universal Pictures\] deep into the development of an all-new Jurassic World movie and has [David Koepp](https://en.wikipedia.org/wiki/David_Koepp) back at the keyboard. Koepp was the writer of the original 1993 Jurassic Park, famously directed by Steven Spielberg, and its sequel, 1997’s Jurassic Park: The Lost World.
+> [Universal Pictures] deep into the development of an all-new Jurassic World movie and has [David Koepp](https://en.wikipedia.org/wiki/David_Koepp) back at the keyboard. Koepp was the writer of the original 1993 Jurassic Park, famously directed by Steven Spielberg, and its sequel, 1997’s Jurassic Park: The Lost World.
 
 Wer hätte damit bloß rechnen können?
 
-Interessant: [Koepp hatte damals abgelehnt](https://www.comingsoon.net/movies/news/93911-exclusive-david-koepp-on-jack-ryan-snow-white-jurassic-park) am vierten Film »Jurassic World« mitzuarbeiten, weil er zur Story nichts mehr beizutragen habe ("I did two and I just felt like I used up all my good ideas \[…\]."). Das scheint sich nun geändert zur haben, die Rede ist von einer gänzlich neuen Ausrichtung ohne Beteiligung der vorherigen Figuren und ist bereits so weit fortgeschritten, dass es schon 2025 soweit sein könnte.
+Interessant: [Koepp hatte damals abgelehnt](https://www.comingsoon.net/movies/news/93911-exclusive-david-koepp-on-jack-ryan-snow-white-jurassic-park) am vierten Film »Jurassic World« mitzuarbeiten, weil er zur Story nichts mehr beizutragen habe ("I did two and I just felt like I used up all my good ideas […]."). Das scheint sich nun geändert zur haben, die Rede ist von einer gänzlich neuen Ausrichtung ohne Beteiligung der vorherigen Figuren und ist bereits so weit fortgeschritten, dass es schon 2025 soweit sein könnte.
 
 Ich habe nur eine Bitte: Keine genmanipulierten Arten mehr und erst recht keine [Mensch-Dinosaurier-Hybriden](https://jurassicpark.fandom.com/wiki/Human-dinosaur_hybrid). Dinosaurier sind für sich genommen schon interessant genug.

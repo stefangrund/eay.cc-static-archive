@@ -25,4 +25,4 @@ meta:
 
 [Speaking of Liquid Glass](https://eay.cc/2025/liquid-glass-why/), hier ein hervorragendes, 10 minütiges Video vom empfehlenswerten YouTube-Channel [Design Lovers](https://www.youtube.com/@design_lovers) von Ilia Werner über die Geschichte von durchsichtigen, glasähnlichen Interface-Designs: von [OS Xs Aqua](https://en.wikipedia.org/wiki/Aqua_(user_interface)) zu [Windows Vistas Aero](https://en.wikipedia.org/wiki/Windows_Aero) bis heute.
 
-\[youtube id="A\_h4A8caCTM"\]
+[youtube id="A_h4A8caCTM"]

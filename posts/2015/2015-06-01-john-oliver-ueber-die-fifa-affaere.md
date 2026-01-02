@@ -21,7 +21,7 @@ meta:
 
 [John Oliver](http://en.wikipedia.org/wiki/John_Oliver_%28comedian%29), der sich ja bereits letztes Jahr über [die Machenschaften der FIFA](//eay.cc/2014/die-machenschaften-der-fifa/) ausließ, hat nach den aktuellen Geschehnissen nochmal nachgelegt:
 
-\[youtube id="qr6ar3xJL\_Q"\]
+[youtube id="qr6ar3xJL_Q"]
 
 > The problem is: All the arrests in the world are gonna change nothing as long as Blatter is still there. Because to truly kill a snake you must cut off it's head – or in this case: it's asshole.
 

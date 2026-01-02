@@ -31,22 +31,22 @@ Wenn ihr schon länger in diesen ominösen Social-Web-Gefilden unterwegs seid, w
 
 Zumindest bis sich vor gut zwei Wochen der CEO eines neu gegründeten Delicious-Verwalters [im Delicious-Blog meldete](http://blog.delicious.com/2016/01/delicious-changes/) und den überraschten Überbleibseln mitteilte, dass man die Entwicklungen der letzten paar Jahre rückgängig machen wird, delicious.com wieder zu del.icio.us wird und das geliebte Minimaldesign der uralten Version zurückkehrt. Keine Pointe.
 
-Wozu die Geschichtsstunde? Zu der Zeit hatte ich hier eine unregelmäßig erscheinende Serie und Domain namens [koest.lich.es](//eay.cc/tag/koestliches/), die sich del.icio.us nament- und inhaltlich zum Vorbild nahm und in der ich hier immer mal wieder ein buntes Allerlei mit Links aus Medien, Popkultur und Technologie zubereitete. Da sich mehr oder weniger oft erscheinende Linklisten derzeit ja wieder großer Beliebtheit erfreuen (meine Favoriten sind [Real Virtualinks](http://realvirtuality.info/), [ti\_leos Links der Woche](https://tileo.wordpress.com/) und die [links auf wirres.net](http://wirres.net/)), wollen wir doch mal gucken, ob sich koest.lich.es nicht reaktivieren lässt und in Zeiten akuter Knappheit selbiger nicht eine gute Alternative zu den einzelnen Linkposts darstellt. Warten wir mal ab ((Funfact: Die letzte Ausgabe ist vom 04.06.2009, die vorletzte vom 24.03.2008. Beste Voraussetzungen, würde ich sagen.)) – und los geht's.
+Wozu die Geschichtsstunde? Zu der Zeit hatte ich hier eine unregelmäßig erscheinende Serie und Domain namens [koest.lich.es](//eay.cc/tag/koestliches/), die sich del.icio.us nament- und inhaltlich zum Vorbild nahm und in der ich hier immer mal wieder ein buntes Allerlei mit Links aus Medien, Popkultur und Technologie zubereitete. Da sich mehr oder weniger oft erscheinende Linklisten derzeit ja wieder großer Beliebtheit erfreuen (meine Favoriten sind [Real Virtualinks](http://realvirtuality.info/), [ti_leos Links der Woche](https://tileo.wordpress.com/) und die [links auf wirres.net](http://wirres.net/)), wollen wir doch mal gucken, ob sich koest.lich.es nicht reaktivieren lässt und in Zeiten akuter Knappheit selbiger nicht eine gute Alternative zu den einzelnen Linkposts darstellt. Warten wir mal ab ((Funfact: Die letzte Ausgabe ist vom 04.06.2009, die vorletzte vom 24.03.2008. Beste Voraussetzungen, würde ich sagen.)) – und los geht's.
 
 ### Filme & Popkultur
 
-- Andy Baio hat wie jedes Jahr wieder seinen [Pirating the Oscars 2016](http://waxy.org/2016/01/pirating_the_oscars_2016/)\-Bericht veröffentlicht, in dem er nachhält, wann, wie schnell und in welcher Form Kopien der Oscar-nominierten Filme im Netz aufgetaucht sind.
+- Andy Baio hat wie jedes Jahr wieder seinen [Pirating the Oscars 2016](http://waxy.org/2016/01/pirating_the_oscars_2016/)-Bericht veröffentlicht, in dem er nachhält, wann, wie schnell und in welcher Form Kopien der Oscar-nominierten Filme im Netz aufgetaucht sind.
 - [Wenn Filmplakate die Wahrheit sagen (Oscars 2016 Edition)](http://interweb3000.de/2016/01/19/wenn-filmplakate-die-wahrheit-sagen-oscars-2016-edition/)
-- [»Master of the Universe«-Recut-Trailer im Stil des »Force Awakens«-Trailers](https://www.youtube.com/watch?v=yLxHqOu9AcI) – Großartig! Und jetzt will ich ein MotU-Reboot... \[youtube id="yLxHqOu9AcI"\]
+- [»Master of the Universe«-Recut-Trailer im Stil des »Force Awakens«-Trailers](https://www.youtube.com/watch?v=yLxHqOu9AcI) – Großartig! Und jetzt will ich ein MotU-Reboot... [youtube id="yLxHqOu9AcI"]
 - From “AIEEE!” to “ZZZZZWAP!”: [Every #Batman Fight Scene Onomatopoeia in One Alphabetical GIF](http://www.fastcocreate.com/3055253/gif-of-the-day/every-batman-fight-scene-onomatopoeia-in-one-alphabetical-gif)
-- Sehr nice: [Palina Rojinski als Stormtrooper](https://www.youtube.com/watch?v=_yl_reBjVqU) – "Vader? Ich kann mich nicht erinnern, dass ich den gewählt hab..." \[youtube id="\_yl\_reBjVqU"\]
-- [The Web vs. The Force](https://www.youtube.com/watch?v=tUNUBrch-3M) \[youtube id="tUNUBrch-3M"\]
+- Sehr nice: [Palina Rojinski als Stormtrooper](https://www.youtube.com/watch?v=_yl_reBjVqU) – "Vader? Ich kann mich nicht erinnern, dass ich den gewählt hab..." [youtube id="_yl_reBjVqU"]
+- [The Web vs. The Force](https://www.youtube.com/watch?v=tUNUBrch-3M) [youtube id="tUNUBrch-3M"]
     
     > What's even bigger than the internet? The latest in installment of the Star Wars franchise. When The Force Awakens hit IMAX screens Internet traffic in the country plunged. Germany experienced the greatest drop of 12%.
     
 - "There has been an oversleeping..." [Episode VIII von Mai auf Dezember 2017 verschoben](http://www.moviepilot.de/news/stars-wars-8-kinostart-verschoben-moge-die-macht-mit-uns-sein-165024) – Buh! 😠
 - [shortfil.ms: Kara (2016)](http://shortfil.ms/film/kara-2016) – »Kara« is a short fan film set in the Star Wars universe about a girl with a special power.
-- [»The Nice Guys«-Trailer](https://www.youtube.com/watch?v=z-_HQ0bUzS8) – Diese Woche zufällig gesehen und darauf freue ich mich jetzt sehr. Und der wird auch bestimmt nicht verschoben. 😌 \[youtube id="z-\_HQ0bUzS8"\]
+- [»The Nice Guys«-Trailer](https://www.youtube.com/watch?v=z-_HQ0bUzS8) – Diese Woche zufällig gesehen und darauf freue ich mich jetzt sehr. Und der wird auch bestimmt nicht verschoben. 😌 [youtube id="z-_HQ0bUzS8"]
 
 ### Digitales & Web-Entwicklung
 

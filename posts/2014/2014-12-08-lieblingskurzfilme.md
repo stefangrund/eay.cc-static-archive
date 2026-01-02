@@ -20,7 +20,7 @@ meta:
 
 [Vor einer Woche](//eay.cc/2014/shortfil-ms-meine-neue-kurzfilmplattform/) ist die neue Kurzfilm-Plattform [shortfil.ms](http://shortfil.ms), die ich mit meinen Partnern in Crime [Peer](https://twitter.com/The_McLee) und [Sebastian](https://twitter.com/MoD85) gegründet habe, gestartet. Es war eine großartige erste Woche, in der wir auch gleich ein paar Premieren feiern konnten: So erhielten wir am Montag mit »[Wanderers](http://shortfil.ms/film/wanderers-2014)« unsere erste [User Submission](http://shortfil.ms/about/submit) und konnten [am Samstag](https://twitter.com/shortfil/status/541186513317683200) die 24-Stunden-Marke bei der Gesamtlänge aller Kurzfilme knacken. Darüber hinaus durften wir uns bereits über zahlreiches positives Feedback, dutzende Tweets und auch den ein oder anderen wohlwollenden Artikel aus der deutschen und amerikanischen Blogosphäre freuen.
 
-Insgesamt haben wir nun über 180 Filme auf shortfil.ms (zum Start waren es 120), darunter einige echte Perlen. Zwar habe ich im Gegensatz zu Peer noch längst nicht alle Kurzfilme, die wir da vorstellen, gesehen, ich möchte euch aber dennoch auf meine bisherigen Favoriten aufmerksam machen – und plane das jetzt immer mal wieder zu tun. Ich befürchte, dass das bei mir recht [Science Fiction](http://shortfil.ms/genre/science-fiction)\-lastig werden könnte, aber für sowas seid ihr ja unter anderem auch hier.
+Insgesamt haben wir nun über 180 Filme auf shortfil.ms (zum Start waren es 120), darunter einige echte Perlen. Zwar habe ich im Gegensatz zu Peer noch längst nicht alle Kurzfilme, die wir da vorstellen, gesehen, ich möchte euch aber dennoch auf meine bisherigen Favoriten aufmerksam machen – und plane das jetzt immer mal wieder zu tun. Ich befürchte, dass das bei mir recht [Science Fiction](http://shortfil.ms/genre/science-fiction)-lastig werden könnte, aber für sowas seid ihr ja unter anderem auch hier.
 
 [![](https://eay.cc/uploads/2014/shortfilm-rha-2013.jpg)](http://shortfil.ms/film/rha-2013)
 
@@ -54,4 +54,4 @@ Insgesamt haben wir nun über 180 Filme auf shortfil.ms (zum Start waren es 120)
 
 [**The Gunfighter (2014)**](http://shortfil.ms/film/the-gunfighter-2014) · Und zum Schluss kein SciFi, sondern eine großartige Western-Komödie, in der die Stimme des etwas blutrünstigen Erzählers plötzlich von allen Protagonisten gehört wird und für Verwirrung sorgt.
 
-\--- Wer nun Spaß am Minimedium gefunden hat, weiß ja spätestens jetzt, wo er jeden Tag auf's neue sehenswerte Kurzfilme entdecken kann (hint: [hier](http://shortfil.ms)).
+--- Wer nun Spaß am Minimedium gefunden hat, weiß ja spätestens jetzt, wo er jeden Tag auf's neue sehenswerte Kurzfilme entdecken kann (hint: [hier](http://shortfil.ms)).

@@ -20,6 +20,6 @@ meta:
   - yourls_shorturl: "https://eay.li/2rd"
 ---
 
-\[youtube id="eSBFw93V3Rg"\]
+[youtube id="eSBFw93V3Rg"]
 
 Heute vor 30 Jahren kam in Nordamerika das [SNES](https://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System) auf den Markt – begleitet von obigem Fernsehspot, in dem ein damals 22 jähriger [Paul Rudd](https://de.wikipedia.org/wiki/Paul_Rudd?wprov=sfti1) noch vor seiner ersten Filmrolle das Launch-Lineup der neuen 16bit-Konsole bestaunt. Heute sind wir bereits fünf Konsolen­generationen weiter, Paul Rudd jedoch ist [keinen Tag gealtert](https://www.buzzfeed.com/elliewoodward/paul-rudd-doesnt-age-response). (via [/r/thirtyyearsago](https://www.reddit.com/r/thirtyyearsago/comments/p9u6yj/august_23_1991_paul_rudd_introduces_the_world_to/))

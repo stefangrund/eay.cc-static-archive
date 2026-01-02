@@ -29,7 +29,7 @@ meta:
 
 Es hat sich bereits in den letzten Monaten angekündigt, als Kevin in den [ersten neuen Diggnation-Episoden](https://eay.cc/2024/diggnation-reunion/) offen darüber nachdachte, dass er digg.com, "[the internet's homepage](https://eay.cc/2024/the-internets-homepage/)", eigentlich zurückkaufen und relaunchen sollte. Jetzt ist dieser Teaser und eine [Platzhalter-Website](https://reboot.digg.com/) erschienen:
 
-\[youtube id="-vNS62f-ino"\]
+[youtube id="-vNS62f-ino"]
 
 Der [oben verlinkten Verge-Artikel](https://www.theverge.com/social/624073/digg-relaunch-2025) verrät dann noch, dass Kevin sich mit Alexis Ohanian, seines Zeichens Mitgründer von Reddit für das Projekt zusammengetan hat. Ebenso sind [Textbox-Pioniere](https://eay.cc/2016/ev-williams-is-the-forrest-gump-of-the-internet/) wie Ev Williams mit von der Partie. Und standesgemäß strotzt der Artikel nur so vor Buzzwords:
 

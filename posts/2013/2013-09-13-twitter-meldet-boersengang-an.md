@@ -18,4 +18,4 @@ meta:
   - yourls_shorturl: "https://eay.li/275"
 ---
 
-> The company announced on Thursday â [in a tweet](https://twitter.com/twitter/status/378261932148416512) \[...\] â that it had filed paperwork with regulators to eventually sell shares in an initial public offering.
+> The company announced on Thursday â [in a tweet](https://twitter.com/twitter/status/378261932148416512) [...] â that it had filed paperwork with regulators to eventually sell shares in an initial public offering.

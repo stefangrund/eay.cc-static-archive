@@ -21,4 +21,4 @@ meta:
 
 Famoser Chiptune-Sound absolut großartig betitelt (via [Superlevel](http://www.superlevel.de/audio/the-apocalypse-will-arrive-on-a-nes-cartridge/)):
 
-\[youtube id="1PC47CFo7yw"\]
+[youtube id="1PC47CFo7yw"]

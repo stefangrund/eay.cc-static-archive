@@ -30,7 +30,7 @@ meta:
 
 Fünftminütige Zusammenfassung der gestrigen Vorstellung des [Cybertruck](https://www.tesla.com/cybertruck), dem neuen, (retro-)futuristischen E-Pickup von Tesla.
 
-\[youtube id="m7atGkba-Z8"\]
+[youtube id="m7atGkba-Z8"]
 
 Ganz groß, wie die kugelsicheren Fenster im Bühnentest zerborsten und das dann für den Rest der Show zu sehen ist.
 

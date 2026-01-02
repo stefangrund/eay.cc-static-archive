@@ -26,6 +26,6 @@ meta:
   - linked_list_og-image: "https://eay.cc/wordpress/uploads/og-cache/a43c4e1b4d03b00a5c5c02bcf1b91881.webp"
 ---
 
-> Meta hasn’t made an official announcement yet, instead opting to sneakily update the [Threads website](https://www.threads.net/) with an untitled countdown timer \[…\] with just under six days remaining on the clock. 
+> Meta hasn’t made an official announcement yet, instead opting to sneakily update the [Threads website](https://www.threads.net/) with an untitled countdown timer […] with just under six days remaining on the clock. 
 
 Finally. Ich war im Juli sehr angetan von Metas Twitter-Version. Ihr könnt mir [unter @eay auf Threads folgen](https://www.threads.net/@eay).

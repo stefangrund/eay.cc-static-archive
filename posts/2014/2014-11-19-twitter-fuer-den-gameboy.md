@@ -17,6 +17,6 @@ meta:
   - yourls_shorturl: "https://eay.li/2kq"
 ---
 
-\[youtube id="KX4iRIcU3FQ"\]
+[youtube id="KX4iRIcU3FQ"]
 
 Aprilscherz von 2013, der in einer Parallelwelt bestimmt real ist. (via [1337core](http://www.1337core.de/twitter-fuer-den-gameboy/))

@@ -29,7 +29,7 @@ Wir sammeln z.B. unsere monetären Ausgaben in einer Airtable-Datenbank, schön 
 
 ![](https://eay.cc/uploads/2022/airtable.png)
 
-[Notion](https://www.notion.so/), für das ich privat und beruflich zahle, könnte diesen und viele, viele andere Use Cases mittlerweile auch sehr gut abdecken – zu einem Bruchteil der Kosten. Selbst unser [Scriptable](https://scriptable.app/)\-Widget zum Auslesen der Ausgaben per API wäre mittlerweile problemlos möglich.
+[Notion](https://www.notion.so/), für das ich privat und beruflich zahle, könnte diesen und viele, viele andere Use Cases mittlerweile auch sehr gut abdecken – zu einem Bruchteil der Kosten. Selbst unser [Scriptable](https://scriptable.app/)-Widget zum Auslesen der Ausgaben per API wäre mittlerweile problemlos möglich.
 
 Anstatt die vollgelaufene Airtable-Datenbank also jedes Jahr zu duplizieren, um weiterhin im Free-Tier verbleiben zu können, werde ich Airtable also bald zugunsten von Notion den Rücken kehren, wo es – Stichwort Knowledge Base – eh besser aufgehoben sein wird.
 

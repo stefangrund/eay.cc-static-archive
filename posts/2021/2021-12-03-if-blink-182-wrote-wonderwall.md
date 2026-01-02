@@ -24,6 +24,6 @@ meta:
 
 [Alex Melton](https://youtube.com/c/AlexMelton) interpretiert Oasis’ “Wonderwall” im Stil von Blink-182:
 
-\[youtube id="sD8Yh8KYhzM"\]
+[youtube id="sD8Yh8KYhzM"]
 
 Hier weitere [Blink-Interpretationen von ihm](https://youtube.com/playlist?list=PLEwEwtQN4ijxjyUfS3PYctskGoNqqwOXw).

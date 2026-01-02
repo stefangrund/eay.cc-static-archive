@@ -18,6 +18,6 @@ meta:
   - yourls_shorturl: "https://eay.li/2qh"
 ---
 
-> CBS Television Studios announced today it will launch a totally new Star Trek television series in January 2017. \[...\] Alex Kurtzman will serve as executive producer for the new Star Trek TV series. Kurtzman co-wrote and produced the blockbuster films Star Trek (2009) with Roberto Orci, and Star Trek Into Darkness (2013) with Orci and Damon Lindelof.
+> CBS Television Studios announced today it will launch a totally new Star Trek television series in January 2017. [...] Alex Kurtzman will serve as executive producer for the new Star Trek TV series. Kurtzman co-wrote and produced the blockbuster films Star Trek (2009) with Roberto Orci, and Star Trek Into Darkness (2013) with Orci and Damon Lindelof.
 
-50\. Jubiläum von Kirk & Crew und die Rückkehr der Jedi-Ritter. Es gibt keinen besseren Zeitpunkt hierfür. (via [Nerdcore](http://www.nerdcore.de/2015/11/02/star-trek-2017-%f0%9f%96%96/))
+50. Jubiläum von Kirk & Crew und die Rückkehr der Jedi-Ritter. Es gibt keinen besseren Zeitpunkt hierfür. (via [Nerdcore](http://www.nerdcore.de/2015/11/02/star-trek-2017-%f0%9f%96%96/))

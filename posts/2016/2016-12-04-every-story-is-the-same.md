@@ -22,6 +22,6 @@ meta:
   - yourls_shorturl: "https://eay.li/2vi"
 ---
 
-\[youtube id="LuD2Aa0zFiA"\]
+[youtube id="LuD2Aa0zFiA"]
 
 Nettes Video, das ich schon alleine deswegen bringen muss, weil hier Joseph Campbell auf Rick & Morty trifft.

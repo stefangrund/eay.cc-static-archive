@@ -28,4 +28,4 @@ Bereits [seit über zehn Jahren](https://eay.cc/2007/die-gerechtigkeitsliga-komm
 
 Während ich »Man of Steel« zur Verwunderung des Netzes sehr mochte, »Batman v. Superman« mit zugedrückten Augen was abgewinnen konnte und nach »Wonder Woman« dem "DC Cinematic Universe" sehr aufgeschlossen gegenüber stand, ist das hier wieder ein kleiner Rückschlag: Ben Afflecks Batman ist eine Witzfigur, Cyborg und Flash ebenso und der Antagonist ist die größte Lachnummer. Die guten Momente spielen sich erneut mit DCs gottgleichen Titanen ab (ließ: keinem der gerade genannten).
 
-Stellt euch einen schlechteren Marvel-Film vor, dann habt ihr »Justice League«. Aber gegen mehr Wonder Woman, Aquaman und, klar, Superman hätte ich dennoch nichts einzuwenden. \[rating value=5 Inline=true\]
+Stellt euch einen schlechteren Marvel-Film vor, dann habt ihr »Justice League«. Aber gegen mehr Wonder Woman, Aquaman und, klar, Superman hätte ich dennoch nichts einzuwenden. [rating value=5 Inline=true]

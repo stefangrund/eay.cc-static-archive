@@ -20,4 +20,4 @@ meta:
   - yourls_shorturl: "https://eay.li/2fa"
 ---
 
-Nachdem [Vavideo](http://www.vavideo.de/), eine Webseite, die als würdiger Nachfolger der ruhmreichen Mediathek.app angetreten war, vor zwei Wochen wegen der Vorschaubilder (!) abgemahnt wurde, hier eine kleine, hilfreiche Webseite, die aus [Arte+7](http://www.arte.tv/guide/de/plus7)\-URLs die Direktdownloadlinks extrahiert. Falls das mal wer braucht.
+Nachdem [Vavideo](http://www.vavideo.de/), eine Webseite, die als würdiger Nachfolger der ruhmreichen Mediathek.app angetreten war, vor zwei Wochen wegen der Vorschaubilder (!) abgemahnt wurde, hier eine kleine, hilfreiche Webseite, die aus [Arte+7](http://www.arte.tv/guide/de/plus7)-URLs die Direktdownloadlinks extrahiert. Falls das mal wer braucht.

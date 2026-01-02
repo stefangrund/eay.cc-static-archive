@@ -20,6 +20,6 @@ meta:
   - yourls_shorturl: "https://eay.li/2uo"
 ---
 
-\[youtube id="ald6Lc5TSk8"\]
+[youtube id="ald6Lc5TSk8"]
 
 Evan Puschak a.k.a. [The Nerdwriter](https://www.youtube.com/user/Nerdwriter1) beschreibt in diesem TedX-Vortrag, wie Online-Video die Textform des Essays beeinflusst hat und daraus die überaus beliebten [Video-Essays](https://eay.cc/tag/video-essay/) von [Tony Zhou](https://www.youtube.com/user/everyframeapainting), [Kristian Williams](https://www.youtube.com/c/kaptainkristian) & Co. geworden sind.

@@ -18,6 +18,6 @@ meta:
   - yourls_shorturl: "https://eay.li/2uv"
 ---
 
-\[youtube id="frdj1zb9sMY"\]
+[youtube id="frdj1zb9sMY"]
 
 Da isser! Nicht mehr ganz so ikonisch und voller Oneliner-Gold wie [der Teaser](https://eay.cc/2016/rogue-one-a-star-wars-story-trailer/), aber immer noch großartig und vielversprechend ausschauend. Der 15. Dezember kann gar nicht schnell genug kommen!

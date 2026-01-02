@@ -21,7 +21,7 @@ meta:
   - yourls_shorturl: "https://eay.li/hz"
 ---
 
-Wie könnte man das neue Jahrzehnt (btw: Happy New Year!) in diesem Blog besser beginnen als mit einem absolut abgedrehten [Musikvideo](//eay.cc/tag/musikvideo/)/[Kurzfilm](//eay.cc/tag/kurzfilm/), in dem ein Frauen fressender Kampf-Trucker einer Blondine nachjagt? Richtig: besser geht's nicht und vor allem nicht, wenn das auch noch in [8-bit](//eay.cc/tag/8bit/)\-Optik gehalten ist. (Achtung, nsfw!)
+Wie könnte man das neue Jahrzehnt (btw: Happy New Year!) in diesem Blog besser beginnen als mit einem absolut abgedrehten [Musikvideo](//eay.cc/tag/musikvideo/)/[Kurzfilm](//eay.cc/tag/kurzfilm/), in dem ein Frauen fressender Kampf-Trucker einer Blondine nachjagt? Richtig: besser geht's nicht und vor allem nicht, wenn das auch noch in [8-bit](//eay.cc/tag/8bit/)-Optik gehalten ist. (Achtung, nsfw!)
 
 > Think Spielberg's Duel + Russ Meyer's Faster Pussycat Kill Kill! and Marc Dorcel's wildest fantasies. All warped into an 8-bit Sega era style graphic. And this clumsy and somehow pretentious description doesn't even come close to what you're about to see: it's trÃ¨s funny, trÃ¨s dirty, trÃ¨s sexy.
 

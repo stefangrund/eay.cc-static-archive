@@ -17,6 +17,6 @@ meta:
   - yourls_shorturl: "https://eay.li/2df"
 ---
 
-\[youtube id="\_P9HqHVPeik"\]
+[youtube id="_P9HqHVPeik"]
 
 Wer nur den Hauch einer Ahnung vom Programmieren hat, der erkennt, dass das hier ziemlich großartig ist. [Stephen Wolfram](https://en.wikipedia.org/wiki/Stephen_Wolfram) arbeitet bereits seit 30 Jahren an der Sprache, auf der auch [Wolfram Alpha](http://www.wolframalpha.com/) basiert. Das Ziel ist es laut Wolfram hiermit nicht weniger als die nächste Generation von Programmiersprache zu erschaffen – und genau danach sieht es auch aus. (via [Waxy](http://waxy.org/lins))

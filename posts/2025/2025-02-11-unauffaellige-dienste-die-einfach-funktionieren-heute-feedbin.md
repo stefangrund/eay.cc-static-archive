@@ -24,4 +24,4 @@ meta:
   - linked_list_og-image: "https://eay.cc/wordpress/uploads/og-cache/8f3beaf71614960d30333ed2c9d70a7c.webp"
 ---
 
-Ich kann das nur unterschreiben. Meine [Feedbin](https://feedbin.com/)\-Subscription hat sich am Wochenende verlängert und keine Sekunde habe ich überlegt, den Dienst [den ich seit 2020 nutze](https://eay.cc/2020/feedbin/), zu kündigen.
+Ich kann das nur unterschreiben. Meine [Feedbin](https://feedbin.com/)-Subscription hat sich am Wochenende verlängert und keine Sekunde habe ich überlegt, den Dienst [den ich seit 2020 nutze](https://eay.cc/2020/feedbin/), zu kündigen.

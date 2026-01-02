@@ -21,7 +21,7 @@ meta:
   - content_copy: "https://eay.social/@eay/109580759364494243"
 ---
 
-\[youtube id="8X1PHEQieu0"\]
+[youtube id="8X1PHEQieu0"]
 
 > Orion’s End is space trading life sim. Trading, smuggling, pirate hunting, or pirating. Be a hero or a rogue. But also be a friend - there are residents on each planet who need someone like you to talk to, help them with quests, or to just gift them with loot from your adventures.
 

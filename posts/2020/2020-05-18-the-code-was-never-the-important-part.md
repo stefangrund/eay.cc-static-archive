@@ -19,7 +19,7 @@ meta:
   - yourls_shorturl: "https://eay.li/3e9"
 ---
 
-\[youtube id="BxV14h0kFs0"\]
+[youtube id="BxV14h0kFs0"]
 
 [Speaking of APIs](https://eay.cc/2020/facebook-kauft-giphy-fuer-400-millionen-dollar/): Dieses Video von [Tom Scott](https://en.wikipedia.org/wiki/Tom_Scott_(entertainer)), den ich bis zu eben diesem Video zu meiner und seiner Überraschung nicht kannte, ist vor kurzem vielerorts dadurch aufgepoppt, dass er den Videotitel über die YouTube-API ständig mit dem (fast) aktuellen View-Count aktualisiert hat ("This Video Has 11,385,557 Views").
 

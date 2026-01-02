@@ -20,6 +20,6 @@ meta:
   - yourls_shorturl: "https://eay.li/17f"
 ---
 
-\[youtube id="VFsTr0kGAqU"\]
+[youtube id="VFsTr0kGAqU"]
 
 Gibt's die Turtles-Filme eigentlich schon auf Blu-ray?

@@ -22,9 +22,9 @@ meta:
   - _share_on_mastodon_url: "https://eay.social/@eay/113036396176269884"
 ---
 
-»[Every Frame a Painting](https://youtube.com/@everyframeapainting)«, die legendäre [Video-Essay](https://eay.cc/tag/video-essay/)\-Serie von Taylor Ramos und Tony Zhou, ist gestern – nach 8 Jahren Wartezeit – mit einem neuen Video über den [Two-Shot](https://en.wikipedia.org/wiki/Two_shot) zurückgekehrt:
+»[Every Frame a Painting](https://youtube.com/@everyframeapainting)«, die legendäre [Video-Essay](https://eay.cc/tag/video-essay/)-Serie von Taylor Ramos und Tony Zhou, ist gestern – nach 8 Jahren Wartezeit – mit einem neuen Video über den [Two-Shot](https://en.wikipedia.org/wiki/Two_shot) zurückgekehrt:
 
-\[youtube id="mn2Dcy-NDTw"\]
+[youtube id="mn2Dcy-NDTw"]
 
 > What do you do when you’ve got two actors, a bunch of dialogue, and only enough time to get one camera angle? Consider one of the oldest tools in the filmmaking toolbox: the sustained two-shot.
 

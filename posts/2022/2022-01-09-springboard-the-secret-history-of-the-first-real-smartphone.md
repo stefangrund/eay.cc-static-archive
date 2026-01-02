@@ -22,7 +22,7 @@ meta:
   - yourls_shorturl: "https://eay.li/3go"
 ---
 
-\[youtube id="b9\_Vh9h3Ohw"\]
+[youtube id="b9_Vh9h3Ohw"]
 
 > A decade before Steve Jobs introduced the iPhone, a tiny team of renegades imagined and tried to build the modern smartphone. Nearly forgotten by history, a little startup called [Handspring](https://en.wikipedia.org/wiki/Handspring_(company)) tried to make the future before it was ready. This is the story of the Treo.
 

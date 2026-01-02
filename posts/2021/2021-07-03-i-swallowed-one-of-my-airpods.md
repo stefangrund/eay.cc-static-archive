@@ -21,4 +21,4 @@ meta:
   - yourls_shorturl: "https://eay.li/2pg"
 ---
 
-Eigentlich etwas das mit höhnischem Kommentar in unsere beliebte [Smart phones, stupid people](https://eay.cc/tag/smart-phones-stupid-people/)\-Kategorie kommt, aber da der arme Kerl (dem es danach gut ergangen ist), seinen AirPod im Schlaf verloren und dann verschluckt hat, und mir zumindest der erste Teil auch öfters passiert, lasse ich das aus Karmagründen lieber mal. 😅
+Eigentlich etwas das mit höhnischem Kommentar in unsere beliebte [Smart phones, stupid people](https://eay.cc/tag/smart-phones-stupid-people/)-Kategorie kommt, aber da der arme Kerl (dem es danach gut ergangen ist), seinen AirPod im Schlaf verloren und dann verschluckt hat, und mir zumindest der erste Teil auch öfters passiert, lasse ich das aus Karmagründen lieber mal. 😅

@@ -19,7 +19,7 @@ meta:
   - yourls_shorturl: "https://eay.li/10v"
 ---
 
-\[youtube id="L70I0vTwYxg"\]
+[youtube id="L70I0vTwYxg"]
 
 He-Man tötet Einhörner. Das ist Werbung nach meinem Geschmack. (Aber weil ja auch Kinder anwesend sind, [hier die Version](http://www.youtube.com/watch?v=G6ryQ8N_Lv0 "Tödlicher Feenstaub in ya face!"), in der das süße, süße Einhorn gewinnt.)
 

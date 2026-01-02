@@ -23,7 +23,7 @@ meta:
   - content_copy: "https://bsky.app/profile/eay.social/post/3lximf6gkqq2x"
 ---
 
-\[youtube id="stq2h2BqG2I"\]
+[youtube id="stq2h2BqG2I"]
 
 > I will love you until All the sweatshop close Til there's no cocaine up Donald Jr's nose
 

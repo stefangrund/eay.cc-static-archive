@@ -16,6 +16,6 @@ meta:
   - yourls_shorturl: "https://eay.li/44"
 ---
 
-[Zfen](http://www.hohlerzeh.de/) hat den bisher besten Verwendungszweck für [Chatroulette](http://chatroulette.com/)\* gefunden:
+[Zfen](http://www.hohlerzeh.de/) hat den bisher besten Verwendungszweck für [Chatroulette](http://chatroulette.com/)* gefunden:
 
-[![](https://eay.cc/uploads/2010/boobcontest.jpg)](http://www.hohlerzeh.de/2010/02/19/boob-content-oder-warum-ich-keine-schwaenze-mehr-sehen-kann/) \*= Wer Chatroulette sagt, muss auch nsfw sagen.
+[![](https://eay.cc/uploads/2010/boobcontest.jpg)](http://www.hohlerzeh.de/2010/02/19/boob-content-oder-warum-ich-keine-schwaenze-mehr-sehen-kann/) *= Wer Chatroulette sagt, muss auch nsfw sagen.

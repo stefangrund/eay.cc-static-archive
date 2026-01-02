@@ -25,7 +25,7 @@ meta:
   - content_copy: "https://bsky.app/profile/eay.social/post/3jveobulx6g2n"
 ---
 
-\[youtube id="KrjL\_TSOFrI"\]
+[youtube id="KrjL_TSOFrI"]
 
 > Embark on a fantastical journey to Middle-earth reimagined through the eccentric and charming lens of Wes Anderson in "The Whimsical Fellowship."
 

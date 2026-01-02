@@ -21,6 +21,6 @@ meta:
   - content_copy: "https://twitter.com/eay/status/977087557975592960"
 ---
 
-\[youtube id="trWLY6NrS2Q"\]
+[youtube id="trWLY6NrS2Q"]
 
 Der neueste Vertreter in der großartigen "Honest Trailers"-Reihe der [Screen Junkies](http://www.screenjunkies.com/) beschäftigt sich mit gleich allen Filmen von [Wes Anderson](https://eay.cc/tag/wes-anderson/) und zeigt gekonnt all die Besonderheiten, Techniken, Wiederholungen und, ja, auch Schwächen in seinen bisherigen acht Feature-Filmen auf. Film Nr. 9, »Isle of Dogs« kommt dann am 10. Mai in die hiesigen Kinos. (via [Kottke](https://kottke.org/18/03/an-honest-trailer-for-every-wes-anderson-movie))

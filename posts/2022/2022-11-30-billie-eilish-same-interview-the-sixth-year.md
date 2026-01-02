@@ -20,7 +20,7 @@ meta:
   - yourls_shorturl: "https://eay.li/3ka"
 ---
 
-\[youtube id="55XJ1ObZKaM"\]
+[youtube id="55XJ1ObZKaM"]
 
 > "I feel hopeful and I feel happy and I feel in a good spot in my life right now." We've spent the last six years following Billie Eilish on her journey through pop superstardom. Was 2022 her biggest year yet? After completing her Happier Than Ever The World Tour, headlining Coachella and Glastonbury, and winning an Oscar, the answer is clear.
 

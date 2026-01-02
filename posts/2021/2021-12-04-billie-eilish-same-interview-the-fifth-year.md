@@ -20,6 +20,6 @@ meta:
   - yourls_shorturl: "https://eay.li/2zl"
 ---
 
-\[youtube id="\_wNsZEqpKUA"\]
+[youtube id="_wNsZEqpKUA"]
 
 Solltet ihr überraschenderweise keine Ahnung haben, worum es hier geht, werft einen Blick in [meinen Post vom letzten, vierten Interview-Jahr](https://eay.cc/2020/billie-eilish-same-interview-the-fourth-year/).

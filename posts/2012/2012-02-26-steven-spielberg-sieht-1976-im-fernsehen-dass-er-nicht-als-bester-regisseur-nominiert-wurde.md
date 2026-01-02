@@ -22,4 +22,4 @@ Während ich meinem diesjährigen Oscar-Tipp noch den letzten Schlief gebe, hier
 
 > "Cancel my day!" "Right, we're getting drunk!"
 
-\[youtube id="2mgrxvTdl-Q"\]
+[youtube id="2mgrxvTdl-Q"]

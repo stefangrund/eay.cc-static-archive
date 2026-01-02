@@ -41,7 +41,7 @@ Zwischen 22 und 6 Uhr wird anstelle dieses Hinweises der eigentliche Beitrag plu
 
 ### Einbindung
 
-Der Inhalt (am besten ein ganzer Beitrag oder ein Absatz), der später angezeigt werden soll, wird einfach zwischen die zwei `[spaeter]`\-Shortcodes gesetzt:
+Der Inhalt (am besten ein ganzer Beitrag oder ein Absatz), der später angezeigt werden soll, wird einfach zwischen die zwei `[spaeter]`-Shortcodes gesetzt:
 
 `[spaeter]Dieser Inhalt wird später angezeigt.[/spaeter]`
 

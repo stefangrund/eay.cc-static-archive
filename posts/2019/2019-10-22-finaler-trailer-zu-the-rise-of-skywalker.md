@@ -19,10 +19,10 @@ meta:
   - yourls_shorturl: "https://eay.li/3bo"
 ---
 
-\[youtube id="8Qn\_spdM5Zg"\]
+[youtube id="8Qn_spdM5Zg"]
 
 Drei Erkenntnisse:
 
-1\. Wie schon [beim Teaser Trailer](https://eay.cc/2019/teaser-zu-star-wars-the-rise-of-skywalker/) lässt mich das alles eher kalt. 2. Die Musik funktioniert aber immer noch. 3. Dennoch bin froh, wenn das alles vorbei ist.
+1. Wie schon [beim Teaser Trailer](https://eay.cc/2019/teaser-zu-star-wars-the-rise-of-skywalker/) lässt mich das alles eher kalt. 2. Die Musik funktioniert aber immer noch. 3. Dennoch bin froh, wenn das alles vorbei ist.
 
 (Karten sind aber natürlich schon gekauft. 😅)

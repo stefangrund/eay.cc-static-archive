@@ -23,4 +23,4 @@ meta:
 
 Ich muss zugeben, dass ich weder die Buchvorlage von 1934, noch die Verfilmungen von 1974 oder eine der nachfolgenden kenne, und daher nicht beurteilen kann, inwieweit das neueste Remake den Vorgängern gerecht wird.
 
-An sich fand ich den Orient-Express im Vergleich zu seinem Staraufgebot, aber eher _underwhelming_. Die Dialoge waren nett, aber nach der ersten Hälfte verlor der Film seinen Witz und damit auch mich. Stattdessen sehen wir die Auflösung eines Kriminalfalls, den der Zuschauer niemals hätte lösen können, fehlt ihm doch das fiktionale Vorwissen, dass die Figuren hier haben und erst zum Ende der 114 Minuten offenbaren. \[rating value=4 inline=true\]
+An sich fand ich den Orient-Express im Vergleich zu seinem Staraufgebot, aber eher _underwhelming_. Die Dialoge waren nett, aber nach der ersten Hälfte verlor der Film seinen Witz und damit auch mich. Stattdessen sehen wir die Auflösung eines Kriminalfalls, den der Zuschauer niemals hätte lösen können, fehlt ihm doch das fiktionale Vorwissen, dass die Figuren hier haben und erst zum Ende der 114 Minuten offenbaren. [rating value=4 inline=true]

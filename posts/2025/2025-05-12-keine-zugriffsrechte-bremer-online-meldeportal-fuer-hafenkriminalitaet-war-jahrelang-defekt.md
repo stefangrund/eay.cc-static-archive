@@ -27,6 +27,6 @@ Mal wieder eine passende Meldung für unsere beliebte Kategorie [Smart phones, s
 
 > Der Bremer Justizsenat ging jahrelang davon aus, dass bei einem Online-Meldeportal für Hafenkriminalität keine Hinweise eingingen; doch die Plattform funktionierte einfach nicht, Meldungen wurden nicht weitergeleitet.
 
-> Letztlich hat ein nicht gesetzter Haken in der Zugriffsrechteverteilung des Programms dafür gesorgt, dass niemand Zugriff auf die Meldungen hatte. Die zuständigen Mitarbeiter der Staatsanwaltschaft konnten dies aber selbst nicht feststellen \[…\].
+> Letztlich hat ein nicht gesetzter Haken in der Zugriffsrechteverteilung des Programms dafür gesorgt, dass niemand Zugriff auf die Meldungen hatte. Die zuständigen Mitarbeiter der Staatsanwaltschaft konnten dies aber selbst nicht feststellen […].
 
 Einfach mal testweise das Formular abzuschicken und den Meldungseingang zu prüfen, war vermutlich keine Option.

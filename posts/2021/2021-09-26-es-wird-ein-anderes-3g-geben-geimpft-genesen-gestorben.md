@@ -21,4 +21,4 @@ Es ist mal wieder Zeit für den regelmäßigen Reminder, das wir uns noch immer 
 
 > Ohne Immunität wird es keine Normalität geben. Damit stellt sich die Frage, wie man diese Immunität erreicht: Über Infektion oder über Impfung.
 
-> Wir reden \[…\] über die Gefahr von Spätfolgen von Impfungen, die aber in der gesamten Geschichte der Impfungen noch nicht vorgekommen sind. Bei Viren hingegen ist das mehrfach dokumentiert.
+> Wir reden […] über die Gefahr von Spätfolgen von Impfungen, die aber in der gesamten Geschichte der Impfungen noch nicht vorgekommen sind. Bei Viren hingegen ist das mehrfach dokumentiert.

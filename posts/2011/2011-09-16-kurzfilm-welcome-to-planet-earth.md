@@ -23,4 +23,4 @@ Seitdem uns Andreas Türk und Bärbel Schäfer verlassen haben, ist es ruhig gew
 
 Oder aber man bekommt einen eigenen Kurzfilm spendiert. Wie im Fall von Jody Pendarvis aus [Bowman, South Carolina](http://en.wikipedia.org/wiki/Bowman,_South_Carolina) geschehen, der in seinem Vorgarten ein das [UFO Welcome Center](http://en.wikipedia.org/wiki/UFO_Welcome_Center) errichtet hat. Bös bezungte Aliens würden das zwar nur für einen Haufen Schrott halten, aber für Pendarvis ist es nicht nur Rückzugsort und Hobby, sondern auch Lebensinhalt. Die neun Minuten lange Dokumentation der Livingston Bros. zeigt dies auf sehr behutsame und sehenswerte Weise.
 
-\[vimeo id="24718582"\]
+[vimeo id="24718582"]

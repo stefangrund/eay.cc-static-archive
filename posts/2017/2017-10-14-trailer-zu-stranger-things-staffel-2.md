@@ -18,6 +18,6 @@ meta:
   - yourls_shorturl: "https://eay.li/31t"
 ---
 
-\[youtube id="R1ZXOOLMJ8s"\]
+[youtube id="R1ZXOOLMJ8s"]
 
 Freitag, der 13. – natürlich erschien da gestern der finale Trailer zur zweiten Staffel von Netflix' »Stranger Things«. Wir gucken gerade nochmal die erste Staffel, die ich ja schon sehr mochte, aber das hier sieht nochmal sehr viel mehr badass aus. Am 27.10. ist dann auch schon soweit.

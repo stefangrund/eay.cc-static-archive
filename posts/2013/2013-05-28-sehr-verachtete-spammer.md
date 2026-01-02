@@ -21,4 +21,4 @@ würdet ihr, namentlich die 171.25.190.77 aus Lettland, 178.151.216.53 aus der U
 
 Recht genervt, _admin_
 
-\--- Um das Pack auszusperren, empfiehlt sich übrigens das [Limit Login Attempts](http://wordpress.org/plugins/limit-login-attempts/)\-Plugin, das [Sperren von IP-Adressen per .htaccess](http://www.perun.net/2012/03/05/wordpress-spam-ip-per-htaccess-sperren/) und natürlich das [Ändern des Standardbenutzernamens "admin"](http://www.digitalkonline.com/blog/change-your-wordpress-admin-username/) in irgendwas anderes.
+--- Um das Pack auszusperren, empfiehlt sich übrigens das [Limit Login Attempts](http://wordpress.org/plugins/limit-login-attempts/)-Plugin, das [Sperren von IP-Adressen per .htaccess](http://www.perun.net/2012/03/05/wordpress-spam-ip-per-htaccess-sperren/) und natürlich das [Ändern des Standardbenutzernamens "admin"](http://www.digitalkonline.com/blog/change-your-wordpress-admin-username/) in irgendwas anderes.

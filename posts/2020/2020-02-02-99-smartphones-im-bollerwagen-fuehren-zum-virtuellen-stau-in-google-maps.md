@@ -19,7 +19,7 @@ meta:
   - yourls_shorturl: "https://eay.li/3cr"
 ---
 
-\[youtube id="k5eL\_al\_m7Q"\]
+[youtube id="k5eL_al_m7Q"]
 
 > 99 second hand smartphones are transported in a handcart to generate virtual traffic jam in Google Maps. Through this activity, it is possible to turn a green street red which has an impact in the physical world by navigating cars on another route to avoid being stuck in traffic.
 

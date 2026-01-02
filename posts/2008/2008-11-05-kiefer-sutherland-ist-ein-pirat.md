@@ -23,4 +23,4 @@ meta:
 
 Eigentlich wollte ich ja heute einiges bloggen, ein Wörtchen über Obama verlieren, wie ein Wilder [twittern](http://twitter.com/Eay) und den Abend vor dem Exkrementen­fernsehgerät ausklingen lassen. Leider ist auf der Arbeit jemand ausgefallen und hat meiner Tages- und Abendplanung einen Strich durch die Rechnung gemacht. Daher heute nur ein bisschen Bewegtbild mit [Kiefer Sutherland](http://de.wikipedia.org/wiki/Kiefer_Sutherland) als Pirat, was wiederum alles erklären dürfte. (thx, [McLee](http://twitter.com/The_McLee)!)
 
-\[youtube id="dCiageqMHJc"\]
+[youtube id="dCiageqMHJc"]

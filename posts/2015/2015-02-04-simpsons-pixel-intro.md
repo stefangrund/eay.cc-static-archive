@@ -21,6 +21,6 @@ meta:
 
 > "Pixel art is not real art"
 
-\[youtube id="FIZ\_gDOrzGk"\]
+[youtube id="FIZ_gDOrzGk"]
 
 Großartige Arbeit von Pixelguru [Paul Robertson](http://probertson.tumblr.com/) (siehe [z.B. hier](//eay.cc/2008/kings-of-power-4-billion/)) und [Ivan Dixon](http://pug-of-war.tumblr.com/), mit der Musik von [Jeremy Dower](http://www.jeremydower.com/). (via _überall_, ich bin nur wieder spät dran)

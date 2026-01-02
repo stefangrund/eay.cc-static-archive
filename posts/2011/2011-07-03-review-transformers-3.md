@@ -16,7 +16,7 @@ meta:
   - yourls_shorturl: "https://eay.li/19p"
 ---
 
-\[audio src="https://eay.cc/uploads/audio/transformersscenechange.mp3"\]
+[audio src="https://eay.cc/uploads/audio/transformersscenechange.mp3"]
 
 Michael "Boom Boom" Bay, verschriener Großmeister des so genannten Popcorn-Kinos und Garant für volle Lichtspielhäuser, hat es wieder getan: er hat sich zum dritten Mal dem in den 80ern überaus beliebten Plastikspielzeug-Franchise »[Transformers](//eay.cc/tag/transformers/)« angenommen. Dabei setzen er und Produzentenlegende Steven Spielberg getreu dem dieser Tage weit verbreiteten Hollywood-Motto "Mehr Geld ist mehr Geld" auf Dreidimensionalität - und das obwohl Bay [vor noch nicht all zu langer Zeit](http://www.fuenf-filmfreunde.de/2010/03/24/3d-ist-blodsinn-michael-bay-hat-recht-droht-das-ende-der-welt/) überhaupt gar kein Fan dieser Technik war. Doch spätestens als die blonde Megan Fox, [Rosie Huntington-Whiteley](http://www.imdb.com/name/nm2492819/), in ihrer ersten Szene im knappen Slip eine Treppe emporsteigt, ist all das vergessen und Michael Bay liebt 3D so urplötzlich wie der pubertierende Jüngling den weiblichen Körper.
 
@@ -30,4 +30,4 @@ Dennoch: »[Transformers 3](http://www.imdb.com/title/tt1399103/)« ist und blei
 
  **[![EMDb](/uploads/pages/emdb/emdb_mini.gif)](http://eay.cc/emdb/) - Rating:** ![3,5/5](/uploads/pages/emdb/s_3-5.gif)
 
-\[audio src="https://eay.cc/uploads/audio/transformingsound.mp3"\]
+[audio src="https://eay.cc/uploads/audio/transformingsound.mp3"]

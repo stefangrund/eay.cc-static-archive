@@ -28,7 +28,7 @@ meta:
   - content_copy: "https://bsky.app/profile/eay.social/post/3m7xif2nbio2r"
 ---
 
-> Das Kraftwerk Three Mile Island steht für [den schlimmsten Reaktorunfall in der US-Geschichte](https://de.wikipedia.org/wiki/Reaktorunfall_im_Kernkraftwerk_Three_Mile_Island). Doch bald soll ein Teil des stillgelegten AKWs wieder hochgefahren werden. Der Grund: der Energiebedarf von künstlicher Intelligenz. \[Anm.: Link von mir ergänzt.\]
+> Das Kraftwerk Three Mile Island steht für [den schlimmsten Reaktorunfall in der US-Geschichte](https://de.wikipedia.org/wiki/Reaktorunfall_im_Kernkraftwerk_Three_Mile_Island). Doch bald soll ein Teil des stillgelegten AKWs wieder hochgefahren werden. Der Grund: der Energiebedarf von künstlicher Intelligenz. [Anm.: Link von mir ergänzt.]
 
 Microsoft nimmt den dort erzeugten Strom für 20 Jahre ab.
 

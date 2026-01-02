@@ -22,6 +22,6 @@ meta:
   - content_copy: "http://www.youtube.com/watch?v=sLaXSvpfDZs"
 ---
 
-\[youtube id="sLaXSvpfDZs"\]
+[youtube id="sLaXSvpfDZs"]
 
 Interessantes Video-Essay von [Johnny Harris](https://youtube.com/@johnnyharris) über das, was problematisch an Joe Rogan ist – und was nicht.

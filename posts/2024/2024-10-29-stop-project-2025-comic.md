@@ -25,4 +25,4 @@ meta:
 
 ![Same panels of the Stop Project 2025 comic.](https://eay.cc/uploads/2024/stop-project2025-comic.jpg)
 
-> Project 2025 is a detailed plan to shut you up, and shut you out. \[…\] So we’ve made comics to explain some of that agenda, and move you to vote against it.
+> Project 2025 is a detailed plan to shut you up, and shut you out. […] So we’ve made comics to explain some of that agenda, and move you to vote against it.

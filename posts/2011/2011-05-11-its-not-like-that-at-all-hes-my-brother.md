@@ -17,6 +17,6 @@ meta:
   - yourls_shorturl: "https://eay.li/17t"
 ---
 
-\[youtube id="6IPAGXyFvrs"\]
+[youtube id="6IPAGXyFvrs"]
 
 (via [Peter Vidani](http://blog.petervidani.com/post/4192554959))

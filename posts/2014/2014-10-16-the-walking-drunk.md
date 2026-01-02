@@ -20,6 +20,6 @@ meta:
   - yourls_shorturl: "https://eay.li/2k1"
 ---
 
-\[youtube id="3pmmtQwUZz0"\]
+[youtube id="3pmmtQwUZz0"]
 
 So offensichtlich, dass man sich wundert, warum das erst zum Start der fünften Season gekommen ist. (via [Seriesly Awesome](http://www.serieslyawesome.tv/the-walking-drunk/))

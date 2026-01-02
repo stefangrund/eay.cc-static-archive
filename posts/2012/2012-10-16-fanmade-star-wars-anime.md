@@ -22,7 +22,7 @@ Dass das hier großartig werden würde, hatte ich schon geahnt, als ich vor ein 
 
 Glücklicherweise hat [Sascha](http://www.pewpewpew.de/2012/10/16/fanmade-star-wars-anime/) heute aber nochmal eine Kopie des zweiminütigen Clips ausgegraben, die von [JPL4185](http://www.youtube.com/user/JPL4185) nach [Absprache mit Otaking77077](http://i.imgur.com/wIkXo.jpg) zudem noch um die passenden Soundeffekte und Musik ergänzt wurde (und somit noch schneller von der digitalen Bildfläche verschwinden dürfte). Und das, was ich da endlich sehen darf, entzückt mich wirklich sehr: eine wahrlich fabelhaft aussehende Anime-Version eines Star Wars-Weltraumgefechts. Wenn es nach mir ginge, würde ich [sämtliche](http://owley.ch/2012/08/25/trailer-star-wars-detours/) [CGI-Scheiße](//eay.cc/2008/worst-star-wars-ever/) augenblicklich einstampfen und die Herren, die hierfür verantwortlich sind, sofort mit Geld überschütten. Aber dazu wird es ja leider nicht kommen...
 
-\[youtube id="-tBM2ZfncoU"\]
+[youtube id="-tBM2ZfncoU"]
 
 PS: Ich hab mir ein Backup von dem Clip [gezogen](http://clipgrab.de/). Wenn's also wieder gelöscht wird, muss ich das halt irgendwo hochladen.
 

@@ -21,6 +21,6 @@ meta:
 
 ...würde »A Life Galactic« heißen und würde ich mir sofort ansehen. Ernsthaft.
 
-\[youtube id="BN\_Uwo4qQTM"\]
+[youtube id="BN_Uwo4qQTM"]
 
 (via [Kottke](http://kottke.org/12/11/wes-andersons-star-wars))

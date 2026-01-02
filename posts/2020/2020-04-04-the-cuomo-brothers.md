@@ -26,4 +26,4 @@ meta:
 
 Hach, das wusste ich auch noch nicht: [Andrew Cuomo](https://en.wikipedia.org/wiki/Andrew_Cuomo), der derzeit oft gelobte Gouverneur von New York, hat einen jüngeren Bruder, [Chris](https://en.wikipedia.org/wiki/Chris_Cuomo), der Journalist bei CNN ist und seinen Politiker­bruder oftmals on air interviewt. Ganz groß.
 
-\[youtube id="vHGhAIEqJcg"\]
+[youtube id="vHGhAIEqJcg"]

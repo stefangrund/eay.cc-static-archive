@@ -24,6 +24,6 @@ meta:
 
 Die aktuelle "DIW aktuell"-Analyse vom [Deutschen Institut für Wirtschafts­forschung](https://de.wikipedia.org/wiki/Deutsches_Institut_f%C3%BCr_Wirtschaftsforschung), in dem wirtschafts­politische Themen aufbereitet werden:
 
-> Menschen, die die AfD unterstützen, würden am stärksten unter der AfD-Politik leiden, und zwar in Bezug auf fast jeden Politikbereich: Wirt­schaft und Steuern ebenso wie Klima­schutz, soziale Absicherung, Demokratie und Globali­sierung. Dieses Paradox scheint mit einer falschen Selbst­ein­schätzung vieler AfD-Wähler\*innen und mit einer Fehl­einschätzung der gesell­schaft­lichen Realität zusammen­zuhängen.
+> Menschen, die die AfD unterstützen, würden am stärksten unter der AfD-Politik leiden, und zwar in Bezug auf fast jeden Politikbereich: Wirt­schaft und Steuern ebenso wie Klima­schutz, soziale Absicherung, Demokratie und Globali­sierung. Dieses Paradox scheint mit einer falschen Selbst­ein­schätzung vieler AfD-Wähler*innen und mit einer Fehl­einschätzung der gesell­schaft­lichen Realität zusammen­zuhängen.
 
 (via [@hesse@mastodon.social](https://mastodon.social/@hesse/110937371623419961))

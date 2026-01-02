@@ -21,7 +21,7 @@ meta:
   - yourls_shorturl: "https://eay.li/2tl"
 ---
 
-\[youtube id="PKvsc6a03Es"\]
+[youtube id="PKvsc6a03Es"]
 
 > The remix method of copying, transforming and combining is definitely used in The Force Awakens, as well as the other works of JJ Abrams. Is remixing a weak point in The Force Awakens? Is the remix method growing stale? Have we reached the limits of remixing?
 

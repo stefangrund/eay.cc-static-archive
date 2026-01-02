@@ -25,7 +25,7 @@ meta:
   - yourls_shorturl: "https://eay.li/2md"
 ---
 
-\[youtube id="JMxr8Nq-w\_w"\]
+[youtube id="JMxr8Nq-w_w"]
 
 > Sensing devices are everywhere, up to the point where we become unaware of their presence. Eyecam is a critical design prototype exploring the potential futures of sensing devices. Eyecam is a webcam shaped like a human eye. It can see, blink, look around and observe you.
 

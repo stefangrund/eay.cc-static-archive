@@ -25,13 +25,13 @@ meta:
   - _share_on_mastodon_url: "https://eay.social/@eay/113924202460176533"
 ---
 
-\[youtube id="X\_D-yW8v0Jo"\]
+[youtube id="X_D-yW8v0Jo"]
 
 > Exile. Imprisonment. The end of elections. We know what tyranny looks like once it's underway.
 > 
 > But how does it start?
 > 
-> In the \[New York Times\] Opinion Video above, you'll meet people from around the world who missed the warning signs of tyranny taking root in their home countries.
+> In the [New York Times] Opinion Video above, you'll meet people from around the world who missed the warning signs of tyranny taking root in their home countries.
 > 
 > They can see the red flags, in retrospect. And they have a word of caution: The rule of law doesn't break down overnight, and checks and balances don't collapse in an instant.
 > 

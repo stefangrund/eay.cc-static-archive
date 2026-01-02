@@ -23,9 +23,9 @@ Ich hatte hier ja [neulich ein Stöckchen](//eay.cc/2009/das-interview-stockchen
 
 > [HerrK über Eay:](http://www.herrk.de/?p=459) Zum Eay sei gesagt das er mir aus irgendeinem Grund damals in Twitter über die Tweets gelaufen ist - seit dem schaue ich gerne in seinem crazy Blog vorbei.
 
-> [Asphar über Eay:](http://so-war-das-damals.de/2009/06/15/das-interview-stockchen/) \[Jemand der\] sich mit dem Einlösen von Wettschulden ganz schön lange Zeit lässtâ¦ ((Okay, vielleicht hätte ich dieses "Empfehlungsschreiben" auslassen sollen...))
+> [Asphar über Eay:](http://so-war-das-damals.de/2009/06/15/das-interview-stockchen/) [Jemand der] sich mit dem Einlösen von Wettschulden ganz schön lange Zeit lässtâ¦ ((Okay, vielleicht hätte ich dieses "Empfehlungsschreiben" auslassen sollen...))
 
-> [Jenny über Eay:](http://www.jennysis.de/blog/2009/06/14/interview-stoeckchen/) Der Stefan hat schon Artikel geschriebenâ¦ schon lange Zeit vor dem ganzen Blogkram. Ich mag seine Texte, die Ansichten zu diesem und jenem und seinen super Humor. \[...\]
+> [Jenny über Eay:](http://www.jennysis.de/blog/2009/06/14/interview-stoeckchen/) Der Stefan hat schon Artikel geschriebenâ¦ schon lange Zeit vor dem ganzen Blogkram. Ich mag seine Texte, die Ansichten zu diesem und jenem und seinen super Humor. [...]
 
 > [Limpi über Eay:](http://spaetz.eayz.net/2009/06/ein-stockchen.html) Er ist ein sehr begabter Schreiber, schlau, witzig und unverschämt gutaussehend.
 

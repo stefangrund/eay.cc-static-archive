@@ -16,7 +16,7 @@ meta:
   - yourls_shorturl: "https://eay.li/18z"
 ---
 
-\[[Trigami-Review](http://www.trigami.com/?blog=http://eay.cc/)\]
+[[Trigami-Review](http://www.trigami.com/?blog=http://eay.cc/)]
 
 <script type="text/javascript" src="http://s.trigami.com/468355s.js"></script>
 

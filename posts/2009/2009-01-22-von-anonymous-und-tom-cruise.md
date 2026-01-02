@@ -25,6 +25,6 @@ Dazu muss man erst einmal wissen, dass [Scientology](http://de.wikipedia.org/wik
 
 Natürlich waren ein gutes Dutzend Anonyme auch bei der Walküre-Premiere vertreten, bekamen jedoch alsbald von der Polizei einen Platzverweis erteilt. Einer konnte sich jedoch bis zum roten Teppich vorkämpfen und Tom Cruise davon überzeugen, seine Maske zu signieren. Nach anfänglichem Zögern tat dieser das auch - samt Peace-Symbol (!). Das ganze wurde geistesgegenwärtig per Handy gefilmt, seht selbst:
 
-\[youtube id="tG7WD6VAmJ4"\]
+[youtube id="tG7WD6VAmJ4"]
 
 Mehr über die Anonymous-Aktion steht [bei Heise](http://www.heise.de/newsticker/Anonymous-vs-Scientology-Tom-Cruise-signiert-Maske--/meldung/122098). Wer sich näher mit Scientology und den, von ihnen so gefürchteten Anonymous befassen möchte, der sollte sich [diese ARD-Doku](http://www.ardmediathek.de/ard/servlet/content/1407418) von gestern Abend ansehen (womit man auch seine Bürgerpflicht getan hat und ins Kino darf).

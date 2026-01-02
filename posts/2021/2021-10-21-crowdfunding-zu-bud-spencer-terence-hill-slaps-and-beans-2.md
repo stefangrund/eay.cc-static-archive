@@ -21,7 +21,7 @@ meta:
   - yourls_shorturl: "https://eay.li/2sw"
 ---
 
-\[youtube id="5CVJ6fjrZI0"\]
+[youtube id="5CVJ6fjrZI0"]
 
 > After the success of Bud Spencer & Terence Hill - Slaps And Beans, Trinity Team and Buddy Productions are back with a new game dedicated to fans of the mythic duo.
 

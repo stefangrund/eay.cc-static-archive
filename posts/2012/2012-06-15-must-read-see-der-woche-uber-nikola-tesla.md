@@ -21,7 +21,7 @@ meta:
   - yourls_shorturl: "https://eay.li/1jc"
 ---
 
-Passend zum eben [schon verlinkten](//eay.cc/2012/must-read-der-woche-why-nikola-tesla-was-the/) Artikel/Comic-Dingsi gibt es bei der [Funny or Die](http://www.funnyordie.com/)\-Serie »[Drunk History](http://www.funnyordie.com/drunkhistory)« eine Episode zu Tesla, die es wie der volltrunkene Erzähler Duncan Trussell in sich hat. Absolut sehenswert, sofern man sich nicht allzu sehr vor den Schattenseiten von ausuferndem Alkoholkonsum fürchtet - dann sieht man aber auch nicht John C. Reilly als Nikola Tesla und Crispin Glover als Thomas Edison.
+Passend zum eben [schon verlinkten](//eay.cc/2012/must-read-der-woche-why-nikola-tesla-was-the/) Artikel/Comic-Dingsi gibt es bei der [Funny or Die](http://www.funnyordie.com/)-Serie »[Drunk History](http://www.funnyordie.com/drunkhistory)« eine Episode zu Tesla, die es wie der volltrunkene Erzähler Duncan Trussell in sich hat. Absolut sehenswert, sofern man sich nicht allzu sehr vor den Schattenseiten von ausuferndem Alkoholkonsum fürchtet - dann sieht man aber auch nicht John C. Reilly als Nikola Tesla und Crispin Glover als Thomas Edison.
 
 <iframe src="http://www.funnyordie.com/embed/ef668caf14" width="500" height="321" frameborder="0"></iframe>
 

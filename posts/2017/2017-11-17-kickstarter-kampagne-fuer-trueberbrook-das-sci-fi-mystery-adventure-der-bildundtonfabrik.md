@@ -21,7 +21,7 @@ meta:
 
 Köln schreint sich zur Hochburg für handgemachte Indie-Adventures zu entwickeln: Nach dem leider nicht erfolgreich per Crowdfunding finanzierten Stop-Motion-Game [Harold Halibut](https://eay.cc/2017/harold-halibut-a-handmade-adventure-game/) kommt mit [Trüberbrook](http://trueberbrook.com/) nun schon ein zweites Point-and-Click-Adventure aus der schönsten Stadt Deutschlands – diesmal mit IRL gebauten und per [Photogrammetrie](https://de.wikipedia.org/wiki/Photogrammetrie) digitaliersten Modell­landschaften als Hintergrund.
 
-\[youtube id="unNPxeHq-fo"\]
+[youtube id="unNPxeHq-fo"]
 
 Trüberbrook ist dabei der Name des abgelegenen 60er-Jahre-Luftkurörtchens, der als Schauplatz des Mystery-Abenteuers herält und dessen Geheimnisse es für den amerikanischen Physikers Tannhauser zu lüften gilt. Stimmung und Dramaturgie sind von TV-Serien wie »Twin Peaks« und »Akte X« inspiriert, verwoben mit einem ähnlich subtilen Humor.
 

@@ -19,6 +19,6 @@ Während der nächsten Tage könnte es hier aufgrund der [Ausgelassenheit, Fröh
 
 Und wie in jedem Jahr bitten wir dies zu entschuldigen ist uns scheiß egal, was die restlichen, unlustigen BRDler jetzt denken. Wer eine oder keine Ahnung hat, wovon ich rede, sollte sich einen offensichtlich betrunkenen Präsidenten (nein, nicht [unserer](http://www.herbertsjunks.de/)) beim _alaafen_ anhören:
 
-\[audio src="https://eay.cc/uploads/2008/alaaf.mp3"\]
+[audio src="https://eay.cc/uploads/2008/alaaf.mp3"]
 
 Nicht, dass ich das spätestens heute Abend besser könnte, aber egal, denn jetzt geht's schließlich noch, aber keine Angst, wir arbeiten dran. In diesem Sinne: [Kölle Alaaf!](http://de.wikipedia.org/wiki/Narrenruf#Rheinland)

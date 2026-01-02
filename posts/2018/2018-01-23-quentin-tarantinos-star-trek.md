@@ -21,8 +21,8 @@ meta:
   - yourls_shorturl: "https://eay.li/33b"
 ---
 
-Nach der überraschenden [Ankündigung von neulich](https://eay.cc/2017/a-quentin-tarantino-star-trek-movie-might-be-on-its-way/), dass Quentin Tarantino an einem [Star Trek](https://eay.cc/tag/star-trek/)\-Film arbeite, hier nun der passende Fan-made Mashup-Trailer dazu, der Kirk & Co. in Tarantinos Grindhouse-Welt verfrachtet:
+Nach der überraschenden [Ankündigung von neulich](https://eay.cc/2017/a-quentin-tarantino-star-trek-movie-might-be-on-its-way/), dass Quentin Tarantino an einem [Star Trek](https://eay.cc/tag/star-trek/)-Film arbeite, hier nun der passende Fan-made Mashup-Trailer dazu, der Kirk & Co. in Tarantinos Grindhouse-Welt verfrachtet:
 
-\[youtube id="v3Nv2R9Acec"\]
+[youtube id="v3Nv2R9Acec"]
 
 > Set your phasers to "thrill" with this Nerdist Presents parody that explores classic Star Trek in the style of the pulpy B-movies that influence Quentin Tarantino. With shades of Pulp Fiction, Kill Bill, and Inglorious Basterds, "Quentin Tarantino's Star Trek: Voyage to Vengeance" clips out the bloodiest, punchiest, killingest moments from The Original Series and recuts them in a style that Tarantino would approve of.

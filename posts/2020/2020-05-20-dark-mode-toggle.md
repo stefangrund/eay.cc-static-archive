@@ -18,4 +18,4 @@ meta:
 
 Seit März verfügt diese Seite [mit "Dark Neill" über einen Dark Mode](https://eay.cc/2020/dark-neill/), der je nach Betriebssystem-/Browserpräferenz angezeigt wird (oder eben nicht). Seit heute gibt's oben rechts einen Button, der euch auch unabhängig von besagten Präferenzen zwischen Hell und Dunkel wechseln lässt.
 
-Zudem lässt sich die Suche nun auch über einen weiteren Button ("Ihr habt's ja!") und nicht mehr nur über die `s`\-Taste auf jeder Seite anzeigen und nutzen.
+Zudem lässt sich die Suche nun auch über einen weiteren Button ("Ihr habt's ja!") und nicht mehr nur über die `s`-Taste auf jeder Seite anzeigen und nutzen.

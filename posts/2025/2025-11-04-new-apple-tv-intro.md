@@ -23,7 +23,7 @@ meta:
   - content_copy: "https://bsky.app/profile/eay.social/post/3m4szijjojo2e"
 ---
 
-\[youtube id="6sX\_BfDnyrg"\]
+[youtube id="6sX_BfDnyrg"]
 
 [Nach der Umbenennung](https://eay.cc/2025/alles-ist-apple-tv/) hier nun die neuen Visuals. Das Sound Design stammt von [Finneas](https://de.wikipedia.org/wiki/Finneas_O%E2%80%99Connell).
 

@@ -19,4 +19,4 @@ meta:
   - yourls_shorturl: "https://eay.li/vr"
 ---
 
-![](/uploads/2009/marcelluswallace.jpg) (by [c\_kick](http://totalleh.com/), [via](http://www.b3ta.com/board/9150603))
+![](/uploads/2009/marcelluswallace.jpg) (by [c_kick](http://totalleh.com/), [via](http://www.b3ta.com/board/9150603))

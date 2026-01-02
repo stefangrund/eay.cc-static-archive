@@ -21,7 +21,7 @@ Als die Macher von [Outcast](https://de.wikipedia.org/wiki/Outcast), einem meine
 
 Die Leute von Appeal ließen sich von diesem Dämpfer jedoch nicht zurückschrecken, fanden mit Bigben Interactive einen Publisher, der das Unterfangen selbst finanzierte, und kündigten im August letzten Jahres unter dem Namen "Outcast: Second Contact" eben dieses HD-Remake an.
 
-\[youtube id="kDYI32gSrA4"\]
+[youtube id="kDYI32gSrA4"]
 
 Vor kurzem erschien dann der erste Trailer und obwohl dieser natürlich offenbart, dass "Second Contact" nicht mit der Spielmechanik moderner Blockbuster-Games mithalten kann, freue ich mich doch immens nach Jahren der Abstinenz des Ulukai endlich wieder nach Adelpha zurückzukehren.
 

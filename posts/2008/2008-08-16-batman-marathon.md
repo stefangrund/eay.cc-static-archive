@@ -25,4 +25,4 @@ Nachdem ich im Urlaub sehr günstig in den Besitz der [Batman Edition](http://ww
 
 Und als musikalische Untermalung für die Pinkelpausen:
 
-\[audio src="https://eay.cc/uploads/audio/battheme.mp3"\]
+[audio src="https://eay.cc/uploads/audio/battheme.mp3"]

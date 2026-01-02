@@ -16,4 +16,4 @@ meta:
   - yourls_shorturl: "https://eay.li/1fg"
 ---
 
-![](https://eay.cc/uploads/2012/banane.gif) Hey, anstößige Jubiläumsbanane! Denn vor genau vier Jahren, am [28\. Januar 2008](//eay.cc/2008/gif-der-woche-1/), habe ich das [.gif der Woche](//eay.cc/tag/gif-der-woche/) hier eingeführt und wie ihr an der Nummerierung oben erkennen könnt, war ich alles andere als konsequent damit das ganze tatsächlich auch wöchentlich zu bringen. Aber hey, auch egal! Anstößige Jubiläumsbanane!
+![](https://eay.cc/uploads/2012/banane.gif) Hey, anstößige Jubiläumsbanane! Denn vor genau vier Jahren, am [28. Januar 2008](//eay.cc/2008/gif-der-woche-1/), habe ich das [.gif der Woche](//eay.cc/tag/gif-der-woche/) hier eingeführt und wie ihr an der Nummerierung oben erkennen könnt, war ich alles andere als konsequent damit das ganze tatsächlich auch wöchentlich zu bringen. Aber hey, auch egal! Anstößige Jubiläumsbanane!

@@ -20,4 +20,4 @@ meta:
 
 Nett, dass ihr fragt: Bisher sind's Es waren "nur" **51 T-age** (?). Aber das ist okay, hat der Telekom-Hotline-Mensch mich doch bereits auf die Warterei vorbereitet, um es mir im nächsten Satz innerhalb der ersten Woche nach Release zuzusichern.
 
-**Update, 14.08.2010:** Nachdem ich mich intensiv, lautstark und täglich per Twitter bei meinen Followern und vor allem @[deutschetelekom](http://twitter.com/deutschetelekom) und @[telekom\_hilft](http://twitter.com/telekom_hilft) über die Wartezeit beschwert habe, kam [diese Reply](http://twitter.com/Telekom_hilft/status/21041850815) und keine drei Stunden später die Versandbestätigung. Mysteriös, aber immerhin.
+**Update, 14.08.2010:** Nachdem ich mich intensiv, lautstark und täglich per Twitter bei meinen Followern und vor allem @[deutschetelekom](http://twitter.com/deutschetelekom) und @[telekom_hilft](http://twitter.com/telekom_hilft) über die Wartezeit beschwert habe, kam [diese Reply](http://twitter.com/Telekom_hilft/status/21041850815) und keine drei Stunden später die Versandbestätigung. Mysteriös, aber immerhin.

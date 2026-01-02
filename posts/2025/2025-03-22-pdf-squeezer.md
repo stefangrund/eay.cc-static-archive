@@ -30,4 +30,4 @@ Shoutout an die macOS- und iOS-/iPadOS-App PDF Squeezer von [Daniel Witt](https:
 
 Das recht bildlastige Company Profile von [Hypercode](https://hypercode.de/) umfasst z.B. 18 Slides, die beim regulären Figma-Export 316 MB umfassen. Nach Behandlung mit PDF Squeezers stärkster Komprimierung lässt es sich bei verkraft­baren Qualitäts­einbußen mit knapp 22 MB wieder per Mail verschicken.
 
-PDF Squeezer für macOS kostet 19,99 Euro, für iOS 9,99 Euro und ist alternativ Teil des [SetApp](https://setapp.com/)\-Abos (auch [des mobilen](https://eay.cc/2024/macpaw-kuendigt-setapp-mobile-fuer-eu-ios-an/)). In meinem Berufs- und [Dozenten­leben](https://eay.cc/2024/lehre-an-der-hmkw/) ein echter No-Brainer.
+PDF Squeezer für macOS kostet 19,99 Euro, für iOS 9,99 Euro und ist alternativ Teil des [SetApp](https://setapp.com/)-Abos (auch [des mobilen](https://eay.cc/2024/macpaw-kuendigt-setapp-mobile-fuer-eu-ios-an/)). In meinem Berufs- und [Dozenten­leben](https://eay.cc/2024/lehre-an-der-hmkw/) ein echter No-Brainer.

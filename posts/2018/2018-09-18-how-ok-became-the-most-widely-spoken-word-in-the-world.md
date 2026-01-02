@@ -15,7 +15,7 @@ meta:
   - content_copy: "https://eay.social/@eay/100745682295830201"
 ---
 
-\[youtube id="1UnIDL-eHOs"\]
+[youtube id="1UnIDL-eHOs"]
 
 > Young Boston intellectuals in the early 1800s used a humorous code of abbreviated phrases, like “KC,” or “knuff ced”; “KY,” “know yuse”; and “OW,” “oll wright.” And while most of them eventually fell out of fashion, one abbreviation persisted: “OK,” or “oll korrect.”
 

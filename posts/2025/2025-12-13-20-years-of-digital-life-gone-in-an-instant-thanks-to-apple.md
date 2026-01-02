@@ -34,7 +34,7 @@ Der Australier [Paris Buttfield-Addison](https://hey.paris/) ist seit über 20 J
 
 Die Geschichte reiht sich (jedoch ohne politischen Hintergrund) in die [des Falls des französischen Richters Nicolas Guillou vom Internationalen Strafgerichtshof ein](https://www.heise.de/news/Wie-ein-franzoesischer-Richter-von-den-USA-digital-abgeklemmt-wurde-11087453.html), der von den USA sanktioniert, nachdem dieser Haftbefehle u.a. gegen den israelischen Premierminister erlassen hat. In der Folge wurden seine Online-Dienste wie Amazon, Airbnb und Expedia gesperrt, ebenso seine Visa- und Mastercard-Kreditkarten, sowie PayPal-Konten, was einem Ausschluss aus dem internationalen Finanzsystem und Unterbinden digitaler Teilhabe gleichkommt.
 
-\---
+---
 
 **Update, 27.12.:** [Auf Mastodon](https://social.lol/@mcn/115714523483092283) hat mich [Mere Civilian](https://merecivilian.com/) auf sein [sehr ähnlich gelagertes Problem](https://merecivilian.com/apple-broke-up-with-me/) aufmerksam gemacht, wonach auch seine Apple-ID gesperrt wurde. Auch hier scheiterte der Support, erst das Auftauchen von Ansprechpartnern der **Apple Executive Relations** brachte schließlich Abhilfe. Warum der Account genau geschlossen wurde, blieb jedoch unklar.
 

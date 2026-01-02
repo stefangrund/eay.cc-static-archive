@@ -32,15 +32,15 @@ Die letzte Ausgabe des neuen Runs meiner unregelmäßig erscheinenden Linkliste 
 ### Medien & Popkultur
 
 - [Star Wars-Fan-Theorie über Kylo Rens Backstory und die Herkunft von Rey](https://www.reddit.com/r/StarWars/comments/47gjm6/why_rey_is_must_be_spoiler_all_evidence_listed/) (Spoiler, obviously!) – Dürfte größtenteils stimmen, es sei denn die Abrams’sche Mystery Box führt uns mit dem Captain-Obvious-Plot bewusst auf die falsche Fährte. (thx [@AndiH](https://twitter.com/AndiH))
-- Ganz groß: [Jimmy Kimmels Deleted Scene aus »Batman v Superman«](https://www.youtube.com/watch?v=0Y8iRvQdSGA) \[youtube id="0Y8iRvQdSGA"\]
+- Ganz groß: [Jimmy Kimmels Deleted Scene aus »Batman v Superman«](https://www.youtube.com/watch?v=0Y8iRvQdSGA) [youtube id="0Y8iRvQdSGA"]
 - [Das erste deutsche Netflix-Original heißt »DARK« und kommt 2017](https://www.serieslyawesome.tv/das-erste-deutsche-netflix-original-heisst-dark-und-kommt-2017/) und dürfte zusammen mit der [deutschen Amazon-Produktion feat. Matthias Schweighöfer](https://www.serieslyawesome.tv/matthias-schweighoefer-produziert-erste-deutsche-amazon-serie/) die Feuerprobe sein, ob und wie sich die deutsche Film- und Fernsehlandschaft im internationalen Streaming-Markt behaupten kann oder scheitert und für weitere Jahrzehnte keinerlei große Beachtung erfährt. Wir befürchten das schlimmste, aber hoffen das beste.
-- [John Oliver hat sich Donald Trump angenommen](https://www.youtube.com/watch?v=DnpO_RTSNmQ): \[youtube id="DnpO\_RTSNmQ"\]
+- [John Oliver hat sich Donald Trump angenommen](https://www.youtube.com/watch?v=DnpO_RTSNmQ): [youtube id="DnpO_RTSNmQ"]
 
 ### Podcasts
 
 - “[Doomian](https://superlevel.de/spielkram/doomian-000-dance-dance-reputation/)”, hörenswerter Call-In-/Gaming-Podcast von [Fabu](https://twitter.com/herrfabu) of [Superlevel](https://superlevel.de/).
 - [Superhero Unit](http://superherounit.de/) von [Christian](https://twitter.com/wirimperium) of [Second Unit](http://secondunit-podcast.de/). Neben den ersten beiden Folgen, in denen es um »Superman & The Mole-Men« (1951), »Batman: The Movie« (1966), »Spider-Man« (1977) und »Superman« I & II (1978/1980) geht, lohnt sich auch ein Blick in die [wöchentliche Linkliste](http://superherounit.de/category/links/), die ihr auf der Seite findet.
-- [Podcast Profile](https://podcastprofile.com/) – [Max](http://maxfriedrich.de/post/139416395729) hat zusammen mit seinem [Casual Coding](http://casualcoding.com/)\-Team eine bisher unverständlicherweise fehlende Webseite gebaut, "auf der man zeigen kann, welche Podcasts man hört".
+- [Podcast Profile](https://podcastprofile.com/) – [Max](http://maxfriedrich.de/post/139416395729) hat zusammen mit seinem [Casual Coding](http://casualcoding.com/)-Team eine bisher unverständlicherweise fehlende Webseite gebaut, "auf der man zeigen kann, welche Podcasts man hört".
 
 ### Digitales & Technologie
 
@@ -64,6 +64,6 @@ Die letzte Ausgabe des neuen Runs meiner unregelmäßig erscheinenden Linkliste 
     ![](https://eay.cc/uploads/2016/nasa-space-tourism.jpg)](http://www.jpl.nasa.gov/visions-of-the-future/)
 - 💸💰💸💰 [Fellow opens a $700 battery pack, finds a large sponge and a little $30 battery inside](http://boingboing.net/2016/02/24/fellow-opens-a-700-battery-pa.html) 💸💰💸💰
 
-\---
+---
 
 Wer diese köstlichen Links in Real-Time erhalten will, folgt am besten [meinem Twitter-Feed](https://twitter.com/eay), [meinen Pocket-Empfehlungen](https://getpocket.com/@eay) und/oder der [eay.cc Facebook-Seite](https://www.facebook.com/eay.cc).

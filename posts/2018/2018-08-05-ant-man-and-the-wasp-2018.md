@@ -20,4 +20,4 @@ meta:
   - yourls_shorturl: "https://eay.li/36b"
 ---
 
-Das zweieinhalbte Abenteuer von Mini-Paul-Rudd, dem zunächst etwas anders wirkenden, dann aber doch der allseits bekannten Marvel-Erfolgsformel folgenden Nachwuchs-Avenger, ist wieder mal ein rundum gelungener Sommer-Blockbuster. That's it. Nicht wichtig für's Franchise, nicht wichtig für den Zuschauer, nur 2 Stunden seichte, aber solide Unterhaltung, der man den fehlenden Spannungsbogen dann auch gerne verzei... Äh, was? \[rating value=6 inline=true\]
+Das zweieinhalbte Abenteuer von Mini-Paul-Rudd, dem zunächst etwas anders wirkenden, dann aber doch der allseits bekannten Marvel-Erfolgsformel folgenden Nachwuchs-Avenger, ist wieder mal ein rundum gelungener Sommer-Blockbuster. That's it. Nicht wichtig für's Franchise, nicht wichtig für den Zuschauer, nur 2 Stunden seichte, aber solide Unterhaltung, der man den fehlenden Spannungsbogen dann auch gerne verzei... Äh, was? [rating value=6 inline=true]

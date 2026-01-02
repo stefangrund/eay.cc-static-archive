@@ -18,4 +18,4 @@ meta:
 
 For future reference:
 
-\[youtube id="hRPjbWqikJo"\]
+[youtube id="hRPjbWqikJo"]

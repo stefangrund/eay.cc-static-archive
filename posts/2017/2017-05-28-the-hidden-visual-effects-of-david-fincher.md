@@ -19,7 +19,7 @@ meta:
   - yourls_shorturl: "https://eay.li/2z3"
 ---
 
-\[youtube id="QChWIFi8fOY"\]
+[youtube id="QChWIFi8fOY"]
 
 Kaptain Kristian [mal wieder](https://eay.cc/tag/kaptain-kristian/). Diesmal mit einem feinen [Video-Essay](https://eay.cc/tag/video-essay/) über den unauffälligen Einsatz von CGI in David-Fincher-Filmen. Er kommt dabei zu einem Fazit, das nicht nur auf das Filmemachen, sondern auf jede Form der Kreation zutrifft:
 

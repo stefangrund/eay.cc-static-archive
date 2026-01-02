@@ -20,7 +20,7 @@ meta:
   - yourls_shorturl: "https://eay.li/2y1"
 ---
 
-\[youtube id="NkEU6fC\_nhY"\]
+[youtube id="NkEU6fC_nhY"]
 
 > This original 5 min proloque to Jurassic World Dominion, directed by Colin Trevorrow, rockets audiences back 65 million years into the past to experience the world before humans existed – and offers a glimpse of a world in which dinosaurs are living among us.
 

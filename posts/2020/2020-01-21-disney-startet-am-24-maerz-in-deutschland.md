@@ -21,7 +21,7 @@ meta:
   - yourls_shorturl: "https://eay.li/3cj"
 ---
 
-\[youtube id="6ZaPv6-7Eto"\]
+[youtube id="6ZaPv6-7Eto"]
 
 Nachdem wir bisher immer das Glück hatten, dass die US-Sender, die in ihrem Heimatland auf eigene Streaming-Services setzen, hier alles zu Netflix oder Prime lizensieren, verschärfen sich die Streaming Wars nun auch hierzulande mit dem Auftreten von Unterhaltungskoloss Disney. Am 24. März wird es soweit sein, Kostenpunkt 6,99 Euro/Monat oder 69,99 Euro/Jahr.
 

@@ -25,7 +25,7 @@ meta:
   - _share_on_mastodon_url: "https://eay.social/@eay/111014429382318810"
 ---
 
-\[youtube id="qpUFQWIfm88"\]
+[youtube id="qpUFQWIfm88"]
 
 > A beautiful artbook that celebrates the art and craft of app icon design on the desktop.
 

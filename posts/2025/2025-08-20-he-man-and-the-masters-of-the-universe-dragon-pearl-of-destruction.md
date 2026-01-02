@@ -24,6 +24,6 @@ meta:
   - content_copy: "https://bsky.app/profile/eay.social/post/3lwsa64qli22u"
 ---
 
-\[youtube id="f\_KaYk3gnmQ"\]
+[youtube id="f_KaYk3gnmQ"]
 
 MotU als Side-Scrolling Beat ‘em up in Pixeloptik? [Von sowas träumen wir seit 2014](https://eay.cc/2014/he-man-beat-em-up/) – count me in!

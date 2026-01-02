@@ -18,6 +18,6 @@ meta:
 
 > Don’t try this at home!
 
-\[youtube id="1KioyaKRawg"\]
+[youtube id="1KioyaKRawg"]
 
 Der norwegische Künstler [Jan Hakon Erichsen](http://www.janhakon.com/), dessen Selbstbeschreibung konsequenterweise "I’m here to destroy everything" lautet, baut gefährliche Gerätschaften um ungefährliche Dinge, wie Luftballons, [Bananen](https://www.youtube.com/watch?v=oYg1NZ8jt4o) und [Uhren](https://www.youtube.com/watch?v=puirNygLQ4k) zu zerstören. All seine gesammelten "Destruction Diaries" finden sich in [seinem YouTube-Channel](https://www.youtube.com/user/janhakon).

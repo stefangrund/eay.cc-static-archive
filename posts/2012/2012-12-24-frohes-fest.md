@@ -18,4 +18,4 @@ meta:
 
 Und damit's heute Abend und die nächsten Tage richtig schön feierlich wird, einfach das folgende, drei Stunden lange Kaminfeuer-Video im Vollbild auf eurem Monitor oder Fernseher abspielen.
 
-\[youtube id="eyU3bRy2x44"\]
+[youtube id="eyU3bRy2x44"]

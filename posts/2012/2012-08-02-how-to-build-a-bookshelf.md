@@ -20,4 +20,4 @@ meta:
 
 Wir sind ja gerade am renovieren und da ist man natürlich über jedes hilfreiche Erklärungsvideo dankbar. Und das hier von Bob hat mir besonders weitergeholfen.
 
-\[youtube id="mCIIZ3hgPVA"\]
+[youtube id="mCIIZ3hgPVA"]

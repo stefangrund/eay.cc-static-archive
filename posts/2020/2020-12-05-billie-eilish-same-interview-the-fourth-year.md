@@ -18,7 +18,7 @@ meta:
   - yourls_shorturl: "https://eay.li/3g9"
 ---
 
-\[youtube id="hS2x1zl4rn0"\]
+[youtube id="hS2x1zl4rn0"]
 
 > Vanity Fair has time capsuled Billie Eilish’s responses to the same questions for the last four years and tracked the now-18-year-old star's swift rise to pop super stardom.
 

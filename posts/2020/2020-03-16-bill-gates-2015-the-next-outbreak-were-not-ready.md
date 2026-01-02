@@ -20,7 +20,7 @@ meta:
   - yourls_shorturl: "https://eay.li/3d3"
 ---
 
-\[youtube id="6Af6b\_wyiwI"\]
+[youtube id="6Af6b_wyiwI"]
 
 > In 2014, the world avoided a horrific global outbreak of Ebola, thanks to thousands of selfless health workers — plus, frankly, thanks to some very good luck. In hindsight, we know what we should have done better. So, now's the time, Bill Gates suggests, to put all our good ideas into practice, from scenario planning to vaccine research to health worker training. As he says, "There's no need to panic ... but we need to get going."
 

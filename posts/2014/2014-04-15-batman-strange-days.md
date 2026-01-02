@@ -19,7 +19,7 @@ meta:
   - yourls_shorturl: "https://eay.li/2eo"
 ---
 
-\[youtube id="IFwOS2R9o\_8"\]
+[youtube id="IFwOS2R9o_8"]
 
 Schönes Kurzfilmchen, in dem ein Retro-Batman auf Dr. Hugo Strange, einen seiner ältesten Widersacher, trifft. Produziert wurde das ganze von [Bruce Timm](https://en.wikipedia.org/wiki/Bruce_Timm), der auch für die geniale »[Batman: The Animated Series](https://en.wikipedia.org/wiki/Batman:_The_Animated_Series)« verantwortlich war, zum 75. Jubiläum von Batman. Davor hat Timm auch die schicke [Animation zu 75 Jahren Superman](//eay.cc/2013/75-jahre-superman-animiert/) verantwortet. (via [Zeitzeugin](http://zeitzeugin.net/2014/04/batman-strange-days/))
 

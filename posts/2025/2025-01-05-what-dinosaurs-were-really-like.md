@@ -21,6 +21,6 @@ meta:
   - _share_on_mastodon_url: "https://eay.social/@eay/113778021764837089"
 ---
 
-\[youtube id="RDoVLHaYfgM"\]
+[youtube id="RDoVLHaYfgM"]
 
 [Cleo Abram](https://youtube.com/@cleoabram) mit einem toll produzierten Roundup über den aktuellen Stand der Dinosaurier­forschung.

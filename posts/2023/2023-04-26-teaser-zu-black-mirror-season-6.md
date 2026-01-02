@@ -21,7 +21,7 @@ meta:
   - yourls_shorturl: "https://eay.li/3m6"
 ---
 
-\[youtube id="k7uFcpF0pXk"\]
+[youtube id="k7uFcpF0pXk"]
 
 Die sechste, vier Jahre auf sich warten lassende Ausgabe von Charlie Brookers Prototyp der Techkritik erscheint im Juni auf Netflix.
 

@@ -17,6 +17,6 @@ meta:
   - yourls_shorturl: "https://eay.li/25n"
 ---
 
-\[youtube id="-\_xUIDRxdmc"\]
+[youtube id="-_xUIDRxdmc"]
 
 **Update, 28.07.:** Das ursprünglich verlinkte Video ist off. [Hier](http://www.youtube.com/watch?v=-_xUIDRxdmc) und oben nun ein neuer Link, der das Video allerdings zweiteilt. [Hier der zweite Teil](http://www.youtube.com/watch?v=1YQAYEmwBvs).

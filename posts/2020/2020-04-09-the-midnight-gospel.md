@@ -21,4 +21,4 @@ meta:
 
 Hier der Trailer zu »The Midnight Gospel«, der neuen Netflix-Serie von [Pendleton Ward](https://en.wikipedia.org/wiki/Pendleton_Ward), dem Creator von »[Adventure Time](https://en.wikipedia.org/wiki/Adventure_Time)«. Kommt am 20. April und sieht ziemlich WTF-ig aus, fast so als würde »Adventure Time« auf »Yellow Submarine« und »Rick and Morty« treffen. Ich bin gespannt.
 
-\[youtube id="0kQWAqjFJS0"\]
+[youtube id="0kQWAqjFJS0"]

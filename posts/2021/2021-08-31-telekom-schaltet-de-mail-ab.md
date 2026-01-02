@@ -21,7 +21,7 @@ meta:
 
 > Mit De-Mail wollte die Regierung eine sichere elektronische Behördenpost etablieren. Nach zehn Jahren und Hunderten Millionen Euro Verlust steigt die Telekom nun aus. Das Ende des Projekts ist das womöglich noch nicht.
 
-Der [De-Mail](https://de.wikipedia.org/wiki/De-Mail)\-Dienst (Link zu einem langen, bis zum Absatz "Kritik" sehr langweiligen Wikipedia-Artikel) wurde vor über zehn Jahren [per Gesetz](https://www.gesetze-im-internet.de/de-mail-g/BJNR066610011.html#BJNR066610011BJNG000100000) eingeführt – und von Privatleuten, Geschäftswelt und selbst Behörden so gut wie gar nicht angenommen oder genutzt. Das Ausscheiden der Telekom ist nur ein weiterer Sargnagel in dieser überfälligen, digitalen Leidensgeschichte.
+Der [De-Mail](https://de.wikipedia.org/wiki/De-Mail)-Dienst (Link zu einem langen, bis zum Absatz "Kritik" sehr langweiligen Wikipedia-Artikel) wurde vor über zehn Jahren [per Gesetz](https://www.gesetze-im-internet.de/de-mail-g/BJNR066610011.html#BJNR066610011BJNG000100000) eingeführt – und von Privatleuten, Geschäftswelt und selbst Behörden so gut wie gar nicht angenommen oder genutzt. Das Ausscheiden der Telekom ist nur ein weiterer Sargnagel in dieser überfälligen, digitalen Leidensgeschichte.
 
 > Zur Sicherheit verschickt das Bonner Unternehmen die Kündigungsschreiben nicht nur über die Mail selbst, sondern auch per Briefpost.
 

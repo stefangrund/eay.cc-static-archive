@@ -19,4 +19,4 @@ meta:
 
 > The only secret of magic is that I'm willing to work harder on it than you think it's worth.
 
-– **Penn Jillette**, [Zauberer](https://en.wikipedia.org/wiki/Penn_Jillette) und Autor der Kurzgeschichte "Pain Addict", die Vorlage für die großartige [Black Mirror](https://eay.cc/tag/black-mirror/)\-Episode "[Black Museum](https://en.wikipedia.org/wiki/Black_Museum_(Black_Mirror))" war.
+– **Penn Jillette**, [Zauberer](https://en.wikipedia.org/wiki/Penn_Jillette) und Autor der Kurzgeschichte "Pain Addict", die Vorlage für die großartige [Black Mirror](https://eay.cc/tag/black-mirror/)-Episode "[Black Museum](https://en.wikipedia.org/wiki/Black_Museum_(Black_Mirror))" war.

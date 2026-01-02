@@ -26,8 +26,8 @@ Kleine Froschzellen-Pacmans, die später etwa im Menschen dafür eingesetzt werd
 
 Cool, klingt aber auch wie der Anfang eines Timetravel-SciFis, in dem die Xenobots der Zukunft die Menschheit unterjocht haben und die letzten und besten Kämpfer der menschlichen Rebellion in die Vergangenheit reisen, um die (Weiter-)Entwicklung der Xenobots in 2020/21 zu verhindern.
 
-Sorgen, die laut Forschungsteam unbegründet sind, da “die kleinen Roboter biologisch abbaubar \[seien\] und sicher im Labor verwahrt” werden.
+Sorgen, die laut Forschungsteam unbegründet sind, da “die kleinen Roboter biologisch abbaubar [seien] und sicher im Labor verwahrt” werden.
 
 Hier noch ein Video unserer neuen Overlords:
 
-\[youtube id="aBYtBXaxsOw"\]
+[youtube id="aBYtBXaxsOw"]

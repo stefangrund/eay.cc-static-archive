@@ -18,7 +18,7 @@ meta:
   - yourls_shorturl: "https://eay.li/2i1"
 ---
 
-\[youtube id="1Ckv\_Dz-Sio"\]
+[youtube id="1Ckv_Dz-Sio"]
 
 Dass der großartige, vorgestern verstorbene Robin Williams auch creepy konnte, hat er etwa in »[One Hour Photo](http://www.imdb.com/title/tt0265459/)« bewiesen. Das aber selbst seine lustigen Parts auf diese Weise interpretiert werden können, zeigt dieser Recut-Trailer, in dem das nette Kindermädchen ziemlich unheimlich wird. (via [@Pokernatic](https://twitter.com/Pokernatic/status/499497037097082880))
 

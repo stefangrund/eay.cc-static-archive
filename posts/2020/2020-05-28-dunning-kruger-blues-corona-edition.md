@@ -20,6 +20,6 @@ meta:
   - geo_public: "1"
 ---
 
-\[youtube id="41TGc6ta1zw"\]
+[youtube id="41TGc6ta1zw"]
 
 Großartig. Und hier [Tommy Krappweis](https://de.wikipedia.org/wiki/Tommy_Krappweis)’ erste [Version von 2016](https://youtu.be/DrG2c0_EyDE). (via [LNP347](https://logbuch-netzpolitik.de/lnp347-pralinen-zum-geburtstag))

@@ -32,6 +32,6 @@ Was kommt als Nächstes? [FaceTime als offener Standard](https://en.wikipedia.or
 
 > An even bigger difference from the native App Stores is that you can’t buy anything on the web. That’s right: there’s no way to log into your Apple account to download or buy anything. It’s a browse-only experience.
 
-> \[…\] I’ve literally checked the site multiple times because I can’t believe Apple built a storefront but left out the commerce part.
+> […] I’ve literally checked the site multiple times because I can’t believe Apple built a storefront but left out the commerce part.
 
 Kommt dann 2042. Solange [spricht Alex daher von einem Katalog](https://www.iphoneblog.de/2025/11/04/eine-app-store-katalogansicht-furs-web/) und keinem Store.

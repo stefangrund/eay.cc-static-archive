@@ -20,7 +20,7 @@ El Jefe hat mal wieder ein Stöckchen bekommen (und eins steckt noch in der Pipe
 
 **Deine erste Anwendung welche Du benutzt hast?** Öhm, Windows 3.1 auf der Arbeit von der Mutter ... und dann hauptsächlich [Minesweeper](http://de.wikipedia.org/wiki/Minesweeper) und MS Paint. Ja, ich war so leicht zufrieden zu stellen.
 
-**Dein estes Spiel?** Wenn wir jetzt mal von Minesweeper absehen, dann muss es auf meinem besagten 486er [Rebel Assault](http://en.wikipedia.org/wiki/Star_Wars:_Rebel_Assault) gewesen sein, ungefähr vor über einem Jahrzehnt: 1995. Außerdem zahlreiche Adventures wie's sie heute leider nicht mehr gibt. \*schluchz\* Konsolero war ich übrigens schon viel früher.
+**Dein estes Spiel?** Wenn wir jetzt mal von Minesweeper absehen, dann muss es auf meinem besagten 486er [Rebel Assault](http://en.wikipedia.org/wiki/Star_Wars:_Rebel_Assault) gewesen sein, ungefähr vor über einem Jahrzehnt: 1995. Außerdem zahlreiche Adventures wie's sie heute leider nicht mehr gibt. *schluchz* Konsolero war ich übrigens schon viel früher.
 
 **Hattest Du von Anfang an Spass an der Materie?** Seltsamerweise hat es mir sogar Spaß gemacht Windows neuzuinstallieren, ja.
 

@@ -19,6 +19,6 @@ meta:
   - content_copy: "https://eay.social/@eay/109958187126224008"
 ---
 
-\[youtube id="w2kIQYAaHzo"\]
+[youtube id="w2kIQYAaHzo"]
 
 Ich verfolge die Entwicklung von [Johan Vinet](https://twitter.com/johanvinet)s von »Flashback« und »Another World« inspiriertem SciFi-2D-Pixel-Plattformer »LUNARK«, seitdem ich es [2019 via Kickstarter mitfinanziert habe](https://eay.cc/2019/lunark/). Am 30.03. ist es endlich soweit und das Indie-Spiel erscheint für Switch, PlayStation, Xbox, sowie auf Steam.

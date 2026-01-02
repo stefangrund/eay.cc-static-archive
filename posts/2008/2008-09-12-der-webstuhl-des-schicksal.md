@@ -25,4 +25,4 @@ Zum Beispiel ein paar Actionszenen. Ich bin halt einfach anfällig dafür, wenn 
 
  **[![EMDb](/uploads/pages/emdb/emdb_mini.gif)](http://eay.cc/emdb/) - Rating:** ![2/5](/uploads/pages/emdb/s_2.gif)
 
-Fassen wir also nochmal zusammen: Wer dieser Tage einen guten Endzeitfilm sehen will, guckt statt [Babylon A.D](//eay.cc/2008/endzeit-diesel/). lieber [Children of Men](http://www.amazon.de/exec/obidos/ASIN/B000NIMZZM/eayznet-21) und wer Actionkost vom feinsten möchte, nimmt Shoot 'em up statt Wanted. It's obviously the [Clive Owen](http://www.imdb.com/name/nm0654110/)\-time of the year!
+Fassen wir also nochmal zusammen: Wer dieser Tage einen guten Endzeitfilm sehen will, guckt statt [Babylon A.D](//eay.cc/2008/endzeit-diesel/). lieber [Children of Men](http://www.amazon.de/exec/obidos/ASIN/B000NIMZZM/eayznet-21) und wer Actionkost vom feinsten möchte, nimmt Shoot 'em up statt Wanted. It's obviously the [Clive Owen](http://www.imdb.com/name/nm0654110/)-time of the year!

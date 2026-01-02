@@ -27,6 +27,6 @@ Heute ist die erste Kurzgeschichte „A Theory of Flight“ von [Justina Ireland
 
 Begleitet wird die Kurzgeschichte von einem kleinen, schicken, stimmungs­vollen Pixel-Animationsfilm von [All in Pixel](http://www.allinpixel.com/).
 
-\[youtube id="nWqiNgL4\_rk"\]
+[youtube id="nWqiNgL4_rk"]
 
 Guter Auftakt, ich freue mich bereits auf die nächsten Geschichten.

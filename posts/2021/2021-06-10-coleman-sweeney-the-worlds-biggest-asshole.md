@@ -16,6 +16,6 @@ meta:
   - yourls_shorturl: "https://eay.li/2ol"
 ---
 
-\[youtube id="FutGhjdrxT0"\]
+[youtube id="FutGhjdrxT0"]
 
 Großartiger Werbespot aus den USofA von 2016, produziert von [The Martin Agency](https://martinagency.com/). Mehr Infos würden spoilern. (via [Daring Fireball](https://daringfireball.net/linked/2021/06/04/coleman-sweeney))

@@ -20,6 +20,6 @@ meta:
 
 Doch springen wir wieder auf die Hype-Train auf: Disney's Lucasfilm hat einen zweiten »Rogue One«-Trailer veröffentlicht. Sieht weiterhin großartig aus. 😍
 
-\[youtube id="sC9abcLLQpI"\]
+[youtube id="sC9abcLLQpI"]
 
 (Allerdings missfällt mir etwas, dass es wieder Flashbacks und Familien­verstrickungen gibt. Das haben wir doch schon bei Rey und den Skywalkers...)

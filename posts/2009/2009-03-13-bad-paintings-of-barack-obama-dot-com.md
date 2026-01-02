@@ -20,4 +20,4 @@ meta:
   - yourls_shorturl: "https://eay.li/my"
 ---
 
-![](/uploads/2009/badobamapaintings.jpg) [\-------------------------------------------------------------------------------------------->](http://badpaintingsofbarackobama.com/)
+![](/uploads/2009/badobamapaintings.jpg) [-------------------------------------------------------------------------------------------->](http://badpaintingsofbarackobama.com/)

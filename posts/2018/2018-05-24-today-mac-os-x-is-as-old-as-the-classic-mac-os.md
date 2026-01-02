@@ -18,4 +18,4 @@ meta:
   - yourls_shorturl: "https://eay.li/35d"
 ---
 
-> Today the Mac’s second operating system era, powered by Mac OS X (now macOS) has been in existence as long as the first era \[with Classic Mac OS\] was.
+> Today the Mac’s second operating system era, powered by Mac OS X (now macOS) has been in existence as long as the first era [with Classic Mac OS] was.

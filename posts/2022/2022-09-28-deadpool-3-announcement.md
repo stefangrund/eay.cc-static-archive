@@ -22,4 +22,4 @@ meta:
 
 Großartige Ankündigung für den dritten Deadpool-Film, der Ryan Reynolds dann endlich ins MCU holt und am 06.09.2024 in die Kinos (oder Disney+, falls es noch immer oder mal wieder eine weltweite Pandemie gibt) kommen soll. _Go Wrexham!_
 
-\[youtube id="Yd47Z8HYf0Y"\]
+[youtube id="Yd47Z8HYf0Y"]

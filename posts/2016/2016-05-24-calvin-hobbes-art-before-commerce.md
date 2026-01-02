@@ -18,6 +18,6 @@ meta:
   - yourls_shorturl: "https://eay.li/2tm"
 ---
 
-\[youtube id="-xzzQVk5IfE"\]
+[youtube id="-xzzQVk5IfE"]
 
 Nach [Kristian Williams](https://twitter.com/kaptainkristian) Rückblick auf [die Geschichte von Adult Swim](https://eay.cc/2016/die-geschichte-von-adult-swim/), hier nun sein Video-Essay über die Großartigkeit von »Calvin & Hobbes«.

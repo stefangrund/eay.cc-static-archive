@@ -23,7 +23,7 @@ meta:
   - linked_list_og-image: "https://eay.cc/wordpress/uploads/og-cache/f56cfdbce07501cc443431e76e136322.webp"
 ---
 
-> It’s so pow­er­fully obvi­ous to me, it might as well be writ­ten in ten-foot let­ters of flame: the plat­forms of the last decade are done. \[…\] Their only con­clu­sion can be abandonment; an over­due MySpace-ification.
+> It’s so pow­er­fully obvi­ous to me, it might as well be writ­ten in ten-foot let­ters of flame: the plat­forms of the last decade are done. […] Their only con­clu­sion can be abandonment; an over­due MySpace-ification.
 
 [Robin Sloan](https://www.robinsloan.com/) sieht das Ende der großen Social-Media-Plattformen kommen und beschreibt dies als Chance, wieder selbst das Web zu gestalten.
 

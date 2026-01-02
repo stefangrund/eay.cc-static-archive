@@ -18,6 +18,6 @@ meta:
   - yourls_shorturl: "https://eay.li/2y8"
 ---
 
-\[youtube id="gCcx85zbxz4"\]
+[youtube id="gCcx85zbxz4"]
 
 Sieht gut aus, allerdings erinnert mich das ganze, [genauso wie Sascha](http://www.pewpewpew.de/2017/05/08/der-blade-runner-2049-trailer-verspricht-mehr-2017-als-2049/), eher an »[Ghost in the Shell](https://eay.cc/2017/ghost-in-the-shell/)« als den 1982er Klassiker. Mal sehen, aber das »Arrival«-Namedropping stimmt ja eigentlich zuversichtlich.

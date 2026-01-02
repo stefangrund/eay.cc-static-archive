@@ -17,6 +17,6 @@ meta:
   - yourls_shorturl: "https://eay.li/12n"
 ---
 
-> Laut einer Studie der Universität Leicester und der britischen Statistik­behörde ONS wurde fast jeder Dritte als geheilt entlassene Covid-19-Patient innerhalb von fünf Monaten wieder eingeliefert, oft mit Problemen an mehreren Organen. Fast jeder achte von ihnen starb - und wurde trotzdem statistisch nicht als Opfer der Viruserkrankung gezählt \[...\].
+> Laut einer Studie der Universität Leicester und der britischen Statistik­behörde ONS wurde fast jeder Dritte als geheilt entlassene Covid-19-Patient innerhalb von fünf Monaten wieder eingeliefert, oft mit Problemen an mehreren Organen. Fast jeder achte von ihnen starb - und wurde trotzdem statistisch nicht als Opfer der Viruserkrankung gezählt [...].
 
 "Das ist nur ne Grippe!"

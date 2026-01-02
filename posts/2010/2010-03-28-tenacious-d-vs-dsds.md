@@ -19,7 +19,7 @@ meta:
   - yourls_shorturl: "https://eay.li/47"
 ---
 
-Leser Dominik hat mich dankenswerterweise darauf aufmerksam gemacht, dass man hierzulande zur Zeit versucht dem Vorbild der Briten, die im Dezember den [RATM](http://de.wikipedia.org/wiki/Rage_Against_the_Machine)\-Oldie "[Killing in the name](http://www.youtube.com/watch?v=fkuOAY-S6OY)" anstelle des Weihnachtssongs einer schnöden TV-Casting-Combo auf Platz 1 der Single-Charts brachten, nachzueifern.
+Leser Dominik hat mich dankenswerterweise darauf aufmerksam gemacht, dass man hierzulande zur Zeit versucht dem Vorbild der Briten, die im Dezember den [RATM](http://de.wikipedia.org/wiki/Rage_Against_the_Machine)-Oldie "[Killing in the name](http://www.youtube.com/watch?v=fkuOAY-S6OY)" anstelle des Weihnachtssongs einer schnöden TV-Casting-Combo auf Platz 1 der Single-Charts brachten, nachzueifern.
 
 Und zwar soll hier dem Bohlen-Bullshit von "Deutschland sucht den Superstar" der Kampf angesagt werden, indem man den großartigen Song "[Tribute](http://www.dailymotion.com/video/x1uuvj_tenacious-d-tribute_music)" von den Rockgöttern von Tenacious D an die Spitze der Charts katapultiert. Was von mir als altem Revoluzzer, Freund des kleinen Medienkonsumenten und langjährigem Fan von [Tenacious D](http://www.tenaciousd.com/) natürlich überaus sehr begrüßt wird!
 

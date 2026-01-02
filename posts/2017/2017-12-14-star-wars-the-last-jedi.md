@@ -23,4 +23,4 @@ meta:
   - content_copy: "https://twitter.com/eay/status/941429923096514560"
 ---
 
-Bad news: I am underwhelmed. »The Last Jedi« was okay’ish, but I didn’t like it very much. Just more of the same and a lot of wasted potential, instead of trying something truly new. Bonus points for being Star Wars. \[rating value=5 inline=true\]
+Bad news: I am underwhelmed. »The Last Jedi« was okay’ish, but I didn’t like it very much. Just more of the same and a lot of wasted potential, instead of trying something truly new. Bonus points for being Star Wars. [rating value=5 inline=true]

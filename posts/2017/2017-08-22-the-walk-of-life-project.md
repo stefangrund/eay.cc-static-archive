@@ -25,4 +25,4 @@ meta:
 
 > Hypothesis: "Walk of Life" by Dire Straits is the perfect song to end any movie.
 
-Großartige und stimmige These, die [Peter Salomone](https://twitter.com/pscottsalo) hier gekonnt mit Bewegtbild belegt. (via [@The\_McLee](https://twitter.com/The_McLee), der sich dem ganzen gerne in seiner Bachelorarbeit angenommen hätte)
+Großartige und stimmige These, die [Peter Salomone](https://twitter.com/pscottsalo) hier gekonnt mit Bewegtbild belegt. (via [@The_McLee](https://twitter.com/The_McLee), der sich dem ganzen gerne in seiner Bachelorarbeit angenommen hätte)

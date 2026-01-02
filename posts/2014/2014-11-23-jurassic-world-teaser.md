@@ -17,7 +17,7 @@ meta:
   - yourls_shorturl: "https://eay.li/2ks"
 ---
 
-\[youtube id="bvu-zlR5A8Q"\]
+[youtube id="bvu-zlR5A8Q"]
 
 > "Normalerweise mag ich diese Trailer-für-Trailer-Clips ja gar nicht, aber IT´S FUCKING JURASSIC WORLD!!!"
 

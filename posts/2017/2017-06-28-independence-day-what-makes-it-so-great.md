@@ -18,6 +18,6 @@ meta:
   - yourls_shorturl: "https://eay.li/2zw"
 ---
 
-\[youtube id="-gu8GQOJhdA"\]
+[youtube id="-gu8GQOJhdA"]
 
 Ich habe »Independence Day« zuletzt auch nochmal gesehen und war wie der Autor dieses Video-Essays überrascht, dass Roland Emmerichs Alien-Epos nicht nur für elfjährigen Stefan funktionierte, sondern auch noch für den zweiunddreißigjährigen. Umso erschreckender, dass ein mittlerweile 21 Jahre alter _Klassiker_ dann im letzten Jahr mit so einem unsäglichen Stück 💩 eines Sequels beerbt wurde... (via [Andi](http://www.andisblog.de/2017/06/28/gelesen-im-internet-kw-25/))

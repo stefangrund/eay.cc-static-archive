@@ -20,7 +20,7 @@ meta:
 
 > A modern adventure game about the daily routine on a spaceship stuck undersea. Stop-motion look, exploration, story and humor!
 
-\[youtube id="7bkaEAt2afs"\]
+[youtube id="7bkaEAt2afs"]
 
 Sehr schöne Idee: ein Retro-SciFi-Adventure in Stop-Motion-Optik. Und als wäre das nicht schon genug, kommen die dahinter stehenden [Slow Bros.](http://www.slow-bros.com/) auch noch aus Köln. Team, Konzept und vor allem die eigentliche Arbeitsweise machen einen echt netten, guten und innovativen Eindruck, so dass ich eben die noch neun Tage laufende und bisher erst zu einem Drittel finanzierte [Kickstarter-Kampagne](https://www.kickstarter.com/projects/slowbros/harold-halibut-a-handmade-adventure-game/) unterstützt habe. Wenn ihr Adventures und/oder Stop-Motion mögt, solltet ihr es mir unbedingt gleich tun!
 

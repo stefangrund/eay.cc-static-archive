@@ -2,6 +2,7 @@
   "name": "eay.cc-static-archive",
   "version": "1.1.0",
   "description": "A static archive of eay.cc with all posts as static site generator compatible markdown files.",
+  "type": "module",
   "repository": "https://github.com/stefangrund/eay.cc-static-archive.git",
   "scripts": {
     "build": "node ./scripts/wordpress-export-to-markdown/index.js --wizard=false",
@@ -10,17 +11,15 @@
   "author": "Stefan Grund (https://stefangrund.eu/)",
   "license": "CC BY-NC-ND 4.0",
   "engines": {
-    "node": ">= 18.17.0"
+    "node": ">= 24.12.0"
   },
   "devDependencies": {
-    "camelcase": "^6.0.0",
-    "chalk": "^4.1.0",
-    "commander": "^5.1.0",
-    "inquirer": "^7.2.0",
-    "luxon": "^1.28.1",
-    "request": "^2.88.2",
-    "request-promise-native": "^1.0.9",
-    "turndown": "^6.0.0",
+    "camelcase": "^8.0.0",
+    "chalk": "^5.3.0",
+    "commander": "^12.1.0",
+    "inquirer": "^11.0.2",
+    "luxon": "^3.5.0",
+    "turndown": "^7.2.0",
     "xml2js": "^0.6.2"
   }
 }

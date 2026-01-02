@@ -20,6 +20,6 @@ meta:
   - content_copy: "https://twitter.com/eay/status/1305992444664840194"
 ---
 
-\[youtube id="eW7Twd85m2g"\]
+[youtube id="eW7Twd85m2g"]
 
 Ab dem 30. Oktober lohnen sich unsere Disney+-Abos wieder.

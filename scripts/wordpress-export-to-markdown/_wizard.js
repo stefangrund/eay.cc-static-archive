@@ -1,9 +1,9 @@
-const camelcase = require('camelcase')
-const commander = require('commander')
-const fs = require('fs')
-const inquirer = require('inquirer')
-const path = require('path')
-const process = require('process')
+import camelcase from 'camelcase';
+import { Command } from 'commander';
+import fs from 'fs';
+import inquirer from 'inquirer';
+import path from 'path';
+import process from 'process';
 
 // all user options for command line and wizard are declard here
 const options = [
@@ -77,10 +77,10 @@ const options = [
   }
 ]
 
-async function getConfig (argv) {
-  extendOptionsData()
-  const unaliasedArgv = replaceAliases(argv)
-  const program = parseCommandLine(unaliasedArgv)
+export async function getConfig (argv) {
+  extendOptionsData();
+  const unaliasedArgv = replaceAliases(argv);
+  const program = parseCommandLine(unaliasedArgv);
 
   // Load config file if it exists
   const fileConfig = loadConfigFile()
@@ -198,25 +198,26 @@ function replaceAliases (argv) {
 
 function parseCommandLine (argv) {
   // setup for help output
-  commander
+  const program = new Command();
+  program
     .name('node index.js')
     .helpOption('-h, --help', 'See the thing you\'re looking at right now')
     .on('--help', () => {
-      console.log('\nMore documentation is at https://github.com/lonekorean/wordpress-export-to-markdown')
-    })
+      console.log('\nMore documentation is at https://github.com/lonekorean/wordpress-export-to-markdown');
+    });
 
   options.forEach(input => {
-    const flag = '--' + input.name + ' <' + input.type + '>'
+    const flag = '--' + input.name + ' <' + input.type + '>';
     const coerce = (value) => {
       // commander only calls coerce when an input is provided on the command line, which
       // makes for an easy way to flag (for later) if it should be excluded from the wizard
-      input.isProvided = true
-      return input.coerce(value)
-    }
-    commander.option(flag, input.description, coerce, input.default)
-  })
+      input.isProvided = true;
+      return input.coerce(value);
+    };
+    program.option(flag, input.description, coerce, input.default);
+  });
 
-  return commander.parse(argv)
+  return program.parse(argv);
 }
 
 function coerceBoolean (value) {
@@ -235,7 +236,5 @@ function validateFile (value) {
     isValid = false
   }
 
-  return isValid ? true : 'Unable to find file: ' + path.resolve(value)
+  return isValid ? true : 'Unable to find file: ' + path.resolve(value);
 }
-
-exports.getConfig = getConfig

@@ -21,6 +21,6 @@ meta:
 
 ![](https://eay.cc/uploads/2018/movie-typeface.png)
 
-\[youtube id="yI4shGV1EsM"\]
+[youtube id="yI4shGV1EsM"]
 
 (via [Nils Snake](https://www.nils-snake.de/archives/trajan-font-10-000-filmposter-nutzen-eine-schriftart))

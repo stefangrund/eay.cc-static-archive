@@ -24,6 +24,6 @@ meta:
   - _share_on_mastodon_url: "https://eay.social/@eay/111917220415590947"
 ---
 
-\[youtube id="JM7viKTmBOQ"\]
+[youtube id="JM7viKTmBOQ"]
 
 »[Sonic The Hedgehog 2](https://en.wikipedia.org/wiki/Sonic_the_Hedgehog_2)« ist mein all-time favorite Jump'n'Run und hatte – wie ich jetzt 32 Jahre später erfahre – offensichtlich auch die beste Werbung, die sich je für ein Videospiel ausgedacht wurde. Oder zumindest die bizarrste.

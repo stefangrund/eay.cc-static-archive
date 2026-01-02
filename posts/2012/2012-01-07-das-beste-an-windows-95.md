@@ -20,4 +20,4 @@ meta:
 
 war, dass auf der Installations-CD das Video von Weezers "Buddy Holly" drauf war.
 
-\[youtube id="kemivUKb4f4"\]
+[youtube id="kemivUKb4f4"]

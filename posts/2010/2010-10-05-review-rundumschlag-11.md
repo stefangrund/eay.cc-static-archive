@@ -24,7 +24,7 @@ meta:
 
 ![](https://eay.cc/uploads/2010/reviewrundumschlag11.jpg)
 
-[**Inception**](http://www.imdb.com/title/tt1375666/): Ein Heist-Movie im Traumland und ein weiterer \_kleiner\_ Geniestreich aus dem Hause Nolan. Wie gewohnt perfekt inszeniert und toll besetzt (auch wenn DiCaprio die exakt gleiche Figur bereits in [Shutter Island](//eay.cc/2010/review-rundumschlag-9-teil-1/) gemimt hat). ![4/5](/uploads/pages/emdb/s_4.gif)
+[**Inception**](http://www.imdb.com/title/tt1375666/): Ein Heist-Movie im Traumland und ein weiterer _kleiner_ Geniestreich aus dem Hause Nolan. Wie gewohnt perfekt inszeniert und toll besetzt (auch wenn DiCaprio die exakt gleiche Figur bereits in [Shutter Island](//eay.cc/2010/review-rundumschlag-9-teil-1/) gemimt hat). ![4/5](/uploads/pages/emdb/s_4.gif)
 
 [**Toy Story 3**](http://www.imdb.com/title/tt0435761/): Buzz und Woody landen in einem Kindergarten, der mit eiserner Faust von einem bösartigen Teddybär regiert wird. Grandiose Fortsetzung der Serie, vielleicht sogar deren bester Teil, aber dennoch kein Vergleich zu [Up](//eay.cc/2009/review-rundumschlag-4/). ![4,5/5](/uploads/pages/emdb/s_4-5.gif)
 
@@ -40,4 +40,4 @@ meta:
 
 [**Duell der Magier**](http://www.imdb.com/title/tt0963966/): Jerry Bruckheimer ist auch nicht mehr das, was er mal war und liefert mit seine erste [Box Office Bomb](http://en.wikipedia.org/wiki/Box_office_bomb) an den Kinokassen ab. Dabei ist der Film recht unterhaltsam, glänzt vor allem mit einer großen Portion Selbstironie, was für den ein oder anderen (bspw. für mich) aber jegliche Glaubwürdigket und Fantasy-Epicness zerstört. Aber als Entschädigung dafür, gibt's einen tollen Nicolas Cage. ![2/5](/uploads/pages/emdb/s_2.gif)
 
-[**Männertrip**](http://www.imdb.com/title/tt1226229/): Last but not least eine Rock-/Musikbusiness-Komödie, mit einem abschreckenden deutschen Titel (im Original viel sinniger: "Get him to [the Greek](http://www.greektheatrela.com/)"), deren bloße Existenz mich als alten [Forgetting Sarah Marshall](//eay.cc/2008/forgetting-kristen-bell/)\-Fan natürlich überaus erfreute. Und ja, es ist ein gelungenes, aber auch eigenständiges Spin-Off, an dessen Ende nur eins steht: ich will mehr [Aldous Snow](http://www.infantsorrowband.com/). ![3,5/5](/uploads/pages/emdb/s_3-5.gif)
+[**Männertrip**](http://www.imdb.com/title/tt1226229/): Last but not least eine Rock-/Musikbusiness-Komödie, mit einem abschreckenden deutschen Titel (im Original viel sinniger: "Get him to [the Greek](http://www.greektheatrela.com/)"), deren bloße Existenz mich als alten [Forgetting Sarah Marshall](//eay.cc/2008/forgetting-kristen-bell/)-Fan natürlich überaus erfreute. Und ja, es ist ein gelungenes, aber auch eigenständiges Spin-Off, an dessen Ende nur eins steht: ich will mehr [Aldous Snow](http://www.infantsorrowband.com/). ![3,5/5](/uploads/pages/emdb/s_3-5.gif)

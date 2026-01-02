@@ -23,7 +23,7 @@ meta:
   - yourls_shorturl: "https://eay.li/3ma"
 ---
 
-\[youtube id="d-8DT5Q8kzI"\]
+[youtube id="d-8DT5Q8kzI"]
 
 > Welcome to the "Galactic Menagerie," a whimsical and visually stunning fan-made fake trailer that reimagines the classic Star Wars universe through the eccentric lens of Wes Anderson.
 

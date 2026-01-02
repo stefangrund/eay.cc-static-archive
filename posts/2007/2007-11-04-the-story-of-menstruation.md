@@ -28,4 +28,4 @@ meta:
 
 In Anbetracht dessen ist es nicht besonders verwunderlich, dass Disney die Existenz der [Story of Menstruation](http://imdb.com/title/tt0190806/) bis heute gerne verschweigt und den Film gerne unzugänglich machen würde. Doch irgendjemand erinnert sich immer zurück - schließlich haben laut [Schätzungen](http://www.boingboing.net/2006/01/16/disneys-1946-story-o.html) 93 Millionen amerikanische Mädchen den Lehrfilm gesehen - und daher können wir euch auch heute noch dieses äußerst befremdende Disney-Werk vorführen:
 
-\[youtube id="4kWR-rIKRe4"\]
+[youtube id="4kWR-rIKRe4"]

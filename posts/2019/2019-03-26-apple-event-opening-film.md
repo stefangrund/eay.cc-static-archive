@@ -20,4 +20,4 @@ Apple hat gestern neben einem später im Jahr erscheinenden Games-Abomodell (
 
 Was ich aber richtig gut fand, war der Eröffnungsfilm: eine Hommage an die "Think Different"–Kampagne und die ikonischen iPod-Werbespots, garniert mit ganz viel Retrocharme. Sehr schick!
 
-\[youtube id="b6d6iScjHpA"\]
+[youtube id="b6d6iScjHpA"]

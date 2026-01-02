@@ -22,7 +22,7 @@ meta:
   - _share_on_mastodon_url: "https://eay.social/@eay/113450053921010449"
 ---
 
-\[youtube id="5JxELubSgJg"\]
+[youtube id="5JxELubSgJg"]
 
 Jimmy Kimmel ab Minute 7:43 im obigem Video:
 

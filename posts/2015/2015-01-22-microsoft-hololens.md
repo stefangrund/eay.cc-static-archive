@@ -21,7 +21,7 @@ meta:
   - yourls_shorturl: "https://eay.li/2mp"
 ---
 
-\[youtube id="aThCr0PsyuA"\]
+[youtube id="aThCr0PsyuA"]
 
 Microsoft hat mit HoloLens eine Brille vorgestellt, die das Sichtfeld des Trägers um virtuelle Objekte, Bildschirme zum Fernsehen und für Skype-Konferenzen, Spiele ("Minecraft") oder gleich ganze Marslandschaften _erweitert_. Das Ganze soll so gut funktionieren, dass es Google Glass und Oculus Rift alt aussehen lässt. [Bei The Verge](http://www.theverge.com/2015/1/21/7868251/microsoft-hololens-hologram-hands-on-experience) ist man begeistert:
 

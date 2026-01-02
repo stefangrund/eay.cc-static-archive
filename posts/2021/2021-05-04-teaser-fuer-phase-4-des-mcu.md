@@ -18,7 +18,7 @@ meta:
   - yourls_shorturl: "https://eay.li/2n3"
 ---
 
-\[youtube id="QdpxoFcdORI"\]
+[youtube id="QdpxoFcdORI"]
 
 Marvel hat gestern dieses "Marvel Studios celebrates the Movies"-Video veröffentlicht, dass neben ersten Bewegtbildern zu [Eternals](https://en.wikipedia.org/wiki/Eternals_(comics)) insbesondere all die Filmtitel featured, die uns in den kommenden Jahren in der [Phase 4 des Marvel Cinematic Universe](https://en.wikipedia.org/wiki/Marvel_Cinematic_Universe:_Phase_Four) erwarten – um dann endlichst in einer guten Fantastic Four-Verfilmung zu gipfeln!
 

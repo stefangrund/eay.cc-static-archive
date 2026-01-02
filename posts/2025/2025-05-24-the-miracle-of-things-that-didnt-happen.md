@@ -25,6 +25,6 @@ meta:
 
 Hank Green im Video »[No One knows when they don't die](https://youtube.com/watch?v=ndeB_BpsRGk)« über das Paradoxon und die Tragödie der Prävention:
 
-\[youtube id="ndeB\_BpsRGk"\]
+[youtube id="ndeB_BpsRGk"]
 
 > The tragedy of prevention goes like this: The most effective way to save lives (prevention) is the least noticeable, which leads us to undervaluing it in our individual choices, in what we celebrate, and in public policy, and that undervaluing of prevention leads to a great deal of needless death and suffering.

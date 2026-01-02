@@ -17,6 +17,6 @@ meta:
   - yourls_shorturl: "https://eay.li/2nd"
 ---
 
-\[vimeo id="545488722"\]
+[vimeo id="545488722"]
 
 Schöner Werbespot voller Glitches im echten Leben, [den MPC für den US-Mobilfunkanbieter Verizon gemacht hat](https://www.moving-picture.com/news/mpc-brings-gaming-glitches-to-life-in-doug-limans-new-ad-for-verizon). Damit man als Gamer mit deren 5G-Netz keine Glitches erlebt. Was natürlich Blödsinn ist, weil sich die (Pro-)Gamer, die sich dafür interessieren, natürlich per Kabel verbinden. Nun gut. Aber der Spot ist gut.

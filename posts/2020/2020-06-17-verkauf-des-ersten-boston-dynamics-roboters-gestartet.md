@@ -18,6 +18,6 @@ meta:
   - yourls_shorturl: "https://eay.li/3ek"
 ---
 
-\[youtube id="VRm7oRCTkjE"\]
+[youtube id="VRm7oRCTkjE"]
 
 Kostenpunkt: 74.500 Dollar.

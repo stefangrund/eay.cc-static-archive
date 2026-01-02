@@ -22,4 +22,4 @@ Beim Podcast [Radio-G](http://www.radio-g.net/) gab es neulich eine [durchaus in
 
 Wenn auch nur ein Bruchteil davon wahr ist, dann ist das sehr erschreckend. Und falls ihr eure [tägliche Portion Verschwörung](http://blog.fefe.de/) braucht: Unterhaltsamer als der Vatikan-Mist von diesem Dan-Brown-Menschen ist's allemal. Doch sollte man das ganze auch mit Vorsicht genießen, denn Laibow kommt nicht drumherum, vielfach die [URL ihrer Organisation](http://www.healthfreedomusa.org/) runterzubeten - und dort befindet sich _natürlich_ prominent platziert ein Onlineshop, den man bestimmt nicht nur aus reiner Nächstenliebe online gestellt hat. Wie immer, fällt euer Urteil selbst:
 
-\[mp3 url="http://radio-g.podspot.de/files/rgpodcast179.mp3"\]Radio-G 179 - Codex Alimentarius and Swine Flu\[/mp3\] ([Radio-G Direktverschwörung](http://www.radio-g.net/radio-g-179-codex-alimentarius-swine-flu.html))
+[mp3 url="http://radio-g.podspot.de/files/rgpodcast179.mp3"]Radio-G 179 - Codex Alimentarius and Swine Flu[/mp3] ([Radio-G Direktverschwörung](http://www.radio-g.net/radio-g-179-codex-alimentarius-swine-flu.html))

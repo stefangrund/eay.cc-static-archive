@@ -19,4 +19,4 @@ meta:
 
 > Wir sitzen zuhause und langweilen uns Drum haben wir dieses Lied hier hingehunzt
 
-\[youtube id="t\_s6waEUTbI"\]
+[youtube id="t_s6waEUTbI"]

@@ -20,4 +20,4 @@ meta:
 
 > 40 Kölner Musiker – ein Song. So habt Ihr "En unserem Veedel" noch nie gehört. Denn he hält mer zesamme!
 
-\[youtube id="UYfPdMTekjk"\]
+[youtube id="UYfPdMTekjk"]

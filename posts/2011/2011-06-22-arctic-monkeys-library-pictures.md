@@ -19,4 +19,4 @@ meta:
 
 Zur Einstimmung auf die heutige Abendgestaltung.
 
-\[youtube id="HOjcUzzUl7k"\]
+[youtube id="HOjcUzzUl7k"]

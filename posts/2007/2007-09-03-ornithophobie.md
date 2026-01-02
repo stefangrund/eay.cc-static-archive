@@ -21,4 +21,4 @@ meta:
 
 Während meiner Abwesenheit und meiner spirituellen Reise durch Holland und Belgien habe ich [ein mal mehr](//eay.cc/2007/in-der-zwischenzeit/) einige Erkenntnisse gewonnen. Vor allem dass Brüssel eine sehr coole Stadt ist (mit einem mächtigen [Atomium](http://www.flickr.com/photos/eay/1313562741/)!), dass Frauen mehr auf Handhelds und Männer mehr auf stationäre Konsolen stehen, dass es erschreckend [große Meeresungeheuer](http://www.flickr.com/photos/eay/1314458026/) gibt und dass ich Angst vor Möwen habe. Andere Vögel gehen aber. Glaub ich.
 
-\* [Ornithophobie](http://de.wikipedia.org/wiki/Liste_der_Phobien#O), die Angst vor Vögeln. Möwen only gibt's nicht.
+* [Ornithophobie](http://de.wikipedia.org/wiki/Liste_der_Phobien#O), die Angst vor Vögeln. Möwen only gibt's nicht.

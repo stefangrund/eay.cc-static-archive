@@ -21,7 +21,7 @@ meta:
   - _share_on_mastodon_url: "https://eay.social/@eay/112944238080404918"
 ---
 
-\[youtube id="a6voXgBlmpk"\]
+[youtube id="a6voXgBlmpk"]
 
 Goonies im Weltraum, startet am 03.12. auf Disney+.
 

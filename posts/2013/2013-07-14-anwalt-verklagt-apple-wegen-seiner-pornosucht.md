@@ -22,6 +22,6 @@ meta:
   - yourls_shorturl: "https://eay.li/25a"
 ---
 
-> The Plaintiff became totally out of synch in his romantic relationship with his wife, which was a consequence of his use of his Apple product. The Plaintiff began desiring, younger more beautiful girls featured in porn videos than his wife, who was no longer 21. \[...\] The Plaintiff could no longer tell the difference between internet pornography and tangible intercourse due to the content he accessed through the Apple products, which failed to provide him with warnings of the dangers of online pornography whatsoever.
+> The Plaintiff became totally out of synch in his romantic relationship with his wife, which was a consequence of his use of his Apple product. The Plaintiff began desiring, younger more beautiful girls featured in porn videos than his wife, who was no longer 21. [...] The Plaintiff could no longer tell the difference between internet pornography and tangible intercourse due to the content he accessed through the Apple products, which failed to provide him with warnings of the dangers of online pornography whatsoever.
 
 Silicon Valley und [San Fernando Valley](https://de.wikipedia.org/wiki/San_Fernando_Valley#Wirtschaft) hoffen, dass der Mann damit keinen Stein ins rollen gebracht hat. :D (via [Daring Fireball](http://daringfireball.net/linked/2013/07/12/porno-addiction))

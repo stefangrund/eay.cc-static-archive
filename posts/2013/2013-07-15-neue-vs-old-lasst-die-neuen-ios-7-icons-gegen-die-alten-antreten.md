@@ -19,4 +19,4 @@ meta:
   - yourls_shorturl: "https://eay.li/25b"
 ---
 
-Bis auf Safari, die Einstellungen und die Kamera-App schneiden überraschenderweise alle iOS 7-Icons besser ab. (via [@luagsh\_dmn](https://twitter.com/luagsh_dmn/status/356673838815248384))
+Bis auf Safari, die Einstellungen und die Kamera-App schneiden überraschenderweise alle iOS 7-Icons besser ab. (via [@luagsh_dmn](https://twitter.com/luagsh_dmn/status/356673838815248384))

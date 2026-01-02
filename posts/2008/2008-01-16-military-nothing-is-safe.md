@@ -18,7 +18,7 @@ meta:
 
 Nach langer Zeit wurde ich direkt von zwei Seiten ([JeriC](http://jeric.wedigo.net/index.php?/archives/959-Eigentlich-halte-ich-ja-nichts-von-Stoeckchen..html) und [PlayStar](http://goldenterrabyte.blogspot.com/2008/01/shakeaway-reached-his-destiny.html)) mit einem [Stöckchen](//eay.cc/themen/stoeckchen/) beworfen. Die Aufgabe ist es, eine Band samt Album wie folgt zu basteln:
 
-1\. Den Namen der Band liefert der Titel eines [zufällig gewählten](http://en.wikipedia.org/wiki/Special:Random) Wikipedia-Artikels. 2. Den Namen des Albums liefern die letzten vier Worte des letzten Zitats [von hier](http://www.quotationspage.com/random.php3). 3. Das dritte Bild aus [diesen zufällig gewählten flickr-Bildern](http://www.flickr.com/explore/interesting/7days) ist das Cover. Bonusaufgabe: Eine kleine Geschichte zur Band und dem Album schreiben.
+1. Den Namen der Band liefert der Titel eines [zufällig gewählten](http://en.wikipedia.org/wiki/Special:Random) Wikipedia-Artikels. 2. Den Namen des Albums liefern die letzten vier Worte des letzten Zitats [von hier](http://www.quotationspage.com/random.php3). 3. Das dritte Bild aus [diesen zufällig gewählten flickr-Bildern](http://www.flickr.com/explore/interesting/7days) ist das Cover. Bonusaufgabe: Eine kleine Geschichte zur Band und dem Album schreiben.
 
 Erstaunlich was für brauchbare Ergebnisse diese Vorgehensweise liefert - haben wir etwa _das_ ErfolgsgeheimnisTM der Musikindustrie entdeckt? Bei mir ist die Band "Le BÃ´" mit ihrem Debüt "Military, nothing is safe." herausgekommen. Seht selbst:
 

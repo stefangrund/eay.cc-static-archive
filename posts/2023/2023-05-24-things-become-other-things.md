@@ -21,7 +21,7 @@ meta:
 
 [Craig Mod](https://craigmod.com) in einer [vergangenen Ausgabe](https://craigmod.com/ridgeline/048/) seines Ridgeline-Newsletters, in dem er von seinen Wanderungen durch Japan erzählt, mit einer schönen Anekdote:
 
-> “This is our daughter,” the wife said. \[…\]
+> “This is our daughter,” the wife said. […]
 > 
 > As the husband drove me down off the mountain back to the Ise-ji path, he said, “She’s not … our daughter.”
 > 

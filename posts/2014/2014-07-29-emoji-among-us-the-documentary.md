@@ -17,6 +17,6 @@ meta:
   - yourls_shorturl: "https://eay.li/2hr"
 ---
 
-\[vimeo id="100851656"\]
+[vimeo id="100851656"]
 
 Bleiben wir bei [Emoji-Content](//eay.cc/2014/your-favorite-tumblr-for-the-next-5-minutes-35-rejected-emojis/): Werbung für den Stock-Footage-Anbieter [Dissolve](http://dissolve.com/) in Form einer netten, kleinen Mockumentary über unser Zusammenleben mit den bunten Bildchen.

@@ -23,4 +23,4 @@ meta:
 
 Das hier wird vermutlich der beste Film aller Zeiten:
 
-\[youtube id="I8VuWhvk87o"\]
+[youtube id="I8VuWhvk87o"]

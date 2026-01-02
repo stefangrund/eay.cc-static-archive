@@ -17,6 +17,6 @@ meta:
   - yourls_shorturl: "https://eay.li/2bb"
 ---
 
-\[youtube id="\_ObE4\_nMCjE"\]
+[youtube id="_ObE4_nMCjE"]
 
 Steve Sammartino und Raul Oaida haben im Rahmen ihres [Super Awesome Micro Projects](http://www.superawesomemicroproject.com/) ein lebensgroßes, mit Luftdruck-betriebenes Auto aus über 500.000 Lego-Steinen gebaut. Spitzengeschwindigkeit: 30 km/h. (via [1337core](http://www.1337core.de/unglaublich-lebensgrosses-lego-auto-faehrt-mit-luftdruck/))

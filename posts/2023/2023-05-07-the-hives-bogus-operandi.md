@@ -21,7 +21,7 @@ meta:
   - yourls_shorturl: "https://eay.li/3mb"
 ---
 
-\[youtube id="XVKHeBRox0k"\]
+[youtube id="XVKHeBRox0k"]
 
 > We left the throne for a decade just to prove that we could. No one sat on it, so we did, again. If you are feeling like you are number one, get ready to be number two because we are back!
 

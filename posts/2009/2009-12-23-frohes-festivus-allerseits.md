@@ -18,6 +18,6 @@ meta:
   - yourls_shorturl: "https://eay.li/2s"
 ---
 
-\[youtube id="DWcf7Ul1smY"\]
+[youtube id="DWcf7Ul1smY"]
 
 → [http://en.wikipedia.org/wiki/Festivus](http://en.wikipedia.org/wiki/Festivus)

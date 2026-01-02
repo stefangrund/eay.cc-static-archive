@@ -25,6 +25,6 @@ Während der [heutigen Nintendo Direct](https://www.youtube.com/live/ldej7ndFZOc
 
 Doch Zelda kämpft natürlich nicht mit Schwert, Schild und Bogen, sondern erhält einen Zauberstab mit dem sie Gegenstände und Gegner replizieren und – Tears of the Kingdom lässt grüßen – kombinieren kann.
 
-\[youtube id="LRxHN-uoDFM"\]
+[youtube id="LRxHN-uoDFM"]
 
 Sieht sehr vielversprechend aus und ob es das auch ist (wovon ich ausgehe), wissen wir am 26. September – natürlich eine Woche nach meinem Urlaub. 🙄

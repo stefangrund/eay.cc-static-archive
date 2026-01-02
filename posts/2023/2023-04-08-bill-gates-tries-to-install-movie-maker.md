@@ -27,7 +27,7 @@ meta:
 
 Interne E-Mail vom 15.01.2003, die das 2000er Microsoft in a nutshell aufzeigt:
 
-> I decided to download Moviemake and buy the Digital Plus r pack \[sic!\] so I went to Microsoft.com. They have a download place so I went there. \[…\] This site is so slow it is unusable.
+> I decided to download Moviemake and buy the Digital Plus r pack [sic!] so I went to Microsoft.com. They have a download place so I went there. […] This site is so slow it is unusable.
 
 > So after more than an hour of craziness and making my programs list garbage and being scared and seeing that Microsoft.com is a terrible website I haven't run Moviemaker and I haven't got the plus package.
 

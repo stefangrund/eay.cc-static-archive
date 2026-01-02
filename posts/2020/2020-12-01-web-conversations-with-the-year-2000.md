@@ -23,6 +23,6 @@ meta:
 
 > 2000 me: Wow you still work on the web, that’s amazing. It must be so easy to publish really interesting web pages.
 > 
-> 2020 me: Uhhhhh. \[Very long pause.\] Look, you can pay a low monthly fee and listen to any album anyone ever made.
+> 2020 me: Uhhhhh. [Very long pause.] Look, you can pay a low monthly fee and listen to any album anyone ever made.
 
 **Update, 02.12.2020:** [Paul Ford](https://ftrain.com/) hat nun auch noch eine ebenso lesenswerte [Version mit ernsthaften Antworten veröffentlicht](https://ftrain.medium.com/web-conversation-from-the-other-side-5f3881bfaad8).

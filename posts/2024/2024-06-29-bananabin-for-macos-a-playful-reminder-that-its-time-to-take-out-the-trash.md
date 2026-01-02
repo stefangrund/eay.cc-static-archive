@@ -23,6 +23,6 @@ meta:
   - _share_on_mastodon_url: "https://eay.social/@eay/112698715513203303"
 ---
 
-  
+ 
 
 > When your bin takes up a lot of diskspace BananaBin makes that visible by adding interactive flies to your bin.

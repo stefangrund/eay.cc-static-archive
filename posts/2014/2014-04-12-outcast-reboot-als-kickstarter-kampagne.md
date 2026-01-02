@@ -19,7 +19,7 @@ meta:
   - yourls_shorturl: "https://eay.li/2el"
 ---
 
-\[youtube id="NSek6Wv0N68"\]
+[youtube id="NSek6Wv0N68"]
 
 Großartige Neuigkeiten! Nachdem die Macher von [Outcast](https://de.wikipedia.org/wiki/Outcast) die Rechte an ihrem Spiel [im letzten Jahr zurückkauften](//eay.cc/2013/outcast-macher-kaufen-spielerechte-von-atari-zuruck/), haben sie nun eine [Kickstarter-Kampagne](https://www.kickstarter.com/projects/outcast-reboot-hd/outcast-reboot-hd) gestartet, um ein HD-Remake des großartigen SciFi-/Fantasy-Abenteuers von 1999 zu produzieren. Ab 600.000 Dollar ist das Ding finanziert und das Remake erscheint für PC. Bei mehr Geld gibt's mehr Plattformen (Mac, Linux, Next-Gen-Konsolen und sogar Oclulus Rift-Support), bessere Animationen und diverse Spielerweiterungen. Bekommen die Fans 1,7 Millionen Dollar zusammen, wird zudem eine neue Welt zum Outcast-Universum hinzugefügt.
 

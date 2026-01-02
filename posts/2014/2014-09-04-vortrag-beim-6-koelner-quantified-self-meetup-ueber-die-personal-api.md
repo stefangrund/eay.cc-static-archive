@@ -25,7 +25,7 @@ meta:
   - yourls_shorturl: "https://eay.li/2is"
 ---
 
-Ich war gestern Abend beim [6\. Quantified Self Meetup in Köln](http://www.meetup.com/QS-Koeln/events/197946712/), durfte dort ein paar sehr interessanten Vorträgen lauschen und auch selbst ein bisschen was über [meine "Personal API"-Arbeit](http://stefangrund.de/personalapi/) erzählen. Ich habe mich bemüht das ganze nicht allzu technisch zu gestalten, aber ein bisschen Technik muss halt. Aus 60 Seiten sind dabei immerhin 30 Slides geworden. Und wer sich die nochmal ansehen will oder überhaupt mal gucken möchte, was ich bei dem Meetup erzählt habe, kann das [hier bei Speaker Deck](https://speakerdeck.com/eay/personal-api-zur-abbildung-des-digitalen-ichs-im-social-web) oder gleich hier tun:
+Ich war gestern Abend beim [6. Quantified Self Meetup in Köln](http://www.meetup.com/QS-Koeln/events/197946712/), durfte dort ein paar sehr interessanten Vorträgen lauschen und auch selbst ein bisschen was über [meine "Personal API"-Arbeit](http://stefangrund.de/personalapi/) erzählen. Ich habe mich bemüht das ganze nicht allzu technisch zu gestalten, aber ein bisschen Technik muss halt. Aus 60 Seiten sind dabei immerhin 30 Slides geworden. Und wer sich die nochmal ansehen will oder überhaupt mal gucken möchte, was ich bei dem Meetup erzählt habe, kann das [hier bei Speaker Deck](https://speakerdeck.com/eay/personal-api-zur-abbildung-des-digitalen-ichs-im-social-web) oder gleich hier tun:
 
 <script async class="speakerdeck-embed" data-id="5a948ba016610132e2513ade9a061f96" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
 

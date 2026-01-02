@@ -19,4 +19,4 @@ meta:
   - yourls_shorturl: "https://eay.li/31p"
 ---
 
-Was für ein fantastisch entworfener, aussehender, vertonter und bespielter Thrill Ride! \[rating value=9 inline=true\]
+Was für ein fantastisch entworfener, aussehender, vertonter und bespielter Thrill Ride! [rating value=9 inline=true]

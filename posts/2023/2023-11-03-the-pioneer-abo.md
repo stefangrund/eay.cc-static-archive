@@ -21,7 +21,7 @@ meta:
   - _share_on_mastodon_url: "https://eay.social/@eay/111348316332439505"
 ---
 
-[The Pioneer](https://www.thepioneer.de/)\-Abo abgeschlossen, nachdem ich mein Testabo (3 Monate für 3 Euro) gekündigt habe, u.a. weil die an sich gute [App](https://apps.apple.com/app/id1421832321) sehr oft unbrauchbar ist, weil sie meinen Account vergisst und mich nicht erneut einloggen lässt. Das und der sicherlich gerechtfertigte, aber doch sehr hohe Preis von 25 Euro/Monat waren mir etwas too much.
+[The Pioneer](https://www.thepioneer.de/)-Abo abgeschlossen, nachdem ich mein Testabo (3 Monate für 3 Euro) gekündigt habe, u.a. weil die an sich gute [App](https://apps.apple.com/app/id1421832321) sehr oft unbrauchbar ist, weil sie meinen Account vergisst und mich nicht erneut einloggen lässt. Das und der sicherlich gerechtfertigte, aber doch sehr hohe Preis von 25 Euro/Monat waren mir etwas too much.
 
 Nun haben sie mir aber ein reduziertes Abo über 12 Monate je 9,90 Euro angeboten, was ich mehr als angebracht finde. Insbesondere nachdem ich bemerkt habe, dass sich die Podcasts auch in anderen Podcatchern (([In meinem Fall Pocket Casts](https://eay.cc/2023/purple-app-icon-for-pocket-casts/).)) abonnieren lassen, was allerdings nur auf der Website und da auch vergleichsweise versteckt angezeigt wird. In meinem Testabo war mir das gar nicht aufgefallen.
 

@@ -18,9 +18,9 @@ meta:
   - yourls_shorturl: "https://eay.li/y8"
 ---
 
-\[youtube id="BxR9Zo36rbo"\]
+[youtube id="BxR9Zo36rbo"]
 
-> 2020: A year so \[insert adjective of choice here\], even the creators of [Black Mirror](https://eay.cc/tag/black-mirror/) couldn’t make it up … but that doesn’t mean they don’t have a little something to add. Death to 2020 is a comedy event that tells the story of the dreadful year that was — and perhaps still is? This landmark documentary-style special weaves together some of the world’s most (fictitious) renowned voices with real-life archival footage spanning the past 12 months.
+> 2020: A year so [insert adjective of choice here], even the creators of [Black Mirror](https://eay.cc/tag/black-mirror/) couldn’t make it up … but that doesn’t mean they don’t have a little something to add. Death to 2020 is a comedy event that tells the story of the dreadful year that was — and perhaps still is? This landmark documentary-style special weaves together some of the world’s most (fictitious) renowned voices with real-life archival footage spanning the past 12 months.
 
 Ab dem 27. Dezember [auf Netflix](https://www.netflix.com/title/81332175).
 

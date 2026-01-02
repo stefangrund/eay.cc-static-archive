@@ -20,6 +20,6 @@ meta:
   - yourls_shorturl: "https://eay.li/2e0"
 ---
 
-\[vimeo id="34505587"\]
+[vimeo id="34505587"]
 
 "[Weapon of Choice](https://de.wikipedia.org/wiki/Weapon_of_Choice)" von Fatboy Slim, 2001 von Spike Jonze mit einem grandios tanzenden Christopher Walken inszeniert.

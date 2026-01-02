@@ -21,6 +21,6 @@ meta:
 
 Zur Einstimmung auf [heute Abend](http://www.luxor-koeln.de/mi-25-05-2011-art-brut/)...
 
-\[youtube id="OeN1N1Le2dQ"\]
+[youtube id="OeN1N1Le2dQ"]
 
 **Update am Tag danach:** Toll wars. Sogar sehr toll. Wenn Art Brut (oder die Vorband [Buster Shuffle](http://www.bustershuffle.co.uk/)) mal bei euch in der Gegend spielen, unbedingt hingehen!

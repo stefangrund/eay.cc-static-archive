@@ -19,7 +19,7 @@ meta:
   - yourls_shorturl: "https://eay.li/2pu"
 ---
 
-\[youtube id="x9D0uUKJ5KI"\]
+[youtube id="x9D0uUKJ5KI"]
 
 Und es [geht weiter](https://eay.cc/2021/star-wars-visions/) mit den Disney+-Animationsserien für Erwachsene: Hinter »What if...?« verbirgt sich eine 10-teilige Serie, in der die Multiversums-/ Alternate-Reality-Geschichte, die die aktuelle Phase des MCUs und seiner Serien durchzieht, nochmal weiter gedacht wird, indem sie uns deutlich abweichendere Versionen der ikonischen Marvel-Historie bringt.
 

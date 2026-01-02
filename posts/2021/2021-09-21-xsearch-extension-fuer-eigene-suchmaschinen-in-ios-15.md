@@ -24,7 +24,7 @@ meta:
   - yourls_shorturl: "https://eay.li/2rn"
 ---
 
-Meine bisherige Lieblings-Extension in iOS 15 ist – als langjähriger [Alfred](https://www.alfredapp.com/)\-Nutzer unter macOS nicht verwunderlich – xSearch, das Such-Shortcuts zu Safari und Spotlight (!) hinzufügt, um z.B. per „g searchterm“ Google oder „d searchterm“ DuckDuckGo direkt durchsuchen zu können.
+Meine bisherige Lieblings-Extension in iOS 15 ist – als langjähriger [Alfred](https://www.alfredapp.com/)-Nutzer unter macOS nicht verwunderlich – xSearch, das Such-Shortcuts zu Safari und Spotlight (!) hinzufügt, um z.B. per „g searchterm“ Google oder „d searchterm“ DuckDuckGo direkt durchsuchen zu können.
 
 Das ganze ist dann auch fully customizable, sodass man die Search Engines selbst de-/aktivieren und auch neue hinzufügen kann. So kann ich jetzt per „e searchterm“ direkt dieses Blog durchsuchen, „yt“ durchsucht YouTube, „l“ (as in "languages") dict.cc, usw. Alles Abkürzungen, die nun identisch mit meiner Alfred-Konfiguration sind.
 

@@ -22,4 +22,4 @@ meta:
 
 Gut, dass es in diesem Land jedoch immer noch Menschen gibt, die wissen, dass und wie man mit dieser Art von [Exkrementenfernsehen](//eay.cc/2008/der-kampf-der-kampfe/) abzurechnen hat. Am Dienstagabend konterte Pro7 gekonnt mit "Switch Reloaded - Der Jahresrückblick", in dem neben dem besagten ZDF- und RTL-Format natürlich auch wieder Stefan Raab und Schmidt & Pocher (siehe Bild oben) auf die Schippe genommen wurden. Wer's verpasst hat - und seien wir mal ehrlich, dass dürften so ziemlich alle eayz-Leser sein, weil ihr euch nicht mehr dem Diktat des Programmdirektors hingebt -, muss nicht weiter traurig sein, denn diese Woche kann man sich die Switch-Folge noch kostenlos [auf prosieben.de ansehen](http://www.prosieben.de/show_comedy/switch/galleries_video/videos/videoplayer/55301/). ([via](http://www.fernsehlexikon.de/3984/elke-heidenreich-schlaegt-marcel-reich-ranicki/))
 
-Und zum Schluss gibt's auch ein nettes Schmankerl für [Tropic Thunder](//eay.cc/2008/tropisches-donnerwetter/)\-Fans.
+Und zum Schluss gibt's auch ein nettes Schmankerl für [Tropic Thunder](//eay.cc/2008/tropisches-donnerwetter/)-Fans.

@@ -20,6 +20,6 @@ meta:
   - yourls_shorturl: "https://eay.li/33o"
 ---
 
-\[youtube id="08dHXfIprYE"\]
+[youtube id="08dHXfIprYE"]
 
 Der Anime, der Batman ins historische Japan verfrachtet, sieht weiterhin hervorragend aus. Am 24. April ist »Batman Ninja« dann digital verfügbar.

@@ -21,7 +21,7 @@ meta:
   - _share_on_mastodon_url: "https://eay.social/@eay/113707191564919898"
 ---
 
-\[youtube id="PsHx7bMIFC4"\]
+[youtube id="PsHx7bMIFC4"]
 
 Letztes Jahr aufgenommen, aber nicht veröffentlicht und daher schmerzlich vermisst, gibt es dieses Jahr wieder das legendäre Vanity-Fair-Interview mit Billie Eilish. Inklusive dem vom letzten Jahr. (Vorher hier im Blog: [2022](https://eay.cc/2022/billie-eilish-same-interview-the-sixth-year/), [2021](https://eay.cc/2021/billie-eilish-same-interview-the-fifth-year/) und [2020](https://eay.cc/2020/billie-eilish-same-interview-the-fourth-year/).)
 

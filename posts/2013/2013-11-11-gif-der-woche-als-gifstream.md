@@ -23,4 +23,4 @@ meta:
 
 Das ganze passt natürlich wunderbar zur hiesigen, allseits beliebten Rubrik [.gif der Woche](//eay.cc/tag/gif-der-woche/), weshalb ich eben mal den passenden GifStream dazu gebastelt habe. Aktuell also mit 112 hervorragenden GIFs der letzten Wochen. Und wenn's was neues gibt, wird der GifStream natürlich automatisch aktualisiert. Der GifStream [liegt hier](//eay.cc/uploads/misc/gifderwoche.gifstream.json) oder kann - wenn ihr gerade euer iPhone zur Hand und die App bereits installiert habt - hier [direkt zu GifStream hinzugefügt](gifstream://eay.cc/uploads/misc/gifderwoche.gifstream.json) werden.
 
-**Update, 14.11.:** Nach [Hinweis von @dschooh](https://twitter.com/dschooh/status/400292434422145024) nun noch [Spec](https://github.com/pwaldhauer/gifstream-spec)\-konformer.
+**Update, 14.11.:** Nach [Hinweis von @dschooh](https://twitter.com/dschooh/status/400292434422145024) nun noch [Spec](https://github.com/pwaldhauer/gifstream-spec)-konformer.

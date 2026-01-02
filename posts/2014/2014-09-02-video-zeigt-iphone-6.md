@@ -21,6 +21,6 @@ meta:
 
 Dieses Internet ist gerade voller Leaks, Julian Assange wäre stolz auf uns. Die Russen beweisen dabei, dass sie nicht nur unter Beobachtung der Weltöffentlichkeit machen können, was sie wollen, sondern auch wissen, wie man eine Woche vor der offiziellen Vorstellung durch Apple an ein iPhone 6 kommt:
 
-\[youtube id="657UeODW178"\]
+[youtube id="657UeODW178"]
 
 Ersteindruck: Plastik-Look und zu groß – kauf ich.

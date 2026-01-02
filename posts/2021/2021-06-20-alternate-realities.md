@@ -19,6 +19,6 @@ meta:
   - yourls_shorturl: "https://eay.li/2oz"
 ---
 
-\[youtube id="iKBs9l8jS6Q"\]
+[youtube id="iKBs9l8jS6Q"]
 
 2.400 CG-Artists haben bei einer Challenge von [Clinton Jones](https://youtube.com/c/pwnisher) mitgemacht, der diese aufgefordert hat, auf Basis einer Animation von ihm jeweils ihre eigene Interpretation zu rendern. Das obige Video zeigt die 100 besten Einreichungen und ist irgendwie besser als die zweite Staffel von »Love, Death & Robots«.

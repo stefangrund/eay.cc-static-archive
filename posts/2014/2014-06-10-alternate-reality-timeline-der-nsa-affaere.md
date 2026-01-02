@@ -21,6 +21,6 @@ meta:
   - yourls_shorturl: "https://eay.li/2gr"
 ---
 
-> Merkel erklärt die Aufklärung zur Chefsache: "Dass ich als Kanzlerin abgehört werde, damit muss man rechnen – aber die millionenfache Überwachung von Bürgern ist ein Verstoß gegen die Grundrechte, den wir nicht dulden können." \[...\] "Das Wohl des Staates und der Bürger wiegt schwerer als gute Beziehungen zu unseren Freunden in Washington."
+> Merkel erklärt die Aufklärung zur Chefsache: "Dass ich als Kanzlerin abgehört werde, damit muss man rechnen – aber die millionenfache Überwachung von Bürgern ist ein Verstoß gegen die Grundrechte, den wir nicht dulden können." [...] "Das Wohl des Staates und der Bürger wiegt schwerer als gute Beziehungen zu unseren Freunden in Washington."
 
 Ich würde nur zu gerne in dem Paralleluniversum von Fiete Stegers leben...

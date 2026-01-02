@@ -20,6 +20,6 @@ meta:
   - yourls_shorturl: "https://eay.li/30l"
 ---
 
-\[youtube id="ZBdRAdSosv4"\]
+[youtube id="ZBdRAdSosv4"]
 
 Wie großartig ist das denn? 😂

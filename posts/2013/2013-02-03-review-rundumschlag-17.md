@@ -37,7 +37,7 @@ Es folgen ein paar kurze Reviews und Gedanken, die ich zwischenzeitlich bei [Let
 
 [**Die Muppets**](http://www.imdb.com/title/tt1204342/): Sehr tolles Comebock! Jeder der auch nur einmal mit Kermit und der Gang gelacht hat, wird diesen Film lieben. Auch weil neben den Muppets die Menschen zu überzeugen wissen und man ihnen (Jason Segel) den Spaß an der Sache wahrlich ansieht. Schwachpunkt: Die deutsche Synchro. ![4/5](/uploads/pages/emdb/s_4.gif)
 
-[**Haywire**](http://www.imdb.com/title/tt1506999/): Eher enttäuschend. Soderbergh/Dobbs haben dem "Killerfilm" außer einer starken Protagonistin nichts neues hinzuzufügen. Die Kampfszenen sind zwar gut und alles wirkt überaus authentisch, aber bei dem Cast hätte da einfach mehr drin sein müssen. Funfact: Während des Films habe ich die Idee zu einem \_unterhaltsamen\_ Actionfilm komplett ausgearbeitet, so sehr war ich ans Geschehen auf der Leinwand gefesselt. ![1,5/5](/uploads/pages/emdb/s_1-5.gif)
+[**Haywire**](http://www.imdb.com/title/tt1506999/): Eher enttäuschend. Soderbergh/Dobbs haben dem "Killerfilm" außer einer starken Protagonistin nichts neues hinzuzufügen. Die Kampfszenen sind zwar gut und alles wirkt überaus authentisch, aber bei dem Cast hätte da einfach mehr drin sein müssen. Funfact: Während des Films habe ich die Idee zu einem _unterhaltsamen_ Actionfilm komplett ausgearbeitet, so sehr war ich ans Geschehen auf der Leinwand gefesselt. ![1,5/5](/uploads/pages/emdb/s_1-5.gif)
 
 [**Ziemlich beste Freunde**](http://www.imdb.com/title/tt1675434/): Ziemlich gut, amüsant, berührend und super gespielt. Die Franzosen haben's einfach drauf. Ein toller Film. ![4/5](/uploads/pages/emdb/s_4.gif)
 

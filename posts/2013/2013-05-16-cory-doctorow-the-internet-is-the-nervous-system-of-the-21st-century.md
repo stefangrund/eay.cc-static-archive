@@ -24,6 +24,6 @@ Wie schon bei den letzten sechs Malen konnte ich auch in diesem Jahr nicht bei d
 
 So wurde dieses Jahr vielfach der Vortrag von [Cory Doctorow](http://craphound.com/) empfohlen, seineszeichens so sehr Internetmensch, das man ihn in diesen Gefilden gar [nicht mehr vorstellen](http://en.wikipedia.org/wiki/Cory_Doctorow) braucht. Und sein rund 45 minütiger Vortrag hat es in der Tat in sich: Doctorow ist nicht nur ein begnadeter Redner, er sagt auch viele kluge Sachen. Zum Netz, zu Technologie und DRM, alles garniert mit interessanten Anekdoten und gekrönt mit einem unterschreibenswerten Schlusswort. Kurz: Wenn man sich nur einen Vortrag ansieht, dann sollte das dieser hier sein.
 
-\[youtube id="uWqx\_1tDyqE"\]
+[youtube id="uWqx_1tDyqE"]
 
 Wer sich darüber hinaus noch durch die anderen Beiträge durchklicken will, findet hier eine [wunderbare Übersicht](http://michaelkreil.github.io/republicavideos/), sortiert nach Tagen und Stage. Nächstes Jahr bin ich dann vielleicht auch mal vor Ort! Ach, was mach ich mir vor...

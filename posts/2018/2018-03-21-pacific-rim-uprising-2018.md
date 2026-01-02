@@ -20,4 +20,4 @@ meta:
   - yourls_shorturl: "https://eay.li/34b"
 ---
 
-Wie erwartet eine Nonsens-Material-&-CGI-Schlacht, die natürlich nicht an Originalität und Witz des ersten Teils herankommt, aber dennoch mit sehenswerter Giganto-Action aufwarten kann. Überhaupt nicht mehr und überhaupt nicht weniger. \[rating value=6 inline=true\]
+Wie erwartet eine Nonsens-Material-&-CGI-Schlacht, die natürlich nicht an Originalität und Witz des ersten Teils herankommt, aber dennoch mit sehenswerter Giganto-Action aufwarten kann. Überhaupt nicht mehr und überhaupt nicht weniger. [rating value=6 inline=true]

@@ -19,4 +19,4 @@ meta:
   - linked_list_url: "http://www.youtube.com/watch?v=_mRF0rBXIeg"
 ---
 
-"At the moment, there are no plans for advertising \[...\]", sagte Babak Parviz, der Leiter des Project Glass, zwar bereits (recht zweideutig), aber - um Apple-Sprech zu benutzen - liegt Werbung in Googles DNA, weshalb davon definitiv auszugehen ist. (via [@dasdom](https://alpha.app.net/dasdom/post/3133110))
+"At the moment, there are no plans for advertising [...]", sagte Babak Parviz, der Leiter des Project Glass, zwar bereits (recht zweideutig), aber - um Apple-Sprech zu benutzen - liegt Werbung in Googles DNA, weshalb davon definitiv auszugehen ist. (via [@dasdom](https://alpha.app.net/dasdom/post/3133110))

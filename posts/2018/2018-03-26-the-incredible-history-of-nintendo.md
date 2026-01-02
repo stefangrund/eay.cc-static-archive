@@ -23,6 +23,6 @@ meta:
   - content_copy: "https://twitter.com/eay/status/978207644023492609"
 ---
 
-\[youtube id="UsKyquWWl-s"\]
+[youtube id="UsKyquWWl-s"]
 
 129 Jahre Firmengeschichte in 3 Minuten.

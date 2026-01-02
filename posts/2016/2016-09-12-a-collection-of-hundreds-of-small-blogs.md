@@ -21,7 +21,7 @@ meta:
 
 Jason Kottke hat heute sein Weblog relauncht. Im Post dazu schreibt er:
 
-> Some of my favorite things about kottke.org are the tags and tag pages. Looking at the site through the lens of tags, it becomes apparent that kottke.org is actually a collection of hundreds of small blogs \[...\].
+> Some of my favorite things about kottke.org are the tags and tag pages. Looking at the site through the lens of tags, it becomes apparent that kottke.org is actually a collection of hundreds of small blogs [...].
 
 Der Gedanke mit den Hunderten kleinen Themenblogs gefällt mir. Genau das ist hier (und bei vielen anderen, meist persönlichen Blogs) ja auch der Fall.
 

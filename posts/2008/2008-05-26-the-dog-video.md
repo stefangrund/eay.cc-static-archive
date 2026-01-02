@@ -22,6 +22,6 @@ Da ich ja schon seit Ewigkeiten kein "Musik"fernsehen mehr gucke, habe ich mir g
 
 Den (Neu-)Anfang machen [We are Scientists](http://www.wearescientists.com/) mit ihrem Video zur ersten Single "After Hours", das auf der im März erschienen Platte [Brain Thrust Mastery](http://www.amazon.de/exec/obidos/ASIN/B0012NHN72/eayznet-21) enthalten ist. Regie hat Scientists-üblich [Akiva Schaffer](http://www.imdb.com/name/nm1676223/) geführt, der uns hier in ein bizarres Doppel-Date einführt. Ja, das Herz einer Frau erobert man bekanntlich über ihren Hund. Wunderbare Geschichte, wunderbare Musik. Seht und hört selbst:
 
-\[youtube id="rv2\_LSIujHk"\]
+[youtube id="rv2_LSIujHk"]
 
 **Support eayz:** After Hours und/oder das ganze Album [bei iTunes kaufen](http://clk.tradedoubler.com/click?p=23761&a=1380002&url=http%3A%2F%2Fphobos.apple.com%2FWebObjects%2FMZStore.woa%2Fwa%2FviewAlbum%3Fi%3D274968876%26id%3D274968868%26s%3D143443%26partnerId%3D2003).

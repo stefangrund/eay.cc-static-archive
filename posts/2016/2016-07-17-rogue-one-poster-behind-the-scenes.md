@@ -23,6 +23,6 @@ Dieses Wochenende fand in London die Star Wars Celebration Europe statt, bei der
 
 Zum Unmut tausender, ausrastender Fanboys (und mir 😅) ist der Trailer bisher nicht geleaked worden. Bis es soweit ist oder Lucasfilm den Trailer selbst veröffentlicht, können wir uns aber mit dem oben zu sehenden, grandiosen Poster (das es [bei Reddit schon als Desktop-Hintergrund](https://www.reddit.com/r/StarWars/comments/4t0q0n/wallpaper_of_new_poster/) gibt) und dem folgenden, großartigen Behind-The-Scenes-Clip die Zeit vertreiben und beruhigen.
 
-\[youtube id="HUb\_zpdyDpU"\]
+[youtube id="HUb_zpdyDpU"]
 
 Excitement-Level ist jedenfalls [nach wie vor](https://eay.cc/2016/rogue-one-a-star-wars-story-trailer/) ganz oben. 😍

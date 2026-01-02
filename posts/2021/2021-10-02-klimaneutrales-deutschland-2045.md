@@ -20,6 +20,6 @@ meta:
   - yourls_shorturl: "https://eay.li/2se"
 ---
 
-\[youtube id="UixHyJO7zmg"\]
+[youtube id="UixHyJO7zmg"]
 
 Interessantes Video von [Agora Energiewende](https://www.agora-energiewende.de/) und [Frauenhofer ISE](https://www.ise.fraunhofer.de/), das eine klimaneutrale Zukunftsvision entsprechend des aktuellen wissenschaftlichen Forschungstands zeichnet. (via [Karl Lauterbach](https://twitter.com/karl_lauterbach/status/1444284217995759622))

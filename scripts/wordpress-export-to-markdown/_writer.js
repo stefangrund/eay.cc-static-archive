@@ -1,12 +1,10 @@
-const chalk = require('chalk')
-const fs = require('fs')
-const luxon = require('luxon')
-const path = require('path')
-const requestPromiseNative = require('request-promise-native')
+import chalk from 'chalk';
+import fs from 'fs';
+import { DateTime } from 'luxon';
+import path from 'path';
+import * as shared from './_shared.js';
 
-const shared = require('./_shared')
-
-async function writeFilesPromise (posts, config) {
+export async function writeFilesPromise (posts, config) {
   await writeMarkdownFilesPromise(posts, config)
   await writeImageFilesPromise(posts, config)
 }
@@ -101,24 +99,26 @@ async function writeImageFilesPromise (posts, config) {
 }
 
 async function loadImageFilePromise (imageUrl) {
-  let buffer
   try {
-    buffer = await requestPromiseNative.get({
-      url: imageUrl,
-      encoding: null // preserves binary encoding
-    })
-  } catch (ex) {
-    if (ex.name === 'StatusCodeError') {
-      // these errors contain a lot of noise, simplify to just the status code
-      ex.message = ex.statusCode
+    const response = await fetch(imageUrl);
+    if (!response.ok) {
+      const error = new Error(response.status.toString());
+      error.statusCode = response.status;
+      throw error;
     }
-    throw ex
+    const arrayBuffer = await response.arrayBuffer();
+    return Buffer.from(arrayBuffer);
+  } catch (ex) {
+    if (ex.statusCode) {
+      // simplify to just the status code
+      ex.message = ex.statusCode.toString();
+    }
+    throw ex;
   }
-  return buffer
 }
 
 function getPostPath (post, config) {
-  const dt = luxon.DateTime.fromISO(post.frontmatter.date)
+  const dt = DateTime.fromISO(post.frontmatter.date);
 
   // start with base output dir
   const pathSegments = [config.output]
@@ -144,7 +144,5 @@ function getPostPath (post, config) {
     pathSegments.push(slugFragment + '.md')
   }
 
-  return path.join(...pathSegments)
+  return path.join(...pathSegments);
 }
-
-exports.writeFilesPromise = writeFilesPromise

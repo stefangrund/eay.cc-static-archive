@@ -22,6 +22,6 @@ meta:
   - yourls_shorturl: "https://eay.li/1bp"
 ---
 
-\[youtube id="G6fdywQlmaY"\]
+[youtube id="G6fdywQlmaY"]
 
 Internetvideowitzler (tolle Berufsbezeichnung, oder?) [Brett Domino](http://www.brettdomino.com/) hat John Williams' - wie er selbst sagt - exzellenten Score zu Steven Spielbergs exzellentem Film um lustige Lyrics erweitert. Und einen fantastisch dreinschauenden Keyboarder an seine Seite gestellt. Mehr müsst ihr nicht wissen. (via [Fünf Filmfreunde](http://www.fuenf-filmfreunde.de/2011/10/07/jurassic-park-theme-with-lyrics/))

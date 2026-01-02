@@ -22,4 +22,4 @@ Da wir hier ja [jede Woche](//eay.cc/tag/gif-der-woche/) die ganze Bandbreite de
 
 > GIFs are one of the oldest image formats used on the web. Throughout their history, they have served a huge variety of purposes, from functional to entertainment. Now, 25 years after the first GIF was created, they are experiencing an explosion of interest and innovation that is pushing them into the terrain of art. In this episode of Off Book, we chart their history, explore the hotbed of GIF creativity on Tumblr, and talk to two teams of GIF artists who are evolving the form into powerful new visual experiences.
 
-\[youtube id="vuxKb5mxM8g"\]
+[youtube id="vuxKb5mxM8g"]

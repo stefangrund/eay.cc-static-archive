@@ -23,7 +23,7 @@ meta:
   - content_copy: "https://bsky.app/profile/eay.social/post/3lv63kf672j2z"
 ---
 
-Ein kleiner Milestone, der sich bald in euren Hosentaschen wiederfindet – zumindest wenn ihr [Yonks](https://yonks.app/)\-Nutzer\*innen seid: Ich habe die technische Basis meiner [seit Januar 2019](https://eay.cc/2019/introducing-yonks/) verfügbaren Daycounter-App für [Android](https://play.google.com/store/apps/details?id=com.eay.daycounter) & [iOS](https://apps.apple.com/us/app/yonks/id1382419586) runderneuert. Die App funktioniert zwar auch bisher einwandfrei, aber damit ist sie nun auch für die nächsten Jahre gut aufgestellt.
+Ein kleiner Milestone, der sich bald in euren Hosentaschen wiederfindet – zumindest wenn ihr [Yonks](https://yonks.app/)-Nutzer*innen seid: Ich habe die technische Basis meiner [seit Januar 2019](https://eay.cc/2019/introducing-yonks/) verfügbaren Daycounter-App für [Android](https://play.google.com/store/apps/details?id=com.eay.daycounter) & [iOS](https://apps.apple.com/us/app/yonks/id1382419586) runderneuert. Die App funktioniert zwar auch bisher einwandfrei, aber damit ist sie nun auch für die nächsten Jahre gut aufgestellt.
 
 Das Ganze wird gerade noch getestet und in den nächsten Tagen mit Version 1.3.0 – dem insgesamt zwölften Update – auf beiden Plattformen veröffentlicht.
 

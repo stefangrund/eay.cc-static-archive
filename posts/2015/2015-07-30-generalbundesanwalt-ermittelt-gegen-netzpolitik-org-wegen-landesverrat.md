@@ -22,7 +22,7 @@ meta:
   - yourls_shorturl: "https://eay.li/2pd"
 ---
 
-> Wenn es nach Verfassungsschutz-Chef Maaßen und Generalbundesanwalt Range geht, sitzen Markus \[Beckedahl\] und ich \[Andre Meister\] bald zwei Jahre lang im Gefängnis. Heute wurden wir offiziell über Ermittlungen gegen uns und Unbekannt informiert. Der Vorwurf: Landesverrat.
+> Wenn es nach Verfassungsschutz-Chef Maaßen und Generalbundesanwalt Range geht, sitzen Markus [Beckedahl] und ich [Andre Meister] bald zwei Jahre lang im Gefängnis. Heute wurden wir offiziell über Ermittlungen gegen uns und Unbekannt informiert. Der Vorwurf: Landesverrat.
 
 Das ist ein krasser Angriff auf Pressefreiheit. Man kann nur hoffen, dass das den Verantwortlichen in Politik und Justiz sowas von um die Ohren fliegt.
 

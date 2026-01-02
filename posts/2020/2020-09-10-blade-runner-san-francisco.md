@@ -18,7 +18,7 @@ meta:
   - yourls_shorturl: "https://eay.li/3fl"
 ---
 
-\[youtube id="x\_m9TUP\_t\_Y"\]
+[youtube id="x_m9TUP_t_Y"]
 
 > SF drone footage during the #BayAreaFires on 9/9/20, set to Blade Runner 2049 music.
 

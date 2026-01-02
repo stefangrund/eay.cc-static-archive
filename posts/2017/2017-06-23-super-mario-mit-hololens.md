@@ -19,6 +19,6 @@ meta:
   - yourls_shorturl: "https://eay.li/2zs"
 ---
 
-\[youtube id="QN95nNDtxjo"\]
+[youtube id="QN95nNDtxjo"]
 
 [Abhishek Singh](http://shek.it/) hat mit Unity3D und [Microsoft HoloLens](https://eay.cc/2015/microsoft-hololens/) eine Augmented-Reality-Version des ersten Levels von Super Mario Bros. gebaut und damit quasi einen kleinen Ausblick in die Zukunft des Videospielens geschaffen. Sehr cool.

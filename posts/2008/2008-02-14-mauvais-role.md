@@ -18,7 +18,7 @@ meta:
   - yourls_shorturl: "https://eay.li/j8"
 ---
 
-![](/uploads/2008/mauvais.jpg) Wir [bleiben](//eay.cc/2008/rambo-4-call-of-duty-4/) bei der Schnittmenge von Film und Videospiel und zeigen euch einen Kurzfilm, der die Frage aller Fragen beantwortet: Was würde passieren, wenn ein Videospielcharakter wie Diablo plötzlich keinen Bock mehr hat, der immer fiese Fiesling zu sein? Ich möchte nicht zuviel verraten, aber der französische Kurzfilm [Mauvais RÃ´le](http://www.mauvais-role.com/) beantwortet genau das. Nur soviel: Ein Super Diablo Bros. wird's wohl nicht. Jedenfalls eine wirklich nette Produktion. Ansehen und downloaden könnt ihr euch das Filmchen nach dem Klick. 
+![](/uploads/2008/mauvais.jpg) Wir [bleiben](//eay.cc/2008/rambo-4-call-of-duty-4/) bei der Schnittmenge von Film und Videospiel und zeigen euch einen Kurzfilm, der die Frage aller Fragen beantwortet: Was würde passieren, wenn ein Videospielcharakter wie Diablo plötzlich keinen Bock mehr hat, der immer fiese Fiesling zu sein? Ich möchte nicht zuviel verraten, aber der französische Kurzfilm [Mauvais RÃ´le](http://www.mauvais-role.com/) beantwortet genau das. Nur soviel: Ein Super Diablo Bros. wird's wohl nicht. Jedenfalls eine wirklich nette Produktion. Ansehen und downloaden könnt ihr euch das Filmchen nach dem Klick.
 
  ([YouTube Direktmauvai](http://youtube.com/watch?v=biX5iSBaCKo))
 

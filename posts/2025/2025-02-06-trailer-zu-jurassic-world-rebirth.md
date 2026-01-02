@@ -26,6 +26,6 @@ meta:
 
 Seit gestern können wir das Ergebnis dieser Arbeit in Form des Trailers zu »[Jurassic World Rebirth](https://www.imdb.com/de/title/tt31036941/)« bestaunen, der fünf Jahre nach den Ereignissen von »Dominion« unter der Regie von Echsen­experten [Gareth Edwards](https://www.imdb.com/de/title/tt31036941/) ((Ich bin kein Fan seines Godzillas, aber ich liebe »Rogue One« und »The Creator«.)) einen Trupp um Scarlett Johansson, Jonathan Bailey und Mahershala Ali zurück auf die Insel schickt, um DNA-Proben zu extrahieren, um daraus ... whatever.
 
-\[youtube id="ot0cwH6r0Lg"\]
+[youtube id="ot0cwH6r0Lg"]
 
 Das ganze sieht aus als hätte man »The Lost World«, Koepps letzte Beteiligung am Franchise, nochmal auf die Spitze getrieben und/oder mit Indy gekreuzt. Und ich liebe es. Im Trailer. Mal sehen, ob es für 2+ Stunden reicht oder wieder nur ein besten­falls nettes Desaster wird. Am 2. Juli wissen wir mehr.

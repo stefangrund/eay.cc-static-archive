@@ -21,6 +21,6 @@ meta:
   - linked_list_url: "https://youtube.com/@PhilEdwardsInc"
 ---
 
-\[youtube id="jiiV9TciUfE"\]
+[youtube id="jiiV9TciUfE"]
 
 [Phil Edwards](https://youtube.com/@PhilEdwardsInc) über Pantone.

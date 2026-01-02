@@ -26,6 +26,6 @@ meta:
 
 Nach [Star Wars](https://eay.cc/2023/the-galactic-menagerie-fan-made-trailer-for-wes-andersons-star-wars/) und [Lord of the Rings](https://eay.cc/2023/the-whimsical-fellowship-fan-made-trailer-for-wes-andersons-lord-of-the-rings/) hier nun die nächste Wes-Anderson-Interpretation von [Curious Refuge](https://curiousrefuge.com/): Avatar.
 
-\[youtube id="0tZthQy\_3SY"\]
+[youtube id="0tZthQy_3SY"]
 
 Und in der [aktuellen Ausgabe von Eine Stunde Film](https://www.deutschlandfunknova.de/beitrag/software-ki-generierter-film-trailer-the-whimsical-fellowship) sprechen Tom Westerholt und Anna Wollner über die ersten beiden Wes-Anderson-Trailer von Curious Refuge, die sich selbst als erstes AI-Filmstudio begreifen, und interviewen dann auch deren CEO [Caleb Ward](https://curiousrefuge.com/about-caleb). Hörenswert!

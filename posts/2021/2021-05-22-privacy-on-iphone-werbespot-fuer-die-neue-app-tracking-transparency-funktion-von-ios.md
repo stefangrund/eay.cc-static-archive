@@ -20,6 +20,6 @@ meta:
   - yourls_shorturl: "https://eay.li/2nz"
 ---
 
-\[youtube id="8w4qPUSG17Y"\]
+[youtube id="8w4qPUSG17Y"]
 
 Hervorragende Veranschaulichung von Privatsphäre und der Tatsache, dass wir uns gegen das, was wir im Digitalen zulassen, in der analogen Welt intensivst wehren würden.

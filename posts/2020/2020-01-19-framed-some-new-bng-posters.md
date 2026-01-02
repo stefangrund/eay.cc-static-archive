@@ -24,6 +24,6 @@ meta:
 
 ![](https://eay.cc/uploads/2020/bng-posters.jpeg)
 
-\- »Spider-Man: Into the Spider-Verse« by [Matt Ferguson](https://www.cakesandcomics.com/) and [Florey](http://www.mrflorey.com/) - »His deeds will not be forgiven until he merits (Variant)« by [Anthony Petrie](https://anthonypetrie.com/)
+- »Spider-Man: Into the Spider-Verse« by [Matt Ferguson](https://www.cakesandcomics.com/) and [Florey](http://www.mrflorey.com/) - »His deeds will not be forgiven until he merits (Variant)« by [Anthony Petrie](https://anthonypetrie.com/)
 
 Great works!

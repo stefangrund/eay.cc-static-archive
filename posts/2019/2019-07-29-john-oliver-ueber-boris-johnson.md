@@ -22,7 +22,7 @@ meta:
   - geo_public: "1"
 ---
 
-\[youtube id="dXyO\_MC9g3k"\]
+[youtube id="dXyO_MC9g3k"]
 
 > John Oliver explains how Britain’s new prime minister, Boris Johnson, has succeeded – not despite his bumbling persona, but often because of it.
 

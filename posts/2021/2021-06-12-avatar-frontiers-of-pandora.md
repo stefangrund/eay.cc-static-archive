@@ -18,4 +18,4 @@ meta:
 
 Nein, leider kein Trailer zum lang erwarteten Sequel von [James Camerons 2009er Science-Fiction-Blockbuster](https://eay.cc/2009/review-avatar-aufbruch-nach-pandora/), sondern _nur_ der Trailer für das Ubisoft-Avatar-Spiel, das 2022 für die NextGen-Konsolen (([Gutes Timing](https://eay.cc/2021/there-she-is/).)), PC und die Cloud-Gaming-Services erscheint. Aber: jedes Bewegtbild aus Pandora ist gutes Bewegtbild – und ich freue mich ja eh dorthin zurückzukehren.
 
-\[youtube id="Axmg1E4HrVE"\]
+[youtube id="Axmg1E4HrVE"]

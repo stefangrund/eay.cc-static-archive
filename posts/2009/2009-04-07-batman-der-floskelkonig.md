@@ -23,4 +23,4 @@ meta:
 
 Campy Batman erklärt die Welt. Made my day und generell sollte jeder aus dem Stegreif eine diese Weisheiten zitieren können - dann wäre diese Welt eine bessere!
 
-\[youtube id="mbmrCMy9UgM"\]
+[youtube id="mbmrCMy9UgM"]

@@ -28,6 +28,6 @@ Ich bin gespannt, ob und wenn, was dabei rumkommt. Falls es noch Fragen gibt, ei
 
 **Formular zur Übermittlung eines Blogeintrags:**
 
-\[contact-form 2 "Gastblogger"\]
+[contact-form 2 "Gastblogger"]
 
 **Das Kleingedruckte:** Mit dem Abschicken deines Blogeintrags akzeptierst du, dass dieser hier unentgeltlich verwendet werden darf. Außerdem bestätigst du, dass der Beitrag auf deinem Mist gewachsen ist und die Rechte Dritter (also Urheberrechte usw.) nicht verletzt.

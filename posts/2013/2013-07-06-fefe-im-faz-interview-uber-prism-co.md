@@ -22,6 +22,6 @@ meta:
   - yourls_shorturl: "https://eay.li/24v"
 ---
 
-> Terrorismus ist ja definiert als Einschüchterung, als Angriff, der nicht mich direkt angreift, sondern mir Angst macht und ich so meine Lebensart ändere. Das ist doch genau, was hier gerade passiert! Nur dass eben nicht âdie Terroristenâ diesen Angriff durchführen, sondern die Geheimdienste. \[...\] Im öffentlichen Diskurs muss mal jemand die Frage stellen, ob der real erlebte Terror nicht eher von den Diensten ausgeht, anstatt dass sie uns vor ihm schützen.
+> Terrorismus ist ja definiert als Einschüchterung, als Angriff, der nicht mich direkt angreift, sondern mir Angst macht und ich so meine Lebensart ändere. Das ist doch genau, was hier gerade passiert! Nur dass eben nicht âdie Terroristenâ diesen Angriff durchführen, sondern die Geheimdienste. [...] Im öffentlichen Diskurs muss mal jemand die Frage stellen, ob der real erlebte Terror nicht eher von den Diensten ausgeht, anstatt dass sie uns vor ihm schützen.
 
 Ich kann [Fefe](https://blog.fefe.de/) (das Blog) ja nicht immer ertragen, aber hiermit hat er recht.

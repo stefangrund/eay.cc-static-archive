@@ -23,6 +23,6 @@ meta:
   - content_copy: "https://twitter.com/eay/status/1611498222098300929"
 ---
 
-\[youtube id="gwLCz8j0nLU"\]
+[youtube id="gwLCz8j0nLU"]
 
 Nic Cage als Dracula in einem modernen Setting mit Nicholas Hoult als Draculas Diener Renfield. Ich liebe jede Sekunde des Trailers! Veröffent­lichung im April. (thx an [@supergarv@phpc.social](https://phpc.social/@supergarv) für den Hinweis darauf!)

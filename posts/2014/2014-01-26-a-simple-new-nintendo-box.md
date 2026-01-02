@@ -23,4 +23,4 @@ MG Siegler hat sich nach [Ben Kucheras Artikel über die Zukunft von Nintendo na
 
 > Imagine a simple $99 - $199 box that focused on the ability to play retro Nintendo games as well as updated versions (better graphics, more levels, etc) of old classics. Nintendo could then start creating new, simple fun games for this box as well. And then they could open the box to third-parties to create their own simple titles â and not just the large game studios, but independents. Again, with a focus on simplicity and fun.
 
-Eine solche Box würde ich \_sofort\_ kaufen. Und vielen, vielen anderen wird es genauso gehen, schließlich klingt das wie das Versprechen der Ouya oder die Hoffnung auf einen Gaming-enabled Apple TV. Und das plus Nintendo-Spiele. Nintendos Bank müsste anbauen.
+Eine solche Box würde ich _sofort_ kaufen. Und vielen, vielen anderen wird es genauso gehen, schließlich klingt das wie das Versprechen der Ouya oder die Hoffnung auf einen Gaming-enabled Apple TV. Und das plus Nintendo-Spiele. Nintendos Bank müsste anbauen.

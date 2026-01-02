@@ -26,4 +26,4 @@ meta:
 
 > Her long journey from feminist icon to damsel in distress, and back again.
 
-Hatten wir letztens schon [in Videoform hier](https://eay.cc/2017/wonder-woman-a-symbol-of-progress/), aber dieses [The Nib](https://thenib.com/)\-Comic von Lucy Bellwood und Sarah Mirk über die Geschichte und Rolle von Wonder Woman ist ebenfalls sehr empfehlenswert.
+Hatten wir letztens schon [in Videoform hier](https://eay.cc/2017/wonder-woman-a-symbol-of-progress/), aber dieses [The Nib](https://thenib.com/)-Comic von Lucy Bellwood und Sarah Mirk über die Geschichte und Rolle von Wonder Woman ist ebenfalls sehr empfehlenswert.

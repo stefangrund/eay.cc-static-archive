@@ -19,4 +19,4 @@ meta:
 
 Teaser & Trailer zu »The Hateful Eight«, der hierzulande am 28. Januar startet.
 
-\[youtube id="69UwVX6Riv8"\]
+[youtube id="69UwVX6Riv8"]

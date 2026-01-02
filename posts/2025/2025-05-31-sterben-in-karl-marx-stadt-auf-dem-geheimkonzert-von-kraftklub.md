@@ -30,6 +30,6 @@ Ebenfalls-UberBlogr [Jonas](https://jonas-haller.de/) war am Mittwoch auf dem 45
 
 Hier zudem noch ein YouTube-Video des Konzertauftakts mit dem ersten neuen Song "Schief in jedem Chor":
 
-\[youtube id="36gaRWtCUz8"\]
+[youtube id="36gaRWtCUz8"]
 
 Leider waren am Donnerstag, nachdem ich vom Kind zu Bett bringen wieder aufgewacht bin, bereits alle Tickets für die nächstgelegene Location – Düsseldorf – ausverkauft., aber ich freu mich auch so auf neues Material der Band mit K.

@@ -29,6 +29,6 @@ Wer mich in den letzten vier Jahren nach Podcast-Empfehlungen gefragt hat, dem h
 
 Nachdem im letzten Oktober [eine zweite Podcast-Staffel](https://eay.cc/2018/limetown-season-2-coming-halloween/) kam (die ich aller­dings noch nicht gehört habe), kommt nun am 16. Oktober die Fernseh­adaption mit Jessica Biel als Lia Haddock:
 
-\[youtube id="W15LeSQKewM"\]
+[youtube id="W15LeSQKewM"]
 
 Wobei Fernsehadaption es nicht ganz trifft, denn die Serie wird exklusiv bei "Facebook Watch" zu sehen sein, was scheinbar Zucks Versuch ist in den Streming Wars mitzumischen. Hoffen wir einfach mal, dass das nichts über die Qualität der Serue aussagt. Der Trailer macht auf jeden Fall schon mal einen guten Eindruck.

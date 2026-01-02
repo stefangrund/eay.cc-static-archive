@@ -20,7 +20,7 @@ meta:
 
 Und wie erwartet kam dann auch noch der erste Teaser Trailer zu [Episode VIII](https://eay.cc/tag/episode-8/) hinterher, der die Hype Machine und Mystery Box weiter befeuert, indem er quasi nichts verrät und nur weitere Fragen aufwirft, dafür aber ein paar geflüsterte Flashback-Quotes aufweist ("Help me, Obi-Wan").
 
-\[youtube id="zB4I68XVPzQ"\]
+[youtube id="zB4I68XVPzQ"]
 
 Außerdem liebe ich das soeben auch vorgestellte Poster, das mit dem hochgereckten Lichtschwert eine klare Referenz auf [das originale Poster](https://cl.ly/k0yd) ist:
 

@@ -21,4 +21,4 @@ meta:
 
 Das folgende Video ist der äußerst skurrilen YouTube-Serie [Patrick Duffy & The Crab](http://www.youtube.com/user/pdd330) entliehen, in dem sich die 80er-Jahre-Fernsehikone [Patrick Duffy](http://de.wikipedia.org/wiki/Patrick_Duffy) (Bobby Ewing aus Dallas) mit einer Krabbe unterhält. Beispielsweise etwa über einen Threesome. Sehr schräg das ganze, aber so mögen wir's ja. Bitte mehr davon.
 
-\[youtube id="403yeN5op1o"\]
+[youtube id="403yeN5op1o"]

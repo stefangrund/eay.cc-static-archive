@@ -24,7 +24,7 @@ meta:
 
 Ich habe mir gerade das [PlayStation Showcase-Video](https://www.youtube.com/watch?v=D4EKydVVvHk) gegeben und bin echt ... underwhelmed. Als großer Helldivers-Fan, war der [Trailer zur Fortsetzung](https://www.youtube.com/watch?v=rE7KTE28HrA) natürlich ein Highlight, aber ansonsten Fehlanzeige. Wenn da nicht noch der Announcement Trailer zu Bungies nächstem Spiel »Marathon« gewesen wäre:
 
-\[youtube id="6y-e2krA3uE"\]
+[youtube id="6y-e2krA3uE"]
 
 Denn der klingt und sieht großartig aus, was Sound und Art Direction angeht. Das Spiel, das eine Rückkehr zu Bungies 1994 Mac-exklusivem, gleichnamigem Spiel darstellt ([hier ein Gameplay-Video](https://www.youtube.com/watch?v=zNDARJ-eAqU)), ist da erstmal zweitrangig. Und vermutlich eh noch ein, zwei Jahre von Release entfernt.
 

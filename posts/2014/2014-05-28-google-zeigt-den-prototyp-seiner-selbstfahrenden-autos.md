@@ -24,6 +24,6 @@ meta:
 
 ![](https://eay.cc/uploads/2014/googlecarprototype.jpg)
 
-\[youtube id="CqSDWoAhvLU"\]
+[youtube id="CqSDWoAhvLU"]
 
 Ich kann mir zwar (noch?) nicht vorstellen, jemals auf ein manuell zu fahrendes, schnelles Auto zu verzichten, aber als Zweitwagen oder optional als Autopilot sehe ich da schon unendliche viele Vorteile. Wenn man daran denkt, dass Kinder, Senioren oder körperlich beeinträchtigte Menschen damit mobil sein könnten, ohne auf andere angewiesen zu sein, _muss_ man selbstfahrenden PKWs – ob nun von Google oder [sonstwem](http://www.fastcompany.com/3030911/most-innovative-companies/heres-an-early-look-at-volvos-self-parking-driverless-car-due-to-h) – eine rosige Zukunft vorhersagen.

@@ -21,7 +21,7 @@ meta:
   - _share_on_mastodon_url: "https://eay.social/@eay/111949338149747870"
 ---
 
-\[youtube id="AF8d72mA41M"\]
+[youtube id="AF8d72mA41M"]
 
 > The blue LED was supposed to be impossible – until a young engineer proposed a moonshot idea.
 

@@ -22,7 +22,7 @@ meta:
   - content_copy: "https://bsky.app/profile/eay.social/post/3loaqv5mref2p"
 ---
 
-Pünktlich zum [8\. Geburtstags dieses "Neill" getauften Blog-Themes](https://eay.cc/2017/introducing-neill/) (as in [Neill Blomkamp](https://en.wikipedia.org/wiki/Neill_Blomkamp)) habe ich die Innereien mal auf den aktuellen Stand der Technik gebracht. ((Fun-fact: Dass das genau auf diesen Tag fällt, war absoluter Zufall. 😅))
+Pünktlich zum [8. Geburtstags dieses "Neill" getauften Blog-Themes](https://eay.cc/2017/introducing-neill/) (as in [Neill Blomkamp](https://en.wikipedia.org/wiki/Neill_Blomkamp)) habe ich die Innereien mal auf den aktuellen Stand der Technik gebracht. ((Fun-fact: Dass das genau auf diesen Tag fällt, war absoluter Zufall. 😅))
 
 Der Webpack-basierte Build-Prozess ist einem kleinen Vite-basierten gewichen, alte Polyfills sind rausgeflogen und generell habe ich die CSS-, JavaScript- und SVG-Einbindung optimiert und modernisiert. Das Ergebnis: Die eh schon kleinen Assets sind nochmal in ihrer Größe geschrumpft. Das hier verwendete JavaScript z.B. von 60 auf 27 KB.
 

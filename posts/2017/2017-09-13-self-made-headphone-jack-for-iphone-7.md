@@ -23,6 +23,6 @@ meta:
   - geo_public: "1"
 ---
 
-\[youtube id="utfbE3\_uAMA"\]
+[youtube id="utfbE3_uAMA"]
 
 Scotty Allen, der [im April bereits für Furore sorgte](https://eay.cc/2017/how-i-made-my-own-iphone-in-china/), als er mit in Shenzen eingekauften Bauteilen sein eigenes iPhone baute, hat sich für sein neuestes Video überlegt, sein iPhone 7 wieder mit dem von Apple zugunsten der [AirPods](https://eay.cc/2017/airpods-fazit-nach-drei-wochen/) wegrationalisierten Kopfhörereingang auszustatten. Das stellt sich als schwieriger heraus, als zunächst gedacht, ist aber auch wieder sehr sehenswert, wenn man auf DIY-Smartphone-Werkeln steht.

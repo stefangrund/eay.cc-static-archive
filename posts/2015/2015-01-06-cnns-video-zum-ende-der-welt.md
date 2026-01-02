@@ -20,4 +20,4 @@ meta:
 
 > Hold for release till the end of the world confirmed.
 
-(via [Ti\_Leo](http://tileo.wordpress.com/2015/01/06/cnns-video-zum-ende-der-welt/))
+(via [Ti_Leo](http://tileo.wordpress.com/2015/01/06/cnns-video-zum-ende-der-welt/))

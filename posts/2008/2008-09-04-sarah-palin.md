@@ -19,4 +19,4 @@ meta:
   - yourls_shorturl: "https://eay.li/lk"
 ---
 
-![](/uploads/2008/palinmilf.jpg) Und zwar ne ganz, ganz böse. Idee via [@\_pewpew\_](http://twitter.com/_pewpew_/statuses/909536607).
+![](/uploads/2008/palinmilf.jpg) Und zwar ne ganz, ganz böse. Idee via [@_pewpew_](http://twitter.com/_pewpew_/statuses/909536607).

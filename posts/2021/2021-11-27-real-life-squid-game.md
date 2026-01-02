@@ -20,7 +20,7 @@ meta:
   - yourls_shorturl: "https://eay.li/2ys"
 ---
 
-\[youtube id="0e3GPea1Tyg"\]
+[youtube id="0e3GPea1Tyg"]
 
 [MrBeast](https://youtube.com/c/MrBeast6000), ein YouTuber, der offensichtlich eine Karriere darauf aufgebaut hat, Menschen große Geldsummen zu schenken, und von dessen Existenz ich bis zum [»Squid Game«-Podcast von Sascha und Lucas](https://www.pewpewpew.de/2021/10/18/pewcast-080-squid-game/) zugegebenermaßen noch nie gehört habe, hat die Netflix-Erfolgsserie »Squid Game« nachgestellt.
 

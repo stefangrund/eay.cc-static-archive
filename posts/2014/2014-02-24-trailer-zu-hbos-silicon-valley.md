@@ -19,6 +19,6 @@ meta:
   - yourls_shorturl: "https://eay.li/2d8"
 ---
 
-\[youtube id="69V\_\_a49xtw"\]
+[youtube id="69V__a49xtw"]
 
 Wenngleich mir eine ernsthafte Sorkin-Serie lieber wäre ((Vielleicht wird das ja [die Twitter-Serie](//eay.cc/2013/buch-ueber-twitter-gruendung-wird-fernsehserie/)?)), sieht die neue HBO-Sitcom doch ganz interessant aus. Irgendwie wie was zwischen IT Crowd und Prakti.com [The Internship](http://www.imdb.com/title/tt2234155/), den ich wegen der Google-Thematik und meiner Sympathie zu Vince Vaughn und Owen Wilson überraschenderweise überraschend gut fand. Entwickelt wurde die Serie unter anderem von [Mike Judge](https://en.wikipedia.org/wiki/Mike_Judge), der bereits für »King of the Hill«, »Idiocracy« und »[Extract](http://www.imdb.com/title/tt1225822/)« (auch überraschend gut) verantwortlich war. Könnte also was werden und wird vielleicht nicht so plump wie »The Big Bang Theory«, wobei ich das ja eigentlich mag.

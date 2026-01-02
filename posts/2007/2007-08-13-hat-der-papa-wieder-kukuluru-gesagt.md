@@ -19,4 +19,4 @@ meta:
 
 Wenn ja, dann hat der Papa ganz bestimmt so gut wie gar keine Tasse mehr im Schrank und sollte schleunigst von der Autobahn runter fahren und ein Tabaluga-Raststätten-Kids-Menü futtern. Aber egal wer oder was ein Kukuluru ist, ich find's herrlich.
 
-\[youtube id="6kM32F1sVnI"\]
+[youtube id="6kM32F1sVnI"]

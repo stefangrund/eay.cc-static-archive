@@ -24,6 +24,6 @@ Next up: [Tumblr](https://eay.cc/2013/its-official-yahoo-kauft-tumblr-fur-11-mil
 
 **Update, 22.05.:** SmugMug-CEO Don MacAskill stand bei einem "[Ask me anything" auf Reddit](https://www.reddit.com/r/photography/comments/8l0pet/im_don_macaskill_ceo_chief_geek_of_smugmug_we/) Frage und Antwort, was die Übernahme von Flickr angeht. Was er sagt, klingt auf jeden Fall schon mal gut:
 
-> Flickr isn't Instagram and, under my watch, it won't ever be. Flickr is all about a long\\-lasting, deep, abiding photographer community.
+> Flickr isn't Instagram and, under my watch, it won't ever be. Flickr is all about a long\-lasting, deep, abiding photographer community.
 
 Man darf also gespannt sein, denn alsbald wird sich SmugMug an ihren Taten messen lassen müssen.

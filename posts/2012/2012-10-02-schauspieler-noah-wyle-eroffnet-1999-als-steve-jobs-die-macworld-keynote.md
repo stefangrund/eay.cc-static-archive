@@ -21,4 +21,4 @@ Ich habe gerade ein mal mehr »[Pirates of Silicon Valley](http://www.imdb.com/t
 
 Während Woz einfach Woz ist, also ziemlich zufrieden damit war, hat Jobs sich öffentlich nur über den Schauspieler [Noah Wyle](http://www.imdb.com/name/nm0001864/) geäußert, dessen Nachahmung er für sehr gelungen hielt. Und offensichtlich sogar so gelungen, dass er Wyle 1999 zur Macworld einlud und ihn an seiner Stelle die Keynote eröffnen ließ. Habe ich, wie gesagt, bisher nicht gewusst und auch noch nie gesehen - und da es ja vielleicht einigen von euch ähnlich gehen könnte, hier das Video des Auftritts:
 
-\[youtube id="TIClAanU7Os"\]
+[youtube id="TIClAanU7Os"]

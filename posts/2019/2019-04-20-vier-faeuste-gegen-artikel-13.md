@@ -26,4 +26,4 @@ meta:
   - content_copy: "https://twitter.com/eay/status/1119491679948554240"
 ---
 
-\[youtube id="hQSMbEtQMpY"\]
+[youtube id="hQSMbEtQMpY"]

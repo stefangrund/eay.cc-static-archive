@@ -22,6 +22,6 @@ meta:
   - geo_public: "1"
 ---
 
-\[youtube id="4nieF-e0OOs"\]
+[youtube id="4nieF-e0OOs"]
 
 So sieht übrigens die Oberfläche der Sonne aus, erstmals so aufgenommen vom [Daniel K. Inouye Solar Telescope](https://de.wikipedia.org/wiki/Daniel_K._Inouye_Solar_Telescope). Jede der "Zellen" ist dabei so groß wie Texas. Das Video zeigt einen Zeitraffer von 10 Minuten Sonnenaktivität. Hier gibt es [weitere Bilder und Erklärungen](https://www.nso.edu/inouye-solar-telescope-first-light/). (via [Kottke](https://kottke.org/20/01/new-solar-telescope-shows-the-suns-surface-in-unprecendented-high-resolution-images-video))

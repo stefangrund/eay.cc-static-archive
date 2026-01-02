@@ -20,9 +20,9 @@ meta:
   - content_copy: "https://twitter.com/eay/status/1280983693843140608"
 ---
 
-\[youtube id="qpRMLR7VkO8"\]
+[youtube id="qpRMLR7VkO8"]
 
-> This is an audio-visual time-lapse of every death from the Coronavirus pandemic from January to June 2020. \[…\] Each country is represented by a tone and an expanding blip on the map when a death from Covid-19 is recorded. Each day is 4 seconds long, and at the top of the screen is the date and a counter showing the total numbers of deaths.
+> This is an audio-visual time-lapse of every death from the Coronavirus pandemic from January to June 2020. […] Each country is represented by a tone and an expanding blip on the map when a death from Covid-19 is recorded. Each day is 4 seconds long, and at the top of the screen is the date and a counter showing the total numbers of deaths.
 
 Eine sehr eindringliche, bedrückende Arbeit vom Komponisten [James Beckwith](https://www.jamesbeckwith.com/), die in 13 Minuten alle Coronavirus-bedingten Tode von Anfang Januar bis Ende Juni visualisiert und auditiv erlebbar macht. Und von der es wohl leider eine Fortsetzung geben wird:
 

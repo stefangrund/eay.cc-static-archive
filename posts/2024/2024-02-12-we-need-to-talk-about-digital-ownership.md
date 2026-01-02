@@ -28,4 +28,4 @@ meta:
 
 > „Ownership“ means ten different things to ten different people. Let’s talk about what we actually want.
 
-Lesenswert: [Molly White](https://www.mollywhite.net/) of [Web3 Is Going Just Great](https://www.web3isgoinggreat.com/)\-Fame in ihrem sehr verfolgenswerten Newsletter [Citation Needed](https://www.citationneeded.news/), der auch [als Podcast](https://www.citationneeded.news/podcast/) verfügbar ist, über Besitzverhältnisse in digitalen Kontexten, betrachtet aus Konsumenten- und Creator-Sicht.
+Lesenswert: [Molly White](https://www.mollywhite.net/) of [Web3 Is Going Just Great](https://www.web3isgoinggreat.com/)-Fame in ihrem sehr verfolgenswerten Newsletter [Citation Needed](https://www.citationneeded.news/), der auch [als Podcast](https://www.citationneeded.news/podcast/) verfügbar ist, über Besitzverhältnisse in digitalen Kontexten, betrachtet aus Konsumenten- und Creator-Sicht.

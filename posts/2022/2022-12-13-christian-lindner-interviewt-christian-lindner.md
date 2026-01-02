@@ -21,7 +21,7 @@ meta:
   - yourls_shorturl: "https://eay.li/3ke"
 ---
 
-\[youtube id="BFDF0ZlxwE0"\]
+[youtube id="BFDF0ZlxwE0"]
 
 > Es hätte keinen besseren geben können: Christian Lindner, der übrigens Finanzminister ist, hat endlich den perfekten Interviewpartner gefunden. Die besten Fragen, die klügsten Antworten und 200% Attraktivität sorgen für eine fast romantische Atmosphäre, wenn Christian Lindner auf Christian Lindner trifft.
 

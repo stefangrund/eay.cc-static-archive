@@ -18,6 +18,6 @@ meta:
   - yourls_shorturl: "https://eay.li/1iz"
 ---
 
-Im Gedenken an die überaus großartige britische Nerd-Sitcom »[The IT Crowd](//eay.cc/tag/itcrowd/)« hat eine Musikertruppe, bestehend aus [Superpowerless](http://www.youtube.com/superpowerless), [Sparkles](http://www.facebook.com/area11band)\* (From Area 11), [MC Wreckshin](http://www.mcwreckshin.com/), [B-TYPE](http://b-type.bandcamp.com/) und [Happi](http://www.youtube.com/spandexmoose), eine hörenswerte Rap-Hommage des Themesongs angefertigt. Hat Ohrwurmcharakter und mit Schildkröten gewinnt man bei mir sowieso immer und alles. (via [Boing Boing](http://boingboing.net/2012/06/07/it-crowd-rap-superpowerless.html))
+Im Gedenken an die überaus großartige britische Nerd-Sitcom »[The IT Crowd](//eay.cc/tag/itcrowd/)« hat eine Musikertruppe, bestehend aus [Superpowerless](http://www.youtube.com/superpowerless), [Sparkles](http://www.facebook.com/area11band)* (From Area 11), [MC Wreckshin](http://www.mcwreckshin.com/), [B-TYPE](http://b-type.bandcamp.com/) und [Happi](http://www.youtube.com/spandexmoose), eine hörenswerte Rap-Hommage des Themesongs angefertigt. Hat Ohrwurmcharakter und mit Schildkröten gewinnt man bei mir sowieso immer und alles. (via [Boing Boing](http://boingboing.net/2012/06/07/it-crowd-rap-superpowerless.html))
 
-\[youtube id="RiMmndIQcDU"\]
+[youtube id="RiMmndIQcDU"]

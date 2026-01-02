@@ -18,4 +18,4 @@ meta:
   - yourls_shorturl: "https://eay.li/wb"
 ---
 
-![](/uploads/2008/pandaschock.gif) Da bei [Monstrs](http://www.monstrs.de/), frei nach unserem [.gif der Woche](//eay.cc/tag/gif-der-woche/), gerade die "Woche der .gifs" gestartet ist, dachte ich, dass hier auch mal wieder ein Bewegtbildchen nachgelegt werden muss. Und was, verehrte Leserinnen und Leser, würde sich dafür besser eignen als ein schockierter Panda? .gif vom grandiosen B3ta'ler [c\_kick](http://www.totalleh.com/).
+![](/uploads/2008/pandaschock.gif) Da bei [Monstrs](http://www.monstrs.de/), frei nach unserem [.gif der Woche](//eay.cc/tag/gif-der-woche/), gerade die "Woche der .gifs" gestartet ist, dachte ich, dass hier auch mal wieder ein Bewegtbildchen nachgelegt werden muss. Und was, verehrte Leserinnen und Leser, würde sich dafür besser eignen als ein schockierter Panda? .gif vom grandiosen B3ta'ler [c_kick](http://www.totalleh.com/).

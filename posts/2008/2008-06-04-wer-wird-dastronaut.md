@@ -15,7 +15,7 @@ meta:
   - yourls_shorturl: "https://eay.li/sl"
 ---
 
-\[[Trigami-Review](http://www.trigami.com?blog=http://eay.cc/)\]
+[[Trigami-Review](http://www.trigami.com?blog=http://eay.cc/)]
 
 <script type="text/javascript" src="http://s.trigami.com/81723s.js"></script>
 
@@ -25,7 +25,7 @@ Leider jedoch handelt es sich bei Star Wars - jetzt stark sein oder diesen Satz 
 
 Bei Dastronauten hat man nämlich die Möglichkeit einen [suborbitalen](http://de.wikipedia.org/wiki/Suborbital) Raumflug zu gewinnen, sofern man Han Solo die Community davon überzeugen kann, dass man den Trip verdient hat. Um an das 200.000 Dollar teure Flugticket zu kommen, geht man wie folgt vor: [Auf Dastronauten.de anmelden](http://dastronauten.de/member/register) und dort ein Profil erstellen, inklusive "Warum möchte ich Astronaut werden?"- und "Ich habe keine Angst vor dem Raumflug weilâ¦"-Fragen. Um eine gültige Bewerbung abzugeben, müsst ihr danach noch ein Bild und/oder ein Video hochladen, indem ihr den Menschen (irgendwo) da draußen erklärt, warum sie für euch voten sollen. Hier gilt wohl die altbekannte YouTube-Regel: Wer am besten auf sich aufmerksam macht, erhöht seine Views, ergo seine Gewinnchancen.
 
-![](/uploads/2008/astroeay.jpg) \[ Into these worlds of unknown danger he rides - he's the AstroEay! \]
+![](/uploads/2008/astroeay.jpg) [ Into these worlds of unknown danger he rides - he's the AstroEay! ]
 
 Die Webseite selbst ist in Look und Feel zwar nicht wirklich "Web 2.0" (sofern wir jetzt mal davon ausgehen, dass "Web 2.0" ein Adjektiv sein kann), was aber nicht stört: Beim Erstellen meines Profils habe ich mich schnell an alles gewöhnt und mich zurechtgefunden. Und übrigens: [mein Profil](http://dastronauten.de/profile/show/memberId/155/cameFrom/myData/backTo/none). Die einmalige Chance auf einen Flug nach "da oben" konnte ich mir natürlich nicht entgehen lassen. Zwecks Gewinnchancenerhöhung habe ich keine Kosten und Mühen gescheut und direkt mal dieses [AstroEay-Werbevideo](http://dastronauten.de/details/show/contentId/64/mainMenu/0/subMenuType/1/cameFrom/content/backTo/none/author/AstroEay/authorId/155) produziert (achtet auch auf den leider viel zu leisen Soundtrack!).
 

@@ -19,6 +19,6 @@ meta:
   - yourls_shorturl: "https://eay.li/2o2"
 ---
 
-\[youtube id="nNp21zTeCDc"\]
+[youtube id="nNp21zTeCDc"]
 
 Interessanter Überblick von [Matt Ferrell](https://undecidedmf.com/) über die Zukunft von Windkraftanlagen jenseits von klassischen Windrädern. (via [Yewknee](https://www.yewknee.com/blog/the-future-of-solid-state-wind-energy-))

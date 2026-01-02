@@ -25,4 +25,4 @@ Das war's dann allerdings auch (für mich). Die Neuauflage der 22 Jahre alten St
 
 Nichtsdestotrotz wegen der tollen Präsentation:
 
-\[rating value=4\]
+[rating value=4]

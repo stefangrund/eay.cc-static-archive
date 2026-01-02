@@ -17,7 +17,7 @@ meta:
   - yourls_shorturl: "https://eay.li/35q"
 ---
 
-\[youtube id="rI054ow6KJk"\]
+[youtube id="rI054ow6KJk"]
 
 Nic Cage auf einem durchgestylten Rachetrip. 😍
 

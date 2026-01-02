@@ -22,6 +22,6 @@ meta:
   - yourls_shorturl: "https://eay.li/3j2"
 ---
 
-\[youtube id="l96IgQmXmhM"\]
+[youtube id="l96IgQmXmhM"]
 
 Schönes Video darüber, wie der hervorragende »Into the Spider-Verse« von 2017 es 3D-Animationsfilmen ermöglicht hat, sich vom allgegenwärtigen, fotorealistischen "Pixar-Look" zu entfernen. (via [Nils](https://www.huenerfuerst.de/archives/spider-verse-animationslook-ist-immer-noch-einzigartig))

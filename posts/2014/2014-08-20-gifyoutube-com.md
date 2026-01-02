@@ -18,4 +18,4 @@ meta:
   - yourls_shorturl: "https://eay.li/2i8"
 ---
 
-Einfach `gif` vor eine `youtube.com`\-URL schreiben, um aus dem entsprechenden Video ein GIF zu machen. Genius. (via [Waxy](http://waxy.org/links/))
+Einfach `gif` vor eine `youtube.com`-URL schreiben, um aus dem entsprechenden Video ein GIF zu machen. Genius. (via [Waxy](http://waxy.org/links/))

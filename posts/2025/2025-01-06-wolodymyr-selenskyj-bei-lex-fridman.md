@@ -25,7 +25,7 @@ meta:
   - _share_on_mastodon_url: "https://eay.social/@eay/113783779377141606"
 ---
 
-\[youtube id="u321m25rKXc"\]
+[youtube id="u321m25rKXc"]
 
 Der ukrainische Präsident im Gespräch mit dem amerikanisch-russischen Informatiker und Podcaster [Lex Fridman](https://lexfridman.com/), dem Joe Rogan der Tech-Bros.
 

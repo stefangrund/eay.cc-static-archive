@@ -24,6 +24,6 @@ meta:
 
 > Es ist Zeit, für the next thin thing…
 
-\[youtube id="Gn9aA1Rs8D0"\]
+[youtube id="Gn9aA1Rs8D0"]
 
 (via [vowe](https://vowe.net/2024/05/13/ehrliche-ipad-pro-werbung-roflmao/))

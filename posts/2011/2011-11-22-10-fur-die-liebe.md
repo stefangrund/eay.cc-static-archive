@@ -20,6 +20,6 @@ meta:
   - yourls_shorturl: "https://eay.li/1ck"
 ---
 
-\[An dieser Stelle waren ein Social-Media-Buttons von Twitter, Google+ und Facebook eingebunden.\]
+[An dieser Stelle waren ein Social-Media-Buttons von Twitter, Google+ und Facebook eingebunden.]
 
 Ein sozial-mediales Trauerspiel, ich weiß. Aber ihr habt die Kraft! :D

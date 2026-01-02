@@ -24,6 +24,6 @@ meta:
 
 > What if every Keanu Reeves character was an artificial environment in The Matrix ?
 
-\[youtube id="57pWXJP0Vgk"\]
+[youtube id="57pWXJP0Vgk"]
 
 Besser als [der eigentliche Matrix 4-Trailer](https://youtu.be/9ix7TUGVYIo) (yes, I'm underwhelmed).

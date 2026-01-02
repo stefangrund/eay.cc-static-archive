@@ -21,7 +21,7 @@ meta:
   - yourls_shorturl: "https://eay.li/31z"
 ---
 
-\[youtube id="4WvKeYuwifc"\]
+[youtube id="4WvKeYuwifc"]
 
 > Haiti and the Dominican Republic share a border, and an island. But the two countries are very different today: the Dominican Republic enjoys higher quality of life for many factors than Haiti. I went to this island and visited both countries, to try and understand when and how their paths diverged. And I began to learn how those differences are playing out in the present.
 

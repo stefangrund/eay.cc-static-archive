@@ -20,4 +20,4 @@ meta:
 
 Schönes Pixel-Art-Intro zu He-Man von [Caleb Hystad](http://8x8pixels.tumblr.com/) (via [Superlevel](http://superlevel.de/spielkram/pixel-he-man-intro/)):
 
-\[youtube id="WASxkc9tDw0"\]
+[youtube id="WASxkc9tDw0"]

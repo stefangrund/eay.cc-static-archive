@@ -30,7 +30,7 @@ meta:
   - linked_list_og-image: "https://eay.cc/wordpress/uploads/og-cache/5c0f04d6b38d35abe80a9f8913f74699.webp"
 ---
 
-\[youtube id="5eZa66g8uwY"\]
+[youtube id="5eZa66g8uwY"]
 
 Super spannender, erster Einblick von Federico Viticci in [Sky](https://sky.app/), die neue macOS-App vom Team der ursprünglichen iOS-Automations-App Workflow, aus der [dann die offizielle iOS-Shortcuts-App wurde](https://eay.cc/2017/apple-kauft-die-automation-app-workflow/). Dahinter verbirgt sich ein LLM-basierter Chatbot, der um den Kontext auf deinem macOS-Bildschirm, -Dateisystem, usw. weiß und dann entsprechend damit weiterarbeiten kann. Selbst­redend mit Integration weiterer Automationen, AppleScript und, _natürlich_, Shortcuts.
 

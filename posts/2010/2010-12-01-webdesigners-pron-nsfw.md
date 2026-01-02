@@ -20,4 +20,4 @@ meta:
   - yourls_shorturl: "https://eay.li/12u"
 ---
 
-\[spaeter\]![](https://eay.cc/uploads/2010/webdesignerspron.jpg) Diejenigen von euch, die gleichermaßen Gefallen an Cascading Style Sheets und nackter Haut finden, werden den [flickr-Stream von Exey](http://www.flickr.com/photos/exey/) lieben (zum Ansehen muss man sich mit seiner Yahoo-ID einloggen). Ich sage nur #panties { display: none; }\[/spaeter\]
+[spaeter]![](https://eay.cc/uploads/2010/webdesignerspron.jpg) Diejenigen von euch, die gleichermaßen Gefallen an Cascading Style Sheets und nackter Haut finden, werden den [flickr-Stream von Exey](http://www.flickr.com/photos/exey/) lieben (zum Ansehen muss man sich mit seiner Yahoo-ID einloggen). Ich sage nur #panties { display: none; }[/spaeter]

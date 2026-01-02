@@ -18,7 +18,7 @@ meta:
   - yourls_shorturl: "https://eay.li/3aj"
 ---
 
-\[youtube id="BzjfrdcN1Z8"\]
+[youtube id="BzjfrdcN1Z8"]
 
 > The full McBain movie hidden in The Simpsons in high quality.
 

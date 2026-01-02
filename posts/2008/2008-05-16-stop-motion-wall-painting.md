@@ -21,6 +21,6 @@ meta:
 
 Ich habe keine Ahnung wie man sowas nennen soll, weshalb @[Andi](http://twitter.com/AndiH) und ich und gerade den Titel dieses Blogeintrags zusammengetwittert haben. Seht selbst (von unten nach oben):
 
-![](/uploads/2008/twitterwallanimation.gif) Besagtes Video"-Dings" gibt's dann nach dem Klick. ([via](http://twitter.com/TubeYou/statuses/812668372)) 
+![](/uploads/2008/twitterwallanimation.gif) Besagtes Video"-Dings" gibt's dann nach dem Klick. ([via](http://twitter.com/TubeYou/statuses/812668372))
 
  ([Vimeo Direktwall](http://www.vimeo.com/426617))

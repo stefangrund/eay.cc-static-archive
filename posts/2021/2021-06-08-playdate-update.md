@@ -28,6 +28,6 @@ In den 15 Minuten erfahren wir – Achtung, Spoiler – vom Playdate Stereo Dock
 
 Zudem offenbaren Cable & Co., dass das Pre-Ordering im Juli beginnen wird und versprechen zugleich, das jeder, der will, früher oder später auch die Möglichkeit bekommen wird, einen Handheld für 179 US-Dollar zu erwerben. (Was übrigens auch der Preis der Developer Preview war, die wir für [Hypercode](https://hypercode.de/) im letzten Jahr [bekommen haben](https://eay.cc/2020/look-what-arrived-here-yesterday/). Sehr fair.)
 
-Abgerundet wird die Keynote dann noch mit einem tollen Werbespot von den gewohnt guten [Sandwich](https://sandwich.co/)\-Leuten und einer [runderneuerten Playdate-Website](https://play.date/).
+Abgerundet wird die Keynote dann noch mit einem tollen Werbespot von den gewohnt guten [Sandwich](https://sandwich.co/)-Leuten und einer [runderneuerten Playdate-Website](https://play.date/).
 
 Juli kann also kommen und ich freue mich [weiterhin](https://eay.cc/2019/playdate/) sehr auf die erste, zwölf Wochen lange Season – wann auch immer die dann stattfindet.

@@ -18,6 +18,6 @@ meta:
   - yourls_shorturl: "https://eay.li/2gv"
 ---
 
-> Charleston wedding photographer Raheel Gauba was shooting engagement photos of a young couple posing on the steps of a Meeting Street building last month when someone grabbed his subjects' attention. \[...\] "I turn around and it's Bill Murray with his shirt up, belly out, tapping his belly and trying to make them laugh."
+> Charleston wedding photographer Raheel Gauba was shooting engagement photos of a young couple posing on the steps of a Meeting Street building last month when someone grabbed his subjects' attention. [...] "I turn around and it's Bill Murray with his shirt up, belly out, tapping his belly and trying to make them laugh."
 
 I wish you were in Cologne in July, Mr. Murray. (via [Next Draft](http://nextdraft.com/archives/n20140612/the-bottom-of-the-news/))

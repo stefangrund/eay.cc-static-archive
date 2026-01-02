@@ -19,7 +19,7 @@ meta:
   - yourls_shorturl: "https://eay.li/rc"
 ---
 
-\[[Trigami-Anzeige](http://www.trigami.com?blog=http://eay.cc/)\]
+[[Trigami-Anzeige](http://www.trigami.com?blog=http://eay.cc/)]
 
 <script type="text/javascript" src="http://s.trigami.com/69235s.js"></script>
 

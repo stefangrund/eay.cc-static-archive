@@ -19,6 +19,6 @@ meta:
   - yourls_shorturl: "https://eay.li/2dy"
 ---
 
-\[youtube id="FTIuQwZh1CM"\]
+[youtube id="FTIuQwZh1CM"]
 
 Das beste an »[The Wolf of Wall Street](//eay.cc/2014/review-rundumschlag-19-oscars-2014-best-picture-edition/)« sind die [ganzen](//eay.cc/2014/the-worf-of-starfleet/) Mashups. (via [Nerdcore](http://www.crackajack.de/2014/03/19/the-dwarf-of-westeros/))

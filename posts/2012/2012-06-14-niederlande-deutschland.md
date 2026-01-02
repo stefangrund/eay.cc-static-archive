@@ -21,6 +21,6 @@ meta:
 
 Klar, als der zutiefst unsympathische Super Mario zweimal gezaubert hat, das war klasse. Aber der beste Moment der Partie war dann doch der hier:
 
-\[youtube id="ONAPzu3MvSg"\]
+[youtube id="ONAPzu3MvSg"]
 
 **Update, 16. Juni:** Oh Schreck, wie sich herausstellte, hat Jogi den Balljungen schon vor dem Spiel geflaxt, aber die UEFA-Regiefuzzis haben den Clip erst während des Spiels eingespielt. This changes everything. Not.

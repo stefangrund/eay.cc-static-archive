@@ -20,7 +20,7 @@ meta:
   - yourls_shorturl: "https://eay.li/28m"
 ---
 
-\[youtube id="S\_4QAVa9K\_k"\]
+[youtube id="S_4QAVa9K_k"]
 
 Disneys Werbemaschinerie läuft weiter an: Nachdem neulich [der erste Teaser Trailer zu »Star Wars«](//eay.cc/2013/the-story-of-a-boy-a-girl-and-a-universe/) _gefunden_ wurde, hat man nun auch den ersten Teaser für »The Empire Strikes Back« [bei YouTube](https://www.youtube.com/watch?v=omcxaMEGha0) veröffentlicht. ((Oben ist aber [eine qualitativ bessere Version](http://www.youtube.com/watch?v=S_4QAVa9K_k) eingebunden, die auch schon seit drei Jahren online ist.)) Bemerkenswert dabei: Hier wird noch keinerlei Filmmaterial gezeigt wird, sondern lediglich die Concept Art von [Ralph McQuarrie](https://en.wikipedia.org/wiki/Ralph_McQuarrie) und Fotos der Figuren. Schönes Zeitzeugnis.
 

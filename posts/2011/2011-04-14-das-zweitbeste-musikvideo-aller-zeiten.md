@@ -17,6 +17,6 @@ meta:
   - yourls_shorturl: "https://eay.li/173"
 ---
 
-\[youtube id="qdRaf3-OEh4"\]
+[youtube id="qdRaf3-OEh4"]
 
 Die Nummer Eins ist natürlich nach wie vor und für immer [dieses hier](//eay.cc/2010/das-beste-musikvideo-aller-zeiten/).

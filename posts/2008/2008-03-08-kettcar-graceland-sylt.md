@@ -19,7 +19,7 @@ meta:
 
 [![](/uploads/2008/kettcargraceland.jpg)](http://www.amazon.de/exec/obidos/ASIN/B0013LTUWE/eayznet-21) [![](/uploads/2008/kettcarsylt.jpg)](http://www.amazon.de/exec/obidos/ASIN/B0014G00HW/eayznet-21)
 
-Kettcar, seit dem [28\. Oktober 2002](http://de.wikipedia.org/wiki/Du_und_wieviel_von_deinen_Freunden) meine deutschsprachige Lieblingsband aus Hamburg, sind zurück. Am Donnerstag auf dem Nachhauseweg von Johann König (den ich euch hiermit herzlichst empfehlen möchte!) habe ich bereits die neue Single "Graceland" gehört, die [am 28. März erscheint](http://www.amazon.de/exec/obidos/ASIN/B0013LTUWE/eayznet-21) und halblegal schon mal [bei YouTube](http://youtube.com/watch?v=f7EY2u9lMiU) angehört werden kann.
+Kettcar, seit dem [28. Oktober 2002](http://de.wikipedia.org/wiki/Du_und_wieviel_von_deinen_Freunden) meine deutschsprachige Lieblingsband aus Hamburg, sind zurück. Am Donnerstag auf dem Nachhauseweg von Johann König (den ich euch hiermit herzlichst empfehlen möchte!) habe ich bereits die neue Single "Graceland" gehört, die [am 28. März erscheint](http://www.amazon.de/exec/obidos/ASIN/B0013LTUWE/eayznet-21) und halblegal schon mal [bei YouTube](http://youtube.com/watch?v=f7EY2u9lMiU) angehört werden kann.
 
 > Das ist Graceland, Baby, keiner wird erwachsen Die kleinen dicken Kinder auf der Suche nach Kuchen
 

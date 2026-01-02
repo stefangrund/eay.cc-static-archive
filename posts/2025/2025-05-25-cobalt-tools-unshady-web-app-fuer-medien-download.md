@@ -26,7 +26,7 @@ meta:
   - linked_list_og-image: "https://eay.cc/wordpress/uploads/og-cache/d6169a6223924d75ecc5cdd393b4699c_upload.webp"
 ---
 
-> cobalt helps you save anything from your favorite websites \[like YouTube, TikTok, Instagram or X\]: video, audio, photos or gifs. just paste the link and you’re ready to rock!
+> cobalt helps you save anything from your favorite websites [like YouTube, TikTok, Instagram or X]: video, audio, photos or gifs. just paste the link and you’re ready to rock!
 > 
 > no ads, trackers, paywalls, or other nonsense. just a convenient web app that works anywhere, whenever you need it.
 

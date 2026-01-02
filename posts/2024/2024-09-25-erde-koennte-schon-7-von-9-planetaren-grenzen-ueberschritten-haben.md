@@ -24,8 +24,8 @@ meta:
   - linked_list_og-image: "https://eay.cc/wordpress/uploads/og-cache/3d642b69bb9615d4748a4792829081ef.webp"
 ---
 
-> 2009 haben Forscher des Stockholm Resilience Centre [das Konzept der planetaren Grenzen veröffentlicht](https://www.stockholmresilience.org/research/planetary-boundaries.html) \[_Anmerkung: Link von mir ergänzt_\]. Dabei wurden ökologische Belastungsgrenzen für 9 Bereiche definiert.
+> 2009 haben Forscher des Stockholm Resilience Centre [das Konzept der planetaren Grenzen veröffentlicht](https://www.stockholmresilience.org/research/planetary-boundaries.html) [_Anmerkung: Link von mir ergänzt_]. Dabei wurden ökologische Belastungsgrenzen für 9 Bereiche definiert.
 
-> 6 von 9 dieser Grenzen sind bereits überschritten: Klimawandel, Biogeochemische Kreisläufe, Süßwasserverbrauch, Landnutzungsänderung, Unversehrtheit der Biosphäre und Einbringung neuartiger Substanzen. Laut einer [aktuellen Studie des Potsdam-Instituts für Klimafolgenforschung (PIK)](https://www.pik-potsdam.de/de/aktuelles/nachrichten/erster-planetarer-gesundheitscheck-erde-ueberschreitet-sichere-grenzen), könnte jetzt auch Grenze Nummer 7 gefallen sein. \[…\] Dabei handelt es sich um die Versauerung der Ozeane.
+> 6 von 9 dieser Grenzen sind bereits überschritten: Klimawandel, Biogeochemische Kreisläufe, Süßwasserverbrauch, Landnutzungsänderung, Unversehrtheit der Biosphäre und Einbringung neuartiger Substanzen. Laut einer [aktuellen Studie des Potsdam-Instituts für Klimafolgenforschung (PIK)](https://www.pik-potsdam.de/de/aktuelles/nachrichten/erster-planetarer-gesundheitscheck-erde-ueberschreitet-sichere-grenzen), könnte jetzt auch Grenze Nummer 7 gefallen sein. […] Dabei handelt es sich um die Versauerung der Ozeane.
 
 (via [@teezeh](https://digitalcourage.social/@teezeh/113196754318712284), der jeden Morgen auf Mastodon interessante (Tech-)News posted)

@@ -1,7 +1,7 @@
-const turndown = require('turndown')
+import TurndownService from 'turndown';
 
-function initTurndownService () {
-  const turndownService = new turndown({
+export function initTurndownService () {
+  const turndownService = new TurndownService({
     headingStyle: 'atx',
     bulletListMarker: '-',
     codeBlockStyle: 'fenced'
@@ -50,10 +50,10 @@ function initTurndownService () {
     }
   })
 
-  return turndownService
+  return turndownService;
 }
 
-function getPostContent (post, turndownService, config) {
+export function getPostContent (post, turndownService, config) {
   let content = post.encoded[0]
 
   // insert an empty div element between double line breaks
@@ -73,16 +73,18 @@ function getPostContent (post, turndownService, config) {
   content = content.replace(/(<\/iframe>)/gi, '.$1')
 
   // use turndown to convert HTML to Markdown
-  content = turndownService.turndown(content)
+  content = turndownService.turndown(content);
 
   // clean up extra spaces in list items
-  content = content.replace(/(-|\d+\.) +/g, '$1 ')
+  content = content.replace(/(-|\d+\.) +/g, '$1 ');
 
   // clean up the "." from the iframe hack above
-  content = content.replace(/\.(<\/iframe>)/gi, '$1')
+  content = content.replace(/\.(<\/iframe>)/gi, '$1');
 
-  return content
+  // remove unnecessary backslash escaping
+  // turndown escapes many characters that don't need escaping in standard markdown
+  // we remove backslashes before: parentheses, underscores, asterisks, brackets, dots, hashes, dashes
+  content = content.replace(/\\([()_*\[\].#-])/g, '$1');
+
+  return content;
 }
-
-exports.initTurndownService = initTurndownService
-exports.getPostContent = getPostContent

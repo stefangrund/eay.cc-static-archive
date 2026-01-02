@@ -18,6 +18,6 @@ meta:
 
 [Hank Green](https://twitter.com/hankgreen) von den [vlogbrothers](https://www.youtube.com/user/vlogbrothers) mit einem Überblick der politischen Dekarbonisierungs­maßnahmen, die es weltweit so gibt:
 
-\[youtube id="wcMLFMsIVis"\]
+[youtube id="wcMLFMsIVis"]
 
 > We should act as if this is an emergency, because it is. But part of that is understanding the tools and strategies countries are using to decarbonize and stabilize the climate. This is work that's already being done. We have already decoupled economic growth from the emission of greenhouse gasses which, frankly, was unthinkable just a couple decades ago.

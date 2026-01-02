@@ -39,4 +39,4 @@ meta:
 
 > It is no longer a question of if Apple will sell its own AR glasses, but when.
 
-Ich kann mich dem nur anschließen. Denn wenn es eine Firma schafft, einer totgesagten Produktkategorie ("Glassholes!") nach dem [Google Glass](https://eay.cc/2013/einfuehrung-in-google-glass/)\-Disaster nochmal leben einzuhauchen, dann ist es wohl Apple. Persönlich würde ich die Brillenära zwar gerne überspringen und gleich [smarte Kontaktlinsen](https://eay.cc/2012/project-glass-und-die-contactlinsen-der-zukunft/) einsetzen, aber da muss ich mich wohl weiterhin gedulden.
+Ich kann mich dem nur anschließen. Denn wenn es eine Firma schafft, einer totgesagten Produktkategorie ("Glassholes!") nach dem [Google Glass](https://eay.cc/2013/einfuehrung-in-google-glass/)-Disaster nochmal leben einzuhauchen, dann ist es wohl Apple. Persönlich würde ich die Brillenära zwar gerne überspringen und gleich [smarte Kontaktlinsen](https://eay.cc/2012/project-glass-und-die-contactlinsen-der-zukunft/) einsetzen, aber da muss ich mich wohl weiterhin gedulden.

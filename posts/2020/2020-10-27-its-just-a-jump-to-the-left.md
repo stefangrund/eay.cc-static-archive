@@ -21,6 +21,6 @@ meta:
 
 > ...and not a step to the Right
 
-\[youtube id="6a7j6DUD5Gc"\]
+[youtube id="6a7j6DUD5Gc"]
 
 Pünktlich eine Woche vor der US-Wahl veröffentlichen Tenacious D unter dem Motto "Rock-y the Vote" ein leicht angepasstes Cover von "Time Warp", dem Hit aus der »[Rocky Horror Picture Show](https://de.wikipedia.org/wiki/The_Rocky_Horror_Picture_Show)«, featuring Cameos von u.a. Susan Sarandon, Mayor Pete Buttigieg und Senatorin Elizabeth Warren.

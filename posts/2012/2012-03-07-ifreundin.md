@@ -21,4 +21,4 @@ Am Wochenende waren wir bei [Nightwash Live](http://www.nightwash.de/nightwash/l
 
 Jedenfalls hat einer der Comedians, nämlich [Michael Krebs](http://www.michaelkrebs.de/), die passende Hymne auf einen Tag wie heute geschrieben, an dem die ganze technikinteressierte Welt nach Cupertino schaut. Der Song heißt "Meine Freundin sollte von Apple sein" und zur Einstimmung auf die heute zu erwartende iPad 3-Vorstellung will ich euch den nicht vorenthalten (und wenn wir schon dabei sind: "[Das Mädchen von der jungen Union](http://www.youtube.com/watch?v=mA4y3kNMb_k)" ist noch nen Ticken besser, wie ich finde).
 
-\[youtube id="fH0z0MSv5YE"\]
+[youtube id="fH0z0MSv5YE"]

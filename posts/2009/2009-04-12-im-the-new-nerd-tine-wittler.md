@@ -17,7 +17,7 @@ meta:
   - yourls_shorturl: "https://eay.li/e8"
 ---
 
-Willkommen zurück bei eayz.net, _dem_ Fachblog für [über-nerdige Einrichtungsgegenstände](//eay.cc/tag/einrichtung/). Um die hiesige Leserschaft mit überaus aktueller Aktualität aus den Latschen zu hauen, [unterbricht](http://twitter.com/Eay/status/1500313456) meine großmütige Wenigkeit schon mal gerne ihren samstagnächtlichen, mehr als nötigen Schlaf, damit ihr euer Haupt demnächst auf Alt-Ctrl-Del-Kissen niederlegen könnt. Na, wenn das mal kein Service ist (den ihr selbstredend \_nirgendwo\_ anders bekommt)!
+Willkommen zurück bei eayz.net, _dem_ Fachblog für [über-nerdige Einrichtungsgegenstände](//eay.cc/tag/einrichtung/). Um die hiesige Leserschaft mit überaus aktueller Aktualität aus den Latschen zu hauen, [unterbricht](http://twitter.com/Eay/status/1500313456) meine großmütige Wenigkeit schon mal gerne ihren samstagnächtlichen, mehr als nötigen Schlaf, damit ihr euer Haupt demnächst auf Alt-Ctrl-Del-Kissen niederlegen könnt. Na, wenn das mal kein Service ist (den ihr selbstredend _nirgendwo_ anders bekommt)!
 
 ![](/uploads/2009/altctrldelkissen.jpg) [Hier](http://www.etsy.com/view_listing.php?listing_id=23153648) könnt ihr die Affengriff-Kissen erstehen, sofern sie denn wieder angeboten werden. ([via](http://www.feingut.de/2009/04/11/reboot-your-livingroom/)) Und wenn es das nicht ist, dann weiß ich es auch nicht und ihr eventuell abgeschleppte Frauen direkt an der Haustür auf unseren und - blickt der Wahrheit ins Auge! - auch euren abseitigen, für Normalsterbliche nicht wirklich greifbaren und daher fälschlicherweise vielleicht sogar bemitleideten Humor, aufmerksam machen wollt, dann einfach direkt diese Matte vor die Tür gelegt:
 

@@ -25,4 +25,4 @@ meta:
   - linked_list_og-image: "https://eay.cc/wordpress/uploads/og-cache/e7065bed91aad054313a69e795b4d62f.webp"
 ---
 
-Überbleibsel aus der letzten Woche: Die zweite Season für _everybody's favorite handheld with a crank_ [wurde angekündigt](https://youtube.com/watch?v=H4faUwfDw5o), kommt am 29. Mai und enthält 12 Spiele, von denen 6 Wochen lang jeweils 2 veröffentlicht werden. Kostenpunkt: 39 US-Dollar. \*katsching\*
+Überbleibsel aus der letzten Woche: Die zweite Season für _everybody's favorite handheld with a crank_ [wurde angekündigt](https://youtube.com/watch?v=H4faUwfDw5o), kommt am 29. Mai und enthält 12 Spiele, von denen 6 Wochen lang jeweils 2 veröffentlicht werden. Kostenpunkt: 39 US-Dollar. *katsching*

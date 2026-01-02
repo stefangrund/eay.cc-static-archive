@@ -25,4 +25,4 @@ meta:
   - linked_list_og-image: "https://eay.cc/wordpress/uploads/og-cache/0eea3d67b72fda3ec00e790c167ad0ac.webp"
 ---
 
-Ich habe das Gespräch von [ben\_](https://anmutunddemut.de/) und [Marc](https://marc.tv/) in dessen [Kunstpixel-Podcast](https://kunstpixel.de/) sehr genossen, in dem die beiden darüber reden, was Bloggen nach rund 20 Jahren für sie (immer noch) ausmacht.
+Ich habe das Gespräch von [ben_](https://anmutunddemut.de/) und [Marc](https://marc.tv/) in dessen [Kunstpixel-Podcast](https://kunstpixel.de/) sehr genossen, in dem die beiden darüber reden, was Bloggen nach rund 20 Jahren für sie (immer noch) ausmacht.

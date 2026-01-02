@@ -24,4 +24,4 @@ Ich bin ja _leider_ im Besitz eines integrierten Navigationsgerätes und greife 
 
 Dass es aber durchaus anstrengend sein kann, den alten Jedi-Kauz zu solchen Wegbeschreibungen zu bewegen, beweist das folgende, sehr sehenswerte 'Behind the Scenes'-Werbefilmchen. Das ganze gibt's [auch mit Darth Vader](http://www.youtube.com/watch?v=2ljFfL-mL70) ("Is there any way, you could breath a little quieter?"), was alleine aufgrund der Tatsache, dass er darin den Imperial March trällert, mindestens genauso sehenswert ist. (via [Zeugs & Gedöngs](http://www.zeugsundgedoens.de/index.php/2010/07/09/one-moment-throat-i-must-clear/))
 
-\[youtube id="FdcJVuylmsM"\]
+[youtube id="FdcJVuylmsM"]

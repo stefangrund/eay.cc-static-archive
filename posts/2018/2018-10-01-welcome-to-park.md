@@ -19,7 +19,7 @@ meta:
 
 Die berümte "Welcome to Jurassic Park"-Szene ohne Dinosaurier:
 
-\[youtube id="zsMpFb1CNRI"\]
+[youtube id="zsMpFb1CNRI"]
 
 > We have such beautiful attractions as: Field, Bird, Jeep w/ Logo and Jeff Goldblum
 

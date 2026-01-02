@@ -17,4 +17,4 @@ meta:
   - yourls_shorturl: "https://eay.li/2wa"
 ---
 
-\[youtube id="U1mlCPMYtPk"\]
+[youtube id="U1mlCPMYtPk"]

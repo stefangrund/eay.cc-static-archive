@@ -26,6 +26,6 @@ Jahrelang ([wirklich!](http://eay.cc/blog/2005/10/trailer_zum_eay.shtml)) habe i
 
 ![](/uploads/2009/chaseandmichael.jpg)
 
-\[audio src="https://eay.cc/uploads/2009/podcast01.mp3"\]
+[audio src="https://eay.cc/uploads/2009/podcast01.mp3"]
 
 Demnächst mehr (und dann erklärt Limpi auch, wer James Chase und Michael sind)! Bis dahin dürft ihr uns gerne in den Kommentaren zu der gelungenen Sendung, und mir zu meiner Lache gratulieren. Themenvorschläge für kommende Podcasts sind auch sehr willkommen!

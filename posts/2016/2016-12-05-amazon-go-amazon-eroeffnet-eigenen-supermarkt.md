@@ -21,6 +21,6 @@ meta:
 
 Amazon eröffnet 2017 in Seattle einen eigenen Supermarkt – der Clou dabei: Der Laden ist mit einer "Just walk out"-Technologie ausgestattet, die es über Tracking-Kameras und Sensoren ermöglicht, einzukaufen ohne das man anschließend an einer Kasse halt machen muss. Beim Verlassen wird einfach per Amazon-Konto bezahlt.
 
-\[youtube id="NrmMk1Myrxc"\]
+[youtube id="NrmMk1Myrxc"]
 
 Datenschutztechnisch ein Albtraum ("Der Kerl kauft ja nur Chips... Und bewegt sich laut Fitbit auch gar nicht genug... Kommt lasst uns seine Krankenversicherung hochsetzen!"), aber sehr cool und sicherlich eine echte Erleichterung im Alltag.

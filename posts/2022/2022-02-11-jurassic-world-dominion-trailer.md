@@ -23,6 +23,6 @@ meta:
 
 Nach [dem Prolog](https://eay.cc/2021/jurassic-world-dominion-the-prologue/) hier nun der erste Trailer zum großen Jurassic World-Finale:
 
-\[youtube id="UtxAPXT4174"\]
+[youtube id="UtxAPXT4174"]
 
 Und was soll ich sagen? Das sieht nach all dem aus, was ich mir seit 1993 wünsche! Am 9. Juni werde ich also wieder 8 Jahre alt sein.

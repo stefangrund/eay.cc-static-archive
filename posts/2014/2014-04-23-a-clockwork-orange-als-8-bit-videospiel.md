@@ -20,6 +20,6 @@ meta:
   - yourls_shorturl: "https://eay.li/2ev"
 ---
 
-\[youtube id="miqkqJJtg3s"\]
+[youtube id="miqkqJJtg3s"]
 
 [Hier eine Playlist](http://youtube.com/playlist?list=PL1AXWu-gGX6LNsfQ-KkeGPxL76CFONTom) mit weiteren 8-bit-isierten™ Filmen wie »The Shining«, »Hunger Games«, »Blade Runner«, »Finding Nemo« und »Fight Club«. Leider alles nur Videos und keine tatsächlich spielbaren Oldschool-Filmkonvertierungen. ;)

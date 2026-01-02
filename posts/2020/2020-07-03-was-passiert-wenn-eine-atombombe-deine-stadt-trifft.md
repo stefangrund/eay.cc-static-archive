@@ -20,7 +20,7 @@ meta:
   - geo_public: "1"
 ---
 
-\[youtube id="CRgJHTmBGOE"\]
+[youtube id="CRgJHTmBGOE"]
 
 > Wir haben nachgeforscht, was wirklich passieren würde, wenn heute eine Atomwaffe in einer Großstadt detonierte. Kein Atomkrieg – nur eine einzige Explosion.
 

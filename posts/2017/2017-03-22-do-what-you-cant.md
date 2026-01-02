@@ -18,6 +18,6 @@ meta:
   - yourls_shorturl: "https://eay.li/2x5"
 ---
 
-\[youtube id="jG7dSXcfVqE"\]
+[youtube id="jG7dSXcfVqE"]
 
 > And never forget: You don't have to listen to anyone. Because in this new world no one knows anything.

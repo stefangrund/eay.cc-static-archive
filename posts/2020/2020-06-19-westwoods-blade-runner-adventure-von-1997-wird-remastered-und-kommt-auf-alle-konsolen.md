@@ -22,6 +22,6 @@ Eine Meldung die im März vollkommen an mir vorbei gegangen ist (call it "Versag
 
 > [Nightdive Studios](https://www.nightdivestudios.com/), known for restoring classic video games such as »System Shock« and »Turok: Dinosaur Hunter«, has partnered with production company Alcon Entertainment to restore the 1997 point-and-click adventure title Blade Runner for PlayStation 4, Xbox One and Nintendo Switch, as well as a PC version through online storefront Steam.
 
-Großartige Neuigkeiten, nachdem Ende 2019 bereits nach Jahren der Restaurationsarbeit durch die [ScummVM](https://www.scummvm.org/)\-Community und Lizenzschacherei durch GOG [das Original bei GOG](https://www.gog.com/game/blade_runner) für Windows, Mac und Linux erschienen ist. Etwas, das dadurch, dass der Source Code des Spiels als verloren galt, lange für unmöglich gehalten wurde.
+Großartige Neuigkeiten, nachdem Ende 2019 bereits nach Jahren der Restaurationsarbeit durch die [ScummVM](https://www.scummvm.org/)-Community und Lizenzschacherei durch GOG [das Original bei GOG](https://www.gog.com/game/blade_runner) für Windows, Mac und Linux erschienen ist. Etwas, das dadurch, dass der Source Code des Spiels als verloren galt, lange für unmöglich gehalten wurde.
 
 Mit Nightdives »Blade Runner: Enhanced Edition«, die im Laufe des Jahres erscheinen soll, kann ich dann eines [meiner All-Time-Top-Ten-Games](https://eay.cc/2017/blade-runner-the-game/) endlich auch auf der Couch wiederentdecken (ich wähle die Switch-Version). Sehr cool.

@@ -28,7 +28,7 @@ meta:
 
 Schöne Anekdote vom vielleicht ersten Software-Feature, das – von Menschen – nur deswegen entwickelt wurde, weil ChatGPT behauptet hat, dass es das gibt:
 
-> Turns out ChatGPT is telling people to go to [Soundslice](https://www.soundslice.com/sheet-music-scanner/), create an account and import [ASCII tab](https://en.wikipedia.org/wiki/ASCII_tab?wprov=sfti1) in order to hear the audio playback. \[…\]
+> Turns out ChatGPT is telling people to go to [Soundslice](https://www.soundslice.com/sheet-music-scanner/), create an account and import [ASCII tab](https://en.wikipedia.org/wiki/ASCII_tab?wprov=sfti1) in order to hear the audio playback. […]
 > 
 > Problem is, we didn’t actually have that feature. We’ve never supported ASCII tab; ChatGPT was outright lying to people. And making us look bad in the process, setting false expectations about our service.
 

@@ -20,7 +20,7 @@ meta:
 
 Ein Blogeintrag über ein Projekt, das seit ca. zehn Jahren kaum noch genutzt wird, einfach weil ich es mag, wenn Projekte vernünftig beendet werden.
 
-\---
+---
 
 Beim Ausmisten meines Webservers ist mir dieser Tage ein altes, kleines Projekt untergekommen, ein Zeitzeugnis aus der langweiligen, grauen Prä-Smartphone-Ära, das ich seit Jahren nicht mehr auf dem Schirm hatte: "DS Comics", das es dem comicbegeisterten Nintendo-DS-Besitzer 2006 ermöglichen sollte, auch jenseits des Desktop-Rechners, auf jedermanns liebster 2006er Handheld-Konsole Online-Comics zu lesen.
 

@@ -26,6 +26,6 @@ meta:
   - linked_list_og-image: "https://eay.cc/wordpress/uploads/og-cache/302ce2d0e9d9f461818a97b73ed3024d.webp"
 ---
 
-> \[Paul Ford's\] Dad spent decades writing weird, experimental literature. His last wish: Upload it all to the Internet Archive.
+> [Paul Ford's] Dad spent decades writing weird, experimental literature. His last wish: Upload it all to the Internet Archive.
 
 > In time, we all end up in a folder somewhere, if we’re lucky.

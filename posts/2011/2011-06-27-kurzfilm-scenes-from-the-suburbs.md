@@ -22,6 +22,6 @@ Mit [Arcade Fire](http://de.wikipedia.org/wiki/Arcade_Fire) konnte ich bisher ni
 
 In diesem Sinne: [Hier bei MUBI könnt ihr euch »Scenes from the Suburbs« zur Zeit kostenlos ansehen](http://mubi.com/films/scenes-from-the-suburbs/) - was ihr unbedingt tun solltet. Hier nochmal der Trailer:
 
-\[vimeo id="25212727"\]
+[vimeo id="25212727"]
 
 Ach ja: Die Musik war auch toll. Vielleicht sollte ich mir Arcade Fire nochmal geben. (via [Nerdcore](http://www.crackajack.de/2011/06/27/spike-jonzes-arcade-fire-short-%E2%80%9Escenes-from-the-suburbs%E2%80%9C-online/) und [Cinematze](http://www.cinematze.de/2011/06/27/scenes-from-the-suburbs-arcade-fire-x-spike-jonze-kurzfilm-komplett-online/))

@@ -19,4 +19,4 @@ meta:
   - linked_list_url: "http://www.heise.de/newsticker/meldung/Google-Zulassung-fuer-autonome-Fahrzeuge-1569888.html"
 ---
 
-Da ist sie wieder, die Zukunft. (via [@kindermann\_r](http://twitter.com/kindermann_r))
+Da ist sie wieder, die Zukunft. (via [@kindermann_r](http://twitter.com/kindermann_r))

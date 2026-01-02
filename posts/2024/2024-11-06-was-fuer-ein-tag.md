@@ -26,7 +26,7 @@ meta:
 
 ![](https://eay.cc/uploads/2024/what-a-week.png)
 
-Nie war das [What a Week, Huh?](https://knowyourmeme.com/memes/what-a-week-huh)\-Meme passender. Die Nachrichten des Tages:
+Nie war das [What a Week, Huh?](https://knowyourmeme.com/memes/what-a-week-huh)-Meme passender. Die Nachrichten des Tages:
 
 - Kamala Harris verliert die US-Wahl. [Donald Trump wird nach Biden erneut zum US-Präsident gewählt](https://www.tagesschau.de/ausland/uswahl/donald-trump-wahlsieg-100.html). Auch darüber hinaus gewinnt die Republikanische Partei alle Mehrheiten.
 - Die hiesige Ampel-Regierung aus SPD, Grünen und FDP ist – wie seit Wochen und Monaten gemunkelt – heute aufgekündigt worden. [Bundeskanzler Olaf Scholz hat Finanzminister Christian Lindner entlassen und die Vertrauensfrage für Januar angekündigt](https://www.tagesschau.de/inland/innenpolitik/vertrauensfrage-scholz-100.html).

@@ -20,4 +20,4 @@ meta:
 
 Und hat sich zur Feier des Tages dieses Video gegönnt, das sehr nett die Evolution von Google und Logo zeigt:
 
-\[youtube id="olFEpeMwgHk"\]
+[youtube id="olFEpeMwgHk"]

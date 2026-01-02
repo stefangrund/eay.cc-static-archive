@@ -23,4 +23,4 @@ Wann immer Kinder in der Schule über internationalen Terrorismus aufgeklärt we
 
 ![](/uploads/2008/chuckcomic.jpg) Meine Damen und Herren, mit der gerade beschriebenen Szene befinden wir uns mitten im ersten von vier Abenteuern, denen sich Chuck Norris im Rahmen seiner "Chuck Norris and the Karate Kommandos"-Comics stellen musste. Diese Meisterwerke der Comickunst erschienen 1986 als Beiwerk zur gleichnamigen [Chuck Norris-Trickserie](http://en.wikipedia.org/wiki/Karate_Kommandos) und triefen nur so vor Eigenlob und übertriebenem Chuck-Kult. Freunde des schlechten Geschmacks sollten sich unbedingt [ein paar Panels](http://www.misterkitty.org/extras/stupidcovers/stupidcomics102.html) daraus geben oder noch besser alle vier Hefte [hier herrunterladen](http://the-manchester-morgue.blogspot.com/2008/09/chuck-norris-karate-kommandos-its-not.html) und sich mehr oder weniger genüsslich bis zum Ende durchkämpfen. ([via](http://www.nerdcore.de/wp/2008/09/09/chuck-norris-karate-commando-comics/))
 
-> \- "Man, Chuck Norris is one bad dude!" - "Yeah, and what an ass!"
+> - "Man, Chuck Norris is one bad dude!" - "Yeah, and what an ass!"

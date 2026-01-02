@@ -20,6 +20,6 @@ meta:
 
 Tolles [Portrait über Rob Wiethoff](http://www.polygon.com/features/2013/6/19/4406600/small-town-man-John-Marston), der im großartigen »[Red Dead Redemption](http://www.rockstargames.com/reddeadredemption/de_de)« die Hauptfigur John Marston gespielt und gesprochen hat, und der, nachdem er sich urplötzlich inmitten Hollywoods wiederfand, der Film- und Spieleindustrie den Rücken gekehrt hat und zurück in sein kleines Heimatstädtchen gezogen ist.
 
-\[youtube id="\_NuYx8oP\_S8"\]
+[youtube id="_NuYx8oP_S8"]
 
 (via [Superlevel](http://superlevel.de/spielkram/what-happened-to-john-marston/))

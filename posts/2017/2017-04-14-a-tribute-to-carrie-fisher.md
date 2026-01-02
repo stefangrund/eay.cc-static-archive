@@ -17,6 +17,6 @@ meta:
   - yourls_shorturl: "https://eay.li/2xl"
 ---
 
-\[youtube id="sE99le5FBrY"\]
+[youtube id="sE99le5FBrY"]
 
 Sehr schönes Tribute-Video, das auf der gerade stattfindenden [Star Wars Celebration](https://en.wikipedia.org/wiki/Star_Wars_Celebration) in Orlando gezeigt wurde. (via [PewPewPew](http://www.pewpewpew.de/2017/04/13/swc-17-news-40th-birthday-panel-carrie-fisher-tribute/))

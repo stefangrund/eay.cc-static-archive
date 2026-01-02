@@ -21,4 +21,4 @@ meta:
 
 Weil ja heute Muttertag ist (na, dran gedacht?), habe ich mal folgenden audiovisuellen Verhaltenshinweis aus unseren heiligen [Mr. T Archiven](http://www.google.com/search?q=site:eayz.net&q=%22mr.+t%22) ausgegraben: Mr. T sprechgesingt, dass man seine Mutter gut behandeln soll und trägt dabei zwielichtige Army-Hotpants. "Mother, there is no other." Gibt's [bei YouTube](http://www.youtube.com/watch?v=IPZ7MRxQBRY) oder hier nach dem Klick.
 
-\[youtube id="IPZ7MRxQBRY"\]
+[youtube id="IPZ7MRxQBRY"]

@@ -20,6 +20,6 @@ meta:
   - yourls_shorturl: "https://eay.li/27l"
 ---
 
-> Egal, ob eine absolute Mehrheit für die Union oder eine große Koalition raus kommt: Das Ergebnis ist ein schwarzer Tag für Netzpolitik und unsere Grundrechte. \[...\] Die nächsten vier Jahre werden die Netzpolitik in Deutschland verändern. Im Moment sieht es nicht so aus als ob sich irgendwas bessern wird – ganz im Gegenteil.
+> Egal, ob eine absolute Mehrheit für die Union oder eine große Koalition raus kommt: Das Ergebnis ist ein schwarzer Tag für Netzpolitik und unsere Grundrechte. [...] Die nächsten vier Jahre werden die Netzpolitik in Deutschland verändern. Im Moment sieht es nicht so aus als ob sich irgendwas bessern wird – ganz im Gegenteil.
 
 Ich habe es schon [bei Twitter gesagt](https://twitter.com/eay/status/381828326136225792): Ich fürchte, bei einer absoluten Mehrheit der Union werden wir was Netzpolitik angeht, noch schmerzlich die Pappnasen der FDP vermissen.

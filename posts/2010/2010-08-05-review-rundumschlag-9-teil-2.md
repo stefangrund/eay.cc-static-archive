@@ -28,7 +28,7 @@ meta:
 
 [**Date Night**](http://www.imdb.com/title/tt1279935/): Tina Fey und Steve Carrell als durchschnittliches Ehepaar, das sich plötzlich inmitten verbrecherischer Machenschaften wiederfindet. Zwar ist der Ausgang dieser Verwechselungskomödie nicht besonders innovativ, aber zu sehen was Fey und Carell hieraus machen, ist einfach zu gut. Die Chemie zwischen den beiden stimmt - hoffentlich also der Auftakt vieler weiterer gemeinsamer Projekte. ![3/5](/uploads/pages/emdb/s_3.gif)
 
-[**Zu scharf um wahr zu sein**](http://www.imdb.com/title/tt0815236/): Durchschnittstyp bekommt “ne glatte 10” zur Freundin - und schon gibt's genug Raum für die aus etlichen [Apatow](//eay.cc/tag/judd-apatow/)\-Komödien bekannten Hau-drauf-Witzchen. Letztendlich ist das gut, aber leider doch nicht so gut wie eben bei Judd Apatow (und seinem Dunstkreis). ![2,5/5](/uploads/pages/emdb/s_2-5.gif)
+[**Zu scharf um wahr zu sein**](http://www.imdb.com/title/tt0815236/): Durchschnittstyp bekommt “ne glatte 10” zur Freundin - und schon gibt's genug Raum für die aus etlichen [Apatow](//eay.cc/tag/judd-apatow/)-Komödien bekannten Hau-drauf-Witzchen. Letztendlich ist das gut, aber leider doch nicht so gut wie eben bei Judd Apatow (und seinem Dunstkreis). ![2,5/5](/uploads/pages/emdb/s_2-5.gif)
 
 [**Kick-Ass**](http://www.imdb.com/title/tt1250777/): Als ich die Comics in einem Rutsch gelesen habe, war ich vollkommen begeistert. Doch das Mark Millars 6-teilige Superhelden-Story auch derart auf der Leinwand rocken würde, wagte ich nicht zu glauben. Zwar geht der Film zur Halbzeit einen anderen Weg als das Comic, genial ist's trotzdem. Zu meiner zweiten Sichtung, rezensiere ich beides nochmal ausführlicher, versprochen. ![5/5](/uploads/pages/emdb/s_5.gif)
 

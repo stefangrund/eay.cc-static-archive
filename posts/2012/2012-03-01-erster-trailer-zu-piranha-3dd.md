@@ -20,6 +20,6 @@ meta:
 
 Vergesset den [zweiten Avengers-Trailer](http://www.youtube.com/watch?&v=NPoHPNeU9fc)! Das erste Bewegtbild zu »Piranha 3DD« ist da - und sieht genauso wie der erste aus. Aber das wollten wir ja, nicht?
 
-\[youtube id="\_XIyJO6vf3c"\]
+[youtube id="_XIyJO6vf3c"]
 
 (via [Pewpewpew](http://www.pewpewpew.de/2012/02/29/lets-all-get-wet-and-wild-trailer-zu-piranha-3dd/))

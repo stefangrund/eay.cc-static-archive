@@ -23,10 +23,10 @@ meta:
 
 Wenn wir mal kurz darüber hinwegsehen, dass das der Präsident des Landes ist, das uns die [digitale Totalüberwachung](//eay.cc/tag/ueberwachung) gebracht hat, und uns stattdessen an den Friedensnobelpreisträger und Siegessäulenredner erinnern, dann ist dieses [von Sascha](http://www.pewpewpew.de/2014/02/27/obama-were-building-iron-man/) aufgetane Video von einer Industrietagung im Weißen Haus eigentlich ziemlich lustig:
 
-\[youtube id="77pnVFLkUjM"\]
+[youtube id="77pnVFLkUjM"]
 
 Und wo wir schon mal bei amerikanischer Politik und lustig sind, hier noch ein Video von einer ziemlich amüsanten, ernsten Rede von Schauspieler Seth Rogen vor einem US-Senat zum Thema Alzheimer:
 
-\[youtube id="UHqx3-mfHAY"\]
+[youtube id="UHqx3-mfHAY"]
 
 Wenn man bedenkt, dass deutsche Politiker [maximal singen](http://youtube.com/watch?v=kPvyi0yO_mw) um lustig zu sein sein zu wollen, ist das eine wahre Wohltat.

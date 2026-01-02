@@ -23,6 +23,6 @@ meta:
 
 ![Screenshot der One Million Screenshots-Homepage](https://eay.cc/uploads/2024/one-million-screenshots.png)
 
-> We rendered over 1 million of the web's top homepages. This is the result. \[…\] It's a collection of 1,048,576 homepage screenshots that you can zoom all the way into. It's a weired and wonderful way to explore the web.
+> We rendered over 1 million of the web's top homepages. This is the result. […] It's a collection of 1,048,576 homepage screenshots that you can zoom all the way into. It's a weired and wonderful way to explore the web.
 
 Gebaut von [urlbox](https://urlbox.com/), einem Service für das API-basierte Erstellen von Website-Screenshots (was es nicht alles gibt!). Natürlich auch mit [der Nr. 949.649](https://onemillionscreenshots.com/eay.cc) der Millionen Top Homepages: dieser kleinen Webpräsenz. 😎

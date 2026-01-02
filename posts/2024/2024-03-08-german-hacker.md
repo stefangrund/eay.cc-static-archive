@@ -24,6 +24,6 @@ meta:
   - _share_on_mastodon_url: "https://eay.social/@eay/112059091218847845"
 ---
 
-> **German Hacker** (\* 30. März 1968 in Erlangen) ist ein deutscher Kommunalpolitiker (SPD). Seit 2008 ist er Erster Bürgermeister von Herzogenaurach.
+> **German Hacker** (* 30. März 1968 in Erlangen) ist ein deutscher Kommunalpolitiker (SPD). Seit 2008 ist er Erster Bürgermeister von Herzogenaurach.
 
 Bester Name. (via [@burgr@chaos.social](https://chaos.social/@burgr/112056127536731676))

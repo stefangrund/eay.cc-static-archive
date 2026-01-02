@@ -23,4 +23,4 @@ meta:
 
 **»Tulsa King« – Staffel 1** – Gangster-Serie mit dem gealterten Sly, der nach 25 Jahren Gefängnis von seiner Mafia-Familie in die Titel gebende Stadt in Oklahoma verbannt wird, wo er sich langsam Crew & Business aufbaut. Klingt nicht nur, aber allen voran für Stallone-Fans charmant und genau nach dem, was man sich von einem höher semestrigen Actionstar wünscht.
 
-Und das passt erfreulicherweise wie die sprich­wörtliche Faust auf's Auge, während es Platz für tolle Figuren neben Stallone lässt. Zu Beginn (wie Sly) etwas schwerfällig, nimmt es später immer weiter Fahrt auf. Positive Überraschung, freue mich auf Staffel 2! \[rating value=8 inline=true\]
+Und das passt erfreulicherweise wie die sprich­wörtliche Faust auf's Auge, während es Platz für tolle Figuren neben Stallone lässt. Zu Beginn (wie Sly) etwas schwerfällig, nimmt es später immer weiter Fahrt auf. Positive Überraschung, freue mich auf Staffel 2! [rating value=8 inline=true]

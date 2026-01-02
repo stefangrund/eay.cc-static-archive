@@ -17,4 +17,4 @@ meta:
   - linked_list_url: "http://laughingsquid.com/stormtrooper-wooden-lawn-chair/"
 ---
 
-Für [Star Wars](//eay.cc/tag/star-wars/)\-Fanboys mit Garten.
+Für [Star Wars](//eay.cc/tag/star-wars/)-Fanboys mit Garten.

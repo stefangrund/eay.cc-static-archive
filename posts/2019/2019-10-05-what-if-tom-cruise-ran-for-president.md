@@ -21,6 +21,6 @@ meta:
   - geo_public: "1"
 ---
 
-\[youtube id="5Btb8gLy3-E"\]
+[youtube id="5Btb8gLy3-E"]
 
 [Miles Fisher](https://linktr.ee/milesfisher) ist Tom Cruise als US-Präsident­schafts­­kandidat 2020. Inklusive eigener [Kampagnen­webseite](https://tomcruise2020.com/).

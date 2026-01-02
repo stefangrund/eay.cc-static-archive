@@ -31,7 +31,7 @@ meta:
 
 ![](https://eay.cc/uploads/2024/what-a-year-huh.jpg)
 
-Ich wollte mir nach dem [Bloggeburtstag](https://eay.cc/2025/22-jahre/) eigentlich keine zweiwöchige Auszeit vom Bloggen nehmen, aber dann hat mich die Nachrichtenlage dazu bewegt, doch mal den Stecker zu ziehen. Was für mich als Nachrichtenjunkie ((Ich dachte eigentlich, ich sei da nicht auffällig, aber stellt sich heraus, dass nicht jeder Lieblings­nachrichten­moderator\*innen hat, diverse journalistische Abos unterhält und hunderte Subscriptions im Podcatcher & RSS-Reader überblickt.)) echt schwierig ist. Keine Podcasts, keine Nachrichten, keine Talkshows, kein RSS, kaum Social Media. Dazu (zum Glück) genug zu tun, sodass ich mich ablenken konnte, während…
+Ich wollte mir nach dem [Bloggeburtstag](https://eay.cc/2025/22-jahre/) eigentlich keine zweiwöchige Auszeit vom Bloggen nehmen, aber dann hat mich die Nachrichtenlage dazu bewegt, doch mal den Stecker zu ziehen. Was für mich als Nachrichtenjunkie ((Ich dachte eigentlich, ich sei da nicht auffällig, aber stellt sich heraus, dass nicht jeder Lieblings­nachrichten­moderator*innen hat, diverse journalistische Abos unterhält und hunderte Subscriptions im Podcatcher & RSS-Reader überblickt.)) echt schwierig ist. Keine Podcasts, keine Nachrichten, keine Talkshows, kein RSS, kaum Social Media. Dazu (zum Glück) genug zu tun, sodass ich mich ablenken konnte, während…
 
 - Mark Zuckerberg Meta auf Linie mit der neuen US-Regierung bringt – und dabei ein völlig absurdes Verständnis von Maskulinität propagiert,
 - Trump, der 45. US-Präsident, zum neuen 47. US-Präsident inauguriert wird und sein Land gleich mit einer Flut aus menschen- und demokratie­feindlichen Dekreten überzieht,

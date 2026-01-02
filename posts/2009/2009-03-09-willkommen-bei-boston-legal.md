@@ -17,10 +17,10 @@ meta:
   - yourls_shorturl: "https://eay.li/id"
 ---
 
-\[audio src="https://eay.cc/uploads/audio/bl\_302\_xtradieg.mp3"\]
+[audio src="https://eay.cc/uploads/audio/bl_302_xtradieg.mp3"]
 
 Diese grandiosen extradiegtischen Momente, also wenn die Serie ihr eigenes fiktionales Dasein verlässt, wie hier in der zweiten Folge der [dritten Staffel](http://www.amazon.de/exec/obidos/ASIN/B0017MBOC8/eayznet-21), sind einer der Gründe, warum Boston Legal mittlerweile eine meiner absoluten Lieblingsserien geworden ist.
 
-> \- Wir sind die Neuen! - Oh bitte! Um neu zu sein, hätten Sie in der letzten Folge kommen müssen.
+> - Wir sind die Neuen! - Oh bitte! Um neu zu sein, hätten Sie in der letzten Folge kommen müssen.
 
 > Startet die Musik!

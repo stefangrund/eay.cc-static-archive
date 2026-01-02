@@ -18,7 +18,7 @@ meta:
   - yourls_shorturl: "https://eay.li/142"
 ---
 
-\[youtube id="ti8uwMDgBLU"\]
+[youtube id="ti8uwMDgBLU"]
 
 »Alone in the Zone« ist eine die Tschernobyl-Dokumentation der besonderen Art: Anstatt einmal mehr die Chronologie und Hintergründe der Katastrophe aufzuzeigen, möchte [Arkadiusz Podniesinski](http://www.podniesinski.pl/), Regisseur, Kameramann und Film-Crew in einem, einen möglichst realistischen und unverfälschten Eindruck der Zone 25 Jahre nach dem Super-GAU vermitteln. So macht er sich mittels Helmkamera auf und besucht mehr oder weniger bekannte Orte in und um Tschernobyl und sogar die Reaktoren selbst - was nicht ohne Absicht wie ein Ego Shooter in einer postapokalyptischen Schreckensvision aussieht.
 

@@ -34,7 +34,7 @@ Das macht ihren Appell nicht falsch, aber bringt uns nicht weiter (außer natür
 
 Denn generell bleibt Geld ein limitierender Faktor, was Personal Blogs angeht, [wie Matt Birchler richtiger­weise festhält](https://birchtree.me/blog/if-blogging-surges-in-2023-then-thats-one-thing-i-can-thank-elon-for/):
 
-> \[…\] I think there is value in being able to chat in a common space, as well as the cost benefits of being able to post things and not worry about the cost of hosting that stuff. For example, I don't post many videos to this blog because the hosting costs would add up and I don't want to pay that much to host them. And I'm fortunate enough where I can even think about paying for that hosting, for many people it's out of the question.
+> […] I think there is value in being able to chat in a common space, as well as the cost benefits of being able to post things and not worry about the cost of hosting that stuff. For example, I don't post many videos to this blog because the hosting costs would add up and I don't want to pay that much to host them. And I'm fortunate enough where I can even think about paying for that hosting, for many people it's out of the question.
 
 Wenn man auf's Geld gucken muss, sind Bewegtbild­blogs™ jenseits von YouTube und TikTok schlicht­weg nicht zu stemmen. Sobald wir also das Ver­netzungs­problem endgültig gelöst haben (das Fediverse und [Webmentions](https://indieweb.org/Webmention) werden hier die Lösung sein), sollten wir uns dem dezentralen Hosting-Problem widmen. Aber das ist ein Thema für ein anderes mal.
 

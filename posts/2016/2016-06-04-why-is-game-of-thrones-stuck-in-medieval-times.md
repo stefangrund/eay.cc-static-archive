@@ -20,6 +20,6 @@ meta:
   - yourls_shorturl: "https://eay.li/2tz"
 ---
 
-\[youtube id="PDdKmx0PW7s"\]
+[youtube id="PDdKmx0PW7s"]
 
 Achtung, spoilert ein bisschen mit Bildern und Infos aus der aktuellen Folge (6x06). (via [Kottke](http://kottke.org/16/06/why-is-game-of-thrones-stuck-in-medieval-times))

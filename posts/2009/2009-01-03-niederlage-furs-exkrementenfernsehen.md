@@ -20,8 +20,8 @@ meta:
 
 Zudem hat der Käppi-Code natürlich auch sein gutes: mit seiner Hilfe durchblicken wir nun sämtliche Formen dieser dämlichen "Ich lege mir meine Kappe lose auf den Kopf"-Kultur und können Natursekt- und Kaviar-Freunden gekonnt aus dem Weg gehen (oder eben nicht), uns spontan Armdrückpartner suchen und sofort fiese Tokio-Hotel-beim-Sex-Hörer ausmachen.
 
-Das Exkrementenfernsehen sind wir während des Wettstreits zwar nicht losgeworden, aber immerhin haben wir jetzt ein Wort dafür. Und sobald ich frei vom Umzugsstress bin[\*](#umzugsstress), werde ich Asphar mit einem Kasten Reissdorf einen Besuch abstatten und meine Wettschuld bis zur Volltrunkenheit begleichen. Bis dahin: Mind the Käppi-Code!
+Das Exkrementenfernsehen sind wir während des Wettstreits zwar nicht losgeworden, aber immerhin haben wir jetzt ein Wort dafür. Und sobald ich frei vom Umzugsstress bin[*](#umzugsstress), werde ich Asphar mit einem Kasten Reissdorf einen Besuch abstatten und meine Wettschuld bis zur Volltrunkenheit begleichen. Bis dahin: Mind the Käppi-Code!
 
-\[Asphars Siegeseintrag findet ihr [hier](http://so-war-das-damals.de/2009/01/02/sieg-fur-den-kappi-code/).\]
+[Asphars Siegeseintrag findet ihr [hier](http://so-war-das-damals.de/2009/01/02/sieg-fur-den-kappi-code/).]
 
-\* Ich befinde mich gerade im Umzugsstress.
+* Ich befinde mich gerade im Umzugsstress.

@@ -28,7 +28,7 @@ meta:
   - geo_public: "1"
 ---
 
-\[youtube id="ElpvkA-7WWM"\]
+[youtube id="ElpvkA-7WWM"]
 
 > "Ich bin Echsen-Merkel! Ich werde ewig regieren!"
 

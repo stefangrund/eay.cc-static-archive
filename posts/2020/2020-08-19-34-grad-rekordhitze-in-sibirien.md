@@ -23,7 +23,7 @@ meta:
 
 Speaking of [Gesellschaften, die ihren Planeten zerstören](https://eay.cc/2020/status-2020-08-19-0841/):
 
-> 34 Grad im Schatten \[...\]. So hoch kletterte das Thermometer im sibirischen [Werchojansk](https://de.wikipedia.org/wiki/Werchojansk) ((Weiterführende Links in den Quotes von mir und nicht vom Spiegel. Mir ist nach all den Jahren absolut unverständlich, warum Medien immer noch Angst vor Hypertext haben und nicht auf externe, weiterführende Quellen verlinken, wie eben Wikipedia-Artikel zu russischen Kleinstädten oder Websites/Twitter-Accounts von zitierten Personen.)) - dort, wo es zu dieser Jahreszeit normalerweise um die 12 Grad warm ist und wo im Januar bei durchschnittlich minus 49 Grad alles zu Eis erstarrt.
+> 34 Grad im Schatten [...]. So hoch kletterte das Thermometer im sibirischen [Werchojansk](https://de.wikipedia.org/wiki/Werchojansk) ((Weiterführende Links in den Quotes von mir und nicht vom Spiegel. Mir ist nach all den Jahren absolut unverständlich, warum Medien immer noch Angst vor Hypertext haben und nicht auf externe, weiterführende Quellen verlinken, wie eben Wikipedia-Artikel zu russischen Kleinstädten oder Websites/Twitter-Accounts von zitierten Personen.)) - dort, wo es zu dieser Jahreszeit normalerweise um die 12 Grad warm ist und wo im Januar bei durchschnittlich minus 49 Grad alles zu Eis erstarrt.
 
 > Selbst am Polarkreis wurden nie da gewesene Temperaturen gemessen: Im Ort [Chatanga](https://de.wikipedia.org/wiki/Chatanga_(Ort)), für den zu dieser Jahreszeit Tagestemperaturen um null Grad normal sind, waren es am 25. Mai außergewöhnliche 25 Grad. Der vorherige Rekord hatte bei 12 Grad gelegen.
 

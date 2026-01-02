@@ -18,6 +18,6 @@ meta:
   - yourls_shorturl: "https://eay.li/2l4"
 ---
 
-\[youtube id="erLk59H86ww"\]
+[youtube id="erLk59H86ww"]
 
 Tatooine! Stormtrooper! Lustiger Droid! Noch mehr Stormtrooper! X-Wings, die über einen See düsen! Ein Sith! Der Millennium Falke auf Tatooine! Im Gefecht mit TIE-Fightern! Oh ja, das gefällt mir! Habe nur keine Zeit! Morgen übermorgen in drei Tagen [in einem Monat](//eay.cc/2014/the-force-awakens/) mehr dazu!

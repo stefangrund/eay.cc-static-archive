@@ -24,4 +24,4 @@ meta:
 
 Initiiert von [Loren Brichter](https://twitter.com/lorenb), of Tweetie/Twitter/[Letterpress](https://eay.cc/2012/letterpress/) fame. (via [Daring Fireball](https://daringfireball.net/linked/2020/04/01/ragmask))
 
-\* Atem**schutz**masken darf man dieser Tage ja [nicht mehr sagen](https://www.heise.de/make/meldung/Abmahnung-wegen-Schutzmasken-4694669.html).
+* Atem**schutz**masken darf man dieser Tage ja [nicht mehr sagen](https://www.heise.de/make/meldung/Abmahnung-wegen-Schutzmasken-4694669.html).

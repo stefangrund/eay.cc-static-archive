@@ -24,7 +24,7 @@ meta:
 
 > Begleite in dieser kurzen Doku den Citroën-Händler Michael. Und erlebe, wie unsere Frohnatur erstmal sein Lachen wiederfinden musste. Unser neuer Name kam eben nicht bei jedem gut an – zumindest nicht sofort.
 
-\[youtube id="2rA-BSuog7o"\]
+[youtube id="2rA-BSuog7o"]
 
 Als ich klein war, hat mein Vater bei Citroën gearbeitet. Die zutiefst deutsche und vor allem zutiefst kölsche Aussprache als "Zitrön" ist mir daher seit Kindertagen mehr als geläufig. Nur konsequent, dass der französische Automobilhersteller nun zum 100. Firmenjubiläum endlich seine deutschen Kunden adelt und hierzulande konsequenterweise zu Zitrön wird.
 

@@ -26,6 +26,6 @@ Gerade haben wir die zweite Staffel von »[Game of Thrones](http://en.wikipedia.
 
 Wie passend also, dass diese Woche zwei besonders sehenswerte »Game of Thrones«-Fan-Artworks in meinem Feedreader aufgepoppt sind: Zum einen hat nämlich Society6-User [Vanadium](http://society6.com/Vanadium) zu jedem Haus ein passendes und extrem schickes Sports Team-Logo entworfen, zum anderen hat Pixelart-Koryphäe [Doctor Octoroc](http://www.doctoroctoroc.com/), der auch schon für die genialen Verpixelungsfilmchen von [Battlestar Galactica](//eay.cc/2012/battlestar-galactica-the-rpg/) und [Dr. Horrible](//eay.cc/2010/dr-horrible-das-8-bit-musical-videospiel/) verantwortlich war, ein sehr unterhaltsames und sehr spoilerhaltiges Fake-RPG zur zweiten GoT-Staffel gemacht, das ihr euch im folgenden ansehen könnt (das zur ersten Staffel [findet ihr hier](http://www.youtube.com/watch?v=oCruJzlWefE)).
 
-\[[CollegeHumor Direktrpg](http://www.collegehumor.com/video/6791810/game-of-thrones-season-2-rpg)\]
+[[CollegeHumor Direktrpg](http://www.collegehumor.com/video/6791810/game-of-thrones-season-2-rpg)]
 
 Dass es die Sportlogos auch auf Shirts und Hoodies gibt, ist für meinen PayPal-Kontostand jedenfalls nicht sonderlich förderlich. ((Ich denke, es wird Team Lannister - wegen Tyrion, klar.)) (via [Laughing Squid](http://laughingsquid.com/game-of-thrones-sports-logos-by-vanadium/) & [Mister Honk](http://www.misterhonk.de/blog/24185/game-of-thrones-season-2-complete-english-240p-16-bit-mode-7-doctor-octoroc/))

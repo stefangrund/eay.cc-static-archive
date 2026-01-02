@@ -17,6 +17,6 @@ meta:
   - yourls_shorturl: "https://eay.li/2q4"
 ---
 
-\[vimeo id="139911208"\]
+[vimeo id="139911208"]
 
 Selbstgemachtes, bizarres, aber sehr gutes Simpsons-Intro von [Yoann Hervo](http://yoannhervo.tumblr.com/), der daraus eigentlich eine eigene kleine Folge produzieren wollte, woraus aber leider nichts geworden ist. Aber immerhin das! (via [Minds Delight](http://www.mindsdelight.de/2015/09/der-couchgag-von-the-simpsons-auf-vhs-und-richtig-bizarr/))

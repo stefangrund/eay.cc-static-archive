@@ -20,7 +20,7 @@ meta:
 
 Als alter Freund von alten 2D-Point-and-Click-Adventures habe ich damals™ anno 1996 und 97 natürlich auch [Baphomets Fluch](http://de.wikipedia.org/wiki/Baphomets_Fluch) 1 und 2 gespielt, waren es doch im Vergleich zu anderen Adventures endlich mal ernste Krimi-Abenteuer. Das gefiel.
 
-\[audio src="http://www.danielpharos.com/download/DanielPharos.com\_BrokenSword25MainMenu.mp3"\]([Baphoments Fluch 2.5 Theme](http://www.danielpharos.com/download/DanielPharos.com_BrokenSword25MainMenu.mp3))
+[audio src="http://www.danielpharos.com/download/DanielPharos.com_BrokenSword25MainMenu.mp3"]([Baphoments Fluch 2.5 Theme](http://www.danielpharos.com/download/DanielPharos.com_BrokenSword25MainMenu.mp3))
 
 Nachdem sich die Entwickler jedoch mit Teil 3 vom klassischen 2D-Look verabschiedeten, verabschiedete ich mich vom Fluch. Bis eben. Vorgestern ist nämlich [Baphomets Fluch 2.5](http://www.baphometsfluch25.de/) nach über zehn Jahren Entwicklungszeit erschienen. Dabei handelt es sich um einen von Fans produzierten inoffiziellen, aber offiziell abgesegneten Nachfolger zum zweiten Teil.
 

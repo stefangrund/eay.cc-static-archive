@@ -24,6 +24,6 @@ meta:
 
 > The new #ExquisiteGucci campaign envisioned by [Alessandro Michele](https://en.wikipedia.org/wiki/Alessandro_Michele) draws inspiration from a series of iconic films by Stanley Kubrick.
 
-\[youtube id="pk1oThKRxdo"\]
+[youtube id="pk1oThKRxdo"]
 
 “Inspiration” ist hier schon eher untertrieben, aber dennoch sehr fein gemacht und spannend, wie die mehr oder weniger latente Bedrohung aus Kubricks Werk sich auch in diesem Werbespot wiederfindet. (via [Daring Fireball](https://daringfireball.net/linked/2022/08/29/gucci-kubrick))
