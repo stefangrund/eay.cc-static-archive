@@ -5,8 +5,81 @@ import path from 'path';
 import * as shared from './_shared.js';
 
 export async function writeFilesPromise (posts, config) {
+  await cleanupDeletedPostsPromise(posts, config)
   await writeMarkdownFilesPromise(posts, config)
   await writeImageFilesPromise(posts, config)
+}
+
+async function cleanupDeletedPostsPromise (posts, config) {
+  console.log('\nChecking for deleted posts...')
+  
+  // Get all post IDs from the new export
+  const newPostIds = new Set(posts.map(post => post.frontmatter.id))
+  
+  // Find all existing markdown files
+  const existingFiles = await findMarkdownFiles(config.output)
+  
+  // Check each file and collect ones to delete
+  const filesToDelete = []
+  for (const filePath of existingFiles) {
+    try {
+      const content = await fs.promises.readFile(filePath, 'utf8')
+      const frontmatterMatch = content.match(/^---\n([\s\S]*?)\n---/)
+      
+      if (frontmatterMatch) {
+        const frontmatter = frontmatterMatch[1]
+        const idMatch = frontmatter.match(/^id:\s*"?(\d+)"?$/m)
+        
+        if (idMatch) {
+          const postId = idMatch[1]
+          if (!newPostIds.has(postId)) {
+            filesToDelete.push({ path: filePath, id: postId })
+          }
+        }
+      }
+    } catch (ex) {
+      // Skip files that can't be read
+      console.log(chalk.yellow('[SKIP]') + ' Could not read ' + filePath)
+    }
+  }
+  
+  // Delete the files
+  if (filesToDelete.length > 0) {
+    console.log(chalk.yellow(`Found ${filesToDelete.length} deleted post(s) to remove:`))
+    for (const file of filesToDelete) {
+      try {
+        await fs.promises.unlink(file.path)
+        console.log(chalk.red('[DELETED]') + ' ' + path.basename(file.path) + ' (ID: ' + file.id + ')')
+      } catch (ex) {
+        console.log(chalk.red('[FAILED]') + ' Could not delete ' + file.path)
+      }
+    }
+  } else {
+    console.log(chalk.green('No deleted posts found.'))
+  }
+}
+
+async function findMarkdownFiles (dir) {
+  const files = []
+  
+  try {
+    const entries = await fs.promises.readdir(dir, { withFileTypes: true })
+    
+    for (const entry of entries) {
+      const fullPath = path.join(dir, entry.name)
+      
+      if (entry.isDirectory()) {
+        const subFiles = await findMarkdownFiles(fullPath)
+        files.push(...subFiles)
+      } else if (entry.isFile() && entry.name.endsWith('.md')) {
+        files.push(fullPath)
+      }
+    }
+  } catch (ex) {
+    // Directory doesn't exist yet, that's fine
+  }
+  
+  return files
 }
 
 async function processPayloadsPromise (payloads, loadFunc, config) {
