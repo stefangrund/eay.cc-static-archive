@@ -22,7 +22,6 @@ meta:
   - yourls_shorturl: "https://eay.li/3uy"
   - _share_on_mastodon_url: "https://eay.social/@eay/114231522461773424"
   - content_copy: "https://bsky.app/profile/eay.social/post/3llcznoy7tf2d"
-  - bcc_last_updated: "2025-03-27 01:34:17"
   - linked_list_og-title: "Lest We Forget the Horrors: An Unending Catalog of Trump’s Cruelties, Collusions, Corruptions, ..."
   - linked_list_og-description: "Early in President Trump’s first term, McSweeney’s editors began to catalog the head-spinning number of misdeeds coming from his administration. We..."
   - linked_list_og-image: "https://eay.cc/wordpress/uploads/og-cache/d08c443d1023e63aba9e544a33d5aca7_upload.webp"

@@ -20,7 +20,6 @@ meta:
   - yourls_shorturl: "https://eay.li/3vc"
   - _share_on_mastodon_url: "https://eay.social/@eay/114442572897905441"
   - content_copy: "https://bsky.app/profile/eay.social/post/3loaqv5mref2p"
-  - bcc_last_updated: "2025-05-03 09:15:44"
 ---
 
 Pünktlich zum [8\. Geburtstags dieses "Neill" getauften Blog-Themes](https://eay.cc/2017/introducing-neill/) (as in [Neill Blomkamp](https://en.wikipedia.org/wiki/Neill_Blomkamp)) habe ich die Innereien mal auf den aktuellen Stand der Technik gebracht. ((Fun-fact: Dass das genau auf diesen Tag fällt, war absoluter Zufall. 😅))

@@ -21,7 +21,6 @@ meta:
   - yourls_shorturl: "https://eay.li/3vn"
   - _share_on_mastodon_url: "https://eay.social/@eay/114602322130979661"
   - content_copy: "https://bsky.app/profile/eay.social/post/3lqhp3tzbmx2y"
-  - bcc_last_updated: "2025-05-31 14:12:44"
   - linked_list_og-title: "Sterben in Karl-Marx-Stadt: Auf dem Geheimkonzert von Kraftklub. - Jonas' Blog"
   - linked_list_og-description: "Mit einem Geheimkonzert hat die Band Kraftklub in ihrer Heimatstadt Chemnitz ihr neues Album "Sterben in Karl-Marx-Stadt" angekündigt."
   - linked_list_og-image: "https://eay.cc/wordpress/uploads/og-cache/a642589f717fc530ece7181f52cfc753.webp"

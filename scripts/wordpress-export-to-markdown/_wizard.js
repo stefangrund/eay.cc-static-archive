@@ -82,6 +82,9 @@ async function getConfig (argv) {
   const unaliasedArgv = replaceAliases(argv)
   const program = parseCommandLine(unaliasedArgv)
 
+  // Load config file if it exists
+  const fileConfig = loadConfigFile()
+
   let answers
   if (program.wizard) {
     console.log('\nStarting wizard...')
@@ -102,8 +105,41 @@ async function getConfig (argv) {
     answers = {}
   }
 
-  const config = { ...program.opts(), ...answers }
+  // Get only the options that were explicitly provided via command line
+  const cmdLineOpts = {}
+  options.forEach(option => {
+    if (option.isProvided) {
+      const key = camelcase(option.name)
+      cmdLineOpts[key] = program.opts()[key]
+    }
+  })
+  
+  // Merge configs: command-line args > wizard answers > file config > defaults
+  const config = { ...program.opts(), ...fileConfig, ...cmdLineOpts, ...answers }
   return config
+}
+
+function loadConfigFile () {
+  const configPath = path.join(process.cwd(), 'wordpress-export-config.json')
+  
+  try {
+    if (fs.existsSync(configPath)) {
+      console.log('Loading config from wordpress-export-config.json...')
+      const configContent = fs.readFileSync(configPath, 'utf8')
+      const config = JSON.parse(configContent)
+      
+      // Convert ignoreMetaKeys array to comma-separated string if it's an array
+      if (config.ignoreMetaKeys && Array.isArray(config.ignoreMetaKeys)) {
+        config.ignoreMetaKeys = config.ignoreMetaKeys.join(',')
+      }
+      
+      return config
+    }
+  } catch (error) {
+    console.warn('Warning: Could not load config file:', error.message)
+  }
+  
+  return {}
 }
 
 function extendOptionsData () {

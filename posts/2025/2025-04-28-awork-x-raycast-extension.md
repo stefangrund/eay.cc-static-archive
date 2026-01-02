@@ -9,8 +9,10 @@ author: "eay"
 format: "post"
 categories:
   - 0815
+  - hypercode
 tags:
   - apps
+  - best-of
   - business
   - hypercode
   - macos
@@ -20,7 +22,6 @@ meta:
   - yourls_shorturl: "https://eay.li/3v8"
   - _share_on_mastodon_url: "https://eay.social/@eay/114414140234159626"
   - content_copy: "https://bsky.app/profile/eay.social/post/3lnu4spz76a2b"
-  - bcc_last_updated: "2025-04-28 08:35:44"
 ---
 
   

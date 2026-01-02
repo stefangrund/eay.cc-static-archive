@@ -21,9 +21,8 @@ meta:
   - _share_on_mastodon_url: "https://eay.social/@eay/114666965331607798"
   - linked_list_og-title: "Congratulations on creating the one billionth repository on GitHub! · Issue #1 · AasishPokhrel/..."
   - linked_list_og-description: "We wanted to congratulate you on creating the one billionth repository on GitHub! ➜ curl -s https://api.github.com/repositories/1000000000 { "id": 1000000000, "node_id": "R_kgDOO5rKAA", "name": "sh..."
-  - linked_list_og-image: "https://eay.cc/wordpress/uploads/og-cache/9d1fc1e9f0974d21a1d68d96b4a5f0fb.webp"
+  - linked_list_og-image: "https://eay.cc/wordpress/uploads/og-cache/53ba60d37741870d7119546acf5f81ab_upload.webp"
   - content_copy: "https://bsky.app/profile/eay.social/post/3lrefojs3gy2t"
-  - bcc_last_updated: "2025-06-12 00:14:09"
 ---
 
 Und – wie gut – es ist ein [Repo namens "shit"](https://github.com/AasishPokhrel/shit), in dem nur eine Readme mit einer Überschrift "shit" enthalten ist.

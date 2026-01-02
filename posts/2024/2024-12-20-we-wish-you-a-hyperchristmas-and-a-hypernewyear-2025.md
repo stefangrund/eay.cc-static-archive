@@ -9,6 +9,7 @@ author: "eay"
 format: "link"
 categories:
   - 0815
+  - hypercode
 tags:
   - hypercode
   - weihnachten

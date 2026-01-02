@@ -21,7 +21,6 @@ meta:
   - yourls_shorturl: "https://eay.li/3vi"
   - _share_on_mastodon_url: "https://eay.social/@eay/114562037336925829"
   - content_copy: "https://bsky.app/profile/eay.social/post/3lpvsjqxhea2e"
-  - bcc_last_updated: "2025-05-24 11:28:19"
 ---
 
 Hank Green im Video »[No One knows when they don't die](https://youtube.com/watch?v=ndeB_BpsRGk)« über das Paradoxon und die Tragödie der Prävention:

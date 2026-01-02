@@ -20,7 +20,6 @@ meta:
   - yourls_shorturl: "https://eay.li/3va"
   - _share_on_mastodon_url: "https://eay.social/@eay/114419844185541912"
   - content_copy: "https://bsky.app/profile/eay.social/post/3lnwnviu34m2u"
-  - bcc_last_updated: "2025-04-29 08:49:09"
   - linked_list_og-title: "Die Liste – Extremwetter 2025 Klimakatastrophe live"
   - linked_list_og-description: "Seit zwei Jahren sind die Meerestemperaturen extrem hoch. Die Folge sind weltweite Extremwetterereignisse. Viele Medien berichten kaum mehr darüber, obwohl hier eine unfassbare Krise direkt vor unseren Augen passiert. Diese Liste sammelt die Ereignisse, um Aufmerksamkeit darauf zu richten."
   - linked_list_og-image: "https://eay.cc/wordpress/uploads/og-cache/e62840e4978bbb591ea3cc7977a50ab2.webp"

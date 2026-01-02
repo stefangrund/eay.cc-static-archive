@@ -21,7 +21,6 @@ meta:
   - yourls_shorturl: "https://eay.li/3vl"
   - _share_on_mastodon_url: "https://eay.social/@eay/114584313876365859"
   - content_copy: "https://bsky.app/profile/eay.social/post/3lq7p5txo352m"
-  - bcc_last_updated: "2025-05-28 09:56:19"
   - linked_list_og-title: "Good Internet"
   - linked_list_og-description: "A magazine for the non-corporate and independent web, use of code as an art medium, and web development enthusiasm of hobbyists and professionals alike."
   - linked_list_og-image: "https://eay.cc/wordpress/uploads/og-cache/a5f3121931dc7763ed89272f21df2a69.webp"

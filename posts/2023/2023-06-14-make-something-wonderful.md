@@ -12,6 +12,7 @@ categories:
   - english
 tags:
   - apple
+  - best-of
   - buecher
   - geschichte
   - steve-jobs

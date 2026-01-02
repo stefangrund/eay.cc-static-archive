@@ -20,7 +20,6 @@ meta:
   - yourls_shorturl: "https://eay.li/3uu"
   - _share_on_mastodon_url: "https://eay.social/@eay/114208339163459188"
   - content_copy: "https://bsky.app/profile/eay.social/post/3lkyqcgfcr52d"
-  - bcc_last_updated: "2025-03-26 23:27:45"
   - linked_list_og-title: "Improved Relative Time"
   - linked_list_og-description: "BC and AD? What even is those? Tell me something like its relation to the iPhone or internet???"
   - linked_list_og-image: "https://eay.cc/wordpress/uploads/og-cache/bf43c0a6820a49a2f17d02a27301405e.webp"

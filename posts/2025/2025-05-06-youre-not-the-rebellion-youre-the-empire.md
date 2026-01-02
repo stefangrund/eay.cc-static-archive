@@ -25,7 +25,6 @@ meta:
   - yourls_shorturl: "https://eay.li/3vd"
   - _share_on_mastodon_url: "https://eay.social/@eay/114460901778331820"
   - content_copy: "https://bsky.app/profile/eay.social/post/3loivf74x3l2l"
-  - bcc_last_updated: "2025-05-06 14:50:02"
 ---
 
 Insbesondere [in den letzten 100 Tagen](https://www.tagesschau.de/ausland/amerika/trump-100-tage-bilanz-100.html) wiederholte sich beim gemeinsamen Mittagessen im Büro regelmäßig das folgende Szenario: Die Kolleg\*innen und ich arbeiten alle paar Tage kollektiv den Wahnsinn im Trump'schen Amerika auf. _Habt ihr schon gesehen, was er wieder gemacht hat?_

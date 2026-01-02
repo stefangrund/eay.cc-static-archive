@@ -20,7 +20,6 @@ meta:
   - yourls_shorturl: "https://eay.li/3ve"
   - _share_on_mastodon_url: "https://eay.social/@eay/114480070592544330"
   - content_copy: "https://bsky.app/profile/eay.social/post/3lorfs75top2v"
-  - bcc_last_updated: "2025-05-10 00:09:35"
 ---
 
 ![Suchergebnisseite mit dem Titel „Suchergebnisse für 'apple'](https://eay.cc/uploads/2025/search-improvements.png)

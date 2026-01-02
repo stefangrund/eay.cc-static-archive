@@ -21,7 +21,6 @@ meta:
   - yourls_shorturl: "https://eay.li/3vf"
   - _share_on_mastodon_url: "https://eay.social/@eay/114493801316900692"
   - content_copy: "https://bsky.app/profile/eay.social/post/3loxitewe7r2s"
-  - bcc_last_updated: "2025-05-12 10:15:54"
 ---
 
 Mal wieder eine passende Meldung für unsere beliebte Kategorie [Smart phones, stupid people](https://eay.cc/tag/smart-phones-stupid-people/):

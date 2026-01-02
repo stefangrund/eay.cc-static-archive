@@ -21,7 +21,6 @@ meta:
   - yourls_shorturl: "https://eay.li/3vj"
   - _share_on_mastodon_url: "https://eay.social/@eay/114569626160372932"
   - content_copy: "https://bsky.app/profile/eay.social/post/3lpz6hecr2r2y"
-  - bcc_last_updated: "2025-05-25 19:38:23"
   - linked_list_og-title: "cobalt.tools"
   - linked_list_og-description: "best way to save what you love. cobalt helps you save anything from your favorite websites: video, audio, photos or gifs."
   - linked_list_og-image: "https://eay.cc/wordpress/uploads/og-cache/d6169a6223924d75ecc5cdd393b4699c_upload.webp"

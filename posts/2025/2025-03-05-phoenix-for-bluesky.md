@@ -22,7 +22,6 @@ meta:
   - yourls_shorturl: "https://eay.li/3uq"
   - _share_on_mastodon_url: "https://eay.social/@eay/114112485044094426"
   - content_copy: "https://bsky.app/profile/eay.social/post/3ljo5ztnomb2p"
-  - bcc_last_updated: "2025-03-26 23:28:20"
   - linked_list_og-title: "Phoenix for Bluesky"
   - linked_list_og-description: "A Bluesky client based on the award-winning Twitter app for iOS."
   - linked_list_og-image: "https://eay.cc/wordpress/uploads/og-cache/d6af27ec708ebc10fcad7f8ee74af400.webp"

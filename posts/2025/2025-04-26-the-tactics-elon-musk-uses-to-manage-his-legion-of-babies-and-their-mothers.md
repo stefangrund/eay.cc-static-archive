@@ -22,7 +22,6 @@ meta:
   - yourls_shorturl: "https://eay.li/3v7"
   - _share_on_mastodon_url: "https://eay.social/@eay/114402676343647124"
   - content_copy: "https://bsky.app/profile/eay.social/post/3lnozwkhdvq2b"
-  - bcc_last_updated: "2025-04-26 08:00:09"
 ---
 
 What the fuck. Dass der reichste Mann der Welt möchte eine Legion von super­intelligenten (weißen) Kindern erschaffen, die bloß nicht per Gehirn­volumen verringernder, natürlicher Geburt geboren werden sollen und anschließend in seinem Frauen- und Kinderdorf ohne sein Zutun aufgezogen werden sollen. Und wehe, Frau und Kind halten sich nicht an NDAs und Vertrags­werk, dann wird das Schweigegeld (15 Millionen zur Geburt und 100.000 Dollar pro Monat) mal eben zusammen­gekürzt.

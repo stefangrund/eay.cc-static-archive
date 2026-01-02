@@ -24,7 +24,6 @@ meta:
   - yourls_shorturl: "https://eay.li/3vg"
   - _share_on_mastodon_url: "https://eay.social/@eay/114556831481957972"
   - content_copy: "https://bsky.app/profile/eay.social/post/3lptim6mwla2v"
-  - bcc_last_updated: "2025-05-23 13:24:39"
   - linked_list_og-title: "Pocket is saying goodbye: What you need to know | Pocket Help"
   - linked_list_og-description: "More information about the end of support for Pocket."
   - linked_list_og-image: "https://eay.cc/wordpress/uploads/og-cache/2d715cc30736c5b87cc2f5cd3c986d0e_upload.webp"

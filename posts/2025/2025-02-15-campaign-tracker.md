@@ -24,7 +24,6 @@ meta:
   - yourls_shorturl: "https://eay.li/3uj"
   - _share_on_mastodon_url: "https://eay.social/@eay/114007288376355250"
   - content_copy: "https://bsky.app/profile/eay.social/post/3li7h77plfg2q"
-  - bcc_last_updated: "2025-03-27 00:14:19"
 ---
 
 > \[Wir\] untersuchen alle Posts und bezahlten Werbeanzeigen auf Facebook und Instagram von Parteien und Kandidierenden zur Bundes­tags­wahl 2025. Im CampAIgn Tracker kann nachgeschaut werden, wie viele KI-generierte Botschaften von welchen Parteien verbreitet werden.

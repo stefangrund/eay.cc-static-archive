@@ -10,6 +10,7 @@ format: "link"
 categories:
   - 0815
 tags:
+  - best-of
   - design
   - netzkultur
   - web-entwicklung
@@ -20,6 +21,9 @@ meta:
   - geo_public: "1"
   - yourls_shorturl: "https://eay.li/3o6"
   - _share_on_mastodon_url: "https://eay.social/@eay/111243232123772210"
+  - linked_list_og-title: "Footer — The only footer gallery on earth."
+  - linked_list_og-description: "Footer is a curated gallery of the top website footer inspiration on earth. Find the footers you need and sort by type and style."
+  - linked_list_og-image: "https://eay.cc/wordpress/uploads/og-cache/1ee7a0bfd54a2611d24b175d68f0267a.webp"
 ---
 
 ![](https://eay.cc/uploads/2023/footer-gallery.jpg)
