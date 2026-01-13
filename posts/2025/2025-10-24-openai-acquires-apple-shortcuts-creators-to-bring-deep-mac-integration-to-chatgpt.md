@@ -12,8 +12,8 @@ categories:
 tags:
   - apple
   - apps
-  - artificial-intelligence
   - chatgpt
+  - kuenstliche-intelligenz
   - openai
 meta:
   - linked_list_url: "https://www.macrumors.com/2025/10/23/openai-shortcuts-creators/"

@@ -10,9 +10,9 @@ format: "link"
 categories:
   - 0815
 tags:
-  - artificial-intelligence
   - bots
   - facebook
+  - kuenstliche-intelligenz
   - robot-uprising
 meta:
   - linked_list_url: "http://www.gamestar.de/artikel/kuenstliche-intelligenz-facebook-stoppt-ki-nachdem-sie-neue-sprache-erfindet,3317639.html"
@@ -20,6 +20,9 @@ meta:
   - geo_latitude: "50.973774905285"
   - geo_longitude: "6.6828542747796"
   - geo_public: "1"
+  - linked_list_og-title: "Facebook - KI erfindet eigene Sprache, Experiment gestoppt"
+  - linked_list_og-description: "Eine von Facebook erschaffene künstliche Intelligenz hat während eines Experiments eine eigene Sprache erschaffen. Die KI wurde daraufhin gestoppt."
+  - linked_list_og-image: "https://eay.cc/wordpress/uploads/og-cache/09e4438860e1fe06adf9a25caf390ccd.webp"
 ---
 
 > Eine von Facebook erschaffene künstliche Intelligenz hat während eines Experiments eine Sprache erschaffen, der selbst die Entwickler nicht mehr folgen konnten.

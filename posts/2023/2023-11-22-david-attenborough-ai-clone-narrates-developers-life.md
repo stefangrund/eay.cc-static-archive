@@ -10,9 +10,9 @@ format: "link"
 categories:
   - 0815
 tags:
-  - artificial-intelligence
   - dokumentation
   - fanart
+  - kuenstliche-intelligenz
 meta:
   - linked_list_url: "https://arstechnica.com/information-technology/2023/11/unauthorized-david-attenborough-ai-clone-narrates-developers-life-goes-viral/"
   - geo_latitude: "50.973835"

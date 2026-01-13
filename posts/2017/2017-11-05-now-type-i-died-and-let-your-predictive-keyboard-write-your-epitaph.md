@@ -10,8 +10,8 @@ format: "link"
 categories:
   - 0815
 tags:
-  - artificial-intelligence
   - bizarres
+  - kuenstliche-intelligenz
   - technologie
 meta:
   - linked_list_url: "https://twitter.com/waxpancake/status/926908405792456704"
