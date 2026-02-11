@@ -1,0 +1,102 @@
+{
+  "year": 2017,
+  "info": "Die Zusammen&shy;fassungen wurden durch KI erstellt. Alle Posts eines Monats wurden dazu von generativer KI analysiert und die wichtigsten Themen in 200-500 Zeichen durch sie zusammen&shy;gefasst. Die Text&shy;generierung fand im Februar 2026 durch OpenAI GPT-5.3 statt und kann Ungenauig&shy;keiten oder Fehler enthalten.",
+  "months": [
+    {
+      "month": 1,
+      "monthName": "Januar",
+      "monthISO": "2017-01",
+      "postCount": 19,
+      "highlights": "Indie Microblogging, App.net Shutdown, The Last Jedi Titel",
+      "summary": "Januar brachte Rückblick und Netzdebatten: 2016 Movie Tribute, Indie Microblogging von Manton Reece, Mediums Neuausrichtung und die Geschichte des iPhone zum 10. Jubiläum. Dazu Politik und Medienkritik (Merkel und das digitale Entwicklungsland, Gibson-Interview). Popkultur: 8bit-Rick-and-Morty, The Last Jedi Titel, Oscar-Nominierungen. Tech: App.net schaltet ab, neues Mozilla-Logo, Zeitmanagement-Kritik, Watchblogging, Sharing-Menü in Jeffrey Jacob, Projektstatus und mehrere Status-Notizen."
+    },
+    {
+      "month": 2,
+      "monthName": "Februar",
+      "monthISO": "2017-02",
+      "postCount": 14,
+      "highlights": "Pocket-Kauf, Ghost in the Shell Trailer, Oscar-Prognose",
+      "summary": "Februar mischte Medien und Webkultur: What The Fuck Just Happened Today, Blog als Gehirn über Zeit, Dumb Password Rules und Inspiration is for amateurs. Pop: Ghost in the Shell Trailer, Webcomic Name, Logobook und Oscar-Prognose. Tech/Netz: Mozilla kauft Pocket, smarte Haustürklingel mit Push-Notifications, Checklists vor dem Launch, 32/100 und ein Podcast über Politiker."
+    },
+    {
+      "month": 3,
+      "monthName": "März",
+      "monthISO": "2017-03",
+      "postCount": 18,
+      "highlights": "Workflow-Kauf, Quantencomputer, Windows-95-Defrag-Sim",
+      "summary": "März war voll mit Web und Tech: Designing blogs for readers, Windows-95-Defrag-Simulator, Game-Boy-Emulator auf der Apple Watch und Send to Kindle. Dazu der erste Quantencomputer, ein GIF als Waffe, Apple kauft Workflow, Apple Store Opening, Computer criminals und die Frage nach bezahlten Twitter-Accounts. Pop und Kultur: SciFi-Buchcover, Audiobooks for the Damned, Pigeon Movie Database, My Tiny Planet. Mehrere Status-Posts, Web-Accounts und ein Mix aus Tool-Links und Medienfundstücken."
+    },
+    {
+      "month": 4,
+      "monthName": "April",
+      "monthISO": "2017-04",
+      "postCount": 23,
+      "highlights": "Ghost in the Shell, Guardians Vol. 2, Amazon Echo Look",
+      "summary": "April lieferte Popkultur und Webtools: Ghost in the Shell, Fast & Furious 8, Guardians of the Galaxy Vol. 2, Rogue-One-Alternativende, Carrie-Fisher-Tribute und The Last Jedi Teaser. Web/Tech: Webmentions-Test, Zuck.js, Wikitribune, Amazon Echo Look, best of the web, FFFFOUND! und shortfil.ms-Plan. Dazu Pressefreiheit, #YourFirstAmazonOrder, Tumblr-Entdeckungen, Outcast, Idioten, Amazon-Order-Hashtag und Status-Posts. Ein dichter Monat mit Film, Netz und Medienkritik und Pressefreiheit-Notizen."
+    },
+    {
+      "month": 5,
+      "monthName": "Mai",
+      "monthISO": "2017-05",
+      "postCount": 27,
+      "highlights": "JSON Feed 1.0, Blade Runner 2049 Trailer, Wonder Woman",
+      "summary": "Mai war übervoll: Wonder Woman (Symbol und Bedeutung), Blade Runner 2049 Trailer, The Last Jedi Preview und TV-Show-Trailer der Saison. Tech/Netz: JSON Feed 1.0, 1Password Travel Mode, Echo Show, Zukunft von Frontend-Development, All cables must die und DS Comics endet. Dazu Oats Volume 1, David-Fincher-VFX, Spotify Doctor-Who-Hörspiele, AirPods-Warten, Instagram-Password-Reset-Flut, Kraftwerk Niederaußem und EUROPAPOKAAAL. Viele Fundstücke, Status-Notiz und Popkultur-Highlights."
+    },
+    {
+      "month": 6,
+      "monthName": "Juni",
+      "monthISO": "2017-06",
+      "postCount": 16,
+      "highlights": "Ehe für alle, ARKit/Demos, Pinboard kauft Delicious",
+      "summary": "Juni drehte sich um Technik und Politik: Pinboard übernimmt Delicious, StreamOn-Kritik bei der Telekom, Ehe für alle im Bundestag und eine Merkel-Notiz. Tech/Netz: Made with ARKit, Super Mario mit HoloLens, Reddit-Design der schlimmsten Volume-Slider, Computers are good and bad und Audio-Notizen. Popkultur: Black Mirror Buchreihe, Independence Day Analyse, Grindhouse Legacy. Dazu AirPods-Fazit, Reality Winner Leak, short updates und ein kompakter Mix aus Tech, Politik und Medien."
+    },
+    {
+      "month": 7,
+      "monthName": "Juli",
+      "monthISO": "2017-07",
+      "postCount": 13,
+      "highlights": "Seeing AI, Robot Uprising, Crypto-Einstieg, Harold Halibut",
+      "summary": "Juli brachte KI- und Robotik-Themen: Microsoft Seeing AI, AR A-ha Moment, Robot Uprising Teil I und II sowie Einstieg in Crypto Currencies. Pop und Kultur: Leia, Harold Halibut, Accidental Wes Anderson, Nobel geht die Welt zugrunde. Dazu mehrere Status-Posts, Belfried-Foto, kleine Alltagsnotizen und Web-Fundstücke."
+    },
+    {
+      "month": 8,
+      "monthName": "August",
+      "monthISO": "2017-08",
+      "postCount": 10,
+      "highlights": "Apple Glasses, Wahl-O-Mat, Black Mirror S4 Teaser, Hvper",
+      "summary": "August war kompakter: Apple Glasses als inevitabel, Wahl-O-Mat zur Bundestagswahl und Black-Mirror-Season-4-Teaser. Netz/Tech: Hvper, Twitter/Micro.blog/Mastodon-Kooperation, Walk of Life Project, Offline-to-view-Page-Gag und Microblogging-Experimente."
+    },
+    {
+      "month": 9,
+      "monthName": "September",
+      "monthISO": "2017-09",
+      "postCount": 16,
+      "highlights": "iPhone 8/X Roundup, Twitter 280 Zeichen, High Sierra",
+      "summary": "September bot viel Apple und Web: iPhone 8/X Roundup, High Sierra Review, Twitter erhöht auf 280 Zeichen und Tabagotchi gegen Tab-Chaos. Web/Netz: Winamp2.js, txt.fyi, Swiss in CSS, Web in 2050, Matt Mullenweg zu React/WordPress und Boven Water. Dazu DIY-Kopfhörerbuchse, Masters of Germany-Actionfiguren, Short Trip, Apple-Produktfoto, Status-Post und kleine Reise-Notizen. Ein dichter Monat mit Apple-Fokus, Tool-Links und Web-Debatten, inkl. macOS 10.13 Review im Detail und Tests."
+    },
+    {
+      "month": 10,
+      "monthName": "Oktober",
+      "monthISO": "2017-10",
+      "postCount": 21,
+      "highlights": "Blade Runner 2049, Tweetbot 5, Stranger Things S2, Schottland",
+      "summary": "Oktober war Film und Tech pur: Blade Runner 2049 samt Game, Last Jedi Trailer, Stranger Things S2 Trailer, Kingsman 2, Geostorm und The Circle. Tech/Netz: Tweetbot 5, Numi, Slack on SNES, WiFi is broken, Changelog 2017-10, Moviemania, Tesla Car Smell und Freelance Achievement Stickers. Dazu Reisen in Schottland (Highlands, Nessie, Glasgow), Beirut-Album, Mondo-Art, Status-Posts, Good Science Fiction und kuriose Links. Ein sehr voller Monat mit Popkultur, Tools und Infinite Bathroom."
+    },
+    {
+      "month": 11,
+      "monthName": "November",
+      "monthISO": "2017-11",
+      "postCount": 15,
+      "highlights": "Thor Ragnarok, LOTR-Serie für Amazon, Roboter-Backflip",
+      "summary": "November mischte Blockbuster und Tech: Thor Ragnarok, Justice League, Mord im Orient-Express, Star Wars neue Trilogie und Live-Action-Serie, Amazon kauft LOTR-Rechte. Netz/Tech: Software matters, Trüberbrook-Kickstarter, Roboter-Backflip, Celebrity-Perv-Apology-Generator, Goodbye Old Friend und X gon give it to ya. Dazu Predictive-Keyboard-Epitaph, Pickle Rick, Status-Posts und absurde Fundstücke. Ein dichter Monat zwischen Popkultur, Tech und Internetkram, plus kleine Newsbits."
+    },
+    {
+      "month": 12,
+      "monthName": "Dezember",
+      "monthISO": "2017-12",
+      "postCount": 16,
+      "highlights": "Disney kauft Fox, The Last Jedi, Kinostatistik 2017",
+      "summary": "Dezember war Star-Wars-lastig: The Last Jedi, Ready Player One Trailer, Jurassic World Fallen Kingdom Trailer und Tarantino-Star-Trek-Gerücht. Medien/Netz: Listen to Wikipedia, The Not Yorker, Infinitown WebGL, A Single Div, Every Second und One Stefan to rule them all. Business: Disney kauft Fox. Dazu Kinostatistik 2017, Dunkirk als Stummfilm, Feiertagsprogramm und Weihnachtsgrüße. Ein voller Monatsrückblick mit Popkultur, Webspielereien und Jahresabschluss, plus Frohe Weihnachten."
+    }
+  ]
+}

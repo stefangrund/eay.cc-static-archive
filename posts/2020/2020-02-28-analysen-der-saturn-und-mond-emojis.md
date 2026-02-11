@@ -11,7 +11,6 @@ categories:
   - 0815
 tags:
   - bizarres
-  - emoji
   - emojis
   - mond
   - saturn

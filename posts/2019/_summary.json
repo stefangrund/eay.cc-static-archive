@@ -1,0 +1,102 @@
+{
+  "year": 2019,
+  "info": "Die Zusammen&shy;fassungen wurden durch KI erstellt. Alle Posts eines Monats wurden dazu von generativer KI analysiert und die wichtigsten Themen in 200-500 Zeichen durch sie zusammen&shy;gefasst. Die Text&shy;generierung fand im Februar 2026 durch OpenAI GPT-5.3 statt und kann Ungenauig&shy;keiten oder Fehler enthalten.",
+  "months": [
+    {
+      "month": 1,
+      "monthName": "Januar",
+      "monthISO": "2019-01",
+      "postCount": 20,
+      "highlights": "Disney+-Start, Apple über DAX, GitHub Arktis-Archiv",
+      "summary": "Januar vereint Rückblick und Netzkultur: Quantified Eay 2018, aussterbende Arten, 16 Jahre eay.cc und mehrere Film-Links (Bumblebee, Blood Fest, Robin Hood). Tech/Netz: iTunes und AirPlay für Samsung-TVs, Introducing Yonks, Dimensions.Guide, Signal v Noise verlässt Medium, securitycheckli.st. Popkultur: House of Cards S6, Ghostbusters-3-Teaser, Oscar-Nominierungen und ein neuer Batman 2021. Dazu der Satz „Ideas are just a multiplier of execution“ und frisch gerahmte Bottleneck-Poster."
+    },
+    {
+      "month": 2,
+      "monthName": "Februar",
+      "monthISO": "2019-02",
+      "postCount": 18,
+      "highlights": "Palindrome Day, 99-Smartphones-Stau, Emoji-Analysen",
+      "summary": "Februar war voll mit Medien und Tech: Heavyweight und Reply All, Spotify kauft Gimlet, The Movies, Vice und Alita. Netzfundstücke: relentless.com, Website Carbon Calculator und die Frage, warum das Internet nicht wilder ist. Personal: neue Büropflanzen, @michsch und ich mal drei, Amsterdam Crew, Alaaf you. Tech-Politik/Kultur: Legacy of Firefox OS, Assange-Doku, Vue-ist-wie-Harry-Potter, Yonks featured im App Store. Dazu Oscar-Prognose, Glass und kleine Web-Kuriositäten im Alltag."
+    },
+    {
+      "month": 3,
+      "monthName": "März",
+      "monthISO": "2019-03",
+      "postCount": 15,
+      "highlights": "Uploadfilter-Kritik, WWW-Simulator, Captain Marvel",
+      "summary": "März brachte Tech, Politik und Pop: WorldWideWeb-Simulator, Super Tiny Compiler, Thanos.js und Apple Event Opening Film. Politisch: Uploadfilter-Kritik und SPD-Satire, switching.social als Ausstiegssignal. Pop: Captain Marvel, Cold Pursuit, Umbrella Academy S1, QualityLand wird HBO-Serie. Dazu Status-Posts vom 10., 26. und 31., ein Happy-Hour-Moment und ein „Im so happy“ Post, plus ein Update zur Web-Community. Ein dichter Mix aus Code-Spielereien, Medien und Netzpolitik und mehr."
+    },
+    {
+      "month": 4,
+      "monthName": "April",
+      "monthISO": "2019-04",
+      "postCount": 9,
+      "highlights": "Firmengründung, Yonks 100 days, Rise of Skywalker-Teaser",
+      "summary": "April war Gründerzeit und Popkultur: Firmengründung, 100 days of Yonks und Vier Fäuste gegen Artikel 13. Film/TV: Shazam, Rise of Skywalker-Teaser und The Cage Cage. Medien: recs-Newsletter von Rex Sorgatz, Nothing fails like Success. Weitere Themen und Links rundeten den Monat ab."
+    },
+    {
+      "month": 5,
+      "monthName": "Mai",
+      "monthISO": "2019-05",
+      "postCount": 8,
+      "highlights": "Chewbacca gestorben, BMW i8 Fahrt, Black Mirror S5 Trailer",
+      "summary": "Mai mischte Pop, Reisen und Technik: Chewbacca-Darsteller Peter Mayhew ist gestorben, Black-Mirror-Season-5-Trailer und The Big Bang Theory. Persönlich: Kurztrip nach München, erstmals BMW i8 gefahren, Zweitligameister. Web/Tools: MacMenuBar.com. Dazu ein Status-Post am 22.05."
+    },
+    {
+      "month": 6,
+      "monthName": "Juni",
+      "monthISO": "2019-06",
+      "postCount": 8,
+      "highlights": "Playdate vorgestellt, Jony Ive geht, HTML-Quine-Experiment",
+      "summary": "Juni: Playdate wird vorgestellt, Jony Ive verlässt Apple und gründet ein Designstudio. Retro/Nerd: 70 Jahre George Orwells 1984, ein brutales HTML-Quine und McBain - The Movie. Dazu drei Status-Posts und ein Blick auf Tech-Trends. Weitere Themen und Links rundeten den Monat ab."
+    },
+    {
+      "month": 7,
+      "monthName": "Juli",
+      "monthISO": "2019-07",
+      "postCount": 13,
+      "highlights": "Personal-Website-Verse, Stranger-Things-Mashups, Hochzeitstag",
+      "summary": "Juli war voll mit Pop, Web und persönlichen Momenten: Day One/Beer O'Clock, „The books will stop working“, Into the Personal-Website-Verse und @EmojiMashupBot. Popkultur: Stranger Things-Fan-Mashups, John Oliver zu Boris Johnson. Persönlich: Übernachtung auf dem Meer, Netzwerkparty mit MacBooks, 18. Jahres-/6. Hochzeitstag."
+    },
+    {
+      "month": 8,
+      "monthName": "August",
+      "monthISO": "2019-08",
+      "postCount": 12,
+      "highlights": "Tumblr-Kauf, Matrix 4, Once Upon a Time in Hollywood",
+      "summary": "August brachte Pop und Plattformen: Automattic übernimmt Tumblr, Matrix 4 kommt, Once Upon a Time in Hollywood, Toy Story 4 und Green Book. Netz/Design: Future Fonts, AIRCON 1000, Seek als Shazam für Natur, Porsche by VW. Persönlich: Wochenende in Stuttgart und „Home is where this church is“. Dazu Ballon Mayhem von Jan Hakon Erichsen."
+    },
+    {
+      "month": 9,
+      "monthName": "September",
+      "monthISO": "2019-09",
+      "postCount": 10,
+      "highlights": "EuGH Leistungsschutzrecht, iOS 13 Review, Limetown",
+      "summary": "September drehte sich um Streaming und Web: Future Man S2, Good Boys, Limetown-Trailer und „Why I have a website and you should too“. Tech/Politik: EuGH kippt deutsches Leistungsschutzrecht, iOS/iPadOS 13 Review von MacStories. Dazu mehrere Status-Posts und ein „Hello Beautiful!“-Moment."
+    },
+    {
+      "month": 10,
+      "monthName": "Oktober",
+      "monthISO": "2019-10",
+      "postCount": 8,
+      "highlights": "Joker, Skywalker-Final-Trailer, Mandalorian-Teaser",
+      "summary": "Oktober brachte Reisen, Pop und Gadgets: eine Woche Friesland, Schottland-Trip (Day 1) und Les-O-Mat. Kino: Joker und Rise of Skywalker finaler Trailer, plus Mandalorian-Trailer. Tech: Mudita Bell. Dazu der spaßige Gedanke „What if Tom Cruise ran for President?"
+    },
+    {
+      "month": 11,
+      "monthName": "November",
+      "monthISO": "2019-11",
+      "postCount": 10,
+      "highlights": "Tesla Cybertruck, Scotland-Tage, Zombieland 2, Size of Space",
+      "summary": "November stand im Zeichen von Schottland (Days 2-4), Zombieland 2 und Tesla Cybertruck. Netz/Science: The Size of Space, List of stories set in a future now past und eine Rechnung zu Musik-Streams. Dazu zwei Status-Posts und ein kurzer Blick auf die Streaming-Ökonomie."
+    },
+    {
+      "month": 12,
+      "monthName": "Dezember",
+      "monthISO": "2019-12",
+      "postCount": 6,
+      "highlights": "Kinostatistik 2019, Ghostbusters Afterlife, Jurassic Park Print",
+      "summary": "Dezember lieferte Jahresabschluss und Popkultur: Kinostatistik 2019, Ghostbusters: Afterlife-Trailer und der fiese Comcast-Artikel zu E.T. Persönlich: Jurassic-Park-Print gerahmt. Dazu Deep-Sea-Entdeckung und ein Status-Post zum Jahreswechsel (2020-01-01)."
+    }
+  ]
+}

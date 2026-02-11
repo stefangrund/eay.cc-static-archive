@@ -1,0 +1,102 @@
+{
+  "year": 2020,
+  "info": "Die Zusammen&shy;fassungen wurden durch KI erstellt. Alle Posts eines Monats wurden dazu von generativer KI analysiert und die wichtigsten Themen in 200-500 Zeichen durch sie zusammen&shy;gefasst. Die Text&shy;generierung fand im Februar 2026 durch OpenAI GPT-5.3 statt und kann Ungenauig&shy;keiten oder Fehler enthalten.",
+  "months": [
+    {
+      "month": 1,
+      "monthName": "Januar",
+      "monthISO": "2020-01",
+      "postCount": 17,
+      "highlights": "Disney+-Start, Apple über DAX, GitHub-Arktis-Archiv",
+      "summary": "Januar mischte Rückblick und Netzkultur: Jahreswechsel in Kopenhagen, 17 Jahre eay.cc und mehrere Status-Posts. Dazu Tech/Pop: Disney+-Starttermin, das (inoffizielle) Apple-Archiv, GitHub sichert Open-Source im arktischen 1.000-Jahre-Tresor, Apple überholt den DAX. Kultur/Trivia: Oscar-Nominierungen, neue Emojis 2020 (inkl. Scheren-Debatte), @GoodSlides, Kick-Ass-Developers, Boing Boing-Jubiläum, Sonnenoberfläche und frisch gerahmte Bottleneck-Poster. Monatsende mit weiteren Status-Notizen."
+    },
+    {
+      "month": 2,
+      "monthName": "Februar",
+      "monthISO": "2020-02",
+      "postCount": 11,
+      "highlights": "Palindrome Day, 99-Smartphones-Stau, Emoji-Analysen",
+      "summary": "Februar war kürzer, aber bunt: eay.cc feierte 1017 Jahre/90, dazu Alaaf und Palindrome Day 20200202. Netzfundstücke wie 99 Smartphones täuschen Stau, Feedbin, Cybertruck in Back to the Future und Emoji-Analysen zu Saturn/Mond. Politik/USA: Argumente zu den demokratischen Vorwahlen und die Oscar-Prognose."
+    },
+    {
+      "month": 3,
+      "monthName": "März",
+      "monthISO": "2020-03",
+      "postCount": 17,
+      "highlights": "Flatten the Curve, Bill-Gates-Warnung, Home-Office",
+      "summary": "März stand klar im Zeichen von Corona: Flatten-the-Curve-Erklärungen, Bill Gates’ 2015-Warnung und der Text zur Corona-Dämmerung des Neoliberalismus. Dazu Home-Office-Übertreibung, NetNewsWire-Rückkehr, iPadOS 13.4 Cursorcalypse sowie Dokus und Musik (#veedelband, Ein Lied für Jetzt). Kultur/Nerd: Colonia Dignidad, Dark Neill, Something Murder, Samurai & Shogun, Mailchimp-SXSW-Shorts, Yonks-Update, Curiosity-Mars-Panorama, Awesome macOS Command Line und mehrere Status-Notizen."
+    },
+    {
+      "month": 4,
+      "monthName": "April",
+      "monthISO": "2020-04",
+      "postCount": 17,
+      "highlights": "Zoom-Sicherheitslücken, ragmask, 5G-Brandstiftungen",
+      "summary": "April war Pandemie-Alltag und Netzpolitik: Zoom-Sicherheitslücken, 5G-Brandstiftungen, DIY-Atemmasken (ragmask), Hilfe fürs Kino und die Cuomo-Brüder. Dazu siebte Home-Office-Woche, FalsiScan, 98.css und 68 Bits of Advice. Kultur/Orte: The Midnight Gospel, Seinfeld-Videospiel, New Amsterdam sowie Oberaußem-Abendstimmungen, Kraftwerk Niederaußem, St. Vinzentius und zwei Status-Posts. Ein dichter Mix aus Internet, Lokalbeobachtung und Pandemie-Logbuch, inklusive kleiner Alltagsbeobachtungen."
+    },
+    {
+      "month": 5,
+      "monthName": "Mai",
+      "monthISO": "2020-05",
+      "postCount": 12,
+      "highlights": "Snyder Cut, Facebook kauft Giphy, COVID-Simulationen",
+      "summary": "Mai mischte Corona-Zukunftsszenarien mit Popkultur: COVID-19-Simulationen, Dunning-Krüger-Blues, HBO Max kündigt Snyder Cut an, Upload Season 1 und Jurassic-Park-Satire. Tech/Netz: Facebook kauft Giphy, Dark-Mode-Toggle, „The code was never the important part“. Politik: Trump-Kolumne zur Kriegsführung."
+    },
+    {
+      "month": 6,
+      "monthName": "Juni",
+      "monthISO": "2020-06",
+      "postCount": 14,
+      "highlights": "WWDC/ARM-Macs, Twitter-Audio, PS5-Supercut, Boston Dynamics",
+      "summary": "Juni brachte Tech-Großwetter: WWDC 2020 und der Wechsel zu ARM-Macs, Twitter-Audio-Tweets, Boston-Dynamics-Roboterverkauf, PlayStation-5-Supercut. Pandemie/Politik: Police-Gewalt-Video, Corona-Warn-App-Podcast, 1,1-Mio-Dollar-Krankenhausrechnung, Terminator-Satire. Weitere Themen und Links rundeten den Monat ab."
+    },
+    {
+      "month": 7,
+      "monthName": "Juli",
+      "monthISO": "2020-07",
+      "postCount": 18,
+      "highlights": "Corona-Todes-Time-Lapse, 30-Rock-Specials, Jubiläum",
+      "summary": "Juli war voll: Corona-Todes-Time-Lapse, Masken-Wut („Shut the fuck up and put on your mask“) und mehrere Status-Posts. Pop/TV: The Gentlemen, The Orville S2, 30 Rock-Specials, Single Parents, #OneMore30Rock. Gaming/Nerd: Day of the Tentacle & Co. gratis im Mac App Store, Checkboxland, Aaron Craig Pop Mash. Persönlich: 18. Jahres-/6. Hochzeitstag in der Eifel, Netzwerkparty mit MacBooks. Außerdem Atom-Bomben-Simulator, Disneyland-Fotos 1955 und ein Blick auf die Pandemie-Statistik."
+    },
+    {
+      "month": 8,
+      "monthName": "August",
+      "monthISO": "2020-08",
+      "postCount": 8,
+      "highlights": "Epic vs Apple, Sibirien-Hitze, Umbrella Academy, Netflix-Sound",
+      "summary": "August war kompakt: Epic gegen Apple im App-Store-Streit, Rekordhitze in Sibirien und ein Status-Post. Pop/TV: Umbrella Academy S2, Dark S1. Kultur/Audio: Netflix-Sound-Podcast. Weitere Themen und Links rundeten den Monat ab. Weitere Themen und Links rundeten den Monat ab."
+    },
+    {
+      "month": 9,
+      "monthName": "September",
+      "monthISO": "2020-09",
+      "postCount": 7,
+      "highlights": "How to Grow Your Blog, Yonks-Kontakttagebuch, Mando-Trailer",
+      "summary": "September brachte Netz- und Blogthemen: How to Grow Your Blog, Winamp Skin Museum und Yonks als Corona-Kontakttagebuch. Dazu Blade Runner: San Francisco, Mandalorian-S2-Trailer, Billionaires won Corona und die Frage nach einem betrunkenen Baum. Weitere Themen und Links rundeten den Monat ab."
+    },
+    {
+      "month": 10,
+      "monthName": "Oktober",
+      "monthISO": "2020-10",
+      "postCount": 12,
+      "highlights": "Hypercode 2.0, „Kein Filter für Rechts“, Aerosol-Artikel",
+      "summary": "Oktober drehte sich um Hypercode: Relaunch hypercode.de 2.0, Studio 808303, Kontakt-Tagebuch-App und Home-Office-Sicht, plus Visitenkarten-Nachschub. Politik/Netz: „Kein Filter für Rechts“. Kultur/Orte: Super-Mario-Europa-Map, Rocky-Horror-Zitat, Wilder Kermeter Instaception, Kraftwerk Niederaußem/Neurath."
+    },
+    {
+      "month": 11,
+      "monthName": "November",
+      "monthISO": "2020-11",
+      "postCount": 3,
+      "highlights": "Web Brutalism/Notion, „Nichts zu verbergen?“, FCK 2020",
+      "summary": "November war klein, aber pointiert: Web Brutalism/Seamfulness und Notion als Design-Impulse, dazu „Nichts zu verbergen?“ und das resignierte „FCK 2020“. Weitere Themen und Links rundeten den Monat ab."
+    },
+    {
+      "month": 12,
+      "monthName": "Dezember",
+      "monthISO": "2020-12",
+      "postCount": 13,
+      "highlights": "Death to 2020, Corona-Warn-App-Update, Billie Eilish",
+      "summary": "Dezember bot Jahresrückblick und Pandemie-Alltag: Corona-Links, Kontakt-Tagebuch-Funktion der Warn-App, Kinostatistik 2020 und „Death to 2020“. Pop/Netz: Billie Eilish-Interview (Fourth Year), Web conversations with the year 2000, 2020 Ipsum und ein Server-Migration-Bericht. Weitere Themen und Links rundeten den Monat ab."
+    }
+  ]
+}

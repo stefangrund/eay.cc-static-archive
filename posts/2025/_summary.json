@@ -1,0 +1,102 @@
+{
+  "year": 2025,
+  "info": "Die Zusammen&shy;fassungen wurden durch KI erstellt. Alle Posts eines Monats wurden dazu von generativer KI analysiert und die wichtigsten Themen in 200-500 Zeichen durch sie zusammen&shy;gefasst. Die Text&shy;generierung fand im Februar 2026 durch Anthropic Claude Sonnet 4.5 statt und kann Ungenauig&shy;keiten oder Fehler enthalten.",
+  "months": [
+    {
+      "month": 1,
+      "monthName": "Januar",
+      "monthISO": "2025-01",
+      "postCount": 10,
+      "highlights": "Merz/AfD-Brandmauer, Trump/Musk Hitlergruß, 22. Blog-Jubiläum",
+      "summary": "Der Januar stand im Zeichen turbulenter politischer Entwicklungen: Friedrich Merz ließ die Brandmauer zur AfD bröckeln, Trump wurde zum 47. US-Präsidenten inauguriert und Elon Musk zeigte bei der Feier den Hitlergruß. Selenskyjs KI-übersetztes Interview bei Lex Fridman sorgte für Aufsehen."
+    },
+    {
+      "month": 2,
+      "monthName": "Februar",
+      "monthISO": "2025-02",
+      "postCount": 14,
+      "highlights": "Bundestagswahl AfD 20%, USA keine Demokratie, Merz-Ära",
+      "summary": "Nach der Bundestagswahl mit Unions-Sieg (28%) und AfD als zweitstärkster Kraft (20%) beschäftigte sich der Februar mit der Merz-Ära: Lobby-Netzwerke, absurde Datenschutz-Ideen (10% Rabatt für Gesundheitsdaten) und die bizarre Realität von KI-per-Fax in Deutschland. Die USA wurden offiziell nicht mehr als Demokratie eingestuft (Score: 0)."
+    },
+    {
+      "month": 3,
+      "monthName": "März",
+      "monthISO": "2025-03",
+      "postCount": 10,
+      "highlights": "Trump beschimpft Selenskyj, digitale Bücherverbrennung, Phoenix",
+      "summary": "März begann mit dem diplomatischen Super-GAU im Oval Office: Trump und sein Vize beschimpften Selenskyj vor laufenden Kameras. Trumps Administration betreibt \"digitale Bücherverbrennung\" - systematische Löschung von Behördendaten. Weitere Themen und Links rundeten den Monat ab."
+    },
+    {
+      "month": 4,
+      "monthName": "April",
+      "monthISO": "2025-04",
+      "postCount": 10,
+      "highlights": "Raycast/QuietScrob, Trump Zölle, Playdate Season Two",
+      "summary": "Tech-Tools dominierten: QuietScrob für Apple Music, die eigene awork-Raycast-Extension und Raycast for iOS. Politisch: Trumps Zollpolitik und Musks bizarres \"Legion of Babies\"-Management. Seth Godin feierte seinen 10. Weitere Themen und Links rundeten den Monat ab."
+    },
+    {
+      "month": 5,
+      "monthName": "Mai",
+      "monthISO": "2025-05",
+      "postCount": 12,
+      "highlights": "Pocket eingestellt, digitale Vergänglichkeit, Neill-Theme 8 Jahre",
+      "summary": "Melancholischer Monat der digitalen Vergänglichkeit: Pocket wird eingestellt (17 Mio. Nutzer betroffen), Glitch beendet Web-App-Hosting. Positiv: Das Neill-Theme feiert 8 Jahre mit Modernisierung (Webpack→Vite), neue Suchfunktionen und Sky for Mac als \"Hybrid Automation\". Trump'scher Tiefpunkt: Das Weiße Haus veröffentlicht KI-generierte Star-Wars-Propaganda."
+    },
+    {
+      "month": 6,
+      "monthName": "Juni",
+      "monthISO": "2025-06",
+      "postCount": 12,
+      "highlights": "Gruber vs Apple, WWDC Liquid Glass, Meta Localhost-Tracking",
+      "summary": "WWDC-Enttäuschung prägte den Juni: Apples mittelmäßige Keynote, die kontroverse \"Liquid Glass\"-Designsprache und John Grubers Zerwürfnis mit Apple (nach \"Vaporware\"-Kritik an Apple Intelligence wurde seine Talk Show boykottiert). Trump-Kritik: Truth Social als sein persönlicher Blog, narzisstischer Lockscreen. Tech-Dystopie: Metas Localhost-Tracking (32 Mrd."
+    },
+    {
+      "month": 7,
+      "monthName": "Juli",
+      "monthISO": "2025-07",
+      "postCount": 5,
+      "highlights": "KI-Halluzinationen, Single-Serving-Websites, Yonks",
+      "summary": "Ruhiger Monat: KI-Halluzinationen führen zu realen Features. Single-Serving-Websites als Phänomen (\"istspahnnochimamt.de\", \"SingleServingSites.cool\"). AppleCare-Kosten im Familien-Ökosystem und Yonks-Refaktorierung."
+    },
+    {
+      "month": 8,
+      "monthName": "August",
+      "monthISO": "2025-08",
+      "postCount": 10,
+      "highlights": "Tim Cook übertrifft Jobs, AOL Dial-up Ende, Liquid Glass",
+      "summary": "Monat der Zeitenwenden: Tim Cooks Apple-Ära übertrifft nun Steve Jobs' zweite Amtszeit, AOL stellt nach Jahrzehnten den Dial-up-Zugang ein. Schwerpunkt: Apples \"Liquid Glass\"-Design als strategische Hardware-Vorwegnahme (Vision Pro). Weitere Themen und Links rundeten den Monat ab."
+    },
+    {
+      "month": 9,
+      "monthName": "September",
+      "monthISO": "2025-09",
+      "postCount": 11,
+      "highlights": "Tech-Autoritarismus, Mars-Biosignaturen, Charlie Kirk",
+      "summary": "Düsterer Monat voller existenzieller Krisen: Tech-Elite und Autoritarismus verschmelzen (Podcasts über Peter Thiel, Tech Bro Topia). \"24 is After the Fall\": Die USA unter autoritärer Herrschaft, Charlie Kirk stirbt durch Schusswaffengewalt - tragische Realsatire. NASA verkündet mögliche Mars-Biosignaturen (außerirdisches Leben!), doch niemand beachtet es."
+    },
+    {
+      "month": 10,
+      "monthName": "Oktober",
+      "monthISO": "2025-10",
+      "postCount": 15,
+      "highlights": "Liquid Glass Krise, Berners-Lee Non-Profit AI, Ariane 3",
+      "summary": "Frustration mit Apple erreichte Höhepunkt: Liquid Glass-Usability-Krise (Nielsen Norman Group-Kritik), macOS Tahoe/Electron-Probleme, wirre Apple TV-Namensgebung. KI als gesellschaftlicher Wendepunkt: Tim Berners-Lee fordert europäische Non-Profit-AI, OpenAI kauft Shortcuts-Macher, pathetische \"2025 als pivotales Jahr\"-Rhetorik. Politik: Chatkontrolle-Gefahr, Klimakrise (Sea Level Rise Maps). Meta-Blogging: \"Backloggen statt Webloggen\" - die Prokrastinations-Paradoxie in Reinform."
+    },
+    {
+      "month": 11,
+      "monthName": "November",
+      "monthISO": "2025-11",
+      "postCount": 15,
+      "highlights": "Archive.org Plugin, App Store für Web, 40. Geburtstag",
+      "summary": "Vielfältiger Themenmix: Web-Entwicklung mit Archive.org-WordPress-Plugin, Date-Picker-UX-Kritik, Rückkehr zu nativen Browser-Funktionen. Apple-Updates: App Store für Web, neues Apple TV+ Intro mit analoger Produktion, iPhone-Internals-Wallpaper. Wissenschaft & Gesellschaft: Scully Effect, Mondforschung (Theia-Herkunft), COVID-Impfung #7. Digitale Kultur: Space-Logos-Archiv, Epsteins Gmail durchsuchbar. Newsletter-Alternative \"Pay me to send you less\". Persönlich: 40 werden, mehrere Arztbesuche."
+    },
+    {
+      "month": 12,
+      "monthName": "Dezember",
+      "monthISO": "2025-12",
+      "postCount": 16,
+      "highlights": "KI \"Slop\" Wort des Jahres, Apple ID-Sperrung, Claude Bug",
+      "summary": "Techno-pessimistischer Jahresabschluss: KI-Kritik dominiert - satirischer \"AI CEO\", Claudes katastrophaler Home-Verzeichnis-Bug, Three Mile Island für Microsoft-KI reaktiviert. \"Slop\" als Wort des Jahres fasst minderwertige KI-Inhalte zusammen. Apple-Albtraum: 20 Jahre digitales Leben durch ID-Sperrung ausgelöscht. Popkultur-Gegengewichte: Comic Mono, RoboCop-Statue in Detroit, Jurassic Park-Wallpaper, Pluribus-Werbung löst Psychose aus. Emotionaler Nachruf auf Monstropolis-Blogger."
+    }
+  ]
+}

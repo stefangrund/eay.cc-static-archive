@@ -1,0 +1,102 @@
+{
+  "year": 2023,
+  "info": "Die Zusammen&shy;fassungen wurden durch KI erstellt. Alle Posts eines Monats wurden dazu von generativer KI analysiert und die wichtigsten Themen in 200-500 Zeichen durch sie zusammen&shy;gefasst. Die Text&shy;generierung fand im Februar 2026 durch Anthropic Claude Sonnet 4.5 statt und kann Ungenauig&shy;keiten oder Fehler enthalten.",
+  "months": [
+    {
+      "month": 1,
+      "monthName": "Januar",
+      "monthISO": "2023-01",
+      "postCount": 17,
+      "highlights": "Mutter verstorben, Twitter kollabiert, Mastodon-Exodus",
+      "summary": "Twitter unter Musk: Twitterrific und Tweetbot abgeschaltet, Iconfactory und Tapbots verabschiedeten sich. Blog wechselt zu Mastodon (Elk, Shuttlecraft). The Verge \"Bring back personal blogging\" (Monique Judge). Mutter erkrankt, FC Köln 7:1 ohne sie, Bläck Fööss \"Maach et joot\". Reuters zu Pro-Putin-Operativen in Deutschland, EU-Emissionshandel Superjachten abgabenfrei. The Rise Real Estate mit \"zukünftigen Strandimmobilien\". Renfield (Nic Cage), Mac-30-Icons, ISS Transit Finder."
+    },
+    {
+      "month": 2,
+      "monthName": "Februar",
+      "monthISO": "2023-02",
+      "postCount": 8,
+      "highlights": "Twitter-API kostenpflichtig, FC News Bot zu Mastodon, 38. Geburtstag",
+      "summary": "Twitter-API wird kostenpflichtig. FC News Bot migriert zu Mastodon (@fcnewsbot@eay.social), neuer Avatar via Fluent Emoji. Tech: dns0.eu (NextDNS-Macher), Comics RSS (Joseph Dykstra). Pop: 2001/Kubrick-Lucas-Mashup (P. L. Weitere Themen und Links rundeten den Monat ab."
+    },
+    {
+      "month": 3,
+      "monthName": "März",
+      "monthISO": "2023-03",
+      "postCount": 18,
+      "highlights": "25 Jahre Kottke.org, Micro.blog Challenge, Playdate Catalog",
+      "summary": "Micro.blog Photoblogging Challenge mit täglichen Fotos (Secure, weather, zip, whole, walk). Blog-Kultur: Kottke.org 25 Jahre, Jason Kottke bei John Grubers Talk Show. Tech & Gaming: Panics Playdate Catalog, Scribble Diffusion (KI-Skizze zu Bild), LUNARK von Johan Vinet (Flashback/Another-World-Inspiration), PSone.css. ElectroEay: Wallbox installiert, neues E-Auto. Ariane/Star-Wars-Familienfoto, Dendemann von Apple Music - CD gerippt in iTunes Match, Oscar-Nacht verpasst (\"Leben ey!\")."
+    },
+    {
+      "month": 4,
+      "monthName": "April",
+      "monthISO": "2023-04",
+      "postCount": 13,
+      "highlights": "Twitter-API-Chaos, ChatGPT Web98, Feedbin verliert Zugang",
+      "summary": "Twitter-API-Chaos bestimmte den Monat: Feedbin verlor den Zugang, die kostenpflichtigen Tiers (Basic $100/Monat für 10.000 Tweets) nannte der Blog \"absolut witzlos\". ChatGPT-Highlights: Nate Parrotts Web98 (Retro-Browser mit KI) und Federico Viticcis S-GPT-Shortcut für iOS. Bill Gates' interne E-Mail von 2003 (\"Microsoft.com is a terrible website\") zeigte Microsofts Usability-Ignoranz."
+    },
+    {
+      "month": 5,
+      "monthName": "Mai",
+      "monthISO": "2023-05",
+      "postCount": 13,
+      "highlights": "Wes-Anderson-Trailer, Reddit-Apollo-API (20 Mio.), Apple Personal Voice",
+      "summary": "Wes-Anderson-Fan-Trailer-Serie: Galactic Menagerie (Star Wars) und Whimsical Fellowship (Lord of the Rings) von Curious Refuge. Die API-Shitshow ging weiter: Reddit verlangte von Apollo 20 Mio. $/Jahr - \"obvious Twitter-Move\". SkyBridge ermöglichte Mastodon-Apps wie Ivory für Bluesky (videah). Weitere Themen und Links rundeten den Monat ab."
+    },
+    {
+      "month": 6,
+      "monthName": "Juni",
+      "monthISO": "2023-06",
+      "postCount": 13,
+      "highlights": "Apple Vision Pro (3.499 $), spatial computing, Microblogging",
+      "summary": "Apple Vision Pro bei der WWDC: 3.499 $, \"spatial computing\", \"Your entire world is a canvas for apps\". Dritter Wes-Anderson-Trailer: Avatar (Peculiar Pandora Expedition) von Curious Refuge. State of my Microblogging: Bluesky, Mastodon, Nostr, T2. \"Make Something Wonderful\" vom Steve Jobs Archive für 86 € ergattert."
+    },
+    {
+      "month": 7,
+      "monthName": "Juli",
+      "monthISO": "2023-07",
+      "postCount": 10,
+      "highlights": "Arc Browser 1.0, wärmster Tag jemals (17°C), Twitter entfernt",
+      "summary": "Arc-Browser 1.0 erschien - der Autor hatte Firefox bereits durch Arc ersetzt und empfiehlt die Browser Company. Klima-Alarm: 3. Juli als global wärmster Tag jemals (17,01°C), UN: \"out of control\". Twitter/X von allen Websites entfernt. WDR Zukunftsreport zu KI im Journalismus."
+    },
+    {
+      "month": 8,
+      "monthName": "August",
+      "monthISO": "2023-08",
+      "postCount": 16,
+      "highlights": "Threads 0-100M Nutzer, OpenAI GPTBot, WordPress 100-Year Plan",
+      "summary": "Adam Mosseri (Instagram/Threads) im 20VC-Interview: Threads 0-100M Nutzer, Foto-Feed nur noch dritter Platz. OpenAI GPTBot-Doku zum Blocken, KI erkennt Passwörter per Tastatur-Sound. Politik: DIW AfD-Paradox, Ian Bremmer TED über Tech als neue Supermacht. WordPress.com 100-Year Plan für 38.000$, Evernote als abschreckendes Beispiel. Twitterpeek-Nostalgie (2009). Share-on-Mastodon-Plugin von Jan Boddez. Panic Games Showcase, Pantone-Farbmonopol. Volvo C40 als ADAC-E-Auto-Testsieger."
+    },
+    {
+      "month": 9,
+      "monthName": "September",
+      "monthISO": "2023-09",
+      "postCount": 4,
+      "highlights": "Hottest summer, Beirut Hadsel, App Icon Book, Webfunde",
+      "summary": "Klima-Dringlichkeit: \"Hottest summer on record\", Andrew Weaver (\"all hands on deck\" gegen 3°C). Beirut kündigt Album Hadsel an (\"So Many Plans\"). Michael Flarups macOS App Icon Book auf Kickstarter. Letterheady - Briefköpfe bekannter Marken."
+    },
+    {
+      "month": 10,
+      "monthName": "Oktober",
+      "monthISO": "2023-10",
+      "postCount": 18,
+      "highlights": "Analogue Pocket, Kottke Kommentare, Whole Earth Index",
+      "summary": "Retro-Gaming und Netzkultur-Revival prägten den Monat: Analogue Pocket bestellt und erhalten, Analogue 3D (N64) angekündigt. Jason Kottke reaktivierte Kommentare für zahlende Member - \"Bring back the Good Ol' Web!\". Vergecast mit Mullenweg, Doctorow und Reese über POSSE und PESOS. Whole Earth Index: Vollarchiv des Whole Earth Catalog (Stewart Brand) erstmals online - \"proto-blog\" vor dem Internet. Klimabericht-Podcast prüfte Apple-Nachhaltigkeit."
+    },
+    {
+      "month": 11,
+      "monthName": "November",
+      "monthISO": "2023-11",
+      "postCount": 18,
+      "highlights": "Brid.gy + Bluesky, WeWork-Insolvenz, Trump \"Dark Plans\"",
+      "summary": "Abo-Wut und Social-Web-Wandel: The Pioneer (Gabor Steingart) und Club MacStories (Viticci, Voorhees) - Kritik am Upselling. Brid.gy unterstützt Bluesky, Blog-Interaktionen zurück - Autor stand Bluesky \"kritisch gegenüber\" (zentralisiert, Mastodon-Konkurrenz). WeWork-Insolvenz: ehemaliger Mieter am Kölner Friesenplatz kommentiert. Trump's \"Dark Plans\" (John Gruber: \"Pläne für eine Diktatur\"). Threads plant ActivityPub-Integration. David-Attenborough-AI-Klon (Charlie Holtz, ElevenLabs) viral."
+    },
+    {
+      "month": 12,
+      "monthName": "Dezember",
+      "monthISO": "2023-12",
+      "postCount": 9,
+      "highlights": "Threads EU-Start (14.12.), GTA VI-Trailer, Twitter died",
+      "summary": "GTA VI-Trailer kam geleaked vorzeitig - Vice City 2025. Threads startet am 14.12. in der EU, Autor freut sich (\"Finally\"). The Verge-Serie \"The year Twitter died\". Pentagram redesigned Reddit-Brand - Kritik an Apollo-Kill und Twitter-Parallelen. Figma Creator Micro vorbestellt."
+    }
+  ]
+}

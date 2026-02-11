@@ -10,7 +10,7 @@ format: "link"
 categories:
   - 0815
 tags:
-  - emoji
+  - emojis
   - mashup
   - twitter
   - your-favorite-twitter-account-for-the-next-5-minutes

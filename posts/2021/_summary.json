@@ -1,0 +1,102 @@
+{
+  "year": 2021,
+  "info": "Die Zusammen&shy;fassungen wurden durch KI erstellt. Alle Posts eines Monats wurden dazu von generativer KI analysiert und die wichtigsten Themen in 200-500 Zeichen durch sie zusammen&shy;gefasst. Die Text&shy;generierung fand im Februar 2026 durch OpenAI GPT-5.3 statt und kann Ungenauig&shy;keiten oder Fehler enthalten.",
+  "months": [
+    {
+      "month": 1,
+      "monthName": "Januar",
+      "monthISO": "2021-01",
+      "postCount": 17,
+      "highlights": "Parler/Capitol, Trumps Twitter-Insults, Covid-Inzidenz-Widget",
+      "summary": "Januar stand im Zeichen von US-Politik und Web-Debatten: Parler-Daten zum Capitol-Angriff, Trumps Twitter-Insults, Progressive Enhancement und ein langer Newsletter-Rant übers Schreiben im Web. Dazu Tech-Kurioses wie verlorene 220-Mio.-Bitcoin, Amazons App-Icon, Covid-Langzeitfolgen-Studie und ein Inzidenz-Widget für iOS. Satire zur Drosten-Mutation, Day 1 vs. Day 1.448, plus Greenland 2019, Mini Modern House und neues Spielzeug runden den Monat ab. Notiz zu Covid-Spätfolgen."
+    },
+    {
+      "month": 2,
+      "monthName": "Februar",
+      "monthISO": "2021-02",
+      "postCount": 36,
+      "highlights": "iOS 14.5 Watch-Entsperrung, 217 Emojis, Privacy-Ads",
+      "summary": "Viele Status-Posts dominierten den Februar als tägliches Mikroblogging. Inhaltlich: iOS 14.5 entsperrt per Apple Watch mit Maske, 217 neue Emojis, Privacy-Ads (Sublime/Instagram) und Diskussionen um Werbetracking. Dazu Podcasts zu Chip Kidd (Jurassic-Park-Cover) und Jeff Goldblum, animierte Portraits historischer Personen sowie allerlei kleine Tech-Funde. Insgesamt ein dichter Mix aus Apple-News, Popkultur-Links, Nerd-Referenzen und Alltagsnotizen, fast täglich dokumentiert und kommentiert."
+    },
+    {
+      "month": 3,
+      "monthName": "März",
+      "monthISO": "2021-03",
+      "postCount": 7,
+      "highlights": "Ever Given im Suezkanal, Corona-Maßnahmen-Generator, Menschenwürde",
+      "summary": "Im März prägte der Suezkanal: Ever Given samt lustiger Routen-Grafik, dem 10-%-Welthandel-Blocker und der Frage, ob das Schiff noch feststeckt. Dazu der Corona-Maßnahmen-Generator, ein Verweis auf die Unantastbarkeit der Menschenwürde, Encode Mighty Things sowie ein Status-Post."
+    },
+    {
+      "month": 4,
+      "monthName": "April",
+      "monthISO": "2021-04",
+      "postCount": 8,
+      "highlights": "Eyecam-Webcam, Kunstfreiheit-Satire, FEZ ist endlich zu Hause",
+      "summary": "April brachte skurrile Netzfunde und Kultur: Eyecam als Human-Eye-Webcam, Kunstfreiheit-Satire, FEZ ist endlich zu Hause, Yamauchi No. 10 Family Office. Dazu zwei Status-Posts, Stefan Zweifels Alfred-Setup und ein kurzer Reality-Check: War gerade mal gucken, steht noch da."
+    },
+    {
+      "month": 5,
+      "monthName": "Mai",
+      "monthISO": "2021-05",
+      "postCount": 19,
+      "highlights": "MCU Phase 4, Amazon kauft MGM, Upload-Filter-Reform",
+      "summary": "Mai war voll mit Popkultur und Tech: MCU Phase-4-Teaser, 99 Bits of Advice, NFT-Erklärstück, Tracking-Transparency-Werbespot, Amazon kauft MGM, Alan-Turing-50-Pfund-Note, 11foot8, Video-Game-Glitches, iMessage-Workflow für Alfred, Instagram-Ads und ephemere Links im Web. Politik/Netz: Upload-Filter-Reform. Dazu Kuriositäten wie Florence-Reichtum, QAmom, Driesch till Dawn, Solid-State-Wind-Energy, der 8,45-Mrd.-MGM-Deal, Ephemerality-of-the-Web und das Gewicht der Mondatmosphäre."
+    },
+    {
+      "month": 6,
+      "monthName": "Juni",
+      "monthISO": "2021-06",
+      "postCount": 12,
+      "highlights": "WWW-Quellcode als NFT, Playdate/OldOS, Digitalpolitik-Wahlprogramme",
+      "summary": "Juni drehte sich um Retro und Medien: Playdate-Update, OldOS-Projekt (iOS 4 in SwiftUI), Masters of the Universe und Avatar-Frontiers-Trailer, There She Is. Tech/Netz: Sotheby's versteigert WWW-Quellcode als NFT, Googles Messaging-Mess, Digitalpolitik-Übersicht zur Wahl. Dazu Coleman Sweeney, Alternate Realities, der 30.000ste Tweet und eine Ken-Jebsen-Recherche."
+    },
+    {
+      "month": 7,
+      "monthName": "Juli",
+      "monthISO": "2021-07",
+      "postCount": 15,
+      "highlights": "Xbox Cloud Gaming iOS, Rheinpegel 7,5 m, Social-Media-Dashboard",
+      "summary": "Im Juli viel Streaming und Tech: Xbox Cloud Gaming auf iOS, Star Wars: Visions (inkl. Trailer) und Marvel What If, dazu AirPods-Verschluck-Story und ein Sorry-aber-zu-spät-Post. Politisch/aktuell: Rheinpegel 7,5 m, Lasch-O-Mat und das Social-Media-Dashboard zur Bundestagswahl. Außerdem Salat aus dem Automaten, Shmorby-Mascot, Blick in Cara Delevingnes Haus, Hört nicht auf die Verlierer sowie mehrere Status-Posts und kleine Web-Kuriositäten aus dem Alltag."
+    },
+    {
+      "month": 8,
+      "monthName": "August",
+      "monthISO": "2021-08",
+      "postCount": 14,
+      "highlights": "Klimarekord, Afghanistan digitaler Notausgang, De-Mail-Aus",
+      "summary": "August war klima- und netzpolitisch geprägt: heißester Monat seit Messbeginn, Klimawissen und Podcast, How we fix the climate. Dazu Afghanistan und der digitale Notausgang, Telekom schaltet De-Mail ab. Weitere Themen und Links rundeten den Monat ab. Weitere Themen und Links rundeten den Monat ab. Weitere Themen und Links rundeten den Monat ab."
+    },
+    {
+      "month": 9,
+      "monthName": "September",
+      "monthISO": "2021-09",
+      "postCount": 7,
+      "highlights": "WhatsApp/Privacy, xSearch iOS 15, Manyverse, 3G-Debatte",
+      "summary": "September brachte Netz- und Datenschutzthemen: WhatsApp kann Nachrichten doch lesen?, xSearch für iOS 15, Manyverse als Offline-Social-Network. Politik/Covid: das andere 3G (geimpft, genesen, gestorben). Außerdem Klimadebatte (Can YOU Fix Climate Change?"
+    },
+    {
+      "month": 10,
+      "monthName": "Oktober",
+      "monthISO": "2021-10",
+      "postCount": 11,
+      "highlights": "Facebook→Metaverse, Klimaneutral 2045, macOS Monterey",
+      "summary": "Oktober stand im Zeichen Klima und Big Tech: klimaneutrales Deutschland 2045, Klimabericht-Podcast zur Sonnenverdunkelung, Understanding how Facebook disappeared from the Internet und der geplante Metaverse-Rebrand. Dazu macOS 12 Monterey Review, ikonische Buchcover, Bud-Spencer-Crowdfunding, Marvel Character or Font und eine Mick-Jagger-Dive-Bar-Anekdote."
+    },
+    {
+      "month": 11,
+      "monthName": "November",
+      "monthISO": "2021-11",
+      "postCount": 19,
+      "highlights": "Boba-Fett-Trailer, Rockström 2,7°C, Blog Broke the Web",
+      "summary": "November lieferte viel Popkultur und Netzgeschichte: Boba-Fett-Trailer, Jurassic World Dominion Prologue, Foundation Staffel 1, Keanuverse, Squid-Game-Ableger. Tech/Netz: iOS App Icon Book, Video-Game-Soda-Machine, Billion-Dollar-Torrent, How the Blog Broke the Web, Humans can't be the sole keepers of scientific knowledge. Dazu Klima-Warnungen (Rockström 2,7°C), Covid-Themen, Virologen-Song, Podcast Vermeidbares Leid, Körperöffnungen möglichst dicht halten sowie mehrere Status-Posts."
+    },
+    {
+      "month": 12,
+      "monthName": "Dezember",
+      "monthISO": "2021-12",
+      "postCount": 19,
+      "highlights": "Testzentrumromantik, Xenobots, Billie Eilish Interview",
+      "summary": "Dezember mischte Pandemie-Alltag und Nerd-Fundstücke: Wir müssen über Corona reden, Anti-5G-Schmuck-Warnung, Entwarnung, Testzentrumromantik I/II. Wissenschaft/Netz: Xenobots, True Size of, Emoji to Scale. Pop: Billie Eilish Interview (Same Interview, The Fifth Year), Blink-182-Wonderwall, Baby Yoda in Jurassic Park, There She Is Part 2, Astro's Playroom, 52 Wochen Peloton, Beste Silvestertradition. Mehrere Status-Posts (1/2/15/27) und Jahresend-Links runden ab."
+    }
+  ]
+}

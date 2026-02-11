@@ -1,0 +1,102 @@
+{
+  "year": 2024,
+  "info": "Die Zusammen&shy;fassungen wurden durch KI erstellt. Alle Posts eines Monats wurden dazu von generativer KI analysiert und die wichtigsten Themen in 200-500 Zeichen durch sie zusammen&shy;gefasst. Die Text&shy;generierung fand im Februar 2026 durch Anthropic Claude Sonnet 4.5 statt und kann Ungenauig&shy;keiten oder Fehler enthalten.",
+  "months": [
+    {
+      "month": 1,
+      "monthName": "Januar",
+      "monthISO": "2024-01",
+      "postCount": 12,
+      "highlights": "21 Jahre Blog-Jubiläum, Nachruf auf Mutter, Tulsa King",
+      "summary": "Persönliche Tiefe prägte den Monat: 21 Jahre Blog-Jubiläum (3.889 Posts seit 2007) und bewegender Nachruf auf die Mutter, die ein Jahr zuvor verstarb. Tim Urbans \"Lebenszeit\"-Essay über die wenigen verbleibenden Tage mit Eltern. Popkultur: Tulsa King mit dem gealterten Stallone, KI-generiertes Jurassic Park nur mit Dinosauriern, neuer Jurassic-World-Film mit David Koepp angekündigt."
+    },
+    {
+      "month": 2,
+      "monthName": "Februar",
+      "monthISO": "2024-02",
+      "postCount": 17,
+      "highlights": "Vision Pro Reviews, Flickr 20 Jahre, Signal Usernames",
+      "summary": "Tech-Nostalgie trifft auf digitale Ethik: Flickr wurde 20 (SmugMug-Ära, Free-Account-Limits nerven), Slack als Akronym entlarvt, Apple Vision Pro Reviews (The Verge, Casey Neistat, Himels Tech) dominierten. Signal führte Usernames ein, Molly White und Matthias Ott über Digital Ownership und Own Your Web. Fediverse erklärt von David Pierce. Wissenschaft: Blue-LED-Doku über Shuji Nakamura, xkcd zum Greenhouse Effect. Kultur: 39. Geburtstag mit Banksy-Tickets, bizarre Sonic-2-Werbung."
+    },
+    {
+      "month": 3,
+      "monthName": "März",
+      "monthISO": "2024-03",
+      "postCount": 16,
+      "highlights": "iOS 17.4 EU-App-Stores, Setapp Mobile, Kottkes Redesign",
+      "summary": "iOS 17.4 brachte EU-Umbruch: Alternative App Stores, MacPaw kündigte Setapp Mobile an. Blog-Kultur im Fokus: Kottkes Redesign mit Social-Newsfeed-Vibes, UberBlogr-Webring (\"Hier Herr der Ringe Referenz\"), Alex Kirks Enable-Mastodon-Apps-Plugin für WordPress, Terence Edens ActivityPub-Server in einer PHP-Datei. Politisch frustrierend: Bayerns Gendersprache-Verbot statt WMO-Klimareport-Reaktion. Kultur: Banksy in Köln, Glenn Fleishmans Comic-History-Kickstarter, March MODOK Madness."
+    },
+    {
+      "month": 4,
+      "monthName": "April",
+      "monthISO": "2024-04",
+      "postCount": 13,
+      "highlights": "AltStore PAL, Gmail 20 Jahre, Klima-Dringlichkeit, Webfunde",
+      "summary": "Tech-Jubiläen und -Emanzipation: Gmail wurde 20, Riley Testuts AltStore PAL eroberte als EU-Alternativ-App-Store iOS. Dark Visitors listete AI-Crawler auf - ambivalente Gedanken zu Consent und Training. Klima-Dringlichkeit: UN-Chef Simon Stiell (\"zwei Jahre zum Retten\"), Copernicus-Europa-Report (doppelt so schnell erwärmt), Extrapolations als unterschätzte Serie."
+    },
+    {
+      "month": 5,
+      "monthName": "Mai",
+      "monthISO": "2024-05",
+      "postCount": 12,
+      "highlights": "GPT-4o und Sora, Scarlett-Johansson-Stimmklon, Apple-OpenAI",
+      "summary": "OpenAIs KI-Offensive: GPT-4o erschien, Sora kreierte das erste Musikvideo (Washed Out \"The Hardest Part\"), der Scarlett-Johansson-Stimmklon-Skandal zeigte Altmans fragwürdige Kommunikation (\"Her\"-Referenz). Apple wählte OpenAI für Siri-Integration. Phil Laude parodierte das iPad Pro (\"Think Different\" als Satire)."
+    },
+    {
+      "month": 6,
+      "monthName": "Juni",
+      "monthISO": "2024-06",
+      "postCount": 5,
+      "highlights": "Julian Assange frei, Zelda Echoes of Wisdom, Starlink",
+      "summary": "Julian Assange kam durch US-Deal frei - Wikileaks-Gründer nach Jahren. Starlink brachte abgeschotteten Völkern Internetsucht und Pornografie. KI-Trailer im 50er-Look für Rick & Morty, Futurama, Spongebob (demonflyingfox). Nintendo präsentierte Zelda."
+    },
+    {
+      "month": 7,
+      "monthName": "Juli",
+      "monthISO": "2024-07",
+      "postCount": 9,
+      "highlights": "Musk-Peterson-Kritik, Olympia Paris, Diggnation-Reunion",
+      "summary": "Kritik an Musk und Peterson (\"Weil Leben herausfordernd für uns alle ist\" - Nora Hespers/Haken dran). Olympia in Paris: Kanu-Slalom mit Nicolas Gestin besucht, Hochzeitstag mit Kira. Netzkultur-Nostalgie: Diggnation-Reunion (Kevin Rose & Alex Albrecht zu AI und WWDC), 15 Jahre PewPewPew."
+    },
+    {
+      "month": 8,
+      "monthName": "August",
+      "monthISO": "2024-08",
+      "postCount": 15,
+      "highlights": "Oasis-Tickets-Chaos, Tumblr zu WordPress, Fediverse-Symbol",
+      "summary": "Chaos-Tag: Oasis-Tickets (\"85301 People Ahead of you\") und Steuererklärung, beides geschafft. Tech-Publishing: Polygon/Verge auf Next.js und WordPress, Nilay Patel erklärt die Architektur, Tumblr soll 500 Mio Blogs zu WordPress migrieren. Fediverse-Symbol ⁂ vorgeschlagen, Every Frame a Painting nach 8 Jahren zurück. Blog-Themen: \"everything/nothing\", Manuel Moreales People and Blogs, \"Punkt\" als Kommentar (Isabel Bogdan), Podcast \"Warum wir immer noch bloggen\". Sonst: Star Wars Skeleton Crew."
+    },
+    {
+      "month": 9,
+      "monthName": "September",
+      "monthISO": "2024-09",
+      "postCount": 8,
+      "highlights": "iOS 18 Reviews, X als Dystopie, 7/9 Grenzen überschritten",
+      "summary": "Apple-Fokus: MacStories-Reviews zu iOS 18, watchOS 11, macOS Sequoia (Federico Viticci), Custom Dark-Mode-Icons für Pocket Casts/Reeder. X-For-You-Page als Dystopie (Todesvideos, Musk-Verschwörungen, Reichsadler). JD Vance drohte NATO-Ausstieg bei EU-Regulierung von Musks Plattformen."
+    },
+    {
+      "month": 10,
+      "monthName": "Oktober",
+      "monthISO": "2024-10",
+      "postCount": 22,
+      "highlights": "Harris-Endorsement, Bluesky Series A, Civil War, Webfunde",
+      "summary": "Wahljahr-dominiert: The Verge endorsierte Harris (\"Trump = school shootings and measles\"), Stop Project 2025 Comic, The Atlantic über Musks Technokratie und Trump als dessen Trojanisches Pferd. Civil War (Alex Garland) als beunruhigende Zukunftsvision. Tech: Bluesky Series A ($15M, 13M+ Nutzer), FC Köln Custom Feed, ChatGPT Search, Humane-CosmOS-Pivot. Netzkultur: Internet Archive vs. Labels ($621M-Rechtsstreit), Dave Winers 30. Scripting-News-Jubiläum, XOXO 2024, Digg-Rückkehr mit Kevin Rose, ."
+    },
+    {
+      "month": 11,
+      "monthName": "November",
+      "monthISO": "2024-11",
+      "postCount": 23,
+      "highlights": "Trump gewinnt, FDP \"D-Day\", Twitter-Exit nach 18 Jahren",
+      "summary": "Politisch dramatisch: Trump gewann die US-Wahl, Kamala Harris unterlag. In Deutschland brachte die FDP die Ampel zu Fall - die ZEIT-Recherche zum \"D-Day\"-Papier zeigte Lindners minutiöse Vorbereitung des Koalitionsbruchs, anschließendes Abwiegeln. Der Blog verabschiedete sich endgültig von Twitter nach 18 Jahren, setzte auf Bluesky, Mastodon und Openvibe. Tech-Highlights: Sill als Link-Aggregator für Bluesky/Mastodon, Bluesky Firehose in 3D (Theo Sanderson), Foursquare-Daten Open Source."
+    },
+    {
+      "month": 12,
+      "monthName": "Dezember",
+      "monthISO": "2024-12",
+      "postCount": 15,
+      "highlights": "Musk empfiehlt AfD, UberBlogr 100, Hypercode wird 5",
+      "summary": "Elon Musk prägte den Monat: Er empfahl die AfD (\"Only the AfD can save Germany\"), Alice Weidel bedankte sich per Video. Er forderte seine Follower auf, nicht an Wikipedia zu spenden (\"Wokepedia\"). Gegenpole: UberBlogr feierte 100 Mitglieder, \"86 Stories of Progress\" erinnerte an positive Entwicklungen 2024. Tech: OpenTok ermöglichte TikTok im Browser, Festivitas brachte Weihnachten ins Dock, Mountain Duck ersetzte Dropbox auf dem 256-GB-Mac-mini. Pop: Billie Eilish Same Interview Jahr 8."
+    }
+  ]
+}

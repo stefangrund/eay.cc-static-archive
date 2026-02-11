@@ -1,0 +1,14 @@
+{
+  "year": 2026,
+  "info": "Die Zusammen&shy;fassungen wurden durch KI erstellt. Alle Posts eines Monats wurden dazu von generativer KI analysiert und die wichtigsten Themen in 200-500 Zeichen durch sie zusammen&shy;gefasst. Die Text&shy;generierung fand im Februar 2026 durch OpenAI GPT-5.3 statt und kann Ungenauig&shy;keiten oder Fehler enthalten.",
+  "months": [
+    {
+      "month": 1,
+      "monthName": "Januar",
+      "monthISO": "2026-01",
+      "postCount": 36,
+      "highlights": "23 Jahre Blog, Daily-Blogging-Serie, Browser- und KI-Toolkritik",
+      "summary": "Januar war ein dichter Mix aus Blog-Meta, Netzkritik und Tool-Fundstücken: 23 Jahre Blog, ein Jahr Daily-Blogging, Posting-Frequenz >= 7/Woche und mehrere Reflexionen über Blogging in den Ruinen sozialer Plattformen. Dazu kamen Tech-Themen: removewindowsai, Kodo 7, Telegraph Design System, Browser-Grundlagen (How Browsers Work, Just the Browser, jQuery-Langlebigkeit), KI-gestützte Speech-to-Text-Apps, X/Deepfake-Porn-Debatten, Klimadaten von Copernicus sowie Popkultur mit Masters of Universe."
+    }
+  ]
+}

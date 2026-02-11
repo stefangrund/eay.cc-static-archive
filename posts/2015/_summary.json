@@ -1,0 +1,102 @@
+{
+  "year": 2015,
+  "info": "Die Zusammen&shy;fassungen wurden durch KI erstellt. Alle Posts eines Monats wurden dazu von generativer KI analysiert und die wichtigsten Themen in 200-500 Zeichen durch sie zusammen&shy;gefasst. Die Text&shy;generierung fand im Februar 2026 durch OpenAI GPT-5.3 statt und kann Ungenauig&shy;keiten oder Fehler enthalten.",
+  "months": [
+    {
+      "month": 1,
+      "monthName": "Januar",
+      "monthISO": "2015-01",
+      "postCount": 19,
+      "highlights": "HoloLens, WhatsApp überholt SMS, Oscar-Nominierungen",
+      "summary": "Januar war sehr voll: Popkultur und Film mit Hobbit 5 Heere, Die Entdeckung der Unendlichkeit, CNNs Weltende-Video und Oscar-Nominierungen. Tech/Netz: Microsoft HoloLens, Responsive Logos, A Brief History of UI, Update Your Footer und WhatsApp überholt SMS. Dazu GIFs als Medium, Video Essays, Projektion-Listen, Open Windows Review plus Giveaway, Create Reminders for Due und iOS-Apps vs US-Kinokasse. Persönlich 12 Jahre eay.cc. Ein dichter Monat zwischen Medien, Technik und Rückblick."
+    },
+    {
+      "month": 2,
+      "monthName": "Februar",
+      "monthISO": "2015-02",
+      "postCount": 12,
+      "highlights": "Bitcoin-Blockchain, Oscar-Review, Marco Arment, Blogging-These",
+      "summary": "Februar drehte sich um Medien und Tech: Bitcoin-Blockchain als Revolution, Oscar-Prognose plus Oscar-Review, Marco Arment über Blogging und How much Hollywood depends on worldwide box office. Pop und Links: Simpsons Pixel-Intro, Spaceprob.es, Countries by Area, 400 Kurzfilme und Kickstarter Beam. Dazu Blogsoftware, Turning 30 und kleinere Webfundstücke."
+    },
+    {
+      "month": 3,
+      "monthName": "März",
+      "monthISO": "2015-03",
+      "postCount": 12,
+      "highlights": "Rogue One genannt, Motion Sensing im Browser, Firewatch",
+      "summary": "März mischte Tech und Pop: erstes Star-Wars-Spin-off Rogue One, Kingsman und TIE Fighter Fan-Anime. Web/Tech: Motion Sensing per Doppler im Browser, Minimal Status Bar, ustwo Armaturenbrett, BuzzFeed als News-These, The Four Horsemen, Double-u double-u double-u und The User is Drunk. Dazu Zukunftsvisionen zur Tech-Ökonomie und eine quantifizierte Agentur."
+    },
+    {
+      "month": 4,
+      "monthName": "April",
+      "monthISO": "2015-04",
+      "postCount": 4,
+      "highlights": "Avengers 2, Ex Machina, Chewie we're home, WordCamp",
+      "summary": "April war kurz, aber filmisch: Avengers Age of Ultron, Ex Machina und der Chewie we are home Moment. Dazu eine Notiz zu Caspar Clemens Mierau als leitmedium, WordCamp Nürnberg und eine Studie zu weniger gelesenen Snowden-Artikeln."
+    },
+    {
+      "month": 5,
+      "monthName": "Mai",
+      "monthISO": "2015-05",
+      "postCount": 5,
+      "highlights": "IndieWebCamp, HTTPS/Webmentions, Star-Wars-Emoji, Waybackpack",
+      "summary": "Mai brachte kleine Pop- und Politiknotizen: 5 kurze Jahre eay.li, @POTUS, Steven Seagal als Putin-Action-Held und Kung Fury. Dazu State of the Daten-Roaming, ein kurzer Blick auf Russlands Action-Mythos und ein paar News-Splitter."
+    },
+    {
+      "month": 6,
+      "monthName": "Juni",
+      "monthISO": "2015-06",
+      "postCount": 9,
+      "highlights": "Brexit danach, Yahoo Pipes Ende, IFTTT Maker, StreamOn-Kritik",
+      "summary": "Juni war mittelvoll und politisch: John Oliver zur FIFA, SPD-Parteikonvent für Vorratsdatenspeicherung, Brexit-Vorstimmung. Tech/Netz: Yahoo Pipes wird eingestellt, IFTTT Maker Channel, Kickstarter Shenmue 3 und WordCamp Cologne. Dazu Flagge der Erde, motu.threadless."
+    },
+    {
+      "month": 7,
+      "monthName": "Juli",
+      "monthISO": "2015-07",
+      "postCount": 15,
+      "highlights": "Han Solo Spin-off, Netzpolitik.org Ermittlungen, Ant-Man",
+      "summary": "Juli war sehr voll: Star-Wars-News (Han Solo Spin-off, Force Awakens Reel), Ant-Man, Muppets, Rick and Morty und Jurassic World 2. Netz/Politik: Video-Embeds erlaubt, Generalbundesanwalt gegen Netzpolitik.org, Web Design The First 100 Years. Tech/Netz: Stuff in Space, Pixel Dailies, Cage of Thrones und Fitbit Ultra Abschied. Dazu Feuerzeuge und Böller, Schlaf-Post, Dummes Gewäsch und diverse Fundstücke. Ein dichter Monat zwischen Pop, Politik und Web mit viel Nerdkultur und Links."
+    },
+    {
+      "month": 8,
+      "monthName": "August",
+      "monthISO": "2015-08",
+      "postCount": 10,
+      "highlights": "Windows 95 Jubiläum, GIF TV, Microblogging-Links, Tumblr-Fund",
+      "summary": "August brachte Netzkultur und Retro: 20 Jahre Windows 95, GIF TV, codedoodl.es, overshare die links.net Story und Dictionary Stories. Pop/Links: Madventure Time, New Devil's Dictionary, Frank, Starship-Speed-Ranking. Dazu Willkommen im gelobten Land und kleinere Tumblr-Funde."
+    },
+    {
+      "month": 9,
+      "monthName": "September",
+      "monthISO": "2015-09",
+      "postCount": 8,
+      "highlights": "Google Logo, El Capitan Review, Black Mirror zu Netflix",
+      "summary": "September war kompakt und techlastig: Google hat neues Logo, OS X El Capitan Review und Charlie Brookers Black Mirror geht zu Netflix. Dazu Snowden zur Alien-Funkstille, @Snowden, Weird Simpsons VHS, PPW Nightly Build und Zukunft von Autoindustrie und Straßenverkehr."
+    },
+    {
+      "month": 10,
+      "monthName": "Oktober",
+      "monthISO": "2015-10",
+      "postCount": 6,
+      "highlights": "Force Awakens Trailer, Marty McFly Day, ARD-ZDF-Studie",
+      "summary": "Oktober bot Pop und Tech: Force-Awakens-Poster, neuer Trailer, Star Wars Identities und Marty McFly Day. Netzkultur: GoogleGIFs Plugin, ARD-ZDF-Onlinestudie 2015, Home is where the wifi connects automatically und eine skurrile Facebook-Glitch-Liebesgeschichte."
+    },
+    {
+      "month": 11,
+      "monthName": "November",
+      "monthISO": "2015-11",
+      "postCount": 17,
+      "highlights": "Star Trek Serie, Mute, Böhmermann Polizei, Unicode-Experimente",
+      "summary": "November war sehr voll und nerdig: neue Star-Trek-Serie, Duncan Jones' Mute, Tarantino-8, North Korean Interiors, xkcd Hoverboard, Unicode-Experimente und neue Character Encoding-Themen. Tech/Netz: Calypso für WordPress, Post to WordPress with Workflow, kottke/waxy Redesign-Debatten. Pop/Politik: Böhmermann Polizei, Sascha Lobo zu Überwachung, Terrorists to Cowards. Dazu Todessternwaffeln und viele kleine Fundstücke. Ein dichter Monat zwischen Netzpolitik, Nerdkultur und Pop."
+    },
+    {
+      "month": 12,
+      "monthName": "Dezember",
+      "monthISO": "2015-12",
+      "postCount": 5,
+      "highlights": "Rogue One, Disney kauft Fox, Kinostatistik 2015, Serial S2",
+      "summary": "Dezember war kurz: Kinostatistik 2015, Force Awakens Tweet-Review und Serial Season 2. Dazu What happened to Apple design? und ein Link-Artikel über die Zukunft des Links. Ein kompakter Jahresausklang mit Star Wars und Medienkritik."
+    }
+  ]
+}

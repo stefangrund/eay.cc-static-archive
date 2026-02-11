@@ -4,5 +4,6 @@ Thumbs.db
 .idea/
 node_modules/
 export.xml
+summaries/
 
 !.gitkeep

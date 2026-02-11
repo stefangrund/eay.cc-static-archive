@@ -1,0 +1,102 @@
+{
+  "year": 2016,
+  "info": "Die Zusammen&shy;fassungen wurden durch KI erstellt. Alle Posts eines Monats wurden dazu von generativer KI analysiert und die wichtigsten Themen in 200-500 Zeichen durch sie zusammen&shy;gefasst. Die Text&shy;generierung fand im Februar 2026 durch OpenAI GPT-5.3 statt und kann Ungenauig&shy;keiten oder Fehler enthalten.",
+  "months": [
+    {
+      "month": 1,
+      "monthName": "Januar",
+      "monthISO": "2016-01",
+      "postCount": 4,
+      "highlights": "Oscar-Nominierungen, Star-Wars-Print, Datenschutz-Voßhoff",
+      "summary": "Januar war kurz und konzentriert: Oscar-Nominierungen 2016, köst.lich.es #13 und ein Star-Wars-Print als persönliches Highlight. Dazu Politik und Datenschutz mit Andrea Voßhoff sowie ein kleiner Mix aus Popkultur und Jahresanfangsstimmung."
+    },
+    {
+      "month": 2,
+      "monthName": "Februar",
+      "monthISO": "2016-02",
+      "postCount": 7,
+      "highlights": "Ghost in the Shell Trailer, Pocket-Kauf, Oscar-Prognose",
+      "summary": "Februar brachte Popkultur und kleine Tools: Oscar-Prognose, Bill Murray Stories, ein Ghost-in-the-Shell-Trailer und ein Tumblr-Fundstück. Persönlich: Star-Lord-und-Gamora-Kostüm, neue Asides und ein Instagram-der-Woche-Post. Weitere Themen und Links rundeten den Monat ab."
+    },
+    {
+      "month": 3,
+      "monthName": "März",
+      "monthISO": "2016-03",
+      "postCount": 12,
+      "highlights": "Firewatch, Google Design Resizer, \"Take X and add AI\"",
+      "summary": "März war deutlich voller: Firewatch, Raum, diverse Filmthemen und ein Indiana-Jones-Update für 2019. Tech/Netz: Google Design Resizer, Awesome Selfhosted, JSON-API-Liste, Paid-Feature bei Flickr und ein JSON-API-Sammelpost. Dazu das Buzzword \"Take X and add AI\" und kleine Fundstücke wie ein Tür-Update und köst.lich.es #14. Ein Monat zwischen Tools, Film und Medienkritik."
+    },
+    {
+      "month": 4,
+      "monthName": "April",
+      "monthISO": "2016-04",
+      "postCount": 9,
+      "highlights": "Rogue One Trailer, WordCamp Nürnberg, Snowden-Studie",
+      "summary": "April mischte Star Wars und WordCamp: Rogue-One-Trailer, Berninger und ein Rückblick auf WordCamp Nürnberg. Netz/Medien: Felix Schwenzel über eingemauerte Gärten, Studie zu Snowden-Effekten, Adult-Swim-Geschichte und ein paar Beobachtungen zu geteiltem Gemüse. Dazu köst.lich."
+    },
+    {
+      "month": 5,
+      "monthName": "Mai",
+      "monthISO": "2016-05",
+      "postCount": 20,
+      "highlights": "IndieWebCamp, HTTPS/Webmentions, Star-Wars-Infografik",
+      "summary": "Mai war sehr voll und stark IndieWeb-getrieben: HTTPS aktiviert, Webmentions-Test, IndieWebCamp Düsseldorf, Shirt angekommen und Rückblick auf beyond tellerrand. Pop/Netz: Star-Wars-Emoji-Erzählung, Episode-IV-Infografik, Cinema Palettes, Everything is a Remix, Rogue-One-Sachen. Tools/Links: Waybackpack, Packal, Spacehack, Desqueeze, Alfred-Repo. Dazu Amazon startet Video-Plattform, Comics, Calvin & Hobbes, neue Geschirrtücher und der Vierte Industrielle Revolution-Blick."
+    },
+    {
+      "month": 6,
+      "monthName": "Juni",
+      "monthISO": "2016-06",
+      "postCount": 15,
+      "highlights": "Brexit danach, Snapdrop Web-AirDrop, StreamOn-Kritik",
+      "summary": "Juni brachte Politik und Technik: Brexit-Tag danach, StreamOn-Kritik, ZDF-Doku zu Silicon Valley, taz-Keylogger-Recherche und ein TED-Talk-Prototyp. Tech/Netz: Snapdrop als Web-AirDrop, Google arbeitet an AI-Kill-Switch, 100 Mbit/s, Liebe deine Pixel, Trailer für TV-Shows und mehrere Webfundstücke. Popkultur: Nice Guys, Son of Zorn, Batman Animated Series. Dazu Blogger-vereint-euch, ein Grillfest, Done-Post und mehrere Status-Notizen. Ein sehr voller Monat mit Politik, Tech und Medien."
+    },
+    {
+      "month": 7,
+      "monthName": "Juli",
+      "monthISO": "2016-07",
+      "postCount": 14,
+      "highlights": "Black Mirror News, Star Trek Revival, Drop-Down-Rant",
+      "summary": "Juli mischte Nerd, Netz und Medien: neue Black-Mirror-Folgen angekündigt, Star-Trek-Seriennews, Rogue-One-Behind-the-Scenes, Dark Age of DC Comics abgesagt. Web/Pop: You know what? Fuck drop downs, YouTube und Essaykultur, Mordfall Serial neu aufgerollt. Dazu Adorno antwortet, mobileres Blogging, Barbara?, Emoji, Crypto-Einstieg, AccidentalWesAnderson und mehrere persönliche Notizen."
+    },
+    {
+      "month": 8,
+      "monthName": "August",
+      "monthISO": "2016-08",
+      "postCount": 5,
+      "highlights": "Netzneutralität EU, Leistungsschutzrecht, Rogue One",
+      "summary": "August war kurz, aber politisch: Netzneutralität in der EU, Debatte um EU-weites Leistungsschutzrecht und ein Abmahnbeantworter. Weitere Themen und Links rundeten den Monat ab. Weitere Themen und Links rundeten den Monat ab."
+    },
+    {
+      "month": 9,
+      "monthName": "September",
+      "monthISO": "2016-09",
+      "postCount": 6,
+      "highlights": "shortfil.ms #1000, Plex Cloud, Erdtemperatur-Timeline",
+      "summary": "September bot kurze Netz- und Alltagsnotizen: Timeline zur Erdtemperatur, Plex Cloud, How to be right all the time und shortfil.ms #1000. Dazu eine kleine Blogsammlung, Adulthood, A collection of hundreds of small blogs und ein paar Webfundstücke. Weitere Themen und Links rundeten den Monat ab."
+    },
+    {
+      "month": 10,
+      "monthName": "Oktober",
+      "monthISO": "2016-10",
+      "postCount": 8,
+      "highlights": "Black Mirror S3 Trailer, Rogue One, ISS-Filmliste, Snowden",
+      "summary": "Oktober brachte Pop und Tech: Rogue-One-Trailer, Black-Mirror-S3-Trailer und Snowden. Netz/Alltag: Smarthome-Fetzen, Keyword-Tool, Home-is-where-wifi, ISS-Filmliste, The Keyword und shortfil.ms-Shirts. Weitere Themen und Links rundeten den Monat ab. Weitere Themen und Links rundeten den Monat ab."
+    },
+    {
+      "month": 11,
+      "monthName": "November",
+      "monthISO": "2016-11",
+      "postCount": 7,
+      "highlights": "Black Mirror S3, Überwachungsstaat, Waxy/Kottke, curlable",
+      "summary": "November war kleiner, aber pointiert: Black Mirror S3, Überwachungsthemen, Waxy/Kottke-Redesigns und ein curlable-Tool. Dazu DIY-or-keep-dying, Mahna Mahna, Neues Spielzeug und Schleichend zum Überwachungsstaat. Weitere Themen und Links rundeten den Monat ab."
+    },
+    {
+      "month": 12,
+      "monthName": "Dezember",
+      "monthISO": "2016-12",
+      "postCount": 19,
+      "highlights": "Rogue One, Disney kauft Fox, Kinostatistik 2016, Amazon Go",
+      "summary": "Dezember war sehr voll mit Netzpolitik und Pop: Rogue One samt Analyse, Kinostatistik 2016, Disney kauft Fox und Amazon Go startet. Dazu Resilient Web Design, Two-Factor-Auth-Liste, Vorratsdatenspeicherung, Fake-News-Abwehrzentrum, Silent Night by Chewbacca und Carrie Fisher. Weitere Fundstücke: Web Worldwide, Power Mode, Nocturnal Animals, Metropolis-Remake-News, Amazon Go als AWS für Retail und viele Jahresend-Links. Ein dichter Jahresabschluss mit Popkultur, Politik und Tech."
+    }
+  ]
+}

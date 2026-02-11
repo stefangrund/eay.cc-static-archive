@@ -66,6 +66,16 @@ I've added a shell script to analyze the files and print out the numbers of post
 npm run stats
 ```
 
+## Summaries
+
+There are AI-generated monthly summaries per year in `posts/YYYY/_summary.json`. They’re intended for archive pages and similar overviews. The process and rules to generate them live in this guide: `docs/guides/monthly-summaries-guide.md`.
+
+To generate one combined summary file (→ `summaries/all.json`) and/or to export them for further usage (→ creates `summaries/YYYY.json` files), run:
+
+```
+npm run summaries
+```
+
 ## Acknowledgements
 
 To generate the Markdown files from WordPress' exported XML file, I'm using a custom fork of [Will Boyd](https://codersblock.com/)'s [WordPress export to Markdown](https://github.com/lonekorean/wordpress-export-to-markdown) script (located under `scripts/wordpress-export-to-markdown/`). If you want to do this, too, you should definitely use Will's script, not mine, which is highly customized to my personal blog setup.

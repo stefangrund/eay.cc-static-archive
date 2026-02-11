@@ -11,7 +11,6 @@ categories:
   - 0815
 tags:
   - bizarres
-  - emoji
   - emojis
   - visualisierung
 meta:
@@ -19,6 +18,7 @@ meta:
   - linked_list_url: "https://wh0.github.io/2020/01/02/scissors.html"
   - linked_list_url: "https://wh0.github.io/2020/01/02/scissors.html"
   - yourls_shorturl: "https://eay.li/3ce"
+  - linked_list_og-title: "Which emoji scissors close"
 ---
 
 ![Which emoji scissors close](https://eay.cc/uploads/2020/scissors.png)

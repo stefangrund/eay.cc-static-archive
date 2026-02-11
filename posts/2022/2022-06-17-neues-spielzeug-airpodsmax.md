@@ -14,6 +14,7 @@ tags:
   - apple
   - fotos
   - konsum
+  - kopfhoerer
 meta:
   - geo_latitude: "50.973808"
   - geo_longitude: "6.683081"

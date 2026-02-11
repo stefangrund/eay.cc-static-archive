@@ -1,0 +1,102 @@
+{
+  "year": 2018,
+  "info": "Die Zusammen&shy;fassungen wurden durch KI erstellt. Alle Posts eines Monats wurden dazu von generativer KI analysiert und die wichtigsten Themen in 200-500 Zeichen durch sie zusammen&shy;gefasst. Die Text&shy;generierung fand im Februar 2026 durch OpenAI GPT-5.3 statt und kann Ungenauig&shy;keiten oder Fehler enthalten.",
+  "months": [
+    {
+      "month": 1,
+      "monthName": "Januar",
+      "monthISO": "2018-01",
+      "postCount": 20,
+      "highlights": "Ghostbusters-Trailer, AirPlay für Samsung, Breitband-Bericht",
+      "summary": "Januar vereint Rückblick und Netzkultur: Quantified Eay 2017, aussterbende Arten, 15 Jahre eay.cc und mehrere Film-Links wie Bumblebee, Dirk Gently S2 und Robin Hood. Tech/Netz: iTunes und AirPlay für Samsung-TVs, JS Paint, securitycheckli.st und der Bericht zum Breitbandausbau. Popkultur: Oscar-Nominierungen, Ghostbusters- und Mute-Trailer, Star Trek von Tarantino und Animaniacs-Reboot. Dazu Altkanzler Schmidt und Glasfaser, Mord durch Google-Suche und Mord zur Verhinderung eines Atomkriegs."
+    },
+    {
+      "month": 2,
+      "monthName": "Februar",
+      "monthISO": "2018-02",
+      "postCount": 13,
+      "highlights": "Nintendo Labo, Solo-Teaser, Super Bowl Trailer, Vue.js Amsterdam",
+      "summary": "Februar war kompakter, aber bunt: Nintendo Labo, Solo-Teaser, Super Bowl LII Trailer, Batman Ninja und Future Man S1. Web/Code: OpenSC2K, Status-Post am 14.02, Vue.js Amsterdam, What a screen, Amsterdam-Gruppenselfie. Dazu Alaaf, Gässchen, Shadow the Hedgehog of the Colossus und ein Blick auf magische Pappe."
+    },
+    {
+      "month": 3,
+      "monthName": "März",
+      "monthISO": "2018-03",
+      "postCount": 24,
+      "highlights": "Oscar-Prognose, Netflix Sans, The web is under threat",
+      "summary": "März brachte viel Pop und Web: Oscar-Prognose, Get Out, Three Billboards, Shape of Water, Tomb Raider, Pacific Rim, Red Sparrow und Every Wes Anderson Movie. Web/Netz: The web is under threat, Netflix Sans, Pigeon Movie Database, My Tiny Planet, Sonic Maker, Incredible History of Nintendo und No Code. Dazu Follow Fridays (Kulturindustrie, Five Things, LangweileDich), Alexa lacht creepy und Everything Sucks S1. Ein Statement wie To hell with more. I want better rundet den Monat ab."
+    },
+    {
+      "month": 4,
+      "monthName": "April",
+      "monthISO": "2018-04",
+      "postCount": 16,
+      "highlights": "Cloudflare 1.1.1.1, SmugMug kauft Flickr, Solo-Trailer",
+      "summary": "April mischte Webservices und Popkultur: Cloudflare 1.1.1.1 DNS, SmugMug kauft Flickr, monote, iPad Stack und Blogging is not dead. Film/TV: Ready Player One, Solo-Trailer, Jurassic World Fallen Kingdom, Y: The Last Man Pilot, Masters of the Universe Regiewechsel und Shenmue Re-Release. Dazu Segeay, köst.lich.es, Urlaubsmedienausbeute, der Pita-in-pocket-Gag, FX bestellt den Y-Piloten und ein Blick auf Superreiche, die sich in Neuseeland vorbereiten, plus ein paar Urlaubseindrücke."
+    },
+    {
+      "month": 5,
+      "monthName": "Mai",
+      "monthISO": "2018-05",
+      "postCount": 16,
+      "highlights": "Rick and Morty 70 Folgen, DSGVO-Countdown, Boba Fett Spin-Off",
+      "summary": "Mai brachte Status-Posts, Rick and Morty 70 Folgen, Boba Fett Spin-Off und Solo. Dazu Tool- und Design-Links: 300+ SNES-Logos, Lifefaker, Build your own, MacMenuBar und Getting things done ist eine Falle. Persönlich: Kurztrip nach Bremen, Besteckhaus Glaub, DSGVO-Countdown, Seating bei #btconf und Status-Posts am 03., 09. und 18.05. Pop: Wilson, Black Mirror S5, Mac OS X wird so alt wie Classic Mac OS, plus Adult Swim bestellt 70 neue Folgen und Solo: A Star Wars Story im Kino."
+    },
+    {
+      "month": 6,
+      "monthName": "Juni",
+      "monthISO": "2018-06",
+      "postCount": 10,
+      "highlights": "Leistungsschutzrecht, shortfil.ms 2.0, Mandy-Trailer",
+      "summary": "Juni war kürzer und politischer: Leistungsschutzrecht für Presseverleger, Holzmedien und öffentlich-rechtliche Online-Angebote, #WirLiebenBlogs. Pop: Mandy-Trailer, A Star Wars Story Spin-Offs gestoppt. Dazu shortfil.ms 2.0, Soccerpattern zur WM, Grillfest, Done und mehrere Status-Posts."
+    },
+    {
+      "month": 7,
+      "monthName": "Juli",
+      "monthISO": "2018-07",
+      "postCount": 15,
+      "highlights": "shotsnapp Mockups, MoviePass-Krise, Thanos-Subreddit",
+      "summary": "Juli brachte viele Nerd- und Webthemen: shotsnapp für Mockups, Brutalist Web Design, Itty Bitty, Shaky Economics of MoviePass, Thanos-Subreddit und Podcast Business Wars. Pop/TV: Westworld S2, Sicario 2, Der Untergang und ein Atomkrieg-Podcast. Dazu Passau-Trip, Exploring Passau, Wochenende in München, Status-Posts, Podcast Spiel mit der Bombe und ein Blick auf Typografie bei Filmplakaten. Thanos bannt die Hälfte seiner Mitglieder - plus Debatten um brutale Web-Ästhetik und Designfragen."
+    },
+    {
+      "month": 8,
+      "monthName": "August",
+      "monthISO": "2018-08",
+      "postCount": 13,
+      "highlights": "Apple Billion, Disenchantment-Trailer, Windows 95 Electron",
+      "summary": "August war voll mit Pop und Plattformen: Apple knackt die Billion, Episode IX castet Matt Smith, Disenchantment-Trailer, Ant-Man and the Wasp, Matrix 4 und Windows 95 als Electron-App. Netzkultur: Microblogging-Alternativen, replaceface-Tumblr, BreakingMyTwitter. Persönlich: Limp Bizkit in Bonn, Wochenende in Stuttgart, Status-Posts und ein Blick auf andere Planeten."
+    },
+    {
+      "month": 9,
+      "monthName": "September",
+      "monthISO": "2018-09",
+      "postCount": 12,
+      "highlights": "#SaveYourInternet, EU-Leistungsschutzrecht, iOS 13 Review",
+      "summary": "September drehte sich um Uploadfilter und Webpolitik: #SaveYourInternet, EU-Leistungsschutzrecht und ein Test-Detektor für Volkswagen im CI. Dazu iOS 13 Reviews, Sony Mini-Playstation und Smelvetica. Pop: Limetown-Trailer, Fan-made A New Hope Anime. Mehrere Status-Posts, ein Blogger-Entschuldigungsbrief, Bach auf Facebook und Kulturwissen wie OK-Ursprung."
+    },
+    {
+      "month": 10,
+      "monthName": "Oktober",
+      "monthISO": "2018-10",
+      "postCount": 22,
+      "highlights": "Google+ Ende, Tweetbot 5, Schottland-Trip, Slack auf SNES",
+      "summary": "Oktober war dicht: Google+ wird eingestellt, Tweetbot 5, Slack auf dem SNES, You Are Jeff Bezos Simulator und Programming Sucks. Popkultur: Gravity Falls, The Orville S1, Venom, Limetown S2, Beirut Album. Viele Reise-Notizen aus Schottland: Highlands, Nessie, Searching for Nessie, Ullapool, Knockan Crag, Glasgow, Dundee, Schafe und Berge. Dazu Status-Post, Emoji-Posts, Welcome to Park, Beer equals Happiness, Video Games Skies, Limetown kommt zu Halloween und starke Landschafts-Links."
+    },
+    {
+      "month": 11,
+      "monthName": "November",
+      "monthISO": "2018-11",
+      "postCount": 19,
+      "highlights": "Apple Pay DE, Kelber Datenschutzbeauftragter, London-Trip",
+      "summary": "November mischte London, Politik und Tech: Apple Pay Partnerbanken, neue Office-Icons, Kelber wird Datenschutzbeauftragter, Leistungsschutzrecht und Massenüberwachung bei Diesel-Fahrverboten. Reisen/Orte: London 2049, Tower Bridge Instaception, St. Pauls, Arthur's Seat, Sunset over England und Sonnenaufgang über Köln, plus Kiras Geburtstag in London. Dazu Alexa spielt Die Kassierer, Fake Oyster Cards, Mars-Mole-Launch, The Size of Space und mehrere Status-Posts und Spaziergangsnotizen."
+    },
+    {
+      "month": 12,
+      "monthName": "Dezember",
+      "monthISO": "2018-12",
+      "postCount": 11,
+      "highlights": "Kinostatistik 2018, Craftbeer-Advent, Better Worlds",
+      "summary": "Dezember schloss das Jahr mit Rückblicken: Kinostatistik 2018, Very Best Title Sequences und The Verge Better Worlds. Pop: Ein kleiner Gefallen, Predator Holiday Special. Nerd/Tools: GitLab-Contrib-Bookmarklet, Very Slow Movie Player, Atwood's Law und der Comcast-Artikel zu E.T. Dazu Craftbeer-Adventskalender, The Deep Sea, Status-Posts vom 09. und 11."
+    }
+  ]
+}

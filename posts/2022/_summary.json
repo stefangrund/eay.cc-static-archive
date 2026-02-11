@@ -1,0 +1,102 @@
+{
+  "year": 2022,
+  "info": "Die Zusammen&shy;fassungen wurden durch KI erstellt. Alle Posts eines Monats wurden dazu von generativer KI analysiert und die wichtigsten Themen in 200-500 Zeichen durch sie zusammen&shy;gefasst. Die Text&shy;generierung fand im Februar 2026 durch Anthropic Claude Sonnet 4.5 statt und kann Ungenauig&shy;keiten oder Fehler enthalten.",
+  "months": [
+    {
+      "month": 1,
+      "monthName": "Januar",
+      "monthISO": "2022-01",
+      "postCount": 18,
+      "highlights": "Web0 vs. Crypto, COVID-Höhepunkt, Rembrandt 717 Gigapixel",
+      "summary": "Web0 vs. Crypto prägte den Monat: Stephen Diehl nannte Crypto \"pyramid schemes and dog memes\", Aral Balkan proklamierte web0-Manifest. COVID auf dem Höhepunkt - persönlicher Frust über Impfgegner, familiäre Krise. Craig Mod kehrte nach zweijähriger Pandemie-Pause zurück. Springboard-Doku zu Handspring/Treo (Dieter Bohn). Rembrandts Nachtwache in 717 Gigapixel, iOS 15.4 Face ID mit Maske. Tools: schnelltesttest.de, direkt.bahn.guru. Pop: The Book of Boba Fett, Nicolas Cage \"Unbearable Weight\"."
+    },
+    {
+      "month": 2,
+      "monthName": "Februar",
+      "monthISO": "2022-02",
+      "postCount": 10,
+      "highlights": "Web3-Kritik, Notion-Wechsel, Meta Europa-Drohung, Webfunde",
+      "summary": "Spiegel: \"Web3 ist das Internet, das es zu verhindern gilt\" (Patrick Beuth). Goodbye Airtable - Wechsel zu Notion (240$/Jahr). Meta drohte mit Europa-Aus wegen Datenschutz - \"YES, PLEASE!\". 39. Geburtstag, Glasfaser-Anschluss kam endlich. Second Sight bionisches Auge, Tumblr Ad-Free für 4,99$/Monat."
+    },
+    {
+      "month": 3,
+      "monthName": "März",
+      "monthISO": "2022-03",
+      "postCount": 10,
+      "highlights": "Ukraine-Krieg, Solidaritäts-Bundle, Long Covid, Webfunde",
+      "summary": "Ukraine-Krieg und Solidarität: itch.io Bundle for Ukraine (991$), SpyBuster von MacPaw. Russen luden Wikipedia runter (Kiwix, Andy Baio warnte). Margarete Stokowski zu Long Covid - \"Nur noch 30 Jahre\" bis zur Rente als persönliche Reflexion. Weitere Themen und Links rundeten den Monat ab."
+    },
+    {
+      "month": 4,
+      "monthName": "April",
+      "monthISO": "2022-04",
+      "postCount": 10,
+      "highlights": "Musk kauft Twitter (44 Mrd.), Mastodon-Boom, Bluesky",
+      "summary": "Elon Musk kauft Twitter für 44 Mrd. $ - Mastodon-Boom, Bluesky-Unabhängigkeit. \"Blog more, tweet less\" als Reaktion. Andy Baio feierte 20 Jahre waxy.org, indieblog.page startete. Mona Chalabi visualisierte Jeff Bezos' Vermögen, Neal Agarwal mit Earth Reviews."
+    },
+    {
+      "month": 5,
+      "monthName": "Mai",
+      "monthISO": "2022-05",
+      "postCount": 13,
+      "highlights": "iPod-Ende, Blog-Revival (\"Seven of Nine\"), Doctor Who",
+      "summary": "Apple beendete iPod-Ära nach 20 Jahren - Nathaniel Daudts \"iPod Shuffle\"-Shortcut hielt Erinnerung wach. Blog-Kultur: Nicos Couchblog 20 Jahre, Michael: \"Bloggen ist Seven of Nine, Social Media ist Borg\", Chuck Grimmett über Gründe fürs Bloggen. Ncuti Gatwa als nächster Doctor Who - \"Super gute News\"."
+    },
+    {
+      "month": 6,
+      "monthName": "Juni",
+      "monthISO": "2022-06",
+      "postCount": 5,
+      "highlights": "LaMDA-Kontroverse, Content-Maschinen, AirPods Max, Webfunde",
+      "summary": "Google beurlaubte Blake Lemoine - der Ingenieur hielt LaMDA für fühlend, Blog kommentierte: \"Ganz klar Nonsense on Stilts\". Michael über \"Wir Content-Maschinen\": Content als verkaufbares Publikum. Weitere Themen und Links rundeten den Monat ab."
+    },
+    {
+      "month": 7,
+      "monthName": "Juli",
+      "monthISO": "2022-07",
+      "postCount": 7,
+      "highlights": "James Webb Teleskop, Baby-Erwartung, 20 Jahre mit Kira",
+      "summary": "James Webb Space Telescope lieferte erste Bilder - \"Unglaubliche Bilder\". Neal Agarwal \"Absurd Trolley Problems\" (Kill-Count 62). Karte: Größte europäische Städte ohne Erstligist - \"Grüße nach Bonn\". Persönlich: 20. Jahrestag und 8. Hochzeitstag mit Kira, Tochter im Oktober erwartet."
+    },
+    {
+      "month": 8,
+      "monthName": "August",
+      "monthISO": "2022-08",
+      "postCount": 8,
+      "highlights": "Daring Fireball 20 Jahre, Atomkraft-Krise, Corona-Todesfälle",
+      "summary": "Daring Fireball 20 Jahre - John Grubers \"Macintosh-oriented weblog\", The Talk Show, Dithering mit Ben Thompson. Engineering Festivus (Den Delimarsky) verbindet Seinfeld mit Tech-Themen (\"Just Use An npm Package\"). Atomkraft in Frankreich: Hitzewelle, Kühlwasser-Knappheit."
+    },
+    {
+      "month": 9,
+      "monthName": "September",
+      "monthISO": "2022-09",
+      "postCount": 17,
+      "highlights": "Queen Elizabeth, Vorratsdatenspeicherung, Verge Relaunch",
+      "summary": "Queen Elizabeth II starb mit 96, Adnan Syed nach 23 Jahren freigelassen (Serial), EuGH kippte deutsche Vorratsdatenspeicherung. The Verge Relaunch mit Micro-Blog-Feed - \"Revolutionizing the media with blog posts\", Daring Fireball als Inspiration. Apple Watch Ultra im Store besichtigt, Stadia-Einstellung - \"technologisch Leistung, als Produkt Totalversagen\". KI-Kunst: Hulk in Kölner Dom (Lexica), Steve Jobs Archive. Französisches Atom-Blackout-Szenario."
+    },
+    {
+      "month": 10,
+      "monthName": "Oktober",
+      "monthISO": "2022-10",
+      "postCount": 12,
+      "highlights": "Ariane geboren (22.10.), Ben Werd Blog-Appell, Webfunde",
+      "summary": "Geburt von Ariane Gretchen Grund (22.10., Bensberg) - \"wir könnten nicht glücklicher sein\". Palladium-Magazin: fiktives Atomkraft-Interview 2053 mit Isabelle Boemeke. NYT abgefangene Anrufe russischer Soldaten - \"Putin Is a Fool\". Ben Werd: \"You should blog. Yes, you.\" Jaythechou photoshoppt Paddington seit 578 Tagen in Filme. McDonaldland Manual 1975, 1,14 Mrd. Websites (17% aktiv)."
+    },
+    {
+      "month": 11,
+      "monthName": "November",
+      "monthISO": "2022-11",
+      "postCount": 27,
+      "highlights": "Twitter-Exodus (27 Posts!), Tapbots Ivory, Mastodon-Migration",
+      "summary": "Twitter unter Musk: 16 Jahre Twitter (Nutzer #16.563), \"Es liegt an dir, nicht an mir\". Musk-or-Mr.-Burns-Quiz, Trump-Poll mit 4,5% Beteiligung - \"The people have spoken\". Tumblr führt doppelte Checkmarks ein (7,99$), kündigt ActivityPub an. Fediverse-Diskurs: tef \"Federation = giving nerds control\", Marc-Uwe Kling \"Twitter kaufen\". Tapbots kündigt Ivory für Mastodon an. Jason Kottke zurück vom Sabbatical, shoutouts.lol (Vincent Ritter), ooh.directory."
+    },
+    {
+      "month": 12,
+      "monthName": "Dezember",
+      "monthISO": "2022-12",
+      "postCount": 12,
+      "highlights": "Robin Sloan \"platforms done\", Artemis I, WM-Finale",
+      "summary": "Robin Sloan: \"the platforms of the last decade are done\" - A year of new avenues. pLOLitik parodierte Lindners CL+ (\"Christian Lindner interviewt Christian Lindner\"). DW \"Ein Land funkt SOS\" - marode Infrastruktur, Merz als \"Montgomery-Burns-Lookalike\". Artemis I: Orion (268.563 Meilen Erdentfernung). WM-Finale Argentinien - \"ab der 70. Minute total irre\"."
+    }
+  ]
+}
