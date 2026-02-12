@@ -1,6 +1,6 @@
 {
   "year": 2026,
-  "info": "Die Zusammen&shy;fassungen wurden durch KI erstellt. Alle Posts eines Monats wurden dazu von generativer KI analysiert und die wichtigsten Themen in 200-500 Zeichen durch sie zusammen&shy;gefasst. Die Text&shy;generierung fand im Februar 2026 durch OpenAI GPT-5.3 statt und kann Ungenauig&shy;keiten oder Fehler enthalten.",
+  "info": "Diese Zusammen&shy;fassung wurde durch KI erstellt. Alle Posts des Monats wurden dazu von generativer KI analysiert und die wichtigsten Themen in 200-500 Zeichen durch sie zusammen&shy;gefasst. Die Text&shy;generierung fand im Februar 2026 durch OpenAI GPT-5.3 statt und kann Ungenauig&shy;keiten oder Fehler enthalten.",
   "months": [
     {
       "month": 1,
@@ -8,7 +8,7 @@
       "monthISO": "2026-01",
       "postCount": 36,
       "highlights": "23 Jahre Blog, Daily-Blogging-Serie, Browser- und KI-Toolkritik",
-      "summary": "Januar war ein dichter Mix aus Blog-Meta, Netzkritik und Tool-Fundstücken: 23 Jahre Blog, ein Jahr Daily-Blogging, Posting-Frequenz >= 7/Woche und mehrere Reflexionen über Blogging in den Ruinen sozialer Plattformen. Dazu kamen Tech-Themen: removewindowsai, Kodo 7, Telegraph Design System, Browser-Grundlagen (How Browsers Work, Just the Browser, jQuery-Langlebigkeit), KI-gestützte Speech-to-Text-Apps, X/Deepfake-Porn-Debatten, Klimadaten von Copernicus sowie Popkultur mit Masters of Universe."
+      "summary": "Januar war ein dichter Mix aus Blog-Meta, Netzkritik und Tool-Fundstücken: <a href=\"https://eay.cc/2026/23-jahre/\">23 Jahre Blog</a>, <a href=\"https://eay.cc/2026/one-year-of-daily-blogging/\">ein Jahr Daily-Blogging</a>, <a href=\"https://eay.cc/2026/posting-frequenz-%e2%89%a5-7-woche/\">Posting-Frequenz >= 7/Woche</a> und mehrere Reflexionen über <a href=\"https://eay.cc/2026/the-case-for-blogging-in-the-ruins/\">Blogging in den Ruinen</a> sozialer Plattformen. Dazu kamen Tech-Themen: <a href=\"https://eay.cc/2026/removewindowsai-force-remove-copilot-recall-and-more-in-windows-11/\">removewindowsai</a>, <a href=\"https://eay.cc/2026/kodo-7-a-ui-odyssey/\">Kodo 7</a>, <a href=\"https://eay.cc/2026/telegraph-design-system/\">Telegraph Design System</a>, Browser-Grundlagen (<a href=\"https://eay.cc/2026/how-browsers-work/\">How Browsers Work</a>, <a href=\"https://eay.cc/2026/just-the-browser-strippt-moderne-browser-wieder-auf-das-wesentliche/\">Just the Browser</a>, <a href=\"https://eay.cc/2026/nothing-can-kill-jquery/\">jQuery-Langlebigkeit</a>), <a href=\"https://eay.cc/2026/ki-gestuetzte-sprache-zu-text-apps/\">KI-gestützte Speech-to-Text-Apps</a>, X/<a href=\"https://eay.cc/2026/whos-who-at-x-the-deepfake-porn-site-formerly-known-as-twitter/\">Deepfake</a>-Porn-Debatten, <a href=\"https://eay.cc/2026/copernicus-2025-was-the-third-hottest-year-on-record/\">Klimadaten von Copernicus</a> sowie Popkultur mit <a href=\"https://eay.cc/2026/masters-of-the-universe-teaser-trailer/\">Masters of Universe</a>."
     }
   ]
 }

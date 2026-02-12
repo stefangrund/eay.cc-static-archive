@@ -1,6 +1,6 @@
 {
   "year": 2019,
-  "info": "Die Zusammen&shy;fassungen wurden durch KI erstellt. Alle Posts eines Monats wurden dazu von generativer KI analysiert und die wichtigsten Themen in 200-500 Zeichen durch sie zusammen&shy;gefasst. Die Text&shy;generierung fand im Februar 2026 durch OpenAI GPT-5.3 statt und kann Ungenauig&shy;keiten oder Fehler enthalten.",
+  "info": "Diese Zusammen&shy;fassung wurde durch KI erstellt. Alle Posts des Monats wurden dazu von generativer KI analysiert und die wichtigsten Themen in 200-500 Zeichen durch sie zusammen&shy;gefasst. Die Text&shy;generierung fand im Februar 2026 durch OpenAI GPT-5.3 statt und kann Ungenauig&shy;keiten oder Fehler enthalten.",
   "months": [
     {
       "month": 1,
@@ -8,7 +8,7 @@
       "monthISO": "2019-01",
       "postCount": 20,
       "highlights": "Disney+-Start, Apple über DAX, GitHub Arktis-Archiv",
-      "summary": "Januar vereint Rückblick und Netzkultur: Quantified Eay 2018, aussterbende Arten, 16 Jahre eay.cc und mehrere Film-Links (Bumblebee, Blood Fest, Robin Hood). Tech/Netz: iTunes und AirPlay für Samsung-TVs, Introducing Yonks, Dimensions.Guide, Signal v Noise verlässt Medium, securitycheckli.st. Popkultur: House of Cards S6, Ghostbusters-3-Teaser, Oscar-Nominierungen und ein neuer Batman 2021. Dazu der Satz „Ideas are just a multiplier of execution“ und frisch gerahmte Bottleneck-Poster."
+      "summary": "Januar vereint Rückblick und Netzkultur: <a href=\"https://eay.cc/2019/quantified-eay-2018/\">Quantified Eay 2018</a>, aussterbende Arten, <a href=\"https://eay.cc/2019/16-jahre/\">16 Jahre</a> eay.cc und mehrere Film-Links (<a href=\"https://eay.cc/2019/bumblebee-2018/\">Bumblebee</a>, <a href=\"https://eay.cc/2019/blood-fest-2019/\">Blood Fest</a>, <a href=\"https://eay.cc/2019/robin-hood-2019/\">Robin Hood</a>). Tech/Netz: iTunes und AirPlay für <a href=\"https://eay.cc/2019/itunes-store-und-airplay-kommen-auf-samsung-tvs/\">Samsung-TVs</a>, <a href=\"https://eay.cc/2019/introducing-yonks/\">Introducing Yonks</a>, <a href=\"https://eay.cc/2019/dimensions-guide/\">Dimensions</a>.Guide, <a href=\"https://eay.cc/2019/signal-v-noise-exits-medium/\">Signal v Noise</a> verlässt Medium, <a href=\"https://eay.cc/2019/securitycheckli-st/\">securitycheckli</a>.st. Popkultur: <a href=\"https://eay.cc/2019/house-of-cards-season-6/\">House of Cards</a> S6, <a href=\"https://eay.cc/2019/teaser-zu-ghostbusters-3/\">Ghostbusters</a>-3-Teaser, <a href=\"https://eay.cc/2019/oscar-nominierungen-2019/\">Oscar-Nominierungen</a> und ein <a href=\"https://eay.cc/2019/neuer-batman-film-the-batman-fuer-sommer-2021-geplant/\">Neuer Batman</a> 2021. Dazu der Satz „<a href=\"https://eay.cc/2019/ideas-are-just-a-multiplier-of-execution/\">Ideas are just</a> <a href=\"https://eay.cc/2019/ideas-are-just-a-multiplier-of-execution/\">a multiplier of execution</a>“ und frisch gerahmte Bottleneck-Poster."
     },
     {
       "month": 2,
@@ -16,7 +16,7 @@
       "monthISO": "2019-02",
       "postCount": 18,
       "highlights": "Palindrome Day, 99-Smartphones-Stau, Emoji-Analysen",
-      "summary": "Februar war voll mit Medien und Tech: Heavyweight und Reply All, Spotify kauft Gimlet, The Movies, Vice und Alita. Netzfundstücke: relentless.com, Website Carbon Calculator und die Frage, warum das Internet nicht wilder ist. Personal: neue Büropflanzen, @michsch und ich mal drei, Amsterdam Crew, Alaaf you. Tech-Politik/Kultur: Legacy of Firefox OS, Assange-Doku, Vue-ist-wie-Harry-Potter, Yonks featured im App Store. Dazu Oscar-Prognose, Glass und kleine Web-Kuriositäten im Alltag."
+      "summary": "Februar war voll mit Medien und Tech: <a href=\"https://eay.cc/2019/heavyweight/\">Heavyweight</a> und <a href=\"https://eay.cc/2019/reply-all-the-founder/\">Reply All</a>, <a href=\"https://eay.cc/2019/spotify-will-gimlet-media-fuer-mehr-als-200-millionen-dollar-kaufen/\">Spotify</a> kauft Gimlet, <a href=\"https://eay.cc/2019/the-movies/\">The Movies</a>, Vice und Alita. Netzfundstücke: <a href=\"https://eay.cc/2019/relentless-com/\">relentless</a>.com, <a href=\"https://eay.cc/2019/website-carbon-calculator/\">Website Carbon Calculator</a> und die Frage, warum das Internet nicht wilder ist. Personal: <a href=\"https://eay.cc/2019/neue-bueropflanzen/\">Neue Büropflanzen</a>, <a href=\"https://eay.cc/2019/michsch-und-ich-mal-drei/\">@michsch und ich mal drei</a>, <a href=\"https://eay.cc/2019/amsterdam-crew-2019/\">Amsterdam Crew</a>, <a href=\"https://eay.cc/2019/alaaf-you/\">Alaaf you</a>. Tech-Politik/Kultur: <a href=\"https://eay.cc/2019/the-legacy-of-firefox-os/\">Legacy of Firefox OS</a>, <a href=\"https://eay.cc/2019/kaltgestellt-endspiel-fuer-assange/\">Assange</a>-Doku, Vue-ist-wie-Harry-Potter, <a href=\"https://eay.cc/2019/yonks-featured-on-the-app-store/\">Yonks featured</a> im App Store. Dazu Oscar-Prognose, Glass und kleine Web-Kuriositäten im Alltag."
     },
     {
       "month": 3,
@@ -24,7 +24,7 @@
       "monthISO": "2019-03",
       "postCount": 15,
       "highlights": "Uploadfilter-Kritik, WWW-Simulator, Captain Marvel",
-      "summary": "März brachte Tech, Politik und Pop: WorldWideWeb-Simulator, Super Tiny Compiler, Thanos.js und Apple Event Opening Film. Politisch: Uploadfilter-Kritik und SPD-Satire, switching.social als Ausstiegssignal. Pop: Captain Marvel, Cold Pursuit, Umbrella Academy S1, QualityLand wird HBO-Serie. Dazu Status-Posts vom 10., 26. und 31., ein Happy-Hour-Moment und ein „Im so happy“ Post, plus ein Update zur Web-Community. Ein dichter Mix aus Code-Spielereien, Medien und Netzpolitik und mehr."
+      "summary": "März brachte Tech, Politik und Pop: <a href=\"https://eay.cc/2019/worldwideweb-simulator/\">WorldWideWeb-Simulator</a>, <a href=\"https://eay.cc/2019/the-super-tiny-compiler/\">Super Tiny Compiler</a>, <a href=\"https://eay.cc/2019/thanos-js/\">Thanos.js</a> und <a href=\"https://eay.cc/2019/apple-event-opening-film/\">Apple Event Opening Film</a>. Politisch: <a href=\"https://eay.cc/2019/uploadfilter-machen-die-maechtigsten-noch-maechtiger/\">Uploadfilter</a>-Kritik und SPD-Satire, <a href=\"https://eay.cc/2019/switching-social/\">switching</a>.social als Ausstiegssignal. Pop: <a href=\"https://eay.cc/2019/captain-marvel-2019/\">Captain Marvel</a>, <a href=\"https://eay.cc/2019/cold-pursuit-2019/\">Cold Pursuit</a>, <a href=\"https://eay.cc/2019/umbrella-academy-season-1/\">Umbrella Academy</a> S1, <a href=\"https://eay.cc/2019/qualityland-wird-zur-hbo-serie/\">QualityLand</a> wird HBO-Serie. Dazu Status-Posts vom 10., 26. und 31., ein Happy-Hour-Moment und ein „Im <a href=\"https://eay.cc/2019/im-so-happy-its-happy-hour/\">so happy</a>“ Post, plus ein Update zur Web-Community. Ein dichter Mix aus Code-Spielereien, Medien und Netzpolitik und mehr."
     },
     {
       "month": 4,
@@ -32,7 +32,7 @@
       "monthISO": "2019-04",
       "postCount": 9,
       "highlights": "Firmengründung, Yonks 100 days, Rise of Skywalker-Teaser",
-      "summary": "April war Gründerzeit und Popkultur: Firmengründung, 100 days of Yonks und Vier Fäuste gegen Artikel 13. Film/TV: Shazam, Rise of Skywalker-Teaser und The Cage Cage. Medien: recs-Newsletter von Rex Sorgatz, Nothing fails like Success. Weitere Themen und Links rundeten den Monat ab."
+      "summary": "April war Gründerzeit und Popkultur: <a href=\"https://eay.cc/2019/firmengruendung/\">Firmengründung</a>, <a href=\"https://eay.cc/2019/100-days-of-yonks/\">100 days of Yonks</a> und <a href=\"https://eay.cc/2019/vier-faeuste-gegen-artikel-13/\">Vier Fäuste gegen Artikel 13</a>. Film/TV: Shazam, <a href=\"https://eay.cc/2019/teaser-zu-star-wars-the-rise-of-skywalker/\">Rise of Skywalker</a>-Teaser und <a href=\"https://eay.cc/2019/the-cage-cage/\">The Cage Cage</a>. Medien: recs-Newsletter von <a href=\"https://eay.cc/2019/recs-newsletter-by-rex-sorgatz/\">Rex Sorgatz</a>, <a href=\"https://eay.cc/2019/nothing-fails-like-success/\">Nothing fails like Success</a>. Weitere Themen und Links rundeten den Monat ab."
     },
     {
       "month": 5,
@@ -40,7 +40,7 @@
       "monthISO": "2019-05",
       "postCount": 8,
       "highlights": "Chewbacca gestorben, BMW i8 Fahrt, Black Mirror S5 Trailer",
-      "summary": "Mai mischte Pop, Reisen und Technik: Chewbacca-Darsteller Peter Mayhew ist gestorben, Black-Mirror-Season-5-Trailer und The Big Bang Theory. Persönlich: Kurztrip nach München, erstmals BMW i8 gefahren, Zweitligameister. Web/Tools: MacMenuBar.com. Dazu ein Status-Post am 22.05."
+      "summary": "Mai mischte Pop, Reisen und Technik: Chewbacca-Darsteller <a href=\"https://eay.cc/2019/chewbacca-schauspieler-peter-mayhew-verstirbt-mit-74/\">Peter Mayhew</a> ist gestorben, Black-Mirror-Season-5-Trailer und <a href=\"https://eay.cc/2019/the-big-bang-theory/\">The Big Bang Theory</a>. Persönlich: <a href=\"https://eay.cc/2019/kurztrip-nach-muenchen/\">Kurztrip nach München</a>, erstmals <a href=\"https://eay.cc/2019/ich-bin-gestern-das-erste-mal-mit-einem-bmw-i8-gefahren-und-ich-sag-mal-so-want/\">BMW i8 gefahren</a>, <a href=\"https://eay.cc/2019/zweitligameister/\">Zweitligameister</a>. Web/Tools: <a href=\"https://eay.cc/2019/macmenubar-com/\">MacMenuBar</a>.com. Dazu ein Status-Post am 22.05."
     },
     {
       "month": 6,
@@ -48,7 +48,7 @@
       "monthISO": "2019-06",
       "postCount": 8,
       "highlights": "Playdate vorgestellt, Jony Ive geht, HTML-Quine-Experiment",
-      "summary": "Juni: Playdate wird vorgestellt, Jony Ive verlässt Apple und gründet ein Designstudio. Retro/Nerd: 70 Jahre George Orwells 1984, ein brutales HTML-Quine und McBain - The Movie. Dazu drei Status-Posts und ein Blick auf Tech-Trends. Weitere Themen und Links rundeten den Monat ab."
+      "summary": "Juni: <a href=\"https://eay.cc/2019/playdate/\">Playdate</a> wird vorgestellt, Jony Ive <a href=\"https://eay.cc/2019/jony-ive-verlaesst-apple-und-gruendet-eigenes-designstudio-lovefrom/\">verlässt Apple und gründet</a> ein Designstudio. Retro/Nerd: 70 Jahre George Orwells <a href=\"https://eay.cc/2019/heute-vor-70-jahren-ist-die-erstausgabe-von-georgeorwells-1984-erschienen/\">1984</a>, ein brutales HTML-Quine und <a href=\"https://eay.cc/2019/mcbain-the-movie/\">McBain - The Movie</a>. Dazu drei Status-Posts und ein Blick auf Tech-Trends. Weitere Themen und Links rundeten den Monat ab."
     },
     {
       "month": 7,
@@ -56,7 +56,7 @@
       "monthISO": "2019-07",
       "postCount": 13,
       "highlights": "Personal-Website-Verse, Stranger-Things-Mashups, Hochzeitstag",
-      "summary": "Juli war voll mit Pop, Web und persönlichen Momenten: Day One/Beer O'Clock, „The books will stop working“, Into the Personal-Website-Verse und @EmojiMashupBot. Popkultur: Stranger Things-Fan-Mashups, John Oliver zu Boris Johnson. Persönlich: Übernachtung auf dem Meer, Netzwerkparty mit MacBooks, 18. Jahres-/6. Hochzeitstag."
+      "summary": "Juli war voll mit Pop, Web und persönlichen Momenten: <a href=\"https://eay.cc/2019/day-one/\">Day One</a>/<a href=\"https://eay.cc/2019/day-one-beer-oclock/\">Beer O'Clock</a>, „<a href=\"https://eay.cc/2019/the-books-will-stop-working/\">The books will stop working</a>“, <a href=\"https://eay.cc/2019/into-the-personal-website-verse/\">Into the Personal-Website-Verse</a> und <a href=\"https://eay.cc/2019/your-favorite-twitter-account-for-the-next-5-minutes-emojimashupbot/\">@EmojiMashupBot</a>. Popkultur: <a href=\"https://eay.cc/2019/stranger-things-fan-mashups/\">Stranger Things</a>-Fan-Mashups, <a href=\"https://eay.cc/2019/john-oliver-ueber-boris-johnson/\">John Oliver</a> zu <a href=\"https://eay.cc/2019/john-oliver-ueber-boris-johnson/\">Boris Johnson</a>. Persönlich: Übernachtung <a href=\"https://eay.cc/2019/wir-schlafen-heute-nicht-nur-am-sondern-auch-direkt-auf-dem-meer/\">auf dem Meer</a>, Netzwerkparty mit MacBooks, 18. Jahres-/6. Hochzeitstag."
     },
     {
       "month": 8,
@@ -64,7 +64,7 @@
       "monthISO": "2019-08",
       "postCount": 12,
       "highlights": "Tumblr-Kauf, Matrix 4, Once Upon a Time in Hollywood",
-      "summary": "August brachte Pop und Plattformen: Automattic übernimmt Tumblr, Matrix 4 kommt, Once Upon a Time in Hollywood, Toy Story 4 und Green Book. Netz/Design: Future Fonts, AIRCON 1000, Seek als Shazam für Natur, Porsche by VW. Persönlich: Wochenende in Stuttgart und „Home is where this church is“. Dazu Ballon Mayhem von Jan Hakon Erichsen."
+      "summary": "August brachte Pop und Plattformen: <a href=\"https://eay.cc/2019/automattic-uebernimmt-tumblr/\">Automattic übernimmt Tumblr</a>, <a href=\"https://eay.cc/2019/matrix-4-kommt/\">Matrix 4 kommt</a>, Once Upon <a href=\"https://eay.cc/2019/once-upon-a-time-in-hollywood-2019/\">a Time in Hollywood</a>, <a href=\"https://eay.cc/2019/toy-story-4-2019/\">Toy Story 4</a> und <a href=\"https://eay.cc/2019/green-book-2018/\">Green Book</a>. Netz/Design: <a href=\"https://eay.cc/2019/future-fonts/\">Future Fonts</a>, <a href=\"https://eay.cc/2019/your-favorite-tumblr-for-the-next-5-minutes-54-aircon-1000/\">AIRCON 1000</a>, Seek als <a href=\"https://eay.cc/2019/seek-shazam-fuer-die-natur/\">Shazam</a> für Natur, <a href=\"https://eay.cc/2019/porsche-by-vw/\">Porsche by VW</a>. Persönlich: <a href=\"https://eay.cc/2019/wochenende-in-stuttgart/\">Wochenende in Stuttgart</a> und „<a href=\"https://eay.cc/2019/home-is-where-this-church-is/\">Home is where</a> this church is“. Dazu <a href=\"https://eay.cc/2019/ballon-mayhem-von-jan-hakon-erichsen/\">Ballon Mayhem</a> <a href=\"https://eay.cc/2019/ballon-mayhem-von-jan-hakon-erichsen/\">von Jan Hakon Erichsen</a>."
     },
     {
       "month": 9,
@@ -72,7 +72,7 @@
       "monthISO": "2019-09",
       "postCount": 10,
       "highlights": "EuGH Leistungsschutzrecht, iOS 13 Review, Limetown",
-      "summary": "September drehte sich um Streaming und Web: Future Man S2, Good Boys, Limetown-Trailer und „Why I have a website and you should too“. Tech/Politik: EuGH kippt deutsches Leistungsschutzrecht, iOS/iPadOS 13 Review von MacStories. Dazu mehrere Status-Posts und ein „Hello Beautiful!“-Moment."
+      "summary": "September drehte sich um Streaming und Web: <a href=\"https://eay.cc/2019/future-man-season-2/\">Future Man</a> S2, <a href=\"https://eay.cc/2019/good-boys-2019/\">Good Boys</a>, Limetown-Trailer und „<a href=\"https://eay.cc/2019/why-i-have-a-website-and-you-should-too/\">Why I have a</a> <a href=\"https://eay.cc/2019/why-i-have-a-website-and-you-should-too/\">website and you should</a> too“. Tech/Politik: EuGH kippt <a href=\"https://eay.cc/2019/eugh-verbietet-deutsches-leistungsschutzrecht/\">deutsches Leistungsschutzrecht</a>, iOS/<a href=\"https://eay.cc/2019/ios-and-ipados-13-the-macstories-review/\">iPadOS 13</a> Review von MacStories. Dazu mehrere Status-Posts und ein „<a href=\"https://eay.cc/2019/hello-beautiful/\">Hello Beautiful!</a>“-Moment."
     },
     {
       "month": 10,
@@ -80,7 +80,7 @@
       "monthISO": "2019-10",
       "postCount": 8,
       "highlights": "Joker, Skywalker-Final-Trailer, Mandalorian-Teaser",
-      "summary": "Oktober brachte Reisen, Pop und Gadgets: eine Woche Friesland, Schottland-Trip (Day 1) und Les-O-Mat. Kino: Joker und Rise of Skywalker finaler Trailer, plus Mandalorian-Trailer. Tech: Mudita Bell. Dazu der spaßige Gedanke „What if Tom Cruise ran for President?"
+      "summary": "Oktober brachte Reisen, Pop und Gadgets: <a href=\"https://eay.cc/2019/eine-woche-friesland-ist-nun-zu-ende/\">Eine Woche Friesland</a>, Schottland-Trip (<a href=\"https://eay.cc/2019/scotland-2019-day-1-of-4ish/\">Day 1</a>) und <a href=\"https://eay.cc/2019/les-o-mat/\">Les-O-Mat</a>. Kino: Joker und <a href=\"https://eay.cc/2019/finaler-trailer-zu-the-rise-of-skywalker/\">Rise of Skywalker</a> <a href=\"https://eay.cc/2019/finaler-trailer-zu-the-rise-of-skywalker/\">Finaler Trailer</a>, plus <a href=\"https://eay.cc/2019/zweiter-trailer-zu-the-mandalorian/\">Mandalorian</a>-Trailer. Tech: <a href=\"https://eay.cc/2019/mudita-bell/\">Mudita Bell</a>. Dazu der spaßige Gedanke „<a href=\"https://eay.cc/2019/what-if-tom-cruise-ran-for-president/\">What if Tom Cruise ran for President?</a>"
     },
     {
       "month": 11,
@@ -88,7 +88,7 @@
       "monthISO": "2019-11",
       "postCount": 10,
       "highlights": "Tesla Cybertruck, Scotland-Tage, Zombieland 2, Size of Space",
-      "summary": "November stand im Zeichen von Schottland (Days 2-4), Zombieland 2 und Tesla Cybertruck. Netz/Science: The Size of Space, List of stories set in a future now past und eine Rechnung zu Musik-Streams. Dazu zwei Status-Posts und ein kurzer Blick auf die Streaming-Ökonomie."
+      "summary": "November stand im Zeichen von Schottland (Days 2-4), <a href=\"https://eay.cc/2019/zombieland-2-2019/\">Zombieland 2</a> und <a href=\"https://eay.cc/2019/tesla-cybertruck/\">Tesla Cybertruck</a>. Netz/Science: <a href=\"https://eay.cc/2019/the-size-of-space/\">The Size of Space</a>, <a href=\"https://eay.cc/2019/wikipedia-list-of-stories-set-in-a-future-now-past/\">List of stories set in a</a> future now past und eine Rechnung zu Musik-<a href=\"https://eay.cc/2019/how-many-music-streams-does-it-take-to-earn-a-dollar/\">Streams</a>. Dazu zwei Status-Posts und ein kurzer Blick auf die Streaming-Ökonomie."
     },
     {
       "month": 12,
@@ -96,7 +96,7 @@
       "monthISO": "2019-12",
       "postCount": 6,
       "highlights": "Kinostatistik 2019, Ghostbusters Afterlife, Jurassic Park Print",
-      "summary": "Dezember lieferte Jahresabschluss und Popkultur: Kinostatistik 2019, Ghostbusters: Afterlife-Trailer und der fiese Comcast-Artikel zu E.T. Persönlich: Jurassic-Park-Print gerahmt. Dazu Deep-Sea-Entdeckung und ein Status-Post zum Jahreswechsel (2020-01-01)."
+      "summary": "Dezember lieferte Jahresabschluss und Popkultur: <a href=\"https://eay.cc/2019/kinostatistik-2019/\">Kinostatistik 2019</a>, <a href=\"https://eay.cc/2019/trailer-zu-ghostbusters-afterlife/\">Ghostbusters</a>: Afterlife-Trailer und der fiese <a href=\"https://eay.cc/2019/comcast-americas-most-hated-company-ruins-e-t-for-thanksgiving/\">Comcast</a>-Artikel zu E.T. Persönlich: <a href=\"https://eay.cc/2019/i-finally-framed-my-jurassic-park-print-by-chip-kidd-bottleneck-gallery/\">Jurassic</a>-Park-Print gerahmt. Dazu Deep-Sea-Entdeckung und ein Status-Post zum Jahreswechsel (<a href=\"https://eay.cc/2020/status-2020-01-01-0001/\">2020-01-01</a>)."
     }
   ]
 }

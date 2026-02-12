@@ -1,6 +1,6 @@
 {
   "year": 2022,
-  "info": "Die Zusammen&shy;fassungen wurden durch KI erstellt. Alle Posts eines Monats wurden dazu von generativer KI analysiert und die wichtigsten Themen in 200-500 Zeichen durch sie zusammen&shy;gefasst. Die Text&shy;generierung fand im Februar 2026 durch Anthropic Claude Sonnet 4.5 statt und kann Ungenauig&shy;keiten oder Fehler enthalten.",
+  "info": "Diese Zusammen&shy;fassung wurde durch KI erstellt. Alle Posts des Monats wurden dazu von generativer KI analysiert und die wichtigsten Themen in 200-500 Zeichen durch sie zusammen&shy;gefasst. Die Text&shy;generierung fand im Februar 2026 durch Anthropic Claude Sonnet 4.5 statt und kann Ungenauig&shy;keiten oder Fehler enthalten.",
   "months": [
     {
       "month": 1,
@@ -8,7 +8,7 @@
       "monthISO": "2022-01",
       "postCount": 18,
       "highlights": "Web0 vs. Crypto, COVID-Höhepunkt, Rembrandt 717 Gigapixel",
-      "summary": "Web0 vs. Crypto prägte den Monat: Stephen Diehl nannte Crypto \"pyramid schemes and dog memes\", Aral Balkan proklamierte web0-Manifest. COVID auf dem Höhepunkt - persönlicher Frust über Impfgegner, familiäre Krise. Craig Mod kehrte nach zweijähriger Pandemie-Pause zurück. Springboard-Doku zu Handspring/Treo (Dieter Bohn). Rembrandts Nachtwache in 717 Gigapixel, iOS 15.4 Face ID mit Maske. Tools: schnelltesttest.de, direkt.bahn.guru. Pop: The Book of Boba Fett, Nicolas Cage \"Unbearable Weight\"."
+      "summary": "Web0 vs. Crypto prägte den Monat: Stephen Diehl nannte Crypto \"pyramid schemes and dog memes\", Aral Balkan proklamierte web0-Manifest. COVID auf dem Höhepunkt - persönlicher Frust über Impfgegner, familiäre Krise. Craig Mod kehrte nach zweijähriger Pandemie-Pause zurück. <a href=\"https://eay.cc/2022/springboard-the-secret-history-of-the-first-real-smartphone/\">Springboard</a>-Doku zu Handspring/Treo (Dieter Bohn). <a href=\"https://eay.cc/2022/rembrandts-nachtwache-als-ultra-high-resolution-foto/\">Rembrandts Nachtwache</a> in 717 Gigapixel, <a href=\"https://eay.cc/2022/ios-15-4-enables-face-id-support-while-wearing-a-mask-no-apple-watch-required/\">iOS 15.4</a> Face ID mit Maske. Tools: <a href=\"https://eay.cc/2022/schnelltesttest-de/\">schnelltesttest</a>.de, direkt.bahn.guru. Pop: The Book of Boba Fett, Nicolas Cage \"<a href=\"https://eay.cc/2022/the-unbearable-weight-of-massive-talent-trailer/\">Unbearable Weight</a>\"."
     },
     {
       "month": 2,
@@ -16,7 +16,7 @@
       "monthISO": "2022-02",
       "postCount": 10,
       "highlights": "Web3-Kritik, Notion-Wechsel, Meta Europa-Drohung, Webfunde",
-      "summary": "Spiegel: \"Web3 ist das Internet, das es zu verhindern gilt\" (Patrick Beuth). Goodbye Airtable - Wechsel zu Notion (240$/Jahr). Meta drohte mit Europa-Aus wegen Datenschutz - \"YES, PLEASE!\". 39. Geburtstag, Glasfaser-Anschluss kam endlich. Second Sight bionisches Auge, Tumblr Ad-Free für 4,99$/Monat."
+      "summary": "Spiegel: \"<a href=\"https://eay.cc/2022/web3-ist-das-internet-das-es-zu-verhindern-gilt/\">Web3 ist das Internet</a>, das es zu verhindern gilt\" (Patrick Beuth). <a href=\"https://eay.cc/2022/goodbye-airtable/\">Goodbye Airtable</a> - Wechsel zu Notion (240$/Jahr). Meta drohte mit Europa-Aus wegen Datenschutz - \"YES, PLEASE!\". 39. <a href=\"https://eay.cc/2022/schoener-stuermischer-geburtstag/\">Geburtstag</a>, Glasfaser-Anschluss kam endlich. Second Sight <a href=\"https://eay.cc/2022/hersteller-gibt-bionisches-auge-auf-nutzer-erblinden-erneut/\">bionisches Auge</a>, <a href=\"https://eay.cc/2022/tumblr-ad-free-browsing/\">Tumblr Ad-Free</a> für 4,99$/Monat."
     },
     {
       "month": 3,
@@ -24,7 +24,7 @@
       "monthISO": "2022-03",
       "postCount": 10,
       "highlights": "Ukraine-Krieg, Solidaritäts-Bundle, Long Covid, Webfunde",
-      "summary": "Ukraine-Krieg und Solidarität: itch.io Bundle for Ukraine (991$), SpyBuster von MacPaw. Russen luden Wikipedia runter (Kiwix, Andy Baio warnte). Margarete Stokowski zu Long Covid - \"Nur noch 30 Jahre\" bis zur Rente als persönliche Reflexion. Weitere Themen und Links rundeten den Monat ab."
+      "summary": "Ukraine-Krieg und Solidarität: <a href=\"https://eay.cc/2022/itch-io-bundle-for-ukraine/\">itch.io Bundle for Ukraine</a> (991$), <a href=\"https://eay.cc/2022/spybuster/\">SpyBuster</a> von MacPaw. Russen luden <a href=\"https://eay.cc/2022/russians-are-racing-to-download-wikipedia-before-it-gets-banned/\">Wikipedia</a> runter (Kiwix, Andy Baio warnte). Margarete Stokowski zu <a href=\"https://eay.cc/2022/freedom-day-oder-nicht-long-covid-ist-ein-ernstes-problem/\">Long Covid</a> - \"Nur noch 30 Jahre\" bis zur Rente als persönliche Reflexion. Mehr: <a href=\"https://eay.cc/2022/status-2022-03-01-0900/\">Status 2022-03-01 09:00</a>."
     },
     {
       "month": 4,
@@ -32,7 +32,7 @@
       "monthISO": "2022-04",
       "postCount": 10,
       "highlights": "Musk kauft Twitter (44 Mrd.), Mastodon-Boom, Bluesky",
-      "summary": "Elon Musk kauft Twitter für 44 Mrd. $ - Mastodon-Boom, Bluesky-Unabhängigkeit. \"Blog more, tweet less\" als Reaktion. Andy Baio feierte 20 Jahre waxy.org, indieblog.page startete. Mona Chalabi visualisierte Jeff Bezos' Vermögen, Neal Agarwal mit Earth Reviews."
+      "summary": "<a href=\"https://eay.cc/2022/elon-musk-kauft-twitter-fuer-44-milliarden-dollar/\">Elon Musk kauft Twitter</a> für 44 Mrd. $ - Mastodon-Boom, Bluesky-Unabhängigkeit. \"<a href=\"https://eay.cc/2022/blog-more-tweet-less/\">Blog more</a>, tweet less\" als Reaktion. Andy Baio feierte 20 Jahre <a href=\"https://eay.cc/2022/waxy-org-turns-20/\">waxy.org</a>, <a href=\"https://eay.cc/2022/indiepage-blog/\">indieblog</a>.page startete. Mona Chalabi visualisierte <a href=\"https://eay.cc/2022/9-ways-to-imagine-jeff-bezos-wealth/\">Jeff Bezos</a>' Vermögen, Neal Agarwal mit <a href=\"https://eay.cc/2022/earth-reviews/\">Earth Reviews</a>."
     },
     {
       "month": 5,
@@ -40,7 +40,7 @@
       "monthISO": "2022-05",
       "postCount": 13,
       "highlights": "iPod-Ende, Blog-Revival (\"Seven of Nine\"), Doctor Who",
-      "summary": "Apple beendete iPod-Ära nach 20 Jahren - Nathaniel Daudts \"iPod Shuffle\"-Shortcut hielt Erinnerung wach. Blog-Kultur: Nicos Couchblog 20 Jahre, Michael: \"Bloggen ist Seven of Nine, Social Media ist Borg\", Chuck Grimmett über Gründe fürs Bloggen. Ncuti Gatwa als nächster Doctor Who - \"Super gute News\"."
+      "summary": "Apple beendete iPod-Ära nach 20 Jahren - Nathaniel Daudts \"<a href=\"https://eay.cc/2022/ipod-shuffle-music-shortcut-for-ios-and-macos/\">iPod Shuffle</a>\"-Shortcut hielt Erinnerung wach. Blog-Kultur: Nicos Couchblog <a href=\"https://eay.cc/2022/20-jahre-couchblog/\">20 Jahre</a>, Michael: \"<a href=\"https://eay.cc/2022/warum-bloggen/\">Bloggen</a> ist Seven of Nine, Social Media ist Borg\", Chuck Grimmett über Gründe fürs Bloggen. <a href=\"https://eay.cc/2022/ncuti-gatwa-wird-naechster-doctor/\">Ncuti Gatwa</a> als <a href=\"https://eay.cc/2022/ncuti-gatwa-wird-naechster-doctor/\">nächster Doctor</a> Who - \"Super gute News\"."
     },
     {
       "month": 6,
@@ -48,7 +48,7 @@
       "monthISO": "2022-06",
       "postCount": 5,
       "highlights": "LaMDA-Kontroverse, Content-Maschinen, AirPods Max, Webfunde",
-      "summary": "Google beurlaubte Blake Lemoine - der Ingenieur hielt LaMDA für fühlend, Blog kommentierte: \"Ganz klar Nonsense on Stilts\". Michael über \"Wir Content-Maschinen\": Content als verkaufbares Publikum. Weitere Themen und Links rundeten den Monat ab."
+      "summary": "Google beurlaubte Blake Lemoine - der Ingenieur hielt LaMDA für fühlend, Blog kommentierte: \"Ganz klar Nonsense on Stilts\". Michael über \"<a href=\"https://eay.cc/2022/wir-content-maschinen/\">Wir Content-Maschinen</a>\": Content als verkaufbares Publikum. Weitere Themen und Links rundeten den Monat ab."
     },
     {
       "month": 7,
@@ -56,7 +56,7 @@
       "monthISO": "2022-07",
       "postCount": 7,
       "highlights": "James Webb Teleskop, Baby-Erwartung, 20 Jahre mit Kira",
-      "summary": "James Webb Space Telescope lieferte erste Bilder - \"Unglaubliche Bilder\". Neal Agarwal \"Absurd Trolley Problems\" (Kill-Count 62). Karte: Größte europäische Städte ohne Erstligist - \"Grüße nach Bonn\". Persönlich: 20. Jahrestag und 8. Hochzeitstag mit Kira, Tochter im Oktober erwartet."
+      "summary": "<a href=\"https://eay.cc/2022/first-images-from-the-james-webb-space-telescope/\">James Webb Space Telescope</a> lieferte erste Bilder - \"Unglaubliche Bilder\". Neal Agarwal \"<a href=\"https://eay.cc/2022/absurd-trolley-problems/\">Absurd Trolley Problems</a>\" (Kill-Count 62). Karte: Größte europäische Städte ohne Erstligist - \"Grüße nach Bonn\". Persönlich: 20. Jahrestag und 8. Hochzeitstag mit Kira, Tochter im Oktober erwartet."
     },
     {
       "month": 8,
@@ -64,7 +64,7 @@
       "monthISO": "2022-08",
       "postCount": 8,
       "highlights": "Daring Fireball 20 Jahre, Atomkraft-Krise, Corona-Todesfälle",
-      "summary": "Daring Fireball 20 Jahre - John Grubers \"Macintosh-oriented weblog\", The Talk Show, Dithering mit Ben Thompson. Engineering Festivus (Den Delimarsky) verbindet Seinfeld mit Tech-Themen (\"Just Use An npm Package\"). Atomkraft in Frankreich: Hitzewelle, Kühlwasser-Knappheit."
+      "summary": "<a href=\"https://eay.cc/2022/daring-fireball-20/\">Daring Fireball 20</a> Jahre - John Grubers \"Macintosh-oriented weblog\", The Talk Show, Dithering mit Ben Thompson. <a href=\"https://eay.cc/2022/engineering-festivus/\">Engineering Festivus</a> (Den Delimarsky) verbindet Seinfeld mit Tech-Themen (\"Just Use An npm Package\"). Atomkraft in <a href=\"https://eay.cc/2022/atomdesaster-in-frankreich-nimmt-seinen-lauf/\">Frankreich</a>: Hitzewelle, Kühlwasser-Knappheit."
     },
     {
       "month": 9,
@@ -72,7 +72,7 @@
       "monthISO": "2022-09",
       "postCount": 17,
       "highlights": "Queen Elizabeth, Vorratsdatenspeicherung, Verge Relaunch",
-      "summary": "Queen Elizabeth II starb mit 96, Adnan Syed nach 23 Jahren freigelassen (Serial), EuGH kippte deutsche Vorratsdatenspeicherung. The Verge Relaunch mit Micro-Blog-Feed - \"Revolutionizing the media with blog posts\", Daring Fireball als Inspiration. Apple Watch Ultra im Store besichtigt, Stadia-Einstellung - \"technologisch Leistung, als Produkt Totalversagen\". KI-Kunst: Hulk in Kölner Dom (Lexica), Steve Jobs Archive. Französisches Atom-Blackout-Szenario."
+      "summary": "<a href=\"https://eay.cc/2022/queen-elizabeth-ii-has-died/\">Queen Elizabeth II</a> starb mit 96, <a href=\"https://eay.cc/2022/richter-hebt-das-urteil-gegen-adnan-syed-auf/\">Adnan Syed</a> nach 23 Jahren freigelassen (Serial), EuGH kippte deutsche <a href=\"https://eay.cc/2022/eugh-urteil-deutsche-regelung-zur-vorratsdatenspeicherung-verstoesst-gegen-eu-recht/\">Vorratsdatenspeicherung</a>. The Verge Relaunch mit Micro-Blog-Feed - \"<a href=\"https://eay.cc/2022/revolutionizing-the-media-with-blog-posts/\">Revolutionizing the media with blog posts</a>\", Daring Fireball als Inspiration. <a href=\"https://eay.cc/2022/apple-watch-ultra/\">Apple Watch Ultra</a> im Store besichtigt, Stadia-Einstellung - \"technologisch Leistung, als Produkt Totalversagen\". <a href=\"https://eay.cc/2022/was-passiert-wenn-der-hulk-auf-ki-kunst-trifft/\">KI-Kunst</a>: Hulk in Kölner Dom (Lexica), <a href=\"https://eay.cc/2022/the-steve-jobs-archive/\">Steve Jobs Archive</a>. Französisches <a href=\"https://eay.cc/2022/regierung-bereitet-frankreich-auf-den-atom-blackout-vor/\">Atom-Blackout</a>-Szenario."
     },
     {
       "month": 10,
@@ -80,7 +80,7 @@
       "monthISO": "2022-10",
       "postCount": 12,
       "highlights": "Ariane geboren (22.10.), Ben Werd Blog-Appell, Webfunde",
-      "summary": "Geburt von Ariane Gretchen Grund (22.10., Bensberg) - \"wir könnten nicht glücklicher sein\". Palladium-Magazin: fiktives Atomkraft-Interview 2053 mit Isabelle Boemeke. NYT abgefangene Anrufe russischer Soldaten - \"Putin Is a Fool\". Ben Werd: \"You should blog. Yes, you.\" Jaythechou photoshoppt Paddington seit 578 Tagen in Filme. McDonaldland Manual 1975, 1,14 Mrd. Websites (17% aktiv)."
+      "summary": "Geburt von <a href=\"https://eay.cc/2022/ariane-gretchen-grund/\">Ariane Gretchen Grund</a> (22.10., Bensberg) - \"wir könnten nicht glücklicher sein\". Palladium-Magazin: <a href=\"https://eay.cc/2022/the-future-history-of-the-nuclear-renaissance/\">Atomkraft-Interview 2053</a> Boemeke. NYT abgefangene Anrufe russischer Soldaten - \"<a href=\"https://eay.cc/2022/putin-is-a-fool-intercepted-calls-reveal-russian-army-in-disarray/\">Putin Is a Fool</a>\". Ben Werd: \"<a href=\"https://eay.cc/2022/you-should-blog/\">You should blog</a>. Yes, you.\" <a href=\"https://eay.cc/2022/jaythechou-photoshops-paddington-into-another-movie-until-he-forgets/\">Paddington-Photoshop-Serie</a> Tagen in Filme. <a href=\"https://eay.cc/2022/mcdonalds-mcdonaldland-specification-manual-from-1975/\">McDonaldland Manual 1975</a>, <a href=\"https://eay.cc/2022/how-many-websites-are-there-in-the-world/\">1,14 Mrd. Websites</a>. Websites (17% aktiv)."
     },
     {
       "month": 11,
@@ -88,7 +88,7 @@
       "monthISO": "2022-11",
       "postCount": 27,
       "highlights": "Twitter-Exodus (27 Posts!), Tapbots Ivory, Mastodon-Migration",
-      "summary": "Twitter unter Musk: 16 Jahre Twitter (Nutzer #16.563), \"Es liegt an dir, nicht an mir\". Musk-or-Mr.-Burns-Quiz, Trump-Poll mit 4,5% Beteiligung - \"The people have spoken\". Tumblr führt doppelte Checkmarks ein (7,99$), kündigt ActivityPub an. Fediverse-Diskurs: tef \"Federation = giving nerds control\", Marc-Uwe Kling \"Twitter kaufen\". Tapbots kündigt Ivory für Mastodon an. Jason Kottke zurück vom Sabbatical, shoutouts.lol (Vincent Ritter), ooh.directory."
+      "summary": "Twitter unter Musk: <a href=\"https://eay.cc/2022/16-jahre-twitter/\">16 Jahre Twitter</a> (Nutzer #16.563), \"Es liegt an dir, nicht an mir\". Musk-or-Mr.-Burns-Quiz, Trump-Poll mit 4,5% Beteiligung - \"The people have spoken\". <a href=\"https://eay.cc/2022/tumblr-fuehrt-doppelte-important-blue-internet-checkmarks-ein-fuer-799-einmalig/\">Tumblr führt doppelte</a> Checkmarks ein (7,99$), kündigt <a href=\"https://eay.cc/2022/tumblr-will-support-activitypub/\">ActivityPub</a> an. Fediverse-Diskurs: tef \"Federation = <a href=\"https://eay.cc/2022/federation-isnt-about-giving-users-freedom-its-about-giving-nerds-a-sense-of-control/\">giving nerds</a> control\", Marc-Uwe Kling \"<a href=\"https://eay.cc/2022/neue-redewendung-twitter-kaufen/\">Twitter kaufen</a>\". Tapbots kündigt Ivory für Mastodon an. <a href=\"https://eay.cc/2022/jason-kottke-is-back-from-his-sabbatical/\">Jason Kottke</a> zurück vom Sabbatical, <a href=\"https://eay.cc/2022/shoutouts-lol/\">shoutouts.lol</a> (Vincent Ritter), <a href=\"https://eay.cc/2022/ooh-directory-a-collection-of-hundreds-of-blogs/\">ooh.directory</a>."
     },
     {
       "month": 12,
@@ -96,7 +96,7 @@
       "monthISO": "2022-12",
       "postCount": 12,
       "highlights": "Robin Sloan \"platforms done\", Artemis I, WM-Finale",
-      "summary": "Robin Sloan: \"the platforms of the last decade are done\" - A year of new avenues. pLOLitik parodierte Lindners CL+ (\"Christian Lindner interviewt Christian Lindner\"). DW \"Ein Land funkt SOS\" - marode Infrastruktur, Merz als \"Montgomery-Burns-Lookalike\". Artemis I: Orion (268.563 Meilen Erdentfernung). WM-Finale Argentinien - \"ab der 70. Minute total irre\"."
+      "summary": "Robin Sloan: \"the platforms of the last decade are done\" - <a href=\"https://eay.cc/2022/a-year-of-new-avenues/\">A year of new avenues</a>. pLOLitik parodierte Lindners CL+ (\"<a href=\"https://eay.cc/2022/christian-lindner-interviewt-christian-lindner/\">CL+-Parodie</a>\"). DW \"<a href=\"https://eay.cc/2022/ein-land-funkt-sos-deutschland-an-der-belastungsgrenze/\">Ein Land funkt SOS</a>\" - marode Infrastruktur, Merz als \"Montgomery-Burns-Lookalike\". <a href=\"https://eay.cc/2022/artemis-i-flight-day-13-orion-earth-and-moon/\">Artemis I</a>: Orion (268.563 Meilen Erdentfernung). WM-Finale Argentinien - \"ab der 70. Minute total irre\". Mehr: <a href=\"https://eay.cc/2022/orions-end-adventure-beyond-the-stars/\">Orion's End</a>."
     }
   ]
 }

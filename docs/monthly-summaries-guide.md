@@ -19,7 +19,7 @@ Each yearly `_summary.json` contains:
 ```json
 {
   "year": 2025,
-  "info": "Die Zusammenfassungen wurden durch KI erstellt. Alle Posts eines Monats wurden dazu von generativer KI analysiert und die wichtigsten Themen in 200-500 Zeichen durch sie zusammengefasst. Die Textgenerierung fand im Februar 2026 durch Anthropic Claude Sonnet 4.5 statt und kann Ungenauigkeiten oder Fehler enthalten.",
+  "info": "Diese Zusammen&shy;fassung wurde durch KI erstellt. Alle Posts des Monats wurden dazu von generativer KI analysiert und die wichtigsten Themen in 200-500 Zeichen durch sie zusammen&shy;gefasst. Die Text&shy;generierung fand im Februar 2026 durch OpenAI GPT-5.3 statt und kann Ungenauig&shy;keiten oder Fehler enthalten.",
   "months": [
     {
       "month": 1,
@@ -99,6 +99,100 @@ Each month has a **highlights** string that provides a quick, scannable overview
 - Format: `"highlights": "topic1, topic2, topic3"`
 - 50-100 characters
 - Escape quotes (`\"`) for JSON compliance
+
+## Summary Link Rules (Important)
+
+Keywords in `summary` should be linked when they can be mapped to real posts of the same year/month.
+
+### Linking Principle (Mandatory)
+
+- Treat links as semantic references, not decoration.
+- If a summary explicitly names a concrete topic that maps to one post in the same month, link it.
+- In practice: explicit keyword(s) in summary text should be linked wherever mapping is clear.
+- Do not leave obvious named items unlinked.
+
+### What to Link
+
+- Link only concrete keywords/topics that clearly correspond to existing blog posts.
+- Prefer specific post-related terms (titles, product names, event names) over generic words.
+- Link only in `summary`, never in `highlights`.
+- Do not force links for every sentence. Only link where the mapping is clear.
+- Also link descriptive phrases when they clearly map to one post (not only exact titles).
+- If a phrase combines topic + person/object and is unambiguous, link the full phrase.
+- Prioritize these linkable patterns when they map to one post:
+  - unique media/artifact terms (for example interviews, manuals, parody projects)
+  - concrete numeric facts/statistics tied to a post (for example "1,14 Mrd. Websites")
+  - recurring projects/series names with clear post mapping
+  - named events/releases that are specific enough to avoid ambiguity
+- For one sentence with multiple mappable items, link multiple items if each mapping is unambiguous.
+- Link comma-separated explicit item lists item-by-item when each item maps clearly.
+
+### What Counts as an Explicit Keyword
+
+Link these when mappable:
+
+- Proper names (people, products, projects, organizations)
+- Distinct post titles or title-like phrases
+- Named events/releases/features (for example "WWDC 2020", "iOS 15.4", "ChatGPT Search")
+- Distinctive coined terms, campaign names, or meme labels
+- Concrete numeric facts that are explicitly tied to one post
+
+Do **not** link:
+
+- generic filler words ("Review", "Trailer", "Podcast", "Artikel")
+- vague theme labels ("Politik", "Tech", "Web")
+- ambiguous phrases mapping to multiple posts in the same month
+
+### Minimum Link Coverage by Post Count
+
+- For months with `postCount >= 10`: summary must contain at least **5 links**.
+- For months with `postCount >= 15`: target usually **8+ links** when the summary contains enough explicit items.
+- For months with fewer posts: still link all clear explicit keywords, even if total links are below 5.
+
+### Link Format
+
+- Use HTML links, not Markdown links.
+- Required format: `<a href=\"https://eay.cc/YYYY/slug/\">Keyword</a>`
+- Keep links inline inside the summary text.
+- Escape quotes in JSON as usual.
+- Prefer linking the full meaningful phrase, not only one isolated word.
+- Do not create nested links or partially overlapping links.
+- Keep anchor text concise (typically 1-5 words), not full sentence fragments.
+- Do not include dangling punctuation in anchor text when avoidable.
+- Avoid linking the same URL repeatedly in one month summary unless repeated reference is semantically necessary.
+
+❌ **Wrong (Markdown link):**
+```json
+"summary": "Mehr dazu in [How Browsers Work](https://eay.cc/2026/how-browsers-work/)."
+```
+
+✅ **Correct (HTML link):**
+```json
+"summary": "Mehr dazu in <a href=\"https://eay.cc/2026/how-browsers-work/\">How Browsers Work</a>."
+```
+
+### Slug / URL Validation (Required)
+
+Before finalizing a `_summary.json` file:
+
+- Verify every `href` points to a real existing post URL.
+- Match against the `url` field in the Markdown front matter of `posts/YYYY/*.md`.
+- If no matching post exists, remove or correct the link.
+- Do not guess slugs.
+- Ensure link target year matches the summary year (no cross-year links).
+- Ensure link target month matches `monthISO` of the summary entry.
+- Run a syntax check for malformed links (for example broken or nested `<a>` tags).
+
+### Manual Month-by-Month Link Pass (Required)
+
+After drafting/updating summaries, run this pass for **every month in every year**:
+
+1. Read one month summary line-by-line.
+2. Mark each explicit keyword/keyword phrase in the text.
+3. Map each marked item to one concrete post URL from `posts/YYYY/*.md` with matching month.
+4. Insert HTML links for all unambiguous items.
+5. Re-check link density (minimum 5 links for `postCount >= 10`).
+6. Validate syntax and URLs.
 
 ## Process
 
@@ -200,11 +294,15 @@ Examples:
 - [ ] Covers all main themes with concrete names/products
 - [ ] Tone matches the month
 - [ ] German month names and ISO dates are correct
+- [ ] Links only where clearly mappable to real posts
+- [ ] Links use HTML format: `<a href=\"...\">...</a>`
+- [ ] Every link URL validated against existing post front matter URLs
 
 ### Monthly Highlights
 - [ ] Present in each month object
 - [ ] 50-100 characters, 2-3 concrete topics
 - [ ] Quotes escaped correctly
+- [ ] No links in `highlights`
 
 ### Technical
 - [ ] JSON valid, no trailing commas
