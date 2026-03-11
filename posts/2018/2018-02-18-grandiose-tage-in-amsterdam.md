@@ -15,6 +15,7 @@ tags:
   - best-of
   - fotos
   - frontend
+  - geburtstag
   - kira-und-ich
   - konferenz
   - vue-js

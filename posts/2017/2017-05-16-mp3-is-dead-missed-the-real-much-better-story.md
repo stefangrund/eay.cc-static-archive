@@ -12,12 +12,13 @@ categories:
 tags:
   - mp3
   - musik
-  - patent
+  - patente
   - technologie
   - urheberrecht
 meta:
   - linked_list_url: "https://marco.org/2017/05/15/mp3-isnt-dead"
   - yourls_shorturl: "https://eay.li/2yr"
+  - linked_list_og-title: "“MP3 is dead” missed the real, much better story – Marco.org"
 ---
 
 Wer sich in den letzten Tagen über Meldungen zum "Tod" der MP3 gewundert hat ((🤔  Das müssen wohl diese Fake News sein, von denen seit Monaten alle sprechen...)), sollte einen Blick in diesen Blogpost von Marco Arment werfen. Sein Pro-MP3-Fazit:

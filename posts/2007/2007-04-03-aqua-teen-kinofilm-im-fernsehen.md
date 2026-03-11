@@ -9,7 +9,6 @@ author: "eay"
 format: "post"
 tags:
   - adult-swim
-  - aqua-teens
   - cartoons
   - fernsehen
   - filme

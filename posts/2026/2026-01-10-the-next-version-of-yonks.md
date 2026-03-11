@@ -35,3 +35,7 @@ meta:
 - 🔍 **Search** that scans all information within your counters (top right).
 
 There’s still a bit of fine-tuning needed for some new features not mentioned here, but once that’s done, the update will soon make its way to a smartphone near you. 🤗
+
+---
+
+**Update, 20.02.2026:** [Here's Part 2 of our Sneak Preview](https://eay.cc/2026/the-next-version-of-yonks-part-2/).

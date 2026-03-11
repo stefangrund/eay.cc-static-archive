@@ -16,7 +16,6 @@ tags:
   - projekte
   - shortfil-ms
 meta:
-  - content_copy: ""
   - yourls_shorturl: "https://eay.li/35j"
 ---
 

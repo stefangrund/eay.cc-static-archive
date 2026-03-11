@@ -13,12 +13,15 @@ tags:
   - datenschutz
   - facebook
   - instagram
-  - privatssphaere
+  - privatsphare
   - signal
   - werbung
 meta:
   - linked_list_url: "https://signal.org/blog/the-instagram-ads-you-will-never-see/"
   - yourls_shorturl: "https://eay.li/2n7"
+  - linked_list_og-title: "The Instagram ads Facebook won't show you"
+  - linked_list_og-description: "Companies like Facebook aren’t building technology for you, they’re building technology for your data. They collect everything they can from FB, Instagram, and WhatsApp in order to sell visibility into people and their lives. This isn’t exactly a secret, but the full picture is hazy to most..."
+  - linked_list_og-image: "https://eay.cc/wordpress/uploads/og-cache/b352b5032212f7086277f60c2cea73d8.webp"
 ---
 
 ![](https://eay.cc/uploads/2021/signal-instagram-ads.png)

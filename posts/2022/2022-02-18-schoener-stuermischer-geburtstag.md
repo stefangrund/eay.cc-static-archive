@@ -12,6 +12,7 @@ categories:
 tags:
   - analogleben
   - effzeh
+  - geburtstag
   - koeln
 meta:
   - geo_latitude: "50.973807"

@@ -30,6 +30,6 @@ You should follow me on...
 - Statuslog: [@eay](https://eay.status.lol/)
 - T2/Pebble: @eay
 - Threads: [@eay](https://www.threads.net/@eay)
-- Twitter/X: [@eay](https://twitter.com/eay)
+- Twitter/X: @eay
 
-**Update, 06.07.:** Added Threads. **Update, 25.10.:** Disabled Pebble.
+**Update, 06.07.:** Added Threads. **Update, 25.10.:** Disabled Pebble. **Update, 24.11.2024:** [Disabled Twitter/X](https://eay.cc/2024/18-jahre-twitter/).

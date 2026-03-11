@@ -34,4 +34,4 @@ Wenn ihr jQuery in 2026 immer noch benutzt, macht ihr vermutlich etwas falsch. S
 
 ---
 
-**Speaking of Frontend-Entwickler*innen:** [Bei Hypercode suchen wir gerade alle Ausprägungen davon](https://hypercode.de/jobs/) – Junior, Senior und Werkstudenten. Wenn ihr was braucht oder wen kennt, meldet euch gerne. Sagt mir, ich hab euch geschickt.
+**Speaking of Frontend-Entwickler*innen:** [Bei Hypercode suchen wir gerade alle Ausprägungen davon](https://hypercode.de/karriere/) – Junior, Senior und Werkstudenten. Wenn ihr was braucht oder wen kennt, meldet euch gerne. Sagt mir, ich hab euch geschickt.
