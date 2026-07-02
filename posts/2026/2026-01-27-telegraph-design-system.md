@@ -19,14 +19,16 @@ meta:
   - geo_latitude: "51.000136"
   - geo_longitude: "6.794065"
   - geo_public: "1"
-  - linked_list_og-title: "Telegraph Design System"
-  - linked_list_og-description: "Quick start guides, Design system, Downloads"
-  - linked_list_og-image: "https://eay.cc/wordpress/uploads/og-cache/f953c264f233c5860a8830f0c6c450cb.webp"
   - yourls_shorturl: "https://eay.li/3yu"
   - _share_on_mastodon_url: "https://eay.social/@eay/115966596108517012"
   - content_copy: "https://bsky.app/profile/eay.social/post/3mdfkmussjl2m"
+  - _linked_list_og-suppressed: "1"
 ---
 
 ![Screenshot des Telegraph Design Systems](https://eay.cc/uploads/2026/telegraph-design-system.webp)
 
 Schöne Design-System-Startseite des [Telegraph](https://www.telegraph.co.uk/) mit Bonuspunkten für die nach Zuständigkeit filterbare [Meet the Team](https://design.telegraph.co.uk/meet-the-team)-Seite.
+
+---
+
+**Update, 16.03.:** Der Telegraph wird [vom Axel Springer-Verlag übernommen](https://www.dwdl.de/nachrichten/105765/traum_wird_wahr_springer_kuendigt_uebernahme_des_telegraph_an/), nachdem der erste Übernahmeversuch vor 20 Jahren noch scheiterte.

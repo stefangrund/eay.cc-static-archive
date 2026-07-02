@@ -10,6 +10,7 @@ format: "link"
 categories:
   - 0815
 tags:
+  - flipper
   - technologie
 meta:
   - linked_list_url: "https://www.theverge.com/23433594/flipper-zero-hacking-gadget-wireless-pentesting-open-source-antenna"
@@ -19,6 +20,9 @@ meta:
   - content_copy: "https://twitter.com/eay/status/1588597492165349378"
   - content_copy: "https://eay.social/@eay/109286929418351697"
   - yourls_shorturl: "https://eay.li/3jp"
+  - linked_list_og-title: "The Flipper Zero is a Swiss Army knife of antennas"
+  - linked_list_og-description: "An all-purpose tool for making wireless mischief"
+  - linked_list_og-image: "https://eay.cc/wordpress/uploads/og-cache/3d132aea9d96e79275acb91dc4e8b1e8.webp"
 ---
 
 ![](https://eay.cc/uploads/2022/flipper-zero.jpg)

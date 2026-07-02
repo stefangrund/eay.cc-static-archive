@@ -1,5 +1,5 @@
 ---
-title: "Masters of the Universe – Teaser Trailer"
+title: "»Masters of the Universe« – Teaser Trailer"
 date: "2026-01-23"
 datetime: "2026-01-23 23:21:58"
 id: "41003"

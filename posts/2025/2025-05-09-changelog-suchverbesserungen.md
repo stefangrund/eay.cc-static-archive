@@ -10,6 +10,7 @@ format: "aside"
 categories:
   - 0815
 tags:
+  - best-of
   - changelog
   - eayz
   - in-eigener-sache

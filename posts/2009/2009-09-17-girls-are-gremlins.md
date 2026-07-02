@@ -7,10 +7,11 @@ slug: "girls-are-gremlins"
 url: "https://eay.cc/2009/girls-are-gremlins/"
 author: "eay"
 format: "post"
+categories:
+  - 0815
 tags:
   - barney-stinson
   - fernsehen
-  - frauen
   - gremlins
   - himym
 meta:

@@ -16,6 +16,7 @@ tags:
 meta:
   - yourls_shorturl: "https://eay.li/1zn"
   - linked_list_url: "http://www.youtube.com/watch?v=Bpy75q2DDow"
+  - _linked_list_og-suppressed: "1"
 ---
 
-Wunderbare Reaktion auf [das (lustige) Posting](https://www.facebook.com/Bodyform/posts/10151186887359324), das ein Kerl aug deren Facebook-Seite hinterlassen hat. (via [Nerdcore](http://www.crackajack.de/2012/10/18/perfect-answer-to-user-rant-we-lied-to-you-richard-all-the-time/))
+Wunderbare Reaktion auf [das (lustige) Posting](https://www.facebook.com/Bodyform/posts/10151186887359324), das ein Kerl auf deren Facebook-Seite hinterlassen hat. (via [Nerdcore](http://www.crackajack.de/2012/10/18/perfect-answer-to-user-rant-we-lied-to-you-richard-all-the-time/))

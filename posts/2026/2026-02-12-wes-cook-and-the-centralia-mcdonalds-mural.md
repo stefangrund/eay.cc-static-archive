@@ -13,6 +13,7 @@ tags:
   - kunst
   - mcdonalds
   - panic
+  - xoxo
 meta:
   - linked_list_url: "https://cabel.com/wes-cook-and-the-mcdonalds-mural/"
   - geo_latitude: "50.973833"

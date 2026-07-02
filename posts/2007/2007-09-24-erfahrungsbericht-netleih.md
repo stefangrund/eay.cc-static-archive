@@ -28,4 +28,4 @@ Nach der Anmeldung stellt ihr euch eure persönliche Wunschliste zusammen - also
 
 Conclusio: In der hiesigen Videothek kostet ein Film 1,30 Euro pro Tag. Macht bei acht Filmen mit jeweils zwei Tagen 20,80 Euro. Preislich liegt Netleih Video Buster - vor allem da ihr die DVDs so lange behalten dürft, wie ihr wollt - also vorn. Wenn ihr Vielgucker seid und euch ziemlich egal ist, wann ihr welchen Film zu sehen bekommt, dann ist Netleih Video Buster genau das richtige für euch.
 
-_Disclaimer: Ich habe damals von Netleih ein kostenloses Testabo bekommen, wurde aber nicht aufgefordert einen Blogeintrag o.ä. zu verfassen. Den obigen Erfahrungsbericht habe ich also freiwillig, "einfach so" geschrieben und das Ergebnis zu dem ich komme, spiegelt daher meine persönliche Meinung wieder. Nicht mehr, nicht weniger._
+_Offenlegung: Ich habe damals von Netleih ein kostenloses Testabo bekommen, wurde aber nicht aufgefordert einen Blogeintrag o.ä. zu verfassen. Den obigen Erfahrungsbericht habe ich also freiwillig, "einfach so" geschrieben und das Ergebnis zu dem ich komme, spiegelt daher meine persönliche Meinung wieder. Nicht mehr, nicht weniger._

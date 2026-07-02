@@ -30,3 +30,7 @@ meta:
 Einmal bookmarken, bitte: delphitools ist eine hilfreiche Sammlung verschie­dener Tools von [Ruby Morgan Voigt](https://rmv.fyi/) a.k.a. delphi aus Karlsruhe, wie z.B. einem QR-Code-Generator, einem Papier­größen­referenz-Tool, Kontrast­checks, SVG-Optimierer und Social-Media-Bild­erstellungs­werkzeugen. Alles davon läuft direkt im Browser, ohne Tracking etc., genau so wie es eigentlich sein sollte:
 
 > No logins, no registration, no data collection. I can't believe I have to say that. Long live the handmade web.
+
+—
+
+**Update, 26.05.:** Die delphitools sind jetzt [auch als iOS-App und CLI-Tools verfügbar](https://eay.cc/2026/delphitools-ios-app-cli/).

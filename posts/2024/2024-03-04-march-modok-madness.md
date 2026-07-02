@@ -11,6 +11,7 @@ categories:
   - 0815
   - english
 tags:
+  - best-of
   - comics
   - fanart
   - marvel
@@ -22,6 +23,7 @@ meta:
   - yourls_shorturl: "https://eay.li/3q5"
   - _share_on_mastodon_url: "https://eay.social/@eay/112037595069972107"
   - content_copy: "https://bsky.app/profile/eay.social/post/3kmuqbqe52a2m"
+  - _linked_list_og-suppressed: "1"
 ---
 
 ![Collage of March MODOK Madness artwork](https://eay.cc/uploads/2024/modok.png)

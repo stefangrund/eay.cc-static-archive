@@ -16,7 +16,7 @@ tags:
   - urlaub
 meta:
   - content_copy: "https://www.instagram.com/p/Ba6W96GlAxB/"
-  - geo_latitide: "48.657943"
+  - geo_latitude: "48.657943"
   - geo_longitude: "13.748338"
   - geo_public: "1"
   - geo_address: "Wegscheid, Bayern"

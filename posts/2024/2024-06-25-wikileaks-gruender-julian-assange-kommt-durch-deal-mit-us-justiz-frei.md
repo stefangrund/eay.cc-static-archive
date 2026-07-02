@@ -10,6 +10,7 @@ format: "link"
 categories:
   - 0815
 tags:
+  - best-of
   - julian-assange
   - politik
   - usa
@@ -21,6 +22,9 @@ meta:
   - geo_public: "1"
   - yourls_shorturl: "https://eay.li/3rb"
   - _share_on_mastodon_url: "https://eay.social/@eay/112675679504593661"
+  - linked_list_og-title: "WikiLeaks-Gründer Assange kommt durch Deal mit US-Justiz frei"
+  - linked_list_og-description: "Mehr als zehn Jahre dauerte der Rechtsstreit um eine Auslieferung von Julian Assange an - nun darf er wohl in seine Heimat Australien zurückkehren. Hintergrund ist ein Deal mit den USA, der ein Schuldbekenntnis des WikiLeaks-Gründers vorsieht."
+  - linked_list_og-image: "https://eay.cc/wordpress/uploads/og-cache/717bee06da86d26ce378613c1b19ee16.webp"
 ---
 
 > Mehr als zehn Jahre dauerte der Rechtsstreit um eine Auslieferung von Julian Assange an - nun darf er wohl in seine Heimat Australien zurückkehren. Hintergrund ist ein Deal mit den USA, der ein Schuldbekenntnis des Wikileaks-Gründers vorsieht.

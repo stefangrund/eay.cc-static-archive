@@ -11,6 +11,7 @@ categories:
   - 0815
   - hypercode
 tags:
+  - best-of
   - hypercode
   - lehre
   - serious-business-eay

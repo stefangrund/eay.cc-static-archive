@@ -14,9 +14,13 @@ tags:
   - dokumentation
   - filme
   - netzkultur
+  - xoxo
 meta:
   - linked_list_url: "http://overshare.links.net/"
   - yourls_shorturl: "https://eay.li/2po"
+  - linked_list_og-title: "overshare: the links.net story"
+  - linked_list_og-description: "overshare: the links.net story is a documentary about fumbling to foster intimacy between strangers online. Through interviews, analysis and graphic animations, I share my motivations, my joys and my sorrows from pioneering personal sharing for the 21st century. In 2004 the New York Times referre..."
+  - linked_list_og-image: "https://eay.cc/wordpress/uploads/og-cache/360292ec8244482c66315fcb6442b7b8.webp"
 ---
 
 > Hello, my name is Justin Hall and I've been sharing my personal life in explicit detail online for over twenty years. Starting in 1994, my personal web site Justin's Links from the Underground has documented family secrets, romantic relationships, and my experiments with sex and drugs.

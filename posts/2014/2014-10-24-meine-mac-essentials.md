@@ -21,7 +21,7 @@ meta:
 
 Vor ein paar Wochen hat sich ein Freund seinen ersten Mac gekauft und mich um App-Empfehlungen gebeten. Da ich bereits seit fast einem Jahrzehnt auf die Maschinen aus Cupertino setze, passiert das relativ regelmäßig. Eine Bitte der ich dann auch immer gerne nachkomme, habe ich in den letzten Jahren doch keine Kosten und Mühen gescheut und im Netz und später im App Store nach den besten der besten Apps gefahndet.
 
-Damit ich ab sofort immer einen Beitrag zur Hand habe, auf den ich frische Macheads verweisen kann und weil das sicherlich auch für den ein oder anderen Leser interessant ist, möchte ich euch im folgenden meine absolut unverzichtbaren Apps und Utilities für OS X, meine Mac Essentials, vorstellen. ((Disclaimer: Bei den Links zum App Store handelt es sich um Partnerlinks, durch die ich eine kleine Provision bekomme, ohne dass euch dadurch Mehrkosten entstehen. Kleinvieh und so.))
+Damit ich ab sofort immer einen Beitrag zur Hand habe, auf den ich frische Macheads verweisen kann und weil das sicherlich auch für den ein oder anderen Leser interessant ist, möchte ich euch im folgenden meine absolut unverzichtbaren Apps und Utilities für OS X, meine Mac Essentials, vorstellen. ((Offenlegung: Bei den Links zum App Store handelt es sich um Partnerlinks, durch die ich eine kleine Provision bekomme, ohne dass euch dadurch Mehrkosten entstehen. Kleinvieh und so.))
 
 ### Utilities
 

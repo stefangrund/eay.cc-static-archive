@@ -11,6 +11,7 @@ categories:
   - 0815
 tags:
   - atomkraft
+  - best-of
   - deutschland
   - versicherung
 meta:
@@ -21,6 +22,9 @@ meta:
   - yourls_shorturl: "https://eay.li/3vq"
   - _share_on_mastodon_url: "https://eay.social/@eay/114618728522724784"
   - content_copy: "https://bsky.app/profile/eay.social/post/3lqoy6ikax427"
+  - linked_list_og-title: "Wie teuer wäre eine Haftpflichtversicherung für ein Atomkraftwerk?"
+  - linked_list_og-description: "Eine echte Haftpflicht für Atomkraftwerke würde 72 Mrd. Euro pro Jahr kosten – und den Strompreis auf 4 €/kWh treiben."
+  - linked_list_og-image: "https://eay.cc/wordpress/uploads/og-cache/208253ab1baf1b8b9e3d52e5636877fa.webp"
 ---
 
 72 Milliarden Euro pro Jahr bei 50 Jahren Laufzeit. Die Kosten bei einem Maximalschaden liegen bei über sechs Billionen Euro.

@@ -7,10 +7,11 @@ slug: "your-favorite-fetish-for-the-next-5-minutes"
 url: "https://eay.cc/2009/your-favorite-fetish-for-the-next-5-minutes/"
 author: "eay"
 format: "post"
+categories:
+  - 0815
 tags:
   - bizarres
   - fetisch
-  - frauen
   - kundendienst
 meta:
   - yourls_shorturl: "https://eay.li/50"

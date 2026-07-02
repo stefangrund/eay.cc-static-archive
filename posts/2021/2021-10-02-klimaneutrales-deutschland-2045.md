@@ -12,6 +12,7 @@ categories:
 tags:
   - deutschland
   - e-mobilitaet
+  - erneuerbare-energien
   - klimawandel
   - politik
   - technologie

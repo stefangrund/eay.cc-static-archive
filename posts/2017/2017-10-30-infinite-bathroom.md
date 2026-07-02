@@ -14,7 +14,7 @@ tags:
   - urlaub
 meta:
   - content_copy: "https://www.instagram.com/p/Ba4aDV-F6Mx/"
-  - geo_latitide: "48.660032"
+  - geo_latitude: "48.660032"
   - geo_longitude: "13.750032"
   - geo_public: "1"
   - geo_address: "Reischlhof"

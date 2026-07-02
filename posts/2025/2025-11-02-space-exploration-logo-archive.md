@@ -10,6 +10,7 @@ format: "link"
 categories:
   - 0815
 tags:
+  - best-of
   - buecher
   - crowdfunding
   - design
@@ -23,6 +24,7 @@ meta:
   - yourls_shorturl: "https://eay.li/3x5"
   - _share_on_mastodon_url: "https://eay.social/@eay/115479433346894276"
   - content_copy: "https://bsky.app/profile/eay.social/post/3m4n7mgthpm2q"
+  - _linked_list_og-suppressed: "1"
 ---
 
 ![Auszug aus dem Space Exploration Logo Archive mit einer Übersicht verschiedener Raumfahrtagenturen und ihrer Logos auf blauem Hintergrund.](https://eay.cc/uploads/2025/space-exploration-logo-archive.webp)

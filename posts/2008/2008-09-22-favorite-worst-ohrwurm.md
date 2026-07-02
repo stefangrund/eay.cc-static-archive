@@ -7,10 +7,10 @@ slug: "favorite-worst-ohrwurm"
 url: "https://eay.cc/2008/favorite-worst-ohrwurm/"
 author: "eay"
 format: "post"
+categories:
+  - 0815
 tags:
   - bizarres
-  - feminismus
-  - frauen
   - hiphop
   - musik
   - parodie

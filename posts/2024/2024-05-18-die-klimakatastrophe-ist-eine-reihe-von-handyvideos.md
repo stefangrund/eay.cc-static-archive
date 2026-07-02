@@ -10,6 +10,7 @@ format: "quote"
 categories:
   - 0815
 tags:
+  - best-of
   - klimawandel
 meta:
   - geo_latitude: "50.387418"

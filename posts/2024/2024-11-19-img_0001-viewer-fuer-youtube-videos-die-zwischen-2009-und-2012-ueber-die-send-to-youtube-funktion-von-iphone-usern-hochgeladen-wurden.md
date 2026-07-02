@@ -11,6 +11,7 @@ categories:
   - 0815
 tags:
   - apple
+  - best-of
   - ios
   - netzkultur
   - technologie
@@ -22,6 +23,9 @@ meta:
   - geo_public: "1"
   - yourls_shorturl: "https://eay.li/3t6"
   - _share_on_mastodon_url: "https://eay.social/@eay/113508336491442329"
+  - linked_list_og-title: "IMG_0001"
+  - linked_list_og-description: "Inspired by Ben Wallace, I made a bot that crawled YouTube and found 5 million of these videos! Watch them below, ordered randomly."
+  - linked_list_og-image: "https://eay.cc/wordpress/uploads/og-cache/7eac1d75391409f1df63af021ae916d3_upload.webp"
 ---
 
 > Between 2009 and 2012, iPhones had a built-in "Send to YouTube" button in the Photos app. Many of these uploads kept their default IMG_XXXX filenames, creating a time capsule of raw, unedited moments from random lives.

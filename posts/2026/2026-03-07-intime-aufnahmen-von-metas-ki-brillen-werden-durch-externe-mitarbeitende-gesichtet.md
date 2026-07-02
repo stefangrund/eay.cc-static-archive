@@ -33,3 +33,9 @@ meta:
 [Golem verweist](https://www.golem.de/news/metas-ray-ban-ki-brillen-mitarbeiter-werten-intime-aufnahmen-aus-2603-206093.html) auf die oben verlinkte englischsprachige Version der Recher­che, die offenbart, wie Mitarbeitende in Kenia die Aufnahmen, die halt _alles_ aus dem mensch­lichen Alltag zeigen können, sichten und Objekte in den Auf­nahmen ver­schlag­worten, um die KI-Systeme entsprechend zu trainieren.
 
 Wenig überraschend, aber abermals "schön", sich das ins Gedächtnis zu rufen. Gibt es eigentlich schon einen [Glasshole](https://www.urbandictionary.com/define.php?term=Glasshole)-ähnlichen Begriff für Meta-Brillen-Tragende?
+
+---
+
+![Screenshot der Android-App „Nearby Glasses“ mit einer Warnmeldung, dass sich vermutlich Smart Glasses in der Nähe befinden. Angezeigt werden ein unbekanntes Gerät, eine Signalstärke von -70 dBm sowie ein Hinweis auf „Meta Platforms, Inc.“ als erkanntes Unternehmen.](https://eay.cc/uploads/2026/smart-glass-warning-app.png)
+
+**Update, 16.03.:** [Wie 404Media berichtet](https://www.404media.co/this-app-warns-you-if-someone-is-wearing-smart-glasses-nearby/) ([hier als Paywall-freie archive.is-Kopie](https://archive.is/tVjoU), aber ihr [wisst ja Bescheid über die Seite](https://eay.cc/2026/archive-today-is-directing-a-ddos-attack-against-my-blog/)) hat der Soziologe und Hobby-Entwickler [Yves Jeanrenaud](https://yves.jeanrenaud.net/) eine Warn-App für Smart Glasses gebaut, die per Bluetooth die Kennungen der Geräte scannt und im Fall des Auftauchens in der Nähe eine entsprechende Warnung per dringlicher Notification anzeigt. Die App mit dem Namen "Nearby Glasses" ist [hier im Play Store](https://play.google.com/store/apps/details?id=ch.pocketpc.nearbyglasses) und [hier auf Github](https://github.com/yjeanrenaud/yj_nearbyglasses) zu finden.

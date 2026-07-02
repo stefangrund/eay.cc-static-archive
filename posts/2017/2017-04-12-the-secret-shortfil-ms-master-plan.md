@@ -1,5 +1,5 @@
 ---
-title: "The secret shortfil.ms master plan."
+title: "The secret shortfil.ms master plan"
 date: "2017-04-12"
 datetime: "2017-04-12 22:00:25"
 id: "34657"

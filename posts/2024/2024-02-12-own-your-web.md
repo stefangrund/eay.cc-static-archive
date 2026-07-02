@@ -13,6 +13,7 @@ tags:
   - best-of
   - blogging
   - netzkultur
+  - newsletter
 meta:
   - linked_list_url: "https://buttondown.email/ownyourweb"
   - geo_latitude: "50.973839"

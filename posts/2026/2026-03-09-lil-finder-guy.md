@@ -30,3 +30,7 @@ meta:
 > Little is known about Lil Finder Guy, which is not its official name (I think), that first appeared the same day Apple debuted the MacBook Neo. It has appeared in the corner of one TikTok post by Apple […].
 
 [Basic Apple Guy](https://basicappleguy.com/) hat dem neuen, bisher unbe­kann­ten Apple-Maskottchen hinterher recher­chiert und ihm dann kurzer­hand selbst Leben einge­haucht.
+
+---
+
+**Update, 16.03.:** Stephan Hackett von 512 Pixels hat [den Little Finder Guy als 3D-Print veröffentlicht](https://512pixels.net/2026/03/3d-print-lil-finder/). Es bleibt fast zu hoffen, dass Apple das neue, liebge­wonnene Maskottchen selbst nur minimal einstreut und es ansonsten ein Community-Ding bleibt.

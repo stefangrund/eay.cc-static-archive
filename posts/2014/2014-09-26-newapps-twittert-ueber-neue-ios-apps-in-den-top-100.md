@@ -21,4 +21,4 @@ meta:
 
 Kurzer Hinweis in eigener Sache: Ich habe meinen [2008 gestarteten](https://twitter.com/eay/statuses/864636979) Twitterbot [@newapps](https://twitter.com/newapps) reaktiviert. Während damals einfach alle Neuerscheinungen getwittert wurden, also ziemlich viel Mist dabei war, wird nun ausschließlich auf Apps hingewiesen, die in die Top 100 des App Stores einsteigen, um so eine gewisse Qualität sicherzustellen. Vielleicht ist das ja für den ein oder anderen interessant und ihr gesellt euch zu den 4800 Followern, die der Bot bisher vorweisen kann.
 
-_Disclaimer: Bei den App-Store-Links handelt es sich um iTunes-Affiliate-Links, die mir bei jedem Kauf ein paar Cents einbringen._
+_Offenlegung: Bei den App-Store-Links handelt es sich um iTunes-Affiliate-Links, die mir bei jedem Kauf ein paar Cents einbringen._

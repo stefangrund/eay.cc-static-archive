@@ -11,6 +11,7 @@ categories:
   - 0815
 tags:
   - analogleben
+  - best-of
   - fotos
   - frankreich
   - olympische-spiele

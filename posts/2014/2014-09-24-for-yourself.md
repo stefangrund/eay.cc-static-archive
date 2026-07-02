@@ -12,6 +12,7 @@ categories:
 tags:
   - fotografie
   - kreativitat
+  - xoxo
 meta:
   - linked_list_url: "http://foryourself.co/"
   - yourls_shorturl: "https://eay.li/2jd"

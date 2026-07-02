@@ -6,7 +6,8 @@
   "repository": "https://github.com/stefangrund/eay.cc-static-archive.git",
   "scripts": {
     "build": "node ./scripts/wordpress-export-to-markdown/index.js --wizard=false",
-    "stats": "bash ./scripts/count-posts.sh",
+    "stats": "bash ./scripts/count-posts.sh && bash ./scripts/count-post-types.sh",
+    "links-stats": "node ./scripts/count-external-links.js",
     "summaries": "node ./scripts/combine-yearly-summaries.js && node ./scripts/export-yearly-summaries.js"
   },
   "author": "Stefan Grund (https://stefangrund.eu/)",

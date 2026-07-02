@@ -18,4 +18,4 @@ meta:
   - linked_list_url: "http://blog.quote.fm/2012/09/11/say-hello-to-quote-fm-for-ipad-and-quote-fm-read/"
 ---
 
-â¦und bekommt damit einen Platz auf meinem ersten Homescreen.
+…und bekommt damit einen Platz auf meinem ersten Homescreen.
