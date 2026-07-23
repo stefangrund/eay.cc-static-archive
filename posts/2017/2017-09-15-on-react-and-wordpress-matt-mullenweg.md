@@ -1,29 +1,29 @@
 ---
 title: "Matt Mullenweg: On React and WordPress"
 date: "2017-09-15"
-datetime: "2017-09-15 22:15:50"
+published_at: "2017-09-15T20:15:50Z"
 id: "33440"
 slug: "on-react-and-wordpress-matt-mullenweg"
-url: "https://eay.cc/2017/on-react-and-wordpress-matt-mullenweg/"
-author: "eay"
+permalink: "https://eay.cc/2017/on-react-and-wordpress-matt-mullenweg/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
-  - english
+  - "08/15"
+  - "English"
 tags:
-  - frontend
-  - javascript
-  - react
-  - vue-js
-  - web-entwicklung
-  - wordpress
-meta:
-  - linked_list_url: "https://ma.tt/2017/09/on-react-and-wordpress/"
-  - yourls_shorturl: "https://eay.li/317"
-  - geo_latitude: "52.381263644551"
-  - geo_longitude: "5.7004708518599"
-  - geo_public: "1"
+  - "frontend"
+  - "javascript"
+  - "react"
+  - "vue.js"
+  - "web-entwicklung"
+  - "wordpress"
+external_url: "https://ma.tt/2017/09/on-react-and-wordpress/"
+short_url: "https://eay.li/317"
+geo_latitude: "52.381263644551"
+geo_longitude: "5.7004708518599"
 ---
+
+[Link →](https://ma.tt/2017/09/on-react-and-wordpress/)
 
 Interesting development in the WordPress community: After creating it's modern, React-based [Calypso interface](https://eay.cc/2015/calypso-ein-neues-backend-fuer-wordpress-2/) in 2015, Automattic and the WordPress team are now parting ways with React, because of a patent issue in it's license. They are going to rewrite their upcoming [Gutenberg editor](https://github.com/WordPress/gutenberg) with a new, yet to be chosen JavaScript framework, which then should become the new standard for WordPress.
 

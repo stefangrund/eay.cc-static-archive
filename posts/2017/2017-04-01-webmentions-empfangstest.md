@@ -1,16 +1,15 @@
 ---
 title: "Webmentions-Empfangstest"
 date: "2017-04-01"
-datetime: "2017-04-01 13:37:00"
+published_at: "2017-04-01T11:37:00Z"
 id: "32971"
 slug: "webmentions-empfangstest"
-url: "https://eay.cc/2017/webmentions-empfangstest/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2017/webmentions-empfangstest/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - 0815
-meta:
-  - yourls_shorturl: "https://eay.li/2yi"
+  - "08/15"
+short_url: "https://eay.li/2yi"
 ---
 
 ![](https://eay.cc/uploads/2017/barbrady.jpg)

@@ -1,25 +1,25 @@
 ---
 title: "@smllwrlds, tiny illustrated SciFi stories"
 date: "2023-04-26"
-datetime: "2023-04-26 01:17:59"
+published_at: "2023-04-26T00:17:59Z"
 id: "38560"
 slug: "smllwrlds-tiny-illustrated-scifi-stories"
-url: "https://eay.cc/2023/smllwrlds-tiny-illustrated-scifi-stories/"
-author: "eay"
+permalink: "https://eay.cc/2023/smllwrlds-tiny-illustrated-scifi-stories/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
-  - english
+  - "08/15"
+  - "English"
 tags:
-  - science-fiction
-  - twitter
-meta:
-  - linked_list_url: "https://twitter.com/smllwrlds/status/1609572292346150912"
-  - geo_latitude: "50.973827"
-  - geo_longitude: "6.682998"
-  - geo_public: "1"
-  - yourls_shorturl: "https://eay.li/3m5"
+  - "science fiction"
+  - "twitter"
+external_url: "https://twitter.com/smllwrlds/status/1609572292346150912"
+short_url: "https://eay.li/3m5"
+geo_latitude: "50.973827"
+geo_longitude: "6.682998"
 ---
+
+[Link →](https://twitter.com/smllwrlds/status/1609572292346150912)
 
 ![](https://eay.cc/uploads/2023/smllwrlds.jpg)
 

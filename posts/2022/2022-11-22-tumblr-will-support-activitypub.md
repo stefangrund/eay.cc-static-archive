@@ -1,30 +1,29 @@
 ---
 title: "Tumblr will support ActivityPub"
 date: "2022-11-22"
-datetime: "2022-11-22 09:08:12"
+published_at: "2022-11-22T07:08:12Z"
 id: "38248"
 slug: "tumblr-will-support-activitypub"
-url: "https://eay.cc/2022/tumblr-will-support-activitypub/"
-author: "eay"
+permalink: "https://eay.cc/2022/tumblr-will-support-activitypub/"
+author: "Stefan Grund"
 format: "aside"
 categories:
-  - 0815
-  - english
+  - "08/15"
+  - "English"
 tags:
-  - mastodon
-  - netzkultur
-  - social-web
-  - tumblr
-  - twitter
-meta:
-  - geo_latitude: "50.973825"
-  - geo_longitude: "6.683033"
-  - geo_public: "1"
-  - yourls_shorturl: "https://eay.li/3k6"
-  - content_copy: "https://eay.social/@eay/109386231745578300"
-  - content_copy: "https://eay.social/@eay/109386236462623996"
-  - content_copy: "https://eay.social/@eay/109386238356354805"
-  - content_copy: "https://twitter.com/eay/status/1594951626703351808"
+  - "mastodon"
+  - "netzkultur"
+  - "social web"
+  - "tumblr"
+  - "twitter"
+short_url: "https://eay.li/3k6"
+content_copy:
+  - "https://eay.social/@eay/109386231745578300"
+  - "https://eay.social/@eay/109386236462623996"
+  - "https://eay.social/@eay/109386238356354805"
+  - "https://twitter.com/eay/status/1594951626703351808"
+geo_latitude: "50.973825"
+geo_longitude: "6.683033"
 ---
 
 [Matt Mullenweg](https://ma.tt/), name giver and CEO of Automattic, the company behind WordPress and [Tumblr](https://eay.cc/2019/automattic-uebernimmt-tumblr/), announced in some Twitter replies ([1](https://twitter.com/photomatt/status/1594577983028740096), [2](https://twitter.com/photomatt/status/1594587024245260289)), that Tumblr will support the [ActivityPub](https://de.wikipedia.org/wiki/ActivityPub) protocol as soon as possible. This will add quantities of tumblelogs to the fediverse and therefore make them compatible with Mastodon. Great news for an post-Twitter era!

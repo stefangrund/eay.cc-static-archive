@@ -1,21 +1,20 @@
 ---
 title: "Viertelfinale"
 date: "2012-06-22"
-datetime: "2012-06-22 15:35:54"
+published_at: "2012-06-22T13:35:54Z"
 id: "19978"
 slug: "viertelfinale"
-url: "https://eay.cc/2012/viertelfinale/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2012/viertelfinale/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - 2012
-  - europameisterschaft
-  - fussball
-  - sport
-meta:
-  - yourls_shorturl: "https://eay.li/1jp"
+  - "2012"
+  - "europameisterschaft"
+  - "fußball"
+  - "sport"
+short_url: "https://eay.li/1jp"
 ---
 
 Das Bier ist kalt gestellt, die Mettbrötchen liegen bereit, die Stimmung ist gut. Heute Abend trifft die DFB-Elf im Viertelfinale auf Griechenland, den krassen Außenseiter unter den letzten letzten Acht. In der Zeitung bringt es Gert auf der Heide auf den Punkt (Rundschau-Ausgabe von heute, Nr. 143):

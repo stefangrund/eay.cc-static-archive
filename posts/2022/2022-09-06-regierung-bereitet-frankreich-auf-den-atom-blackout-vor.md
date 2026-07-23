@@ -1,28 +1,28 @@
 ---
 title: "“Regierung bereitet Frankreich auf den Atom-Blackout vor”"
 date: "2022-09-06"
-datetime: "2022-09-06 22:51:37"
+published_at: "2022-09-06T20:51:37Z"
 id: "38045"
 slug: "regierung-bereitet-frankreich-auf-den-atom-blackout-vor"
-url: "https://eay.cc/2022/regierung-bereitet-frankreich-auf-den-atom-blackout-vor/"
-author: "eay"
+permalink: "https://eay.cc/2022/regierung-bereitet-frankreich-auf-den-atom-blackout-vor/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - atomkraft
-  - europa
-  - frankreich
-  - klimawandel
-  - politik
-  - strom
-meta:
-  - linked_list_url: "https://www.heise.de/tp/features/Regierung-bereitet-Frankreich-auf-den-Atom-Blackout-vor-7253686.html?seite=all"
-  - geo_latitude: "50.973815"
-  - geo_longitude: "6.683086"
-  - geo_public: "1"
-  - yourls_shorturl: "https://eay.li/3it"
+  - "atomkraft"
+  - "europa"
+  - "frankreich"
+  - "klimawandel"
+  - "politik"
+  - "strom"
+external_url: "https://www.heise.de/tp/features/Regierung-bereitet-Frankreich-auf-den-Atom-Blackout-vor-7253686.html?seite=all"
+short_url: "https://eay.li/3it"
+geo_latitude: "50.973815"
+geo_longitude: "6.683086"
 ---
+
+[Link →](https://www.heise.de/tp/features/Regierung-bereitet-Frankreich-auf-den-Atom-Blackout-vor-7253686.html?seite=all)
 
 Mittlerweile ist das [bevorstehende, französische Atom­kraftwerk­desaster](https://eay.cc/2022/atomdesaster-in-frankreich-nimmt-seinen-lauf/) auch in der tages­aktuellen Bericht­erstattung angekommen, aber hier werden all die Probleme und Ungereimt­heiten nochmal zusammengestellt.
 

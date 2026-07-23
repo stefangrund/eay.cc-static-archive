@@ -1,24 +1,23 @@
 ---
 title: "Marvel Comics im iBookstore"
 date: "2012-02-29"
-datetime: "2012-02-29 02:18:27"
+published_at: "2012-02-29T01:18:27Z"
 id: "18953"
 slug: "marvel-comics-im-ibookstore"
-url: "https://eay.cc/2012/marvel-comics-im-ibookstore/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2012/marvel-comics-im-ibookstore/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - apple
-  - comics
-  - itunes
-  - marvel
-meta:
-  - yourls_shorturl: "https://eay.li/1gg"
+  - "apple"
+  - "comics"
+  - "itunes"
+  - "marvel"
+short_url: "https://eay.li/1gg"
 ---
 
-Vor zweieinhalb Jahren schrieb ich [an dieser Stelle](//eay.cc/2009/disney-heart-marvel/):
+Vor zweieinhalb Jahren schrieb ich [an dieser Stelle](https://eay.cc/2009/disney-heart-marvel/):
 
 > Good Ol´ Disney hat sich also Marvel einverleibt. Was wohl bedeutet, dass Steve Jobs unbedingt Spidey & Co. auf´s iPhone (oder ein plötzlich auftauchendes, wie für Comics gemachtes Tabletâ¦) bringen will.
 

@@ -1,23 +1,22 @@
 ---
 title: "Supermans neue Kleider"
 date: "2013-02-01"
-datetime: "2013-02-01 01:24:44"
+published_at: "2013-02-01T00:24:44Z"
 id: "22121"
 slug: "supermans-neue-kleider"
-url: "https://eay.cc/2013/supermans-neue-kleider/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2013/supermans-neue-kleider/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - comics
-  - dc
-  - fanart
-  - kostum
-  - mashup
-  - superman
-meta:
-  - yourls_shorturl: "https://eay.li/1se"
+  - "comics"
+  - "dc"
+  - "fanart"
+  - "kostüm"
+  - "mashup"
+  - "superman"
+short_url: "https://eay.li/1se"
 ---
 
 ![](https://eay.cc/uploads/2013/superman.gif)

@@ -1,26 +1,24 @@
 ---
 title: "\"Pay me to send you less!\""
 date: "2025-11-03"
-datetime: "2025-11-03 07:45:48"
+published_at: "2025-11-03T06:45:48Z"
 id: "40704"
 slug: "pay-me-to-send-you-less"
-url: "https://eay.cc/2025/pay-me-to-send-you-less/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2025/pay-me-to-send-you-less/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - bloggen
-  - journalismus
-  - kuenstliche-intelligenz
-meta:
-  - linked_list_url: ""
-  - geo_latitude: "53.930556"
-  - geo_longitude: "11.381326"
-  - geo_public: "1"
-  - yourls_shorturl: "https://eay.li/3x7"
-  - _share_on_mastodon_url: "https://eay.social/@eay/115484416438981698"
-  - content_copy: "https://bsky.app/profile/eay.social/post/3m4pgd5daqh2w"
+  - "bloggen"
+  - "journalismus"
+  - "künstliche intelligenz"
+short_url: "https://eay.li/3x7"
+content_copy:
+  - "https://bsky.app/profile/eay.social/post/3m4pgd5daqh2w"
+  - "https://eay.social/@eay/115484416438981698"
+geo_latitude: "53.930556"
+geo_longitude: "11.381326"
 ---
 
 ![Ein simple Box auf der Webite von Simon Willison mit dem Titel „Monthly briefing“. Darunter steht: „Sponsor me for $10/month and get a curated email digest of the month’s most important LLM developments. Pay me to send you less!“ Unten befindet sich ein violetter Button mit der Aufschrift „Sponsor & subscribe“.](https://eay.cc/uploads/2025/pay-me-to-send-you-less.webp)

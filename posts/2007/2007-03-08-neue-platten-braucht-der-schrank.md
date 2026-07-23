@@ -1,26 +1,25 @@
 ---
 title: "Neue Platten braucht der Schrank"
 date: "2007-03-08"
-datetime: "2007-03-08 14:36:02"
+published_at: "2007-03-08T13:36:02Z"
 id: "25"
 slug: "neue-platten-braucht-der-schrank"
-url: "https://eay.cc/2007/neue-platten-braucht-der-schrank/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2007/neue-platten-braucht-der-schrank/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - album
-  - arctic-monkeys
-  - beatsteaks
-  - die-fantastischen-vier
-  - gods-of-blitz
-  - kings-of-leon
-  - konsum
-  - musik
-  - plattenschrank
-meta:
-  - yourls_shorturl: "https://eay.li/4d"
+  - "album"
+  - "arctic monkeys"
+  - "beatsteaks"
+  - "die fantastischen vier"
+  - "gods of blitz"
+  - "kings of leon"
+  - "konsum"
+  - "musik"
+  - "plattenschrank"
+short_url: "https://eay.li/4d"
 ---
 
 Okay, die [neue Kaiser Chiefs](http://www.amazon.de/exec/obidos/ASIN/B000MQ57QY/eayznet-21) ist ganz ordentlich und [Bloc Partys Neue](http://www.amazon.de/exec/obidos/ASIN/B000K7V6YC/eayznet-21) ist auch ganz nett. Die Vorgänger liefen jedenfalls besser in der hauseigenen Heavy Rotation. Für die gibt's aber schon potentielle Neueinsteiger, die in der nächsten Zeit herauskommen und auf jeden Fall gekauft werden. Für mich und euch daher im folgenden die Einkaufs- & Erinnerungsliste:

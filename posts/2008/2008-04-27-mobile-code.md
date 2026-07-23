@@ -1,18 +1,17 @@
 ---
 title: "eayz Mobile"
 date: "2008-04-27"
-datetime: "2008-04-27 19:40:27"
+published_at: "2008-04-27T17:40:27Z"
 id: "499"
 slug: "mobile-code"
-url: "https://eay.cc/2008/mobile-code/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2008/mobile-code/"
+author: "Stefan Grund"
+format: "standard"
 tags:
-  - eayz
-  - handy
-  - qr-codes
-meta:
-  - yourls_shorturl: "https://eay.li/uc"
+  - "eayz"
+  - "handy"
+  - "qr codes"
+short_url: "https://eay.li/uc"
 ---
 
-![](/uploads/2008/mobilecode.gif)
+![](https://eay.cc/uploads/2008/mobilecode.gif)

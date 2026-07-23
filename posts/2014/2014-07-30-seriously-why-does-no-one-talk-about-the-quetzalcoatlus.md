@@ -1,20 +1,21 @@
 ---
 title: "Seriously, why does no one talk about the Quetzalcoatlus?!"
 date: "2014-07-30"
-datetime: "2014-07-30 18:00:14"
+published_at: "2014-07-30T16:00:14Z"
 id: "28467"
 slug: "seriously-why-does-no-one-talk-about-the-quetzalcoatlus"
-url: "https://eay.cc/2014/seriously-why-does-no-one-talk-about-the-quetzalcoatlus/"
-author: "eay"
+permalink: "https://eay.cc/2014/seriously-why-does-no-one-talk-about-the-quetzalcoatlus/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - dinosaurier
-meta:
-  - linked_list_url: "http://jamietheignorantamerican.tumblr.com/post/52968339035/no-but-seriously"
-  - yourls_shorturl: "https://eay.li/2ht"
+  - "dinosaurier"
+external_url: "http://jamietheignorantamerican.tumblr.com/post/52968339035/no-but-seriously"
+short_url: "https://eay.li/2ht"
 ---
+
+[Link →](http://jamietheignorantamerican.tumblr.com/post/52968339035/no-but-seriously)
 
 ![](https://eay.cc/uploads/2014/quetzalcoatlus.jpg)
 

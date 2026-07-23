@@ -1,18 +1,17 @@
 ---
 title: "Super-Turtle!"
 date: "2007-11-25"
-datetime: "2007-11-25 22:18:44"
+published_at: "2007-11-25T21:18:44Z"
 id: "170"
 slug: "super-turtle"
-url: "https://eay.cc/2007/super-turtle/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2007/super-turtle/"
+author: "Stefan Grund"
+format: "standard"
 tags:
-  - comics
-  - superman
-  - tiere
-meta:
-  - yourls_shorturl: "https://eay.li/jw"
+  - "comics"
+  - "superman"
+  - "tiere"
+short_url: "https://eay.li/jw"
 ---
 
-![](/uploads/2007/superturtle.jpg)
+![](https://eay.cc/uploads/2007/superturtle.jpg)

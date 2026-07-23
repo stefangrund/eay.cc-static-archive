@@ -1,23 +1,24 @@
 ---
 title: "Is the ship still stuck?"
 date: "2021-03-26"
-datetime: "2021-03-26 16:43:14"
+published_at: "2021-03-26T15:43:14Z"
 id: "37209"
 slug: "is-the-ship-still-stuck"
-url: "https://eay.cc/2021/is-the-ship-still-stuck/"
-author: "eay"
+permalink: "https://eay.cc/2021/is-the-ship-still-stuck/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - aegypten
-  - bizarres
-  - schifffahrt
-  - sueskanal
-meta:
-  - linked_list_url: "https://istheshipstillstuck.com/"
-  - yourls_shorturl: "https://eay.li/2ls"
+  - "ägypten"
+  - "bizarres"
+  - "schifffahrt"
+  - "sueskanal"
+external_url: "https://istheshipstillstuck.com/"
+short_url: "https://eay.li/2ls"
 ---
+
+[Link →](https://istheshipstillstuck.com/)
 
 > Yes.
 

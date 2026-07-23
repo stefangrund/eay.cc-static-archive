@@ -1,22 +1,21 @@
 ---
 title: "How I met my favorite TV series"
 date: "2008-07-09"
-datetime: "2008-07-09 18:48:28"
+published_at: "2008-07-09T16:48:28Z"
 id: "599"
 slug: "how-i-met-my-favorite-tv-series"
-url: "https://eay.cc/2008/how-i-met-my-favorite-tv-series/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2008/how-i-met-my-favorite-tv-series/"
+author: "Stefan Grund"
+format: "standard"
 tags:
-  - best-of
-  - fernsehen
-  - himym
-  - serien
-meta:
-  - yourls_shorturl: "https://eay.li/7i"
+  - "best of"
+  - "fernsehen"
+  - "himym"
+  - "serien"
+short_url: "https://eay.li/7i"
 ---
 
-![](/uploads/2008/howimetyourmother.jpg) Als ich vor einigen Wochen den Film [Forgetting Sarah Marshall](//eay.cc/2008/forgetting-kristen-bell/) an dieser Stelle rezensionierte und dabei mit keinem Wort auf Hauptdarsteller Jason Segel und sein vorheriges Schaffen einging, machten mich [Andi](http://www.andisblog.de/) und [Nilsi](http://www.nils-kraus.de/) in den Kommentaren darauf aufmerksam, dass offenbar etwas elementares an mir vorbei gegangen ist: die Sitcom [How I met your mother](http://de.wikipedia.org/wiki/How_I_Met_Your_Mother).
+![](https://eay.cc/uploads/2008/howimetyourmother.jpg) Als ich vor einigen Wochen den Film [Forgetting Sarah Marshall](https://eay.cc/2008/forgetting-kristen-bell/) an dieser Stelle rezensionierte und dabei mit keinem Wort auf Hauptdarsteller Jason Segel und sein vorheriges Schaffen einging, machten mich [Andi](http://www.andisblog.de/) und [Nilsi](http://www.nils-kraus.de/) in den Kommentaren darauf aufmerksam, dass offenbar etwas elementares an mir vorbei gegangen ist: die Sitcom [How I met your mother](http://de.wikipedia.org/wiki/How_I_Met_Your_Mother).
 
 Doch da ein junger Eay noch lernfähig ist, habe ich direkt PirateBay [Amazon](http://www.amazon.de/exec/obidos/ASIN/B000NDFMZC/eayznet-21) angeschmissen und mir die erste Staffel besorgt. Was ich da noch nicht wusste, aber bald erahnen sollte, ist, dass ich HIMYM großartig finde. Ich liebe Ted, Robin, Barney, Marshall und Lily (okay, seit dem Staffelfinale stehe ich mit Lily auf Kriegsfuß), weshalb ich euch diese großartige TV-Serie wärmstens empfehlen möchte! How I met your mother ist _legen- wait for it! -dary!_
 

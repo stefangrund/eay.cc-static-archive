@@ -1,25 +1,24 @@
 ---
 title: "Kraftwerk Niederaußem"
 date: "2020-04-22"
-datetime: "2020-04-22 07:43:42"
+published_at: "2020-04-22T06:43:42Z"
 id: "36463"
 slug: "kraftwerk-niederaussem-2"
-url: "https://eay.cc/2020/kraftwerk-niederaussem-2/"
-author: "eay"
+permalink: "https://eay.cc/2020/kraftwerk-niederaussem-2/"
+author: "Stefan Grund"
 format: "image"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - bergheim
-  - fotos
-  - oberaussem-niederaussem
-meta:
-  - geo_latitude: "50.978366178444"
-  - geo_longitude: "6.6886065098902"
-  - geo_public: "1"
-  - yourls_shorturl: "https://eay.li/3dw"
-  - content_copy: "https://www.instagram.com/p/B_RfdErHz5D/"
-  - content_copy: "https://twitter.com/eay/status/1252848874147831812"
+  - "bergheim"
+  - "fotos"
+  - "oberaußem &amp; niederaußem"
+short_url: "https://eay.li/3dw"
+content_copy:
+  - "https://www.instagram.com/p/B_RfdErHz5D/"
+  - "https://twitter.com/eay/status/1252848874147831812"
+geo_latitude: "50.978366178444"
+geo_longitude: "6.6886065098902"
 ---
 
 ![Kraftwerk Niederaußem](https://eay.cc/uploads/2020/kraftwerk-niederaussem.jpeg)

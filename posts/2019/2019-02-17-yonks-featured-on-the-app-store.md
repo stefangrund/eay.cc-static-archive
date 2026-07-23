@@ -1,25 +1,24 @@
 ---
 title: "Yonks featured on the App Store"
 date: "2019-02-17"
-datetime: "2019-02-17 23:55:11"
+published_at: "2019-02-17T22:55:11Z"
 id: "35525"
 slug: "yonks-featured-on-the-app-store"
-url: "https://eay.cc/2019/yonks-featured-on-the-app-store/"
-author: "eay"
+permalink: "https://eay.cc/2019/yonks-featured-on-the-app-store/"
+author: "Stefan Grund"
 format: "aside"
 categories:
-  - 0815
-  - yonks
+  - "08/15"
+  - "Yonks"
 tags:
-  - apple
-  - projekte
-  - yonks
-meta:
-  - yourls_shorturl: "https://eay.li/395"
-  - geo_latitude: "52.385831378984"
-  - geo_longitude: "4.8468766664768"
-  - geo_public: "1"
-  - content_copy: "https://twitter.com/eay/status/1096814671527636993"
+  - "apple"
+  - "projekte"
+  - "yonks"
+short_url: "https://eay.li/395"
+content_copy:
+  - "https://twitter.com/eay/status/1096814671527636993"
+geo_latitude: "52.385831378984"
+geo_longitude: "4.8468766664768"
 ---
 
 ![](https://eay.cc/uploads/2019/yonks-appstore.png)

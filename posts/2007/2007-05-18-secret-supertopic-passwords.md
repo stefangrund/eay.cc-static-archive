@@ -1,20 +1,19 @@
 ---
 title: "Secret Supertopic Passwords"
 date: "2007-05-18"
-datetime: "2007-05-18 14:59:10"
+published_at: "2007-05-18T12:59:10Z"
 id: "101"
 slug: "secret-supertopic-passwords"
-url: "https://eay.cc/2007/secret-supertopic-passwords/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2007/secret-supertopic-passwords/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - 0815
-  - the-others
+  - "08/15"
+  - "The Others"
 tags:
-  - forum
-  - supertopic
-meta:
-  - yourls_shorturl: "https://eay.li/pl"
+  - "forum"
+  - "supertopic"
+short_url: "https://eay.li/pl"
 ---
 
-![](/uploads/2007/supertopic1.gif) ![](/uploads/2007/supertopic2.gif)
+![](https://eay.cc/uploads/2007/supertopic1.gif) ![](https://eay.cc/uploads/2007/supertopic2.gif)

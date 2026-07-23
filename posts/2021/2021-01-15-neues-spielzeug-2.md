@@ -1,20 +1,19 @@
 ---
 title: "Neues Spielzeug."
 date: "2021-01-15"
-datetime: "2021-01-15 23:42:27"
+published_at: "2021-01-15T22:42:27Z"
 id: "37037"
 slug: "neues-spielzeug-2"
-url: "https://eay.cc/2021/neues-spielzeug-2/"
-author: "eay"
+permalink: "https://eay.cc/2021/neues-spielzeug-2/"
+author: "Stefan Grund"
 format: "image"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - peloton
-  - sport
-  - technologie
-meta:
-  - yourls_shorturl: "https://eay.li/12k"
+  - "peloton"
+  - "sport"
+  - "technologie"
+short_url: "https://eay.li/12k"
 ---
 
 ![](https://eay.cc/uploads/2021/peloton.jpeg)

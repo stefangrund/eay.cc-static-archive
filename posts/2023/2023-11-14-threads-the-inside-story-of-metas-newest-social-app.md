@@ -1,32 +1,30 @@
 ---
 title: "Threads: The inside story of Meta’s newest social app"
 date: "2023-11-14"
-datetime: "2023-11-14 09:40:02"
+published_at: "2023-11-14T07:40:02Z"
 id: "38931"
 slug: "threads-the-inside-story-of-metas-newest-social-app"
-url: "https://eay.cc/2023/threads-the-inside-story-of-metas-newest-social-app/"
-author: "eay"
+permalink: "https://eay.cc/2023/threads-the-inside-story-of-metas-newest-social-app/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - facebook
-  - fediverse
-  - mastodon
-  - netzkultur
-  - social-web
-  - threads
-meta:
-  - linked_list_url: "https://engineering.fb.com/2023/09/07/culture/threads-inside-story-metas-newest-social-app/"
-  - geo_latitude: "50.973834"
-  - geo_longitude: "6.683084"
-  - geo_public: "1"
-  - yourls_shorturl: "https://eay.li/3ot"
-  - _share_on_mastodon_url: "https://eay.social/@eay/111407766140706871"
-  - linked_list_og-title: "Threads: The inside story of Meta’s newest social app"
-  - linked_list_og-description: "Earlier this year, a small team of engineers at Meta started working on an idea for a new app. It would have all the features people expect from a text-based conversations app, but with one very ke…"
-  - linked_list_og-image: "https://eay.cc/wordpress/uploads/og-cache/6f96df31000a23987a926e35f6605a01.webp"
+  - "facebook"
+  - "fediverse"
+  - "mastodon"
+  - "netzkultur"
+  - "social web"
+  - "threads"
+external_url: "https://engineering.fb.com/2023/09/07/culture/threads-inside-story-metas-newest-social-app/"
+short_url: "https://eay.li/3ot"
+content_copy:
+  - "https://eay.social/@eay/111407766140706871"
+geo_latitude: "50.973834"
+geo_longitude: "6.683084"
 ---
+
+[Link →](https://engineering.fb.com/2023/09/07/culture/threads-inside-story-metas-newest-social-app/)
 
 From Meta's engineering blog. At least they continue to talk explicitly about ActivityPub and the Fediverse. However, no mention of the EU launch.
 

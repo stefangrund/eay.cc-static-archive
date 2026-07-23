@@ -1,22 +1,23 @@
 ---
 title: "Corona-Maßnahmen-Generator"
 date: "2021-03-29"
-datetime: "2021-03-29 22:05:48"
+published_at: "2021-03-29T21:05:48Z"
 id: "37218"
 slug: "corona-massnahmen-generator"
-url: "https://eay.cc/2021/corona-massnahmen-generator/"
-author: "eay"
+permalink: "https://eay.cc/2021/corona-massnahmen-generator/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - coronavirus
-  - humor
-  - politik
-meta:
-  - linked_list_url: "https://nick-hat-boecker.de/corona-generator/"
-  - yourls_shorturl: "https://eay.li/2mc"
+  - "coronavirus"
+  - "humor"
+  - "politik"
+external_url: "https://nick-hat-boecker.de/corona-generator/"
+short_url: "https://eay.li/2mc"
 ---
+
+[Link →](https://nick-hat-boecker.de/corona-generator/)
 
 Ministerpräsidentenkonferenz-kompatible Schutzmaßnahmen aus dem Generator von [@zwetkoffein](https://twitter.com/zwetkoffein), Queer Pen und [@NickHatBoecker](https://twitter.com/NickHatBoecker):
 
@@ -24,6 +25,6 @@ Ministerpräsidentenkonferenz-kompatible Schutzmaßnahmen aus dem Generator von 
 
 > Bibliotheken mit einem Augenzwinkern öffnen
 
-> Krankenpfleger*innen bei Inzidenz >200 den Facebook-Account sperren
+> Krankenpfleger\*innen bei Inzidenz >200 den Facebook-Account sperren
 
 (via [Das Nuf](https://dasnuf.de/willkommen-in-meiner-kleinen-welt/))

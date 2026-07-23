@@ -1,20 +1,19 @@
 ---
 title: "Spaceman from Pluto"
 date: "2010-08-17"
-datetime: "2010-08-17 13:18:41"
+published_at: "2010-08-17T11:18:41Z"
 id: "12958"
 slug: "spaceman-from-pluto"
-url: "https://eay.cc/2010/spaceman-from-pluto/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2010/spaceman-from-pluto/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - back-to-the-future
-  - filme
-  - steven-spielberg
-meta:
-  - yourls_shorturl: "https://eay.li/10a"
+  - "back to the future"
+  - "filme"
+  - "steven spielberg"
+short_url: "https://eay.li/10a"
 ---
 
 Wie großartig ist diese Story zu [Zurück in die Zukunft](http://amzn.to/cO0wTr) denn bitteschön?

@@ -1,26 +1,27 @@
 ---
 title: "Urheberrechtsreform: Bundestag stimmt für Upload-Filter und Leistungsschutzrecht"
 date: "2021-05-22"
-datetime: "2021-05-22 12:33:01"
+published_at: "2021-05-22T10:33:01Z"
 id: "37301"
 slug: "urheberrechtsreform-bundestag-stimmt-fuer-upload-filter-und-leistungsschutzrecht"
-url: "https://eay.cc/2021/urheberrechtsreform-bundestag-stimmt-fuer-upload-filter-und-leistungsschutzrecht/"
-author: "eay"
+permalink: "https://eay.cc/2021/urheberrechtsreform-bundestag-stimmt-fuer-upload-filter-und-leistungsschutzrecht/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - deutschland
-  - europa
-  - leistungsschutzrecht
-  - netzkultur
-  - politik
-  - technologie
-  - urheberrecht
-meta:
-  - linked_list_url: "https://www.heise.de/news/Urheberrechtsreform-Bundestag-stimmt-fuer-Upload-Filter-und-Leistungsschutzrecht-6051026.html?seite=all"
-  - yourls_shorturl: "https://eay.li/2nx"
+  - "deutschland"
+  - "europa"
+  - "leistungsschutzrecht"
+  - "netzkultur"
+  - "politik"
+  - "technologie"
+  - "urheberrecht"
+external_url: "https://www.heise.de/news/Urheberrechtsreform-Bundestag-stimmt-fuer-Upload-Filter-und-Leistungsschutzrecht-6051026.html?seite=all"
+short_url: "https://eay.li/2nx"
 ---
+
+[Link →](https://www.heise.de/news/Urheberrechtsreform-Bundestag-stimmt-fuer-Upload-Filter-und-Leistungsschutzrecht-6051026.html?seite=all)
 
 Der Bundestag hat das überarbeitete Urheberrechtsgesetz beschlossen, dass uns schöne neue Upload-Filter und weitere Ausprägungen des bei Verlags­lobbyisten beliebten [Leistungsschutzrechts](https://eay.cc/tag/leistungsschutzrecht/) bringt. Aber keine Sorge, die private Nutzung / Veröffent­lichung von "Schnipseln" ist nun erlaubt und total sinnvoll. Nicht.
 

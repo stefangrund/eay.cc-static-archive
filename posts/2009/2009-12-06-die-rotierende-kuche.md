@@ -1,23 +1,24 @@
 ---
 title: "Die rotierende Küche"
 date: "2009-12-06"
-datetime: "2009-12-06 13:53:33"
+published_at: "2009-12-06T12:53:33Z"
 id: "10304"
 slug: "die-rotierende-kuche"
-url: "https://eay.cc/2009/die-rotierende-kuche/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2009/die-rotierende-kuche/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - 0815
-  - the-others
+  - "08/15"
+  - "The Others"
 tags:
-  - dusseldorf
-  - kunst
-  - nahrung
-  - wohnen
-meta:
-  - yourls_shorturl: "https://eay.li/hw"
+  - "düsseldorf"
+  - "kunst"
+  - "nahrung"
+  - "wohnen"
+short_url: "https://eay.li/hw"
 ---
+
+[Embedded content](http://vimeo.com/moogaloop.swf?clip_id=7887463&server=vimeo.com&show_title=1&show_byline=1&show_portrait=0&color=00ADEF&fullscreen=1)
 
  ([Vimeo Direktrotation](http://vimeo.com/7887463), [via](http://laughingsquid.com/kitchen-slowly-rotating-for-3-months/))
 

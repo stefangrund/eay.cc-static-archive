@@ -1,26 +1,27 @@
 ---
 title: "How one company owns color"
 date: "2023-08-28"
-datetime: "2023-08-28 19:54:07"
+published_at: "2023-08-28T17:54:07Z"
 id: "38810"
 slug: "how-one-company-owns-color"
-url: "https://eay.cc/2023/how-one-company-owns-color/"
-author: "eay"
+permalink: "https://eay.cc/2023/how-one-company-owns-color/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - design
-  - video
-meta:
-  - geo_latitude: "51.000124"
-  - geo_longitude: "6.794219"
-  - geo_public: "1"
-  - _share_on_mastodon_url: "https://eay.social/@eay/110968520546312321"
-  - yourls_shorturl: "https://eay.li/3np"
-  - linked_list_url: "https://youtube.com/@PhilEdwardsInc"
+  - "design"
+  - "video"
+external_url: "https://youtube.com/@PhilEdwardsInc"
+short_url: "https://eay.li/3np"
+content_copy:
+  - "https://eay.social/@eay/110968520546312321"
+geo_latitude: "51.000124"
+geo_longitude: "6.794219"
 ---
 
-[youtube id="jiiV9TciUfE"]
+[Link →](https://youtube.com/@PhilEdwardsInc)
+
+\[youtube id="jiiV9TciUfE"\]
 
 [Phil Edwards](https://youtube.com/@PhilEdwardsInc) über Pantone.

@@ -1,25 +1,25 @@
 ---
 title: "Human Record Player"
 date: "2022-06-19"
-datetime: "2022-06-19 18:22:48"
+published_at: "2022-06-19T16:22:48Z"
 id: "37991"
 slug: "human-record-player"
-url: "https://eay.cc/2022/human-record-player/"
-author: "eay"
+permalink: "https://eay.cc/2022/human-record-player/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - frontend
-  - musik
-  - weezer
-meta:
-  - linked_list_url: "https://humanrecordplayer.com/"
-  - geo_latitude: "50.973808"
-  - geo_longitude: "6.683083"
-  - geo_public: "1"
-  - yourls_shorturl: "https://eay.li/3ic"
+  - "frontend"
+  - "musik"
+  - "weezer"
+external_url: "https://humanrecordplayer.com/"
+short_url: "https://eay.li/3ic"
+geo_latitude: "50.973808"
+geo_longitude: "6.683083"
 ---
+
+[Link →](https://humanrecordplayer.com/)
 
 > Human Record Player makes you spin around to listen to Weezer's new track.
 

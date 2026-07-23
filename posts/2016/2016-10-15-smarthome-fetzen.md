@@ -1,19 +1,18 @@
 ---
 title: "Smarthome-Fetzen"
 date: "2016-10-15"
-datetime: "2016-10-15 23:42:11"
+published_at: "2016-10-15T21:42:11Z"
 id: "31756"
 slug: "smarthome-fetzen"
-url: "https://eay.cc/2016/smarthome-fetzen/"
-author: "eay"
+permalink: "https://eay.cc/2016/smarthome-fetzen/"
+author: "Stefan Grund"
 format: "aside"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - smarthome
-  - technologie
-meta:
-  - yourls_shorturl: "https://eay.li/2v8"
+  - "smarthome"
+  - "technologie"
+short_url: "https://eay.li/2v8"
 ---
 
 Apropos England: Als wir Freitagnacht zurückgekehrt sind, fanden wir hier ein eiskaltes Haus vor. Stellt sich heraus, dass man nämlich auch bei all der hier verbauten Smarthome-Technik erstmal auf die Idee kommen muss, die fernsteuerbare Heizung auch wirklich fernzusteuern und anzuwerfen. 😅

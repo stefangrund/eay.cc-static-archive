@@ -1,27 +1,26 @@
 ---
 title: "Kopfhörernutzungsstatistik"
 date: "2026-02-02"
-datetime: "2026-02-02 23:07:49"
+published_at: "2026-02-02T22:07:49Z"
 id: "41106"
 slug: "kopfhoerernutzungsstatistik"
-url: "https://eay.cc/2026/kopfhoerernutzungsstatistik/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2026/kopfhoerernutzungsstatistik/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - airpods
-  - apple
-  - kopfhoerer
-  - quantified-self
-  - wearables
-meta:
-  - geo_latitude: "50.973819"
-  - geo_longitude: "6.683025"
-  - geo_public: "1"
-  - yourls_shorturl: "https://eay.li/3z1"
-  - _share_on_mastodon_url: "https://eay.social/@eay/116003312170290951"
-  - content_copy: "https://bsky.app/profile/eay.social/post/3mdvughyltb2t"
+  - "airpods"
+  - "apple"
+  - "kopfhörer"
+  - "quantified self"
+  - "wearables"
+short_url: "https://eay.li/3z1"
+content_copy:
+  - "https://bsky.app/profile/eay.social/post/3mdvughyltb2t"
+  - "https://eay.social/@eay/116003312170290951"
+geo_latitude: "50.973819"
+geo_longitude: "6.683025"
 ---
 
 Interessanter [Fun-Fact von Alex im iphoneblog](https://www.iphoneblog.de/2026/02/02/fun-fact-airpods-stecken-vier-volle-tage-pro-monat-in-meinen-ohren/): Die Apple Health-App erfasst unter "[Kopfhörer­geräusch­pegel](https://support.apple.com/de-de/guide/iphone/iph0596a9152/ios)" die Zeit, in der eure Kopfhörer Audio wieder­gegeben haben. Bei Alex sind's volle 4 Tage pro Monat. Die waren es bei mir 2024 auch, 2025 waren es nur knapp 3 Tage. Höchstwert war mit knapp 6,5 Tagen 2020 als quasi jedes Gespräch digital stattfand.

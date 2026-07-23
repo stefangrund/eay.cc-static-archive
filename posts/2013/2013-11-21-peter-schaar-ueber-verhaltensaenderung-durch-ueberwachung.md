@@ -1,22 +1,21 @@
 ---
 title: "Peter Schaar über Verhaltensänderung durch Überwachung"
 date: "2013-11-21"
-datetime: "2013-11-21 17:53:48"
+published_at: "2013-11-21T16:53:48Z"
 id: "26148"
 slug: "peter-schaar-ueber-verhaltensaenderung-durch-ueberwachung"
-url: "https://eay.cc/2013/peter-schaar-ueber-verhaltensaenderung-durch-ueberwachung/"
-author: "eay"
+permalink: "https://eay.cc/2013/peter-schaar-ueber-verhaltensaenderung-durch-ueberwachung/"
+author: "Stefan Grund"
 format: "quote"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - deutschland
-  - nsa
-  - politik
-  - privatsphare
-  - ueberwachung
-meta:
-  - yourls_shorturl: "https://eay.li/29r"
+  - "deutschland"
+  - "nsa"
+  - "politik"
+  - "privatsphäre"
+  - "überwachung"
+short_url: "https://eay.li/29r"
 ---
 
 > Es geht nicht mehr um die Frage, wie entfalten wir uns, sondern um die Frage, wie schaffen wir es, nicht aufzufallen? Das ist das Gegenteil von Freiheit.

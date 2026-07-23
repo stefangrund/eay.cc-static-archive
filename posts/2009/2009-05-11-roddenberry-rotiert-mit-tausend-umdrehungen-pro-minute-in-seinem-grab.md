@@ -1,27 +1,26 @@
 ---
 title: "\"Roddenberry rotiert mit tausend Umdrehungen pro Minute in seinem Grab\""
 date: "2009-05-11"
-datetime: "2009-05-11 16:32:30"
+published_at: "2009-05-11T14:32:30Z"
 id: "7182"
 slug: "roddenberry-rotiert-mit-tausend-umdrehungen-pro-minute-in-seinem-grab"
-url: "https://eay.cc/2009/roddenberry-rotiert-mit-tausend-umdrehungen-pro-minute-in-seinem-grab/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2009/roddenberry-rotiert-mit-tausend-umdrehungen-pro-minute-in-seinem-grab/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - 0815
-  - the-others
+  - "08/15"
+  - "The Others"
 tags:
-  - filme
-  - gene-roddenberry
-  - jj-abrams
-  - piraterie
-  - star-trek
-  - verriss
-meta:
-  - yourls_shorturl: "https://eay.li/38"
+  - "filme"
+  - "gene roddenberry"
+  - "jj abrams"
+  - "piraterie"
+  - "star trek"
+  - "verriss"
+short_url: "https://eay.li/38"
 ---
 
-Dass mich der neue [Star Trek](//eay.cc/2009/star-trek-2-punkt-0/) begeistern konnte, [wisst ihr ja](//eay.cc/2009/star-trek-2-punkt-0/). Dass es natürlich auch anders geht, beweist Etrit Hasler in seinem durchaus lesenswerten Verriss in der Schweizer WOZ:
+Dass mich der neue [Star Trek](https://eay.cc/2009/star-trek-2-punkt-0/) begeistern konnte, [wisst ihr ja](https://eay.cc/2009/star-trek-2-punkt-0/). Dass es natürlich auch anders geht, beweist Etrit Hasler in seinem durchaus lesenswerten Verriss in der Schweizer WOZ:
 
 > "J. J. Abrams ist ein hirnloser, anmassender Bastard, dem man seine Eier zum Frühstück servieren sollte." Es ist der erste Satz, der mir über die Lippen kommt, als ich immer noch verstört vor dem Kino Plaza in Zürich stehe und mir zur Beruhigung bereits die dritte Zigarette anstecke. Hinter mir liegen die schlimmsten zwei Stunden, die ich jemals in einem Kino verbracht habe, mit der Pressevorführung des neusten "Star Trek"-Films.
 

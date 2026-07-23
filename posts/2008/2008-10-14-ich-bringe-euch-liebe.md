@@ -1,22 +1,21 @@
 ---
 title: "Ich bringe euch Liebe!"
 date: "2008-10-14"
-datetime: "2008-10-14 14:38:06"
+published_at: "2008-10-14T12:38:06Z"
 id: "2608"
 slug: "ich-bringe-euch-liebe"
-url: "https://eay.cc/2008/ich-bringe-euch-liebe/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2008/ich-bringe-euch-liebe/"
+author: "Stefan Grund"
+format: "standard"
 tags:
-  - blogging
-  - liebe
-  - nominierung
-  - stoeckchen
-meta:
-  - yourls_shorturl: "https://eay.li/7l"
+  - "blogging"
+  - "liebe"
+  - "nominierung"
+  - "stöckchen"
+short_url: "https://eay.li/7l"
 ---
 
-![](/uploads/2008/bloglove.jpg)Der Blogger-Kollege vom [Equilibirum Blog](http://www.equilibriumblog.de) wurde nach seinen Lieblingsblogs [gefragt](http://www.equilibriumblog.de/wordpress/2008/10/09/i-equilibrium/) und hat - oh Freude! - unter anderem diese kleine Webpräsenz genannt. Sowas erfreut euren Gastgeber natürlich und den gemeinen Blogger sowieso, weshalb ich diese Freude Stöckchen-like teilen möchte. Im folgenden also meine sieben Lieblingsblogs. Doch Obacht: Eigentlich gefallen mir natürlich noch sehr viel, viel, viel mehr Blogs (etwa [alle hier verlinkten](http://eay.cc/links/)), doch das würde ja den Rahmen sprengen und ihr wisst ja: Platz ist Geld im WWW.
+![](https://eay.cc/uploads/2008/bloglove.jpg)Der Blogger-Kollege vom [Equilibirum Blog](http://www.equilibriumblog.de/) wurde nach seinen Lieblingsblogs [gefragt](http://www.equilibriumblog.de/wordpress/2008/10/09/i-equilibrium/) und hat - oh Freude! - unter anderem diese kleine Webpräsenz genannt. Sowas erfreut euren Gastgeber natürlich und den gemeinen Blogger sowieso, weshalb ich diese Freude Stöckchen-like teilen möchte. Im folgenden also meine sieben Lieblingsblogs. Doch Obacht: Eigentlich gefallen mir natürlich noch sehr viel, viel, viel mehr Blogs (etwa [alle hier verlinkten](http://eay.cc/links/)), doch das würde ja den Rahmen sprengen und ihr wisst ja: Platz ist Geld im WWW.
 
 Es ist kein offenes Geheimnis und wer sich nur zwei, drei Seiten durch's Archiv klickt, wird feststellen, dass sich hinter einem Großteil der via-Links [Nerdcore](http://www.nerdcore.de/wp/) oder die [Fünf Filmfreunde](http://www.fuenf-filmfreunde.de/) verbergen. Dementsprechend _müssten_ die Spreeblick-Nerdcore-Klüngel-Blogs hier an erster Stelle stehen, tun sie aber nicht. Ähm... nun ja doch, aber das gilt nicht. Stattdessen soll mein Fokus hier auf meinen unbekannteren ("unbekannter" im Sinne von "hier weniger oft verlinkt") Lieblingen liegen. In loser Reihenfolge.
 

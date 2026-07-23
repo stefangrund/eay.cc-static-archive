@@ -1,22 +1,21 @@
 ---
 title: "Ghost in the Shell"
 date: "2017-04-11"
-datetime: "2017-04-11 21:58:13"
+published_at: "2017-04-11T20:58:13Z"
 id: "32364"
 slug: "ghost-in-the-shell"
-url: "https://eay.cc/2017/ghost-in-the-shell/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2017/ghost-in-the-shell/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - review
+  - "Review"
 tags:
-  - anime
-  - filme
-  - ghost-in-the-shell
-  - kinolog
-  - science-fiction
-meta:
-  - yourls_shorturl: "https://eay.li/2xj"
+  - "anime"
+  - "filme"
+  - "ghost in the shell"
+  - "kinolog"
+  - "science fiction"
+short_url: "https://eay.li/2xj"
 ---
 
 ![](https://eay.cc/uploads/2017/ghost-in-the-shell.jpg)Seit Sichtung der [grandios aussehenden Trailer](https://eay.cc/2017/trailer-zu-ghost-in-the-shell/) freute ich mich auf die Realverfilmung des [populären Animes](https://de.wikipedia.org/wiki/Ghost_in_the_Shell), der mir damals™ zwar gut gefiel, mich aber zugegebenermaßen nicht weiter beeindruckte und -flußte, weshalb ich das weitere Franchise-Treiben auch nicht weiter verfolgte. Die dann veröffentlichten Realfilm-Trailer versprachen jedenfalls nicht zu viel: Rupert Sanders' »[Ghost in the Shell](http://www.imdb.com/title/tt1219827/)« sieht grandios aus. Die Special Effects überzeugen, der eigentliche Star des Films sein Setting: die futuristische Stadt mit all ihren Hologramen, Reklamen, Technologien und Bewohnern sieht fantastisch aus.
@@ -25,4 +24,4 @@ Das war's dann allerdings auch (für mich). Die Neuauflage der 22 Jahre alten St
 
 Nichtsdestotrotz wegen der tollen Präsentation:
 
-[rating value=4]
+\[rating value=4\]

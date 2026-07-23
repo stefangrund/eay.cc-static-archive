@@ -1,30 +1,30 @@
 ---
 title: "xkcd's Dependency als Physik-Demo"
 date: "2026-03-05"
-datetime: "2026-03-05 23:12:48"
+published_at: "2026-03-05T22:12:48Z"
 id: "41400"
 slug: "xkcds-dependency-als-physik-demo"
-url: "https://eay.cc/2026/xkcds-dependency-als-physik-demo/"
-author: "eay"
+permalink: "https://eay.cc/2026/xkcds-dependency-als-physik-demo/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - frontend
-  - physik
-  - web-entwicklung
-  - webcomic
-  - xkcd
-meta:
-  - linked_list_url: "https://editor.p5js.org/isohedral/full/vJa5RiZWs"
-  - geo_latitude: "51.000004"
-  - geo_longitude: "6.794078"
-  - geo_public: "1"
-  - yourls_shorturl: "https://eay.li/3zx"
-  - _share_on_mastodon_url: "https://eay.social/@eay/116178867604076142"
-  - content_copy: "https://bsky.app/profile/eay.social/post/3mgdtfd3ofp27"
-  - _linked_list_og-suppressed: "1"
+  - "frontend"
+  - "physik"
+  - "web-entwicklung"
+  - "webcomic"
+  - "xkcd"
+external_url: "https://editor.p5js.org/isohedral/full/vJa5RiZWs"
+short_url: "https://eay.li/3zx"
+content_copy:
+  - "https://bsky.app/profile/eay.social/post/3mgdtfd3ofp27"
+  - "https://eay.social/@eay/116178867604076142"
+geo_latitude: "51.000004"
+geo_longitude: "6.794078"
 ---
+
+[Link →](https://editor.p5js.org/isohedral/full/vJa5RiZWs)
 
 ![GIF eine Screencasts der xkcd-Dependency Physik-Demo, in der also selbstredend alles zusammenbricht.](https://eay.cc/uploads/2026/p5js-dependency.gif)
 

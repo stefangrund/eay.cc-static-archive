@@ -1,21 +1,20 @@
 ---
 title: "Office 15 & Metro"
 date: "2012-02-11"
-datetime: "2012-02-11 01:10:11"
+published_at: "2012-02-11T00:10:11Z"
 id: "18739"
 slug: "office-15-metro"
-url: "https://eay.cc/2012/office-15-metro/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2012/office-15-metro/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - design
-  - metro
-  - microsoft
-  - windows
-meta:
-  - yourls_shorturl: "https://eay.li/1fu"
+  - "design"
+  - "metro"
+  - "microsoft"
+  - "windows"
+short_url: "https://eay.li/1fu"
 ---
 
 Unglaublich, dass die Firma, die [das hier](http://blogs.msdn.com/b/b8/archive/2011/08/29/improvements-in-windows-explorer.aspx) verzapft hat...

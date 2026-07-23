@@ -1,27 +1,27 @@
 ---
 title: "Crowdfunding zu »Bud Spencer & Terence Hill - Slaps And Beans 2«"
 date: "2021-10-21"
-datetime: "2021-10-21 08:14:26"
+published_at: "2021-10-21T06:14:26Z"
 id: "37560"
 slug: "crowdfunding-zu-bud-spencer-terence-hill-slaps-and-beans-2"
-url: "https://eay.cc/2021/crowdfunding-zu-bud-spencer-terence-hill-slaps-and-beans-2/"
-author: "eay"
+permalink: "https://eay.cc/2021/crowdfunding-zu-bud-spencer-terence-hill-slaps-and-beans-2/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - crowdfunding
-  - games
-  - kickstarter
-meta:
-  - linked_list_url: "https://www.kickstarter.com/projects/1684041218/bud-spencer-and-terence-hill-slaps-and-beans-2"
-  - geo_latitude: "50.973808"
-  - geo_longitude: "6.68305"
-  - geo_public: "1"
-  - yourls_shorturl: "https://eay.li/2sw"
+  - "crowdfunding"
+  - "games"
+  - "kickstarter"
+external_url: "https://www.kickstarter.com/projects/1684041218/bud-spencer-and-terence-hill-slaps-and-beans-2"
+short_url: "https://eay.li/2sw"
+geo_latitude: "50.973808"
+geo_longitude: "6.68305"
 ---
 
-[youtube id="5CVJ6fjrZI0"]
+[Link →](https://www.kickstarter.com/projects/1684041218/bud-spencer-and-terence-hill-slaps-and-beans-2)
+
+\[youtube id="5CVJ6fjrZI0"\]
 
 > After the success of Bud Spencer & Terence Hill - Slaps And Beans, Trinity Team and Buddy Productions are back with a new game dedicated to fans of the mythic duo.
 

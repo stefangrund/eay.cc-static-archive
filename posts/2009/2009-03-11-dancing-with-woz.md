@@ -1,20 +1,21 @@
 ---
 title: "Dancing with Woz"
 date: "2009-03-11"
-datetime: "2009-03-11 11:33:37"
+published_at: "2009-03-11T10:33:37Z"
 id: "6181"
 slug: "dancing-with-woz"
-url: "https://eay.cc/2009/dancing-with-woz/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2009/dancing-with-woz/"
+author: "Stefan Grund"
+format: "standard"
 tags:
-  - apple
-  - fernsehen
-  - tanzen
-  - woz
-meta:
-  - yourls_shorturl: "https://eay.li/py"
+  - "apple"
+  - "fernsehen"
+  - "tanzen"
+  - "woz"
+short_url: "https://eay.li/py"
 ---
+
+[Embedded content](http://www.youtube.com/v/aoiGJMZjs0o&color1=0xb1b1b1&color2=0xcfcfcf&hl=de&feature=player_embedded&fs=1)
 
  ([YouTube Direkttanz](http://www.youtube.com/watch?v=aoiGJMZjs0o)bär)
 

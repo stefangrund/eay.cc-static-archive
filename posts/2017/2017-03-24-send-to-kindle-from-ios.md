@@ -1,27 +1,24 @@
 ---
 title: "Send to Kindle (from iOS)"
 date: "2017-03-24"
-datetime: "2017-03-24 11:34:06"
+published_at: "2017-03-24T10:34:06Z"
 id: "32324"
 slug: "send-to-kindle-from-ios"
-url: "https://eay.cc/2017/send-to-kindle-from-ios/"
-author: "eay"
+permalink: "https://eay.cc/2017/send-to-kindle-from-ios/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - amazon
-  - apps
-  - ios
-  - kindle
-meta:
-  - linked_list_url: "https://www.iphoneblog.de/2017/03/22/send-to-kindle/"
-  - linked_list_url: "https://www.iphoneblog.de/2017/03/22/send-to-kindle/"
-  - linked_list_url: "https://www.iphoneblog.de/2017/03/22/send-to-kindle/"
-  - linked_list_url: "https://www.iphoneblog.de/2017/03/22/send-to-kindle/"
-  - linked_list_url: "https://www.iphoneblog.de/2017/03/22/send-to-kindle/"
-  - yourls_shorturl: "https://eay.li/2xa"
+  - "amazon"
+  - "apps"
+  - "ios"
+  - "kindle"
+external_url: "https://www.iphoneblog.de/2017/03/22/send-to-kindle/"
+short_url: "https://eay.li/2xa"
 ---
+
+[Link →](https://www.iphoneblog.de/2017/03/22/send-to-kindle/)
 
 > Send to Kindle – Now you can save documents and web pages to your Kindle library. Tap the share button in Safari and add Kindle as a destination. Web pages are converted to Kindle format so you can adjust the text, font and page color, and read on any Kindle app or device.
 

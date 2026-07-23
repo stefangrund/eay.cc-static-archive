@@ -1,28 +1,26 @@
 ---
 title: "AnythingCounter – Real-Time Digital World Statistics with Sources"
 date: "2026-03-27"
-datetime: "2026-03-27 23:50:08"
+published_at: "2026-03-27T22:50:08Z"
 id: "41661"
 slug: "anythingcounter-real-time-digital-world-statistics-with-sources"
-url: "https://eay.cc/2026/anythingcounter-real-time-digital-world-statistics-with-sources/"
-author: "eay"
+permalink: "https://eay.cc/2026/anythingcounter-real-time-digital-world-statistics-with-sources/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - netzkultur
-meta:
-  - linked_list_url: "https://anythingcounter.com/"
-  - geo_latitude: "50.973808"
-  - geo_longitude: "6.683081"
-  - geo_public: "1"
-  - yourls_shorturl: "https://eay.li/40m"
-  - _share_on_mastodon_url: "https://eay.social/@eay/116303581083114948"
-  - linked_list_og-title: "AnythingCounter – Real-Time Digital World Statistics with Sources"
-  - linked_list_og-description: "Watch the digital world happen live. AI hallucinations, deepfakes, e-waste, phishing emails, jobs lost to robots – every second, in real time."
-  - linked_list_og-image: "https://eay.cc/wordpress/uploads/og-cache/661f5a2f7491a30f279af50daf34b8d6_upload.webp"
-  - content_copy: "https://bsky.app/profile/eay.social/post/3mi37k2qxfn23"
+  - "netzkultur"
+external_url: "https://anythingcounter.com/"
+short_url: "https://eay.li/40m"
+content_copy:
+  - "https://bsky.app/profile/eay.social/post/3mi37k2qxfn23"
+  - "https://eay.social/@eay/116303581083114948"
+geo_latitude: "50.973808"
+geo_longitude: "6.683081"
 ---
+
+[Link →](https://anythingcounter.com/)
 
 > AnythingCounter converts published global data into live counters covering AI, cybercrime, e-waste, and more.
 

@@ -1,28 +1,28 @@
 ---
 title: "Elon Musk kauft Twitter für 44 Milliarden Dollar"
 date: "2022-04-25"
-datetime: "2022-04-25 23:03:35"
+published_at: "2022-04-25T21:03:35Z"
 id: "37916"
 slug: "elon-musk-kauft-twitter-fuer-44-milliarden-dollar"
-url: "https://eay.cc/2022/elon-musk-kauft-twitter-fuer-44-milliarden-dollar/"
-author: "eay"
+permalink: "https://eay.cc/2022/elon-musk-kauft-twitter-fuer-44-milliarden-dollar/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - bluesky
-  - elon-musk
-  - microblogging
-  - netzkultur
-  - social-web
-  - twitter
-meta:
-  - linked_list_url: "https://www.spiegel.de/wirtschaft/unternehmen/twitter-einigt-sich-mit-elon-musk-auf-uebernahme-a-8bdb2e9c-3988-47d9-ac4b-e91e23640bc2"
-  - geo_latitude: "50.973891"
-  - geo_longitude: "6.682944"
-  - yourls_shorturl: "https://eay.li/3hs"
-  - content_copy: "https://twitter.com/eay/status/1518697781568888834"
+  - "bluesky"
+  - "elon musk"
+  - "microblogging"
+  - "netzkultur"
+  - "social web"
+  - "twitter"
+external_url: "https://www.spiegel.de/wirtschaft/unternehmen/twitter-einigt-sich-mit-elon-musk-auf-uebernahme-a-8bdb2e9c-3988-47d9-ac4b-e91e23640bc2"
+short_url: "https://eay.li/3hs"
+content_copy:
+  - "https://twitter.com/eay/status/1518697781568888834"
 ---
+
+[Link →](https://www.spiegel.de/wirtschaft/unternehmen/twitter-einigt-sich-mit-elon-musk-auf-uebernahme-a-8bdb2e9c-3988-47d9-ac4b-e91e23640bc2)
 
 > Der Hightech-Unternehmer Elon Musk kauft den Kurznachrichtendienst Twitter für rund 44 Milliarden Dollar (knapp 41 Milliarden Euro) auf. Wie das Internet-Unternehmen mitteilte, wird Musk 54,20 Dollar pro Aktie zahlen. Vergangene Woche hatte der Verwaltungsrat von Twitter noch versucht, eine Übernahme durch den reichsten Menschen der Welt zu verhindern. Jetzt liegt es an den Aktionären des Unternehmens, ob sie das Angebot annehmen.
 

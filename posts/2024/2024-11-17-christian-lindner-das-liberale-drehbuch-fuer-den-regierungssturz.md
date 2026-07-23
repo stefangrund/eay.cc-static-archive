@@ -1,29 +1,30 @@
 ---
 title: "Christian Lindner: Das liberale Drehbuch für den Regierungssturz"
 date: "2024-11-17"
-datetime: "2024-11-17 09:20:30"
+published_at: "2024-11-17T08:20:30Z"
 id: "40004"
 slug: "christian-lindner-das-liberale-drehbuch-fuer-den-regierungssturz"
-url: "https://eay.cc/2024/christian-lindner-das-liberale-drehbuch-fuer-den-regierungssturz/"
-author: "eay"
+permalink: "https://eay.cc/2024/christian-lindner-das-liberale-drehbuch-fuer-den-regierungssturz/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - christian-lindner
-  - deutschland
-  - fdp
-  - journalismus
-  - paywall
-  - politik
-meta:
-  - linked_list_url: "https://www.zeit.de/politik/deutschland/2024-11/christian-lindner-ampel-aus-fdp-bundesregierung"
-  - geo_latitude: "50.973797"
-  - geo_longitude: "6.682896"
-  - geo_public: "1"
-  - yourls_shorturl: "https://eay.li/3t4"
-  - _share_on_mastodon_url: "https://eay.social/@eay/113497317830539690"
+  - "christian lindner"
+  - "deutschland"
+  - "fdp"
+  - "journalismus"
+  - "paywall"
+  - "politik"
+external_url: "https://www.zeit.de/politik/deutschland/2024-11/christian-lindner-ampel-aus-fdp-bundesregierung"
+short_url: "https://eay.li/3t4"
+content_copy:
+  - "https://eay.social/@eay/113497317830539690"
+geo_latitude: "50.973797"
+geo_longitude: "6.682896"
 ---
+
+[Link →](https://www.zeit.de/politik/deutschland/2024-11/christian-lindner-ampel-aus-fdp-bundesregierung)
 
 > Geheime Sitzungen, Präsentationen, Strategiepapiere: Recherchen der ZEIT zeigen, wie die FDP den Bruch der Ampel wochenlang vorbereitete. Der Name der Operation: "D-Day"
 

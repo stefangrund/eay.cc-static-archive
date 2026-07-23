@@ -1,26 +1,27 @@
 ---
 title: "Notable People"
 date: "2024-01-13"
-datetime: "2024-01-13 15:28:21"
+published_at: "2024-01-13T14:28:21Z"
 id: "39379"
 slug: "notable-people"
-url: "https://eay.cc/2024/notable-people/"
-author: "eay"
+permalink: "https://eay.cc/2024/notable-people/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - landkarte
-  - visualisierung
-  - wikipedia
-meta:
-  - linked_list_url: "https://tjukanovt.github.io/notable-people"
-  - geo_latitude: "50.973898"
-  - geo_longitude: "6.682944"
-  - geo_public: "1"
-  - yourls_shorturl: "https://eay.li/3pe"
-  - _share_on_mastodon_url: "https://eay.social/@eay/111749110385735248"
+  - "landkarte"
+  - "visualisierung"
+  - "wikipedia"
+external_url: "https://tjukanovt.github.io/notable-people"
+short_url: "https://eay.li/3pe"
+content_copy:
+  - "https://eay.social/@eay/111749110385735248"
+geo_latitude: "50.973898"
+geo_longitude: "6.682944"
 ---
+
+[Link →](https://tjukanovt.github.io/notable-people)
 
 > The map is showing birthplaces of the most "notable people" around the world. Data has been processed to show only one person for each unique geographic location with the highest notability rank.
 

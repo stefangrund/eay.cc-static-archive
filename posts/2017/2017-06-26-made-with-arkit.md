@@ -1,23 +1,24 @@
 ---
 title: "Made with ARKit"
 date: "2017-06-26"
-datetime: "2017-06-26 13:12:55"
+published_at: "2017-06-26T11:12:55Z"
 id: "33179"
 slug: "made-with-arkit"
-url: "https://eay.cc/2017/made-with-arkit/"
-author: "eay"
+permalink: "https://eay.cc/2017/made-with-arkit/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - apple
-  - augmented-reality
-  - ios
-  - technologie
-meta:
-  - linked_list_url: "http://www.madewitharkit.com/"
-  - yourls_shorturl: "https://eay.li/2zt"
+  - "apple"
+  - "augmented reality"
+  - "ios"
+  - "technologie"
+external_url: "http://www.madewitharkit.com/"
+short_url: "https://eay.li/2zt"
 ---
+
+[Link →](http://www.madewitharkit.com/)
 
 > Hand-picked curation of the coolest stuff made with #ARKit.
 

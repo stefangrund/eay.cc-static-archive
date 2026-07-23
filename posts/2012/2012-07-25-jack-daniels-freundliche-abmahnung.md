@@ -1,20 +1,19 @@
 ---
 title: "Jack Daniel's freundliche Abmahnung"
 date: "2012-07-25"
-datetime: "2012-07-25 23:21:00"
+published_at: "2012-07-25T21:21:00Z"
 id: "20287"
 slug: "jack-daniels-freundliche-abmahnung"
-url: "https://eay.cc/2012/jack-daniels-freundliche-abmahnung/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2012/jack-daniels-freundliche-abmahnung/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - abmahnung
-  - alkohol
-  - rechtliches
-meta:
-  - yourls_shorturl: "https://eay.li/1kt"
+  - "abmahnung"
+  - "alkohol"
+  - "rechtliches"
+short_url: "https://eay.li/1kt"
 ---
 
 [Patrick Wensink](http://www.patrickwensink.com/) hat sich bei der Covergestaltung für sein Buch "[Broken Piano for President](http://www.amazon.de/exec/obidos/ASIN/1621050203/eayznet-21)" _etwas_ vom Etikett und Branding von Jack Daniel's inspirieren lassen. _Etwas zu viel_ fand Christy Susman, die Markenrechtsanwältin von Jack Daniel's und ließ dem Autor dementsprechend eine Abmahnung zukommen. Doch wer hier jetzt mit deutschen Standards - also wilden Unterlassungserklärungen und aberwitzigen Summen - rechnet, liegt falsch: Denn offensichtlich erkennt man bei Jack Daniel's wann etwas eine Huldigung ist und reagiert entsprechend: ![](https://eay.cc/uploads/2012/wensink.jpg)

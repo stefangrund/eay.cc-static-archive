@@ -1,21 +1,22 @@
 ---
 title: "The Pop-up Book of Phobias"
 date: "2009-12-02"
-datetime: "2009-12-02 01:30:10"
+published_at: "2009-12-02T00:30:10Z"
 id: "10277"
 slug: "the-pop-up-book-of-phobias"
-url: "https://eay.cc/2009/the-pop-up-book-of-phobias/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2009/the-pop-up-book-of-phobias/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - buecher
-  - kunst
-  - pop-up-books
-meta:
-  - yourls_shorturl: "https://eay.li/kl"
+  - "bücher"
+  - "kunst"
+  - "pop-up books"
+short_url: "https://eay.li/kl"
 ---
+
+[Embedded content](http://vimeo.com/moogaloop.swf?clip_id=7668240&server=vimeo.com&show_title=1&show_byline=1&show_portrait=0&color=00ADEF&fullscreen=1)
 
  ([Vimeo Direktaufklappbuch](http://www.vimeo.com/7668240), [via](http://daronn.wordpress.com/2009/11/27/das-pop-up-buch-der-phobien/))
 

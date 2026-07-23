@@ -1,20 +1,19 @@
 ---
 title: "Your favorite tumblr for the next 5 minutes (32): Jim'll paint that"
 date: "2014-04-16"
-datetime: "2014-04-16 07:00:36"
+published_at: "2014-04-16T05:00:36Z"
 id: "27658"
 slug: "your-favorite-tumblr-for-the-next-5-minutes-32-jimll-paint-that"
-url: "https://eay.cc/2014/your-favorite-tumblr-for-the-next-5-minutes-32-jimll-paint-that/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2014/your-favorite-tumblr-for-the-next-5-minutes-32-jimll-paint-that/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - bizarres
-  - kunst
-  - your-favorite-tumblr-for-the-next-5-minutes
-meta:
-  - yourls_shorturl: "https://eay.li/2eq"
+  - "bizarres"
+  - "kunst"
+  - "your favorite tumblr for the next 5 minutes"
+short_url: "https://eay.li/2eq"
 ---
 
 ![](https://eay.cc/uploads/2014/jimllpaintthat.jpg)

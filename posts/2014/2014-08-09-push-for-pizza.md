@@ -1,22 +1,23 @@
 ---
 title: "Push for Pizza"
 date: "2014-08-09"
-datetime: "2014-08-09 21:47:17"
+published_at: "2014-08-09T19:47:17Z"
 id: "28479"
 slug: "push-for-pizza"
-url: "https://eay.cc/2014/push-for-pizza/"
-author: "eay"
+permalink: "https://eay.cc/2014/push-for-pizza/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - apps
-  - nahrung
-  - pizza
-  - technologie
-meta:
-  - linked_list_url: "http://www.pushforpizza.com/"
-  - yourls_shorturl: "https://eay.li/2hx"
+  - "apps"
+  - "nahrung"
+  - "pizza"
+  - "technologie"
+external_url: "http://www.pushforpizza.com/"
+short_url: "https://eay.li/2hx"
 ---
+
+[Link →](http://www.pushforpizza.com/)
 
 Genius. Und ein [gutes Werbevideo](https://www.youtube.com/watch?v=hw07EXR8mJg) von [Adam Lisagor](http://sandwichvideo.com/).

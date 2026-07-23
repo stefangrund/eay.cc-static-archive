@@ -1,26 +1,25 @@
 ---
 title: "Neue Büropflanzen"
 date: "2019-02-05"
-datetime: "2019-02-05 12:05:19"
+published_at: "2019-02-05T11:05:19Z"
 id: "35456"
 slug: "neue-bueropflanzen"
-url: "https://eay.cc/2019/neue-bueropflanzen/"
-author: "eay"
+permalink: "https://eay.cc/2019/neue-bueropflanzen/"
+author: "Stefan Grund"
 format: "image"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - arbeit
-  - pflanzen
-  - ppw
-meta:
-  - content_copy: "https://www.instagram.com/p/Btf4G69nlHQ/"
-  - yourls_shorturl: "https://eay.li/390"
-  - geo_latitude: "50.9388503"
-  - geo_longitude: "6.9456676"
-  - geo_public: "1"
+  - "arbeit"
+  - "pflanzen"
+  - "ppw"
+short_url: "https://eay.li/390"
+content_copy:
+  - "https://www.instagram.com/p/Btf4G69nlHQ/"
+geo_latitude: "50.9388503"
+geo_longitude: "6.9456676"
 ---
 
 ![](https://eay.cc/uploads/2019/bueropflanze.jpeg)
 
-Bei [@pietzpluswild](https://Twitter.com/pietzpluswild).
+Bei [@pietzpluswild](https://twitter.com/pietzpluswild).

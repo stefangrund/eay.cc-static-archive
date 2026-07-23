@@ -1,30 +1,31 @@
 ---
 title: "Wplace – A massive real-time pixel art canvas over the world map"
 date: "2026-01-21"
-datetime: "2026-01-21 17:01:22"
+published_at: "2026-01-21T16:01:22Z"
 id: "40981"
 slug: "wplace-live-a-massive-live-canvas-over-the-world-map"
-url: "https://eay.cc/2026/wplace-live-a-massive-live-canvas-over-the-world-map/"
-author: "eay"
+permalink: "https://eay.cc/2026/wplace-live-a-massive-live-canvas-over-the-world-map/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - kunst
-  - landkarte
-  - mashup
-  - pixelart
-  - visualisierung
-  - webservice
-meta:
-  - linked_list_url: "https://wplace.live/"
-  - geo_latitude: "51.00012"
-  - geo_longitude: "6.794115"
-  - geo_public: "1"
-  - yourls_shorturl: "https://eay.li/3yo"
-  - _share_on_mastodon_url: "https://eay.social/@eay/115933923508866276"
-  - content_copy: "https://bsky.app/profile/eay.social/post/3mcx2e6nqg32r"
+  - "kunst"
+  - "landkarte"
+  - "mashup"
+  - "pixelart"
+  - "visualisierung"
+  - "webservice"
+external_url: "https://wplace.live/"
+short_url: "https://eay.li/3yo"
+content_copy:
+  - "https://bsky.app/profile/eay.social/post/3mcx2e6nqg32r"
+  - "https://eay.social/@eay/115933923508866276"
+geo_latitude: "51.00012"
+geo_longitude: "6.794115"
 ---
+
+[Link →](https://wplace.live/)
 
 ![Ausschnitt aus Wplace von Köln](https://eay.cc/uploads/2026/wplace.webp)
 

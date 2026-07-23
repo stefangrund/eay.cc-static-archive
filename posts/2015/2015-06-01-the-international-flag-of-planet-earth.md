@@ -1,22 +1,23 @@
 ---
 title: "The International Flag of Planet Earth"
 date: "2015-06-01"
-datetime: "2015-06-01 06:30:07"
+published_at: "2015-06-01T05:30:07Z"
 id: "30564"
 slug: "the-international-flag-of-planet-earth"
-url: "https://eay.cc/2015/the-international-flag-of-planet-earth/"
-author: "eay"
+permalink: "https://eay.cc/2015/the-international-flag-of-planet-earth/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - globalisierung
-  - politik
-  - raumfahrt
-meta:
-  - linked_list_url: "http://www.flagofplanetearth.com/"
-  - yourls_shorturl: "https://eay.li/2ob"
+  - "globalisierung"
+  - "politik"
+  - "raumfahrt"
+external_url: "http://www.flagofplanetearth.com/"
+short_url: "https://eay.li/2ob"
 ---
+
+[Link →](http://www.flagofplanetearth.com/)
 
 ![](https://eay.cc/uploads/2015/falgofplanetearth.jpg)
 

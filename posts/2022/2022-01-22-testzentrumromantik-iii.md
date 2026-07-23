@@ -1,23 +1,22 @@
 ---
 title: "Testzentrumromantik III."
 date: "2022-01-22"
-datetime: "2022-01-22 18:55:15"
+published_at: "2022-01-22T17:55:15Z"
 id: "37796"
 slug: "testzentrumromantik-iii"
-url: "https://eay.cc/2022/testzentrumromantik-iii/"
-author: "eay"
+permalink: "https://eay.cc/2022/testzentrumromantik-iii/"
+author: "Stefan Grund"
 format: "image"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - coronavirus
-  - fotos
-meta:
-  - geo_latitude: "50.99852"
-  - geo_longitude: "6.67739"
-  - geo_public: "1"
-  - content_copy: "https://twitter.com/eay/status/1484871618480545794"
-  - yourls_shorturl: "https://eay.li/3gw"
+  - "coronavirus"
+  - "fotos"
+short_url: "https://eay.li/3gw"
+content_copy:
+  - "https://twitter.com/eay/status/1484871618480545794"
+geo_latitude: "50.99852"
+geo_longitude: "6.67739"
 ---
 
 ![](https://eay.cc/uploads/2022/testzentrumromantik-3.jpg)

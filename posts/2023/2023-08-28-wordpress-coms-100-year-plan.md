@@ -1,26 +1,25 @@
 ---
 title: "WordPress.com's 100-Year Plan"
 date: "2023-08-28"
-datetime: "2023-08-28 12:41:43"
+published_at: "2023-08-28T10:41:43Z"
 id: "38789"
 slug: "wordpress-coms-100-year-plan"
-url: "https://eay.cc/2023/wordpress-coms-100-year-plan/"
-author: "eay"
+permalink: "https://eay.cc/2023/wordpress-coms-100-year-plan/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - automattic
-  - netzkultur
-  - wordpress
-meta:
-  - linked_list_url: "https://wordpress.com/blog/2023/08/25/introducing-the-100-year-plan/"
-  - _share_on_mastodon_url: "https://eay.social/@eay/110968515663180779"
-  - yourls_shorturl: "https://eay.li/3no"
-  - linked_list_og-title: "Your Home for a Century: Our 100-Year Domains and Plans"
-  - linked_list_og-description: "Meet our 100-Year Domains and 100-Year Plan, here to help you secure your digital legacy long-term."
-  - linked_list_og-image: "https://eay.cc/wordpress/uploads/og-cache/048de6ae51c2e5fcc8e4a7c546d2b0bb.webp"
+  - "automattic"
+  - "netzkultur"
+  - "wordpress"
+external_url: "https://wordpress.com/blog/2023/08/25/introducing-the-100-year-plan/"
+short_url: "https://eay.li/3no"
+content_copy:
+  - "https://eay.social/@eay/110968515663180779"
 ---
+
+[Link →](https://wordpress.com/blog/2023/08/25/introducing-the-100-year-plan/)
 
 Automattic bietet jetzt hundert Jahre Hosting an. Kostenpunkt 38.000 US-Dollar.
 

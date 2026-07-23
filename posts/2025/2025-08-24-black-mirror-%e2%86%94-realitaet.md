@@ -1,26 +1,25 @@
 ---
 title: "Black Mirror ↔ Realität"
 date: "2025-08-24"
-datetime: "2025-08-24 21:04:51"
+published_at: "2025-08-24T19:04:51Z"
 id: "40557"
 slug: "black-mirror-%e2%86%94-realitaet"
-url: "https://eay.cc/2025/black-mirror-%e2%86%94-realitaet/"
-author: "eay"
+permalink: "https://eay.cc/2025/black-mirror-%e2%86%94-realitaet/"
+author: "Stefan Grund"
 format: "quote"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - black-mirror
-  - gewalt
-  - social-web
-  - streaming
-meta:
-  - geo_latitude: "51.000139"
-  - geo_longitude: "6.794193"
-  - geo_public: "1"
-  - yourls_shorturl: "https://eay.li/3wb"
-  - _share_on_mastodon_url: "https://eay.social/@eay/115085298394991822"
-  - content_copy: "https://bsky.app/profile/eay.social/post/3lx66m5mnfr27"
+  - "black mirror"
+  - "gewalt"
+  - "social web"
+  - "streaming"
+short_url: "https://eay.li/3wb"
+content_copy:
+  - "https://bsky.app/profile/eay.social/post/3lx66m5mnfr27"
+  - "https://eay.social/@eay/115085298394991822"
+geo_latitude: "51.000139"
+geo_longitude: "6.794193"
 ---
 
 > Die Abstände zwischen »Black Mirror«-Folgen und Realität werden deutlich geringer.

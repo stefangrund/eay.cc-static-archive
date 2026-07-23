@@ -1,19 +1,18 @@
 ---
 title: "Your favorite tumblr for the next 5 minutes (40): Buffalo Bill Gates"
 date: "2014-12-20"
-datetime: "2014-12-20 16:36:39"
+published_at: "2014-12-20T15:36:39Z"
 id: "29581"
 slug: "your-favorite-tumblr-for-the-next-5-minutes-40-buffalo-bill-gates"
-url: "https://eay.cc/2014/your-favorite-tumblr-for-the-next-5-minutes-40-buffalo-bill-gates/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2014/your-favorite-tumblr-for-the-next-5-minutes-40-buffalo-bill-gates/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - mashup
-  - your-favorite-tumblr-for-the-next-5-minutes
-meta:
-  - yourls_shorturl: "https://eay.li/2lt"
+  - "mashup"
+  - "your favorite tumblr for the next 5 minutes"
+short_url: "https://eay.li/2lt"
 ---
 
 ![](https://eay.cc/uploads/2014/buffalobillgates.jpg)

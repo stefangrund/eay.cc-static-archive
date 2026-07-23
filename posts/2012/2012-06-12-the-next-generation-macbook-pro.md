@@ -1,22 +1,21 @@
 ---
 title: "The Next Generation MacBook Pro"
 date: "2012-06-12"
-datetime: "2012-06-12 16:17:27"
+published_at: "2012-06-12T14:17:27Z"
 id: "19839"
 slug: "the-next-generation-macbook-pro"
-url: "https://eay.cc/2012/the-next-generation-macbook-pro/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2012/the-next-generation-macbook-pro/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - apple
-  - konsum
-  - macbook
-  - technologie
-  - wwdc
-meta:
-  - yourls_shorturl: "https://eay.li/1j3"
+  - "apple"
+  - "konsum"
+  - "macbook"
+  - "technologie"
+  - "wwdc"
+short_url: "https://eay.li/1j3"
 ---
 
 Apple hat bekanntlich gestern im Rahmen der eröffnenden [WWDC-Keynote](http://www.apple.com/apple-events/june-2012/) neue MacBooks vorgestellt. Was gut ist, denn eigentlich brauche ich ein neues MacBook. Meinem 2009er MacBook Pro ist sein Alter nämlich so langsam anzumerken - nicht bei alltäglichen Aufgaben, sondern bei 3D-Spielereien mit 3ds Max, hochauflösender Videoschneiderei und Diablo 3. Zunächst schien es also keine Frage zu sein, das alte 13-Zoller durch ein neues zu ersetzen. Doch dann tauchte ich einmal mehr in die Tiefen der [technischen Details](http://www.apple.com/de/macbook-pro/specs/13-and-15-inch/) ein.
@@ -25,8 +24,9 @@ Und siehe da, es gibt einige kleinere Makel: So ist der Arbeitsspeicher z.B. üb
 
 Aber wenn man schon 1.979 Euro bezahlt, ist das neue, jeden Technerd betörende [Retina MacBook Pro](http://www.apple.com/de/macbook-pro/) auch nicht mehr weit, wie ich gestern schon anmerkte:
 
-<blockquote class="twitter-tweet"><p>Das neue, alte MacBook Pro kostet so wie ich es haben will 1.979â¬. Das Next Generation MacBook Pro 2.279â¬. Hm...</p>— Stefan Grund (@Eay) <a href="https://twitter.com/Eay/status/212287580719415297" data-datetime="2012-06-11T20:57:58+00:00">June 11, 2012</a></blockquote>
-<script src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+> Das neue, alte MacBook Pro kostet so wie ich es haben will 1.979â¬. Das Next Generation MacBook Pro 2.279â¬. Hm...
+>
+> — Stefan Grund (@Eay) [June 11, 2012](https://twitter.com/Eay/status/212287580719415297)
 
 Und das 2.279 Euro schon ein Haufen Geld sind, kann man einfach nicht abstreiten. Klar, für die Technik die man da geboten bekommt, ist das _echt_ ein Schnäppchen, but you know the rules: Never buy a first-generation Apple product.
 
@@ -40,7 +40,8 @@ Mit der Zeit dürften diese Nachteile jedoch, ebenso wie der Preis abnehmen. Und
 
 In diesem Sinne: Ich warte. Nächste Woche läuft mein Apple Care Protection Plan aus und so Steve will, hält mein MacBook noch ein Jährchen, um dann gegen ein Gerät der dann wieder aktualisierten Pro-Baureihe ausgetauscht werden zu können. Bis dahin behelfe ich mir selbst (bei der 2009er-Baureihe geht das nämlich noch):
 
-<blockquote class="twitter-tweet"><p>Oder ich entscheide mich dafür mein jetziges MBP noch ein Weilchen zu behalten und den RAM zu verdoppeln. Kostenpunkt: 60â¬. Hm...</p>— Stefan Grund (@Eay) <a href="https://twitter.com/Eay/status/212288090587414532" data-datetime="2012-06-11T20:59:59+00:00">June 11, 2012</a></blockquote>
-<script src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+> Oder ich entscheide mich dafür mein jetziges MBP noch ein Weilchen zu behalten und den RAM zu verdoppeln. Kostenpunkt: 60â¬. Hm...
+>
+> — Stefan Grund (@Eay) [June 11, 2012](https://twitter.com/Eay/status/212288090587414532)
 
-(alternativer Titel: Als die Vernunft über *habenwill* siegte.)
+(alternativer Titel: Als die Vernunft über \*habenwill\* siegte.)

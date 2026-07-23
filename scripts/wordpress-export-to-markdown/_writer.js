@@ -2,19 +2,22 @@ import chalk from 'chalk';
 import fs from 'fs';
 import { DateTime } from 'luxon';
 import path from 'path';
+import YAML from 'yaml';
 import * as shared from './_shared.js';
 
 export async function writeFilesPromise (posts, config) {
-  await cleanupDeletedPostsPromise(posts, config)
   await writeMarkdownFilesPromise(posts, config)
+  await cleanupDeletedPostsPromise(posts, config)
   await writeImageFilesPromise(posts, config)
 }
 
 async function cleanupDeletedPostsPromise (posts, config) {
   console.log('\nChecking for deleted posts...')
   
-  // Get all post IDs from the new export
-  const newPostIds = new Set(posts.map(post => post.frontmatter.id))
+  const expectedPaths = new Map(posts.map(post => [
+    post.frontmatter.id,
+    path.resolve(getPostPath(post, config))
+  ]))
   
   // Find all existing markdown files
   const existingFiles = await findMarkdownFiles(config.output)
@@ -27,12 +30,11 @@ async function cleanupDeletedPostsPromise (posts, config) {
       const frontmatterMatch = content.match(/^---\n([\s\S]*?)\n---/)
       
       if (frontmatterMatch) {
-        const frontmatter = frontmatterMatch[1]
-        const idMatch = frontmatter.match(/^id:\s*"?(\d+)"?$/m)
-        
-        if (idMatch) {
-          const postId = idMatch[1]
-          if (!newPostIds.has(postId)) {
+        const postId = getFrontmatterId(frontmatterMatch[1])
+
+        if (postId) {
+          const expectedPath = expectedPaths.get(postId)
+          if (!expectedPath || path.resolve(filePath) !== expectedPath) {
             filesToDelete.push({ path: filePath, id: postId })
           }
         }
@@ -98,11 +100,13 @@ async function processPayloadsPromise (payloads, loadFunc, config) {
   }))
 
   const results = await Promise.allSettled(promises)
-  const failedCount = results.filter(result => result.status === 'rejected').length
+  const failures = results.filter(result => result.status === 'rejected')
+  const failedCount = failures.length
   if (failedCount === 0) {
     console.log('Done, got them all!')
   } else {
     console.log('Done, but with ' + chalk.red(failedCount + ' failed') + '.')
+    throw new AggregateError(failures.map(result => result.reason), `${failedCount} file operation(s) failed`)
   }
 }
 
@@ -124,24 +128,20 @@ async function writeMarkdownFilesPromise (posts, config) {
   await processPayloadsPromise(payloads, loadMarkdownFilePromise, config)
 }
 
-async function loadMarkdownFilePromise (post, config) {
-  let output = '---\n'
-  Object.entries(post.frontmatter).forEach(pair => {
-    const key = pair[0]
-    const value = pair[1]
-    
-    if (key === 'title') {
-      output += key + ': "' + value.replace(/\\([\s\S])|(")/g, '\\$1$2') + '"\n'
-    } else if (key === 'categories' || key === 'tags' || key === 'meta') {
-      if (value !== '') {
-        output += key + ':\n' + value
-      }
-    } else {
-      output += key + ': "' + value + '"\n'
-    }
+async function loadMarkdownFilePromise (post) {
+  return serializeMarkdownFile(post)
+}
+
+export function serializeMarkdownFile (post) {
+  assertStringFrontmatter(post.frontmatter)
+  const frontmatter = YAML.stringify(post.frontmatter, {
+    defaultKeyType: 'PLAIN',
+    defaultStringType: 'QUOTE_DOUBLE',
+    doubleQuotedAsJSON: true,
+    lineWidth: 0
   })
-  output += '---\n\n' + post.content + '\n'
-  return output
+  const body = post.content ? `\n${post.content}\n` : ''
+  return `---\n${frontmatter}---\n${body}`
 }
 
 async function writeImageFilesPromise (posts, config) {
@@ -190,7 +190,7 @@ async function loadImageFilePromise (imageUrl) {
   }
 }
 
-function getPostPath (post, config) {
+export function getPostPath (post, config) {
   const dt = DateTime.fromISO(post.frontmatter.date);
 
   // start with base output dir
@@ -218,4 +218,25 @@ function getPostPath (post, config) {
   }
 
   return path.join(...pathSegments);
+}
+
+function getFrontmatterId (frontmatter) {
+  try {
+    const parsed = YAML.parse(frontmatter)
+    if (typeof parsed?.id === 'string') return parsed.id
+  } catch {
+    // Fall back to the legacy line format so malformed old files can be moved.
+  }
+
+  return frontmatter.match(/^id:\s*"?([^"\s]+)"?$/m)?.[1]
+}
+
+function assertStringFrontmatter (frontmatter) {
+  for (const [key, value] of Object.entries(frontmatter)) {
+    const valid = typeof value === 'string' ||
+      (Array.isArray(value) && value.every(item => typeof item === 'string'))
+    if (!valid) {
+      throw new TypeError(`Frontmatter field ${key} must be a string or an array of strings`)
+    }
+  }
 }

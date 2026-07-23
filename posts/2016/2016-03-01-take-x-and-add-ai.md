@@ -1,21 +1,20 @@
 ---
 title: "\"Take X and add AI\""
 date: "2016-03-01"
-datetime: "2016-03-01 20:40:56"
+published_at: "2016-03-01T19:40:56Z"
 id: "31312"
 slug: "take-x-and-add-ai"
-url: "https://eay.cc/2016/take-x-and-add-ai/"
-author: "eay"
+permalink: "https://eay.cc/2016/take-x-and-add-ai/"
+author: "Stefan Grund"
 format: "quote"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - kevin-kelly
-  - kuenstliche-intelligenz
-  - startups
-  - technologie
-meta:
-  - yourls_shorturl: "https://eay.li/2rx"
+  - "kevin kelly"
+  - "künstliche intelligenz"
+  - "startups"
+  - "technologie"
+short_url: "https://eay.li/2rx"
 ---
 
 > The business plans of the next 10,000 startups are easy to forecast: _Take X and add AI_.

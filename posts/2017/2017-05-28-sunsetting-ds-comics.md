@@ -1,26 +1,25 @@
 ---
 title: "Sunsetting \"DS Comics\""
 date: "2017-05-28"
-datetime: "2017-05-28 19:49:51"
+published_at: "2017-05-28T17:49:51Z"
 id: "33061"
 slug: "sunsetting-ds-comics"
-url: "https://eay.cc/2017/sunsetting-ds-comics/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2017/sunsetting-ds-comics/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - nintendo
-  - nintendo-ds
-  - projekte
-  - webcomic
-meta:
-  - yourls_shorturl: "https://eay.li/2z7"
+  - "nintendo"
+  - "nintendo ds"
+  - "projekte"
+  - "webcomic"
+short_url: "https://eay.li/2z7"
 ---
 
 Ein Blogeintrag über ein Projekt, das seit ca. zehn Jahren kaum noch genutzt wird, einfach weil ich es mag, wenn Projekte vernünftig beendet werden.
 
----
+\---
 
 Beim Ausmisten meines Webservers ist mir dieser Tage ein altes, kleines Projekt untergekommen, ein Zeitzeugnis aus der langweiligen, grauen Prä-Smartphone-Ära, das ich seit Jahren nicht mehr auf dem Schirm hatte: "DS Comics", das es dem comicbegeisterten Nintendo-DS-Besitzer 2006 ermöglichen sollte, auch jenseits des Desktop-Rechners, auf jedermanns liebster 2006er Handheld-Konsole Online-Comics zu lesen.
 

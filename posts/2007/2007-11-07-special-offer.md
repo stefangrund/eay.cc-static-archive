@@ -1,17 +1,16 @@
 ---
 title: "Special Offer"
 date: "2007-11-07"
-datetime: "2007-11-07 14:51:48"
+published_at: "2007-11-07T13:51:48Z"
 id: "284"
 slug: "special-offer"
-url: "https://eay.cc/2007/special-offer/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2007/special-offer/"
+author: "Stefan Grund"
+format: "standard"
 tags:
-  - album
-  - musik
-meta:
-  - yourls_shorturl: "https://eay.li/ps"
+  - "album"
+  - "musik"
+short_url: "https://eay.li/ps"
 ---
 
 Das Label [2nd rec](http://www.2ndrec.com/) hat (im Schatten von "In Rainbows") eine ziemlich coole [Aktion am Start](http://www.2ndrec.com/special-offer/):

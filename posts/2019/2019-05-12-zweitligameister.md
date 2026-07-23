@@ -1,24 +1,23 @@
 ---
 title: "Zweitligameister"
 date: "2019-05-12"
-datetime: "2019-05-12 21:03:45"
+published_at: "2019-05-12T20:03:45Z"
 id: "35681"
 slug: "zweitligameister"
-url: "https://eay.cc/2019/zweitligameister/"
-author: "eay"
+permalink: "https://eay.cc/2019/zweitligameister/"
+author: "Stefan Grund"
 format: "image"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - effzeh
-  - fussball
-  - koeln
-meta:
-  - content_copy: "https://www.instagram.com/p/BxX_-M3HnXS/"
-  - yourls_shorturl: "https://eay.li/3a9"
-  - geo_latitude: "50.933466390356"
-  - geo_longitude: "6.8751132488251"
-  - geo_public: "1"
+  - "effzeh"
+  - "fußball"
+  - "köln"
+short_url: "https://eay.li/3a9"
+content_copy:
+  - "https://www.instagram.com/p/BxX_-M3HnXS/"
+geo_latitude: "50.933466390356"
+geo_longitude: "6.8751132488251"
 ---
 
 ![](https://eay.cc/uploads/2019/aufstieg2019.jpeg)

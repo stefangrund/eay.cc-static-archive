@@ -1,27 +1,26 @@
 ---
 title: "Kurztrip nach München"
 date: "2019-05-03"
-datetime: "2019-05-03 21:11:36"
+published_at: "2019-05-03T20:11:36Z"
 id: "35672"
 slug: "kurztrip-nach-muenchen"
-url: "https://eay.cc/2019/kurztrip-nach-muenchen/"
-author: "eay"
+permalink: "https://eay.cc/2019/kurztrip-nach-muenchen/"
+author: "Stefan Grund"
 format: "image"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - analogleben
-  - fotos
-  - munchen
-  - urlaub
-meta:
-  - content_copy: "https://www.instagram.com/p/BxA1RG9nHx3/"
-  - yourls_shorturl: "https://eay.li/3a6"
-  - content_copy: "https://twitter.com/eay/status/1124406570614493190"
-  - content_copy: "https://eay.social/@eay/102033941479220547"
-  - geo_latitude: "48.138774629926"
-  - geo_longitude: "11.56109495548"
-  - geo_public: "1"
+  - "analogleben"
+  - "fotos"
+  - "münchen"
+  - "urlaub"
+short_url: "https://eay.li/3a6"
+content_copy:
+  - "https://www.instagram.com/p/BxA1RG9nHx3/"
+  - "https://twitter.com/eay/status/1124406570614493190"
+  - "https://eay.social/@eay/102033941479220547"
+geo_latitude: "48.138774629926"
+geo_longitude: "11.56109495548"
 ---
 
 ![](https://eay.cc/uploads/2019/muenchen.jpeg)

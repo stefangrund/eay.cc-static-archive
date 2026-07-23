@@ -1,22 +1,21 @@
 ---
 title: "The new Twitterbird looks like Batman"
 date: "2012-06-09"
-datetime: "2012-06-09 13:31:08"
+published_at: "2012-06-09T12:31:08Z"
 id: "22691"
 slug: "und-wenn-man-den-neuen-twitterbird-etwas-dreht"
-url: "https://eay.cc/2012/und-wenn-man-den-neuen-twitterbird-etwas-dreht/"
-author: "eay"
+permalink: "https://eay.cc/2012/und-wenn-man-den-neuen-twitterbird-etwas-dreht/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - batman
-  - fanart
-  - mashup
-  - twitter
-meta:
-  - yourls_shorturl: "https://eay.li/1xp"
-  - linked_list_url: "http://dribbble.com/shots/594562-Don-t-do-batman"
+  - "batman"
+  - "fanart"
+  - "mashup"
+  - "twitter"
+external_url: "http://dribbble.com/shots/594562-Don-t-do-batman"
+short_url: "https://eay.li/1xp"
 ---
 
-
+[Link →](http://dribbble.com/shots/594562-Don-t-do-batman)

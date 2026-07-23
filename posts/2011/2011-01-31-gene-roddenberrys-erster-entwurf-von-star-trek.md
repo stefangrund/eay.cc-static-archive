@@ -1,26 +1,25 @@
 ---
 title: "Gene Roddenberrys erster Entwurf von Star Trek"
 date: "2011-01-31"
-datetime: "2011-01-31 23:33:07"
+published_at: "2011-01-31T22:33:07Z"
 id: "15218"
 slug: "gene-roddenberrys-erster-entwurf-von-star-trek"
-url: "https://eay.cc/2011/gene-roddenberrys-erster-entwurf-von-star-trek/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2011/gene-roddenberrys-erster-entwurf-von-star-trek/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - 60er
-  - best-of
-  - fernsehen
-  - gene-roddenberry
-  - pitch
-  - star-trek
-meta:
-  - yourls_shorturl: "https://eay.li/158"
+  - "60er"
+  - "best of"
+  - "fernsehen"
+  - "gene roddenberry"
+  - "pitch"
+  - "star trek"
+short_url: "https://eay.li/158"
 ---
 
-[Hier gibt es ein 16 seitiges PDF](http://leethomson.myzen.co.uk/Star_Trek/1_Original_Series/Star_Trek_Pitch.pdf) von Gene Roddenberrys erstem Entwurf zu [Star Trek](//eay.cc/tag/star-trek/). Datiert auf den 11. März 1964. Zu dieser Zeit hatte Roddenberry offensichtlich noch etwas ganz anderes als Raumschiff Enterprise im Kopf, denn dieser Pitch erinnert eher an eine bunte Parallelweltreise á la »[Sliders](http://en.wikipedia.org/wiki/Sliders)«:
+[Hier gibt es ein 16 seitiges PDF](http://leethomson.myzen.co.uk/Star_Trek/1_Original_Series/Star_Trek_Pitch.pdf) von Gene Roddenberrys erstem Entwurf zu [Star Trek](https://eay.cc/tag/star-trek/). Datiert auf den 11. März 1964. Zu dieser Zeit hatte Roddenberry offensichtlich noch etwas ganz anderes als Raumschiff Enterprise im Kopf, denn dieser Pitch erinnert eher an eine bunte Parallelweltreise á la »[Sliders](http://en.wikipedia.org/wiki/Sliders)«:
 
 > STAR TREK is a "Wagon Train" concept -- built arround characters who travel to worlds "similar" to our own, and meet the action-adventure-drama which becomes our stories. Their transportation is the cruiser "S.S. Yorktown", performing a well-defined and long-range Exploration-Science-Security mission which helps create our format.
 

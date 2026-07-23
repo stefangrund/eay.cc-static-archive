@@ -1,22 +1,23 @@
 ---
 title: "What the ephemerality of the Web means for your hyperlinks"
 date: "2021-05-28"
-datetime: "2021-05-28 08:30:00"
+published_at: "2021-05-28T06:30:00Z"
 id: "37312"
 slug: "what-the-ephemerality-of-the-web-means-for-your-hyperlinks"
-url: "https://eay.cc/2021/what-the-ephemerality-of-the-web-means-for-your-hyperlinks/"
-author: "eay"
+permalink: "https://eay.cc/2021/what-the-ephemerality-of-the-web-means-for-your-hyperlinks/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - internet
-  - journalismus
-  - netzkultur
-meta:
-  - linked_list_url: "https://www.cjr.org/analysis/linkrot-content-drift-new-york-times.php"
-  - yourls_shorturl: "https://eay.li/2oc"
+  - "internet"
+  - "journalismus"
+  - "netzkultur"
+external_url: "https://www.cjr.org/analysis/linkrot-content-drift-new-york-times.php"
+short_url: "https://eay.li/2oc"
 ---
+
+[Link →](https://www.cjr.org/analysis/linkrot-content-drift-new-york-times.php)
 
 Beim Columbia Journalism Review hat man sich eine halbe Millionen Online-Artikel der New York Times von 1998 bis 2018 angesehen, um zu prüfen, wieviele der insgesamt 2,2 Millionen externen Links in den Artikeln noch verfügbar sind:
 

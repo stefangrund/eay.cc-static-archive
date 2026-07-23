@@ -1,25 +1,24 @@
 ---
 title: "Sonnenaufgang über Köln."
 date: "2018-11-16"
-datetime: "2018-11-16 09:54:51"
+published_at: "2018-11-16T07:54:51Z"
 id: "35072"
 slug: "sonnenaufgang-ueber-koeln"
-url: "https://eay.cc/2018/sonnenaufgang-ueber-koeln/"
-author: "eay"
+permalink: "https://eay.cc/2018/sonnenaufgang-ueber-koeln/"
+author: "Stefan Grund"
 format: "image"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - fotos
-  - koeln
-meta:
-  - content_copy: "https://instagram.com/p/BqO7myfHUCJ/"
-  - yourls_shorturl: "https://eay.li/37p"
-  - geo_latitude: "50.9414812"
-  - geo_longitude: "6.9528709"
-  - geo_public: "1"
-  - content_copy: "https://eay.social/@eay/101079873085380111"
-  - content_copy: "https://twitter.com/eay/status/1063337149414678529"
+  - "fotos"
+  - "köln"
+short_url: "https://eay.li/37p"
+content_copy:
+  - "https://instagram.com/p/BqO7myfHUCJ/"
+  - "https://eay.social/@eay/101079873085380111"
+  - "https://twitter.com/eay/status/1063337149414678529"
+geo_latitude: "50.9414812"
+geo_longitude: "6.9528709"
 ---
 
 ![](https://eay.cc/uploads/2018/sonnenaufgang-ueber-koeln.jpeg)

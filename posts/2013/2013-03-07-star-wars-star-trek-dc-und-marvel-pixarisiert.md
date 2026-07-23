@@ -1,25 +1,24 @@
 ---
 title: "Star Wars, Star Trek, DC und Marvel pixarisiert"
 date: "2013-03-07"
-datetime: "2013-03-07 16:32:47"
+published_at: "2013-03-07T15:32:47Z"
 id: "22355"
 slug: "star-wars-star-trek-dc-und-marvel-pixarisiert"
-url: "https://eay.cc/2013/star-wars-star-trek-dc-und-marvel-pixarisiert/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2013/star-wars-star-trek-dc-und-marvel-pixarisiert/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - dc
-  - fanart
-  - filme
-  - marvel
-  - mashup
-  - pixar
-  - star-trek
-  - star-wars
-meta:
-  - yourls_shorturl: "https://eay.li/1tc"
+  - "dc"
+  - "fanart"
+  - "filme"
+  - "marvel"
+  - "mashup"
+  - "pixar"
+  - "star trek"
+  - "star wars"
+short_url: "https://eay.li/1tc"
 ---
 
 [![](https://eay.cc/uploads/2013/pixarstarwars.jpg)](http://minionfactory.blogspot.de/2013/01/in-galaxy-far-far-away-pixar-did-star.html)

@@ -1,20 +1,19 @@
 ---
 title: "China wird verpixelt"
 date: "2011-03-15"
-datetime: "2011-03-15 02:23:21"
+published_at: "2011-03-15T01:23:21Z"
 id: "15651"
 slug: "china-wird-verpixelt"
-url: "https://eay.cc/2011/china-wird-verpixelt/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2011/china-wird-verpixelt/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - china
-  - netzkultur
-  - pixelart
-meta:
-  - yourls_shorturl: "https://eay.li/168"
+  - "china"
+  - "netzkultur"
+  - "pixelart"
+short_url: "https://eay.li/168"
 ---
 
 Die Chinesen sind schon ein komisches (as in _merkwürdiges_, not in _lustiges_) Völkchen. Das liegt weniger an den dort lebenden Menschen als vielmehr an den dort Regierenden. Denn die sind so gut drauf, dass sie für fragwürdige Großprojekte schon mal zwei Millionen Menschen zwangsumsiedeln oder zwei Tage nach der vielleicht größten atomaren Katastrophe aller Zeiten den Bau dutzender neuer Atomkraftwerke beschließen. Mit nichts was zu tun, könnte man da denken - aber nein, wie wir alle wissen, versteht die Kommunistische Partei in Sachen Internet so rein gar keinen Spaß. Auch und gerade nicht bei Google Maps.

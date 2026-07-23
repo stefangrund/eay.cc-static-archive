@@ -1,24 +1,25 @@
 ---
 title: "Snapdrop – AirDrop als Web App"
 date: "2016-06-28"
-datetime: "2016-06-28 23:49:27"
+published_at: "2016-06-28T21:49:27Z"
 id: "31626"
 slug: "snapdrop-airdrop-als-web-app"
-url: "https://eay.cc/2016/snapdrop-airdrop-als-web-app/"
-author: "eay"
+permalink: "https://eay.cc/2016/snapdrop-airdrop-als-web-app/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - apps
-  - service
-  - technologie
-  - tool
-  - webservice
-meta:
-  - linked_list_url: "https://snapdrop.net/"
-  - yourls_shorturl: "https://eay.li/2ug"
+  - "apps"
+  - "service"
+  - "technologie"
+  - "tool"
+  - "webservice"
+external_url: "https://snapdrop.net/"
+short_url: "https://eay.li/2ug"
 ---
+
+[Link →](https://snapdrop.net/)
 
 > Snapdrop is inspired by Apple's AirDrop, but is a Progressive Web App built with Polymer and Web RTC.
 

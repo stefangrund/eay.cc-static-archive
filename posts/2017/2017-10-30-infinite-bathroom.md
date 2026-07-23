@@ -1,24 +1,23 @@
 ---
 title: "Infinite Bathroom"
 date: "2017-10-30"
-datetime: "2017-10-30 18:56:46"
+published_at: "2017-10-30T16:56:46Z"
 id: "33653"
 slug: "infinite-bathroom"
-url: "https://eay.cc/2017/infinite-bathroom/"
-author: "eay"
+permalink: "https://eay.cc/2017/infinite-bathroom/"
+author: "Stefan Grund"
 format: "image"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - fotos
-  - urlaub
-meta:
-  - content_copy: "https://www.instagram.com/p/Ba4aDV-F6Mx/"
-  - geo_latitude: "48.660032"
-  - geo_longitude: "13.750032"
-  - geo_public: "1"
-  - geo_address: "Reischlhof"
-  - yourls_shorturl: "https://eay.li/323"
+  - "fotos"
+  - "urlaub"
+short_url: "https://eay.li/323"
+content_copy:
+  - "https://www.instagram.com/p/Ba4aDV-F6Mx/"
+geo_latitude: "48.660032"
+geo_longitude: "13.750032"
+geo_address: "Reischlhof"
 ---
 
 ![](https://eay.cc/uploads/2017/infinite-bathroom.jpeg)

@@ -1,21 +1,22 @@
 ---
 title: "Chickens have gotten ridiculously large since the 1950s"
 date: "2014-11-19"
-datetime: "2014-11-19 14:13:52"
+published_at: "2014-11-19T12:13:52Z"
 id: "29262"
 slug: "chickens-have-gotten-ridiculously-large-since-the-1950s"
-url: "https://eay.cc/2014/chickens-have-gotten-ridiculously-large-since-the-1950s/"
-author: "eay"
+permalink: "https://eay.cc/2014/chickens-have-gotten-ridiculously-large-since-the-1950s/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - nahrung
-  - tiere
-meta:
-  - linked_list_url: "http://www.vox.com/xpress/2014/10/2/6875031/chickens-breeding-farming-boilers-giant"
-  - yourls_shorturl: "https://eay.li/2kn"
+  - "nahrung"
+  - "tiere"
+external_url: "http://www.vox.com/xpress/2014/10/2/6875031/chickens-breeding-farming-boilers-giant"
+short_url: "https://eay.li/2kn"
 ---
+
+[Link →](http://www.vox.com/xpress/2014/10/2/6875031/chickens-breeding-farming-boilers-giant)
 
 ![](https://eay.cc/uploads/2014/chickens.jpg)
 

@@ -1,20 +1,21 @@
 ---
 title: "Awesome macOS Command Line"
 date: "2020-03-13"
-datetime: "2020-03-13 23:56:26"
+published_at: "2020-03-13T22:56:26Z"
 id: "36288"
 slug: "awesome-macos-command-line"
-url: "https://eay.cc/2020/awesome-macos-command-line/"
-author: "eay"
+permalink: "https://eay.cc/2020/awesome-macos-command-line/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - mac
-meta:
-  - linked_list_url: "https://github.com/herrbischoff/awesome-macos-command-line"
-  - yourls_shorturl: "https://eay.li/3d1"
+  - "mac"
+external_url: "https://github.com/herrbischoff/awesome-macos-command-line"
+short_url: "https://eay.li/3d1"
 ---
+
+[Link →](https://github.com/herrbischoff/awesome-macos-command-line)
 
 > A curated list of shell commands and tools specific to OS X.
 

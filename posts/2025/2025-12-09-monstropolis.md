@@ -1,23 +1,22 @@
 ---
 title: "Monstropolis"
 date: "2025-12-09"
-datetime: "2025-12-09 23:16:13"
+published_at: "2025-12-09T22:16:13Z"
 id: "40786"
 slug: "monstropolis"
-url: "https://eay.cc/2025/monstropolis/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2025/monstropolis/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - nachruf
-meta:
-  - geo_latitude: "50.973837"
-  - geo_longitude: "6.683007"
-  - geo_public: "1"
-  - yourls_shorturl: "https://eay.li/3xp"
-  - _share_on_mastodon_url: "https://eay.social/@eay/115691918079056355"
-  - content_copy: "https://bsky.app/profile/eay.social/post/3m7lla56dh32q"
+  - "nachruf"
+short_url: "https://eay.li/3xp"
+content_copy:
+  - "https://bsky.app/profile/eay.social/post/3m7lla56dh32q"
+  - "https://eay.social/@eay/115691918079056355"
+geo_latitude: "50.973837"
+geo_longitude: "6.683007"
 ---
 
 Ich hänge dieser Tage massivst in meinem Feed-Reader hinterher (dazu ein anderes Mal mehr), weshalb ich alles andere als up-to-date bin, was diverse Blogs und vermut­lich auch _dein Blog_ angeht.

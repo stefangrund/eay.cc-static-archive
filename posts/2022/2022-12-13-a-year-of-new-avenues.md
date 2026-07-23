@@ -1,29 +1,26 @@
 ---
 title: "A year of new avenues"
 date: "2022-12-13"
-datetime: "2022-12-13 02:19:55"
+published_at: "2022-12-13T00:19:55Z"
 id: "38275"
 slug: "a-year-of-new-avenues"
-url: "https://eay.cc/2022/a-year-of-new-avenues/"
-author: "eay"
+permalink: "https://eay.cc/2022/a-year-of-new-avenues/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - netzkultur
-  - social-web
-meta:
-  - linked_list_url: "https://www.robinsloan.com/lab/new-avenues/"
-  - geo_latitude: "50.973823"
-  - geo_longitude: "6.683026"
-  - geo_public: "1"
-  - yourls_shorturl: "https://eay.li/3kd"
-  - linked_list_og-title: "A year of new avenues"
-  - linked_list_og-description: "It's 2003 again."
-  - linked_list_og-image: "https://eay.cc/wordpress/uploads/og-cache/f56cfdbce07501cc443431e76e136322.webp"
+  - "netzkultur"
+  - "social web"
+external_url: "https://www.robinsloan.com/lab/new-avenues/"
+short_url: "https://eay.li/3kd"
+geo_latitude: "50.973823"
+geo_longitude: "6.683026"
 ---
 
-> It’s so pow­er­fully obvi­ous to me, it might as well be writ­ten in ten-foot let­ters of flame: the plat­forms of the last decade are done. […] Their only con­clu­sion can be abandonment; an over­due MySpace-ification.
+[Link →](https://www.robinsloan.com/lab/new-avenues/)
+
+> It’s so pow­er­fully obvi­ous to me, it might as well be writ­ten in ten-foot let­ters of flame: the plat­forms of the last decade are done. \[…\] Their only con­clu­sion can be abandonment; an over­due MySpace-ification.
 
 [Robin Sloan](https://www.robinsloan.com/) sieht das Ende der großen Social-Media-Plattformen kommen und beschreibt dies als Chance, wieder selbst das Web zu gestalten.
 

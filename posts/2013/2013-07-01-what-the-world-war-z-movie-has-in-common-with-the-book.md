@@ -1,23 +1,22 @@
 ---
 title: "What the World War Z movie has in common with the book"
 date: "2013-07-01"
-datetime: "2013-07-01 23:03:07"
+published_at: "2013-07-01T21:03:07Z"
 id: "23574"
 slug: "what-the-world-war-z-movie-has-in-common-with-the-book"
-url: "https://eay.cc/2013/what-the-world-war-z-movie-has-in-common-with-the-book/"
-author: "eay"
+permalink: "https://eay.cc/2013/what-the-world-war-z-movie-has-in-common-with-the-book/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - buchverfilmung
-  - filme
-  - the-oatmeal
-  - webcomic
-  - zombies
-meta:
-  - yourls_shorturl: "https://eay.li/24o"
-  - linked_list_url: "http://theoatmeal.com/comics/wwz"
+  - "buchverfilmung"
+  - "filme"
+  - "the oatmeal"
+  - "webcomic"
+  - "zombies"
+external_url: "http://theoatmeal.com/comics/wwz"
+short_url: "https://eay.li/24o"
 ---
 
-
+[Link →](http://theoatmeal.com/comics/wwz)

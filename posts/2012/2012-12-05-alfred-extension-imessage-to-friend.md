@@ -1,24 +1,23 @@
 ---
 title: "Alfred extension: iMessage to Friend"
 date: "2012-12-05"
-datetime: "2012-12-05 17:22:51"
+published_at: "2012-12-05T15:22:51Z"
 id: "21355"
 slug: "alfred-extension-imessage-to-friend"
-url: "https://eay.cc/2012/alfred-extension-imessage-to-friend/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2012/alfred-extension-imessage-to-friend/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - 0815
-  - english
+  - "08/15"
+  - "English"
 tags:
-  - alfred
-  - applescript
-  - imessage
-  - mac
-  - output
-  - projekte
-meta:
-  - yourls_shorturl: "https://eay.li/alfredimessage"
+  - "alfred"
+  - "applescript"
+  - "imessage"
+  - "mac"
+  - "output"
+  - "projekte"
+short_url: "https://eay.li/alfredimessage"
 ---
 
 ![](https://eay.cc/uploads/2012/alfred_imessage_1.png)
@@ -31,7 +30,7 @@ That's why I created the [Alfred](http://www.alfredapp.com/) extension "iMessage
 
 **Old version!** This version of "iMessage to Friend" only works with Alfred v1. If you're looking for the [updated **workflow for Alfred v2** click here](http://eay.cc/projects/alfred-workflow-imessage-to-friend/).
 
-[![](https://eay.cc/uploads/2012/icon_alfredextension.gif)iMessage to Friend.alfredextension](//eay.cc/uploads/software/iMessage%20to%20Friend%201.1.alfredextension)  
+[![](https://eay.cc/uploads/2012/icon_alfredextension.gif)iMessage to Friend.alfredextension](https://eay.cc/uploads/software/iMessage%20to%20Friend%201.1.alfredextension)\
 Version 1.1, 05.01.2013, **for Alfred v1**
 
 ### Changelog
@@ -46,14 +45,13 @@ If you have more than one iCloud account enabled in iMessage, the extension will
 
 After you have installed the extension (by dragging it into the extension preference panel in Alfred), you'll have to select the "iMessage to Friend" extension and replace two things:
 
-1. Replace `FRIENDS_NAME` in the title, description and keyword field with your friend's (nick)name, e.g. `BFF` or `Kira`.
-    
+1.  Replace `FRIENDS_NAME` in the title, description and keyword field with your friend's (nick)name, e.g. `BFF` or `Kira`.
+
     ![](https://eay.cc/uploads/2012/alfred_imessage_2.gif)
-    
-2. In the AppleScript text field replace `FRIENDS_IMESSAGE` with your friend's phone number or email address, e.g. `friend@icloud.com` or `00491501234567` (country code + prefix + number). Keep in mind that this number or email address must be activated for iMessage.
-    
+
+2.  In the AppleScript text field replace `FRIENDS_IMESSAGE` with your friend's phone number or email address, e.g. `friend@icloud.com` or `00491501234567` (country code + prefix + number). Keep in mind that this number or email address must be activated for iMessage.
+
     ![](https://eay.cc/uploads/2012/alfred_imessage_3.gif)
-    
 
 Now you're ready to go.
 

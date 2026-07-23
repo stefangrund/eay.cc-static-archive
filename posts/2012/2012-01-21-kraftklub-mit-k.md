@@ -1,20 +1,19 @@
 ---
 title: "Kraftklub mit K"
 date: "2012-01-21"
-datetime: "2012-01-21 15:19:39"
+published_at: "2012-01-21T14:19:39Z"
 id: "18498"
 slug: "kraftklub-mit-k"
-url: "https://eay.cc/2012/kraftklub-mit-k/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2012/kraftklub-mit-k/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - album
-  - kraftklub
-  - musik
-meta:
-  - yourls_shorturl: "https://eay.li/1f2"
+  - "album"
+  - "kraftklub"
+  - "musik"
+short_url: "https://eay.li/1f2"
 ---
 
 ![](https://eay.cc/uploads/2012/kraftklub1.gif)Gestern ist »Mit K«, das erste Album von [Kraftklub](http://de.wikipedia.org/wiki/Kraftklub), erschienen. Ich hab's mir direkt gekauft und in den letzten 24 Stunden ungefähr 24 mal durchgehört. Und das beruhigt mich sehr, schließlich hat sich die Eay-Family nach den beiden, letztes Jahr erschienenen Singles »Zu jung« und »Ich will nicht nach Berlin« direkt mit Karten für den hiesigen Gig eingedeckt. Und dieses Konzert kann ich jetzt kaum noch erwarten, denn das Album ist grandios. Die Texte sind fantastisch, die Musik rockt. Definitiv der erste und wohl vielversprechendste Anwärter auf die beste, deutschsprachige Poprock-Platte des Jahres. Und das im Januar. [Unsere geliebten, älteren Herren](http://www.bademeister.com/) müssen sich anstrengen.

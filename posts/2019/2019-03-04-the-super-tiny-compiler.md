@@ -1,25 +1,26 @@
 ---
 title: "The Super Tiny Compiler"
 date: "2019-03-04"
-datetime: "2019-03-04 10:01:43"
+published_at: "2019-03-04T09:01:43Z"
 id: "35564"
 slug: "the-super-tiny-compiler"
-url: "https://eay.cc/2019/the-super-tiny-compiler/"
-author: "eay"
+permalink: "https://eay.cc/2019/the-super-tiny-compiler/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - javascript
-  - technologie
-  - web-development
-meta:
-  - linked_list_url: "https://github.com/jamiebuilds/the-super-tiny-compiler"
-  - yourls_shorturl: "https://eay.li/39b"
+  - "javascript"
+  - "technologie"
+  - "web development"
+external_url: "https://github.com/jamiebuilds/the-super-tiny-compiler"
+short_url: "https://eay.li/39b"
 ---
+
+[Link →](https://github.com/jamiebuilds/the-super-tiny-compiler)
 
 [Jamie Kyle](https://jamie.build/) vermittelt das Funktionieren eines Compilers – im Quelltext eines Compilers. Tolle Idee.
 
 > This is an ultra-simplified example of all the major pieces of a modern compiler written in easy to read JavaScript.
-> 
+>
 > Reading through the guided code will help you learn about how most compilers work from end to end.

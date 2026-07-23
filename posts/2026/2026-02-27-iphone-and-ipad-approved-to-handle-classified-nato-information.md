@@ -1,34 +1,32 @@
 ---
 title: "iPhone and iPad approved to handle classified NATO information"
 date: "2026-02-27"
-datetime: "2026-02-27 08:22:43"
+published_at: "2026-02-27T07:22:43Z"
 id: "41348"
 slug: "iphone-and-ipad-approved-to-handle-classified-nato-information"
-url: "https://eay.cc/2026/iphone-and-ipad-approved-to-handle-classified-nato-information/"
-author: "eay"
+permalink: "https://eay.cc/2026/iphone-and-ipad-approved-to-handle-classified-nato-information/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - apple
-  - donald-trump
-  - ios
-  - ipad
-  - iphone
-  - nato
-  - sicherheit
-meta:
-  - linked_list_url: "https://www.apple.com/newsroom/2026/02/iphone-and-ipad-approved-to-handle-classified-nato-information/"
-  - geo_latitude: "50.97384"
-  - geo_longitude: "6.682996"
-  - geo_public: "1"
-  - linked_list_og-title: "iPhone and iPad approved to handle classified NATO information"
-  - linked_list_og-description: "Today, Apple announced iPhone and iPad are the first and only consumer devices in compliance with information assurance requirements of NATO nations."
-  - linked_list_og-image: "https://eay.cc/wordpress/uploads/og-cache/77ef4dad6e9757ae0bd09bde3fa1d95f.webp"
-  - yourls_shorturl: "https://eay.li/3zq"
-  - _share_on_mastodon_url: "https://eay.social/@eay/116141390419518190"
-  - content_copy: "https://bsky.app/profile/eay.social/post/3mft6ltsirh2k"
+  - "apple"
+  - "donald trump"
+  - "ios"
+  - "ipad"
+  - "iphone"
+  - "nato"
+  - "sicherheit"
+external_url: "https://www.apple.com/newsroom/2026/02/iphone-and-ipad-approved-to-handle-classified-nato-information/"
+short_url: "https://eay.li/3zq"
+content_copy:
+  - "https://bsky.app/profile/eay.social/post/3mft6ltsirh2k"
+  - "https://eay.social/@eay/116141390419518190"
+geo_latitude: "50.97384"
+geo_longitude: "6.682996"
 ---
+
+[Link →](https://www.apple.com/newsroom/2026/02/iphone-and-ipad-approved-to-handle-classified-nato-information/)
 
 Die Apple-Geräte sind nach Prüfung vom BSI die ersten Endkunden­geräte, die ohne spezielle, weitere Software oder Einstellungen für sicher genug befunden wurden, um bei der NATO zum Einsatz zu kommen. Für die NATO-Mit­arbeiten­den unter euch sicherlich eine gute Information, für den Rest von uns aber auch, weil dann sollte es sicher­heits­technisch auch bei uns keine Total­katas­trophe sein.
 

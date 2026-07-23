@@ -1,20 +1,20 @@
 ---
 title: "Die Würde des Menschen ist unantastbar."
 date: "2021-03-03"
-datetime: "2021-03-03 09:28:35"
+published_at: "2021-03-03T08:28:35Z"
 id: "37189"
 slug: "die-wuerde-des-menschen-ist-unantastbar"
-url: "https://eay.cc/2021/die-wuerde-des-menschen-ist-unantastbar/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2021/die-wuerde-des-menschen-ist-unantastbar/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - coronavirus
-meta:
-  - content_copy: "https://twitter.com/eay/status/1367026717316034567"
-  - content_copy: "https://twitter.com/eay/status/1367026875000832001"
-  - yourls_shorturl: "https://eay.li/2lc"
+  - "coronavirus"
+short_url: "https://eay.li/2lc"
+content_copy:
+  - "https://twitter.com/eay/status/1367026717316034567"
+  - "https://twitter.com/eay/status/1367026875000832001"
 ---
 
 ![Friseurtermin-Countdown in Yonks](https://eay.cc/uploads/2021/friseurtermin.png)

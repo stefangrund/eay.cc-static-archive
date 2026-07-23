@@ -1,26 +1,25 @@
 ---
 title: "Yonks v1.3.2 for Android released"
 date: "2026-03-31"
-datetime: "2026-03-31 19:20:56"
+published_at: "2026-03-31T17:20:56Z"
 id: "41686"
 slug: "yonks-v1-3-2-for-android-released"
-url: "https://eay.cc/2026/yonks-v1-3-2-for-android-released/"
-author: "eay"
+permalink: "https://eay.cc/2026/yonks-v1-3-2-for-android-released/"
+author: "Stefan Grund"
 format: "aside"
 categories:
-  - 0815
-  - yonks
+  - "08/15"
+  - "Yonks"
 tags:
-  - apps
-  - projekte
-  - yonks
-meta:
-  - geo_latitude: "51.000117"
-  - geo_longitude: "6.794127"
-  - geo_public: "1"
-  - yourls_shorturl: "https://eay.li/40r"
-  - _share_on_mastodon_url: "https://eay.social/@eay/116324940645776298"
-  - content_copy: "https://bsky.app/profile/eay.social/post/3miep3osxhd22"
+  - "apps"
+  - "projekte"
+  - "yonks"
+short_url: "https://eay.li/40r"
+content_copy:
+  - "https://bsky.app/profile/eay.social/post/3miep3osxhd22"
+  - "https://eay.social/@eay/116324940645776298"
+geo_latitude: "51.000117"
+geo_longitude: "6.794127"
 ---
 
 **[Yonks](https://yonks.app/) v1.3.2** is [out now on Google Play](https://play.google.com/store/apps/details?id=com.eay.daycounter) for Android only. It fixes a UI bug which happens on the latest devices on Android 16 and results in the top bar overlapping the counter list, making the first item unreachable. 🐛

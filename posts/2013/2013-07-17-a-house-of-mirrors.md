@@ -1,20 +1,19 @@
 ---
 title: "A House of Mirrors"
 date: "2013-07-17"
-datetime: "2013-07-17 12:10:16"
+published_at: "2013-07-17T10:10:16Z"
 id: "24330"
 slug: "a-house-of-mirrors"
-url: "https://eay.cc/2013/a-house-of-mirrors/"
-author: "eay"
+permalink: "https://eay.cc/2013/a-house-of-mirrors/"
+author: "Stefan Grund"
 format: "quote"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - evolution
-  - technologie
-  - zitat
-meta:
-  - yourls_shorturl: "https://eay.li/25f"
+  - "evolution"
+  - "technologie"
+  - "zitat"
+short_url: "https://eay.li/25f"
 ---
 
 > We think like the machine we have made in the image of ourselves; the machine thinks like us as we have come to think about ourselves in the image of the machine. A house of mirrors.

@@ -1,19 +1,20 @@
 ---
 title: "Blumentopf - Nerds"
 date: "2010-07-13"
-datetime: "2010-07-13 19:37:30"
+published_at: "2010-07-13T19:37:30Z"
 id: "12317"
 slug: "blumentopf-nerds"
-url: "https://eay.cc/2010/blumentopf-nerds/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2010/blumentopf-nerds/"
+author: "Stefan Grund"
+format: "standard"
 tags:
-  - green-lantern
-  - kirby-krackle
-  - musik
-meta:
-  - yourls_shorturl: "https://eay.li/zd"
+  - "green lantern"
+  - "kirby krackle"
+  - "musik"
+short_url: "https://eay.li/zd"
 ---
+
+[Embedded content](http://www.youtube.com/v/-i1Gg7_K250&hl=de_DE&fs=1)
 
  ([YouTube Direktnerds](http://www.youtube.com/watch?v=-i1Gg7_K250); aus dem aktuellen Blumentopf-Album [Wir](http://www.amazon.de/exec/obidos/ASIN/B003KEPVRU/eayznet-21))
 

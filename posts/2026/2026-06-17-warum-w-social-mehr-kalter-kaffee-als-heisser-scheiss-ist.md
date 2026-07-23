@@ -1,31 +1,30 @@
 ---
 title: "Warum W Social mehr kalter Kaffee als heißer Scheiß ist"
 date: "2026-06-17"
-datetime: "2026-06-17 23:55:45"
+published_at: "2026-06-17T21:55:45Z"
 id: "42236"
 slug: "warum-w-social-mehr-kalter-kaffee-als-heisser-scheiss-ist"
-url: "https://eay.cc/2026/warum-w-social-mehr-kalter-kaffee-als-heisser-scheiss-ist/"
-author: "eay"
+permalink: "https://eay.cc/2026/warum-w-social-mehr-kalter-kaffee-als-heisser-scheiss-ist/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - datenschutz
-  - digitale-souveraenitaet
-  - europa
-  - social-web
-meta:
-  - linked_list_url: "https://netzpolitik.org/2026/soziale-netzwerke-warum-w-social-mehr-kalter-kaffee-als-heisser-scheiss-ist/"
-  - geo_latitude: "50.973823"
-  - geo_longitude: "6.68302"
-  - geo_public: "1"
-  - yourls_shorturl: "https://eay.li/434"
-  - _share_on_mastodon_url: "https://eay.social/@eay/116767676670510479"
-  - linked_list_og-title: "Warum W Social mehr kalter Kaffee als heißer Scheiß ist"
-  - linked_list_og-description: "Mit W Social ist ein soziales Netzwerk gestartet, bei dem man sich nur nach Passkontrolle anmelden kann. Das ist keine gute Idee. Überhaupt spricht einiges dagegen, sich bei dem schwedischen Startup einen Account zuzulegen. Ein Kommentar."
-  - linked_list_og-image: "https://eay.cc/wordpress/uploads/og-cache/7c50e66f5e9aed17ffd3598d52f9b3c0.webp"
-  - content_copy: "https://bsky.app/profile/eay.social/post/3mojcodju3z2a"
+  - "datenschutz"
+  - "digitale souveränität"
+  - "europa"
+  - "social web"
+external_url: "https://netzpolitik.org/2026/soziale-netzwerke-warum-w-social-mehr-kalter-kaffee-als-heisser-scheiss-ist/"
+short_url: "https://eay.li/434"
+content_copy:
+  - "https://bsky.app/profile/eay.social/post/3mojcodju3z2a"
+  - "https://bubbles.town/entry/36880037"
+  - "https://eay.social/@eay/116767676670510479"
+geo_latitude: "50.973823"
+geo_longitude: "6.68302"
 ---
+
+[Link →](https://netzpolitik.org/2026/soziale-netzwerke-warum-w-social-mehr-kalter-kaffee-als-heisser-scheiss-ist/)
 
 > Mit W Social ist ein soziales Netzwerk gestartet, bei dem man sich nur nach Passkontrolle anmelden kann. Das ist keine gute Idee. Überhaupt spricht einiges dagegen, sich bei dem schwedischen Startup einen Account zuzulegen.
 
@@ -37,11 +36,11 @@ Dabei ist das auf dem [AT-Protokoll](https://de.wikipedia.org/wiki/AT_Protocol) 
 
 Auf der Negativliste:
 
-- Ausweispflicht/Identitätszwang.
-- Quellcode neuerdings Closed Source.
-- Fragwürdige Nähe zu EU-Institutionen.
-- Trotz Freiheitsrhetorik privates, gewinnorientiertes Startup statt öffentlicher/unternehmensfreie Struktur.
-- Keine Blocklisten; auch Rechte wie Alice Weidel sollen willkommen sein.
+-   Ausweispflicht/Identitätszwang.
+-   Quellcode neuerdings Closed Source.
+-   Fragwürdige Nähe zu EU-Institutionen.
+-   Trotz Freiheitsrhetorik privates, gewinnorientiertes Startup statt öffentlicher/unternehmensfreie Struktur.
+-   Keine Blocklisten; auch Rechte wie Alice Weidel sollen willkommen sein.
 
 Ich würde dementsprechend sagen: [Mastodon](https://joinmastodon.org/de/) und [Eurosky](https://eurosky.tech/) sind auch ganz schön. Und zwar ohne, dass man das künftige Vergolden eines Privat­unter­nehmens einpreisen muss. Erstmal also kein @eay auf W Social News.
 

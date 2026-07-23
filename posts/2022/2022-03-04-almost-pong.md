@@ -1,23 +1,23 @@
 ---
 title: "Almost Pong"
 date: "2022-03-04"
-datetime: "2022-03-04 21:40:55"
+published_at: "2022-03-04T20:40:55Z"
 id: "37859"
 slug: "almost-pong"
-url: "https://eay.cc/2022/almost-pong/"
-author: "eay"
+permalink: "https://eay.cc/2022/almost-pong/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - games
-meta:
-  - linked_list_url: "https://www.lessmilk.com/almost-pong/"
-  - geo_latitude: "50.973806"
-  - geo_longitude: "6.683055"
-  - geo_public: "1"
-  - yourls_shorturl: "https://eay.li/3hc"
+  - "games"
+external_url: "https://www.lessmilk.com/almost-pong/"
+short_url: "https://eay.li/3hc"
+geo_latitude: "50.973806"
+geo_longitude: "6.683055"
 ---
+
+[Link →](https://www.lessmilk.com/almost-pong/)
 
 > Press space (or tap the screen) to make the ball jump and hit the paddles for as long as possible.
 

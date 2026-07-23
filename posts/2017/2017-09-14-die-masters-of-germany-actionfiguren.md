@@ -1,34 +1,32 @@
 ---
 title: "Die \"Masters of Germany\"-Actionfiguren"
 date: "2017-09-14"
-datetime: "2017-09-14 19:02:38"
+published_at: "2017-09-14T17:02:38Z"
 id: "33431"
 slug: "die-masters-of-germany-actionfiguren"
-url: "https://eay.cc/2017/die-masters-of-germany-actionfiguren/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2017/die-masters-of-germany-actionfiguren/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - angela-merkel
-  - best-of
-  - btw17
-  - bundestagswahl
-  - deutschland
-  - he-man
-  - martin-schulz
-  - motu
-  - parodie
-  - politik
-  - toys
-meta:
-  - yourls_shorturl: "https://eay.li/314"
-  - geo_latitude: "52.381385596714"
-  - geo_longitude: "5.7005188294311"
-  - geo_public: "1"
+  - "angela merkel"
+  - "best of"
+  - "btw17"
+  - "bundestagswahl"
+  - "deutschland"
+  - "he-man"
+  - "martin schulz"
+  - "motu"
+  - "parodie"
+  - "politik"
+  - "toys"
+short_url: "https://eay.li/314"
+geo_latitude: "52.381385596714"
+geo_longitude: "5.7005188294311"
 ---
 
-[youtube id="ElpvkA-7WWM"]
+\[youtube id="ElpvkA-7WWM"\]
 
 > "Ich bin Echsen-Merkel! Ich werde ewig regieren!"
 

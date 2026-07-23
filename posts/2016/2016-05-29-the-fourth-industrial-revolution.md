@@ -1,23 +1,24 @@
 ---
 title: "The Fourth Industrial Revolution"
 date: "2016-05-29"
-datetime: "2016-05-29 23:23:01"
+published_at: "2016-05-29T22:23:01Z"
 id: "31552"
 slug: "the-fourth-industrial-revolution"
-url: "https://eay.cc/2016/the-fourth-industrial-revolution/"
-author: "eay"
+permalink: "https://eay.cc/2016/the-fourth-industrial-revolution/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - kuenstliche-intelligenz
-  - kurzfilm
-  - roboter
-  - technologie
-  - zukunft
-meta:
-  - linked_list_url: "http://shortfil.ms/film/the-fourth-industrial-revolution-2016"
-  - yourls_shorturl: "https://eay.li/2tt"
+  - "künstliche intelligenz"
+  - "kurzfilm"
+  - "roboter"
+  - "technologie"
+  - "zukunft"
+external_url: "http://shortfil.ms/film/the-fourth-industrial-revolution-2016"
+short_url: "https://eay.li/2tt"
 ---
+
+[Link →](http://shortfil.ms/film/the-fourth-industrial-revolution-2016)
 
 Bei [shortfil.ms](http://shortfil.ms/) haben wir heute eine 12-minütige Doku über die bevorstehenden, alles umwälzenden technologischen Veränderungen. Schöne Zusammenfassung, produziert vom [Weltwirtschaftsforum](https://de.wikipedia.org/wiki/Weltwirtschaftsforum) (wie auch immer das zu beurteilen ist).

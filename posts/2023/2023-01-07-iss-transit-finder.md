@@ -1,27 +1,28 @@
 ---
 title: "ISS Transit Finder"
 date: "2023-01-07"
-datetime: "2023-01-07 11:11:01"
+published_at: "2023-01-07T09:11:01Z"
 id: "38364"
 slug: "iss-transit-finder"
-url: "https://eay.cc/2023/iss-transit-finder/"
-author: "eay"
+permalink: "https://eay.cc/2023/iss-transit-finder/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
-  - english
+  - "08/15"
+  - "English"
 tags:
-  - raumfahrt
-  - webservice
-  - weltall
-meta:
-  - linked_list_url: "https://transit-finder.com/"
-  - geo_latitude: "50.973835"
-  - geo_longitude: "6.683034"
-  - geo_public: "1"
-  - yourls_shorturl: "https://eay.li/3kw"
-  - content_copy: "https://eay.social/@eay/109647158146489806"
+  - "raumfahrt"
+  - "webservice"
+  - "weltall"
+external_url: "https://transit-finder.com/"
+short_url: "https://eay.li/3kw"
+content_copy:
+  - "https://eay.social/@eay/109647158146489806"
+geo_latitude: "50.973835"
+geo_longitude: "6.683034"
 ---
+
+[Link →](https://transit-finder.com/)
 
 > The Satellite Transit Finder is a web application designed to aid planning the observations of lunar and solar transits of the few largest artificial satellites of our planet: the International Space Station, Hubble Space Telescope and Tiangong (Chinese Space Station). It is designed to be intuitive and easy to understand even for non-astronomically inclined observers.
 

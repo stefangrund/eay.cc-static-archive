@@ -1,22 +1,23 @@
 ---
 title: "Trailer zu »Kick-Ass 2«"
 date: "2013-03-28"
-datetime: "2013-03-28 11:22:29"
+published_at: "2013-03-28T09:22:29Z"
 id: "1104"
 slug: "trailer-zu-kick-ass-2"
-url: "https://eay.cc/2013/trailer-zu-kick-ass-2/"
-author: "eay"
+permalink: "https://eay.cc/2013/trailer-zu-kick-ass-2/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - comics
-  - comicverfilmungen
-  - filme
-  - trailer
-meta:
-  - yourls_shorturl: "https://eay.li/22m"
-  - linked_list_url: "http://www.youtube.com/watch?v=S29xl_vAqYg"
+  - "comics"
+  - "comicverfilmungen"
+  - "filme"
+  - "trailer"
+external_url: "http://www.youtube.com/watch?v=S29xl_vAqYg"
+short_url: "https://eay.li/22m"
 ---
+
+[Link →](http://www.youtube.com/watch?v=S29xl_vAqYg)
 
 Mein meisterwarteter Actionfilm des Jahres, würde ich sagen.

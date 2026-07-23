@@ -1,24 +1,25 @@
 ---
 title: "All Our Patent Are Belong To You"
 date: "2014-06-13"
-datetime: "2014-06-13 03:19:35"
+published_at: "2014-06-13T01:19:35Z"
 id: "28230"
 slug: "all-our-patent-are-belong-to-you"
-url: "https://eay.cc/2014/all-our-patent-are-belong-to-you/"
-author: "eay"
+permalink: "https://eay.cc/2014/all-our-patent-are-belong-to-you/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - autos
-  - elon-musk
-  - patente
-  - technologie
-  - tesla-motors
-meta:
-  - linked_list_url: "http://www.teslamotors.com/blog/all-our-patent-are-belong-you/"
-  - yourls_shorturl: "https://eay.li/2gy"
+  - "autos"
+  - "elon musk"
+  - "patente"
+  - "technologie"
+  - "tesla motors"
+external_url: "http://www.teslamotors.com/blog/all-our-patent-are-belong-you/"
+short_url: "https://eay.li/2gy"
 ---
+
+[Link →](http://www.teslamotors.com/blog/all-our-patent-are-belong-you/)
 
 [Elon Musk](http://en.m.wikipedia.org/wiki/Elon_Musk), Chef von SpaceX und Tesla Motors, hat heute im Blog von Tesla verkündet, dass sie die Nutzung ihrer Patente freigeben, um so schnelleren technologischen Fortschritt zu ermöglichen:
 

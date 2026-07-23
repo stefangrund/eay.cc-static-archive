@@ -1,24 +1,24 @@
 ---
 title: "Humans can't be the sole keepers of scientific knowledge"
 date: "2021-11-27"
-datetime: "2021-11-27 10:18:07"
+published_at: "2021-11-27T09:18:07Z"
 id: "37670"
 slug: "humans-cant-be-the-sole-keepers-of-scientific-knowledge"
-url: "https://eay.cc/2021/humans-cant-be-the-sole-keepers-of-scientific-knowledge/"
-author: "eay"
+permalink: "https://eay.cc/2021/humans-cant-be-the-sole-keepers-of-scientific-knowledge/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - technologie
-  - wissenschaft
-meta:
-  - linked_list_url: "https://www.wired.com/story/artificial-intelligence-scientific-papers-machine-reading/"
-  - geo_latitude: "50.973806"
-  - geo_longitude: "6.683046"
-  - geo_public: "1"
-  - yourls_shorturl: "https://eay.li/2yx"
+  - "technologie"
+  - "wissenschaft"
+external_url: "https://www.wired.com/story/artificial-intelligence-scientific-papers-machine-reading/"
+short_url: "https://eay.li/2yx"
+geo_latitude: "50.973806"
+geo_longitude: "6.683046"
 ---
+
+[Link →](https://www.wired.com/story/artificial-intelligence-scientific-papers-machine-reading/)
 
 > There's an old joke that physicists like to tell: Everything has already been discovered and reported in a Russian journal in the 1960s, we just don’t know about it.
 

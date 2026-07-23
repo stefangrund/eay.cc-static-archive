@@ -1,21 +1,20 @@
 ---
 title: "Jeder zweite"
 date: "2013-09-22"
-datetime: "2013-09-22 06:08:25"
+published_at: "2013-09-22T04:08:25Z"
 id: "25586"
 slug: "jeder-zweite"
-url: "https://eay.cc/2013/jeder-zweite/"
-author: "eay"
+permalink: "https://eay.cc/2013/jeder-zweite/"
+author: "Stefan Grund"
 format: "status"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - 2013
-  - bundestagswahl
-  - deutschland
-  - politik
-meta:
-  - yourls_shorturl: "https://eay.li/28f"
+  - "2013"
+  - "bundestagswahl"
+  - "deutschland"
+  - "politik"
+short_url: "https://eay.li/28f"
 ---
 
-Wenn ihr morgen durch die Straße geht, denkt dran: Jeder zweite ist nachweislich ein Arschloch. [#btw13](//eay.cc/tag/bundestagswahl+2013/)
+Wenn ihr morgen durch die Straße geht, denkt dran: Jeder zweite ist nachweislich ein Arschloch. [#btw13](https://eay.cc/tag/bundestagswahl+2013/)

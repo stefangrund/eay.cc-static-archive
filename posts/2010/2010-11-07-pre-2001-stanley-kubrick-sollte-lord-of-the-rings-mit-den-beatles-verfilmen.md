@@ -1,21 +1,20 @@
 ---
 title: "Pre-2001 Stanley Kubrick sollte Lord of the Rings mit den Beatles verfilmen"
 date: "2010-11-07"
-datetime: "2010-11-07 15:17:11"
+published_at: "2010-11-07T13:17:11Z"
 id: "13473"
 slug: "pre-2001-stanley-kubrick-sollte-lord-of-the-rings-mit-den-beatles-verfilmen"
-url: "https://eay.cc/2010/pre-2001-stanley-kubrick-sollte-lord-of-the-rings-mit-den-beatles-verfilmen/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2010/pre-2001-stanley-kubrick-sollte-lord-of-the-rings-mit-den-beatles-verfilmen/"
+author: "Stefan Grund"
+format: "standard"
 tags:
-  - bizarres
-  - buchverfilmung
-  - filme
-  - lord-of-the-rings
-  - stanley-kubrick
-  - the-beatles
-meta:
-  - yourls_shorturl: "https://eay.li/124"
+  - "bizarres"
+  - "buchverfilmung"
+  - "filme"
+  - "lord of the rings"
+  - "stanley kubrick"
+  - "the beatles"
+short_url: "https://eay.li/124"
 ---
 
 ...zumindest wenn es nach John Lennon gegangen wäre, [so Peter Jackson](http://blastr.com/2010/11/little-known-sci-fi-facts.php):

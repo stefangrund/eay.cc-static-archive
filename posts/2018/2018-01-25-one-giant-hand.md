@@ -1,23 +1,24 @@
 ---
 title: "One Giant Hand"
 date: "2018-01-25"
-datetime: "2018-01-25 10:43:21"
+published_at: "2018-01-25T09:43:21Z"
 id: "34102"
 slug: "one-giant-hand"
-url: "https://eay.cc/2018/one-giant-hand/"
-author: "eay"
+permalink: "https://eay.cc/2018/one-giant-hand/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - comics
-  - popkultur
-  - spiderman
-  - webcomic
-meta:
-  - linked_list_url: "http://onegianthand.com/"
-  - yourls_shorturl: "https://eay.li/33e"
+  - "comics"
+  - "popkultur"
+  - "spiderman"
+  - "webcomic"
+external_url: "http://onegianthand.com/"
+short_url: "https://eay.li/33e"
 ---
+
+[Link →](http://onegianthand.com/)
 
 ![](https://eay.cc/uploads/2018/spiderman.jpg)
 

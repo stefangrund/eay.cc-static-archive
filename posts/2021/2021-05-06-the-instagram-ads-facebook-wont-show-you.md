@@ -1,28 +1,26 @@
 ---
 title: "The Instagram ads Facebook won't show you"
 date: "2021-05-06"
-datetime: "2021-05-06 16:41:57"
+published_at: "2021-05-06T14:41:57Z"
 id: "37268"
 slug: "the-instagram-ads-facebook-wont-show-you"
-url: "https://eay.cc/2021/the-instagram-ads-facebook-wont-show-you/"
-author: "eay"
+permalink: "https://eay.cc/2021/the-instagram-ads-facebook-wont-show-you/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - datenschutz
-  - facebook
-  - instagram
-  - privatsphare
-  - signal
-  - werbung
-meta:
-  - linked_list_url: "https://signal.org/blog/the-instagram-ads-you-will-never-see/"
-  - yourls_shorturl: "https://eay.li/2n7"
-  - linked_list_og-title: "The Instagram ads Facebook won't show you"
-  - linked_list_og-description: "Companies like Facebook aren’t building technology for you, they’re building technology for your data. They collect everything they can from FB, Instagram, and WhatsApp in order to sell visibility into people and their lives. This isn’t exactly a secret, but the full picture is hazy to most..."
-  - linked_list_og-image: "https://eay.cc/wordpress/uploads/og-cache/b352b5032212f7086277f60c2cea73d8.webp"
+  - "datenschutz"
+  - "facebook"
+  - "instagram"
+  - "privatsphäre"
+  - "signal"
+  - "werbung"
+external_url: "https://signal.org/blog/the-instagram-ads-you-will-never-see/"
+short_url: "https://eay.li/2n7"
 ---
+
+[Link →](https://signal.org/blog/the-instagram-ads-you-will-never-see/)
 
 ![](https://eay.cc/uploads/2021/signal-instagram-ads.png)
 

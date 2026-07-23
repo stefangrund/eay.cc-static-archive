@@ -1,26 +1,25 @@
 ---
 title: "Schöner, stürmischer Geburtstag."
 date: "2022-02-18"
-datetime: "2022-02-18 23:56:24"
+published_at: "2022-02-18T22:56:24Z"
 id: "37838"
 slug: "schoener-stuermischer-geburtstag"
-url: "https://eay.cc/2022/schoener-stuermischer-geburtstag/"
-author: "eay"
+permalink: "https://eay.cc/2022/schoener-stuermischer-geburtstag/"
+author: "Stefan Grund"
 format: "image"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - analogleben
-  - effzeh
-  - geburtstag
-  - koeln
-meta:
-  - geo_latitude: "50.973807"
-  - geo_longitude: "6.683054"
-  - geo_public: "1"
-  - yourls_shorturl: "https://eay.li/3h7"
-  - content_copy: "https://www.instagram.com/p/CaIxv4_sHWY/"
-  - content_copy: "https://twitter.com/eay/status/1494823191168094210"
+  - "analogleben"
+  - "effzeh"
+  - "geburtstag"
+  - "köln"
+short_url: "https://eay.li/3h7"
+content_copy:
+  - "https://www.instagram.com/p/CaIxv4_sHWY/"
+  - "https://twitter.com/eay/status/1494823191168094210"
+geo_latitude: "50.973807"
+geo_longitude: "6.683054"
 ---
 
 ![](https://eay.cc/uploads/2022/geburtstag.jpg)

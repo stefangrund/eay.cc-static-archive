@@ -1,22 +1,21 @@
 ---
 title: "Zur Drosselkom"
 date: "2013-04-24"
-datetime: "2013-04-24 16:07:02"
+published_at: "2013-04-24T15:07:02Z"
 id: "22432"
 slug: "zur-drosselkom"
-url: "https://eay.cc/2013/zur-drosselkom/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2013/zur-drosselkom/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - deutschland
-  - netzkultur
-  - netzneutralitat
-  - politik
-  - telekom
-meta:
-  - yourls_shorturl: "https://eay.li/1v2"
+  - "deutschland"
+  - "netzkultur"
+  - "netzneutralität"
+  - "politik"
+  - "telekom"
+short_url: "https://eay.li/1v2"
 ---
 
 Wer es noch nicht mitbekommen hat: [Die Telekom hat vor](http://www.tagesschau.de/wirtschaft/deutsche-telekom102.htmlmai), die Übertragungsgeschwindigkeit für neu abgeschlossene Tarife nach überschreiten eines bestimmten Traffic-Limits (zwischen 75 und 200 GB pro Monat) zu drosseln. Ihr kennt das von euren Handyverträgen. Auf 384 Kilobit pro Sekunde, was dann auch am Rechner an alte ISDN-Zeiten erinnern dürfte. Mir fehlt gerade die Zeit, um selbst groß was zur Drosselkom-Geschichte zu sagen, aber [Christopher Lauer beschreibt](http://www.christopherlauer.de/2013/04/22/telewahn/) die überaus bizarre und ärgerliche Situation sehr schön:

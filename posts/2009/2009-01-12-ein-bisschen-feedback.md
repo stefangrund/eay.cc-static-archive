@@ -1,24 +1,23 @@
 ---
 title: "Ein bisschen Feedback"
 date: "2009-01-12"
-datetime: "2009-01-12 15:49:18"
+published_at: "2009-01-12T14:49:18Z"
 id: "4981"
 slug: "ein-bisschen-feedback"
-url: "https://eay.cc/2009/ein-bisschen-feedback/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2009/ein-bisschen-feedback/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - 0815
-  - the-others
+  - "08/15"
+  - "The Others"
 tags:
-  - dvd
-  - filme
-  - forum
-meta:
-  - yourls_shorturl: "https://eay.li/2m"
+  - "dvd"
+  - "filme"
+  - "forum"
+short_url: "https://eay.li/2m"
 ---
 
-![](/uploads/2009/cineastende.gif)Noch im letzten Jahr (man kommt ja zu nix...) hat Janis von [Cineasten.de](http://www.cineasten.de/) mir eine vorweihnachtliche Freude bereitet, indem er mir ein Päckchen mit der DVD von [Einer flog über das Kuckucksnest](http://de.wikipedia.org/wiki/Einer_flog_%C3%BCber_das_Kuckucksnest) zukommen ließ. Anbei die Bitte mir sein besagtes Projekt anzusehen und ihm mein Feedback zu geben. Und wer [mich beschenkt](http://eay.cc/support/), dem kann ich natürlich auch keine Bitte abschlagen und so hab ich mir das ganze mal näher angesehen.
+![](https://eay.cc/uploads/2009/cineastende.gif)Noch im letzten Jahr (man kommt ja zu nix...) hat Janis von [Cineasten.de](http://www.cineasten.de/) mir eine vorweihnachtliche Freude bereitet, indem er mir ein Päckchen mit der DVD von [Einer flog über das Kuckucksnest](http://de.wikipedia.org/wiki/Einer_flog_%C3%BCber_das_Kuckucksnest) zukommen ließ. Anbei die Bitte mir sein besagtes Projekt anzusehen und ihm mein Feedback zu geben. Und wer [mich beschenkt](http://eay.cc/support/), dem kann ich natürlich auch keine Bitte abschlagen und so hab ich mir das ganze mal näher angesehen.
 
 Bei Cineasten.de handelt es sich um "ein Portal und eine Community für Film und Heimkino-Enthusiasten". So kann man dort wie bei jeder anderen Community Freunde hinzufügen und sich im Forum unterhalten. Ergänzt wird das ganze jedoch noch um eine Film-, Star- und Produktdatenbank. Die einzelnen Einträge können bearbeitet und kommentiert werden - und stehen lobenswerterweise zumeist unter einer [CC-Lizenz](http://creativecommons.org/). Positiv fällt zuallererst das klar strukturierte Design auf und auch in der momentan >13000 Filme umfassenden Datenbank findet sich alles gängige. Sehr nett fand ich auch [die TV-Tipps](http://www.cineasten.de/tv/) für die nächsten Tage (hier würde ich mir nur noch einen RSS-Feed wünschen).
 

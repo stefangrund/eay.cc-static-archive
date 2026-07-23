@@ -1,24 +1,23 @@
 ---
 title: "Götter gegen Steaks"
 date: "2007-04-03"
-datetime: "2007-04-03 11:14:39"
+published_at: "2007-04-03T10:14:39Z"
 id: "49"
 slug: "goetter-gegen-steaks"
-url: "https://eay.cc/2007/goetter-gegen-steaks/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2007/goetter-gegen-steaks/"
+author: "Stefan Grund"
+format: "standard"
 tags:
-  - album
-  - beatsteaks
-  - eayzlies
-  - gods-of-blitz
-  - konsum
-  - musik
-meta:
-  - yourls_shorturl: "https://eay.li/6h"
+  - "album"
+  - "beatsteaks"
+  - "eayzlies"
+  - "gods of blitz"
+  - "konsum"
+  - "musik"
+short_url: "https://eay.li/6h"
 ---
 
-![](/uploads/2007/godssteaks.jpg)Ich habe mir, wie ja schon [lange angekündigt](//eay.cc/2007/neue-platten-braucht-der-schrank/), am vergangenen Erscheinungsfreitag die neuen Alben der [Gods of Blitz](http://www.godsofblitz.com/) und der [Beatsteaks](http://www.beatsteaks.org/) gekauft. Zwei CDs, zwei Berliner Bands, ein Fan: ich. Mir scheint's als wäre es Zeit für einen Ersteindruck. Nun denn...
+![](https://eay.cc/uploads/2007/godssteaks.jpg)Ich habe mir, wie ja schon [lange angekündigt](https://eay.cc/2007/neue-platten-braucht-der-schrank/), am vergangenen Erscheinungsfreitag die neuen Alben der [Gods of Blitz](http://www.godsofblitz.com/) und der [Beatsteaks](http://www.beatsteaks.org/) gekauft. Zwei CDs, zwei Berliner Bands, ein Fan: ich. Mir scheint's als wäre es Zeit für einen Ersteindruck. Nun denn...
 
 Sowohl [Reporting a Mirage](http://www.amazon.de/exec/obidos/ASIN/B000NJLXEA/eayznet-21) von den Gods of Blitz als auch [Limbo Messiah](http://www.amazon.de/exec/obidos/ASIN/B000NVLF0K/eayznet-21) von den Beatsteaks sind etwas über eine halbe Stunde lang. Und es gibt feinsten Alternative-Rock, hier wie da. Sprich: beide Platten sind gut und können, wenn man auf deren Musik steht, ohne weiteres gekauft werden. Da die neuen Songs der Beatsteaks wie gesagt gut, aber weniger Ohrwurm- charakter haben als noch auf [Living Targets](http://www.amazon.de/exec/obidos/ASIN/B00005UBHO/eayznet-21) und vor allem [Smack Smash](http://www.amazon.de/exec/obidos/ASIN/B0001GQT3A/eayznet-21), und die Gods of Blitz mit dem neuen Album nicht ganz "ihr Rad" neu erfinden wollen, sondern wunderbar an meine [Lieblingsplatte 2005](http://www.amazon.de/exec/obidos/ASIN/B000B0QSXC/eayznet-21) anschliessen, gefällt mir Reporting a Mirage im Moment einen Ticken besser. Aber das muss jeder für sich selbst entscheiden. Und gewiss ist, dass die Beatsteaks sobald man sie live gesehen hat, noch mehr gefallen.
 

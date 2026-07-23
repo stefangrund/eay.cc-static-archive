@@ -1,20 +1,19 @@
 ---
 title: "Your favorite tumblr for the next 5 minutes (48): Cats on Synthesizers in Space"
 date: "2017-04-02"
-datetime: "2017-04-02 22:18:04"
+published_at: "2017-04-02T21:18:04Z"
 id: "32341"
 slug: "your-favorite-tumblr-for-the-next-5-minutes-48-cats-on-synthesizers-in-space"
-url: "https://eay.cc/2017/your-favorite-tumblr-for-the-next-5-minutes-48-cats-on-synthesizers-in-space/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2017/your-favorite-tumblr-for-the-next-5-minutes-48-cats-on-synthesizers-in-space/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - bizarres
-  - katzencontent
-  - your-favorite-tumblr-for-the-next-5-minutes
-meta:
-  - yourls_shorturl: "https://eay.li/2xd"
+  - "bizarres"
+  - "katzencontent"
+  - "your favorite tumblr for the next 5 minutes"
+short_url: "https://eay.li/2xd"
 ---
 
 ![](https://eay.cc/uploads/2017/cats-on-synthesizers-in-space.jpg)

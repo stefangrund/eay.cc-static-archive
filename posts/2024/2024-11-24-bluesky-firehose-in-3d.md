@@ -1,29 +1,30 @@
 ---
 title: "Bluesky Firehose in 3D"
 date: "2024-11-24"
-datetime: "2024-11-24 08:00:12"
+published_at: "2024-11-24T07:00:12Z"
 id: "40037"
 slug: "bluesky-firehose-in-3d"
-url: "https://eay.cc/2024/bluesky-firehose-in-3d/"
-author: "eay"
+permalink: "https://eay.cc/2024/bluesky-firehose-in-3d/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - 3d
-  - bluesky
-  - mashup
-  - netzkultur
-  - social-web
-meta:
-  - linked_list_url: "https://firehose3d.theo.io/"
-  - geo_latitude: "50.973848"
-  - geo_longitude: "6.682986"
-  - geo_public: "1"
-  - yourls_shorturl: "https://eay.li/3t9"
-  - _share_on_mastodon_url: "https://eay.social/@eay/113536638511728565"
-  - content_copy: "https://bsky.app/profile/eay.social/post/3lboipl2iq22o"
+  - "3d"
+  - "bluesky"
+  - "mashup"
+  - "netzkultur"
+  - "social web"
+external_url: "https://firehose3d.theo.io/"
+short_url: "https://eay.li/3t9"
+content_copy:
+  - "https://bsky.app/profile/eay.social/post/3lboipl2iq22o"
+  - "https://eay.social/@eay/113536638511728565"
+geo_latitude: "50.973848"
+geo_longitude: "6.682986"
 ---
+
+[Link →](https://firehose3d.theo.io/)
 
 ![Screenshot des Bluesky Firehose in 3D](https://eay.cc/uploads/2024/bluesky-firehose-3d.png)
 

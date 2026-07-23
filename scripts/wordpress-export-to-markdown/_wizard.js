@@ -67,13 +67,6 @@ const options = [
     type: 'boolean',
     description: 'Save images scraped from post body content',
     default: true
-  },
-  {
-    name: 'ignore-meta-keys',
-    aliases: ['ignoremetakeys'],
-    type: 'string',
-    description: 'Comma-separated list of meta keys to ignore in frontmatter',
-    default: ''
   }
 ]
 
@@ -127,11 +120,6 @@ function loadConfigFile () {
       console.log('Loading config from wordpress-export-config.json...')
       const configContent = fs.readFileSync(configPath, 'utf8')
       const config = JSON.parse(configContent)
-      
-      // Convert ignoreMetaKeys array to comma-separated string if it's an array
-      if (config.ignoreMetaKeys && Array.isArray(config.ignoreMetaKeys)) {
-        config.ignoreMetaKeys = config.ignoreMetaKeys.join(',')
-      }
       
       return config
     }

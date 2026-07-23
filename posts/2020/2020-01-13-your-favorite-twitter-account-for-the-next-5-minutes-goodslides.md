@@ -1,26 +1,27 @@
 ---
 title: "Your favorite Twitter account for the next 5 minutes: @GoodSlides"
 date: "2020-01-13"
-datetime: "2020-01-13 20:40:56"
+published_at: "2020-01-13T19:40:56Z"
 id: "36128"
 slug: "your-favorite-twitter-account-for-the-next-5-minutes-goodslides"
-url: "https://eay.cc/2020/your-favorite-twitter-account-for-the-next-5-minutes-goodslides/"
-author: "eay"
+permalink: "https://eay.cc/2020/your-favorite-twitter-account-for-the-next-5-minutes-goodslides/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - bizarres
-  - business
-  - twitter
-meta:
-  - linked_list_url: "https://twitter.com/GoodSlides"
-  - yourls_shorturl: "https://eay.li/3cc"
-  - content_copy: "https://twitter.com/eay/status/1216817190596489223"
-  - geo_latitude: "50.940677358761"
-  - geo_longitude: "6.9388882967813"
-  - geo_public: "1"
+  - "bizarres"
+  - "business"
+  - "twitter"
+external_url: "https://twitter.com/GoodSlides"
+short_url: "https://eay.li/3cc"
+content_copy:
+  - "https://twitter.com/eay/status/1216817190596489223"
+geo_latitude: "50.940677358761"
+geo_longitude: "6.9388882967813"
 ---
+
+[Link →](https://twitter.com/GoodSlides)
 
 In dem Design-affinen Business-Kontext, in dem ich meistens unterwegs bin, sind PowerPoint-Totalausfälle Gott sei dank eher die Ausnahme. Aber wenn ich mich an mein Studium zurückerinnere, waren dort grässliche Präsentationen an der Tagesordnung – von Kommilitonen, ebenso wie von Professoren.
 

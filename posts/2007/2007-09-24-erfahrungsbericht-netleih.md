@@ -1,23 +1,22 @@
 ---
 title: "Erfahrungsbericht: Video Buster / Netleih"
 date: "2007-09-24"
-datetime: "2007-09-24 16:33:34"
+published_at: "2007-09-24T14:33:34Z"
 id: "244"
 slug: "erfahrungsbericht-netleih"
-url: "https://eay.cc/2007/erfahrungsbericht-netleih/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2007/erfahrungsbericht-netleih/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - coupon
-  - dvd
-  - filme
-  - konsum
-  - leihen
-  - videothek
-meta:
-  - yourls_shorturl: "https://eay.li/yl"
+  - "coupon"
+  - "dvd"
+  - "filme"
+  - "konsum"
+  - "leihen"
+  - "videothek"
+short_url: "https://eay.li/yl"
 ---
 
 **Update, Oktober 2008:** Dieser Artikel bezog sich ursprünglich auf den DVD-Verleiher Netleih.de. Dieser wurde jedoch vor einigen Monaten in Video Buster umbenannt. Da sich jedoch noch eine Vielzahl von Lesern für diesen Erfahrungsbericht interessiert, haben wir Video Buster nochmal unserem Test unterzogen und die hier genannten Preise und Gutscheine auf den aktuellen Stand gebracht.

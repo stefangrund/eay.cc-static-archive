@@ -1,21 +1,20 @@
 ---
 title: ".gif der Woche #15"
 date: "2009-02-03"
-datetime: "2009-02-03 22:23:30"
+published_at: "2009-02-03T21:23:30Z"
 id: "5477"
 slug: "gif-der-woche-15"
-url: "https://eay.cc/2009/gif-der-woche-15/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2009/gif-der-woche-15/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - 0815
-  - the-others
+  - "08/15"
+  - "The Others"
 tags:
-  - best-of
-  - gif-der-woche
-  - star-wars
-meta:
-  - yourls_shorturl: "https://eay.li/om"
+  - "best of"
+  - "gif der woche"
+  - "star wars"
+short_url: "https://eay.li/om"
 ---
 
-![](/uploads/2009/lukeandhan.gif) "Han!" "Luke..."
+![](https://eay.cc/uploads/2009/lukeandhan.gif) "Han!" "Luke..."

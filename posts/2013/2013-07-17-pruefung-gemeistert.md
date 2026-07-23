@@ -1,17 +1,16 @@
 ---
 title: "Prüfung gemeistert"
 date: "2013-07-17"
-datetime: "2013-07-17 10:11:45"
+published_at: "2013-07-17T08:11:45Z"
 id: "25583"
 slug: "pruefung-gemeistert"
-url: "https://eay.cc/2013/pruefung-gemeistert/"
-author: "eay"
+permalink: "https://eay.cc/2013/pruefung-gemeistert/"
+author: "Stefan Grund"
 format: "status"
 tags:
-  - analogleben
-  - studium
-meta:
-  - yourls_shorturl: "https://eay.li/28e"
+  - "analogleben"
+  - "studium"
+short_url: "https://eay.li/28e"
 ---
 
 Bäm! Prüfung gemeistert. Mit Highscore.

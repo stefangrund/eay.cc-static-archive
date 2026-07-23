@@ -1,26 +1,25 @@
 ---
 title: "What if you could only use one app on your iPhone?"
 date: "2023-05-27"
-datetime: "2023-05-27 18:43:00"
+published_at: "2023-05-27T16:43:00Z"
 id: "38624"
 slug: "what-if-you-could-only-use-one-app-on-your-iphone"
-url: "https://eay.cc/2023/what-if-you-could-only-use-one-app-on-your-iphone/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2023/what-if-you-could-only-use-one-app-on-your-iphone/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - 0815
-  - english
+  - "08/15"
+  - "English"
 tags:
-  - apps
-  - best-of
-  - drafts
-  - iphone
-meta:
-  - geo_latitude: "50.973868"
-  - geo_longitude: "6.682947"
-  - geo_public: "1"
-  - yourls_shorturl: "https://eay.li/3ml"
-  - content_copy: "https://eay.social/@eay/110441681486761003"
+  - "apps"
+  - "best of"
+  - "drafts"
+  - "iphone"
+short_url: "https://eay.li/3ml"
+content_copy:
+  - "https://eay.social/@eay/110441681486761003"
+geo_latitude: "50.973868"
+geo_longitude: "6.682947"
 ---
 
 [Shawn Blanc](https://shawnblanc.net/2023/05/what-if-you-could-only-use-one-app-on-your-iphone/) picks [Things](https://culturedcode.com/things/), my favorite to-do app. [Mike Rockwell](https://initialcharge.net/2023/05/one-app-iphone/) goes with my now favorite podcast player [Pocket Casts](https://pocketcasts.com/).

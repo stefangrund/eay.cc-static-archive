@@ -1,21 +1,20 @@
 ---
 title: "Der Ausverkauf geht weiter"
 date: "2007-04-03"
-datetime: "2007-04-03 19:11:19"
+published_at: "2007-04-03T18:11:19Z"
 id: "51"
 slug: "der-ausverkauf-geht-weiter"
-url: "https://eay.cc/2007/der-ausverkauf-geht-weiter/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2007/der-ausverkauf-geht-weiter/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - blogging
-  - eayz
-  - ebay
-  - netzkultur
-meta:
-  - yourls_shorturl: "https://eay.li/po"
+  - "blogging"
+  - "eayz"
+  - "ebay"
+  - "netzkultur"
+short_url: "https://eay.li/po"
 ---
 
-Vor wenigen Minuten hat meine Lieblingsprostituierte mein Lieblingsblogger [Fabu sein Blog](http://www.struktour.de/) für satte 655 Euro an den Mann gebracht. Da frag ich mich natürlich, was eayz bringen würde? Ein Sack Kartoffeln wäre schon drin, oder? Oder gar ein Kasten Oettinger? Vielleicht sogar Kölsch? Angebote nehme ich absofort ganz öffentlich [in den Kommentaren](//eay.cc/2007/der-ausverkauf-geht-weiter/) entgegen.
+Vor wenigen Minuten hat meine Lieblingsprostituierte mein Lieblingsblogger [Fabu sein Blog](http://www.struktour.de/) für satte 655 Euro an den Mann gebracht. Da frag ich mich natürlich, was eayz bringen würde? Ein Sack Kartoffeln wäre schon drin, oder? Oder gar ein Kasten Oettinger? Vielleicht sogar Kölsch? Angebote nehme ich absofort ganz öffentlich [in den Kommentaren](https://eay.cc/2007/der-ausverkauf-geht-weiter/) entgegen.

@@ -1,24 +1,25 @@
 ---
 title: "Weitere \"A Star Wars Story\"-Spin-Offs vorerst gestoppt"
 date: "2018-06-21"
-datetime: "2018-06-21 23:55:43"
+published_at: "2018-06-21T21:55:43Z"
 id: "34687"
 slug: "weitere-a-star-wars-story-spin-offs-vorerst-gestoppt"
-url: "https://eay.cc/2018/weitere-a-star-wars-story-spin-offs-vorerst-gestoppt/"
-author: "eay"
+permalink: "https://eay.cc/2018/weitere-a-star-wars-story-spin-offs-vorerst-gestoppt/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - disney
-  - filme
-  - filmindustrie
-  - lucasfilm
-  - star-wars
-meta:
-  - linked_list_url: "http://collider.com/star-wars-spinoffs-on-hold/"
-  - yourls_shorturl: "https://eay.li/35n"
+  - "disney"
+  - "filme"
+  - "filmindustrie"
+  - "lucasfilm"
+  - "star wars"
+external_url: "http://collider.com/star-wars-spinoffs-on-hold/"
+short_url: "https://eay.li/35n"
 ---
+
+[Link →](http://collider.com/star-wars-spinoffs-on-hold/)
 
 > It may be a while before we see any more movies like Solo: A Star Wars Story out of Lucasfilm. Sources with knowledge of the situation tell Collider that Lucasfilm has decided to put plans for more A Star Wars Story spinoff movies on hold, instead opting to focus their attention on Star Wars: Episode IX and what the next trilogy of Star Wars films will be after that film.
 

@@ -1,25 +1,24 @@
 ---
 title: "Yonks als Corona-Kontakttagebuch-App"
 date: "2020-09-02"
-datetime: "2020-09-02 15:09:15"
+published_at: "2020-09-02T14:09:15Z"
 id: "36730"
 slug: "yonks-als-corona-kontakttagebuch-app"
-url: "https://eay.cc/2020/yonks-als-corona-kontakttagebuch-app/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2020/yonks-als-corona-kontakttagebuch-app/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - 0815
-  - yonks
+  - "08/15"
+  - "Yonks"
 tags:
-  - coronavirus
-  - yonks
-meta:
-  - content_copy: "https://twitter.com/eay/status/1301153355276877825"
-  - content_copy: "https://twitter.com/eay/status/1301153702351376389"
-  - yourls_shorturl: "https://eay.li/3fk"
-  - geo_latitude: "50.973796436966"
-  - geo_longitude: "6.6831272055027"
-  - geo_public: "1"
+  - "coronavirus"
+  - "yonks"
+short_url: "https://eay.li/3fk"
+content_copy:
+  - "https://twitter.com/eay/status/1301153355276877825"
+  - "https://twitter.com/eay/status/1301153702351376389"
+geo_latitude: "50.973796436966"
+geo_longitude: "6.6831272055027"
 ---
 
 ![Screenshot von Yonks als Corona-Kontakttagebuch-App](https://eay.cc/uploads/2020/yonks-corona-kontakttagebuch-app.png)

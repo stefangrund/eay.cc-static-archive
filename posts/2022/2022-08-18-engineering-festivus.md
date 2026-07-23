@@ -1,26 +1,26 @@
 ---
 title: "Engineering Festivus"
 date: "2022-08-18"
-datetime: "2022-08-18 23:39:51"
+published_at: "2022-08-18T21:39:51Z"
 id: "38030"
 slug: "engineering-festivus"
-url: "https://eay.cc/2022/engineering-festivus/"
-author: "eay"
+permalink: "https://eay.cc/2022/engineering-festivus/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - humor
-  - mashup
-  - seinfeld
-  - web-entwicklung
-meta:
-  - linked_list_url: "https://festivus.dev/"
-  - geo_latitude: "50.973882"
-  - geo_longitude: "6.683028"
-  - geo_public: "1"
-  - yourls_shorturl: "https://eay.li/3io"
+  - "humor"
+  - "mashup"
+  - "seinfeld"
+  - "web-entwicklung"
+external_url: "https://festivus.dev/"
+short_url: "https://eay.li/3io"
+geo_latitude: "50.973882"
+geo_longitude: "6.683028"
 ---
+
+[Link →](https://festivus.dev/)
 
 > The only thing 2020 needed is Seinfeld making a career change and getting into tech.
 

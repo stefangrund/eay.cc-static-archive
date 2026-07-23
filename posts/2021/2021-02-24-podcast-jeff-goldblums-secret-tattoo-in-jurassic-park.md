@@ -1,23 +1,24 @@
 ---
 title: "Podcast: Jeff Goldblum’s Secret Tattoo in »Jurassic Park«"
 date: "2021-02-24"
-datetime: "2021-02-24 12:27:30"
+published_at: "2021-02-24T11:27:30Z"
 id: "37150"
 slug: "podcast-jeff-goldblums-secret-tattoo-in-jurassic-park"
-url: "https://eay.cc/2021/podcast-jeff-goldblums-secret-tattoo-in-jurassic-park/"
-author: "eay"
+permalink: "https://eay.cc/2021/podcast-jeff-goldblums-secret-tattoo-in-jurassic-park/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - jeff-goldblum
-  - jurassic-park
-  - podcast
-  - tattoo
-meta:
-  - linked_list_url: "https://underunderstood.com/podcast/episode/jeff-goldblums-secret-tattoo-jurassic-park-ian-malcolm/"
-  - yourls_shorturl: "https://eay.li/2ku"
+  - "jeff goldblum"
+  - "jurassic park"
+  - "podcast"
+  - "tattoo"
+external_url: "https://underunderstood.com/podcast/episode/jeff-goldblums-secret-tattoo-jurassic-park-ian-malcolm/"
+short_url: "https://eay.li/2ku"
 ---
+
+[Link →](https://underunderstood.com/podcast/episode/jeff-goldblums-secret-tattoo-jurassic-park-ian-malcolm/)
 
 > A listener emails [Underunderstood](https://underunderstood.com/podcast/): “Jeff Goldblum has a tattoo in Jurrassic Park – no one noticed, no one can identify. Help!”
 

@@ -1,21 +1,20 @@
 ---
 title: "Star Wars Prequels-Recut basierend auf der Fassung von Topher Grace"
 date: "2014-05-09"
-datetime: "2014-05-09 11:23:25"
+published_at: "2014-05-09T09:23:25Z"
 id: "27900"
 slug: "star-wars-prequels-recut-basierend-auf-der-fassung-von-topher-grace"
-url: "https://eay.cc/2014/star-wars-prequels-recut-basierend-auf-der-fassung-von-topher-grace/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2014/star-wars-prequels-recut-basierend-auf-der-fassung-von-topher-grace/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - fanart
-  - filme
-  - recut
-  - star-wars
-meta:
-  - yourls_shorturl: "https://eay.li/2fk"
+  - "fanart"
+  - "filme"
+  - "recut"
+  - "star wars"
+short_url: "https://eay.li/2fk"
 ---
 
 [Jason Kottke berichtete gestern](http://kottke.org/14/05/star-wars-prequels-recut) über diesen 2 Stunden und 45 Minuten langen Recut, der auf dem 85 Minuten kurzen Prequel-Zusammenschnitt von [Topher Grace](http://www.imdb.com/name/nm0333410/) (Eric Forman aus »That '70s Show«) basiert. Hört auf den Mann:

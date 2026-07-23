@@ -1,17 +1,16 @@
 ---
 title: "MoD übernimmt!"
 date: "2007-08-23"
-datetime: "2007-08-23 15:19:07"
+published_at: "2007-08-23T13:19:07Z"
 id: "211"
 slug: "mod-ubernimmt"
-url: "https://eay.cc/2007/mod-ubernimmt/"
+permalink: "https://eay.cc/2007/mod-ubernimmt/"
 author: "MoD"
-format: "post"
+format: "standard"
 tags:
-  - eayz
-  - kotaffchen
-meta:
-  - yourls_shorturl: "https://eay.li/y6"
+  - "eayz"
+  - "kotäffchen"
+short_url: "https://eay.li/y6"
 ---
 
 Hallo, ich bin MoD.

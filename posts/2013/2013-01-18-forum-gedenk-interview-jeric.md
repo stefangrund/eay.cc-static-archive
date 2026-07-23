@@ -1,22 +1,21 @@
 ---
 title: "Forum-Gedenk-Interview: JeriC"
 date: "2013-01-18"
-datetime: "2013-01-18 17:58:51"
+published_at: "2013-01-18T16:58:51Z"
 id: "21844"
 slug: "forum-gedenk-interview-jeric"
-url: "https://eay.cc/2013/forum-gedenk-interview-jeric/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2013/forum-gedenk-interview-jeric/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - forum
-  - forum-gedenk-interview
-meta:
-  - yourls_shorturl: "https://eay.li/1ro"
+  - "forum"
+  - "forum-gedenk-interview"
+short_url: "https://eay.li/1ro"
 ---
 
-Vor ziemlich genau fünf Jahren wurde das eayz.net Forum geschlossen, das bis dahin einer kleinen, aber außerordentlich feinen Community ein digitales Dach über dem Kopf bot. [Im Gedenken ans Forum](//eay.cc/2013/remembering-das-forum/) habe ich mich gefragt, was die Leute, die hier damals zum Mobiliar gehörten, heute eigentlich so machen. Ein paar Emails später hatte ich dankenswerterweise einige interessante Antworten zusammen. [Unter anderem](//eay.cc/tag/forum-gedenk-interview/) von JeriC, der mit bürgerlichem Namen Jan heißt und das Kunststück vollbrachte, obwohl er erst später zum Forum dazukam, tatsächlich ein Teil dieser eingeschworenen Gemeinschaft mit ihren eigenen, bizarren Regeln zu werden.
+Vor ziemlich genau fünf Jahren wurde das eayz.net Forum geschlossen, das bis dahin einer kleinen, aber außerordentlich feinen Community ein digitales Dach über dem Kopf bot. [Im Gedenken ans Forum](https://eay.cc/2013/remembering-das-forum/) habe ich mich gefragt, was die Leute, die hier damals zum Mobiliar gehörten, heute eigentlich so machen. Ein paar Emails später hatte ich dankenswerterweise einige interessante Antworten zusammen. [Unter anderem](https://eay.cc/tag/forum-gedenk-interview/) von JeriC, der mit bürgerlichem Namen Jan heißt und das Kunststück vollbrachte, obwohl er erst später zum Forum dazukam, tatsächlich ein Teil dieser eingeschworenen Gemeinschaft mit ihren eigenen, bizarren Regeln zu werden.
 
 ![](https://eay.cc/uploads/2013/forum_interview_jeric.jpg)
 

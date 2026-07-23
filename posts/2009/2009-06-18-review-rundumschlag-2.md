@@ -1,22 +1,21 @@
 ---
 title: "Review-Rundumschlag #2 (Twitter-Edition)"
 date: "2009-06-18"
-datetime: "2009-06-18 12:02:10"
+published_at: "2009-06-18T10:02:10Z"
 id: "7701"
 slug: "review-rundumschlag-2"
-url: "https://eay.cc/2009/review-rundumschlag-2/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2009/review-rundumschlag-2/"
+author: "Stefan Grund"
+format: "standard"
 tags:
-  - filme
-  - kinolog
-  - twitter
-  - twitter-review
-meta:
-  - yourls_shorturl: "https://eay.li/x9"
+  - "filme"
+  - "kinolog"
+  - "twitter"
+  - "twitter review"
+short_url: "https://eay.li/x9"
 ---
 
-Da ich zuletzt nicht immer die Zeit gefunden habe, ausführliche Film-Reviews zu verfassen, habe ich einige in 140 Zeichen gepresst und [zu Twitter](http://twitter.com/Eay) ausgelagert. Auch in Zukunft kann das immer mal wieder vorkommen, grundsätzlich werde ich aber weiterhin versuchen, fleißig das [Kinolog](//eay.cc/themen/kinolog/) zu befüllen. Kurzreviews die ihr bisher eventuell verpasst habt:
+Da ich zuletzt nicht immer die Zeit gefunden habe, ausführliche Film-Reviews zu verfassen, habe ich einige in 140 Zeichen gepresst und [zu Twitter](http://twitter.com/Eay) ausgelagert. Auch in Zukunft kann das immer mal wieder vorkommen, grundsätzlich werde ich aber weiterhin versuchen, fleißig das [Kinolog](https://eay.cc/themen/kinolog/) zu befüllen. Kurzreviews die ihr bisher eventuell verpasst habt:
 
 ![](https://eay.cc/uploads/2009/trauzeugegesucht.jpg) **Trauzeuge gesucht**: Paul Rudd sucht einen besten Freund und findet Jason Segel. Genau der Film, den man sich erhofft. [EMDb](http://eay.cc/emdb/)-Rating: 3/5 [#](http://twitter.com/Eay/status/2220355450)
 

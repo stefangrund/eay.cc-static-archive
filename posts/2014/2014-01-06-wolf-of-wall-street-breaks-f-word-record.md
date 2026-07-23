@@ -1,24 +1,25 @@
 ---
 title: "\"Wolf of Wall Street\" breaks F-word record"
 date: "2014-01-06"
-datetime: "2014-01-06 21:40:22"
+published_at: "2014-01-06T20:40:22Z"
 id: "26713"
 slug: "wolf-of-wall-street-breaks-f-word-record"
-url: "https://eay.cc/2014/wolf-of-wall-street-breaks-f-word-record/"
-author: "eay"
+permalink: "https://eay.cc/2014/wolf-of-wall-street-breaks-f-word-record/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - filme
-  - funfacts
-meta:
-  - linked_list_url: "http://variety.com/2014/film/news/wolf-of-wall-street-breaks-f-word-record-1201022655/"
-  - yourls_shorturl: "https://eay.li/2bf"
+  - "filme"
+  - "funfacts"
+external_url: "http://variety.com/2014/film/news/wolf-of-wall-street-breaks-f-word-record-1201022655/"
+short_url: "https://eay.li/2bf"
 ---
+
+[Link →](http://variety.com/2014/film/news/wolf-of-wall-street-breaks-f-word-record-1201022655/)
 
 > According to Wikipedia, the word âfuckâ is used 506 times over âThe Wolf of Wall Street´sâ 180-minute running time. Previously, the record for a non-documentary was Spike Lee´s 1999 film Summer of Sam with 435 instances.
 
 Freue mich schon auf [den Film](http://www.imdb.com/title/tt0993846/). Und den Supercut. (via [MG Siegler](http://parislemon.com/post/72411834511/wolf-of-wall-street-breaks-f-word-record))
 
-**Update, 12.01.2014:** Hier ist er nun, [der Fuck-Supercut](//eay.cc/2014/the-wolf-of-wall-street-fuck-supercut/) mit sogar 522 Fucks.
+**Update, 12.01.2014:** Hier ist er nun, [der Fuck-Supercut](https://eay.cc/2014/the-wolf-of-wall-street-fuck-supercut/) mit sogar 522 Fucks.

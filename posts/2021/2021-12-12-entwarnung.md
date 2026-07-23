@@ -1,18 +1,17 @@
 ---
 title: "Entwarnung"
 date: "2021-12-12"
-datetime: "2021-12-12 10:00:10"
+published_at: "2021-12-12T09:00:10Z"
 id: "37705"
 slug: "entwarnung"
-url: "https://eay.cc/2021/entwarnung/"
-author: "eay"
+permalink: "https://eay.cc/2021/entwarnung/"
+author: "Stefan Grund"
 format: "aside"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - xkcd
-meta:
-  - yourls_shorturl: "https://eay.li/2zy"
+  - "xkcd"
+short_url: "https://eay.li/2zy"
 ---
 
 [![](https://eay.cc/uploads/2021/steering-wheels.png)](https://xkcd.com/2551/)

@@ -1,22 +1,21 @@
 ---
 title: "Die Zukunft des Internets"
 date: "2013-12-30"
-datetime: "2013-12-30 14:57:07"
+published_at: "2013-12-30T13:57:07Z"
 id: "26619"
 slug: "die-zukunft-des-internets"
-url: "https://eay.cc/2013/die-zukunft-des-internets/"
-author: "eay"
+permalink: "https://eay.cc/2013/die-zukunft-des-internets/"
+author: "Stefan Grund"
 format: "quote"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - netzkultur
-  - nsa
-  - technologie
-  - ueberwachung
-  - zukunft
-meta:
-  - yourls_shorturl: "https://eay.li/2b6"
+  - "netzkultur"
+  - "nsa"
+  - "technologie"
+  - "überwachung"
+  - "zukunft"
+short_url: "https://eay.li/2b6"
 ---
 
 > Es ist noch nicht entschieden, ob das Internet ein Werkzeug für Freiheit und Demokratie ist oder ob es sich zum schlimmsten Mittel der Repression in der Menschheitsgeschichte entwickelt.

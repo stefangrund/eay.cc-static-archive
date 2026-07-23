@@ -1,23 +1,22 @@
 ---
 title: "Das Beste an Windows 95"
 date: "2012-01-07"
-datetime: "2012-01-07 15:41:38"
+published_at: "2012-01-07T14:41:38Z"
 id: "18278"
 slug: "das-beste-an-windows-95"
-url: "https://eay.cc/2012/das-beste-an-windows-95/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2012/das-beste-an-windows-95/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - buddy-holly
-  - musikvideo
-  - weezer
-  - windows
-meta:
-  - yourls_shorturl: "https://eay.li/1ed"
+  - "buddy holly"
+  - "musikvideo"
+  - "weezer"
+  - "windows"
+short_url: "https://eay.li/1ed"
 ---
 
 war, dass auf der Installations-CD das Video von Weezers "Buddy Holly" drauf war.
 
-[youtube id="kemivUKb4f4"]
+\[youtube id="kemivUKb4f4"\]

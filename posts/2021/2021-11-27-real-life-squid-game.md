@@ -1,26 +1,24 @@
 ---
 title: "Real Life »Squid Game«"
 date: "2021-11-27"
-datetime: "2021-11-27 09:46:39"
+published_at: "2021-11-27T08:46:39Z"
 id: "37667"
 slug: "real-life-squid-game"
-url: "https://eay.cc/2021/real-life-squid-game/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2021/real-life-squid-game/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - fanart
-  - netflix
-  - squid-game
-meta:
-  - geo_latitude: "50.973806"
-  - geo_longitude: "6.683046"
-  - geo_public: "1"
-  - yourls_shorturl: "https://eay.li/2ys"
+  - "fanart"
+  - "netflix"
+  - "squid game"
+short_url: "https://eay.li/2ys"
+geo_latitude: "50.973806"
+geo_longitude: "6.683046"
 ---
 
-[youtube id="0e3GPea1Tyg"]
+\[youtube id="0e3GPea1Tyg"\]
 
 [MrBeast](https://youtube.com/c/MrBeast6000), ein YouTuber, der offensichtlich eine Karriere darauf aufgebaut hat, Menschen große Geldsummen zu schenken, und von dessen Existenz ich bis zum [»Squid Game«-Podcast von Sascha und Lucas](https://www.pewpewpew.de/2021/10/18/pewcast-080-squid-game/) zugegebenermaßen noch nie gehört habe, hat die Netflix-Erfolgsserie »Squid Game« nachgestellt.
 

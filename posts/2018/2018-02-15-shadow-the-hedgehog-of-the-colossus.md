@@ -1,24 +1,23 @@
 ---
 title: "Shadow the Hedgehog of the Colossus"
 date: "2018-02-15"
-datetime: "2018-02-15 11:19:06"
+published_at: "2018-02-15T10:19:06Z"
 id: "34184"
 slug: "shadow-the-hedgehog-of-the-colossus"
-url: "https://eay.cc/2018/shadow-the-hedgehog-of-the-colossus/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2018/shadow-the-hedgehog-of-the-colossus/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - fanart
-  - games
-  - mashup
-  - sonic
-meta:
-  - yourls_shorturl: "https://eay.li/33q"
+  - "fanart"
+  - "games"
+  - "mashup"
+  - "sonic"
+short_url: "https://eay.li/33q"
 ---
 
-[youtube id="UrNZ6zKabKU"]
+\[youtube id="UrNZ6zKabKU"\]
 
 > By juxtaposing Shadow of the Colossus with Shadow the Hedgehog, this piece asks the viewer to think critically about the elements that identify a piece as "high art."
 

@@ -1,25 +1,26 @@
 ---
 title: "\"Danke für nichts, Frau Merkel.\""
 date: "2017-06-28"
-datetime: "2017-06-28 13:40:53"
+published_at: "2017-06-28T11:40:53Z"
 id: "33185"
 slug: "danke-fuer-nichts-frau-merkel"
-url: "https://eay.cc/2017/danke-fuer-nichts-frau-merkel/"
-author: "eay"
+permalink: "https://eay.cc/2017/danke-fuer-nichts-frau-merkel/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - angela-merkel
-  - cdu
-  - deutschland
-  - diskriminierung
-  - homosexualitaet
-  - politik
-meta:
-  - linked_list_url: "http://frank-stauss.de/index.php/verdruckst-verlogen-und-verzockt/"
-  - yourls_shorturl: "https://eay.li/2zv"
+  - "angela merkel"
+  - "cdu"
+  - "deutschland"
+  - "diskriminierung"
+  - "homosexualität"
+  - "politik"
+external_url: "http://frank-stauss.de/index.php/verdruckst-verlogen-und-verzockt/"
+short_url: "https://eay.li/2zv"
 ---
+
+[Link →](http://frank-stauss.de/index.php/verdruckst-verlogen-und-verzockt/)
 
 [Frank Stauss](http://frank-stauss.de/), Politologe, Werber und Wahlkämpfer, über Merkels "Vorstoß" in der Gleichstellung der Ehe für homosexuelle Paare:
 

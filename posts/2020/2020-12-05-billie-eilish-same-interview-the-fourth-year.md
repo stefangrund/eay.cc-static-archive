@@ -1,24 +1,23 @@
 ---
 title: "Billie Eilish: Same Interview, The Fourth Year"
 date: "2020-12-05"
-datetime: "2020-12-05 10:30:04"
+published_at: "2020-12-05T09:30:04Z"
 id: "36855"
 slug: "billie-eilish-same-interview-the-fourth-year"
-url: "https://eay.cc/2020/billie-eilish-same-interview-the-fourth-year/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2020/billie-eilish-same-interview-the-fourth-year/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - billie-eilish
-  - coronavirus
-  - interview
-  - musik
-meta:
-  - yourls_shorturl: "https://eay.li/3g9"
+  - "billie eilish"
+  - "coronavirus"
+  - "interview"
+  - "musik"
+short_url: "https://eay.li/3g9"
 ---
 
-[youtube id="hS2x1zl4rn0"]
+\[youtube id="hS2x1zl4rn0"\]
 
 > Vanity Fair has time capsuled Billie Eilish’s responses to the same questions for the last four years and tracked the now-18-year-old star's swift rise to pop super stardom.
 

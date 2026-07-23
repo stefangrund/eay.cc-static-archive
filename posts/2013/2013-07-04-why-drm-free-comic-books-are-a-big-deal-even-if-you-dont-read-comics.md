@@ -1,24 +1,25 @@
 ---
 title: "Why DRM-free comic books are a big deal, even if you don´t read comics"
 date: "2013-07-04"
-datetime: "2013-07-04 23:01:12"
+published_at: "2013-07-04T21:01:12Z"
 id: "23608"
 slug: "why-drm-free-comic-books-are-a-big-deal-even-if-you-dont-read-comics"
-url: "https://eay.cc/2013/why-drm-free-comic-books-are-a-big-deal-even-if-you-dont-read-comics/"
-author: "eay"
+permalink: "https://eay.cc/2013/why-drm-free-comic-books-are-a-big-deal-even-if-you-dont-read-comics/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - comics
-  - drm
-  - image
-  - monetarisierung
-  - piraterie
-meta:
-  - linked_list_url: "http://arstechnica.com/staff/2013/07/why-drm-free-comic-books-are-a-big-deal-even-if-you-dont-read-comics/"
-  - yourls_shorturl: "https://eay.li/24t"
+  - "comics"
+  - "drm"
+  - "image"
+  - "monetarisierung"
+  - "piraterie"
+external_url: "http://arstechnica.com/staff/2013/07/why-drm-free-comic-books-are-a-big-deal-even-if-you-dont-read-comics/"
+short_url: "https://eay.li/24t"
 ---
+
+[Link →](http://arstechnica.com/staff/2013/07/why-drm-free-comic-books-are-a-big-deal-even-if-you-dont-read-comics/)
 
 Image hat vorgestern erfreulicherweise angekündigt, die hauseigenen Digitalcomics, fortan DRM-frei in den gängigsten Formaten zu verkaufen:
 

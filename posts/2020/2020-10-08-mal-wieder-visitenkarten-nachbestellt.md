@@ -1,23 +1,23 @@
 ---
 title: "Visitenkarten nachbestellt."
 date: "2020-10-08"
-datetime: "2020-10-08 13:26:06"
+published_at: "2020-10-08T12:26:06Z"
 id: "36789"
 slug: "mal-wieder-visitenkarten-nachbestellt"
-url: "https://eay.cc/2020/mal-wieder-visitenkarten-nachbestellt/"
-author: "eay"
+permalink: "https://eay.cc/2020/mal-wieder-visitenkarten-nachbestellt/"
+author: "Stefan Grund"
 format: "image"
 categories:
-  - 0815
-  - hypercode
+  - "08/15"
+  - "Hypercode"
 tags:
-  - fotos
-  - hypercode
-  - serious-business-eay
-meta:
-  - content_copy: "https://www.instagram.com/p/CGFQNIPnyUh/"
-  - content_copy: "https://twitter.com/eay/status/1314176911778689028"
-  - yourls_shorturl: "https://eay.li/3fv"
+  - "fotos"
+  - "hypercode"
+  - "serious business eay"
+short_url: "https://eay.li/3fv"
+content_copy:
+  - "https://www.instagram.com/p/CGFQNIPnyUh/"
+  - "https://twitter.com/eay/status/1314176911778689028"
 ---
 
 ![Hypercode Visitenkarten](https://eay.cc/uploads/2020/visitenkarten.jpeg)

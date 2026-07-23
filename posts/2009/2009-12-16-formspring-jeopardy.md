@@ -1,30 +1,29 @@
 ---
 title: "Formspring-Jeopardy!"
 date: "2009-12-16"
-datetime: "2009-12-16 13:15:06"
+published_at: "2009-12-16T12:15:06Z"
 id: "10454"
 slug: "formspring-jeopardy"
-url: "https://eay.cc/2009/formspring-jeopardy/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2009/formspring-jeopardy/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - 90er
-  - best-of
-  - fernsehen
-  - jeoparty
-  - netzkultur
-  - output
-meta:
-  - yourls_shorturl: "https://eay.li/bh"
+  - "90er"
+  - "best of"
+  - "fernsehen"
+  - "jeoparty"
+  - "netzkultur"
+  - "output"
+short_url: "https://eay.li/bh"
 ---
 
 Zur Zeit geht eine Seuche durch die Blogosphäre. Eine Seuche, die alle infiziert, die schon immer mal ein Interview geben wollten, bisher aber nie um eins gebeten wurden. Eine Seuche namens [formspring.me](http://www.formspring.me/)!
 
 Da die dort hinterlassenen Fragen und Antworten aber eigentlich niemanden außer Fragensteller und Beantworter interessieren, ist das ganze irgendwie platt. Also dachte ich mir, drehen wir den Spieß um und spielen kurzerhand eine Runde [Jeopardy](http://de.wikipedia.org/wiki/Jeopardy) (für die Kids: das ist so eine 90er-Jahre-Quizshow, bei der die Kandidaten Antworten vorgegeben bekamen und darauf die richtigen Fragen stellen mussten).
 
-[youtube id="vXGhvoekY44"]
+\[youtube id="vXGhvoekY44"\]
 
 In diesem Sinne schnell die obige, weltbekannte "[Think Music](http://www.youtube.com/watch?v=vXGhvoekY44)" anwerfen und auf [formspring.me/eay](http://www.formspring.me/eay) eure Antwort hinterlassen. Ich versuche dann eine möglichst spektakuläre Frage dazu zu finden. Verstanden?
 

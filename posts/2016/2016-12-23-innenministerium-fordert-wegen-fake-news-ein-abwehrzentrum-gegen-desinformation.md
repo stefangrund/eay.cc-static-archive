@@ -1,25 +1,26 @@
 ---
 title: "Innenministerium fordert wegen Fake-News ein \"Abwehrzentrum gegen Desinformation\""
 date: "2016-12-23"
-datetime: "2016-12-23 08:41:02"
+published_at: "2016-12-23T06:41:02Z"
 id: "31872"
 slug: "innenministerium-fordert-wegen-fake-news-ein-abwehrzentrum-gegen-desinformation"
-url: "https://eay.cc/2016/innenministerium-fordert-wegen-fake-news-ein-abwehrzentrum-gegen-desinformation/"
-author: "eay"
+permalink: "https://eay.cc/2016/innenministerium-fordert-wegen-fake-news-ein-abwehrzentrum-gegen-desinformation/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - bildung
-  - deutschland
-  - facebook
-  - nachrichten
-  - politik
-  - social-web
-meta:
-  - linked_list_url: "http://www.turi2.de/aktuell/fake-news-innenministerium-fordert-abwehrzentrum/"
-  - yourls_shorturl: "https://eay.li/2vs"
+  - "bildung"
+  - "deutschland"
+  - "facebook"
+  - "nachrichten"
+  - "politik"
+  - "social web"
+external_url: "http://www.turi2.de/aktuell/fake-news-innenministerium-fordert-abwehrzentrum/"
+short_url: "https://eay.li/2vs"
 ---
+
+[Link →](http://www.turi2.de/aktuell/fake-news-innenministerium-fordert-abwehrzentrum/)
 
 “Abwehrzentrum gegen Desinformation” ist wohl Neusprech für “Wahrheitsministerium”.
 

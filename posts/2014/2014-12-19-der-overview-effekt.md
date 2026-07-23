@@ -1,21 +1,20 @@
 ---
 title: "Der Overview-Effekt"
 date: "2014-12-19"
-datetime: "2014-12-19 19:35:49"
+published_at: "2014-12-19T18:35:49Z"
 id: "29563"
 slug: "der-overview-effekt"
-url: "https://eay.cc/2014/der-overview-effekt/"
-author: "eay"
+permalink: "https://eay.cc/2014/der-overview-effekt/"
+author: "Stefan Grund"
 format: "quote"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - fotografie
-  - raumfahrt
-  - umweltschutz
-  - weltall
-meta:
-  - yourls_shorturl: "https://eay.li/2lr"
+  - "fotografie"
+  - "raumfahrt"
+  - "umweltschutz"
+  - "weltall"
+short_url: "https://eay.li/2lr"
 ---
 
 > Once a photograph of the Earth, taken from the outside, is available... a new idea as powerful as any in history will be let loose.

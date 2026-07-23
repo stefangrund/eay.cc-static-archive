@@ -1,22 +1,23 @@
 ---
 title: "The Keyword"
 date: "2016-10-02"
-datetime: "2016-10-02 03:09:08"
+published_at: "2016-10-02T01:09:08Z"
 id: "31746"
 slug: "the-keyword"
-url: "https://eay.cc/2016/the-keyword/"
-author: "eay"
+permalink: "https://eay.cc/2016/the-keyword/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - blogging
-  - google
-  - netzkultur
-meta:
-  - linked_list_url: "https://blog.google/"
-  - yourls_shorturl: "https://eay.li/2v6"
+  - "blogging"
+  - "google"
+  - "netzkultur"
+external_url: "https://blog.google/"
+short_url: "https://eay.li/2v6"
 ---
+
+[Link →](https://blog.google/)
 
 Google hat ein neues, schön umgesetztes Blog namens "The Keyword", in dem sie fortan all ihre Blogs vereinen.
 

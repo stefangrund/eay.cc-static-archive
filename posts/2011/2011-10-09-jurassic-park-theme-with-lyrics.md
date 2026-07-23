@@ -1,27 +1,26 @@
 ---
 title: "Jurassic Park Theme (with Lyrics)"
 date: "2011-10-09"
-datetime: "2011-10-09 14:37:31"
+published_at: "2011-10-09T12:37:31Z"
 id: "17416"
 slug: "jurassic-park-theme-with-lyrics"
-url: "https://eay.cc/2011/jurassic-park-theme-with-lyrics/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2011/jurassic-park-theme-with-lyrics/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - 0815
-  - the-others
+  - "08/15"
+  - "The Others"
 tags:
-  - bizarres
-  - dinosaurier
-  - fanart
-  - filme
-  - jurassic-park
-  - musik
-  - theme
-meta:
-  - yourls_shorturl: "https://eay.li/1bp"
+  - "bizarres"
+  - "dinosaurier"
+  - "fanart"
+  - "filme"
+  - "jurassic park"
+  - "musik"
+  - "theme"
+short_url: "https://eay.li/1bp"
 ---
 
-[youtube id="G6fdywQlmaY"]
+\[youtube id="G6fdywQlmaY"\]
 
 Internetvideowitzler (tolle Berufsbezeichnung, oder?) [Brett Domino](http://www.brettdomino.com/) hat John Williams' - wie er selbst sagt - exzellenten Score zu Steven Spielbergs exzellentem Film um lustige Lyrics erweitert. Und einen fantastisch dreinschauenden Keyboarder an seine Seite gestellt. Mehr müsst ihr nicht wissen. (via [Fünf Filmfreunde](http://www.fuenf-filmfreunde.de/2011/10/07/jurassic-park-theme-with-lyrics/))

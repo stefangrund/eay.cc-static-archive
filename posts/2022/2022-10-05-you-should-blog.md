@@ -1,21 +1,19 @@
 ---
 title: "You should blog."
 date: "2022-10-05"
-datetime: "2022-10-05 21:23:18"
+published_at: "2022-10-05T19:23:18Z"
 id: "38127"
 slug: "you-should-blog"
-url: "https://eay.cc/2022/you-should-blog/"
-author: "eay"
+permalink: "https://eay.cc/2022/you-should-blog/"
+author: "Stefan Grund"
 format: "aside"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - blogging
-meta:
-  - geo_latitude: "50.973818"
-  - geo_longitude: "6.683085"
-  - geo_public: "1"
-  - yourls_shorturl: "https://eay.li/3jc"
+  - "blogging"
+short_url: "https://eay.li/3jc"
+geo_latitude: "50.973818"
+geo_longitude: "6.683085"
 ---
 
 > You should blog. Yes, you. It's really easy to get started. Use whatever platform you want. And you can subscribe to all your friends' updates too.

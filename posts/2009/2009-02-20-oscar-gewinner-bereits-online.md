@@ -1,21 +1,20 @@
 ---
 title: "Oscar-Gewinner bereits online (?)"
 date: "2009-02-20"
-datetime: "2009-02-20 12:27:47"
+published_at: "2009-02-20T11:27:47Z"
 id: "5728"
 slug: "oscar-gewinner-bereits-online"
-url: "https://eay.cc/2009/oscar-gewinner-bereits-online/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2009/oscar-gewinner-bereits-online/"
+author: "Stefan Grund"
+format: "standard"
 tags:
-  - fake
-  - filme
-  - geruechte
-  - netzkultur
-  - oscar-gewinner
-  - oscars
-meta:
-  - yourls_shorturl: "https://eay.li/jb"
+  - "fake"
+  - "filme"
+  - "gerüchte"
+  - "netzkultur"
+  - "oscar-gewinner"
+  - "oscars"
+short_url: "https://eay.li/jb"
 ---
 
 > Dear Academy of Motion Picture Arts and Science Officers, [This](http://img3.imageshack.us/img3/4782/1235075752496jc8.png) is the final list of winners of the 81st Annual Academy Awards. **As always, please treat this information with extreme care.**

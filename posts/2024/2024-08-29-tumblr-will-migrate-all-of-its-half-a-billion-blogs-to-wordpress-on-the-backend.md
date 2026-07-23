@@ -1,31 +1,29 @@
 ---
 title: "Tumblr will migrate all of it's half a billion blogs to WordPress on the backend"
 date: "2024-08-29"
-datetime: "2024-08-29 06:50:23"
+published_at: "2024-08-29T04:50:23Z"
 id: "39789"
 slug: "tumblr-will-migrate-all-of-its-half-a-billion-blogs-to-wordpress-on-the-backend"
-url: "https://eay.cc/2024/tumblr-will-migrate-all-of-its-half-a-billion-blogs-to-wordpress-on-the-backend/"
-author: "eay"
+permalink: "https://eay.cc/2024/tumblr-will-migrate-all-of-its-half-a-billion-blogs-to-wordpress-on-the-backend/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - netzkultur
-  - technologie
-  - tumblr
-  - web-entwicklung
-  - wordpress
-meta:
-  - linked_list_url: "https://automattic.com/2024/08/27/shipping-tumblr-and-wordpress/"
-  - geo_latitude: "50.97384"
-  - geo_longitude: "6.683023"
-  - geo_public: "1"
-  - yourls_shorturl: "https://eay.li/3rz"
-  - _share_on_mastodon_url: "https://eay.social/@eay/113043506770198800"
-  - linked_list_og-title: "Shipping Tumblr and WordPress"
-  - linked_list_og-description: "Since Automattic acquired Tumblr we’ve made it more efficient, grown its revenue, and worked to improve the platform. But there’s one part of the plan that we haven’t yet started, which is to run T…"
-  - linked_list_og-image: "https://eay.cc/wordpress/uploads/og-cache/64e954e4567367385ad953a72e7d914b.webp"
+  - "netzkultur"
+  - "technologie"
+  - "tumblr"
+  - "web-entwicklung"
+  - "wordpress"
+external_url: "https://automattic.com/2024/08/27/shipping-tumblr-and-wordpress/"
+short_url: "https://eay.li/3rz"
+content_copy:
+  - "https://eay.social/@eay/113043506770198800"
+geo_latitude: "50.97384"
+geo_longitude: "6.683023"
 ---
+
+[Link →](https://automattic.com/2024/08/27/shipping-tumblr-and-wordpress/)
 
 > We're not talking about _changing_ Tumblr. We're not turning Tumblr _into_ WordPress.
 

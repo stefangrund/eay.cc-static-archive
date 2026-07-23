@@ -1,31 +1,29 @@
 ---
 title: "20 Jahre Flickr"
 date: "2024-02-11"
-datetime: "2024-02-11 21:04:17"
+published_at: "2024-02-11T20:04:17Z"
 id: "39469"
 slug: "20-jahre-flickr"
-url: "https://eay.cc/2024/20-jahre-flickr/"
-author: "eay"
+permalink: "https://eay.cc/2024/20-jahre-flickr/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - flickr
-  - netzkultur
-  - social-web
-  - web-2-0
-  - webservice
-meta:
-  - linked_list_url: "https://blog.flickr.net/en/2024/02/02/20-years-of-significant-moments-in-flickrs-development/"
-  - geo_latitude: "50.973839"
-  - geo_longitude: "6.682999"
-  - geo_public: "1"
-  - yourls_shorturl: "https://eay.li/3pu"
-  - _share_on_mastodon_url: "https://eay.social/@eay/111914638287272770"
-  - linked_list_og-title: "20 Years of Significant Moments in Flickr’s Development"
-  - linked_list_og-description: "The celebration of Flickr’s 20th birthday begins today! To celebrate this huge milestone, we’re taking a trip down memory lane to explore all of the technological and structural moments…"
-  - linked_list_og-image: "https://eay.cc/wordpress/uploads/og-cache/ac90f8d328d735d74afc7a87a23397e4.webp"
+  - "flickr"
+  - "netzkultur"
+  - "social web"
+  - "web 2.0"
+  - "webservice"
+external_url: "https://blog.flickr.net/en/2024/02/02/20-years-of-significant-moments-in-flickrs-development/"
+short_url: "https://eay.li/3pu"
+content_copy:
+  - "https://eay.social/@eay/111914638287272770"
+geo_latitude: "50.973839"
+geo_longitude: "6.682999"
 ---
+
+[Link →](https://blog.flickr.net/en/2024/02/02/20-years-of-significant-moments-in-flickrs-development/)
 
 [Speaking of Stewart Butterfield](https://eay.cc/2024/slack-ist-ein-akronym/): Flickr ist gestern 20 Jahre alt geworden.
 

@@ -1,23 +1,22 @@
 ---
 title: "The Wolf of Wall Street – F-Words-Supercut"
 date: "2014-05-03"
-datetime: "2014-05-03 03:03:50"
+published_at: "2014-05-03T01:03:50Z"
 id: "27768"
 slug: "the-wolf-of-wall-street-f-words-supercut"
-url: "https://eay.cc/2014/the-wolf-of-wall-street-f-words-supercut/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2014/the-wolf-of-wall-street-f-words-supercut/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - bizarres
-  - filme
-  - supercut
-  - the-wolf-of-wall-street
-meta:
-  - yourls_shorturl: "https://eay.li/2f6"
+  - "bizarres"
+  - "filme"
+  - "supercut"
+  - "the wolf of wall street"
+short_url: "https://eay.li/2f6"
 ---
 
-Nach dem [Fuck-Supercut](//eay.cc/2014/the-wolf-of-wall-street-fuck-supercut/) hier noch der Supercut, der sämtliche Wörter mit F in »[The Wolf of Wall Street](//eay.cc/tag/the-wolf-of-wall-street/#thewolfofwallstreet)«, die nicht "Fuck" sind, aneinanderreiht. (via [Nerdcore](http://www.crackajack.de/2014/04/23/wolf-of-wallstreet-f-word-supercut/))
+Nach dem [Fuck-Supercut](https://eay.cc/2014/the-wolf-of-wall-street-fuck-supercut/) hier noch der Supercut, der sämtliche Wörter mit F in »[The Wolf of Wall Street](https://eay.cc/tag/the-wolf-of-wall-street/#thewolfofwallstreet)«, die nicht "Fuck" sind, aneinanderreiht. (via [Nerdcore](http://www.crackajack.de/2014/04/23/wolf-of-wallstreet-f-word-supercut/))
 
-[youtube id="mn49DiI9Gag"]
+\[youtube id="mn49DiI9Gag"\]

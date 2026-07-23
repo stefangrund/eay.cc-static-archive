@@ -1,20 +1,19 @@
 ---
 title: "Zur Feier des Tages"
 date: "2017-01-20"
-datetime: "2017-01-20 09:29:07"
+published_at: "2017-01-20T08:29:07Z"
 id: "32109"
 slug: "zur-feier-des-tages"
-url: "https://eay.cc/2017/zur-feier-des-tages/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2017/zur-feier-des-tages/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - donald-trump
-  - politik
-  - usa
-meta:
-  - yourls_shorturl: "https://eay.li/2wa"
+  - "donald trump"
+  - "politik"
+  - "usa"
+short_url: "https://eay.li/2wa"
 ---
 
-[youtube id="U1mlCPMYtPk"]
+\[youtube id="U1mlCPMYtPk"\]

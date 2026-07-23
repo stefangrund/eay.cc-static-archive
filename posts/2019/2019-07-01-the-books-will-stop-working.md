@@ -1,25 +1,26 @@
 ---
 title: "“The books will stop working”"
 date: "2019-07-01"
-datetime: "2019-07-01 08:23:15"
+published_at: "2019-07-01T06:23:15Z"
 id: "35791"
 slug: "the-books-will-stop-working"
-url: "https://eay.cc/2019/the-books-will-stop-working/"
-author: "eay"
+permalink: "https://eay.cc/2019/the-books-will-stop-working/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - amazon
-  - buecher
-  - drm
-  - microsoft
-  - technologie
-  - urheberrecht
-meta:
-  - linked_list_url: "https://boingboing.net/2019/06/28/jun-17-2004.html"
-  - yourls_shorturl: "https://eay.li/3ak"
+  - "amazon"
+  - "bücher"
+  - "drm"
+  - "microsoft"
+  - "technologie"
+  - "urheberrecht"
+external_url: "https://boingboing.net/2019/06/28/jun-17-2004.html"
+short_url: "https://eay.li/3ak"
 ---
+
+[Link →](https://boingboing.net/2019/06/28/jun-17-2004.html)
 
 Microsoft schließt seinen eBook-Store wegen Erfolglosigkeit zum heutigen 1. Juli, was bedeutet dass alle gekauften Bücher mit Abschaltung der dazugehörigen DRM-Server aufhören zu funktionieren (!). Das ganze wurde mit nur zwei (!) Monaten Vorlaufzeit angekündigt. Kunden sollen ihre Einkäufe erstattet bekommen. Wer sich Notizen in den DRM-geschützten Microsoft-eBooks gemacht hat, verliert diese, bekommt aber 25$ "Entschädigung".
 

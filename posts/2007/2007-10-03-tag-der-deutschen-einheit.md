@@ -1,21 +1,20 @@
 ---
 title: "Tag der Deutschen Einheit"
 date: "2007-10-03"
-datetime: "2007-10-03 16:23:11"
+published_at: "2007-10-03T14:23:11Z"
 id: "255"
 slug: "tag-der-deutschen-einheit"
-url: "https://eay.cc/2007/tag-der-deutschen-einheit/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2007/tag-der-deutschen-einheit/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - deutschland
-  - feiertage
-  - musik
-  - wohlstandskinder
-meta:
-  - yourls_shorturl: "https://eay.li/ri"
+  - "deutschland"
+  - "feiertage"
+  - "musik"
+  - "wohlstandskinder"
+short_url: "https://eay.li/ri"
 ---
 
 > Ihr meint jenen großen Bruder, der euch immer beschützt, ihr meint den großen Bruder, der euch eigentlich gar nichts nützt, ist es dieser große Bruder der euch das Geld abzockt, ist es wirklich euer Bruder, wenn er euch mit Dingen schockt, die ihr gar nicht könnt und wollt und habt und unwichtig sind?

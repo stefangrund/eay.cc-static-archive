@@ -1,24 +1,25 @@
 ---
 title: "piracydata.org: Legale Verfügbarkeit der 10 meistgeladenen Filme der letzten Woche"
 date: "2013-10-17"
-datetime: "2013-10-17 13:24:32"
+published_at: "2013-10-17T11:24:32Z"
 id: "25588"
 slug: "piracydata-org-legale-verfuegbarkeit-der-10-meistgeladenen-filme-der-letzten-woche"
-url: "https://eay.cc/2013/piracydata-org-legale-verfuegbarkeit-der-10-meistgeladenen-filme-der-letzten-woche/"
-author: "eay"
+permalink: "https://eay.cc/2013/piracydata-org-legale-verfuegbarkeit-der-10-meistgeladenen-filme-der-letzten-woche/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - filme
-  - piraterie
-  - statistik
-  - streaming
-  - urheberrecht
-meta:
-  - linked_list_url: "http://piracydata.org/"
-  - yourls_shorturl: "https://eay.li/28g"
+  - "filme"
+  - "piraterie"
+  - "statistik"
+  - "streaming"
+  - "urheberrecht"
+external_url: "http://piracydata.org/"
+short_url: "https://eay.li/28g"
 ---
+
+[Link →](http://piracydata.org/)
 
 > Do people turn to piracy when the movies they want to watch are not available legally? We're building a dataset to help answer that question.
 

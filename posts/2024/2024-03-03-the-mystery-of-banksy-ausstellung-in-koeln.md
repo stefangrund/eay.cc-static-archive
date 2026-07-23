@@ -1,25 +1,24 @@
 ---
 title: "\"The Mystery of Banksy\"-Ausstellung in Köln"
 date: "2024-03-03"
-datetime: "2024-03-03 09:40:33"
+published_at: "2024-03-03T08:40:33Z"
 id: "39500"
 slug: "the-mystery-of-banksy-ausstellung-in-koeln"
-url: "https://eay.cc/2024/the-mystery-of-banksy-ausstellung-in-koeln/"
-author: "eay"
+permalink: "https://eay.cc/2024/the-mystery-of-banksy-ausstellung-in-koeln/"
+author: "Stefan Grund"
 format: "aside"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - banksy
-  - koeln
-  - kunst
-  - streetart
-meta:
-  - geo_latitude: "50.941130"
-  - geo_longitude: "6.909600"
-  - geo_public: "1"
-  - yourls_shorturl: "https://eay.li/3q3"
-  - _share_on_mastodon_url: "https://eay.social/@eay/112030858232391432"
+  - "banksy"
+  - "köln"
+  - "kunst"
+  - "streetart"
+short_url: "https://eay.li/3q3"
+content_copy:
+  - "https://eay.social/@eay/112030858232391432"
+geo_latitude: "50.941130"
+geo_longitude: "6.909600"
 ---
 
 ![](https://eay.cc/uploads/2024/banksy-ausstellung.jpg)

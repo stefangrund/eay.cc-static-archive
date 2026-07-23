@@ -1,24 +1,23 @@
 ---
 title: "A Single Div"
 date: "2017-12-28"
-datetime: "2017-12-28 20:33:20"
+published_at: "2017-12-28T19:33:20Z"
 id: "33847"
 slug: "a-single-div"
-url: "https://eay.cc/2017/a-single-div/"
-author: "eay"
+permalink: "https://eay.cc/2017/a-single-div/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - fanart
-  - frontend
-  - netzkultur
-meta:
-  - linked_list_url: "http://a.singlediv.com/"
-  - linked_list_url: "http://a.singlediv.com/"
-  - linked_list_url: "http://a.singlediv.com/"
-  - yourls_shorturl: "https://eay.li/32v"
+  - "fanart"
+  - "frontend"
+  - "netzkultur"
+external_url: "http://a.singlediv.com/"
+short_url: "https://eay.li/32v"
 ---
+
+[Link →](http://a.singlediv.com/)
 
 > Each drawing is a single HTML element (the beloved div) and a whole bunch of styles.
 

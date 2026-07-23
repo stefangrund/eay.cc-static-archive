@@ -1,30 +1,31 @@
 ---
 title: "SkyBridge – Bring your favourite Mastodon apps and use them with Bluesky"
 date: "2023-05-25"
-datetime: "2023-05-25 14:55:35"
+published_at: "2023-05-25T12:55:35Z"
 id: "38606"
 slug: "skybridge-bring-your-favourite-mastodon-apps-and-use-them-with-bluesky"
-url: "https://eay.cc/2023/skybridge-bring-your-favourite-mastodon-apps-and-use-them-with-bluesky/"
-author: "eay"
+permalink: "https://eay.cc/2023/skybridge-bring-your-favourite-mastodon-apps-and-use-them-with-bluesky/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
-  - english
+  - "08/15"
+  - "English"
 tags:
-  - apps
-  - bluesky
-  - mastodon
-  - microblogging
-  - technologie
-  - webservice
-meta:
-  - linked_list_url: "https://skybridge.fly.dev/"
-  - geo_latitude: "50.973822"
-  - geo_longitude: "6.68306"
-  - geo_public: "1"
-  - yourls_shorturl: "https://eay.li/3mg"
-  - content_copy: "https://eay.social/@eay/110425610077474938"
+  - "apps"
+  - "bluesky"
+  - "mastodon"
+  - "microblogging"
+  - "technologie"
+  - "webservice"
+external_url: "https://skybridge.fly.dev/"
+short_url: "https://eay.li/3mg"
+content_copy:
+  - "https://eay.social/@eay/110425610077474938"
+geo_latitude: "50.973822"
+geo_longitude: "6.68306"
 ---
+
+[Link →](https://skybridge.fly.dev/)
 
 > SkyBridge is a magical server that translates Mastodon requests into Bluesky ones, allowing you to unlock the power of incredible Mastodon apps like Ivory and use them on the Bluesky network.
 

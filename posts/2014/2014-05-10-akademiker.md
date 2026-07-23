@@ -1,19 +1,18 @@
 ---
 title: "Akademiker!"
 date: "2014-05-10"
-datetime: "2014-05-10 10:03:32"
+published_at: "2014-05-10T08:03:32Z"
 id: "27907"
 slug: "akademiker"
-url: "https://eay.cc/2014/akademiker/"
-author: "eay"
+permalink: "https://eay.cc/2014/akademiker/"
+author: "Stefan Grund"
 format: "status"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - analogleben
-  - studium
-meta:
-  - yourls_shorturl: "https://eay.li/2fl"
+  - "analogleben"
+  - "studium"
+short_url: "https://eay.li/2fl"
 ---
 
 "Herrn Stefan Grund wurde von der Philosophischen Fakultät der Universität zu Köln der akademische Grad Bachelor of Arts verliehen."

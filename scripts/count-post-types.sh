@@ -70,7 +70,7 @@ awk -v since_date="2012-05-01" '
   }
 
   function normalize_format(format) {
-    if (format == "") return "post"
+    if (format == "" || format == "post") return "standard"
     if (format == "statusmitteilung") return "status"
     return format
   }
@@ -83,7 +83,7 @@ awk -v since_date="2012-05-01" '
     else if (format == "link") link++
     else if (format == "status") status++
     else if (format == "quote") quote++
-    else if (format == "post") post++
+    else if (format == "standard") post++
     else other++
 
     total++
@@ -94,7 +94,7 @@ awk -v since_date="2012-05-01" '
       else if (format == "link") link_since++
       else if (format == "status") status_since++
       else if (format == "quote") quote_since++
-      else if (format == "post") post_since++
+      else if (format == "standard") post_since++
       else other_since++
 
       total_since++
@@ -155,7 +155,7 @@ awk -v since_date="2012-05-01" '
     printf "Total: %d posts\n", total
 
     print ""
-    print "Post type distribution since May 2012:"
+    print "Post type distribution since post types were introduced in May 2012:"
     printf "- Asides: %d posts (%s%%)\n", aside_since, percentage_since(aside_since)
     printf "- Bilder: %d posts (%s%%)\n", image_since, percentage_since(image_since)
     printf "- Links: %d posts (%s%%)\n", link_since, percentage_since(link_since)

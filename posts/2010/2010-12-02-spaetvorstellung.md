@@ -1,26 +1,25 @@
 ---
 title: "Wordpress-Plugin: Spätvorstellung"
 date: "2010-12-02"
-datetime: "2010-12-02 11:37:31"
+published_at: "2010-12-02T10:37:31Z"
 id: "11001"
 slug: "spaetvorstellung"
-url: "https://eay.cc/2010/spaetvorstellung/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2010/spaetvorstellung/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - best-of
-  - deutschland
-  - jugendschutz
-  - nsfw
-  - output
-  - plugin
-  - projekte
-  - spatvorstellung
-  - wordpress
-meta:
-  - yourls_shorturl: "https://eay.li/12v"
+  - "best of"
+  - "deutschland"
+  - "jugendschutz"
+  - "nsfw"
+  - "output"
+  - "plugin"
+  - "projekte"
+  - "spätvorstellung"
+  - "wordpress"
+short_url: "https://eay.li/12v"
 ---
 
 ### Prolog
@@ -35,9 +34,9 @@ Nun bin ich wahrlich kein Freund dieser schwachsinnigen Regulierungswut, halte d
 
 Mein kleines WordPress-Plugin hört auf den Namen **Spätvorstellung** und ermöglicht es, einen Artikel oder eine Seite (oder auch nur einen Teil davon) erst nach und nur bis zu einer bestimmten Uhrzeit anzeigen zu lassen. So lassen sich "Sendezeiten" für einzelne Beiträge, z.B. von 22 bis 6 Uhr, einrichten. Tagsüber wird anstelle des eigentlichen Inhalts nur der folgende, beliebig anpassbare Hinweis angezeigt:
 
-Der folgende Beitrag ist für Büro-PCs und Jugendliche unter 16 Jahren nicht geeignet, weshalb er **ausschließlich zwischen 22 und 6 Uhr zu sehen** ist. ([Warum?](#))
+Der folgende Beitrag ist für Büro-PCs und Jugendliche unter 16 Jahren nicht geeignet, weshalb er **ausschließlich zwischen 22 und 6 Uhr zu sehen** ist. ([Warum?](https://eay.cc/2010/spaetvorstellung/#))
 
-Zwischen 22 und 6 Uhr wird anstelle dieses Hinweises der eigentliche Beitrag plus die Info, dass dieser Beitrag nur in einer bestimmten Zeitspanne zu sehen ist, angezeigt. Hier könnt ihr euch das ganze einmal [**live und in Farbe ansehen**](//eay.cc/2010/webdesigners-pron-nsfw/).
+Zwischen 22 und 6 Uhr wird anstelle dieses Hinweises der eigentliche Beitrag plus die Info, dass dieser Beitrag nur in einer bestimmten Zeitspanne zu sehen ist, angezeigt. Hier könnt ihr euch das ganze einmal [**live und in Farbe ansehen**](https://eay.cc/2010/webdesigners-pron-nsfw/).
 
 ### Einbindung
 
@@ -53,13 +52,13 @@ Spätvorstellung wurde mit Wordpress 3.0 getestet. Das Plugin nutzt Wordpress' [
 
 ### Download & Installation
 
-[![](https://eay.cc/uploads/pages/spaetvorstellung/icon_zip.gif)spaetvorstellung.zip  
-Version 1.0 vom 02.12.2010](//eay.cc/uploads/software/spaetvorstellung.zip)
+[![](https://eay.cc/uploads/pages/spaetvorstellung/icon_zip.gif)spaetvorstellung.zip\
+Version 1.0 vom 02.12.2010](https://eay.cc/uploads/software/spaetvorstellung.zip)
 
-- spaetvorstellung.zip downloaden und entpacken
-- den Ordner spaetvorstellung via FTP in den Ordner /wp-content/plugins/ kopieren
-- das Plugin im Admin-Panel (unter "Plugins") aktivieren
-- Fertig! - Spätvorstellung ist einsatzbereit, ggf. möchtest du noch etwas anpassen
+-   spaetvorstellung.zip downloaden und entpacken
+-   den Ordner spaetvorstellung via FTP in den Ordner /wp-content/plugins/ kopieren
+-   das Plugin im Admin-Panel (unter "Plugins") aktivieren
+-   Fertig! - Spätvorstellung ist einsatzbereit, ggf. möchtest du noch etwas anpassen
 
 ### Anpassen
 

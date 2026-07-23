@@ -1,21 +1,22 @@
 ---
 title: "securitycheckli.st"
 date: "2019-01-20"
-datetime: "2019-01-20 11:32:47"
+published_at: "2019-01-20T10:32:47Z"
 id: "35403"
 slug: "securitycheckli-st"
-url: "https://eay.cc/2019/securitycheckli-st/"
-author: "eay"
+permalink: "https://eay.cc/2019/securitycheckli-st/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - netzkultur
-  - sicherheit
-meta:
-  - linked_list_url: "https://securitycheckli.st/"
-  - yourls_shorturl: "https://eay.li/38s"
+  - "netzkultur"
+  - "sicherheit"
+external_url: "https://securitycheckli.st/"
+short_url: "https://eay.li/38s"
 ---
+
+[Link →](https://securitycheckli.st/)
 
 > An open source checklist of resources designed to improve your online privacy and security.
 

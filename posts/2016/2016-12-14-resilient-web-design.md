@@ -1,23 +1,24 @@
 ---
 title: "Resilient Web Design"
 date: "2016-12-14"
-datetime: "2016-12-14 22:23:14"
+published_at: "2016-12-14T21:23:14Z"
 id: "31850"
 slug: "resilient-web-design"
-url: "https://eay.cc/2016/resilient-web-design/"
-author: "eay"
+permalink: "https://eay.cc/2016/resilient-web-design/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - buecher
-  - geschichte
-  - internet
-  - netzkultur
-meta:
-  - linked_list_url: "https://resilientwebdesign.com/"
-  - yourls_shorturl: "https://eay.li/2vo"
+  - "bücher"
+  - "geschichte"
+  - "internet"
+  - "netzkultur"
+external_url: "https://resilientwebdesign.com/"
+short_url: "https://eay.li/2vo"
 ---
+
+[Link →](https://resilientwebdesign.com/)
 
 > Resilient Web Design, you might think that this is a handbook for designing robust websites. This is not a handbook. It’s more like a history book.
 

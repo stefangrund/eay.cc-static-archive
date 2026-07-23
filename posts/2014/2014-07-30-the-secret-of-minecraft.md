@@ -1,24 +1,25 @@
 ---
 title: "The Secret of Minecraft"
 date: "2014-07-30"
-datetime: "2014-07-30 07:00:38"
+published_at: "2014-07-30T05:00:38Z"
 id: "28462"
 slug: "the-secret-of-minecraft"
-url: "https://eay.cc/2014/the-secret-of-minecraft/"
-author: "eay"
+permalink: "https://eay.cc/2014/the-secret-of-minecraft/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - diy
-  - games
-  - kreativitat
-  - kultur
-  - minecraft
-meta:
-  - linked_list_url: "https://medium.com/message/the-secret-of-minecraft-97dfacb05a3c"
-  - yourls_shorturl: "https://eay.li/2hs"
+  - "diy"
+  - "games"
+  - "kreativität"
+  - "kultur"
+  - "minecraft"
+external_url: "https://medium.com/message/the-secret-of-minecraft-97dfacb05a3c"
+short_url: "https://eay.li/2hs"
 ---
+
+[Link →](https://medium.com/message/the-secret-of-minecraft-97dfacb05a3c)
 
 [Robin Sloan](http://www.robinsloan.com/) über Minecraft als "generative, networked system", das unendlich viel weiteren Content wie YouTube-Tutorials, T-Shirts, Bücher und Wikis hervorbringt.
 

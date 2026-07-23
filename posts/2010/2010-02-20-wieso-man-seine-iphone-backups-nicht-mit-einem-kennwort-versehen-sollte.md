@@ -1,21 +1,20 @@
 ---
 title: "Wieso man seine iPhone-Backups nicht mit einem Kennwort versehen sollte:"
 date: "2010-02-20"
-datetime: "2010-02-20 22:10:58"
+published_at: "2010-02-20T21:10:58Z"
 id: "11513"
 slug: "wieso-man-seine-iphone-backups-nicht-mit-einem-kennwort-versehen-sollte"
-url: "https://eay.cc/2010/wieso-man-seine-iphone-backups-nicht-mit-einem-kennwort-versehen-sollte/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2010/wieso-man-seine-iphone-backups-nicht-mit-einem-kennwort-versehen-sollte/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - backup
-  - fehler
-  - iphone
-  - itunes
-meta:
-  - yourls_shorturl: "https://eay.li/5d"
+  - "backup"
+  - "fehler"
+  - "iphone"
+  - "itunes"
+short_url: "https://eay.li/5d"
 ---
 
 ![](https://eay.cc/uploads/2010/iphonebackup.gif)

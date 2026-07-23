@@ -1,19 +1,18 @@
 ---
 title: "Kirk vs. Kirk"
 date: "2011-06-27"
-datetime: "2011-06-27 11:41:47"
+published_at: "2011-06-27T09:41:47Z"
 id: "16679"
 slug: "kirk-vs-kirk"
-url: "https://eay.cc/2011/kirk-vs-kirk/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2011/kirk-vs-kirk/"
+author: "Stefan Grund"
+format: "standard"
 tags:
-  - fernsehen
-  - filme
-  - star-trek
-  - william-shatner
-meta:
-  - yourls_shorturl: "https://eay.li/19c"
+  - "fernsehen"
+  - "filme"
+  - "star trek"
+  - "william shatner"
+short_url: "https://eay.li/19c"
 ---
 
 ![](https://eay.cc/uploads/2011/kirkvskirk.jpg)

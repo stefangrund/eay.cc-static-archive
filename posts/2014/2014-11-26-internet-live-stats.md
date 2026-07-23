@@ -1,23 +1,24 @@
 ---
 title: "Internet Live Stats"
 date: "2014-11-26"
-datetime: "2014-11-26 07:00:12"
+published_at: "2014-11-26T05:00:12Z"
 id: "29302"
 slug: "internet-live-stats"
-url: "https://eay.cc/2014/internet-live-stats/"
-author: "eay"
+permalink: "https://eay.cc/2014/internet-live-stats/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - menschheit
-  - netzkultur
-  - statistik
-  - webservice
-meta:
-  - linked_list_url: "http://www.internetlivestats.com/"
-  - yourls_shorturl: "https://eay.li/2l1"
+  - "menschheit"
+  - "netzkultur"
+  - "statistik"
+  - "webservice"
+external_url: "http://www.internetlivestats.com/"
+short_url: "https://eay.li/2l1"
 ---
+
+[Link →](http://www.internetlivestats.com/)
 
 Danach sind bereits über 3.000.000.000 Menschen online.
 

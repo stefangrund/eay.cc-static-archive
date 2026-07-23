@@ -1,25 +1,24 @@
 ---
 title: "Zwei Jahre"
 date: "2025-01-07"
-datetime: "2025-01-07 20:14:54"
+published_at: "2025-01-07T19:14:54Z"
 id: "40147"
 slug: "zwei-jahre"
-url: "https://eay.cc/2025/zwei-jahre/"
-author: "eay"
+permalink: "https://eay.cc/2025/zwei-jahre/"
+author: "Stefan Grund"
 format: "aside"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - analogleben
-  - familie
-  - muttje
-meta:
-  - geo_latitude: "50.973839"
-  - geo_longitude: "6.683001"
-  - geo_public: "1"
-  - yourls_shorturl: "https://eay.li/3u1"
-  - _share_on_mastodon_url: "https://eay.social/@eay/113788668890255685"
-  - content_copy: "https://bsky.app/profile/eay.social/post/3lf6ehlc2er26"
+  - "analogleben"
+  - "familie"
+  - "muttje"
+short_url: "https://eay.li/3u1"
+content_copy:
+  - "https://bsky.app/profile/eay.social/post/3lf6ehlc2er26"
+  - "https://eay.social/@eay/113788668890255685"
+geo_latitude: "50.973839"
+geo_longitude: "6.683001"
 ---
 
 [Zwei Jahre, Muttje](https://eay.cc/2024/mama/). 😔

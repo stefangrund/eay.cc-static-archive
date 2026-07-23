@@ -1,21 +1,20 @@
 ---
 title: ".gif der Woche #69"
 date: "2011-09-15"
-datetime: "2011-09-15 10:08:23"
+published_at: "2011-09-15T08:08:23Z"
 id: "17209"
 slug: "gif-der-woche-69"
-url: "https://eay.cc/2011/gif-der-woche-69/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2011/gif-der-woche-69/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - 0815
-  - the-others
+  - "08/15"
+  - "The Others"
 tags:
-  - bizarres
-  - gif-der-woche
-  - tanzen
-meta:
-  - yourls_shorturl: "https://eay.li/1b5"
+  - "bizarres"
+  - "gif der woche"
+  - "tanzen"
+short_url: "https://eay.li/1b5"
 ---
 
 ![](https://eay.cc/uploads/2011/humandancipede.gif) Nach »The Human Centipede« und »The Human Centipede II« kommt nun [Tom Six](http://www.imdb.com/name/nm1519353/)' nächstes Meisterwerk: The Human Dancipede!

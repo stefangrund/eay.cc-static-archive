@@ -1,27 +1,28 @@
 ---
 title: "\"A collection of hundreds of small blogs\""
 date: "2016-09-12"
-datetime: "2016-09-12 23:23:07"
+published_at: "2016-09-12T21:23:07Z"
 id: "31721"
 slug: "a-collection-of-hundreds-of-small-blogs"
-url: "https://eay.cc/2016/a-collection-of-hundreds-of-small-blogs/"
-author: "eay"
+permalink: "https://eay.cc/2016/a-collection-of-hundreds-of-small-blogs/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - best-of
-  - blogging
-  - jason-kottke
-  - netzkultur
-meta:
-  - linked_list_url: "http://kottke.org/16/09/kottkeorg-the-fall-2016-edition"
-  - yourls_shorturl: "https://eay.li/2uz"
+  - "best of"
+  - "blogging"
+  - "jason kottke"
+  - "netzkultur"
+external_url: "http://kottke.org/16/09/kottkeorg-the-fall-2016-edition"
+short_url: "https://eay.li/2uz"
 ---
+
+[Link →](http://kottke.org/16/09/kottkeorg-the-fall-2016-edition)
 
 Jason Kottke hat heute sein Weblog relauncht. Im Post dazu schreibt er:
 
-> Some of my favorite things about kottke.org are the tags and tag pages. Looking at the site through the lens of tags, it becomes apparent that kottke.org is actually a collection of hundreds of small blogs [...].
+> Some of my favorite things about kottke.org are the tags and tag pages. Looking at the site through the lens of tags, it becomes apparent that kottke.org is actually a collection of hundreds of small blogs \[...\].
 
 Der Gedanke mit den Hunderten kleinen Themenblogs gefällt mir. Genau das ist hier (und bei vielen anderen, meist persönlichen Blogs) ja auch der Fall.
 

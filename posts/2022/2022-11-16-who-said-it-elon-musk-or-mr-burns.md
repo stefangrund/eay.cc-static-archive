@@ -1,28 +1,25 @@
 ---
 title: "Who Said It: Elon Musk or Mr. Burns?"
 date: "2022-11-16"
-datetime: "2022-11-16 10:24:56"
+published_at: "2022-11-16T08:24:56Z"
 id: "38212"
 slug: "who-said-it-elon-musk-or-mr-burns"
-url: "https://eay.cc/2022/who-said-it-elon-musk-or-mr-burns/"
-author: "eay"
+permalink: "https://eay.cc/2022/who-said-it-elon-musk-or-mr-burns/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - elon-musk
-  - quiz
-  - simpsons
-meta:
-  - linked_list_url: "https://newrepublic.com/article/168572/rich-guys-say-the-darndest-things"
-  - geo_latitude: "50.97382"
-  - geo_longitude: "6.683038"
-  - geo_public: "1"
-  - yourls_shorturl: "https://eay.li/3jy"
-  - linked_list_og-title: "Who Said It: Elon Musk or Mr. Burns?"
-  - linked_list_og-description: "The Simpsons character and the guy ruining Twitter often sound a lot alike."
-  - linked_list_og-image: "https://eay.cc/wordpress/uploads/og-cache/ca672ffa66ab4a3732c6cd6907f7c850.webp"
+  - "elon musk"
+  - "quiz"
+  - "simpsons"
+external_url: "https://newrepublic.com/article/168572/rich-guys-say-the-darndest-things"
+short_url: "https://eay.li/3jy"
+geo_latitude: "50.97382"
+geo_longitude: "6.683038"
 ---
+
+[Link →](https://newrepublic.com/article/168572/rich-guys-say-the-darndest-things)
 
 The New Republic mit einem spannenden und erschreckenden Quiz:
 

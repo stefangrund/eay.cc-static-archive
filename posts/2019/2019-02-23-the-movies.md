@@ -1,25 +1,24 @@
 ---
 title: "The Movies"
 date: "2019-02-23"
-datetime: "2019-02-23 17:02:00"
+published_at: "2019-02-23T16:02:00Z"
 id: "35545"
 slug: "the-movies"
-url: "https://eay.cc/2019/the-movies/"
-author: "eay"
+permalink: "https://eay.cc/2019/the-movies/"
+author: "Stefan Grund"
 format: "image"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - amsterdam
-  - filme
-  - fotos
-  - kino
-meta:
-  - content_copy: "https://www.instagram.com/p/BuEtc27ngEm/"
-  - yourls_shorturl: "https://eay.li/398"
-  - geo_latitude: "52.38399"
-  - geo_longitude: "4.88465"
-  - geo_public: "1"
+  - "amsterdam"
+  - "filme"
+  - "fotos"
+  - "kino"
+short_url: "https://eay.li/398"
+content_copy:
+  - "https://www.instagram.com/p/BuEtc27ngEm/"
+geo_latitude: "52.38399"
+geo_longitude: "4.88465"
 ---
 
 ![](https://eay.cc/uploads/2019/the-movies.jpeg)

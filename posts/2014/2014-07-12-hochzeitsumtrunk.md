@@ -1,20 +1,19 @@
 ---
 title: "Hochzeitsumtrunk"
 date: "2014-07-12"
-datetime: "2014-07-12 18:27:46"
+published_at: "2014-07-12T16:27:46Z"
 id: "28364"
 slug: "hochzeitsumtrunk"
-url: "https://eay.cc/2014/hochzeitsumtrunk/"
-author: "eay"
+permalink: "https://eay.cc/2014/hochzeitsumtrunk/"
+author: "Stefan Grund"
 format: "status"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - analogleben
-  - hochzeiten
-  - kira-und-ich
-meta:
-  - yourls_shorturl: "https://eay.li/2hh"
+  - "analogleben"
+  - "hochzeiten"
+  - "kira und ich"
+short_url: "https://eay.li/2hh"
 ---
 
 Bester Hochzeitsumtrunk, den wir uns nur wünschen konnten gestern. Danke!

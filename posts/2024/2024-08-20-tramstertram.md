@@ -1,26 +1,27 @@
 ---
 title: "Tramstertram"
 date: "2024-08-20"
-datetime: "2024-08-20 12:49:06"
+published_at: "2024-08-20T10:49:06Z"
 id: "39781"
 slug: "tramstertram"
-url: "https://eay.cc/2024/tramstertram/"
-author: "eay"
+permalink: "https://eay.cc/2024/tramstertram/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
-  - english
+  - "08/15"
+  - "English"
 tags:
-  - amsterdam
-  - games
-meta:
-  - linked_list_url: "https://mattstark.itch.io/tramstertram"
-  - geo_latitude: "51.000029"
-  - geo_longitude: "6.794273"
-  - geo_public: "1"
-  - yourls_shorturl: "https://eay.li/3rw"
-  - _share_on_mastodon_url: "https://eay.social/@eay/112993956540227489"
+  - "amsterdam"
+  - "games"
+external_url: "https://mattstark.itch.io/tramstertram"
+short_url: "https://eay.li/3rw"
+content_copy:
+  - "https://eay.social/@eay/112993956540227489"
+geo_latitude: "51.000029"
+geo_longitude: "6.794273"
 ---
+
+[Link →](https://mattstark.itch.io/tramstertram)
 
 ![](https://eay.cc/uploads/2024/tramstertram.png "Screenshot of the browser game Tramstertram")
 

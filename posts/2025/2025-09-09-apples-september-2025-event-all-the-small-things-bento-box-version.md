@@ -1,31 +1,29 @@
 ---
 title: "Apple's September 2025 Event: All the Small Things (Bento Box Version)"
 date: "2025-09-09"
-datetime: "2025-09-09 21:31:53"
+published_at: "2025-09-09T19:31:53Z"
 id: "40584"
 slug: "apples-september-2025-event-all-the-small-things-bento-box-version"
-url: "https://eay.cc/2025/apples-september-2025-event-all-the-small-things-bento-box-version/"
-author: "eay"
+permalink: "https://eay.cc/2025/apples-september-2025-event-all-the-small-things-bento-box-version/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - airpods
-  - apple
-  - apple-watch
-  - iphone
-meta:
-  - linked_list_url: "https://www.macstories.net/news/apples-september-2025-event-all-the-small-things-bento-box-version/"
-  - geo_latitude: "50.973833"
-  - geo_longitude: "6.683002"
-  - geo_public: "1"
-  - yourls_shorturl: "https://eay.li/3wh"
-  - _share_on_mastodon_url: "https://eay.social/@eay/115176001638153026"
-  - linked_list_og-title: "Apple’s September 2025 Event: All the Small Things (Bento Box Version)"
-  - linked_list_og-description: "Several things are ubiquitous with Apple Events. Tim Cook’s “Good Morning!”, Craig Federighi being, well, Craig Federighi, and the keynote bento boxes. Offering up a summary to each keynote section, these bento box slides provide a great way to recap a new product. So, after today’s bumpe..."
-  - linked_list_og-image: "https://eay.cc/wordpress/uploads/og-cache/3840f83d012744b2161becc41a96df41.webp"
-  - content_copy: "https://bsky.app/profile/eay.social/post/3lyghj2pfds26"
+  - "airpods"
+  - "apple"
+  - "apple watch"
+  - "iphone"
+external_url: "https://www.macstories.net/news/apples-september-2025-event-all-the-small-things-bento-box-version/"
+short_url: "https://eay.li/3wh"
+content_copy:
+  - "https://bsky.app/profile/eay.social/post/3lyghj2pfds26"
+  - "https://eay.social/@eay/115176001638153026"
+geo_latitude: "50.973833"
+geo_longitude: "6.683002"
 ---
+
+[Link →](https://www.macstories.net/news/apples-september-2025-event-all-the-small-things-bento-box-version/)
 
 ![](https://eay.cc/uploads/2025/iphone-17-pro-bento.png)
 

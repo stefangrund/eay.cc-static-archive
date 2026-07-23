@@ -1,24 +1,25 @@
 ---
 title: "Dronestagram, Community für Drohnen-Fotos/-Videos"
 date: "2014-11-24"
-datetime: "2014-11-24 13:02:45"
+published_at: "2014-11-24T11:02:45Z"
 id: "29308"
 slug: "dronestagram-community-fuer-drohnen-fotos-videos"
-url: "https://eay.cc/2014/dronestagram-community-fuer-drohnen-fotos-videos/"
-author: "eay"
+permalink: "https://eay.cc/2014/dronestagram-community-fuer-drohnen-fotos-videos/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - drohnen
-  - fotografie
-  - instagram
-  - technologie
-  - ueberwachung
-meta:
-  - linked_list_url: "http://www.dronestagr.am/"
-  - yourls_shorturl: "https://eay.li/2kv"
+  - "drohnen"
+  - "fotografie"
+  - "instagram"
+  - "technologie"
+  - "überwachung"
+external_url: "http://www.dronestagr.am/"
+short_url: "https://eay.li/2kv"
 ---
+
+[Link →](http://www.dronestagr.am/)
 
 Instagram für Bilder, die mit Drohnen aufgenommen wurden. Eigentlich war das zu erwarten. Hier z.B. [die aus Deutschland](http://www.dronestagr.am/tag/germany/) (bisher leider nur [eins aus Köln](http://www.dronestagr.am/cologne-germany/)).
 

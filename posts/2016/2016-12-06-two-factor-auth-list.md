@@ -1,22 +1,23 @@
 ---
 title: "Two Factor Auth List"
 date: "2016-12-06"
-datetime: "2016-12-06 23:30:56"
+published_at: "2016-12-06T21:30:56Z"
 id: "31836"
 slug: "two-factor-auth-list"
-url: "https://eay.cc/2016/two-factor-auth-list/"
-author: "eay"
+permalink: "https://eay.cc/2016/two-factor-auth-list/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - service
-  - sicherheit
-  - technologie
-meta:
-  - linked_list_url: "https://twofactorauth.org/"
-  - yourls_shorturl: "https://eay.li/2vl"
+  - "service"
+  - "sicherheit"
+  - "technologie"
+external_url: "https://twofactorauth.org/"
+short_url: "https://eay.li/2vl"
 ---
+
+[Link →](https://twofactorauth.org/)
 
 > List of websites and whether or not they support 2FA.
 

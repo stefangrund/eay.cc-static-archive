@@ -1,33 +1,31 @@
 ---
 title: "iOS and iPadOS 18: The MacStories Review"
 date: "2024-09-17"
-datetime: "2024-09-17 17:53:31"
+published_at: "2024-09-17T15:53:31Z"
 id: "39805"
 slug: "ios-and-ipados-18-the-macstories-review"
-url: "https://eay.cc/2024/ios-and-ipados-18-the-macstories-review/"
-author: "eay"
+permalink: "https://eay.cc/2024/ios-and-ipados-18-the-macstories-review/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - apple
-  - apps
-  - betriebssysteme
-  - ios
-  - iphone
-  - kuenstliche-intelligenz
-  - technologie
-meta:
-  - linked_list_url: "https://www.macstories.net/stories/ios-and-ipados-18-the-macstories-review/"
-  - geo_latitude: "53.93056"
-  - geo_longitude: "11.381496"
-  - geo_public: "1"
-  - yourls_shorturl: "https://eay.li/3s3"
-  - _share_on_mastodon_url: "https://eay.social/@eay/113153698258746270"
-  - linked_list_og-title: "iOS and iPadOS 18: The MacStories Review"
-  - linked_list_og-description: "There is still fun beyond AI."
-  - linked_list_og-image: "https://eay.cc/wordpress/uploads/og-cache/51684cbbaa19e7f52ab587bc2b2ccbdb.webp"
+  - "apple"
+  - "apps"
+  - "betriebssysteme"
+  - "ios"
+  - "iphone"
+  - "künstliche intelligenz"
+  - "technologie"
+external_url: "https://www.macstories.net/stories/ios-and-ipados-18-the-macstories-review/"
+short_url: "https://eay.li/3s3"
+content_copy:
+  - "https://eay.social/@eay/113153698258746270"
+geo_latitude: "53.93056"
+geo_longitude: "11.381496"
 ---
+
+[Link →](https://www.macstories.net/stories/ios-and-ipados-18-the-macstories-review/)
 
 [Federico Vittici](https://mastodon.macstories.net/@viticci) macht für iOS und iPadOS bekanntlich das, was [John Siracusa](https://hypercritical.co/about/) einst für macOS machte [als es noch Mac OS X hieß](https://eay.cc/?s=John+Siracusa): Ein super-ausführliches Review schreiben, dass bis ins kleinste Detail von Apples mobilen Betriebssystemen geht.
 

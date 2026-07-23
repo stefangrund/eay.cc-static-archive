@@ -1,28 +1,27 @@
 ---
 title: "Grund zur Freude"
 date: "2022-07-31"
-datetime: "2022-07-31 16:11:37"
+published_at: "2022-07-31T14:11:37Z"
 id: "38010"
 slug: "grund-zur-freude"
-url: "https://eay.cc/2022/grund-zur-freude/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2022/grund-zur-freude/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - analogleben
-  - ariane
-  - best-of
-  - fotos
-  - kira-und-ich
-meta:
-  - geo_latitude: "48.711190"
-  - geo_longitude: "13.660100"
-  - geo_public: "1"
-  - content_copy: "https://www.instagram.com/p/Cgrf76ZMUb-/"
-  - content_copy: "https://twitter.com/eay/status/1553746105124487168"
-  - yourls_shorturl: "https://eay.li/3ij"
-  - geo_address: "Grund (Jandelsbrunn)"
+  - "analogleben"
+  - "ariane"
+  - "best of"
+  - "fotos"
+  - "kira und ich"
+short_url: "https://eay.li/3ij"
+content_copy:
+  - "https://www.instagram.com/p/Cgrf76ZMUb-/"
+  - "https://twitter.com/eay/status/1553746105124487168"
+geo_latitude: "48.711190"
+geo_longitude: "13.660100"
+geo_address: "Grund (Jandelsbrunn)"
 ---
 
 ![](https://eay.cc/uploads/2022/grund-zur-freude.jpg)

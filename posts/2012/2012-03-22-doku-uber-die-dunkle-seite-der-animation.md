@@ -1,26 +1,25 @@
 ---
 title: "Doku über die dunkle Seite der Animation"
 date: "2012-03-22"
-datetime: "2012-03-22 16:35:03"
+published_at: "2012-03-22T15:35:03Z"
 id: "19347"
 slug: "doku-uber-die-dunkle-seite-der-animation"
-url: "https://eay.cc/2012/doku-uber-die-dunkle-seite-der-animation/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2012/doku-uber-die-dunkle-seite-der-animation/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - animation
-  - cartoons
-  - dokumentation
-  - filme
-  - geschichte
-  - nsfw
-meta:
-  - yourls_shorturl: "https://eay.li/1h9"
+  - "animation"
+  - "cartoons"
+  - "dokumentation"
+  - "filme"
+  - "geschichte"
+  - "nsfw"
+short_url: "https://eay.li/1h9"
 ---
 
-[youtube id="oYXPIbB_8AQ"]
+\[youtube id="oYXPIbB\_8AQ"\]
 
 (Hier die weiteren Teile: [Part 2](http://www.youtube.com/watch?v=8Sppeq9QhHM), [Part 3](http://www.youtube.com/watch?v=awq9oK97RzQ), [Part 4](http://www.youtube.com/watch?v=FH23JysXSmU))
 

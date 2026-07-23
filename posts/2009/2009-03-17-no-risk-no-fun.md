@@ -1,21 +1,20 @@
 ---
 title: "No risk, no fun!"
 date: "2009-03-17"
-datetime: "2009-03-17 23:30:21"
+published_at: "2009-03-17T22:30:21Z"
 id: "6279"
 slug: "no-risk-no-fun"
-url: "https://eay.cc/2009/no-risk-no-fun/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2009/no-risk-no-fun/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - aids
-  - bizarres
-  - religion
-  - sex
-meta:
-  - yourls_shorturl: "https://eay.li/wg"
+  - "aids"
+  - "bizarres"
+  - "religion"
+  - "sex"
+short_url: "https://eay.li/wg"
 ---
 
 Würde ich einen Satz wie "Die Benutzung von Kondomen verschlimmert das Aids-Problem" sagen, würdet ihr mich zu Recht als den größten Vollidioten auf Erden bezeichnen. Wenn das jedoch [ein alter, enthaltsamer (!) Greis sagt](http://www.tagesschau.de/ausland/papstafrika100.html), dann ist das für viele das Wort Gottes.

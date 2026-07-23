@@ -1,32 +1,30 @@
 ---
 title: "Bluesky Feed for beyond tellerrand"
 date: "2026-04-27"
-datetime: "2026-04-27 23:43:13"
+published_at: "2026-04-27T21:43:13Z"
 id: "41923"
 slug: "bluesky-feed-for-beyond-tellerrand"
-url: "https://eay.cc/2026/bluesky-feed-for-beyond-tellerrand/"
-author: "eay"
+permalink: "https://eay.cc/2026/bluesky-feed-for-beyond-tellerrand/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - beyond-tellerrand
-  - bluesky
-  - konferenz
-  - netzkultur
-  - social-web
-meta:
-  - linked_list_url: "https://bsky.app/profile/eay.social/feed/btconf"
-  - geo_latitude: "50.973811"
-  - geo_longitude: "6.683057"
-  - geo_public: "1"
-  - yourls_shorturl: "https://eay.li/41k"
-  - _share_on_mastodon_url: "https://eay.social/@eay/116478849560576002"
-  - linked_list_og-title: "beyond tellerrand by @eay.social"
-  - linked_list_og-description: "The unofficial Bluesky timeline for beyond tellerrand: talks, side events, design, code, typography, creativity, and the web."
-  - linked_list_og-image: "https://eay.cc/wordpress/uploads/og-cache/82008c1f9512bb09fda09f62d017f582.webp"
-  - content_copy: "https://bsky.app/profile/eay.social/post/3mkj2aqfyht2j"
+  - "beyond tellerrand"
+  - "bluesky"
+  - "konferenz"
+  - "netzkultur"
+  - "social web"
+external_url: "https://bsky.app/profile/eay.social/feed/btconf"
+short_url: "https://eay.li/41k"
+content_copy:
+  - "https://bsky.app/profile/eay.social/post/3mkj2aqfyht2j"
+  - "https://eay.social/@eay/116478849560576002"
+geo_latitude: "50.973811"
+geo_longitude: "6.683057"
 ---
+
+[Link →](https://bsky.app/profile/eay.social/feed/btconf)
 
 Ich bin gerade endlich wieder auf der [beyond tellerrand](https://beyondtellerrand.com/), die in diesem Jahr 15 jähriges Bestehen feiert, nachdem ich das letzte Mal von 2016 bis 2018 hier war und eine Post-Corona-Wiederaufnahme in 2022 kurzfristig scheiterte.
 

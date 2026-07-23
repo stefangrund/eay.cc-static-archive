@@ -1,22 +1,21 @@
 ---
 title: "Tarantino dreht Tarantino-Hommage"
 date: "2009-09-08"
-datetime: "2009-09-08 22:42:14"
+published_at: "2009-09-08T20:42:14Z"
 id: "9326"
 slug: "tarantino-dreht-tarantino-hommage"
-url: "https://eay.cc/2009/tarantino-dreht-tarantino-hommage/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2009/tarantino-dreht-tarantino-hommage/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - 0815
-  - the-others
+  - "08/15"
+  - "The Others"
 tags:
-  - filme
-  - quentin-tarantino
-  - satire
-  - the-onion
-meta:
-  - yourls_shorturl: "https://eay.li/xc"
+  - "filme"
+  - "quentin tarantino"
+  - "satire"
+  - "the onion"
+short_url: "https://eay.li/xc"
 ---
 
 [The Onion hat Details](http://www.theonion.com/content/news/next_tarantino_movie_an_homage_to) zum nächsten Tarantino-Film:

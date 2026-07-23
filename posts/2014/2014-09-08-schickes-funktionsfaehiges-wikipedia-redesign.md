@@ -1,22 +1,23 @@
 ---
 title: "Schickes, funktionsfähiges Wikipedia-Redesign"
 date: "2014-09-08"
-datetime: "2014-09-08 15:15:32"
+published_at: "2014-09-08T13:15:32Z"
 id: "28738"
 slug: "schickes-funktionsfaehiges-wikipedia-redesign"
-url: "https://eay.cc/2014/schickes-funktionsfaehiges-wikipedia-redesign/"
-author: "eay"
+permalink: "https://eay.cc/2014/schickes-funktionsfaehiges-wikipedia-redesign/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - redesign
-  - webdesign
-  - wikipedia
-meta:
-  - linked_list_url: "http://wikipedia.moesalih.com/"
-  - yourls_shorturl: "https://eay.li/2iw"
+  - "redesign"
+  - "webdesign"
+  - "wikipedia"
+external_url: "http://wikipedia.moesalih.com/"
+short_url: "https://eay.li/2iw"
 ---
+
+[Link →](http://wikipedia.moesalih.com/)
 
 [Moe Salih](http://moesalih.com/), der Designer und Entwickler davon:
 

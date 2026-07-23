@@ -1,21 +1,22 @@
 ---
 title: "Twitter erhöht Zeichenlimit auf 280 Zeichen"
 date: "2017-09-27"
-datetime: "2017-09-27 07:58:24"
+published_at: "2017-09-27T05:58:24Z"
 id: "33458"
 slug: "twitter-erhoeht-zeichenlimit-auf-280-zeichen"
-url: "https://eay.cc/2017/twitter-erhoeht-zeichenlimit-auf-280-zeichen/"
-author: "eay"
+permalink: "https://eay.cc/2017/twitter-erhoeht-zeichenlimit-auf-280-zeichen/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - netzkultur
-  - twitter
-meta:
-  - linked_list_url: "https://blog.twitter.com/official/en_us/topics/product/2017/Giving-you-more-characters-to-express-yourself.html"
-  - yourls_shorturl: "https://eay.li/31b"
+  - "netzkultur"
+  - "twitter"
+external_url: "https://blog.twitter.com/official/en_us/topics/product/2017/Giving-you-more-characters-to-express-yourself.html"
+short_url: "https://eay.li/31b"
 ---
+
+[Link →](https://blog.twitter.com/official/en_us/topics/product/2017/Giving-you-more-characters-to-express-yourself.html)
 
 Ich persönlich fand die 256 Zeichen von [App.net](https://eay.cc/tag/app-net/) immer etwas angenehmer, weshalb ich diesen Schritt begrüße, aber nach elf Jahren wird das Twitter auch nicht mehr den Durchbruch bringen.
 

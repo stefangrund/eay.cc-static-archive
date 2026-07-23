@@ -1,25 +1,24 @@
 ---
 title: "Richter hebt das Urteil gegen Adnan Syed auf"
 date: "2022-09-20"
-datetime: "2022-09-20 09:35:15"
+published_at: "2022-09-20T07:35:15Z"
 id: "38087"
 slug: "richter-hebt-das-urteil-gegen-adnan-syed-auf"
-url: "https://eay.cc/2022/richter-hebt-das-urteil-gegen-adnan-syed-auf/"
-author: "eay"
+permalink: "https://eay.cc/2022/richter-hebt-das-urteil-gegen-adnan-syed-auf/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - kriminalitat
-  - netzkultur
-  - podcast
-  - serial
-meta:
-  - linked_list_url: "https://www.nytimes.com/2022/09/19/us/adnan-syed-murder-conviction-overturned.html"
-  - geo_latitude: "50.973826"
-  - geo_longitude: "6.683015"
-  - yourls_shorturl: "https://eay.li/3iz"
+  - "kriminalität"
+  - "netzkultur"
+  - "podcast"
+  - "serial"
+external_url: "https://www.nytimes.com/2022/09/19/us/adnan-syed-murder-conviction-overturned.html"
+short_url: "https://eay.li/3iz"
 ---
+
+[Link →](https://www.nytimes.com/2022/09/19/us/adnan-syed-murder-conviction-overturned.html)
 
 Ich habe [hier bereits vor über sechs Jahren geschrieben](https://eay.cc/2016/mordfall-aus-1-staffel-von-serial-wird-neu-aufgerollt/), dass der Fall, der 2014 durch die erste Staffel des Erfolgspodcasts »[Serial](https://serialpodcast.org/season-three)« bekannt wurde, neu aufgerollt wird. Jetzt war es soweit:
 

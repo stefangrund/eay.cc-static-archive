@@ -1,21 +1,21 @@
 ---
 title: "New Apple store in town."
 date: "2017-03-25"
-datetime: "2017-03-25 16:00:11"
+published_at: "2017-03-25T14:00:11Z"
 id: "32938"
 slug: "new-apple-store-in-town"
-url: "https://eay.cc/2017/new-apple-store-in-town/"
-author: "eay"
+permalink: "https://eay.cc/2017/new-apple-store-in-town/"
+author: "Stefan Grund"
 format: "image"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - apple
-  - fotos
-  - koeln
-meta:
-  - yourls_shorturl: "https://eay.li/2yc"
-  - content_copy: "https://www.instagram.com/p/BSD05WSFLsL/"
+  - "apple"
+  - "fotos"
+  - "köln"
+short_url: "https://eay.li/2yc"
+content_copy:
+  - "https://www.instagram.com/p/BSD05WSFLsL/"
 ---
 
 ![](https://eay.cc/uploads/2017/apple-store-schildergasse.jpg)

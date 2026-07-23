@@ -1,22 +1,21 @@
 ---
 title: ".gif der Woche #62"
 date: "2011-05-23"
-datetime: "2011-05-23 09:37:18"
+published_at: "2011-05-23T07:37:18Z"
 id: "16324"
 slug: "gif-der-woche-62"
-url: "https://eay.cc/2011/gif-der-woche-62/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2011/gif-der-woche-62/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - 0815
-  - the-others
+  - "08/15"
+  - "The Others"
 tags:
-  - gif-der-woche
-  - party
-  - tiere
-  - vogel
-meta:
-  - yourls_shorturl: "https://eay.li/188"
+  - "gif der woche"
+  - "party"
+  - "tiere"
+  - "vögel"
+short_url: "https://eay.li/188"
 ---
 
 ![](https://eay.cc/uploads/2011/partygans.gif) Party on, Gans.

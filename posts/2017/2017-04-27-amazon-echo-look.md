@@ -1,24 +1,25 @@
 ---
 title: "Amazon Echo Look"
 date: "2017-04-27"
-datetime: "2017-04-27 07:34:05"
+published_at: "2017-04-27T05:34:05Z"
 id: "32770"
 slug: "amazon-echo-look"
-url: "https://eay.cc/2017/amazon-echo-look/"
-author: "eay"
+permalink: "https://eay.cc/2017/amazon-echo-look/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - alexa
-  - amazon
-  - konsum
-  - mode
-  - technologie
-meta:
-  - linked_list_url: "https://www.amazon.com/dp/B0186JAEWK"
-  - yourls_shorturl: "https://eay.li/2xz"
+  - "alexa"
+  - "amazon"
+  - "konsum"
+  - "mode"
+  - "technologie"
+external_url: "https://www.amazon.com/dp/B0186JAEWK"
+short_url: "https://eay.li/2xz"
 ---
+
+[Link →](https://www.amazon.com/dp/B0186JAEWK)
 
 Amazon hat mit dem Echo Look nun das erste Alexa-Device mit Kamera vorgestellt. Der beworbene Use-Case: Unterstützung bei der Auswahl von Outfits und _dass man sich auch mal von hinten sehen kann_. WTF.
 

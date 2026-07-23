@@ -1,32 +1,30 @@
 ---
 title: "Hugh Howey: Art, Money, and AI"
 date: "2026-01-12"
-datetime: "2026-01-12 23:40:19"
+published_at: "2026-01-12T22:40:19Z"
 id: "40905"
 slug: "hugh-howey-art-money-and-ai"
-url: "https://eay.cc/2026/hugh-howey-art-money-and-ai/"
-author: "eay"
+permalink: "https://eay.cc/2026/hugh-howey-art-money-and-ai/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - buecher
-  - ki-kunst
-  - kunst
-  - kuenstliche-intelligenz
-  - schreiben
-meta:
-  - linked_list_url: "https://hughhowey.com/art-money-and-ai/"
-  - geo_latitude: "50.973869"
-  - geo_longitude: "6.682963"
-  - geo_public: "1"
-  - yourls_shorturl: "https://eay.li/3ye"
-  - _share_on_mastodon_url: "https://eay.social/@eay/115884531437704252"
-  - linked_list_og-title: "Art, Money, and AI - Hugh Howey"
-  - linked_list_og-description: "I wrote my first novel in 2009, fulfilling a lifelong dream. That dream was simply this: write a novel. It wasn’t to get a novel published. I wasn’t to get people to read the novel. I never dreamt of making money from my writing. I was just an avid reader from my Dr. Seuss days, […]"
-  - linked_list_og-image: "https://eay.cc/wordpress/uploads/og-cache/3f638f44d5691c921d10c9b51c6e984b.webp"
-  - content_copy: "https://bsky.app/profile/eay.social/post/3mcb4h6kngy2r"
+  - "bücher"
+  - "ki-kunst"
+  - "kunst"
+  - "künstliche intelligenz"
+  - "schreiben"
+external_url: "https://hughhowey.com/art-money-and-ai/"
+short_url: "https://eay.li/3ye"
+content_copy:
+  - "https://bsky.app/profile/eay.social/post/3mcb4h6kngy2r"
+  - "https://eay.social/@eay/115884531437704252"
+geo_latitude: "50.973869"
+geo_longitude: "6.682963"
 ---
+
+[Link →](https://hughhowey.com/art-money-and-ai/)
 
 Interessanter Blogpost von [Hugh Howey](https://hughhowey.com/), dem Autoren der zu einer Apple-TV+-Serie gewordenen, im Selbst­verlag veröffentlichten [»Silo«-Trilogie](https://en.wikipedia.org/wiki/Silo_(series)), über den Unter­schied von _Writers_ und _Authors_ und die Aus­wirkungen von KI auf das Schreiben.
 

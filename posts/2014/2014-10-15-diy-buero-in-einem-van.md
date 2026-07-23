@@ -1,23 +1,24 @@
 ---
 title: "DIY-Büro in einem Van"
 date: "2014-10-15"
-datetime: "2014-10-15 07:00:02"
+published_at: "2014-10-15T05:00:02Z"
 id: "28948"
 slug: "diy-buero-in-einem-van"
-url: "https://eay.cc/2014/diy-buero-in-einem-van/"
-author: "eay"
+permalink: "https://eay.cc/2014/diy-buero-in-einem-van/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - arbeit
-  - autos
-  - buero
-  - diy
-meta:
-  - linked_list_url: "http://davidmckinney.com/blog/2013/12/29/redesigning-the-office"
-  - yourls_shorturl: "https://eay.li/2jp"
+  - "arbeit"
+  - "autos"
+  - "büro"
+  - "diy"
+external_url: "http://davidmckinney.com/blog/2013/12/29/redesigning-the-office"
+short_url: "https://eay.li/2jp"
 ---
+
+[Link →](http://davidmckinney.com/blog/2013/12/29/redesigning-the-office)
 
 ![](https://eay.cc/uploads/2014/officevan.jpg)
 

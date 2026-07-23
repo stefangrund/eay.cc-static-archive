@@ -1,26 +1,25 @@
 ---
 title: "Metroidvania als Film-Genre"
 date: "2026-03-14"
-datetime: "2026-03-14 14:33:03"
+published_at: "2026-03-14T13:33:03Z"
 id: "41532"
 slug: "metroidvania-als-film-genre"
-url: "https://eay.cc/2026/metroidvania-als-film-genre/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2026/metroidvania-als-film-genre/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - filme
-  - games
-  - genres
-  - metroidvania
-meta:
-  - geo_latitude: "50.973904"
-  - geo_longitude: "6.682824"
-  - geo_public: "1"
-  - yourls_shorturl: "https://eay.li/407"
-  - _share_on_mastodon_url: "https://eay.social/@eay/116227834030210046"
-  - content_copy: "https://bsky.app/profile/eay.social/post/3mgzl4dqfpc2f"
+  - "filme"
+  - "games"
+  - "genres"
+  - "metroidvania"
+short_url: "https://eay.li/407"
+content_copy:
+  - "https://bsky.app/profile/eay.social/post/3mgzl4dqfpc2f"
+  - "https://eay.social/@eay/116227834030210046"
+geo_latitude: "50.973904"
+geo_longitude: "6.682824"
 ---
 
 Die Letteboxd-User [chemergency](https://letterboxd.com/chemergency/) und [Dante](https://letterboxd.com/robod8/) haben beobachtet, dass das Game-Genre [Metroidvania](https://en.wikipedia.org/wiki/Metroidvania), also Spiele, die wie Metroid oder Castlevania funktionieren und mit weiterem Progress immer mehr von einer Map offen­baren, [auch für Filme funktioniert](https://letterboxd.com/chemergency/list/metroidvania-movies/detail/):

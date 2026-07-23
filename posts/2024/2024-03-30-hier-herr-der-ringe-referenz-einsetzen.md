@@ -1,25 +1,24 @@
 ---
 title: "[Hier »Herr der Ringe«-Referenz einsetzen]"
 date: "2024-03-30"
-datetime: "2024-03-30 13:47:47"
+published_at: "2024-03-30T12:47:47Z"
 id: "39548"
 slug: "hier-herr-der-ringe-referenz-einsetzen"
-url: "https://eay.cc/2024/hier-herr-der-ringe-referenz-einsetzen/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2024/hier-herr-der-ringe-referenz-einsetzen/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - blogging
-  - in-eigener-sache
-  - netzkultur
-  - uberblogr
-meta:
-  - geo_latitude: "51.000107"
-  - geo_longitude: "6.794249"
-  - geo_public: "1"
-  - yourls_shorturl: "https://eay.li/3qi"
-  - _share_on_mastodon_url: "https://eay.social/@eay/112184716849919938"
+  - "blogging"
+  - "in eigener sache"
+  - "netzkultur"
+  - "uberblogr"
+short_url: "https://eay.li/3qi"
+content_copy:
+  - "https://eay.social/@eay/112184716849919938"
+geo_latitude: "51.000107"
+geo_longitude: "6.794249"
 ---
 
 Seid ihr noch mit dem Konzept von Webringen vertraut? Ja? Nein? [Wikipedia hilft](https://en.wikipedia.org/wiki/Webring) den Gen Z'lern unter euch:

@@ -32,37 +32,59 @@ function getItemsOfType (data, type) {
 }
 
 function collectPosts (data, config) {
-  // this is passed into getPostContent() for the markdown conversion
-  const turndownService = translator.initTurndownService()
-
   const posts = getItemsOfType(data, 'post')
     .filter(post => post.status[0] !== 'trash' && post.status[0] !== 'draft')
-    .map(post => ({
-      // meta data isn't written to file, but is used to help with other things
-      meta: {
-        id: getPostId(post),
-        slug: getPostSlug(post),
-        coverImageId: getPostCoverImageId(post),
-        imageUrls: []
-      },
-      frontmatter: {
-        title: getPostTitle(post),
-        date: getPostDate(post),
-        datetime: post.post_date,
-        id: getPostId(post),
-        slug: getPostSlug(post),
-        url: getPermalink(post),
-        author: getPostAuthor(post),
-        format: getPostFormat(post),
-        categories: getCategories(post),
-        tags: getTags(post),
-        meta: getPostMeta(post, config)
-      },
-      content: translator.getPostContent(post, turndownService, config)
-    }))
+    .map(post => createPost(post, config))
 
   console.log(posts.length + ' posts found.')
   return posts
+}
+
+function createPost (post, config) {
+  const permalink = getPermalink(post)
+  const format = getPostFormat(post)
+  const postMeta = getPostMetaEntries(post)
+  const externalUrl = format === 'link'
+    ? getFirstHttpUrl(postMeta, 'linked_list_url', permalink)
+    : undefined
+  const shortUrl = getFirstHttpUrl(postMeta, 'yourls_shorturl', permalink)
+  const contentCopy = getContentCopy(postMeta, permalink)
+  const geo = getPublicGeo(postMeta)
+
+  const frontmatter = {
+    title: getPostTitle(post),
+    date: getPostDate(post),
+    published_at: getPublishedAt(post),
+    id: getPostId(post),
+    slug: getPostSlug(post),
+    permalink,
+    author: getPostAuthor(post),
+    format
+  }
+
+  addArrayIfNotEmpty(frontmatter, 'categories', getTerms(post, 'category'))
+  addArrayIfNotEmpty(frontmatter, 'tags', getTerms(post, 'post_tag'))
+  addIfDefined(frontmatter, 'external_url', externalUrl)
+  addIfDefined(frontmatter, 'short_url', shortUrl)
+  addArrayIfNotEmpty(frontmatter, 'content_copy', contentCopy)
+  Object.assign(frontmatter, geo)
+
+  return {
+    // Internal data used for paths and optional image downloads only.
+    meta: {
+      id: getPostId(post),
+      slug: getPostSlug(post),
+      coverImageId: getPostCoverImageId(post),
+      imageUrls: []
+    },
+    frontmatter,
+    content: translator.getPostContent(post, {
+      permalink,
+      format,
+      externalUrl,
+      config
+    })
+  }
 }
 
 function getPostId (post) {
@@ -88,7 +110,26 @@ function getPostTitle (post) {
 }
 
 function getPostDate (post) {
-  return DateTime.fromRFC2822(post.pubDate[0], { zone: 'utc' }).toISODate();
+  const date = DateTime.fromSQL(String(post.post_date[0]), { zone: 'Europe/Berlin' })
+  if (!date.isValid) {
+    throw new Error(`Invalid local post date for post ${getPostId(post)}: ${post.post_date[0]}`)
+  }
+  return date.toISODate()
+}
+
+function getPublishedAt (post) {
+  const gmtValue = String(post.post_date_gmt?.[0] || '')
+  let date = DateTime.fromSQL(gmtValue, { zone: 'utc' })
+
+  if (!date.isValid || date.year === 0) {
+    date = DateTime.fromSQL(String(post.post_date[0]), { zone: 'Europe/Berlin' }).toUTC()
+  }
+
+  if (!date.isValid) {
+    throw new Error(`Invalid publication date for post ${getPostId(post)}`)
+  }
+
+  return date.toUTC().toISO({ suppressMilliseconds: true })
 }
 
 function getPermalink (post) {
@@ -97,61 +138,101 @@ function getPermalink (post) {
 }
 
 function getPostAuthor (post) {
-  return post.creator[0]
+  const author = String(post.creator[0]).trim()
+  return author === 'eay' || author === 'Stefan' ? 'Stefan Grund' : author
 }
 
 function getPostFormat (post) {
-  const format = post.category.find(item => item.$.domain === 'post_format')
-  return format == null ? 'post' : format.$.nicename.replace('post-format-', '')
+  const format = (post.category || []).find(item => item.$?.domain === 'post_format')
+  return format == null ? 'standard' : format.$.nicename.replace('post-format-', '')
 }
 
-function getCategories (post) {
-  let items = post.category.filter(item => item.$.domain === 'category')
-  items = items.map((item) => {
-    if (item.$ == null) { return }
-    return `  - ${item.$.nicename}\n`
-  })
-  return items.join('')
+function getTerms (post, domain) {
+  return (post.category || [])
+    .filter(item => item.$?.domain === domain)
+    .map(item => typeof item === 'string' ? item : item._)
+    .map(item => String(item || '').trim())
+    .filter(Boolean)
 }
 
-function getTags (post) {
-  let items = post.category.filter(item => item.$.domain === 'post_tag')
-  items = items.map((item) => {
-    if (item.$ == null) { return }
-    return `  - ${item.$.nicename}\n`
-  })
-  return items.join('')
+function getPostMetaEntries (post) {
+  return (post.postmeta || []).map(item => ({
+    key: String(item.meta_key?.[0] || ''),
+    value: String(item.meta_value?.[0] || '').trim()
+  }))
 }
 
-function getPostMeta (post, config) {
-  // Get ignored keys from config
-  const configIgnoredKeys = config && config.ignoreMetaKeys ? 
-    config.ignoreMetaKeys.split(',').map(key => key.trim()).filter(key => key.length > 0) : 
-    []
-  
-  let items = post.postmeta.map((item) => {
-    const metaKey = item.meta_key[0]
-    
-    // Check hardcoded ignored keys
-    if (metaKey.includes('utw_tags') ||
-				metaKey === 'enclosure' ||
-				metaKey === '_mini_post' ||
-				metaKey === '_wp_old_slug' ||
-				metaKey === '_wp_old_date' ||
-				metaKey === 'custom_script' ||
-				metaKey === '_edit_last') {
-      return null
+function getFirstHttpUrl (entries, key, baseUrl) {
+  for (const entry of entries) {
+    if (entry.key !== key) continue
+    const url = getHttpUrl(entry.value, baseUrl)
+    if (url) return url
+  }
+  return undefined
+}
+
+function getHttpUrl (value, baseUrl) {
+  if (!/^(?:https?:)?\/\//i.test(value)) return undefined
+  try {
+    const url = new URL(value, baseUrl)
+    return url.protocol === 'http:' || url.protocol === 'https:' ? url.href : undefined
+  } catch {
+    return undefined
+  }
+}
+
+function getContentCopy (entries, baseUrl) {
+  const values = [
+    ...entries.filter(entry => entry.key === 'content_copy'),
+    ...entries.filter(entry => entry.key === '_share_on_mastodon_url')
+  ]
+    .map(entry => getHttpUrl(entry.value, baseUrl))
+    .filter(Boolean)
+
+  return [...new Set(values)]
+}
+
+function getPublicGeo (entries) {
+  if (!entries.some(entry => entry.key === 'geo_public' && entry.value === '1')) {
+    return {}
+  }
+
+  const latitudes = entries.filter(entry => entry.key === 'geo_latitude').map(entry => entry.value)
+  const longitudes = entries.filter(entry => entry.key === 'geo_longitude').map(entry => entry.value)
+  let coordinates
+
+  for (let index = 0; index < Math.min(latitudes.length, longitudes.length); index++) {
+    if (isValidCoordinatePair(latitudes[index], longitudes[index])) {
+      coordinates = [latitudes[index], longitudes[index]]
+      break
     }
-    
-    // Check config-based ignored keys
-    if (configIgnoredKeys.includes(metaKey)) {
-      return null
-    }
-    
-    return `  - ${metaKey}: "${item.meta_value[0]}"\n`
-  })
-  items = items.filter(item => item != null)
-  return items.join('')
+  }
+
+  if (!coordinates) return {}
+
+  const geo = {
+    geo_latitude: coordinates[0],
+    geo_longitude: coordinates[1]
+  }
+  const address = entries.find(entry => entry.key === 'geo_address' && entry.value)?.value
+  addIfDefined(geo, 'geo_address', address)
+  return geo
+}
+
+function isValidCoordinatePair (latitude, longitude) {
+  const lat = Number(latitude)
+  const lon = Number(longitude)
+  return Number.isFinite(lat) && Number.isFinite(lon) &&
+    lat >= -90 && lat <= 90 && lon >= -180 && lon <= 180 &&
+    !(lat === 0 && lon === 0)
+}
+
+function addIfDefined (target, key, value) {
+  if (value !== undefined) target[key] = value
+}
+
+function addArrayIfNotEmpty (target, key, value) {
+  if (value.length > 0) target[key] = value
 }
 
 function collectAttachedImages (data) {

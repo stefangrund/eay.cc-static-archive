@@ -1,26 +1,26 @@
 ---
 title: "New Emojis in iOS 15.4"
 date: "2022-01-28"
-datetime: "2022-01-28 22:36:21"
+published_at: "2022-01-28T21:36:21Z"
 id: "37805"
 slug: "new-emojis-in-ios-15-4"
-url: "https://eay.cc/2022/new-emojis-in-ios-15-4/"
-author: "eay"
+permalink: "https://eay.cc/2022/new-emojis-in-ios-15-4/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - apple
-  - emojis
-  - ios
-  - iphone
-meta:
-  - linked_list_url: "https://blog.emojipedia.org/first-look-new-emojis-in-ios-15-4/"
-  - geo_latitude: "50.973823"
-  - geo_longitude: "6.683052"
-  - geo_public: "1"
-  - yourls_shorturl: "https://eay.li/3gz"
+  - "apple"
+  - "emojis"
+  - "ios"
+  - "iphone"
+external_url: "https://blog.emojipedia.org/first-look-new-emojis-in-ios-15-4/"
+short_url: "https://eay.li/3gz"
+geo_latitude: "50.973823"
+geo_longitude: "6.683052"
 ---
+
+[Link →](https://blog.emojipedia.org/first-look-new-emojis-in-ios-15-4/)
 
 [![](https://eay.cc/uploads/2022/emoji-15-4.jpg)](https://blog.emojipedia.org/first-look-new-emojis-in-ios-15-4/)
 

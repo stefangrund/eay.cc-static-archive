@@ -1,20 +1,19 @@
 ---
 title: ".gif der Woche #31"
 date: "2009-11-23"
-datetime: "2009-11-23 18:12:13"
+published_at: "2009-11-23T17:12:13Z"
 id: "10055"
 slug: "gif-der-woche-31"
-url: "https://eay.cc/2009/gif-der-woche-31/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2009/gif-der-woche-31/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - 0815
-  - the-others
+  - "08/15"
+  - "The Others"
 tags:
-  - gif-der-woche
-  - tiere
-meta:
-  - yourls_shorturl: "https://eay.li/m2"
+  - "gif der woche"
+  - "tiere"
+short_url: "https://eay.li/m2"
 ---
 
 ![](https://eay.cc/uploads/2009/bananenaffe.gif) Und heute, liebe Kinder: Wo die Bananen herkommen.

@@ -1,23 +1,22 @@
 ---
 title: "Warum scrobbeln wir eigentlich?"
 date: "2011-04-20"
-datetime: "2011-04-20 22:38:37"
+published_at: "2011-04-20T21:38:37Z"
 id: "16054"
 slug: "warum-scrobbeln-wir-eigentlich"
-url: "https://eay.cc/2011/warum-scrobbeln-wir-eigentlich/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2011/warum-scrobbeln-wir-eigentlich/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - konzerte
-  - last-fm
-  - musik
-  - netzkultur
-  - social-media
-  - web-2-0
-meta:
-  - yourls_shorturl: "https://eay.li/17b"
+  - "konzerte"
+  - "last.fm"
+  - "musik"
+  - "netzkultur"
+  - "social media"
+  - "web 2.0"
+short_url: "https://eay.li/17b"
 ---
 
 [Nico fragt sich drüben in seinem Blogeintrag](http://www.nicorola.de/features/scrobbeln-warum-machen-wir-das-eigentlich), warum wir eigentlich _scrobbeln_, also unsere im iPod, iTunes & Co. abgespielten Songs an [Last.fm](http://www.last.fm/) übertragen. [Bei mir selbst](http://www.lastfm.de/user/Eay) sind seit dem 14. Februar 2006 bereits 45.910 Titel übertragen worden und im Gegensatz zu vielen anderen gibt es bei mir einen gewaltigen Grund, das auch in Zukunft nicht einzustellen: [die persönlichen Event-Empfehlungen](http://www.lastfm.de/home/eventrecs).

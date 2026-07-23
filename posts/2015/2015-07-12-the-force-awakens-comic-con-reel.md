@@ -1,26 +1,25 @@
 ---
 title: "»The Force Awakens« Comic-Con Reel"
 date: "2015-07-12"
-datetime: "2015-07-12 11:06:34"
+published_at: "2015-07-12T09:06:34Z"
 id: "30701"
 slug: "the-force-awakens-comic-con-reel"
-url: "https://eay.cc/2015/the-force-awakens-comic-con-reel/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2015/the-force-awakens-comic-con-reel/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - comic-con
-  - episode-7
-  - filme
-  - star-wars
-meta:
-  - yourls_shorturl: "https://eay.li/2p2"
+  - "comic con"
+  - "episode 7"
+  - "filme"
+  - "star wars"
+short_url: "https://eay.li/2p2"
 ---
 
 > Everything's changed, but nothing changed.
 
-[youtube id="CTNJ51ghzdY"]
+\[youtube id="CTNJ51ghzdY"\]
 
 Super stimmtiges Behind-The-Scenes-Filmchen, das gerade auf der Comic-Con gezeigt wurde. Steigert die Vorfreude ins Unermessliche.
 

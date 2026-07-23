@@ -1,22 +1,23 @@
 ---
 title: "The Not Yorker"
 date: "2017-12-13"
-datetime: "2017-12-13 10:49:16"
+published_at: "2017-12-13T08:49:16Z"
 id: "33804"
 slug: "the-not-yorker"
-url: "https://eay.cc/2017/the-not-yorker/"
-author: "eay"
+permalink: "https://eay.cc/2017/the-not-yorker/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - illustrationen
-  - kunst
-  - magazine
-meta:
-  - yourls_shorturl: "https://eay.li/32n"
-  - linked_list_url: "https://thenotyorker.com/"
+  - "illustrationen"
+  - "kunst"
+  - "magazine"
+external_url: "https://thenotyorker.com/"
+short_url: "https://eay.li/32n"
 ---
+
+[Link →](https://thenotyorker.com/)
 
 ![](https://eay.cc/uploads/2017/the-not-yorker.jpg)
 

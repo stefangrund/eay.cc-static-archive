@@ -1,24 +1,25 @@
 ---
 title: "Epic goes to war with Apple over the App Store"
 date: "2020-08-13"
-datetime: "2020-08-13 23:41:05"
+published_at: "2020-08-13T22:41:05Z"
 id: "36714"
 slug: "epic-goes-to-war-with-apple-over-the-app-store"
-url: "https://eay.cc/2020/epic-goes-to-war-with-apple-over-the-app-store/"
-author: "eay"
+permalink: "https://eay.cc/2020/epic-goes-to-war-with-apple-over-the-app-store/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - apple
-  - epic-games
-  - games
-  - ios
-  - technologie
-meta:
-  - linked_list_url: "https://daringfireball.net/2020/08/epic_app_store_war"
-  - yourls_shorturl: "https://eay.li/3ff"
+  - "apple"
+  - "epic games"
+  - "games"
+  - "ios"
+  - "technologie"
+external_url: "https://daringfireball.net/2020/08/epic_app_store_war"
+short_url: "https://eay.li/3ff"
 ---
+
+[Link →](https://daringfireball.net/2020/08/epic_app_store_war)
 
 Epic provoziert Apple mit der Implementierung einer nach den App Store-Regeln strikt verbotenen eigenen, günstigeren Payment-Option / Apple entfernt das überaus populäre Fortnite aus dem App Store / Epic verklagt Apple wegen Missbrauch ihrer Marktmacht.
 
@@ -28,7 +29,7 @@ Ich vermute, dass es ihnen weniger um die 30% Apple Tax als vielmehr das offene 
 
 Und dafür, dass sie 2020-Apple direkt mit 1984-IBM gleichsetzen, indem sie den berühmten [1984-Werbespot](https://youtu.be/VtvjbmoDx-I) als "Nineteen Eighty-Fortnite" parodieren, gibt es gleich nochmal extra Bonuspunkte.
 
-[youtube id="euiSHuaw6Q4"]
+\[youtube id="euiSHuaw6Q4"\]
 
 > Epic Games has defied the App Store Monopoly. In retaliation, Apple is blocking Fortnite from a billion devices. Join the fight to stop 2020 from becoming “1984”.
 

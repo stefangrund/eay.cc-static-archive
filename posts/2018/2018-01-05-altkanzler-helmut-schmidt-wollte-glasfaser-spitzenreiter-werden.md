@@ -1,26 +1,27 @@
 ---
 title: "Altkanzler Schmidt wollte Glasfaser-Spitzenreiter werden"
 date: "2018-01-05"
-datetime: "2018-01-05 09:50:11"
+published_at: "2018-01-05T08:50:11Z"
 id: "33956"
 slug: "altkanzler-helmut-schmidt-wollte-glasfaser-spitzenreiter-werden"
-url: "https://eay.cc/2018/altkanzler-helmut-schmidt-wollte-glasfaser-spitzenreiter-werden/"
-author: "eay"
+permalink: "https://eay.cc/2018/altkanzler-helmut-schmidt-wollte-glasfaser-spitzenreiter-werden/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - cdu
-  - deutschland
-  - helmut-kohl
-  - helmut-schmidt
-  - netzkultur
-  - politik
-  - spd
-meta:
-  - linked_list_url: "http://wiwo.de/politik/deutschland/digitalpolitik-altkanzler-schmidt-wollte-glasfaser-spitzenreiter-werden/20811640.html"
-  - yourls_shorturl: "https://eay.li/332"
+  - "cdu"
+  - "deutschland"
+  - "helmut kohl"
+  - "helmut schmidt"
+  - "netzkultur"
+  - "politik"
+  - "spd"
+external_url: "http://wiwo.de/politik/deutschland/digitalpolitik-altkanzler-schmidt-wollte-glasfaser-spitzenreiter-werden/20811640.html"
+short_url: "https://eay.li/332"
 ---
+
+[Link →](http://wiwo.de/politik/deutschland/digitalpolitik-altkanzler-schmidt-wollte-glasfaser-spitzenreiter-werden/20811640.html)
 
 > Bereits Anfang der Achtzigerjahre wurde der Ausbau des Glasfasernetzes von der damaligen Bundesregierung geplant. Wäre der Plan umgesetzt worden, hätte Deutschland heute das beste Glasfasernetz der Welt.
 

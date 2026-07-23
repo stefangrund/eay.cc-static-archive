@@ -1,21 +1,22 @@
 ---
 title: "A Front End Developer is Aware"
 date: "2016-07-11"
-datetime: "2016-07-11 08:23:21"
+published_at: "2016-07-11T06:23:21Z"
 id: "31649"
 slug: "a-front-end-developer-is-aware-css-tricks"
-url: "https://eay.cc/2016/a-front-end-developer-is-aware-css-tricks/"
-author: "eay"
+permalink: "https://eay.cc/2016/a-front-end-developer-is-aware-css-tricks/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - frontend
-  - web-development
-meta:
-  - linked_list_url: "https://css-tricks.com/front-end-developer-aware/"
-  - yourls_shorturl: "https://eay.li/2um"
+  - "frontend"
+  - "web development"
+external_url: "https://css-tricks.com/front-end-developer-aware/"
+short_url: "https://eay.li/2um"
 ---
+
+[Link →](https://css-tricks.com/front-end-developer-aware/)
 
 Chris Coyier mit der vielleicht besten Beschreibung unseres Jobs bisher:
 

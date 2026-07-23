@@ -1,24 +1,23 @@
 ---
 title: "Attack of The Simpsons"
 date: "2007-05-08"
-datetime: "2007-05-08 11:24:39"
+published_at: "2007-05-08T09:24:39Z"
 id: "88"
 slug: "attack-of-the-simpsons"
-url: "https://eay.cc/2007/attack-of-the-simpsons/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2007/attack-of-the-simpsons/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - fanboys
-  - fernsehen
-  - filme
-  - konsum
-  - merchandising
-  - photos
-  - simpsons
-meta:
-  - yourls_shorturl: "https://eay.li/ub"
+  - "fanboys"
+  - "fernsehen"
+  - "filme"
+  - "konsum"
+  - "merchandising"
+  - "photos"
+  - "simpsons"
+short_url: "https://eay.li/ub"
 ---
 
 Noch gut zwei Monate, dann können wir uns den [Simpsons Movie](http://www.simpsonsmovie.com/) ansehen. Darauf haben Fans von Homer, Marge, Bart, Lisa und Maggie 18 Jahre lang gewartet. Und während es in unseren Breitengraden bisweilen ruhig zugeht, ist die Verwertungs- maschinerie in den USA bereits kräftigst angelaufen. Es gibt nicht nur [jedes](http://www.flickr.com/photos/retrocactus/426110776/) [erdenkliche](http://www.flickr.com/photos/retrocactus/426110518/) [Spielzeug](http://www.flickr.com/photos/retrocactus/426107919/), sondern auch die merkwürdigsten Produkte mit denen keiner rechnet. Grund genug mal einen Blick in die Welt der [Simpsons-flickr-Fotos](http://www.flickr.com/photos/tags/simpsons/) zu werfen.

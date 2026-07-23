@@ -1,23 +1,24 @@
 ---
 title: "FiveThirtyEight hat Amerikas Lieblings-Star-Wars ermittelt"
 date: "2014-07-31"
-datetime: "2014-07-31 11:19:59"
+published_at: "2014-07-31T09:19:59Z"
 id: "28469"
 slug: "fivethirtyeight-hat-amerikas-lieblings-star-wars-ermittelt"
-url: "https://eay.cc/2014/fivethirtyeight-hat-amerikas-lieblings-star-wars-ermittelt/"
-author: "eay"
+permalink: "https://eay.cc/2014/fivethirtyeight-hat-amerikas-lieblings-star-wars-ermittelt/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - filme
-  - star-wars
-  - umfrage
-  - usa
-meta:
-  - linked_list_url: "http://fivethirtyeight.com/datalab/americas-favorite-star-wars-movies-and-least-favorite-characters/"
-  - yourls_shorturl: "https://eay.li/2hu"
+  - "filme"
+  - "star wars"
+  - "umfrage"
+  - "usa"
+external_url: "http://fivethirtyeight.com/datalab/americas-favorite-star-wars-movies-and-least-favorite-characters/"
+short_url: "https://eay.li/2hu"
 ---
+
+[Link →](http://fivethirtyeight.com/datalab/americas-favorite-star-wars-movies-and-least-favorite-characters/)
 
 ![](https://eay.cc/uploads/2014/starwarssurvey.jpg)
 

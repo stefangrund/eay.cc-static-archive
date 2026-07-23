@@ -1,33 +1,31 @@
 ---
 title: "Seven countries now generate 100% of their electricity from renewable energy"
 date: "2026-04-12"
-datetime: "2026-04-12 22:39:07"
+published_at: "2026-04-12T20:39:07Z"
 id: "41824"
 slug: "seven-countries-now-generate-100-of-their-electricity-from-renewable-energy"
-url: "https://eay.cc/2026/seven-countries-now-generate-100-of-their-electricity-from-renewable-energy/"
-author: "eay"
+permalink: "https://eay.cc/2026/seven-countries-now-generate-100-of-their-electricity-from-renewable-energy/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - deutschland
-  - erneuerbare-energien
-  - klimawandel
-  - politik
-  - strom
-  - technologie
-meta:
-  - linked_list_url: "https://www.the-independent.com/tech/renewable-energy-solar-nepal-bhutan-iceland-b2533699.html"
-  - geo_latitude: "50.973921"
-  - geo_longitude: "6.682872"
-  - geo_public: "1"
-  - yourls_shorturl: "https://eay.li/413"
-  - _share_on_mastodon_url: "https://eay.social/@eay/116393662819014828"
-  - linked_list_og-title: "Seven countries now generate 100% of their electricity from renewable energy"
-  - linked_list_og-description: "Scientists say we have reached an ‘irreversible tipping point’ that will see fossil fuels phased out"
-  - linked_list_og-image: "https://eay.cc/wordpress/uploads/og-cache/883faa09d9edd0bb13402039cdbd8cfe.webp"
-  - content_copy: "https://bsky.app/profile/eay.social/post/3mjd7mzbg232u"
+  - "deutschland"
+  - "erneuerbare energien"
+  - "klimawandel"
+  - "politik"
+  - "strom"
+  - "technologie"
+external_url: "https://www.the-independent.com/tech/renewable-energy-solar-nepal-bhutan-iceland-b2533699.html"
+short_url: "https://eay.li/413"
+content_copy:
+  - "https://bsky.app/profile/eay.social/post/3mjd7mzbg232u"
+  - "https://eay.social/@eay/116393662819014828"
+geo_latitude: "50.973921"
+geo_longitude: "6.682872"
 ---
+
+[Link →](https://www.the-independent.com/tech/renewable-energy-solar-nepal-bhutan-iceland-b2533699.html)
 
 > Albania, Bhutan, Nepal, Paraguay, Iceland, Ethiopia and the Democratic Republic of Congo produced more than 99.7 per cent of the electricity they consumed using geothermal, hydro, solar or wind power.
 

@@ -1,22 +1,23 @@
 ---
 title: "Backer News, ein Aggregator à la Hacker News für Crowdfunding-Kampagnen"
 date: "2014-10-10"
-datetime: "2014-10-10 09:00:12"
+published_at: "2014-10-10T07:00:12Z"
 id: "28940"
 slug: "backer-news-ein-aggregator-a-la-hacker-news-fuer-crowdfunding-kampagnen"
-url: "https://eay.cc/2014/backer-news-ein-aggregator-a-la-hacker-news-fuer-crowdfunding-kampagnen/"
-author: "eay"
+permalink: "https://eay.cc/2014/backer-news-ein-aggregator-a-la-hacker-news-fuer-crowdfunding-kampagnen/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - crowdfunding
-  - kickstarter
-  - netzkultur
-  - webservice
-meta:
-  - linked_list_url: "http://backernews.com/"
-  - yourls_shorturl: "https://eay.li/2jm"
+  - "crowdfunding"
+  - "kickstarter"
+  - "netzkultur"
+  - "webservice"
+external_url: "http://backernews.com/"
+short_url: "https://eay.li/2jm"
 ---
+
+[Link →](http://backernews.com/)
 
 Schöne Übersicht über interessante Projekte bei Kickstarter, Indiegogo & Co.

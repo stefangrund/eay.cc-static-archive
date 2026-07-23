@@ -1,20 +1,19 @@
 ---
 title: "Der Kindle als Sackgasse"
 date: "2012-02-23"
-datetime: "2012-02-23 11:21:08"
+published_at: "2012-02-23T10:21:08Z"
 id: "18829"
 slug: "der-kindle-als-sackgasse"
-url: "https://eay.cc/2012/der-kindle-als-sackgasse/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2012/der-kindle-als-sackgasse/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - amazon
-  - ebooks
-  - kindle
-meta:
-  - yourls_shorturl: "https://eay.li/1g5"
+  - "amazon"
+  - "ebooks"
+  - "kindle"
+short_url: "https://eay.li/1g5"
 ---
 
 Marcel fantasiert über Quote.fm-Hardware macht sich [Gedanken über einen besseren E-Ink-Reader](http://uarrr.org/2012/02/23/wie-ich-einen-e-ink-reader-bauen-wurde/) oder - nennen wir das Kind beim Namen - einen besseren Kindle 4. Und dabei spricht er gleich meinen größten Kritikpunkt an:

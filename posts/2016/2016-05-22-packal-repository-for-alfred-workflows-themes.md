@@ -1,22 +1,23 @@
 ---
 title: "Packal – Repository for Alfred workflows & themes"
 date: "2016-05-22"
-datetime: "2016-05-22 16:38:08"
+published_at: "2016-05-22T15:38:08Z"
 id: "31524"
 slug: "packal-repository-for-alfred-workflows-themes"
-url: "https://eay.cc/2016/packal-repository-for-alfred-workflows-themes/"
-author: "eay"
+permalink: "https://eay.cc/2016/packal-repository-for-alfred-workflows-themes/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
-  - english
+  - "08/15"
+  - "English"
 tags:
-  - alfred
-  - service
-meta:
-  - linked_list_url: "http://www.packal.org/"
-  - yourls_shorturl: "https://eay.li/2tk"
+  - "alfred"
+  - "service"
+external_url: "http://www.packal.org/"
+short_url: "https://eay.li/2tk"
 ---
+
+[Link →](http://www.packal.org/)
 
 I just learned about Packal, a great service by [Shawn Patrick Rice](http://shawnrice.org/) and _the missing link_ in the _Alfredverse_.
 

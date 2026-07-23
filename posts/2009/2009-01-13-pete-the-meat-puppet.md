@@ -1,22 +1,23 @@
 ---
 title: "Pete The Meat Puppet"
 date: "2009-01-13"
-datetime: "2009-01-13 23:02:47"
+published_at: "2009-01-13T22:02:47Z"
 id: "5026"
 slug: "pete-the-meat-puppet"
-url: "https://eay.cc/2009/pete-the-meat-puppet/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2009/pete-the-meat-puppet/"
+author: "Stefan Grund"
+format: "standard"
 tags:
-  - bizarres
-  - konsum
-  - viral
-  - werbung
-meta:
-  - yourls_shorturl: "https://eay.li/gk"
+  - "bizarres"
+  - "konsum"
+  - "viral"
+  - "werbung"
+short_url: "https://eay.li/gk"
 ---
 
 Your favorite viral video for the next five minutes:
+
+[Embedded content](http://www.youtube.com/v/k7VzWitgeU4&hl=de&fs=1)
 
  ([YouTube Direktmeatpete](http://www.youtube.com/watch?v=k7VzWitgeU4&eurl))
 

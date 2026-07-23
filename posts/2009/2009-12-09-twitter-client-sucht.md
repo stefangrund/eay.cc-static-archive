@@ -1,19 +1,18 @@
 ---
 title: "Twitter-Client-Sucht"
 date: "2009-12-09"
-datetime: "2009-12-09 01:34:30"
+published_at: "2009-12-09T00:34:30Z"
 id: "10333"
 slug: "twitter-client-sucht"
-url: "https://eay.cc/2009/twitter-client-sucht/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2009/twitter-client-sucht/"
+author: "Stefan Grund"
+format: "standard"
 tags:
-  - appstore
-  - iphone
-  - konsum
-  - twitter
-meta:
-  - yourls_shorturl: "https://eay.li/q7"
+  - "appstore"
+  - "iphone"
+  - "konsum"
+  - "twitter"
+short_url: "https://eay.li/q7"
 ---
 
 > Nachdem mir täglich jemand von Tweetie für's iPhone vorschwärmt, habe ich mich nun breitschlagen lassen und die 2,40 geopfert. [#](http://twitter.com/Eay/status/6480150505)

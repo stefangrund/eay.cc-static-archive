@@ -1,19 +1,18 @@
 ---
 title: "Feuerzeuge und Böller"
 date: "2015-07-16"
-datetime: "2015-07-16 23:28:58"
+published_at: "2015-07-16T21:28:58Z"
 id: "30718"
 slug: "feuerzeuge-und-boeller"
-url: "https://eay.cc/2015/feuerzeuge-und-boeller/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2015/feuerzeuge-und-boeller/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - analogleben
-  - kira-und-ich
-meta:
-  - yourls_shorturl: "https://eay.li/2p3"
+  - "analogleben"
+  - "kira und ich"
+short_url: "https://eay.li/2p3"
 ---
 
 ![](https://eay.cc/uploads/2015/feuerzeuge-und-boeller.png)

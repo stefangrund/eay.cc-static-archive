@@ -1,28 +1,27 @@
 ---
 title: "“iPod Shuffle” Music Shortcut for iOS and macOS"
 date: "2022-05-08"
-datetime: "2022-05-08 23:22:30"
+published_at: "2022-05-08T21:22:30Z"
 id: "37943"
 slug: "ipod-shuffle-music-shortcut-for-ios-and-macos"
-url: "https://eay.cc/2022/ipod-shuffle-music-shortcut-for-ios-and-macos/"
-author: "eay"
+permalink: "https://eay.cc/2022/ipod-shuffle-music-shortcut-for-ios-and-macos/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - ios
-  - ipod
-  - mac
-  - musik
-meta:
-  - linked_list_url: "https://daught.me/blog/ipod-shuffle-music-shortcut-ios-macos"
-  - geo_latitude: "50.973865"
-  - geo_longitude: "6.683199"
-  - yourls_shorturl: "https://eay.li/3hy"
+  - "ios"
+  - "ipod"
+  - "mac"
+  - "musik"
+external_url: "https://daught.me/blog/ipod-shuffle-music-shortcut-ios-macos"
+short_url: "https://eay.li/3hy"
 ---
+
+[Link →](https://daught.me/blog/ipod-shuffle-music-shortcut-ios-macos)
 
 ![](https://eay.cc/uploads/2022/ipod-shuffle-shortcut.png)
 
 > I built this Shortcut for Apple's Music app (iOS 15 & macOS Monterey) to help rediscover forgotten songs in my Music library and avoid hearing repeats.
 
-Nützlicher Shortcut von [Nathaniel Daught](https://daught.me) mit einem tollen iPod shuffle-inspirierten Icon.
+Nützlicher Shortcut von [Nathaniel Daught](https://daught.me/) mit einem tollen iPod shuffle-inspirierten Icon.

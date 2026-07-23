@@ -1,25 +1,26 @@
 ---
 title: "Plex Cloud, a Plex Media Server on Amazon Drive"
 date: "2016-09-27"
-datetime: "2016-09-27 23:25:58"
+published_at: "2016-09-27T21:25:58Z"
 id: "31741"
 slug: "plex-cloud-a-plex-media-server-on-amazon-drive"
-url: "https://eay.cc/2016/plex-cloud-a-plex-media-server-on-amazon-drive/"
-author: "eay"
+permalink: "https://eay.cc/2016/plex-cloud-a-plex-media-server-on-amazon-drive/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - amazon
-  - cloud
-  - fernsehen
-  - filme
-  - plex
-  - streaming
-meta:
-  - linked_list_url: "https://www.plex.tv/cloud/"
-  - yourls_shorturl: "https://eay.li/2v4"
+  - "amazon"
+  - "cloud"
+  - "fernsehen"
+  - "filme"
+  - "plex"
+  - "streaming"
+external_url: "https://www.plex.tv/cloud/"
+short_url: "https://eay.li/2v4"
 ---
+
+[Link →](https://www.plex.tv/cloud/)
 
 > Run your always-on Plex Media Server in the cloud without the need for an always-on PC or network-attached storage device (NAS). With Plex Cloud, you’ll be ready to go in 60 seconds or less, easily streaming and accessing your media remotely on all your Plex enabled devices. Too easy!
 

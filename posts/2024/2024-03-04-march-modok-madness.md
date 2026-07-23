@@ -1,30 +1,30 @@
 ---
 title: "March MODOK Madness"
 date: "2024-03-04"
-datetime: "2024-03-04 14:13:48"
+published_at: "2024-03-04T13:13:48Z"
 id: "39512"
 slug: "march-modok-madness"
-url: "https://eay.cc/2024/march-modok-madness/"
-author: "eay"
+permalink: "https://eay.cc/2024/march-modok-madness/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
-  - english
+  - "08/15"
+  - "English"
 tags:
-  - best-of
-  - comics
-  - fanart
-  - marvel
-meta:
-  - linked_list_url: "https://marchmodokmadness.blogspot.com/"
-  - geo_latitude: "51.000105"
-  - geo_longitude: "6.794216"
-  - geo_public: "1"
-  - yourls_shorturl: "https://eay.li/3q5"
-  - _share_on_mastodon_url: "https://eay.social/@eay/112037595069972107"
-  - content_copy: "https://bsky.app/profile/eay.social/post/3kmuqbqe52a2m"
-  - _linked_list_og-suppressed: "1"
+  - "best of"
+  - "comics"
+  - "fanart"
+  - "marvel"
+external_url: "https://marchmodokmadness.blogspot.com/"
+short_url: "https://eay.li/3q5"
+content_copy:
+  - "https://bsky.app/profile/eay.social/post/3kmuqbqe52a2m"
+  - "https://eay.social/@eay/112037595069972107"
+geo_latitude: "51.000105"
+geo_longitude: "6.794216"
 ---
+
+[Link →](https://marchmodokmadness.blogspot.com/)
 
 ![Collage of March MODOK Madness artwork](https://eay.cc/uploads/2024/modok.png)
 

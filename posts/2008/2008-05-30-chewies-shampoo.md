@@ -1,21 +1,20 @@
 ---
 title: "Chewie's Shampoo"
 date: "2008-05-30"
-datetime: "2008-05-30 19:39:15"
+published_at: "2008-05-30T17:39:15Z"
 id: "544"
 slug: "chewies-shampoo"
-url: "https://eay.cc/2008/chewies-shampoo/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2008/chewies-shampoo/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - chewbacca
-  - star-wars
-  - werbung
-  - wookiee
-meta:
-  - yourls_shorturl: "https://eay.li/bn"
+  - "chewbacca"
+  - "star wars"
+  - "werbung"
+  - "wookiee"
+short_url: "https://eay.li/bn"
 ---
 
-![](/uploads/2008/wookieeshampoo.jpg "by JollyJack via b3ta.com") Duscht eure Wookiees, ihr alten Wookiee-Treiber! ([via](http://www.b3ta.com/board/8421739))
+![](https://eay.cc/uploads/2008/wookieeshampoo.jpg "by JollyJack via b3ta.com") Duscht eure Wookiees, ihr alten Wookiee-Treiber! ([via](http://www.b3ta.com/board/8421739))

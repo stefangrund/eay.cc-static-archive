@@ -1,27 +1,25 @@
 ---
 title: "Everyone but Jon Hamm"
 date: "2022-01-22"
-datetime: "2022-01-22 19:33:17"
+published_at: "2022-01-22T18:33:17Z"
 id: "37800"
 slug: "everyone-but-jon-hamm"
-url: "https://eay.cc/2022/everyone-but-jon-hamm/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2022/everyone-but-jon-hamm/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - apple
-  - filme
-  - serien
-  - streaming-wars
-  - werbung
-meta:
-  - geo_latitude: "50.973807"
-  - geo_longitude: "6.683048"
-  - geo_public: "1"
-  - yourls_shorturl: "https://eay.li/3gx"
+  - "apple"
+  - "filme"
+  - "serien"
+  - "streaming wars"
+  - "werbung"
+short_url: "https://eay.li/3gx"
+geo_latitude: "50.973807"
+geo_longitude: "6.683048"
 ---
 
-[youtube id="VD3wy3drkyA"]
+\[youtube id="VD3wy3drkyA"\]
 
 Schöner Werbespot für Apple TV+. (via [Daring Fireball](https://daringfireball.net/linked/2022/01/22/everyone-but-jon-hamm))

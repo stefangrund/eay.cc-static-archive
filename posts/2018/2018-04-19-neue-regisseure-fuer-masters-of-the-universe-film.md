@@ -1,22 +1,24 @@
 ---
 title: "Neue Regisseure für »Masters of the Universe«-Film"
 date: "2018-04-19"
-datetime: "2018-04-19 22:23:11"
+published_at: "2018-04-19T20:23:11Z"
 id: "34573"
 slug: "neue-regisseure-fuer-masters-of-the-universe-film"
-url: "https://eay.cc/2018/neue-regisseure-fuer-masters-of-the-universe-film/"
-author: "eay"
+permalink: "https://eay.cc/2018/neue-regisseure-fuer-masters-of-the-universe-film/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - filme
-  - motu
-meta:
-  - linked_list_url: "http://variety.com/2018/film/news/he-man-movie-director-masters-of-the-universe-1202763492/"
-  - yourls_shorturl: "https://eay.li/34v"
-  - content_copy: "https://twitter.com/eay/status/987065940037767169"
+  - "filme"
+  - "motu"
+external_url: "http://variety.com/2018/film/news/he-man-movie-director-masters-of-the-universe-1202763492/"
+short_url: "https://eay.li/34v"
+content_copy:
+  - "https://twitter.com/eay/status/987065940037767169"
 ---
+
+[Link →](http://variety.com/2018/film/news/he-man-movie-director-masters-of-the-universe-1202763492/)
 
 Die unendliche Geschichte um eine neue He-Man-Verfilmung geht in die nächste Runde, indem der Regiestuhl neu besetzt wurde:
 

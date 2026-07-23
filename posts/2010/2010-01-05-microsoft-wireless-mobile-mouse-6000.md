@@ -1,24 +1,23 @@
 ---
 title: "Reviews zu Produkten mit krass trashigen Namen - Teil 1: Microsoft Wireless Mobile Mouse 6000"
 date: "2010-01-05"
-datetime: "2010-01-05 11:10:36"
+published_at: "2010-01-05T10:10:36Z"
 id: "10866"
 slug: "microsoft-wireless-mobile-mouse-6000"
-url: "https://eay.cc/2010/microsoft-wireless-mobile-mouse-6000/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2010/microsoft-wireless-mobile-mouse-6000/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - computer
-  - konsum
-  - maus
-  - microsoft
-meta:
-  - yourls_shorturl: "https://eay.li/l5"
+  - "computer"
+  - "konsum"
+  - "maus"
+  - "microsoft"
+short_url: "https://eay.li/l5"
 ---
 
-Vielleicht können sich einige meiner aufmerksamen [Twitter-Verfolger](http://twitter.com/Eay) noch daran erinnern, dass meine [Mighty Mouse](http://www.amazon.de/exec/obidos/ASIN/B000V053O2/eayznet-21/eayznet-21) im November das Zeitliche gesegnet hat (der Laser war fritte, [der Scrollball nach wie vor eins a](//eay.cc/2009/der-uberraschenderweise-einfachste-und-beste-weg-die-mighty-mouse-zu-reinigen/)). Nun brauchte ich möglichst zügig eine neue Maus, die sich bestensfalls problemlos unter Mac OS X und Windows XY nutzen lässt, da ich damals™ noch in beiden Gefilden wandelte. Dass Apple kurze Zeit später die überaus interessante [Magic Mouse](http://www.apple.com/de/magicmouse/) veröffentlichen würde und dass mein Windows-PC sich ebenfalls in die digitalen Jagdgründe verabschieden würde und ich nun ein Mac-only Guy bin, stand zu diesem Zeitpunkt bestenfalls in den Sternen. Schlechtes Timing, nennt man sowas wohl.
+Vielleicht können sich einige meiner aufmerksamen [Twitter-Verfolger](http://twitter.com/Eay) noch daran erinnern, dass meine [Mighty Mouse](http://www.amazon.de/exec/obidos/ASIN/B000V053O2/eayznet-21/eayznet-21) im November das Zeitliche gesegnet hat (der Laser war fritte, [der Scrollball nach wie vor eins a](https://eay.cc/2009/der-uberraschenderweise-einfachste-und-beste-weg-die-mighty-mouse-zu-reinigen/)). Nun brauchte ich möglichst zügig eine neue Maus, die sich bestensfalls problemlos unter Mac OS X und Windows XY nutzen lässt, da ich damals™ noch in beiden Gefilden wandelte. Dass Apple kurze Zeit später die überaus interessante [Magic Mouse](http://www.apple.com/de/magicmouse/) veröffentlichen würde und dass mein Windows-PC sich ebenfalls in die digitalen Jagdgründe verabschieden würde und ich nun ein Mac-only Guy bin, stand zu diesem Zeitpunkt bestenfalls in den Sternen. Schlechtes Timing, nennt man sowas wohl.
 
 ![](https://eay.cc/uploads/2010/microsoftmouse6000.jpg) Nach ausführlicher [Amazon](http://www.amazon.de/exec/obidos/redirect-home/eayznet-21)-Recherche und [diesem Beitrag im Fontblog](http://www.fontblog.de/ich-hab-mir-gestern-eine-neue-maus-gekauft) entschied ich mich schließlich für eine, meine erste Microsoft-Mouse. Namentlich die [Wireless Mobile Mouse 6000](http://www.amazon.de/exec/obidos/ASIN/B0025U14TE/eayznet-21/eayznet-21) (was für ein geiler Produktname, wa? Fehlt nur noch ein "Ultra", "SE" oder sowas...). Und jetzt nachdem ich sie rund zwei Monate im Dauerbetrieb habe, möchte ich die frohe Botschaft weitertragen: ich möchte sie nicht mehr missen. Denn sie befriedigt meine ganz bescheidenen, aber in der Praxis eher schwierig zu findenden Klick-Bedürfnisse: eine ganz normale Drei-Tasten-Maus mit kippbarem Scrollrad zum vertikalen scrollen, ergänzt um zwei Seitentasten, die angenehm von Daumen und Ringfinger betätigt werden können.
 

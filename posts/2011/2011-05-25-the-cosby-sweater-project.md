@@ -1,26 +1,25 @@
 ---
 title: "The Cosby Sweater Project"
 date: "2011-05-25"
-datetime: "2011-05-25 13:22:50"
+published_at: "2011-05-25T11:22:50Z"
 id: "16356"
 slug: "the-cosby-sweater-project"
-url: "https://eay.cc/2011/the-cosby-sweater-project/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2011/the-cosby-sweater-project/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - 0815
-  - the-others
+  - "08/15"
+  - "The Others"
 tags:
-  - 80er
-  - best-of
-  - bill-cosby
-  - fanart
-  - fernsehen
-  - kleidung
-  - kunst
-  - tumblr
-meta:
-  - yourls_shorturl: "https://eay.li/18a"
+  - "80er"
+  - "best of"
+  - "bill cosby"
+  - "fanart"
+  - "fernsehen"
+  - "kleidung"
+  - "kunst"
+  - "tumblr"
+short_url: "https://eay.li/18a"
 ---
 
 ![](https://eay.cc/uploads/2011/cosbysweaters.jpg)

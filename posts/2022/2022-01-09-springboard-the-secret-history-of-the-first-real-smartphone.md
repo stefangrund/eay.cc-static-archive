@@ -1,28 +1,26 @@
 ---
 title: "Springboard – Doku über die Geschichte des ersten Smartphones"
 date: "2022-01-09"
-datetime: "2022-01-09 15:44:23"
+published_at: "2022-01-09T14:44:23Z"
 id: "37772"
 slug: "springboard-the-secret-history-of-the-first-real-smartphone"
-url: "https://eay.cc/2022/springboard-the-secret-history-of-the-first-real-smartphone/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2022/springboard-the-secret-history-of-the-first-real-smartphone/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - dokumentation
-  - filme
-  - geschichte
-  - technologie
-  - the-verge
-meta:
-  - geo_latitude: "50.973843"
-  - geo_longitude: "6.683044"
-  - geo_public: "1"
-  - yourls_shorturl: "https://eay.li/3go"
+  - "dokumentation"
+  - "filme"
+  - "geschichte"
+  - "technologie"
+  - "the verge"
+short_url: "https://eay.li/3go"
+geo_latitude: "50.973843"
+geo_longitude: "6.683044"
 ---
 
-[youtube id="b9_Vh9h3Ohw"]
+\[youtube id="b9\_Vh9h3Ohw"\]
 
 > A decade before Steve Jobs introduced the iPhone, a tiny team of renegades imagined and tried to build the modern smartphone. Nearly forgotten by history, a little startup called [Handspring](https://en.wikipedia.org/wiki/Handspring_(company)) tried to make the future before it was ready. This is the story of the Treo.
 

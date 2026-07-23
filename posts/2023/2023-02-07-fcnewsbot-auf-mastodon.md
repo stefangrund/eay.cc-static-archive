@@ -1,32 +1,29 @@
 ---
 title: "@fcnewsbot auf Mastodon"
 date: "2023-02-07"
-datetime: "2023-02-07 17:36:16"
+published_at: "2023-02-07T16:36:16Z"
 id: "38436"
 slug: "fcnewsbot-auf-mastodon"
-url: "https://eay.cc/2023/fcnewsbot-auf-mastodon/"
-author: "eay"
+permalink: "https://eay.cc/2023/fcnewsbot-auf-mastodon/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
-  - fc-news-bot
+  - "08/15"
+  - "FC News Bot"
 tags:
-  - best-of
-  - effzeh
-  - fc-news-bot
-  - mastodon
-  - projekte
-  - twitter
-meta:
-  - linked_list_url: "https://eay.social/@fcnewsbot"
-  - geo_latitude: "50.973827"
-  - geo_longitude: "6.683058"
-  - geo_public: "1"
-  - yourls_shorturl: "https://eay.li/3lb"
-  - linked_list_og-title: "FC News Bot (@fcnewsbot@eay.social)"
-  - linked_list_og-description: "6.16K Posts, 1 Following, 155 Followers · Inoffizieller Bot, der auf aktuelle Neuigkeiten rund um den 1. FC Köln verweist. 👨🏻‍💻 Aufgesetzt vom #effzeh-Fan @eay@eay.social mit Unterstützung von @ayacoo@mastodon.social."
-  - linked_list_og-image: "https://eay.cc/wordpress/uploads/og-cache/ec77ac52c4d3a6883670b8bc799fdfbe.webp"
+  - "best of"
+  - "effzeh"
+  - "fc news bot"
+  - "mastodon"
+  - "projekte"
+  - "twitter"
+external_url: "https://eay.social/@fcnewsbot"
+short_url: "https://eay.li/3lb"
+geo_latitude: "50.973827"
+geo_longitude: "6.683058"
 ---
+
+[Link →](https://eay.social/@fcnewsbot)
 
 In Anbetracht der [bevorstehenden](https://eay.cc/2023/twitter-api-wird-kostenpflichtig/) (oder auch [nicht mehr bevorstehenden](https://stadt-bremerhaven.de/twitter-api-bots-mit-guten-inhalten-sollen-sie-doch-weiter-kostenlos-nutzen/)) API-Veränderungen bei Twitter habe ich meinen beliebten [Twitter-Bot @fcnewsbot](https://twitter.com/fcnewsbot), der Neuigkeiten rund um den 1. FC Köln postet, zu einem echten Mastodon-Bot ausgebaut. Bisher wurden lediglich die Tweets rüber syndiziert, nun werden sie zusätzlich zu Twitter auch direkt zu Mastodon gepostet. Damit ist es komplett egal, was drüben bei Elmo passiert.
 

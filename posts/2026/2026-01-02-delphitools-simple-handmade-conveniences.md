@@ -1,29 +1,27 @@
 ---
 title: "delphitools – Simple handmade conveniences"
 date: "2026-01-02"
-datetime: "2026-01-02 16:08:57"
+published_at: "2026-01-02T15:08:57Z"
 id: "40839"
 slug: "delphitools-simple-handmade-conveniences"
-url: "https://eay.cc/2026/delphitools-simple-handmade-conveniences/"
-author: "eay"
+permalink: "https://eay.cc/2026/delphitools-simple-handmade-conveniences/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - netzkultur
-  - webservice
-meta:
-  - linked_list_url: "https://tools.rmv.fyi/"
-  - geo_latitude: "50.973925"
-  - geo_longitude: "6.682997"
-  - geo_public: "1"
-  - yourls_shorturl: "https://eay.li/3y1"
-  - _share_on_mastodon_url: "https://eay.social/@eay/115826133571018571"
-  - linked_list_og-title: "delphitools"
-  - linked_list_og-description: "A collection of small, low stakes and low effort tools. No logins, no registration, no data collection."
-  - linked_list_og-image: "https://eay.cc/wordpress/uploads/og-cache/0d3afd8c427517b3819b2b0062919146_upload.webp"
-  - content_copy: "https://bsky.app/profile/eay.social/post/3mbh6h2imnj26"
+  - "netzkultur"
+  - "webservice"
+external_url: "https://tools.rmv.fyi/"
+short_url: "https://eay.li/3y1"
+content_copy:
+  - "https://bsky.app/profile/eay.social/post/3mbh6h2imnj26"
+  - "https://eay.social/@eay/115826133571018571"
+geo_latitude: "50.973925"
+geo_longitude: "6.682997"
 ---
+
+[Link →](https://tools.rmv.fyi/)
 
 > A collection of small, low stakes and low effort tools.
 

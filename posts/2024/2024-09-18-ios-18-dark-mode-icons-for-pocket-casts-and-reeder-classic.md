@@ -1,28 +1,27 @@
 ---
 title: "iOS 18 Dark Mode Icons for Pocket Casts and Reeder Classic"
 date: "2024-09-18"
-datetime: "2024-09-18 22:18:03"
+published_at: "2024-09-18T20:18:03Z"
 id: "39808"
 slug: "ios-18-dark-mode-icons-for-pocket-casts-and-reeder-classic"
-url: "https://eay.cc/2024/ios-18-dark-mode-icons-for-pocket-casts-and-reeder-classic/"
-author: "eay"
+permalink: "https://eay.cc/2024/ios-18-dark-mode-icons-for-pocket-casts-and-reeder-classic/"
+author: "Stefan Grund"
 format: "aside"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - apps
-  - design
-  - icon
-  - output
-  - pocket-casts
-  - podcast
-  - reeder
-meta:
-  - geo_latitude: "53.930786"
-  - geo_longitude: "11.381335"
-  - geo_public: "1"
-  - yourls_shorturl: "https://eay.li/3s4"
-  - _share_on_mastodon_url: "https://eay.social/@eay/113160400689456490"
+  - "apps"
+  - "design"
+  - "icon"
+  - "output"
+  - "pocket casts"
+  - "podcast"
+  - "reeder"
+short_url: "https://eay.li/3s4"
+content_copy:
+  - "https://eay.social/@eay/113160400689456490"
+geo_latitude: "53.930786"
+geo_longitude: "11.381335"
 ---
 
 Last year when I switched to [Pocket Casts](https://pocketcasts.com/) for all my (cross-platform) podcast needs, [I released a purple version of the official app icon](https://eay.cc/2023/purple-app-icon-for-pocket-casts/), because, well, thanks to Apple Podcasts my brain is hardwired to think of podcasts as purple.

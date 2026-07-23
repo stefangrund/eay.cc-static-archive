@@ -1,28 +1,29 @@
 ---
 title: "Liste der Temperaturrekorde in Deutschland"
 date: "2026-06-27"
-datetime: "2026-06-27 20:49:36"
+published_at: "2026-06-27T18:49:36Z"
 id: "42278"
 slug: "liste-der-temperaturrekorde-in-deutschland"
-url: "https://eay.cc/2026/liste-der-temperaturrekorde-in-deutschland/"
-author: "eay"
+permalink: "https://eay.cc/2026/liste-der-temperaturrekorde-in-deutschland/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - deutschland
-  - klimawandel
-  - wetter
-meta:
-  - linked_list_url: "https://de.wikipedia.org/wiki/Liste_der_Temperaturrekorde_in_Deutschland"
-  - geo_latitude: "50.973837"
-  - geo_longitude: "6.683034"
-  - geo_public: "1"
-  - _linked_list_og-suppressed: "1"
-  - yourls_shorturl: "https://eay.li/43e"
-  - _share_on_mastodon_url: "https://eay.social/@eay/116823580624070585"
-  - content_copy: "https://bsky.app/profile/eay.social/post/3mpc5blq3yq2l"
+  - "deutschland"
+  - "klimawandel"
+  - "wetter"
+external_url: "https://de.wikipedia.org/wiki/Liste_der_Temperaturrekorde_in_Deutschland"
+short_url: "https://eay.li/43e"
+content_copy:
+  - "https://bsky.app/profile/eay.social/post/3mpc5blq3yq2l"
+  - "https://bubbles.town/entry/44739282"
+  - "https://eay.social/@eay/116823580624070585"
+geo_latitude: "50.973837"
+geo_longitude: "6.683034"
 ---
+
+[Link →](https://de.wikipedia.org/wiki/Liste_der_Temperaturrekorde_in_Deutschland)
 
 Nachdem gestern mit 41,3 Grad in Saarbrücken der deutschlandweite Hitzerekord gemessen wurde, toppt Drewitz in Sachsen-Anhalt diesen heute mit 41,5 Grad.
 

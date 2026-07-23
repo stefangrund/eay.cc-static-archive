@@ -1,17 +1,18 @@
 ---
 title: "27 Reasons Why Nothing Matters"
 date: "2012-09-05"
-datetime: "2012-09-05 23:09:50"
+published_at: "2012-09-05T22:09:50Z"
 id: "22716"
 slug: "27-reasons-why-nothing-matters"
-url: "https://eay.cc/2012/27-reasons-why-nothing-matters/"
-author: "eay"
+permalink: "https://eay.cc/2012/27-reasons-why-nothing-matters/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
-meta:
-  - yourls_shorturl: "https://eay.li/1yf"
-  - linked_list_url: "http://www.buzzfeed.com/jwherrman/27-reasons-why-nothing-matters"
+  - "08/15"
+external_url: "http://www.buzzfeed.com/jwherrman/27-reasons-why-nothing-matters"
+short_url: "https://eay.li/1yf"
 ---
+
+[Link →](http://www.buzzfeed.com/jwherrman/27-reasons-why-nothing-matters)
 
 Spoiler-Alert: Weil wir im Vergleich zum Universum winzig und unbedeutend sind.

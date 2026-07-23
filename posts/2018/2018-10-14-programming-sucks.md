@@ -1,26 +1,28 @@
 ---
 title: "Programming Sucks"
 date: "2018-10-14"
-datetime: "2018-10-14 21:31:13"
+published_at: "2018-10-14T19:31:13Z"
 id: "34987"
 slug: "programming-sucks"
-url: "https://eay.cc/2018/programming-sucks/"
-author: "eay"
+permalink: "https://eay.cc/2018/programming-sucks/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - best-of
-  - humor
-  - netzkultur
-  - programmieren
-  - technologie
-meta:
-  - linked_list_url: "https://www.stilldrinking.org/programming-sucks"
-  - yourls_shorturl: "https://eay.li/372"
-  - content_copy: "https://eay.social/@eay/100895667775632882"
-  - content_copy: "https://twitter.com/eay/status/1051716000704593920"
+  - "best of"
+  - "humor"
+  - "netzkultur"
+  - "programmieren"
+  - "technologie"
+external_url: "https://www.stilldrinking.org/programming-sucks"
+short_url: "https://eay.li/372"
+content_copy:
+  - "https://eay.social/@eay/100895667775632882"
+  - "https://twitter.com/eay/status/1051716000704593920"
 ---
+
+[Link →](https://www.stilldrinking.org/programming-sucks)
 
 > All programming teams are constructed by and of crazy people
 

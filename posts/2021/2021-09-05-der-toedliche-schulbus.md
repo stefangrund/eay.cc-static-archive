@@ -1,21 +1,20 @@
 ---
 title: "Der tödliche Schulbus"
 date: "2021-09-05"
-datetime: "2021-09-05 15:54:49"
+published_at: "2021-09-05T13:54:49Z"
 id: "37475"
 slug: "der-toedliche-schulbus"
-url: "https://eay.cc/2021/der-toedliche-schulbus/"
-author: "eay"
+permalink: "https://eay.cc/2021/der-toedliche-schulbus/"
+author: "Stefan Grund"
 format: "quote"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - deutschland
-  - klimawandel
-  - politik
-  - rezo
-meta:
-  - yourls_shorturl: "https://eay.li/2rj"
+  - "deutschland"
+  - "klimawandel"
+  - "politik"
+  - "rezo"
+short_url: "https://eay.li/2rj"
 ---
 
 > Ich sage Ihnen, dass wir unsere Kinder in einen globalen Schulbus hineinschieben, der mit 98-prozentiger Wahrscheinlichkeit tödlich verunglückt.

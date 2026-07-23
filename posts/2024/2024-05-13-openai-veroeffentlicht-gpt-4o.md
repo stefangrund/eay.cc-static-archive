@@ -1,28 +1,29 @@
 ---
 title: "OpenAI veröffentlicht GPT-4o"
 date: "2024-05-13"
-datetime: "2024-05-13 20:49:06"
+published_at: "2024-05-13T18:49:06Z"
 id: "39635"
 slug: "openai-veroeffentlicht-gpt-4o"
-url: "https://eay.cc/2024/openai-veroeffentlicht-gpt-4o/"
-author: "eay"
+permalink: "https://eay.cc/2024/openai-veroeffentlicht-gpt-4o/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - apple
-  - chatgpt
-  - google
-  - kuenstliche-intelligenz
-  - openai
-meta:
-  - linked_list_url: "https://openai.com/index/hello-gpt-4o/"
-  - geo_latitude: "51.000133"
-  - geo_longitude: "6.794173"
-  - geo_public: "1"
-  - yourls_shorturl: "https://eay.li/3qz"
-  - _share_on_mastodon_url: "https://eay.social/@eay/112435275241092842"
+  - "apple"
+  - "chatgpt"
+  - "google"
+  - "künstliche intelligenz"
+  - "openai"
+external_url: "https://openai.com/index/hello-gpt-4o/"
+short_url: "https://eay.li/3qz"
+content_copy:
+  - "https://eay.social/@eay/112435275241092842"
+geo_latitude: "51.000133"
+geo_longitude: "6.794173"
 ---
+
+[Link →](https://openai.com/index/hello-gpt-4o/)
 
 > GPT-4o ("o" for "omni") is a step towards much more natural human-computer interaction--it accepts as input any combination of text, audio, and image and generates any combination of text, audio, and image outputs.
 

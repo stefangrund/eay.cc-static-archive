@@ -1,18 +1,17 @@
 ---
 title: "Blink182 Reunion"
 date: "2009-02-09"
-datetime: "2009-02-09 15:32:16"
+published_at: "2009-02-09T14:32:16Z"
 id: "5581"
 slug: "blink182-reunion"
-url: "https://eay.cc/2009/blink182-reunion/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2009/blink182-reunion/"
+author: "Stefan Grund"
+format: "standard"
 tags:
-  - blink-182
-  - musik
-  - reunion
-meta:
-  - yourls_shorturl: "https://eay.li/8r"
+  - "blink 182"
+  - "musik"
+  - "reunion"
+short_url: "https://eay.li/8r"
 ---
 
 Wenn ich entscheiden müsste, welches Album ich auf die berühmte einsame Insel mitnehmen würde, dann würde es wahrscheinlich [Take off your Pants and Jacket](http://www.amazon.de/exec/obidos/ASIN/B00004RYVX/eayznet-21) von Blink 182 werden. Nun habe ich mich ja eigentlich damit abgefunden, dass es Blink 182 wie alle großen Bands mit B nicht mehr geben wird (was nach dem 2003er Album auch nicht das schlimmste gewesen wäre), da lassen die Herren gestern [bei den Grammys](http://www.hermsfarm.de/blog/?p=3480) und [im Web](http://www.blink182.com/) die Bombe platzen:

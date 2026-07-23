@@ -1,22 +1,23 @@
 ---
 title: "Where are all the Bob Ross paintings?"
 date: "2019-07-14"
-datetime: "2019-07-14 11:53:53"
+published_at: "2019-07-14T09:53:53Z"
 id: "35822"
 slug: "where-are-all-the-bob-ross-paintings"
-url: "https://eay.cc/2019/where-are-all-the-bob-ross-paintings/"
-author: "eay"
+permalink: "https://eay.cc/2019/where-are-all-the-bob-ross-paintings/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - bob-ross
-  - kunst
-  - netzkultur
-meta:
-  - linked_list_url: "https://www.nytimes.com/2019/07/12/arts/bob-ross-paintings-mystery.html"
-  - yourls_shorturl: "https://eay.li/3aq"
+  - "bob ross"
+  - "kunst"
+  - "netzkultur"
+external_url: "https://www.nytimes.com/2019/07/12/arts/bob-ross-paintings-mystery.html"
+short_url: "https://eay.li/3aq"
 ---
+
+[Link →](https://www.nytimes.com/2019/07/12/arts/bob-ross-paintings-mystery.html)
 
 > Bob Ross painted more than 1,000 landscapes for his television show — so why are they so hard to find? We solve one of the internet’s favorite little mysteries.
 

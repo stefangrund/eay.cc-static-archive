@@ -1,30 +1,28 @@
 ---
 title: "Just the Browser: Strippt moderne Browser (wieder) auf das Wesentliche"
 date: "2026-01-16"
-datetime: "2026-01-16 08:45:20"
+published_at: "2026-01-16T07:45:20Z"
 id: "40942"
 slug: "just-the-browser-strippt-moderne-browser-wieder-auf-das-wesentliche"
-url: "https://eay.cc/2026/just-the-browser-strippt-moderne-browser-wieder-auf-das-wesentliche/"
-author: "eay"
+permalink: "https://eay.cc/2026/just-the-browser-strippt-moderne-browser-wieder-auf-das-wesentliche/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - browser
-  - kuenstliche-intelligenz
-  - netzkultur
-meta:
-  - linked_list_url: "https://justthebrowser.com/"
-  - geo_latitude: "50.973817"
-  - geo_longitude: "6.683027"
-  - geo_public: "1"
-  - linked_list_og-title: "Just the Browser - Just the Browser"
-  - linked_list_og-description: "Remove AI features, telemetry data reporting, sponsored content, product integrations, and other annoyances from web browsers."
-  - linked_list_og-image: "https://eay.cc/wordpress/uploads/og-cache/36c34d5a6adbd307c1b25cf2fd320a31_upload.webp"
-  - yourls_shorturl: "https://eay.li/3yj"
-  - _share_on_mastodon_url: "https://eay.social/@eay/115903661757820555"
-  - content_copy: "https://bsky.app/profile/eay.social/post/3mcjm5yuygn2b"
+  - "browser"
+  - "künstliche intelligenz"
+  - "netzkultur"
+external_url: "https://justthebrowser.com/"
+short_url: "https://eay.li/3yj"
+content_copy:
+  - "https://bsky.app/profile/eay.social/post/3mcjm5yuygn2b"
+  - "https://eay.social/@eay/115903661757820555"
+geo_latitude: "50.973817"
+geo_longitude: "6.683027"
 ---
+
+[Link →](https://justthebrowser.com/)
 
 > Just the Browser helps you remove AI features, telemetry data reporting, sponsored content, product integrations, and other annoyances from desktop web browsers. The goal is to give you "just the browser" and nothing else, using hidden settings in web browsers intended for companies and other organizations.
 

@@ -1,24 +1,23 @@
 ---
 title: "Tschernobyl-Doku: Alone in the Zone"
 date: "2011-01-06"
-datetime: "2011-01-06 13:28:23"
+published_at: "2011-01-06T12:28:23Z"
 id: "14687"
 slug: "tschernobyl-doku-alone-in-the-zone"
-url: "https://eay.cc/2011/tschernobyl-doku-alone-in-the-zone/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2011/tschernobyl-doku-alone-in-the-zone/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - dokumentation
-  - filme
-  - trailer
-  - tschernobyl
-meta:
-  - yourls_shorturl: "https://eay.li/142"
+  - "dokumentation"
+  - "filme"
+  - "trailer"
+  - "tschernobyl"
+short_url: "https://eay.li/142"
 ---
 
-[youtube id="ti8uwMDgBLU"]
+\[youtube id="ti8uwMDgBLU"\]
 
 »Alone in the Zone« ist eine die Tschernobyl-Dokumentation der besonderen Art: Anstatt einmal mehr die Chronologie und Hintergründe der Katastrophe aufzuzeigen, möchte [Arkadiusz Podniesinski](http://www.podniesinski.pl/), Regisseur, Kameramann und Film-Crew in einem, einen möglichst realistischen und unverfälschten Eindruck der Zone 25 Jahre nach dem Super-GAU vermitteln. So macht er sich mittels Helmkamera auf und besucht mehr oder weniger bekannte Orte in und um Tschernobyl und sogar die Reaktoren selbst - was nicht ohne Absicht wie ein Ego Shooter in einer postapokalyptischen Schreckensvision aussieht.
 

@@ -1,20 +1,21 @@
 ---
 title: "Ich brauche gerade sowieso neue Gartenmöbel"
 date: "2012-07-02"
-datetime: "2012-07-02 22:50:38"
+published_at: "2012-07-02T21:50:38Z"
 id: "22672"
 slug: "ich-brauche-gerade-sowieso-neue-gartenmobel"
-url: "https://eay.cc/2012/ich-brauche-gerade-sowieso-neue-gartenmobel/"
-author: "eay"
+permalink: "https://eay.cc/2012/ich-brauche-gerade-sowieso-neue-gartenmobel/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - mobel
-  - star-wars
-meta:
-  - yourls_shorturl: "https://eay.li/1x5"
-  - linked_list_url: "http://laughingsquid.com/stormtrooper-wooden-lawn-chair/"
+  - "möbel"
+  - "star wars"
+external_url: "http://laughingsquid.com/stormtrooper-wooden-lawn-chair/"
+short_url: "https://eay.li/1x5"
 ---
 
-Für [Star Wars](//eay.cc/tag/star-wars/)-Fanboys mit Garten.
+[Link →](http://laughingsquid.com/stormtrooper-wooden-lawn-chair/)
+
+Für [Star Wars](https://eay.cc/tag/star-wars/)-Fanboys mit Garten.

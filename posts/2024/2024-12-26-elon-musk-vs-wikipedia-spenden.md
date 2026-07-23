@@ -1,23 +1,22 @@
 ---
 title: "Elon Musk vs. Wikipedia-Spenden"
 date: "2024-12-26"
-datetime: "2024-12-26 02:45:47"
+published_at: "2024-12-26T01:45:47Z"
 id: "40107"
 slug: "elon-musk-vs-wikipedia-spenden"
-url: "https://eay.cc/2024/elon-musk-vs-wikipedia-spenden/"
-author: "eay"
+permalink: "https://eay.cc/2024/elon-musk-vs-wikipedia-spenden/"
+author: "Stefan Grund"
 format: "aside"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - elon-musk
-  - wikipedia
-meta:
-  - geo_latitude: "50.973836"
-  - geo_longitude: "6.682999"
-  - geo_public: "1"
-  - yourls_shorturl: "https://eay.li/3tt"
-  - _share_on_mastodon_url: "https://eay.social/@eay/113716595868741914"
+  - "elon musk"
+  - "wikipedia"
+short_url: "https://eay.li/3tt"
+content_copy:
+  - "https://eay.social/@eay/113716595868741914"
+geo_latitude: "50.973836"
+geo_longitude: "6.682999"
 ---
 
 _Und [weiter](https://eay.cc/2024/elon-musk-die-afd/) geht es:_

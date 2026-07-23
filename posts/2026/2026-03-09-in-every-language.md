@@ -1,30 +1,28 @@
 ---
 title: "In Every Language"
 date: "2026-03-09"
-datetime: "2026-03-09 11:45:00"
+published_at: "2026-03-09T10:45:00Z"
 id: "41434"
 slug: "in-every-language"
-url: "https://eay.cc/2026/in-every-language/"
-author: "eay"
+permalink: "https://eay.cc/2026/in-every-language/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - netzkultur
-  - sprache
-  - wikipedia
-meta:
-  - linked_list_url: "https://walzr.com/in-every-language/happiness"
-  - geo_latitude: "50.973843"
-  - geo_longitude: "6.682991"
-  - geo_public: "1"
-  - linked_list_og-title: "In Every Language"
-  - linked_list_og-image: "https://eay.cc/wordpress/uploads/og-cache/a780462358fd6bc83ec3295b78e9a36a_upload.webp"
-  - yourls_shorturl: "https://eay.li/402"
-  - _share_on_mastodon_url: "https://eay.social/@eay/116198808064425579"
-  - content_copy: "https://bsky.app/profile/eay.social/post/3mgmomx6q222g"
-  - linked_list_og-description: "Wikipedia has over 300 language editions. Each one picks different images to illustrate the same topic!"
+  - "netzkultur"
+  - "sprache"
+  - "wikipedia"
+external_url: "https://walzr.com/in-every-language/happiness"
+short_url: "https://eay.li/402"
+content_copy:
+  - "https://bsky.app/profile/eay.social/post/3mgmomx6q222g"
+  - "https://eay.social/@eay/116198808064425579"
+geo_latitude: "50.973843"
+geo_longitude: "6.682991"
 ---
+
+[Link →](https://walzr.com/in-every-language/happiness)
 
 > Wikipedia has over 300 language editions. Each one picks different images to illustrate the same topic!
 

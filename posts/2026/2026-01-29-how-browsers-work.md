@@ -1,30 +1,28 @@
 ---
 title: "How Browsers Work"
 date: "2026-01-29"
-datetime: "2026-01-29 07:30:58"
+published_at: "2026-01-29T06:30:58Z"
 id: "40995"
 slug: "how-browsers-work"
-url: "https://eay.cc/2026/how-browsers-work/"
-author: "eay"
+permalink: "https://eay.cc/2026/how-browsers-work/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - browser
-  - netzkultur
-  - technologie
-meta:
-  - linked_list_url: "https://howbrowserswork.com/"
-  - geo_latitude: "51.000136"
-  - geo_longitude: "6.794065"
-  - geo_public: "1"
-  - linked_list_og-title: "How Browsers Work"
-  - linked_list_og-description: "The guide is for engineers and curious people who use the web every day, but never built a mental model of how browsers work."
-  - linked_list_og-image: "https://eay.cc/wordpress/uploads/og-cache/97cb336429b3492a76de91b12e3a26b3_upload.webp"
-  - yourls_shorturl: "https://eay.li/3yw"
-  - _share_on_mastodon_url: "https://eay.social/@eay/115976979685338240"
-  - content_copy: "https://bsky.app/profile/eay.social/post/3mdk677cgti2r"
+  - "browser"
+  - "netzkultur"
+  - "technologie"
+external_url: "https://howbrowserswork.com/"
+short_url: "https://eay.li/3yw"
+content_copy:
+  - "https://bsky.app/profile/eay.social/post/3mdk677cgti2r"
+  - "https://eay.social/@eay/115976979685338240"
+geo_latitude: "51.000136"
+geo_longitude: "6.794065"
 ---
+
+[Link →](https://howbrowserswork.com/)
 
 > I built the guide with many tiny interactive examples you can play with to help you go get through the technical details and build an intuition of how browsers work.
 

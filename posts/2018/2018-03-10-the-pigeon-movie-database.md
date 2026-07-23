@@ -1,25 +1,27 @@
 ---
 title: "The Pigeon Movie Database"
 date: "2018-03-10"
-datetime: "2018-03-10 17:30:00"
+published_at: "2018-03-10T16:30:00Z"
 id: "34382"
 slug: "the-pigeon-movie-database"
-url: "https://eay.cc/2018/the-pigeon-movie-database/"
-author: "eay"
+permalink: "https://eay.cc/2018/the-pigeon-movie-database/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - bizarres
-  - fernsehen
-  - filme
-  - filmwissenschaft
-  - tiere
-meta:
-  - linked_list_url: "http://pigeonmoviedb.blogspot.com/"
-  - yourls_shorturl: "https://eay.li/344"
-  - content_copy: "https://twitter.com/eay/status/972744005137129472"
+  - "bizarres"
+  - "fernsehen"
+  - "filme"
+  - "filmwissenschaft"
+  - "tiere"
+external_url: "http://pigeonmoviedb.blogspot.com/"
+short_url: "https://eay.li/344"
+content_copy:
+  - "https://twitter.com/eay/status/972744005137129472"
 ---
+
+[Link →](http://pigeonmoviedb.blogspot.com/)
 
 ![](https://eay.cc/uploads/2018/pmdb.gif)
 

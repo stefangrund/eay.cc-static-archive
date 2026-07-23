@@ -1,23 +1,23 @@
 ---
 title: "Bachelorarbeit &check;"
 date: "2014-05-05"
-datetime: "2014-05-05 17:59:08"
+published_at: "2014-05-05T15:59:08Z"
 id: "27799"
 slug: "bachelorarbeit"
-url: "https://eay.cc/2014/bachelorarbeit/"
-author: "eay"
+permalink: "https://eay.cc/2014/bachelorarbeit/"
+author: "Stefan Grund"
 format: "image"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - analogleben
-  - bachelorarbeit
-  - fotos
-  - personal-api
-  - studium
-meta:
-  - yourls_shorturl: "https://eay.li/2fb"
-  - content_copy: "https://www.instagram.com/p/nnZEWTnSx2/"
+  - "analogleben"
+  - "bachelorarbeit"
+  - "fotos"
+  - "personal api"
+  - "studium"
+short_url: "https://eay.li/2fb"
+content_copy:
+  - "https://www.instagram.com/p/nnZEWTnSx2/"
 ---
 
 ![](https://eay.cc/uploads/2014/bestanden.jpg)

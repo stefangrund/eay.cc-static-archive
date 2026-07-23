@@ -1,27 +1,26 @@
 ---
 title: "Princess Leia’s Stolen Death Star Plans"
 date: "2017-05-02"
-datetime: "2017-05-02 23:29:39"
+published_at: "2017-05-02T21:29:39Z"
 id: "32863"
 slug: "princess-leias-stolen-death-star-plans"
-url: "https://eay.cc/2017/princess-leias-stolen-death-star-plans/"
-author: "eay"
+permalink: "https://eay.cc/2017/princess-leias-stolen-death-star-plans/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - fanart
-  - mashup
-  - mp3
-  - musik
-  - star-wars
-  - the-beatles
-meta:
-  - linked_list_url: "http://www.paletteswapninja.com/2017/05/01/new-album-princess-leias-stolen-death-star-plans/"
-  - yourls_shorturl: "https://eay.li/2y3"
-  - linked_list_og-title: "New Album: Princess Leia’s Stolen Death Star Plans"
-  - linked_list_og-description: "After five long years, we are thrilled to announce that our new album is available today -- and it's free! This year marks two important pop-culture milestones: The 40th anniversary of Star Wars on May 25, and the 50th anniversary of The Beatles' Sgt. Pepper's Lonely Hearts Club Band a week later..."
+  - "fanart"
+  - "mashup"
+  - "mp3"
+  - "musik"
+  - "star wars"
+  - "the beatles"
+external_url: "http://www.paletteswapninja.com/2017/05/01/new-album-princess-leias-stolen-death-star-plans/"
+short_url: "https://eay.li/2y3"
 ---
+
+[Link →](http://www.paletteswapninja.com/2017/05/01/new-album-princess-leias-stolen-death-star-plans/)
 
 > This year marks two important pop-culture milestones: The 40th anniversary of Star Wars on May 25, and the 50th anniversary of The Beatles’ Sgt. Pepper’s Lonely Hearts Club Band a week later, June 1. Our new album merges both into one full-length concept album titled Princess Leia’s Stolen Death Star Plans. It’s the entire Beatles album as accurately as we could record it, only now it tells the story of Star Wars: A New Hope — in order.
 

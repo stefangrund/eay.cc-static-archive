@@ -1,27 +1,25 @@
 ---
 title: "A unified theory of fucks"
 date: "2024-02-10"
-datetime: "2024-02-10 09:09:37"
+published_at: "2024-02-10T08:09:37Z"
 id: "39462"
 slug: "a-unified-theory-of-fucks"
-url: "https://eay.cc/2024/a-unified-theory-of-fucks/"
-author: "eay"
+permalink: "https://eay.cc/2024/a-unified-theory-of-fucks/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - arbeit
-meta:
-  - linked_list_url: "https://aworkinglibrary.com/writing/unified-theory-of------"
-  - geo_latitude: "50.973839"
-  - geo_longitude: "6.682999"
-  - geo_public: "1"
-  - yourls_shorturl: "https://eay.li/3ps"
-  - _share_on_mastodon_url: "https://eay.social/@eay/111906165812427006"
-  - linked_list_og-title: "A unified theory of fucks"
-  - linked_list_og-description: "Where to give all your precious fucks."
-  - linked_list_og-image: "https://eay.cc/wordpress/uploads/og-cache/98408442f5fce7d82cf0ee297c5b483e.webp"
+  - "arbeit"
+external_url: "https://aworkinglibrary.com/writing/unified-theory-of------"
+short_url: "https://eay.li/3ps"
+content_copy:
+  - "https://eay.social/@eay/111906165812427006"
+geo_latitude: "50.973839"
+geo_longitude: "6.682999"
 ---
+
+[Link →](https://aworkinglibrary.com/writing/unified-theory-of------)
 
 > The theory goes like so: you are born with so many fucks to give. However many you’ve got is all there is; they are like eggs, that way. Some of us are born with quite a lot, some with less, but none of us knows how many we have. When we’re young, we go around giving a fuck about all kinds of things, blissfully unaware of our ever-dwindling supply. Until one day, we give the last fuck we’ve got, and we notice that the invisible bag of fucks we’ve been carrying around all these years is finally, irredeemably, empty. We have no more fucks left to give.
 

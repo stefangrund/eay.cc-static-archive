@@ -1,21 +1,22 @@
 ---
 title: "Salat kommt künftig aus dem Automaten"
 date: "2021-07-06"
-datetime: "2021-07-06 08:03:06"
+published_at: "2021-07-06T06:03:06Z"
 id: "37390"
 slug: "salat-kommt-kuenftig-aus-dem-automaten"
-url: "https://eay.cc/2021/salat-kommt-kuenftig-aus-dem-automaten/"
-author: "eay"
+permalink: "https://eay.cc/2021/salat-kommt-kuenftig-aus-dem-automaten/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - nahrung
-  - technologie
-meta:
-  - linked_list_url: "https://www.chowbotics.com/"
-  - yourls_shorturl: "https://eay.li/2pp"
+  - "nahrung"
+  - "technologie"
+external_url: "https://www.chowbotics.com/"
+short_url: "https://eay.li/2pp"
 ---
+
+[Link →](https://www.chowbotics.com/)
 
 Die Firma Chowbotics, die hinter "Sally The Robot" steckt, nennt das natürlich nicht Automat, sondern Roboter und wurde im Februar [vom US-Lieferdienst Doordash gekauft](https://blog.doordash.com/welcoming-chowbotics-to-the-doordash-team-cf0b59c4ce94).
 

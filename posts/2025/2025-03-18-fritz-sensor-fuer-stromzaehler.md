@@ -1,26 +1,25 @@
 ---
 title: "Fritz-Sensor für Stromzähler"
 date: "2025-03-18"
-datetime: "2025-03-18 13:18:55"
+published_at: "2025-03-18T12:18:55Z"
 id: "40275"
 slug: "fritz-sensor-fuer-stromzaehler"
-url: "https://eay.cc/2025/fritz-sensor-fuer-stromzaehler/"
-author: "eay"
+permalink: "https://eay.cc/2025/fritz-sensor-fuer-stromzaehler/"
+author: "Stefan Grund"
 format: "aside"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - fritzbox
-  - smarthome
-  - strom
-  - tibber
-meta:
-  - geo_latitude: "51.000174"
-  - geo_longitude: "6.79418"
-  - geo_public: "1"
-  - yourls_shorturl: "https://eay.li/3us"
-  - _share_on_mastodon_url: "https://eay.social/@eay/114183394874996506"
-  - content_copy: "https://bsky.app/profile/eay.social/post/3lknnsi43wr2o"
+  - "fritzbox"
+  - "smarthome"
+  - "strom"
+  - "tibber"
+short_url: "https://eay.li/3us"
+content_copy:
+  - "https://bsky.app/profile/eay.social/post/3lknnsi43wr2o"
+  - "https://eay.social/@eay/114183394874996506"
+geo_latitude: "51.000174"
+geo_longitude: "6.79418"
 ---
 
 Sehr cool: [Mit dem FRITZ!Smart Energy 250 gibt es nun einen Sensor zur digitalen Erfassung eures Stromzählers](https://fritz.com/unternehmen/presse/presseinformationen/2025/03/neuer-sensor-fuer-digitale-stromzaehler-mit-fritzsmart-energy-250-die-stromkosten-optimieren/) für 89 Euro, der sich einfach in das DECT-basierte Fritz-Smarthome-System integrieren lässt (und von da aus sicherlich weiterverarbeiten).

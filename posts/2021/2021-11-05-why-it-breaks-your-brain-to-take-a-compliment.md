@@ -1,24 +1,24 @@
 ---
 title: "Why it breaks your brain to take a compliment"
 date: "2021-11-05"
-datetime: "2021-11-05 13:44:14"
+published_at: "2021-11-05T11:44:14Z"
 id: "37575"
 slug: "why-it-breaks-your-brain-to-take-a-compliment"
-url: "https://eay.cc/2021/why-it-breaks-your-brain-to-take-a-compliment/"
-author: "eay"
+permalink: "https://eay.cc/2021/why-it-breaks-your-brain-to-take-a-compliment/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - the-oatmeal
-  - webcomic
-meta:
-  - linked_list_url: "https://theoatmeal.com/comics/brain_compliments"
-  - geo_latitude: "50.973808"
-  - geo_longitude: "6.683042"
-  - geo_public: "1"
-  - yourls_shorturl: "https://eay.li/2to"
+  - "the oatmeal"
+  - "webcomic"
+external_url: "https://theoatmeal.com/comics/brain_compliments"
+short_url: "https://eay.li/2to"
+geo_latitude: "50.973808"
+geo_longitude: "6.683042"
 ---
+
+[Link →](https://theoatmeal.com/comics/brain_compliments)
 
 > Receiving a compliment is like being tossed a ball covered in lube and scorpions by somebody with the best intentions.
 

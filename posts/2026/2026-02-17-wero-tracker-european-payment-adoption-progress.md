@@ -1,31 +1,29 @@
 ---
 title: "Wero Tracker - European Payment Adoption Progress"
 date: "2026-02-17"
-datetime: "2026-02-17 23:41:55"
+published_at: "2026-02-17T22:41:55Z"
 id: "41285"
 slug: "wero-tracker-european-payment-adoption-progress"
-url: "https://eay.cc/2026/wero-tracker-european-payment-adoption-progress/"
-author: "eay"
+permalink: "https://eay.cc/2026/wero-tracker-european-payment-adoption-progress/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - apps
-  - banken
-  - europa
-  - geld
-meta:
-  - linked_list_url: "https://werotracker.eu/"
-  - geo_latitude: "50.973827"
-  - geo_longitude: "6.683027"
-  - geo_public: "1"
-  - yourls_shorturl: "https://eay.li/3zg"
-  - _share_on_mastodon_url: "https://eay.social/@eay/116088380892836572"
-  - linked_list_og-title: "Wero Tracker - European Payment Adoption Progress"
-  - linked_list_og-description: "Track Wero payment adoption across European banks. See which banks support P2P, online, and in-store payments."
-  - linked_list_og-image: "https://eay.cc/wordpress/uploads/og-cache/e888132195893eaff88114e3964d1141_upload.webp"
-  - content_copy: "https://bsky.app/profile/eay.social/post/3mf3nbf3tup2f"
+  - "apps"
+  - "banken"
+  - "europa"
+  - "geld"
+external_url: "https://werotracker.eu/"
+short_url: "https://eay.li/3zg"
+content_copy:
+  - "https://bsky.app/profile/eay.social/post/3mf3nbf3tup2f"
+  - "https://eay.social/@eay/116088380892836572"
+geo_latitude: "50.973827"
+geo_longitude: "6.683027"
 ---
+
+[Link →](https://werotracker.eu/)
 
 > Follow Wero's rollout across Europe's banks and online shops.
 

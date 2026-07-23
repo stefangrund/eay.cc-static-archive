@@ -1,29 +1,30 @@
 ---
 title: "Something, Something, Something, Dark Side"
 date: "2009-11-27"
-datetime: "2009-11-27 15:57:26"
+published_at: "2009-11-27T14:57:26Z"
 id: "10209"
 slug: "something-something-something-dark-side"
-url: "https://eay.cc/2009/something-something-something-dark-side/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2009/something-something-something-dark-side/"
+author: "Stefan Grund"
+format: "standard"
 tags:
-  - family-guy
-  - fernsehen
-  - filme
-  - hommage
-  - parodie
-  - star-wars
-  - trailer
-meta:
-  - yourls_shorturl: "https://eay.li/a1"
+  - "family guy"
+  - "fernsehen"
+  - "filme"
+  - "hommage"
+  - "parodie"
+  - "star wars"
+  - "trailer"
+short_url: "https://eay.li/a1"
 ---
 
-Als [Blue Harvest](http://www.amazon.de/exec/obidos/ASIN/B0012OVDRM/eayznet-21), die [Star Wars](//eay.cc/tag/star-wars/)-Parodie von Family Guy, vor zwei Jahren erschien, war ich als alter Sternenkrieg- und Griffin-Fanboy natürlich [hellauf begeistert](//eay.cc/2007/das-family-guy-star-wars-special/). Glücklicherweise wurde alsbald bekannt, dass das nicht der letzte Ausflug ins Star Wars-Universum gewesen sein sollte und die Zeichen für eine Hommage an "The Empire strikes back" ziemlich gut standen.
+Als [Blue Harvest](http://www.amazon.de/exec/obidos/ASIN/B0012OVDRM/eayznet-21), die [Star Wars](https://eay.cc/tag/star-wars/)-Parodie von Family Guy, vor zwei Jahren erschien, war ich als alter Sternenkrieg- und Griffin-Fanboy natürlich [hellauf begeistert](https://eay.cc/2007/das-family-guy-star-wars-special/). Glücklicherweise wurde alsbald bekannt, dass das nicht der letzte Ausflug ins Star Wars-Universum gewesen sein sollte und die Zeichen für eine Hommage an "The Empire strikes back" ziemlich gut standen.
 
 Nun, zwei Jahre später, ist es endlich soweit. Der Release des zweiten Family-Guy-Star-Wars-Specials steht unmittelbar bevor. Der Name "Something, Something, Something, Dark Side", der Inhalt - wie erwartet - Episode V, welche übrigens meine absolute Lieblingsepisode ist. Am 22.12. soll's in den USA soweit sein, in Europa erscheint die DVD am 27.1. und der Trailer lässt hoffen, dass es ähnlich gut wird wie beim ersten Mal.
 
 > A fantastic journey into a past - that looks like the future...
+
+[Embedded content](http://www.youtube.com/v/5QXZJkLwR4I&hl=de_DE&fs=1&)
 
  ([YouTube Direktdarkside](http://www.youtube.com/watch?v=5QXZJkLwR4I), [via](http://www.filmjournalisten.de/2009/11/25/something-something-something-dark-side/))
 

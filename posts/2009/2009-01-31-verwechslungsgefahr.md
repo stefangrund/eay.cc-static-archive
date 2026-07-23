@@ -1,18 +1,17 @@
 ---
 title: "Verwechslungsgefahr"
 date: "2009-01-31"
-datetime: "2009-01-31 23:50:22"
+published_at: "2009-01-31T22:50:22Z"
 id: "5387"
 slug: "verwechslungsgefahr"
-url: "https://eay.cc/2009/verwechslungsgefahr/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2009/verwechslungsgefahr/"
+author: "Stefan Grund"
+format: "standard"
 tags:
-  - blogging
-  - eayz
-  - namen
-meta:
-  - yourls_shorturl: "https://eay.li/fz"
+  - "blogging"
+  - "eayz"
+  - "namen"
+short_url: "https://eay.li/fz"
 ---
 
 > via easy.net

@@ -1,25 +1,24 @@
 ---
 title: "50 Years of Thinking Different"
 date: "2026-04-01"
-datetime: "2026-04-01 23:02:27"
+published_at: "2026-04-01T21:02:27Z"
 id: "41690"
 slug: "50-years-of-thinking-different-2"
-url: "https://eay.cc/2026/50-years-of-thinking-different-2/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2026/50-years-of-thinking-different-2/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - apple
-  - retro
-  - technologie
-meta:
-  - geo_latitude: "50.973809"
-  - geo_longitude: "6.683076"
-  - geo_public: "1"
-  - yourls_shorturl: "https://eay.li/40s"
-  - _share_on_mastodon_url: "https://eay.social/@eay/116331500810978850"
-  - content_copy: "https://bsky.app/profile/eay.social/post/3mihmc2cygu23"
+  - "apple"
+  - "retro"
+  - "technologie"
+short_url: "https://eay.li/40s"
+content_copy:
+  - "https://bsky.app/profile/eay.social/post/3mihmc2cygu23"
+  - "https://eay.social/@eay/116331500810978850"
+geo_latitude: "50.973809"
+geo_longitude: "6.683076"
 ---
 
 ![Screenshot der Apple-Homepage von heute auf dem iPad.](https://eay.cc/uploads/2026/apple-50.png)

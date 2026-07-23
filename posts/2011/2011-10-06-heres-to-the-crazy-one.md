@@ -1,22 +1,21 @@
 ---
 title: "Here's to the Crazy One"
 date: "2011-10-06"
-datetime: "2011-10-06 21:31:13"
+published_at: "2011-10-06T19:31:13Z"
 id: "17397"
 slug: "heres-to-the-crazy-one"
-url: "https://eay.cc/2011/heres-to-the-crazy-one/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2011/heres-to-the-crazy-one/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - apple
-  - best-of
-  - netzkultur
-  - rip
-  - steve-jobs
-meta:
-  - yourls_shorturl: "https://eay.li/1bo"
+  - "apple"
+  - "best of"
+  - "netzkultur"
+  - "rip"
+  - "steve jobs"
+short_url: "https://eay.li/1bo"
 ---
 
 ![](https://eay.cc/uploads/2011/stevejobs.jpg) [Steve Jobs](http://de.wikipedia.org/wiki/Steve_Jobs) ist heute im Alter von nur 56 Jahren im Kreise seiner Familie verstorben. Der Gründer und CEO der mittlerweile wertvollsten (Technologie-)Firma der Welt erlag damit seiner jahrelangen Krebserkrankung. Dazu wurde heute von vielen [viel lesenswertes](http://kottke.org/11/10/remembering-steve-jobs) und von Medienseite vor allem viel Blödsinn ("iGod") geschrieben und sich gefragt, was nun aus Apple wird. Doch das ist egal, denn wir hatten eine gute Zeit: Steve, Steves Produkte und ich. Danke dafür.

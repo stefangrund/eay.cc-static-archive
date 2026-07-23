@@ -1,27 +1,28 @@
 ---
 title: "Author Clock"
 date: "2024-01-17"
-datetime: "2024-01-17 11:19:48"
+published_at: "2024-01-17T10:19:48Z"
 id: "39421"
 slug: "author-clock"
-url: "https://eay.cc/2024/author-clock/"
-author: "eay"
+permalink: "https://eay.cc/2024/author-clock/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - buecher
-  - konsum
-meta:
-  - linked_list_url: "https://www.authorclock.com/"
-  - geo_latitude: "51.00009"
-  - geo_longitude: "6.794237"
-  - geo_public: "1"
-  - yourls_shorturl: "https://eay.li/3ph"
-  - _share_on_mastodon_url: "https://eay.social/@eay/111770875532525230"
-  - content_copy: "https://www.threads.net/@eay/post/C2M4jUJMDhe"
-  - content_copy: "https://staging.bsky.app/profile/eay.social/post/3kj6afchpb222"
+  - "bücher"
+  - "konsum"
+external_url: "https://www.authorclock.com/"
+short_url: "https://eay.li/3ph"
+content_copy:
+  - "https://www.threads.net/@eay/post/C2M4jUJMDhe"
+  - "https://staging.bsky.app/profile/eay.social/post/3kj6afchpb222"
+  - "https://eay.social/@eay/111770875532525230"
+geo_latitude: "51.00009"
+geo_longitude: "6.794237"
 ---
+
+[Link →](https://www.authorclock.com/)
 
 ![](https://eay.cc/uploads/2024/authorclock.jpg)
 

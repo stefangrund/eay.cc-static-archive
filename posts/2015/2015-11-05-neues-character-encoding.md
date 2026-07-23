@@ -1,16 +1,15 @@
 ---
 title: "Neues Character Encoding"
 date: "2015-11-05"
-datetime: "2015-11-05 01:08:44"
+published_at: "2015-11-05T00:08:44Z"
 id: "30979"
 slug: "neues-character-encoding"
-url: "https://eay.cc/2015/neues-character-encoding/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2015/neues-character-encoding/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - 0815
-meta:
-  - yourls_shorturl: "https://eay.li/2qp"
+  - "08/15"
+short_url: "https://eay.li/2qp"
 ---
 
 Da die ganze Welt und ich natürlich Emojis lieben 😻, habe ich gerade mal das Character Encoding dieses in die Jahre gekommenen Blogs von `latin1` auf `utf8mb4` umgeändert und dabei auch gleich die Datenbank-Engine von MyISAM zu InnoDB umgestrickt. 😎

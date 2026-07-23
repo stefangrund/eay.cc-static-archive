@@ -1,32 +1,32 @@
 ---
 title: "Lunar Flyby Gallery"
 date: "2026-04-07"
-datetime: "2026-04-07 23:01:10"
+published_at: "2026-04-07T21:01:10Z"
 id: "41760"
 slug: "lunar-flyby-gallery"
-url: "https://eay.cc/2026/lunar-flyby-gallery/"
-author: "eay"
+permalink: "https://eay.cc/2026/lunar-flyby-gallery/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - artemis
-  - mond
-  - nasa
-  - raumfahrt
-  - technologie
-  - weltall
-  - wissenschaft
-meta:
-  - linked_list_url: "https://www.nasa.gov/gallery/lunar-flyby/"
-  - geo_latitude: "50.97392"
-  - geo_longitude: "6.683137"
-  - geo_public: "1"
-  - _linked_list_og-suppressed: "1"
-  - yourls_shorturl: "https://eay.li/40y"
-  - _share_on_mastodon_url: "https://eay.social/@eay/116365474053799355"
-  - content_copy: "https://bsky.app/profile/eay.social/post/3miwp3wfpxz2l"
+  - "artemis"
+  - "mond"
+  - "nasa"
+  - "raumfahrt"
+  - "technologie"
+  - "weltall"
+  - "wissenschaft"
+external_url: "https://www.nasa.gov/gallery/lunar-flyby/"
+short_url: "https://eay.li/40y"
+content_copy:
+  - "https://bsky.app/profile/eay.social/post/3miwp3wfpxz2l"
+  - "https://eay.social/@eay/116365474053799355"
+geo_latitude: "50.97392"
+geo_longitude: "6.683137"
 ---
+
+[Link →](https://www.nasa.gov/gallery/lunar-flyby/)
 
 Was könnte ich heute – nachdem ich wie beim Start eine weitere Nacht vor dem [NASA-Livestream](https://www.youtube.com/watch?v=m3kR2KK8TEs) verbracht habe – anderes posten als die ersten, von der Artemis-II-Mission übertragenen Fotos, nachdem die Orion in dieser Nacht den Höhepunkt ihrer Reise, den [Lunar Flyby](https://en.wikipedia.org/wiki/Artemis_II#Lunar_fly-by_and_return_flight), erreicht hat? Richtig, hier also meine Favoriten aus einer Reihe von spektakulären Bildern, von denen sicherlich noch welche folgen werden.
 

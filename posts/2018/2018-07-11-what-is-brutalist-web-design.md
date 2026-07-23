@@ -1,23 +1,24 @@
 ---
 title: "What is Brutalist Web Design?"
 date: "2018-07-11"
-datetime: "2018-07-11 08:20:32"
+published_at: "2018-07-11T06:20:32Z"
 id: "34812"
 slug: "what-is-brutalist-web-design"
-url: "https://eay.cc/2018/what-is-brutalist-web-design/"
-author: "eay"
+permalink: "https://eay.cc/2018/what-is-brutalist-web-design/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - design
-  - frontend
-  - netzkultur
-  - web-entwicklung
-meta:
-  - linked_list_url: "https://brutalist-web.design/"
-  - yourls_shorturl: "https://eay.li/35y"
+  - "design"
+  - "frontend"
+  - "netzkultur"
+  - "web-entwicklung"
+external_url: "https://brutalist-web.design/"
+short_url: "https://eay.li/35y"
 ---
+
+[Link →](https://brutalist-web.design/)
 
 > Guidelines for designing websites true to their materials: content.
 

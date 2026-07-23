@@ -1,30 +1,28 @@
 ---
 title: "overshare: the links.net story"
 date: "2015-08-12"
-datetime: "2015-08-12 22:56:33"
+published_at: "2015-08-12T20:56:33Z"
 id: "30814"
 slug: "overshare-the-links-net-story"
-url: "https://eay.cc/2015/overshare-the-links-net-story/"
-author: "eay"
+permalink: "https://eay.cc/2015/overshare-the-links-net-story/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - blogging
-  - dokumentation
-  - filme
-  - netzkultur
-  - xoxo
-meta:
-  - linked_list_url: "http://overshare.links.net/"
-  - yourls_shorturl: "https://eay.li/2po"
-  - linked_list_og-title: "overshare: the links.net story"
-  - linked_list_og-description: "overshare: the links.net story is a documentary about fumbling to foster intimacy between strangers online. Through interviews, analysis and graphic animations, I share my motivations, my joys and my sorrows from pioneering personal sharing for the 21st century. In 2004 the New York Times referre..."
-  - linked_list_og-image: "https://eay.cc/wordpress/uploads/og-cache/360292ec8244482c66315fcb6442b7b8.webp"
+  - "blogging"
+  - "dokumentation"
+  - "filme"
+  - "netzkultur"
+  - "xoxo"
+external_url: "http://overshare.links.net/"
+short_url: "https://eay.li/2po"
 ---
 
+[Link →](http://overshare.links.net/)
+
 > Hello, my name is Justin Hall and I've been sharing my personal life in explicit detail online for over twenty years. Starting in 1994, my personal web site Justin's Links from the Underground has documented family secrets, romantic relationships, and my experiments with sex and drugs.
-> 
+>
 > overshare: the links.net story is a documentary about fumbling to foster intimacy between strangers online. Through interviews, analysis and graphic animations, I share my motivations, my joys and my sorrows from pioneering personal sharing for the 21st century.
 
 [Justin Hall](https://en.wikipedia.org/wiki/Justin_Hall) ist, obwohl er einer der Pioniere des (Video-)Bloggings ist, erst letztes Jahr durch [seinen XOXO-Vortrag](https://www.youtube.com/watch?v=mE6xyFyv7xk) auf meinem Radar aufgetaucht. Interessanter Kerl, der jetzt zum 20. Jubiläum [seiner Webseite](http://links.net/) eine 40-minütige Dokumentation über die Erfahrungen mit seinem "Oversharing" in den 90ern und frühen 2000ern gemacht hat. Noch nicht gesehen, wird aber die Tage nachgeholt.

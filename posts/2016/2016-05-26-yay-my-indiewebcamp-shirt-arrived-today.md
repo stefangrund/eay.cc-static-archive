@@ -1,21 +1,21 @@
 ---
 title: "Yay, my #IndieWebCamp shirt arrived today."
 date: "2016-05-26"
-datetime: "2016-05-26 19:00:57"
+published_at: "2016-05-26T17:00:57Z"
 id: "32962"
 slug: "yay-my-indiewebcamp-shirt-arrived-today"
-url: "https://eay.cc/2016/yay-my-indiewebcamp-shirt-arrived-today/"
-author: "eay"
+permalink: "https://eay.cc/2016/yay-my-indiewebcamp-shirt-arrived-today/"
+author: "Stefan Grund"
 format: "image"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - fotos
-  - indieweb
-  - tshirt
-meta:
-  - content_copy: "https://www.instagram.com/p/BF2UKIFnS1E/"
-  - yourls_shorturl: "https://eay.li/2yj"
+  - "fotos"
+  - "indieweb"
+  - "tshirt"
+short_url: "https://eay.li/2yj"
+content_copy:
+  - "https://www.instagram.com/p/BF2UKIFnS1E/"
 ---
 
 ![](https://eay.cc/uploads/2016/indiewebcamp-shirt.jpg)

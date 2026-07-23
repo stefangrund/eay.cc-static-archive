@@ -1,29 +1,27 @@
 ---
 title: "Thermochauvinism"
 date: "2026-03-28"
-datetime: "2026-03-28 23:56:22"
+published_at: "2026-03-28T22:56:22Z"
 id: "41665"
 slug: "thermochauvinism"
-url: "https://eay.cc/2026/thermochauvinism/"
-author: "eay"
+permalink: "https://eay.cc/2026/thermochauvinism/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - klimawandel
-  - technologie
-meta:
-  - linked_list_url: "https://www.solarshades.club/p/against-thermochauvinism"
-  - geo_latitude: "50.973808"
-  - geo_longitude: "6.68308"
-  - geo_public: "1"
-  - yourls_shorturl: "https://eay.li/40n"
-  - _share_on_mastodon_url: "https://eay.social/@eay/116309267860890433"
-  - linked_list_og-title: "Against Thermochauvinism"
-  - linked_list_og-description: "In a warming world, we have to get over our bias against hot places."
-  - linked_list_og-image: "https://eay.cc/wordpress/uploads/og-cache/c88d0dcc07fb6fa6ae190edd2867abef_upload.webp"
-  - content_copy: "https://bsky.app/profile/eay.social/post/3mi5qahjk7n25"
+  - "klimawandel"
+  - "technologie"
+external_url: "https://www.solarshades.club/p/against-thermochauvinism"
+short_url: "https://eay.li/40n"
+content_copy:
+  - "https://bsky.app/profile/eay.social/post/3mi5qahjk7n25"
+  - "https://eay.social/@eay/116309267860890433"
+geo_latitude: "50.973808"
+geo_longitude: "6.68308"
 ---
+
+[Link →](https://www.solarshades.club/p/against-thermochauvinism)
 
 > Thermochauvinism is the (often unconscious) assumption that it’s reasonable to live in cold places but unreasonable to live in hot ones.
 

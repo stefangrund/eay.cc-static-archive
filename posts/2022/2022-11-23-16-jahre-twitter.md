@@ -1,27 +1,26 @@
 ---
 title: "16 Jahre Twitter"
 date: "2022-11-23"
-datetime: "2022-11-23 23:08:23"
+published_at: "2022-11-23T21:08:23Z"
 id: "38256"
 slug: "16-jahre-twitter"
-url: "https://eay.cc/2022/16-jahre-twitter/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2022/16-jahre-twitter/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - best-of
-  - blogging
-  - mastodon
-  - netzkultur
-  - twitter
-meta:
-  - geo_latitude: "50.807441"
-  - geo_longitude: "6.808863"
-  - geo_public: "1"
-  - yourls_shorturl: "https://eay.li/3k7"
-  - content_copy: "https://twitter.com/eay/status/1595525087750672384"
-  - content_copy: "https://eay.social/@eay/109395209430260865"
+  - "best of"
+  - "blogging"
+  - "mastodon"
+  - "netzkultur"
+  - "twitter"
+short_url: "https://eay.li/3k7"
+content_copy:
+  - "https://twitter.com/eay/status/1595525087750672384"
+  - "https://eay.social/@eay/109395209430260865"
+geo_latitude: "50.807441"
+geo_longitude: "6.808863"
 ---
 
 Ich bin heute seit genau 16 Jahren auf Twitter – als Nutzer Nr. 16.563 kam ich am 23.11.2006 dazu (Elon Musk ist Twitter-Nutzer Nr. 44.196.397).

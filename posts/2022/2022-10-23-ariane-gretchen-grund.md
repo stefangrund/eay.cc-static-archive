@@ -1,29 +1,28 @@
 ---
 title: "Ariane Gretchen Grund"
 date: "2022-10-23"
-datetime: "2022-10-23 21:00:35"
+published_at: "2022-10-23T19:00:35Z"
 id: "38141"
 slug: "ariane-gretchen-grund"
-url: "https://eay.cc/2022/ariane-gretchen-grund/"
-author: "eay"
+permalink: "https://eay.cc/2022/ariane-gretchen-grund/"
+author: "Stefan Grund"
 format: "image"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - analogleben
-  - ariane
-  - best-of
-  - familie
-  - kira-und-ich
-meta:
-  - geo_latitude: "50.96223"
-  - geo_longitude: "7.176428"
-  - geo_public: "1"
-  - content_copy: "https://twitter.com/eay/status/1584256388242366466"
-  - content_copy: "https://www.instagram.com/p/CkESeTHvMub/"
-  - content_copy: "https://eay.social/@eay/109219096583466988"
-  - yourls_shorturl: "https://eay.li/3jh"
-  - geo_address: "Vinzenz Pallotti Hospital, Bensberg"
+  - "analogleben"
+  - "ariane"
+  - "best of"
+  - "familie"
+  - "kira und ich"
+short_url: "https://eay.li/3jh"
+content_copy:
+  - "https://twitter.com/eay/status/1584256388242366466"
+  - "https://www.instagram.com/p/CkESeTHvMub/"
+  - "https://eay.social/@eay/109219096583466988"
+geo_latitude: "50.96223"
+geo_longitude: "7.176428"
+geo_address: "Vinzenz Pallotti Hospital, Bensberg"
 ---
 
 ![](https://eay.cc/uploads/2022/ariane-gretchen.jpg)

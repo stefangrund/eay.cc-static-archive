@@ -1,29 +1,27 @@
 ---
 title: "Gone (Almost) Phishin’"
 date: "2026-03-18"
-datetime: "2026-03-18 23:06:56"
+published_at: "2026-03-18T22:06:56Z"
 id: "41587"
 slug: "gone-almost-phishin"
-url: "https://eay.cc/2026/gone-almost-phishin/"
-author: "eay"
+permalink: "https://eay.cc/2026/gone-almost-phishin/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - apple
-  - phishing
-meta:
-  - linked_list_url: "https://ma.tt/2026/03/gone-almost-phishin/"
-  - geo_latitude: "50.973842"
-  - geo_longitude: "6.682996"
-  - geo_public: "1"
-  - yourls_shorturl: "https://eay.li/40d"
-  - _share_on_mastodon_url: "https://eay.social/@eay/116252450366196068"
-  - linked_list_og-title: "Gone (Almost) Phishin’"
-  - linked_list_og-description: "This is a little embarrassing to share, but I’d rather someone else be able to spot a dangerous scam before they fall for it. So, here goes. One evening last month, my Apple Watch, iPhone, an…"
-  - linked_list_og-image: "https://eay.cc/wordpress/uploads/og-cache/20c0e7fd15f20c6ca5cd16591028ec54_upload.webp"
-  - content_copy: "https://bsky.app/profile/eay.social/post/3mheix4wcp62k"
+  - "apple"
+  - "phishing"
+external_url: "https://ma.tt/2026/03/gone-almost-phishin/"
+short_url: "https://eay.li/40d"
+content_copy:
+  - "https://bsky.app/profile/eay.social/post/3mheix4wcp62k"
+  - "https://eay.social/@eay/116252450366196068"
+geo_latitude: "50.973842"
+geo_longitude: "6.682996"
 ---
+
+[Link →](https://ma.tt/2026/03/gone-almost-phishin/)
 
 [Matt Mullenweg](https://ma.tt/), der CEO hinter WordPress' Automattic, wurde Beinahe-Opfer einer Phishing-Attacke, bei der die Scammer echte Apple-Support-Anfragen gestartet haben, um sich anschließend telefonisch selbst bei ihm zu melden und als Apple auszugeben, um ihn dann auf eine `audit-apple.com`-Website mit pixelperfekter apple.com-Kopie weiterzuleiten, wo er schließlich die Zugangsdaten seiner Apple-ID reintippern sollte.
 

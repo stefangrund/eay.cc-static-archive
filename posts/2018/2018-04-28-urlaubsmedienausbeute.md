@@ -1,22 +1,21 @@
 ---
 title: "Urlaubsmedienausbeute"
 date: "2018-04-28"
-datetime: "2018-04-28 13:25:24"
+published_at: "2018-04-28T11:25:24Z"
 id: "34834"
 slug: "urlaubsmedienausbeute"
-url: "https://eay.cc/2018/urlaubsmedienausbeute/"
-author: "eay"
+permalink: "https://eay.cc/2018/urlaubsmedienausbeute/"
+author: "Stefan Grund"
 format: "aside"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - urlaub
-meta:
-  - geo_latitude: "48.659618532643"
-  - geo_longitude: "13.749052469787"
-  - geo_public: "1"
-  - content_copy: "https://twitter.com/eay/status/990190162121543681"
-  - yourls_shorturl: "https://eay.li/365"
+  - "urlaub"
+short_url: "https://eay.li/365"
+content_copy:
+  - "https://twitter.com/eay/status/990190162121543681"
+geo_latitude: "48.659618532643"
+geo_longitude: "13.749052469787"
 ---
 
 Medienausbeute nach einer Woche Urlaub...

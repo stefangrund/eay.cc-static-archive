@@ -1,28 +1,27 @@
 ---
 title: "Menace Mobile"
 date: "2026-06-20"
-datetime: "2026-06-20 20:54:47"
+published_at: "2026-06-20T18:54:47Z"
 id: "42253"
 slug: "menace-mobile"
-url: "https://eay.cc/2026/menace-mobile/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2026/menace-mobile/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - austin-powers
-  - mike-myers
-  - werbung
-meta:
-  - geo_latitude: "50.973894"
-  - geo_longitude: "6.682869"
-  - geo_public: "1"
-  - yourls_shorturl: "https://eay.li/437"
-  - _share_on_mastodon_url: "https://eay.social/@eay/116783952045648123"
-  - content_copy: "https://bsky.app/profile/eay.social/post/3moqjxqxhxd2s"
+  - "austin powers"
+  - "mike myers"
+  - "werbung"
+short_url: "https://eay.li/437"
+content_copy:
+  - "https://bsky.app/profile/eay.social/post/3moqjxqxhxd2s"
+  - "https://eay.social/@eay/116783952045648123"
+geo_latitude: "50.973894"
+geo_longitude: "6.682869"
 ---
 
-[youtube id="lzmntndEXWo"]
+\[youtube id="lzmntndEXWo"\]
 
 Im neuen Werbespot von Verizon möchte Dr. Evil aus »Austin Powers« einen bösen Tele­kommuni­kations­anbieter gründen, um dann von seinem Sohn Scott zu erfahren, dass das nichts bringt, weil eh alle Tele­kommuni­kations­anbieter böse sind. Außer Verizon natürlich, die – "well, they were" – böse waren, das aber dank ihrer neuen Verträge nicht mehr sind.
 

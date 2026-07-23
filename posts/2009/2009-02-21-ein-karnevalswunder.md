@@ -1,20 +1,19 @@
 ---
 title: "Ein Karnevalswunder"
 date: "2009-02-21"
-datetime: "2009-02-21 17:26:11"
+published_at: "2009-02-21T16:26:11Z"
 id: "5735"
 slug: "ein-karnevalswunder"
-url: "https://eay.cc/2009/ein-karnevalswunder/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2009/ein-karnevalswunder/"
+author: "Stefan Grund"
+format: "standard"
 tags:
-  - bayern-munchen
-  - effzeh
-  - fussball
-  - karneval
-  - sport
-meta:
-  - yourls_shorturl: "https://eay.li/w7"
+  - "bayern münchen"
+  - "effzeh"
+  - "fußball"
+  - "karneval"
+  - "sport"
+short_url: "https://eay.li/w7"
 ---
 
-![](/uploads/2009/karnevalswunder.gif)
+![](https://eay.cc/uploads/2009/karnevalswunder.gif)

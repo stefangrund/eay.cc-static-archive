@@ -1,30 +1,29 @@
 ---
 title: "Watrify – Interaktive Trinkwasserkarte mit kostenlosen Wasserspendern"
 date: "2026-06-30"
-datetime: "2026-06-30 08:30:16"
+published_at: "2026-06-30T06:30:16Z"
 id: "42300"
 slug: "watrify-interaktive-trinkwasserkarte-mit-kostenlosen-wasserspendern"
-url: "https://eay.cc/2026/watrify-interaktive-trinkwasserkarte-mit-kostenlosen-wasserspendern/"
-author: "eay"
+permalink: "https://eay.cc/2026/watrify-interaktive-trinkwasserkarte-mit-kostenlosen-wasserspendern/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - apps
-  - landkarte
-  - trinkwasser
-meta:
-  - linked_list_url: "https://www.watrify.de/trinkwasser-karte/"
-  - geo_latitude: "51.000174"
-  - geo_longitude: "6.794095"
-  - geo_public: "1"
-  - linked_list_og-title: "Trinkwasserkarte – Trinkwasser an kostenlosen Wasserspendern"
-  - linked_list_og-description: "Entdecke kostenlose Trinkwasserstellen in fast ganz Europa auf einer interaktiven Karte. Ideal für Wanderer, Vanlifer & Touristen"
-  - linked_list_og-image: "https://eay.cc/wordpress/uploads/og-cache/faf5f44e294a43e00df678681afa00c0_upload.webp"
-  - yourls_shorturl: "https://eay.li/43j"
-  - _share_on_mastodon_url: "https://eay.social/@eay/116837647611326816"
-  - content_copy: "https://bsky.app/profile/eay.social/post/3mpiezte6jp2u"
+  - "apps"
+  - "landkarte"
+  - "trinkwasser"
+external_url: "https://www.watrify.de/trinkwasser-karte/"
+short_url: "https://eay.li/43j"
+content_copy:
+  - "https://bsky.app/profile/eay.social/post/3mpiezte6jp2u"
+  - "https://bubbles.town/entry/44740680"
+  - "https://eay.social/@eay/116837647611326816"
+geo_latitude: "51.000174"
+geo_longitude: "6.794095"
 ---
+
+[Link →](https://www.watrify.de/trinkwasser-karte/)
 
 > Watrify zeigt dir auf einen Blick, wo du unterwegs deine Trinkflasche nachhaltig auffüllen kannst – egal ob beim Wandern, Radfahren, mit dem Camper oder auf Städtereise. Standort freigeben – Karte öffnen – und den nächsten Trinkbrunnen entdecken.
 

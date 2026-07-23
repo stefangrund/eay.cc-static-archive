@@ -1,20 +1,19 @@
 ---
 title: "\"Internetverbindungsprobleme: Der Comic\""
 date: "2012-08-23"
-datetime: "2012-08-23 07:53:27"
+published_at: "2012-08-23T06:53:27Z"
 id: "346"
 slug: "internetverbindungsprobleme-der-comic"
-url: "https://eay.cc/2012/internetverbindungsprobleme-der-comic/"
-author: "eay"
+permalink: "https://eay.cc/2012/internetverbindungsprobleme-der-comic/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - netzkultur
-  - webcomic
-meta:
-  - yourls_shorturl: "https://eay.li/1yc"
-  - linked_list_url: "http://de.selektive-erinnerung.com/post/29998794410/internetverbindungsprobleme-der-comic"
+  - "netzkultur"
+  - "webcomic"
+external_url: "http://de.selektive-erinnerung.com/post/29998794410/internetverbindungsprobleme-der-comic"
+short_url: "https://eay.li/1yc"
 ---
 
-
+[Link →](http://de.selektive-erinnerung.com/post/29998794410/internetverbindungsprobleme-der-comic)

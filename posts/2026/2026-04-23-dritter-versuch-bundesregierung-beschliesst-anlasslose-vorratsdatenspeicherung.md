@@ -1,32 +1,30 @@
 ---
 title: "Dritter Versuch: Bundesregierung beschließt anlasslose Vorratsdatenspeicherung"
 date: "2026-04-23"
-datetime: "2026-04-23 02:07:10"
+published_at: "2026-04-23T00:07:10Z"
 id: "41879"
 slug: "dritter-versuch-bundesregierung-beschliesst-anlasslose-vorratsdatenspeicherung"
-url: "https://eay.cc/2026/dritter-versuch-bundesregierung-beschliesst-anlasslose-vorratsdatenspeicherung/"
-author: "eay"
+permalink: "https://eay.cc/2026/dritter-versuch-bundesregierung-beschliesst-anlasslose-vorratsdatenspeicherung/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - datenschutz
-  - deutschland
-  - netzkultur
-  - politik
-  - vorratsdatenspeicherung
-meta:
-  - linked_list_url: "https://netzpolitik.org/2026/dritter-versuch-bundesregierung-beschliesst-anlasslose-vorratsdatenspeicherung/"
-  - geo_latitude: "50.973819"
-  - geo_longitude: "6.683055"
-  - geo_public: "1"
-  - yourls_shorturl: "https://eay.li/41f"
-  - _share_on_mastodon_url: "https://eay.social/@eay/116451104019656999"
-  - linked_list_og-title: "Dritter Versuch: Bundesregierung beschließt anlasslose Vorratsdatenspeicherung"
-  - linked_list_og-description: "Die Bundesregierung nimmt einen dritten Anlauf zur Vorratsdatenspeicherung. Internet-Zugangs-Anbieter sollen IP-Adressen aller Nutzer speichern - anlasslos und massenhaft. Internet-Dienste wie E-Mails und Messenger müssen auf Anordnung ebenfalls Daten speichern und herausgeben."
-  - linked_list_og-image: "https://eay.cc/wordpress/uploads/og-cache/e865002bcfbce3046f88e7ae018b4037_upload.webp"
-  - content_copy: "https://bsky.app/profile/eay.social/post/3mk4pxla7k62u"
+  - "datenschutz"
+  - "deutschland"
+  - "netzkultur"
+  - "politik"
+  - "vorratsdatenspeicherung"
+external_url: "https://netzpolitik.org/2026/dritter-versuch-bundesregierung-beschliesst-anlasslose-vorratsdatenspeicherung/"
+short_url: "https://eay.li/41f"
+content_copy:
+  - "https://bsky.app/profile/eay.social/post/3mk4pxla7k62u"
+  - "https://eay.social/@eay/116451104019656999"
+geo_latitude: "50.973819"
+geo_longitude: "6.683055"
 ---
+
+[Link →](https://netzpolitik.org/2026/dritter-versuch-bundesregierung-beschliesst-anlasslose-vorratsdatenspeicherung/)
 
 > Die Bundesregierung nimmt einen dritten Anlauf zur Vorrats­daten­speicherung. Internet-Zugangs-Anbieter sollen IP-Adressen aller Nutzer speichern – anlasslos und massenhaft. Internet-Dienste wie E-Mails und Messenger müssen auf Anordnung ebenfalls Daten speichern und herausgeben.
 

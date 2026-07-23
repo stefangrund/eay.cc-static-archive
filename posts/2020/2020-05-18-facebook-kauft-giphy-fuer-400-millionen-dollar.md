@@ -1,25 +1,25 @@
 ---
 title: "Facebook kauft Giphy für 400 Millionen Dollar"
 date: "2020-05-18"
-datetime: "2020-05-18 21:15:28"
+published_at: "2020-05-18T20:15:28Z"
 id: "36515"
 slug: "facebook-kauft-giphy-fuer-400-millionen-dollar"
-url: "https://eay.cc/2020/facebook-kauft-giphy-fuer-400-millionen-dollar/"
-author: "eay"
+permalink: "https://eay.cc/2020/facebook-kauft-giphy-fuer-400-millionen-dollar/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - facebook
-  - netzkultur
-  - webservice
-meta:
-  - linked_list_url: "https://www.axios.com/scoop-facebook-to-buy-giphy-for-400-million-4a75a359-833b-484d-b15b-87e94d3de017.html"
-  - yourls_shorturl: "https://eay.li/3e8"
-  - geo_latitude: "50.973884737946"
-  - geo_longitude: "6.6831087344814"
-  - geo_public: "1"
+  - "facebook"
+  - "netzkultur"
+  - "webservice"
+external_url: "https://www.axios.com/scoop-facebook-to-buy-giphy-for-400-million-4a75a359-833b-484d-b15b-87e94d3de017.html"
+short_url: "https://eay.li/3e8"
+geo_latitude: "50.973884737946"
+geo_longitude: "6.6831087344814"
 ---
+
+[Link →](https://www.axios.com/scoop-facebook-to-buy-giphy-for-400-million-4a75a359-833b-484d-b15b-87e94d3de017.html)
 
 [Giphy](https://giphy.com/), im Februar 2013 gegründet und hier auch [im selben Monat](https://eay.cc/2013/giphy-eine-suchmaschine-fur-gifs/) erstmals erwähnt, war und ist vordergründig eine lustige, coole, kreative Plattform zum Auffinden, Hosten und Teilen der allseits beliebten GIFs.
 

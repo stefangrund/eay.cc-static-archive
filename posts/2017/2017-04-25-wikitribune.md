@@ -1,24 +1,25 @@
 ---
 title: "Wikitribune"
 date: "2017-04-25"
-datetime: "2017-04-25 16:04:39"
+published_at: "2017-04-25T14:04:39Z"
 id: "32712"
 slug: "wikitribune"
-url: "https://eay.cc/2017/wikitribune/"
-author: "eay"
+permalink: "https://eay.cc/2017/wikitribune/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - crowdfunding
-  - crowdsourcing
-  - journalismus
-  - nachrichten
-  - wikipedia
-meta:
-  - linked_list_url: "https://www.wikitribune.com/"
-  - yourls_shorturl: "https://eay.li/2xw"
+  - "crowdfunding"
+  - "crowdsourcing"
+  - "journalismus"
+  - "nachrichten"
+  - "wikipedia"
+external_url: "https://www.wikitribune.com/"
+short_url: "https://eay.li/2xw"
 ---
+
+[Link →](https://www.wikitribune.com/)
 
 > The news is broken and we can fix it.
 

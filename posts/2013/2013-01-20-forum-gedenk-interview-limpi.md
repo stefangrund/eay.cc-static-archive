@@ -1,22 +1,21 @@
 ---
 title: "Forum-Gedenk-Interview: Limpi"
 date: "2013-01-20"
-datetime: "2013-01-20 21:41:17"
+published_at: "2013-01-20T20:41:17Z"
 id: "21973"
 slug: "forum-gedenk-interview-limpi"
-url: "https://eay.cc/2013/forum-gedenk-interview-limpi/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2013/forum-gedenk-interview-limpi/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - forum
-  - forum-gedenk-interview
-meta:
-  - yourls_shorturl: "https://eay.li/1rw"
+  - "forum"
+  - "forum-gedenk-interview"
+short_url: "https://eay.li/1rw"
 ---
 
-Vor ziemlich genau fünf Jahren wurde das eayz.net Forum geschlossen, das bis dahin einer kleinen, aber außerordentlich feinen Community ein digitales Dach über dem Kopf bot. [Im Gedenken ans Forum](//eay.cc/2013/remembering-das-forum/) habe ich mich gefragt, was die Leute, die hier damals zum Mobiliar gehörten, heute eigentlich so machen. Ein paar Emails später hatte ich dankenswerterweise einige interessante Antworten zusammen. [Unter anderem](//eay.cc/tag/forum-gedenk-interview/) von Kira, deren Netz-Pseudonym Limpi lautet, und die mich schon doppelt so lange begleitet, wie das Forum existierte.
+Vor ziemlich genau fünf Jahren wurde das eayz.net Forum geschlossen, das bis dahin einer kleinen, aber außerordentlich feinen Community ein digitales Dach über dem Kopf bot. [Im Gedenken ans Forum](https://eay.cc/2013/remembering-das-forum/) habe ich mich gefragt, was die Leute, die hier damals zum Mobiliar gehörten, heute eigentlich so machen. Ein paar Emails später hatte ich dankenswerterweise einige interessante Antworten zusammen. [Unter anderem](https://eay.cc/tag/forum-gedenk-interview/) von Kira, deren Netz-Pseudonym Limpi lautet, und die mich schon doppelt so lange begleitet, wie das Forum existierte.
 
 ![](https://eay.cc/uploads/2013/forum_interview_limpi.jpg)
 

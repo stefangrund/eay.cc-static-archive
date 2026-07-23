@@ -1,22 +1,21 @@
 ---
 title: "Forum-Gedenk-Interview: Fake Eugene"
 date: "2013-01-21"
-datetime: "2013-01-21 12:26:21"
+published_at: "2013-01-21T11:26:21Z"
 id: "22013"
 slug: "forum-gedenk-interview-fake-eugene"
-url: "https://eay.cc/2013/forum-gedenk-interview-fake-eugene/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2013/forum-gedenk-interview-fake-eugene/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - forum
-  - forum-gedenk-interview
-meta:
-  - yourls_shorturl: "https://eay.li/1ry"
+  - "forum"
+  - "forum-gedenk-interview"
+short_url: "https://eay.li/1ry"
 ---
 
-Durch eine [bereits erwähnte Unachtsamkeit](//eay.cc/2012/hey-eugene/) meinerseits erhielten alle Teilnehmer der [Forum-Gedenk-Interviews](//eay.cc/tag/forum-gedenk-interview/) eine Mail von mir, in deren ersten Frage "Hey Eugene" statt z.B. "Hey Tonito" stand. Herr Lee hat das zum Anlass genommen die Fragen gleich zwei Mal zu beantworten: [Zuerst aus seiner Sicht](//eay.cc/2013/forum-gedenk-interview-mclee/), dann ein zweites Mal aus [Eugenes](//eay.cc/2013/forum-gedenk-interview-mrrogers/) Sicht. Hier also Fake Eugene:
+Durch eine [bereits erwähnte Unachtsamkeit](https://eay.cc/2012/hey-eugene/) meinerseits erhielten alle Teilnehmer der [Forum-Gedenk-Interviews](https://eay.cc/tag/forum-gedenk-interview/) eine Mail von mir, in deren ersten Frage "Hey Eugene" statt z.B. "Hey Tonito" stand. Herr Lee hat das zum Anlass genommen die Fragen gleich zwei Mal zu beantworten: [Zuerst aus seiner Sicht](https://eay.cc/2013/forum-gedenk-interview-mclee/), dann ein zweites Mal aus [Eugenes](https://eay.cc/2013/forum-gedenk-interview-mrrogers/) Sicht. Hier also Fake Eugene:
 
 ![](https://eay.cc/uploads/2013/forum_interview_mrrogers.jpg)
 

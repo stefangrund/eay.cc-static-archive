@@ -1,23 +1,24 @@
 ---
 title: "Marshmallow-Versuchung"
 date: "2009-09-14"
-datetime: "2009-09-14 21:31:15"
+published_at: "2009-09-14T19:31:15Z"
 id: "9347"
 slug: "marshmallow-versuchung"
-url: "https://eay.cc/2009/marshmallow-versuchung/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2009/marshmallow-versuchung/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - 0815
-  - the-others
+  - "08/15"
+  - "The Others"
 tags:
-  - best-of
-  - kinder
-  - nahrung
-  - psychologie
-meta:
-  - yourls_shorturl: "https://eay.li/hj"
+  - "best of"
+  - "kinder"
+  - "nahrung"
+  - "psychologie"
+short_url: "https://eay.li/hj"
 ---
+
+[Embedded content](http://vimeo.com/moogaloop.swf?clip_id=5239013&server=vimeo.com&show_title=1&show_byline=1&show_portrait=0&color=&fullscreen=1)
 
  ([Vimeo Direktversuch](http://vimeo.com/5239013) via [Feingut](http://www.feingut.de/2009/09/14/der-marshmallow-test/))
 

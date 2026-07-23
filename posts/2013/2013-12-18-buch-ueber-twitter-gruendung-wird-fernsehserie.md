@@ -1,26 +1,27 @@
 ---
 title: "Buch über Twitter-Gründung wird Fernsehserie"
 date: "2013-12-18"
-datetime: "2013-12-18 23:58:11"
+published_at: "2013-12-18T22:58:11Z"
 id: "26417"
 slug: "buch-ueber-twitter-gruendung-wird-fernsehserie"
-url: "https://eay.cc/2013/buch-ueber-twitter-gruendung-wird-fernsehserie/"
-author: "eay"
+permalink: "https://eay.cc/2013/buch-ueber-twitter-gruendung-wird-fernsehserie/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - buchverfilmung
-  - fernsehen
-  - serien
-  - social-media
-  - twitter
-meta:
-  - linked_list_url: "http://www.wired.com/business/2013/12/twitter-book-to-television/"
-  - yourls_shorturl: "https://eay.li/2au"
+  - "buchverfilmung"
+  - "fernsehen"
+  - "serien"
+  - "social media"
+  - "twitter"
+external_url: "http://www.wired.com/business/2013/12/twitter-book-to-television/"
+short_url: "https://eay.li/2au"
 ---
 
-Ich hab's [ja gesagt](//eay.cc/2013/das-fuehrungschaos-von-twitter/):
+[Link →](http://www.wired.com/business/2013/12/twitter-book-to-television/)
+
+Ich hab's [ja gesagt](https://eay.cc/2013/das-fuehrungschaos-von-twitter/):
 
 > Man darf gespannt sein, welches Filmstudio sich zuerst die Buchrechte sichert und Sorkin daraus nen Blockbuster schrauben lässt.
 

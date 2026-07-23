@@ -1,32 +1,30 @@
 ---
 title: "MomBoard: E-ink display for a parent with amnesia"
 date: "2024-11-23"
-datetime: "2024-11-23 09:00:46"
+published_at: "2024-11-23T08:00:46Z"
 id: "40018"
 slug: "momboard-e-ink-display-for-a-parent-with-amnesia"
-url: "https://eay.cc/2024/momboard-e-ink-display-for-a-parent-with-amnesia/"
-author: "eay"
+permalink: "https://eay.cc/2024/momboard-e-ink-display-for-a-parent-with-amnesia/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - barrierefreiheit
-  - best-of
-  - diy
-  - familie
-  - gesundheit
-  - technologie
-meta:
-  - linked_list_url: "https://jan.miksovsky.com/posts/2024/11-12-momboard"
-  - geo_latitude: "50.973829"
-  - geo_longitude: "6.683008"
-  - geo_public: "1"
-  - yourls_shorturl: "https://eay.li/3t8"
-  - _share_on_mastodon_url: "https://eay.social/@eay/113531214078754945"
-  - linked_list_og-title: "MomBoard: E-ink display for a parent with amnesia"
-  - linked_list_og-description: "Today marks two years since I first set up an e-ink display in my mom’s apartment to help her live on her own with amnesia."
-  - linked_list_og-image: "https://eay.cc/wordpress/uploads/og-cache/07b338ef3a084499a94892ca0eccca1c.webp"
+  - "barrierefreiheit"
+  - "best of"
+  - "diy"
+  - "familie"
+  - "gesundheit"
+  - "technologie"
+external_url: "https://jan.miksovsky.com/posts/2024/11-12-momboard"
+short_url: "https://eay.li/3t8"
+content_copy:
+  - "https://eay.social/@eay/113531214078754945"
+geo_latitude: "50.973829"
+geo_longitude: "6.683008"
 ---
+
+[Link →](https://jan.miksovsky.com/posts/2024/11-12-momboard)
 
 [Jan Miksovsky](https://jan.miksovsky.com/) hat für seine seit einer OP unter Amnesie leidende Mutter aus E-Ink-Display und Web-Technologien ein Device – das "MomBoard" – gebaut, auf das er und seine Geschwister Nach­richten für sie schicken/hinterlegen können. Eine sehr schöne Arbeit oder wie [Jim Nielsen](https://blog.jim-nielsen.com/) den nachahmenswerten Ethos in [The Beauty of Building](https://blog.jim-nielsen.com/2024/beauty-of-building/) auf den Punkt bringt:
 

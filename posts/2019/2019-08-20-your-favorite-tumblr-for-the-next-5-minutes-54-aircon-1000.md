@@ -1,21 +1,20 @@
 ---
 title: "Your favorite tumblr for the next 5 minutes (54): AIRCON 1000"
 date: "2019-08-20"
-datetime: "2019-08-20 09:00:07"
+published_at: "2019-08-20T07:00:07Z"
 id: "35917"
 slug: "your-favorite-tumblr-for-the-next-5-minutes-54-aircon-1000"
-url: "https://eay.cc/2019/your-favorite-tumblr-for-the-next-5-minutes-54-aircon-1000/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2019/your-favorite-tumblr-for-the-next-5-minutes-54-aircon-1000/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - bizarres
-  - japan
-  - wetter
-  - your-favorite-tumblr-for-the-next-5-minutes
-meta:
-  - yourls_shorturl: "https://eay.li/3b5"
+  - "bizarres"
+  - "japan"
+  - "wetter"
+  - "your favorite tumblr for the next 5 minutes"
+short_url: "https://eay.li/3b5"
 ---
 
 ![](https://eay.cc/uploads/2019/aircon.jpg)

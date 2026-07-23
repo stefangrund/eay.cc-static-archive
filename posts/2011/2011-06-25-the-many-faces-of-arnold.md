@@ -1,21 +1,20 @@
 ---
 title: ""
 date: "2011-06-25"
-datetime: "2011-06-25 21:57:39"
+published_at: "2011-06-25T19:57:39Z"
 id: "16572"
 slug: "the-many-faces-of-arnold"
-url: "https://eay.cc/2011/the-many-faces-of-arnold/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2011/the-many-faces-of-arnold/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - 0815
-  - the-others
+  - "08/15"
+  - "The Others"
 tags:
-  - arnold-schwarzenegger
-  - fanart
-  - filme
-meta:
-  - yourls_shorturl: "https://eay.li/199"
+  - "arnold schwarzenegger"
+  - "fanart"
+  - "filme"
+short_url: "https://eay.li/199"
 ---
 
 ![](https://eay.cc/uploads/2011/themanyfacesofarnold.jpg)

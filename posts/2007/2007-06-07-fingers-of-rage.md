@@ -1,22 +1,21 @@
 ---
 title: "Fingers of Rage"
 date: "2007-06-07"
-datetime: "2007-06-07 02:06:03"
+published_at: "2007-06-07T00:06:03Z"
 id: "121"
 slug: "fingers-of-rage"
-url: "https://eay.cc/2007/fingers-of-rage/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2007/fingers-of-rage/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - games
-  - mega-drive
-  - retrogames
-  - sega
-  - wii
-meta:
-  - yourls_shorturl: "https://eay.li/e"
+  - "games"
+  - "mega drive"
+  - "retrogames"
+  - "sega"
+  - "wii"
+short_url: "https://eay.li/e"
 ---
 
 Woah, mein Steuerkreuzdaumen schmerzt - trotz etlicher Fifa-Sessions. Warum? Habe mich heute mal wieder [in des Wiis](http://eay.cc/blog/2006/12/nintendo_wii_ro.shtml) Virtual Console umgesehen und [Streets of Rage](http://en.wikipedia.org/wiki/Streets_of_Rage) entdeckt. Ah, da kommen Urlaubs-/Spielautomaten-/Kindheits-Erinnerungen hoch. Direkt gekauft und vier Stunden gespielt. Mit allen Charakteren. Bevor ich zu Mr. X reinkomme, scheitere ich derzeit leider immer am zweiten Auftritt von Onihime & Yasha. Dieser Notstand wird gleich beseitigt. Der 10 jährige Eay hat's ja schließlich auch geschaft, damals.

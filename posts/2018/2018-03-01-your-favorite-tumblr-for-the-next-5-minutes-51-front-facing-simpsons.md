@@ -1,22 +1,21 @@
 ---
 title: "Your favorite tumblr for the next 5 minutes (51): Front Facing Simpsons"
 date: "2018-03-01"
-datetime: "2018-03-01 23:43:53"
+published_at: "2018-03-01T22:43:53Z"
 id: "34213"
 slug: "your-favorite-tumblr-for-the-next-5-minutes-51-front-facing-simpsons"
-url: "https://eay.cc/2018/your-favorite-tumblr-for-the-next-5-minutes-51-front-facing-simpsons/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2018/your-favorite-tumblr-for-the-next-5-minutes-51-front-facing-simpsons/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - animation
-  - fernsehen
-  - serien
-  - simpsons
-  - your-favorite-tumblr-for-the-next-5-minutes
-meta:
-  - yourls_shorturl: "https://eay.li/33v"
+  - "animation"
+  - "fernsehen"
+  - "serien"
+  - "simpsons"
+  - "your favorite tumblr for the next 5 minutes"
+short_url: "https://eay.li/33v"
 ---
 
 ![](https://eay.cc/uploads/2018/frontfacingsimpsons.jpg)

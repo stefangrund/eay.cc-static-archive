@@ -1,30 +1,29 @@
 ---
 title: "Who wins if not football decides?"
 date: "2026-06-29"
-datetime: "2026-06-29 08:39:37"
+published_at: "2026-06-29T06:39:37Z"
 id: "42290"
 slug: "who-wins-if-not-football-decides"
-url: "https://eay.cc/2026/who-wins-if-not-football-decides/"
-author: "eay"
+permalink: "https://eay.cc/2026/who-wins-if-not-football-decides/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - politik
-  - visualisierung
-  - wm-2026
-meta:
-  - linked_list_url: "https://www.dataguessr.com/world-cup-2026/"
-  - geo_latitude: "50.973852"
-  - geo_longitude: "6.682851"
-  - geo_public: "1"
-  - linked_list_og-title: "Dataguessr World Cup 2026 edition"
-  - linked_list_og-description: "Pick a metric, guess the champions, and see the knockout phase play out."
-  - linked_list_og-image: "https://eay.cc/wordpress/uploads/og-cache/529c787de92bd0dda1f4c72ed3d14cc8.webp"
-  - yourls_shorturl: "https://eay.li/43g"
-  - _share_on_mastodon_url: "https://eay.social/@eay/116832033813602543"
-  - content_copy: "https://bsky.app/profile/eay.social/post/3mpfv6wjoca2m"
+  - "politik"
+  - "visualisierung"
+  - "wm 2026"
+external_url: "https://www.dataguessr.com/world-cup-2026/"
+short_url: "https://eay.li/43g"
+content_copy:
+  - "https://bsky.app/profile/eay.social/post/3mpfv6wjoca2m"
+  - "https://bubbles.town/entry/44740068"
+  - "https://eay.social/@eay/116832033813602543"
+geo_latitude: "50.973852"
+geo_longitude: "6.682851"
 ---
+
+[Link →](https://www.dataguessr.com/world-cup-2026/)
 
 ![Screenshot von “Who wins if not football decides?”](https://eay.cc/uploads/2026/who-wins-if-not-football-decides)
 

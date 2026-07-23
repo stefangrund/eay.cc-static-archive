@@ -1,21 +1,19 @@
 ---
 title: "10 Jahre nach Spreeblicks Jamba-Kurs – Blogging 2014"
 date: "2014-12-30"
-datetime: "2014-12-30 17:59:03"
+published_at: "2014-12-30T16:59:03Z"
 id: "29604"
 slug: "10-jahre-nach-spreeblicks-jamba-kurs-blogging-2014"
-url: "https://eay.cc/2014/10-jahre-nach-spreeblicks-jamba-kurs-blogging-2014/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2014/10-jahre-nach-spreeblicks-jamba-kurs-blogging-2014/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - best-of
-  - blogging
-  - netzkultur
-meta:
-  - _oembed_503d500cb4c9ad471006571569f292f3: "{{unknown}}"
-  - yourls_shorturl: "https://eay.li/2m1"
+  - "best of"
+  - "blogging"
+  - "netzkultur"
+short_url: "https://eay.li/2m1"
 ---
 
 [Johnny Haeusler blickt zehn Jahre später](http://www.spreeblick.com/2014/12/12/zum-zehnjaehrigen-jamba-laya/) auf seinen [legendären Jamba-Artikel](http://www.spreeblick.com/2004/12/12/jamba-kurs/) zurück, den ich damals als 19 jähriger Blogger natürlich auch brav verlinkte. Mein Beitrag ist, zusammen mit diversen Jugendsünden, zwar nicht mehr online und die damals verwendete Blog-Software gibt's auch nicht mehr, aber [hier ein Beweisfoto](http://cl.ly/Z8Og) aus meinem persönlichen Giftschrank Offline-Archiv.
@@ -28,8 +26,8 @@ Fakt ist aber, dass der herbeigeschriebene zweite Frühling nie eintraf, unsere 
 
 Meiner Meinung nach gibt es dafür zwei Gründe:
 
-- **Inhaltslosigkeit:** Persönliche Inhalte, die Blogs vor allem ausgemacht haben, sind in die sozialen Netzwerke abgewandert. Heute gibt's nur Linksammlungen auf Inhalte Dritter (Anwesende eingeschlossen) und ellenlange Textwände (Hallo!), durch die sich niemand und vor allem nicht die Generation YouTube quälen mag. Ausnahmen bestätigen die Regel.
-- **Immobilität:** Die übrig gebliebenen Blogger haben zwar alle ein iPhone in der Tasche, das Mobile Web haben sie trotzdem verpennt. Blogs sind ein Überbleibsel aus einer von Monitoren, Sofas und Laptops geprägten Zeit – und das sowohl inhaltlich als auch optisch. Ganz zu schweigen davon, dass es keine ordentliche Smartphone-App zum Bloggen gibt.
+-   **Inhaltslosigkeit:** Persönliche Inhalte, die Blogs vor allem ausgemacht haben, sind in die sozialen Netzwerke abgewandert. Heute gibt's nur Linksammlungen auf Inhalte Dritter (Anwesende eingeschlossen) und ellenlange Textwände (Hallo!), durch die sich niemand und vor allem nicht die Generation YouTube quälen mag. Ausnahmen bestätigen die Regel.
+-   **Immobilität:** Die übrig gebliebenen Blogger haben zwar alle ein iPhone in der Tasche, das Mobile Web haben sie trotzdem verpennt. Blogs sind ein Überbleibsel aus einer von Monitoren, Sofas und Laptops geprägten Zeit – und das sowohl inhaltlich als auch optisch. Ganz zu schweigen davon, dass es keine ordentliche Smartphone-App zum Bloggen gibt.
 
 Um die unangenehmen Fragen kommen wir also nicht herum: Warum haben Blogs sich nicht weiterentwickelt? Wieso gibt es keine Experimente mehr? Wo bleiben die multimedialen Inhalte? Wo die "Mobile First"-Ansätze? Die schreibende Zunft ist uns da mittlerweile meilenweit voraus, siehe [Snow Fall](http://www.nytimes.com/projects/2012/snow-fall/) und [Quartz](http://qz.com/). Selbst das Monopol auf Katzen-Content ist [dahin](http://buzzfeed.com/)!
 

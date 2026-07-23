@@ -1,24 +1,25 @@
 ---
 title: "Aaron Craig's Pop Mash"
 date: "2020-07-17"
-datetime: "2020-07-17 18:45:58"
+published_at: "2020-07-17T17:45:58Z"
 id: "36669"
 slug: "aaron-craigs-pop-mash"
-url: "https://eay.cc/2020/aaron-craigs-pop-mash/"
-author: "eay"
+permalink: "https://eay.cc/2020/aaron-craigs-pop-mash/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - fanart
-  - kunst
-  - mashup
-  - popkultur
-  - werbung
-meta:
-  - linked_list_url: "https://www.aaroncraig.co/"
-  - yourls_shorturl: "https://eay.li/3f5"
+  - "fanart"
+  - "kunst"
+  - "mashup"
+  - "popkultur"
+  - "werbung"
+external_url: "https://www.aaroncraig.co/"
+short_url: "https://eay.li/3f5"
 ---
+
+[Link →](https://www.aaroncraig.co/)
 
 ![Pop Mash by Aaron Craig](https://eay.cc/uploads/2020/pop-mash-by-aaron-craig.jpg)
 

@@ -1,22 +1,21 @@
 ---
 title: "Your favorite tumblr for the next 5 minutes (37): Existentialist Brown"
 date: "2014-09-26"
-datetime: "2014-09-26 14:20:06"
+published_at: "2014-09-26T12:20:06Z"
 id: "28882"
 slug: "your-favorite-tumblr-for-the-next-5-minutes-37-existentialist-brown"
-url: "https://eay.cc/2014/your-favorite-tumblr-for-the-next-5-minutes-37-existentialist-brown/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2014/your-favorite-tumblr-for-the-next-5-minutes-37-existentialist-brown/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - comics
-  - existentialismus
-  - fanart
-  - peanuts
-  - your-favorite-tumblr-for-the-next-5-minutes
-meta:
-  - yourls_shorturl: "https://eay.li/2ji"
+  - "comics"
+  - "existentialismus"
+  - "fanart"
+  - "peanuts"
+  - "your favorite tumblr for the next 5 minutes"
+short_url: "https://eay.li/2ji"
 ---
 
 ![](https://eay.cc/uploads/2014/charliehemingway.gif)

@@ -1,27 +1,28 @@
 ---
 title: "“Introducing the new Kottke.org comments”"
 date: "2023-10-17"
-datetime: "2023-10-17 07:32:49"
+published_at: "2023-10-17T05:32:49Z"
 id: "38863"
 slug: "introducing-the-new-kottke-org-comments"
-url: "https://eay.cc/2023/introducing-the-new-kottke-org-comments/"
-author: "eay"
+permalink: "https://eay.cc/2023/introducing-the-new-kottke-org-comments/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
-  - english
+  - "08/15"
+  - "English"
 tags:
-  - blogging
-  - jason-kottke
-  - netzkultur
-meta:
-  - linked_list_url: "https://kottke.org/23/10/introducing-the-new-kottke-comments"
-  - geo_latitude: "50.973838"
-  - geo_longitude: "6.682905"
-  - geo_public: "1"
-  - yourls_shorturl: "https://eay.li/3o7"
-  - _share_on_mastodon_url: "https://eay.social/@eay/111248721179741867"
+  - "blogging"
+  - "jason kottke"
+  - "netzkultur"
+external_url: "https://kottke.org/23/10/introducing-the-new-kottke-comments"
+short_url: "https://eay.li/3o7"
+content_copy:
+  - "https://eay.social/@eay/111248721179741867"
+geo_latitude: "50.973838"
+geo_longitude: "6.682905"
 ---
+
+[Link →](https://kottke.org/23/10/introducing-the-new-kottke-comments)
 
 Jason Kottke has reactivated comments at his site - but for paying [members](https://kottke.org/members/) only.
 

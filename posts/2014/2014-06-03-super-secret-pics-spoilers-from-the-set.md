@@ -1,24 +1,25 @@
 ---
 title: "\"Super-Secret Pics & Spoilers From The Set!\""
 date: "2014-06-03"
-datetime: "2014-06-03 21:01:03"
+published_at: "2014-06-03T19:01:03Z"
 id: "28102"
 slug: "super-secret-pics-spoilers-from-the-set"
-url: "https://eay.cc/2014/super-secret-pics-spoilers-from-the-set/"
-author: "eay"
+permalink: "https://eay.cc/2014/super-secret-pics-spoilers-from-the-set/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - episode-7
-  - filme
-  - star-wars
-meta:
-  - linked_list_url: "https://www.tmz.com/2014/06/02/star-wars-episode-7-set-photos-secret-pics-new-creature/"
-  - yourls_shorturl: "https://eay.li/2gk"
+  - "episode 7"
+  - "filme"
+  - "star wars"
+external_url: "https://www.tmz.com/2014/06/02/star-wars-episode-7-set-photos-secret-pics-new-creature/"
+short_url: "https://eay.li/2gk"
 ---
 
-Darf hier aus Chronistenpflicht natürlich nicht fehlen: Die Hollywood-Gossip-Seite TMZ hat ein paar Behind-the-Scenes-Bilder vom Set von [Episode VII](//eay.cc/tag/episode-7/) aufgetan und gestern veröffentlicht. Was ich sehe, gefällt mir soweit schon mal, weil sich [das hier](https://twitter.com/eay/statuses/468539957976764416) nicht (allzu sehr) zu bewahrheiten scheint.
+[Link →](https://www.tmz.com/2014/06/02/star-wars-episode-7-set-photos-secret-pics-new-creature/)
+
+Darf hier aus Chronistenpflicht natürlich nicht fehlen: Die Hollywood-Gossip-Seite TMZ hat ein paar Behind-the-Scenes-Bilder vom Set von [Episode VII](https://eay.cc/tag/episode-7/) aufgetan und gestern veröffentlicht. Was ich sehe, gefällt mir soweit schon mal, weil sich [das hier](https://twitter.com/eay/statuses/468539957976764416) nicht (allzu sehr) zu bewahrheiten scheint.
 
 **Update, 22 Uhr:** Heute hat TMZ die ersten [Fotos vom Aufbau des Millennium Falcons](https://www.tmz.com/2014/06/03/star-wars-episode-7-millennium-falcon-set-photos/) nachgelegt ("Holy Crap, It's The Millennium Falcon ... Right?!?"). Mal gucken, was morgen kommt... (via [Nerdcore](http://www.crackajack.de/2014/06/03/first-millennium-falcon-pics-from-star-wars-vii/))
 

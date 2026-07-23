@@ -1,18 +1,19 @@
 ---
 title: "How The Intercept outed Reality Winner"
 date: "2017-06-07"
-datetime: "2017-06-07 23:55:39"
+published_at: "2017-06-07T21:55:39Z"
 id: "33127"
 slug: "how-the-intercept-outed-reality-winner"
-url: "https://eay.cc/2017/how-the-intercept-outed-reality-winner/"
-author: "eay"
+permalink: "https://eay.cc/2017/how-the-intercept-outed-reality-winner/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
-meta:
-  - linked_list_url: "http://blog.erratasec.com/2017/06/how-intercept-outed-reality-winner.html"
-  - yourls_shorturl: "https://eay.li/2zj"
+  - "08/15"
+external_url: "http://blog.erratasec.com/2017/06/how-intercept-outed-reality-winner.html"
+short_url: "https://eay.li/2zj"
 ---
+
+[Link →](http://blog.erratasec.com/2017/06/how-intercept-outed-reality-winner.html)
 
 > The problem is that most new printers print nearly invisibly yellow dots that track down exactly when and where documents, any document, is printed. Because the NSA logs all printing jobs on its printers, it can use this to match up precisely who printed the document.
 

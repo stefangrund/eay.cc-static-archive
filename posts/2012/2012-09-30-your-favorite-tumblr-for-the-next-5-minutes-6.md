@@ -1,20 +1,19 @@
 ---
 title: "Your favorite tumblr for the next 5 minutes (6): The Same Picture of Dave Coulier Every Day"
 date: "2012-09-30"
-datetime: "2012-09-30 10:30:34"
+published_at: "2012-09-30T08:30:34Z"
 id: "20597"
 slug: "your-favorite-tumblr-for-the-next-5-minutes-6"
-url: "https://eay.cc/2012/your-favorite-tumblr-for-the-next-5-minutes-6/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2012/your-favorite-tumblr-for-the-next-5-minutes-6/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - bizarres
-  - fernsehen
-  - your-favorite-tumblr-for-the-next-5-minutes
-meta:
-  - yourls_shorturl: "https://eay.li/1mo"
+  - "bizarres"
+  - "fernsehen"
+  - "your favorite tumblr for the next 5 minutes"
+short_url: "https://eay.li/1mo"
 ---
 
 ![](https://eay.cc/uploads/2012/davecoulier.jpg)

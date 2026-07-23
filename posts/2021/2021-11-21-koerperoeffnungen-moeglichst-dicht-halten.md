@@ -1,26 +1,26 @@
 ---
 title: "“Körperöffnungen möglichst dicht halten”"
 date: "2021-11-21"
-datetime: "2021-11-21 09:49:39"
+published_at: "2021-11-21T08:49:39Z"
 id: "37635"
 slug: "koerperoeffnungen-moeglichst-dicht-halten"
-url: "https://eay.cc/2021/koerperoeffnungen-moeglichst-dicht-halten/"
-author: "eay"
+permalink: "https://eay.cc/2021/koerperoeffnungen-moeglichst-dicht-halten/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - coronavirus
-  - oesterreich
-  - politik
-  - verschwoerungen
-meta:
-  - linked_list_url: "https://www.spiegel.de/ausland/wien-zehntausende-gehen-gegen-lockdown-auf-die-strasse-a-0e23ea2f-8f84-400c-b846-25db59ade63b"
-  - geo_latitude: "50.973128"
-  - geo_longitude: "6.683744"
-  - geo_public: "1"
-  - yourls_shorturl: "https://eay.li/2u6"
+  - "coronavirus"
+  - "österreich"
+  - "politik"
+  - "verschwörungen"
+external_url: "https://www.spiegel.de/ausland/wien-zehntausende-gehen-gegen-lockdown-auf-die-strasse-a-0e23ea2f-8f84-400c-b846-25db59ade63b"
+short_url: "https://eay.li/2u6"
+geo_latitude: "50.973128"
+geo_longitude: "6.683744"
 ---
+
+[Link →](https://www.spiegel.de/ausland/wien-zehntausende-gehen-gegen-lockdown-auf-die-strasse-a-0e23ea2f-8f84-400c-b846-25db59ade63b)
 
 Verrückt, was da (auch) in unserem “[Noch-Nachbarland](https://twitter.com/i_am_fabs/status/1461758922751098886)” abgeht:
 

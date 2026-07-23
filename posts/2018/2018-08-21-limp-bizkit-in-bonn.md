@@ -1,21 +1,20 @@
 ---
 title: "Limp Bizkit in Bonn"
 date: "2018-08-21"
-datetime: "2018-08-21 23:05:50"
+published_at: "2018-08-21T21:05:50Z"
 id: "34886"
 slug: "limp-bizkit-in-bonn"
-url: "https://eay.cc/2018/limp-bizkit-in-bonn/"
-author: "eay"
+permalink: "https://eay.cc/2018/limp-bizkit-in-bonn/"
+author: "Stefan Grund"
 format: "aside"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - bonn
-  - konzerte
-  - limp-bizkit
-  - musik
-meta:
-  - yourls_shorturl: "https://eay.li/36g"
+  - "bonn"
+  - "konzerte"
+  - "limp bizkit"
+  - "musik"
+short_url: "https://eay.li/36g"
 ---
 
 ![](https://eay.cc/uploads/2018/limp-bizkit.gif)

@@ -1,25 +1,24 @@
 ---
 title: "Just married"
 date: "2014-07-22"
-datetime: "2014-07-22 22:08:08"
+published_at: "2014-07-22T20:08:08Z"
 id: "28382"
 slug: "just-married"
-url: "https://eay.cc/2014/just-married/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2014/just-married/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - analogleben
-  - best-of
-  - fotos
-  - hochzeiten
-  - kira-und-ich
-meta:
-  - yourls_shorturl: "https://eay.li/2hl"
+  - "analogleben"
+  - "best of"
+  - "fotos"
+  - "hochzeiten"
+  - "kira und ich"
+short_url: "https://eay.li/2hl"
 ---
 
-Falls ihr euch fragt, warum es hier in den letzten Wochen so ruhig war: Ich habe geheiratet. Und zwar die Frau, mit der ich seit nunmehr zwölf Jahren zusammen bin und [die ich letztes Jahr gefragt habe](//eay.cc/2013/sie-hat-ja-gesagt/), ob wir auch diesen Schritt gemeinsam gehen wollen. Nach zwei grandiosen Junggesellenabschieden voller Superhelden, Entführungen und Eseln und einem wunderbaren Polterabend Hochzeitsumtrunk samt kurzfristigem Location-Wechsel und nicht genehmigtem Feuerwerk war es am vergangenen Freitag, [an unserem Jahrestag](//eay.cc/2012/zehn/), dann soweit.
+Falls ihr euch fragt, warum es hier in den letzten Wochen so ruhig war: Ich habe geheiratet. Und zwar die Frau, mit der ich seit nunmehr zwölf Jahren zusammen bin und [die ich letztes Jahr gefragt habe](https://eay.cc/2013/sie-hat-ja-gesagt/), ob wir auch diesen Schritt gemeinsam gehen wollen. Nach zwei grandiosen Junggesellenabschieden voller Superhelden, Entführungen und Eseln und einem wunderbaren Polterabend Hochzeitsumtrunk samt kurzfristigem Location-Wechsel und nicht genehmigtem Feuerwerk war es am vergangenen Freitag, [an unserem Jahrestag](https://eay.cc/2012/zehn/), dann soweit.
 
 ![](https://eay.cc/uploads/2014/hochzeit1.jpg)
 

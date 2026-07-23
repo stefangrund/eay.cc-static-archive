@@ -1,26 +1,26 @@
 ---
 title: "Caught on camera, police explode in rage and violence across the US"
 date: "2020-06-01"
-datetime: "2020-06-01 13:35:29"
+published_at: "2020-06-01T12:35:29Z"
 id: "36547"
 slug: "caught-on-camera-police-explode-in-rage-and-violence-across-the-us"
-url: "https://eay.cc/2020/caught-on-camera-police-explode-in-rage-and-violence-across-the-us/"
-author: "eay"
+permalink: "https://eay.cc/2020/caught-on-camera-police-explode-in-rage-and-violence-across-the-us/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - diskriminierung
-  - donald-trump
-  - politik
-  - usa
-meta:
-  - linked_list_url: "https://www.theverge.com/2020/5/31/21276044/police-violence-protest-george-floyd"
-  - yourls_shorturl: "https://eay.li/3ee"
-  - geo_latitude: "50.973888631034"
-  - geo_longitude: "6.6831007764996"
-  - geo_public: "1"
+  - "diskriminierung"
+  - "donald trump"
+  - "politik"
+  - "usa"
+external_url: "https://www.theverge.com/2020/5/31/21276044/police-violence-protest-george-floyd"
+short_url: "https://eay.li/3ee"
+geo_latitude: "50.973888631034"
+geo_longitude: "6.6831007764996"
 ---
+
+[Link →](https://www.theverge.com/2020/5/31/21276044/police-violence-protest-george-floyd)
 
 > Over the past 72 hours, people across the US have captured what may be the most comprehensive live picture of police brutality ever. Any one of the videos we’ve seen could have sparked a national discussion, with people picking apart their elements, searching for context to argue about, and digging through the pasts of everyone involved. But it’s not just one act of violence. It’s everywhere.
 

@@ -1,28 +1,27 @@
 ---
 title: "Ironic Sans über »‘Til Death«: This sitcom got WEIRD when nobody watched it"
 date: "2024-03-30"
-datetime: "2024-03-30 10:29:37"
+published_at: "2024-03-30T09:29:37Z"
 id: "39556"
 slug: "ironic-sans-ueber-til-death-this-sitcom-got-weird-when-nobody-watched-it"
-url: "https://eay.cc/2024/ironic-sans-ueber-til-death-this-sitcom-got-weird-when-nobody-watched-it/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2024/ironic-sans-ueber-til-death-this-sitcom-got-weird-when-nobody-watched-it/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - bizarres
-  - serien
-  - video
-  - video-essay
-meta:
-  - geo_latitude: "50.973836"
-  - geo_longitude: "6.683017"
-  - geo_public: "1"
-  - yourls_shorturl: "https://eay.li/3qh"
-  - _share_on_mastodon_url: "https://eay.social/@eay/112183933614821834"
+  - "bizarres"
+  - "serien"
+  - "video"
+  - "video-essay"
+short_url: "https://eay.li/3qh"
+content_copy:
+  - "https://eay.social/@eay/112183933614821834"
+geo_latitude: "50.973836"
+geo_longitude: "6.683017"
 ---
 
-[youtube id="UkGsk6RBSgg"]
+\[youtube id="UkGsk6RBSgg"\]
 
 > The FOX sitcom "Til Death" was so bad that nobody watched it. But a fluke in the TV business meant that it needed to stay on the air for one more season. So with no audience and no stakes, the writers got really weird.
 

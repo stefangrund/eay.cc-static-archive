@@ -1,23 +1,24 @@
 ---
 title: "The State of Google Reader Replacements"
 date: "2013-06-28"
-datetime: "2013-06-28 22:47:52"
+published_at: "2013-06-28T20:47:52Z"
 id: "23540"
 slug: "the-state-of-google-reader-replacements"
-url: "https://eay.cc/2013/the-state-of-google-reader-replacements/"
-author: "eay"
+permalink: "https://eay.cc/2013/the-state-of-google-reader-replacements/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - feedly
-  - feedreader
-  - google
-  - webservice
-meta:
-  - linked_list_url: "http://tidbits.com/article/13858"
-  - yourls_shorturl: "https://eay.li/24g"
+  - "feedly"
+  - "feedreader"
+  - "google"
+  - "webservice"
+external_url: "http://tidbits.com/article/13858"
+short_url: "https://eay.li/24g"
 ---
+
+[Link →](http://tidbits.com/article/13858)
 
 Am 1. Juli wird der Google Reader bekanntlich eingestellt. Ich teste gerade auch diverse Alternativen und werde hier bestimmt noch ein, zwei Worte zu meiner Wahl verlieren. Bis es soweit ist, lege ich euch aber [John Centers' TidBITS-Artikel](http://tidbits.com/article/13858) zum Thema ans Herz. Guter Überblick, dessen Fazit ich mich für Normalonutzer, denke ich, soweit anschließen werde:
 

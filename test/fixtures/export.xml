@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:wp="http://wordpress.org/export/1.2/">
+  <channel>
+    <item>
+      <title><![CDATA[Quoted "title":
+second line]]></title>
+      <link>https://eay.cc/2024/standard-fixture/</link>
+      <pubDate>Tue, 31 Dec 2024 22:30:00 +0000</pubDate>
+      <dc:creator><![CDATA[eay]]></dc:creator>
+      <content:encoded><![CDATA[<p>Readable All-Time! AT&amp;T #hashtag and 2 &lt; 3. Literal &amp;copy; and &lt;em&gt;text&lt;/em&gt;.</p>
+<p><a href="relative/path">Relative</a> <a href="/root/path">Root</a> <a href="//cdn.example/image">Protocol</a> <a href="#part">Fragment</a> <a href="mailto:test@example.com">Mail</a>.</p>
+<p><a href="/inline">Inline</a>-hyphen and <strong>bold</strong>#hashtag stay readable.</p>
+<p><a href="javascript:window.open('https://example.com/'+location.href)">Bookmarklet</a></p>
+<table>
+  <tr><th colspan="2">Head | one</th><th>Head two</th></tr>
+  <tr><td rowspan="2">Row</td><td>One</td><td>Two<br>lines</td></tr>
+  <tr><td colspan="2">Tail</td></tr>
+</table>
+<ul><li>Outer<ul><li>Inner</li></ul></li></ul>
+<p>A note ((Footnote with <strong>formatting</strong> and a <a href="/source">source</a>.)) follows.</p>
+<pre><code class="language-js">const fence = "```";
+console.log(fence);</code></pre>
+<video poster="/media/poster.jpg"><source src="/media/movie.webm" type="video/webm"><source src="/media/movie.mp4" type="video/mp4"></video>
+<iframe src="//player.example/embed/1"></iframe>
+<script src="//platform.example/loader.js"></script>
+<script>window.alert("Editorial example");</script>]]></content:encoded>
+      <wp:post_id>0001</wp:post_id>
+      <wp:post_date><![CDATA[2025-01-01 00:30:00]]></wp:post_date>
+      <wp:post_date_gmt><![CDATA[2024-12-31 22:30:00]]></wp:post_date_gmt>
+      <wp:post_name><![CDATA[standard-fixture]]></wp:post_name>
+      <wp:status><![CDATA[publish]]></wp:status>
+      <wp:post_type><![CDATA[post]]></wp:post_type>
+      <category domain="category" nicename="0815"><![CDATA[08/15]]></category>
+      <category domain="post_tag" nicename="quantified-self"><![CDATA[quantified self]]></category>
+      <wp:postmeta><wp:meta_key><![CDATA[yourls_shorturl]]></wp:meta_key><wp:meta_value><![CDATA[not a url]]></wp:meta_value></wp:postmeta>
+      <wp:postmeta><wp:meta_key><![CDATA[yourls_shorturl]]></wp:meta_key><wp:meta_value><![CDATA[https://eay.li/test]]></wp:meta_value></wp:postmeta>
+      <wp:postmeta><wp:meta_key><![CDATA[content_copy]]></wp:meta_key><wp:meta_value><![CDATA[https://social.example/1]]></wp:meta_value></wp:postmeta>
+      <wp:postmeta><wp:meta_key><![CDATA[content_copy]]></wp:meta_key><wp:meta_value><![CDATA[https://social.example/1]]></wp:meta_value></wp:postmeta>
+      <wp:postmeta><wp:meta_key><![CDATA[_share_on_mastodon_url]]></wp:meta_key><wp:meta_value><![CDATA[https://mastodon.example/2]]></wp:meta_value></wp:postmeta>
+      <wp:postmeta><wp:meta_key><![CDATA[geo_public]]></wp:meta_key><wp:meta_value><![CDATA[1]]></wp:meta_value></wp:postmeta>
+      <wp:postmeta><wp:meta_key><![CDATA[geo_latitude]]></wp:meta_key><wp:meta_value><![CDATA[0.0]]></wp:meta_value></wp:postmeta>
+      <wp:postmeta><wp:meta_key><![CDATA[geo_latitude]]></wp:meta_key><wp:meta_value><![CDATA[50.94]]></wp:meta_value></wp:postmeta>
+      <wp:postmeta><wp:meta_key><![CDATA[geo_longitude]]></wp:meta_key><wp:meta_value><![CDATA[0.0]]></wp:meta_value></wp:postmeta>
+      <wp:postmeta><wp:meta_key><![CDATA[geo_longitude]]></wp:meta_key><wp:meta_value><![CDATA[6.95]]></wp:meta_value></wp:postmeta>
+      <wp:postmeta><wp:meta_key><![CDATA[geo_address]]></wp:meta_key><wp:meta_value><![CDATA[Köln "Innenstadt"]]></wp:meta_value></wp:postmeta>
+      <wp:postmeta><wp:meta_key><![CDATA[_oembed_cache]]></wp:meta_key><wp:meta_value><![CDATA[<script>unsafe</script>]]></wp:meta_value></wp:postmeta>
+    </item>
+
+    <item>
+      <title><![CDATA[Link fixture]]></title>
+      <link>https://eay.cc/2024/link-fixture/</link>
+      <pubDate>Mon, 01 Jan 2024 10:00:00 +0000</pubDate>
+      <dc:creator><![CDATA[Stefan]]></dc:creator>
+      <content:encoded><![CDATA[<blockquote><p>A linked quotation.</p></blockquote>]]></content:encoded>
+      <wp:post_id>0002</wp:post_id><wp:post_date>2024-01-01 11:00:00</wp:post_date><wp:post_date_gmt>2024-01-01 10:00:00</wp:post_date_gmt>
+      <wp:post_name>link-fixture</wp:post_name><wp:status>publish</wp:status><wp:post_type>post</wp:post_type>
+      <category domain="post_format" nicename="post-format-link"><![CDATA[Link]]></category>
+      <wp:postmeta><wp:meta_key>linked_list_url</wp:meta_key><wp:meta_value>//example.net/story</wp:meta_value></wp:postmeta>
+    </item>
+
+    <item>
+      <title>Status fixture</title><link>https://eay.cc/2024/status-fixture/</link><pubDate>Mon, 01 Jan 2024 10:00:00 +0000</pubDate><dc:creator>eay</dc:creator>
+      <content:encoded><![CDATA[<p>Status body.</p>]]></content:encoded><wp:post_id>0003</wp:post_id><wp:post_date>2024-01-01 11:00:00</wp:post_date><wp:post_date_gmt>2024-01-01 10:00:00</wp:post_date_gmt><wp:post_name>status-fixture</wp:post_name><wp:status>publish</wp:status><wp:post_type>post</wp:post_type>
+      <category domain="post_format" nicename="post-format-status">Status</category>
+    </item>
+
+    <item>
+      <title>Aside fixture</title><link>https://eay.cc/2024/aside-fixture/</link><pubDate>Mon, 01 Jan 2024 10:00:00 +0000</pubDate><dc:creator>eay</dc:creator>
+      <content:encoded><![CDATA[<p>Aside body.</p>]]></content:encoded><wp:post_id>0004</wp:post_id><wp:post_date>2024-01-01 11:00:00</wp:post_date><wp:post_date_gmt>2024-01-01 10:00:00</wp:post_date_gmt><wp:post_name>aside-fixture</wp:post_name><wp:status>publish</wp:status><wp:post_type>post</wp:post_type>
+      <category domain="post_format" nicename="post-format-aside">Aside</category>
+    </item>
+
+    <item>
+      <title>Image fixture</title><link>https://eay.cc/2016/image-fixture/</link><pubDate></pubDate><dc:creator>eay</dc:creator>
+      <content:encoded><![CDATA[<p><img src="/media/image.jpg" alt="Image"></p>]]></content:encoded><wp:post_id>0005</wp:post_id><wp:post_date>2016-01-04 22:36:27</wp:post_date><wp:post_date_gmt>0000-00-00 00:00:00</wp:post_date_gmt><wp:post_name>image-fixture</wp:post_name><wp:status>publish</wp:status><wp:post_type>post</wp:post_type>
+      <category domain="post_format" nicename="post-format-image">Image</category>
+      <wp:postmeta><wp:meta_key>geo_public</wp:meta_key><wp:meta_value>0</wp:meta_value></wp:postmeta><wp:postmeta><wp:meta_key>geo_latitude</wp:meta_key><wp:meta_value>50</wp:meta_value></wp:postmeta><wp:postmeta><wp:meta_key>geo_longitude</wp:meta_key><wp:meta_value>6</wp:meta_value></wp:postmeta>
+    </item>
+
+    <item>
+      <title>Quote fixture</title><link>https://eay.cc/2024/quote-fixture/</link><pubDate>Mon, 01 Jan 2024 10:00:00 +0000</pubDate><dc:creator>Limpi</dc:creator>
+      <content:encoded><![CDATA[<blockquote><p>Guest quotation.</p></blockquote>]]></content:encoded><wp:post_id>0006</wp:post_id><wp:post_date>2024-01-01 11:00:00</wp:post_date><wp:post_date_gmt>2024-01-01 10:00:00</wp:post_date_gmt><wp:post_name>quote-fixture</wp:post_name><wp:status>publish</wp:status><wp:post_type>post</wp:post_type>
+      <category domain="post_format" nicename="post-format-quote">Quote</category>
+    </item>
+
+    <item>
+      <title>Custom fixture</title><link>https://eay.cc/2024/custom-fixture/</link><pubDate>Mon, 01 Jan 2024 10:00:00 +0000</pubDate><dc:creator>MoD</dc:creator>
+      <content:encoded><![CDATA[<p>Custom body.</p>]]></content:encoded><wp:post_id>0007</wp:post_id><wp:post_date>2024-01-01 11:00:00</wp:post_date><wp:post_date_gmt>2024-01-01 10:00:00</wp:post_date_gmt><wp:post_name>custom-fixture</wp:post_name><wp:status>publish</wp:status><wp:post_type>post</wp:post_type>
+      <category domain="post_format" nicename="statusmitteilung">Statusmitteilung</category>
+    </item>
+  </channel>
+</rss>

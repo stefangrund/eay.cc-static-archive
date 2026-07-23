@@ -1,22 +1,21 @@
 ---
 title: "Inside Cara Delevingne's fantastical L.A. home"
 date: "2021-07-28"
-datetime: "2021-07-28 20:59:57"
+published_at: "2021-07-28T18:59:57Z"
 id: "37415"
 slug: "inside-cara-delevingnes-fantastical-l-a-home"
-url: "https://eay.cc/2021/inside-cara-delevingnes-fantastical-l-a-home/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2021/inside-cara-delevingnes-fantastical-l-a-home/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - architektur
-  - english
-  - innenarchitektur
-meta:
-  - yourls_shorturl: "https://eay.li/2q9"
+  - "architektur"
+  - "english"
+  - "innenarchitektur"
+short_url: "https://eay.li/2q9"
 ---
 
-[youtube id="vx09_4cEzlM"]
+\[youtube id="vx09\_4cEzlM"\]
 
 Cara Delevingne showed her house to Architectural Digest and it's absolutely bonkers. And great.

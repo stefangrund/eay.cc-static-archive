@@ -1,28 +1,26 @@
 ---
 title: "Alfred Workflow: iMessage to Friend"
 date: "2013-10-05"
-datetime: "2013-10-05 14:04:21"
+published_at: "2013-10-05T12:04:21Z"
 id: "25369"
 slug: "alfred-workflow-imessage-to-friend"
-url: "https://eay.cc/2013/alfred-workflow-imessage-to-friend/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2013/alfred-workflow-imessage-to-friend/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - 0815
-  - english
+  - "08/15"
+  - "English"
 tags:
-  - alfred
-  - applescript
-  - imessage
-  - mac
-  - output
-  - projekte
-meta:
-  - _wp_page_template: "default"
-  - yourls_shorturl: "https://eay.li/alfred2imessage"
+  - "alfred"
+  - "applescript"
+  - "imessage"
+  - "mac"
+  - "output"
+  - "projekte"
+short_url: "https://eay.li/alfred2imessage"
 ---
 
-![](https://eay.cc/uploads/2021/imessage-to-friend-v1.3.png) 
+![](https://eay.cc/uploads/2021/imessage-to-friend-v1.3.png)
 
 While working, everything can be a distraction: Twitter, email, your co-workers and texts from iMessage, of course. Answering your friends' texts will take you out of your workflow and after that, it takes minutes to get back into it.
 
@@ -30,10 +28,10 @@ That's why I created the [Alfred](http://www.alfredapp.com/) workflow "iMessage 
 
 ### Download
 
-[![](https://eay.cc/uploads/2013/alfred2_workflow_icon.png)**iMessage to Friend.alfredworkflow**](//eay.cc/uploads/software/iMessage%20to%20Friend.alfredworkflow)  
+[![](https://eay.cc/uploads/2013/alfred2_workflow_icon.png)**iMessage to Friend.alfredworkflow**](https://eay.cc/uploads/software/iMessage%20to%20Friend.alfredworkflow)\
 Version 1.3, 08.05.2021
 
-If you are looking for the old extension for Alfred v1 [click here](//eay.cc/2012/alfred-extension-imessage-to-friend/).
+If you are looking for the old extension for Alfred v1 [click here](https://eay.cc/2012/alfred-extension-imessage-to-friend/).
 
 ### Changelog
 

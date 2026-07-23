@@ -1,26 +1,27 @@
 ---
 title: "How Twitter, Micro.blog and Mastodon could team up to compete with Facebook"
 date: "2017-08-22"
-datetime: "2017-08-22 23:22:57"
+published_at: "2017-08-22T21:22:57Z"
 id: "33356"
 slug: "how-twitter-micro-blog-and-mastodon-could-team-up-to-compete-with-facebook"
-url: "https://eay.cc/2017/how-twitter-micro-blog-and-mastodon-could-team-up-to-compete-with-facebook/"
-author: "eay"
+permalink: "https://eay.cc/2017/how-twitter-micro-blog-and-mastodon-could-team-up-to-compete-with-facebook/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
-  - english
+  - "08/15"
+  - "English"
 tags:
-  - blogging
-  - facebook
-  - google
-  - indieweb
-  - netzkultur
-  - twitter
-meta:
-  - linked_list_url: "http://altplatform.org/2017/06/22/flip-the-iceberg/"
-  - yourls_shorturl: "https://eay.li/30s"
+  - "blogging"
+  - "facebook"
+  - "google"
+  - "indieweb"
+  - "netzkultur"
+  - "twitter"
+external_url: "http://altplatform.org/2017/06/22/flip-the-iceberg/"
+short_url: "https://eay.li/30s"
 ---
+
+[Link →](http://altplatform.org/2017/06/22/flip-the-iceberg/)
 
 Brian Hendrickson has a point:
 

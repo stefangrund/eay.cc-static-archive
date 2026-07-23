@@ -1,26 +1,27 @@
 ---
 title: "PPW bei der Nightly Build 2015"
 date: "2015-09-07"
-datetime: "2015-09-07 15:05:48"
+published_at: "2015-09-07T13:05:48Z"
 id: "30860"
 slug: "ppw-bei-der-nightly-build-2015"
-url: "https://eay.cc/2015/ppw-bei-der-nightly-build-2015/"
-author: "eay"
+permalink: "https://eay.cc/2015/ppw-bei-der-nightly-build-2015/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - best-of
-  - event
-  - frontend
-  - koeln
-  - konferenz
-  - ppw
-  - work-life-balance
-meta:
-  - linked_list_url: "http://www.ppw.de/blog/ppw-bei-der-nightly-build-2015/"
-  - yourls_shorturl: "https://eay.li/2pz"
+  - "best of"
+  - "event"
+  - "frontend"
+  - "köln"
+  - "konferenz"
+  - "ppw"
+  - "work-life-balance"
+external_url: "http://www.ppw.de/blog/ppw-bei-der-nightly-build-2015/"
+short_url: "https://eay.li/2pz"
 ---
+
+[Link →](http://www.ppw.de/blog/ppw-bei-der-nightly-build-2015/)
 
 Am Freitagabend fand hier in Köln die Frontend-/Feierabendkonferenz [Nighty Build](http://www.nightlybuild.io/) statt. Für das [PPW](http://www.ppw.de/)-Agenturblog habe ich jetzt mal meine Eindrücke festgehalten. Schon mal soviel: Es hat sich gelohnt!
 

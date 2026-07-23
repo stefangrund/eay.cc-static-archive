@@ -1,31 +1,29 @@
 ---
 title: "Cosmic Latte – The Average Color of the Universe"
 date: "2026-03-24"
-datetime: "2026-03-24 11:30:27"
+published_at: "2026-03-24T10:30:27Z"
 id: "41634"
 slug: "cosmic-latte-the-average-color-of-the-universe"
-url: "https://eay.cc/2026/cosmic-latte-the-average-color-of-the-universe/"
-author: "eay"
+permalink: "https://eay.cc/2026/cosmic-latte-the-average-color-of-the-universe/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - farben
-  - weltall
-  - wikipedia
-  - wissenschaft
-meta:
-  - linked_list_url: "https://en.wikipedia.org/wiki/Cosmic_latte"
-  - geo_latitude: "51.000098"
-  - geo_longitude: "6.794167"
-  - geo_public: "1"
-  - linked_list_og-title: "Cosmic latte - Wikipedia"
-  - linked_list_og-description: "Finding the average color of the universe was not the focus of the study. Rather, the study examined spectral analysis of different galaxies to study star formation."
-  - linked_list_og-image: "https://eay.cc/wordpress/uploads/og-cache/b8df3e606a8fa24b71970f6a1b227d0c_upload.webp"
-  - yourls_shorturl: "https://eay.li/40j"
-  - _share_on_mastodon_url: "https://eay.social/@eay/116283685612960409"
-  - content_copy: "https://bsky.app/profile/eay.social/post/3mhseqva46p2k"
+  - "farben"
+  - "weltall"
+  - "wikipedia"
+  - "wissenschaft"
+external_url: "https://en.wikipedia.org/wiki/Cosmic_latte"
+short_url: "https://eay.li/40j"
+content_copy:
+  - "https://bsky.app/profile/eay.social/post/3mhseqva46p2k"
+  - "https://eay.social/@eay/116283685612960409"
+geo_latitude: "51.000098"
+geo_longitude: "6.794167"
 ---
+
+[Link →](https://en.wikipedia.org/wiki/Cosmic_latte)
 
 ![Die Farbe Cosmic Late als Bild.](https://eay.cc/uploads/2026/cosmic-latte.png)
 

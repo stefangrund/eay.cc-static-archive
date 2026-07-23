@@ -1,21 +1,20 @@
 ---
 title: "eayz-Graffito"
 date: "2008-07-07"
-datetime: "2008-07-07 21:13:40"
+published_at: "2008-07-07T19:13:40Z"
 id: "597"
 slug: "eayz-graffito"
-url: "https://eay.cc/2008/eayz-graffito/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2008/eayz-graffito/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - eayz
-  - graffiti
-  - output
-  - webservice
-meta:
-  - yourls_shorturl: "https://eay.li/69"
+  - "eayz"
+  - "graffiti"
+  - "output"
+  - "webservice"
+short_url: "https://eay.li/69"
 ---
 
-![](/uploads/2008/eayzgraffiti.gif) (via [Graffiti Creator](http://www.graffiticreator.net/))
+![](https://eay.cc/uploads/2008/eayzgraffiti.gif) (via [Graffiti Creator](http://www.graffiticreator.net/))

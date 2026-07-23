@@ -1,21 +1,20 @@
 ---
 title: "Frohe Weihnachten!"
 date: "2007-12-24"
-datetime: "2007-12-24 23:01:07"
+published_at: "2007-12-24T22:01:07Z"
 id: "332"
 slug: "frohe-weihnachten"
-url: "https://eay.cc/2007/frohe-weihnachten/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2007/frohe-weihnachten/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - comics
-  - dc
-  - jla
-  - weihnachten
-meta:
-  - yourls_shorturl: "https://eay.li/j3"
+  - "comics"
+  - "dc"
+  - "jla"
+  - "weihnachten"
+short_url: "https://eay.li/j3"
 ---
 
-![](/uploads/2007/dcchristmas.jpg) Wünscht nicht nur die DC-Staff, sondern auch die eayz-Crew.
+![](https://eay.cc/uploads/2007/dcchristmas.jpg) Wünscht nicht nur die DC-Staff, sondern auch die eayz-Crew.

@@ -1,24 +1,25 @@
 ---
 title: "The Three Rays"
 date: "2014-03-26"
-datetime: "2014-03-26 02:14:35"
+published_at: "2014-03-26T01:14:35Z"
 id: "27405"
 slug: "the-three-rays"
-url: "https://eay.cc/2014/the-three-rays/"
-author: "eay"
+permalink: "https://eay.cc/2014/the-three-rays/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - inspiration
-  - literatur
-  - ray-bradbury
-  - raymond-carver
-  - raymond-chandler
-  - webcomic
-meta:
-  - linked_list_url: "http://www.incidentalcomics.com/2014/03/the-three-rays.html"
-  - yourls_shorturl: "https://eay.li/2e7"
+  - "inspiration"
+  - "literatur"
+  - "ray bradbury"
+  - "raymond carver"
+  - "raymond chandler"
+  - "webcomic"
+external_url: "http://www.incidentalcomics.com/2014/03/the-three-rays.html"
+short_url: "https://eay.li/2e7"
 ---
+
+[Link →](http://www.incidentalcomics.com/2014/03/the-three-rays.html)
 
 [![](https://eay.cc/uploads/2014/thethreerays.jpg)](http://www.incidentalcomics.com/2014/03/the-three-rays.html)

@@ -1,23 +1,22 @@
 ---
 title: "Forum-Gedenk-Interview: McLee"
 date: "2013-01-21"
-datetime: "2013-01-21 12:26:37"
+published_at: "2013-01-21T11:26:37Z"
 id: "21999"
 slug: "forum-gedenk-interview-mclee"
-url: "https://eay.cc/2013/forum-gedenk-interview-mclee/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2013/forum-gedenk-interview-mclee/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - forum
-  - forum-gedenk-interview
-  - mclee
-meta:
-  - yourls_shorturl: "https://eay.li/1rz"
+  - "forum"
+  - "forum-gedenk-interview"
+  - "mclee"
+short_url: "https://eay.li/1rz"
 ---
 
-Vor ziemlich genau fünf Jahren wurde das eayz.net Forum geschlossen, das bis dahin einer kleinen, aber außerordentlich feinen Community ein digitales Dach über dem Kopf bot. [Im Gedenken ans Forum](//eay.cc/2013/remembering-das-forum/) habe ich mich gefragt, was die Leute, die hier damals zum Mobiliar gehörten, heute eigentlich so machen. Ein paar Emails später hatte ich dankenswerterweise einige interessante Antworten zusammen. [Unter anderem](//eay.cc/tag/forum-gedenk-interview/) von Peer a.k.a. McLee, Partner in Crime in Sachen [Sweded Star Wars](//eay.cc/2012/unsere-empire-uncut-szene/) und stets unterlegenen FIFA-Kontrahenten. SeÃ±or Lee hat die Fragen außerdem gleich zwei Mal beantwortet: Ein Mal aus seiner Sicht, ein Mal [aus Eugenes Sicht](//eay.cc/2013/forum-gedenk-interview-fake-eugene/).
+Vor ziemlich genau fünf Jahren wurde das eayz.net Forum geschlossen, das bis dahin einer kleinen, aber außerordentlich feinen Community ein digitales Dach über dem Kopf bot. [Im Gedenken ans Forum](https://eay.cc/2013/remembering-das-forum/) habe ich mich gefragt, was die Leute, die hier damals zum Mobiliar gehörten, heute eigentlich so machen. Ein paar Emails später hatte ich dankenswerterweise einige interessante Antworten zusammen. [Unter anderem](https://eay.cc/tag/forum-gedenk-interview/) von Peer a.k.a. McLee, Partner in Crime in Sachen [Sweded Star Wars](https://eay.cc/2012/unsere-empire-uncut-szene/) und stets unterlegenen FIFA-Kontrahenten. SeÃ±or Lee hat die Fragen außerdem gleich zwei Mal beantwortet: Ein Mal aus seiner Sicht, ein Mal [aus Eugenes Sicht](https://eay.cc/2013/forum-gedenk-interview-fake-eugene/).
 
 ![](https://eay.cc/uploads/2013/forum_interview_mclee.jpg)
 
@@ -33,7 +32,7 @@ Die Community macht ein Forum halt zu dem was es ist und ich würde mal behaupte
 
 **Kann man dich dieser Tage online irgendwo antreffen? Wenn ja (und wenn du's verraten möchtest), wo?**
 
-Mich findet man eigentlich überall online meist unter McLee, oder The_McLee falls ein schottischer Asiate mal wieder meinen Nickname geklaut hat. Wenn es ganz schlimm ist kann's auch mal TheOneAndOnlyMcLee sein, aber das McLee hat sich durchgesetzt. Auch wenn meine Profile wenig gepflegt und teilweise auch tot wirken kann ich euch versichern das man mich jederzeit erreichen kann.
+Mich findet man eigentlich überall online meist unter McLee, oder The\_McLee falls ein schottischer Asiate mal wieder meinen Nickname geklaut hat. Wenn es ganz schlimm ist kann's auch mal TheOneAndOnlyMcLee sein, aber das McLee hat sich durchgesetzt. Auch wenn meine Profile wenig gepflegt und teilweise auch tot wirken kann ich euch versichern das man mich jederzeit erreichen kann.
 
 **Welche Frage hättest du hier gerne noch gestellt bekommen und wie lautet die Antwort?**
 

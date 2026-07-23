@@ -1,23 +1,24 @@
 ---
 title: "Telekom schaltet De-Mail ab"
 date: "2021-08-31"
-datetime: "2021-08-31 12:15:28"
+published_at: "2021-08-31T10:15:28Z"
 id: "37473"
 slug: "telekom-schaltet-de-mail-ab"
-url: "https://eay.cc/2021/telekom-schaltet-de-mail-ab/"
-author: "eay"
+permalink: "https://eay.cc/2021/telekom-schaltet-de-mail-ab/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - deutschland
-  - digitalisierung
-  - netzkultur
-  - politik
-meta:
-  - linked_list_url: "https://www.spiegel.de/netzwelt/netzpolitik/telekom-schaltet-de-mail-ab-a-1cf7a036-c4ad-4d3c-b8d8-2f3d1afa7944"
-  - yourls_shorturl: "https://eay.li/2rg"
+  - "deutschland"
+  - "digitalisierung"
+  - "netzkultur"
+  - "politik"
+external_url: "https://www.spiegel.de/netzwelt/netzpolitik/telekom-schaltet-de-mail-ab-a-1cf7a036-c4ad-4d3c-b8d8-2f3d1afa7944"
+short_url: "https://eay.li/2rg"
 ---
+
+[Link →](https://www.spiegel.de/netzwelt/netzpolitik/telekom-schaltet-de-mail-ab-a-1cf7a036-c4ad-4d3c-b8d8-2f3d1afa7944)
 
 > Mit De-Mail wollte die Regierung eine sichere elektronische Behördenpost etablieren. Nach zehn Jahren und Hunderten Millionen Euro Verlust steigt die Telekom nun aus. Das Ende des Projekts ist das womöglich noch nicht.
 

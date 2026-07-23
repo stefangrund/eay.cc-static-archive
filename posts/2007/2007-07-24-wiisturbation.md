@@ -1,23 +1,22 @@
 ---
 title: "Wiisturbation"
 date: "2007-07-24"
-datetime: "2007-07-24 19:21:07"
+published_at: "2007-07-24T17:21:07Z"
 id: "165"
 slug: "wiisturbation"
-url: "https://eay.cc/2007/wiisturbation/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2007/wiisturbation/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - bizarres
-  - games
-  - nintendo
-  - sex
-  - werbung
-  - wii
-meta:
-  - yourls_shorturl: "https://eay.li/hd"
+  - "bizarres"
+  - "games"
+  - "nintendo"
+  - "sex"
+  - "werbung"
+  - "wii"
+short_url: "https://eay.li/hd"
 ---
 
-![](/uploads/2007/wiisturbation.gif) Wen spricht Nintendo eigentlich mit dieser Art von Werbung an? ([via](http://www.wiiwelt.com/2007/07/24/wii-erfolgreich-durch-extrem-gutes-marketing/))
+![](https://eay.cc/uploads/2007/wiisturbation.gif) Wen spricht Nintendo eigentlich mit dieser Art von Werbung an? ([via](http://www.wiiwelt.com/2007/07/24/wii-erfolgreich-durch-extrem-gutes-marketing/))

@@ -1,23 +1,24 @@
 ---
 title: "Clippy a.k.a. Karl Klammer, die nervende Büroklammer aus Microsoft Office, für jede Webseite"
 date: "2014-05-09"
-datetime: "2014-05-09 11:06:40"
+published_at: "2014-05-09T09:06:40Z"
 id: "27895"
 slug: "clippy-a-k-a-karl-klammer-die-nervende-bueroklammer-aus-microsoft-office-fuer-jede-webseite"
-url: "https://eay.cc/2014/clippy-a-k-a-karl-klammer-die-nervende-bueroklammer-aus-microsoft-office-fuer-jede-webseite/"
-author: "eay"
+permalink: "https://eay.cc/2014/clippy-a-k-a-karl-klammer-die-nervende-bueroklammer-aus-microsoft-office-fuer-jede-webseite/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - javascript
-  - microsoft
-  - office
-  - windows
-meta:
-  - linked_list_url: "https://www.smore.com/clippy-js"
-  - yourls_shorturl: "https://eay.li/2fj"
+  - "javascript"
+  - "microsoft"
+  - "office"
+  - "windows"
+external_url: "https://www.smore.com/clippy-js"
+short_url: "https://eay.li/2fj"
 ---
+
+[Link →](https://www.smore.com/clippy-js)
 
 ![](https://eay.cc/uploads/2014/clippyjs.gif)
 
