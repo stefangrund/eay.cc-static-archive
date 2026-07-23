@@ -1,19 +1,18 @@
 ---
 title: "Das Böse hat ein Gesicht"
 date: "2008-01-25"
-datetime: "2008-01-25 21:47:01"
+published_at: "2008-01-25T20:47:01Z"
 id: "365"
 slug: "das-bose-hat-ein-gesicht"
-url: "https://eay.cc/2008/das-bose-hat-ein-gesicht/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2008/das-bose-hat-ein-gesicht/"
+author: "Stefan Grund"
+format: "standard"
 tags:
-  - dschungelcamp
-  - fernsehen
-  - hiphop
-  - politik
-meta:
-  - yourls_shorturl: "https://eay.li/n3"
+  - "dschungelcamp"
+  - "fernsehen"
+  - "hiphop"
+  - "politik"
+short_url: "https://eay.li/n3"
 ---
 
-![](/uploads/2008/dasboese.gif)
+![](https://eay.cc/uploads/2008/dasboese.gif)

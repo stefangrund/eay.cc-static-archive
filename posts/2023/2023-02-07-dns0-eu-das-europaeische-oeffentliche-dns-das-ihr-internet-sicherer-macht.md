@@ -1,26 +1,26 @@
 ---
 title: "dns0.eu – Das europäische öffentliche DNS, das Ihr Internet sicherer macht"
 date: "2023-02-07"
-datetime: "2023-02-07 14:09:00"
+published_at: "2023-02-07T13:09:00Z"
 id: "38434"
 slug: "dns0-eu-das-europaeische-oeffentliche-dns-das-ihr-internet-sicherer-macht"
-url: "https://eay.cc/2023/dns0-eu-das-europaeische-oeffentliche-dns-das-ihr-internet-sicherer-macht/"
-author: "eay"
+permalink: "https://eay.cc/2023/dns0-eu-das-europaeische-oeffentliche-dns-das-ihr-internet-sicherer-macht/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - datenschutz
-  - europa
-  - netzkultur
-  - technologie
-meta:
-  - linked_list_url: "https://www.dns0.eu/de"
-  - geo_latitude: "50.973837"
-  - geo_longitude: "6.683019"
-  - geo_public: "1"
-  - yourls_shorturl: "https://eay.li/3la"
+  - "datenschutz"
+  - "europa"
+  - "netzkultur"
+  - "technologie"
+external_url: "https://www.dns0.eu/de"
+short_url: "https://eay.li/3la"
+geo_latitude: "50.973837"
+geo_longitude: "6.683019"
 ---
+
+[Link →](https://www.dns0.eu/de)
 
 > A free, sovereign and GDPR-compliant recursive DNS resolver with a strong focus on security to protect the citizens and organizations of the European Union.
 

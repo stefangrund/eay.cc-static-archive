@@ -1,27 +1,28 @@
 ---
 title: "Trump's Dark Plans for a Second Term"
 date: "2023-11-08"
-datetime: "2023-11-08 08:41:51"
+published_at: "2023-11-08T06:41:51Z"
 id: "38927"
 slug: "trumps-dark-plans-for-a-second-term"
-url: "https://eay.cc/2023/trumps-dark-plans-for-a-second-term/"
-author: "eay"
+permalink: "https://eay.cc/2023/trumps-dark-plans-for-a-second-term/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
-  - english
+  - "08/15"
+  - "English"
 tags:
-  - donald-trump
-  - politik
-  - usa
-meta:
-  - linked_list_url: "https://daringfireball.net/linked/2023/11/07/trump-dark-plans"
-  - geo_latitude: "53.930531"
-  - geo_longitude: "11.381365"
-  - geo_public: "1"
-  - yourls_shorturl: "https://eay.li/3or"
-  - _share_on_mastodon_url: "https://eay.social/@eay/111373563452111529"
+  - "donald trump"
+  - "politik"
+  - "usa"
+external_url: "https://daringfireball.net/linked/2023/11/07/trump-dark-plans"
+short_url: "https://eay.li/3or"
+content_copy:
+  - "https://eay.social/@eay/111373563452111529"
+geo_latitude: "53.930531"
+geo_longitude: "11.381365"
 ---
+
+[Link →](https://daringfireball.net/linked/2023/11/07/trump-dark-plans)
 
 John Gruber:
 

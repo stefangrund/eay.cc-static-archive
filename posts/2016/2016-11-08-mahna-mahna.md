@@ -1,22 +1,21 @@
 ---
 title: "Mahna Mahna"
 date: "2016-11-08"
-datetime: "2016-11-08 08:00:28"
+published_at: "2016-11-08T06:00:28Z"
 id: "31776"
 slug: "mahna-mahna"
-url: "https://eay.cc/2016/mahna-mahna/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2016/mahna-mahna/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - donald-trump
-  - mashup
-  - muppets
-  - politik
-  - usa
-meta:
-  - yourls_shorturl: "https://eay.li/2vd"
+  - "donald trump"
+  - "mashup"
+  - "muppets"
+  - "politik"
+  - "usa"
+short_url: "https://eay.li/2vd"
 ---
 
-[youtube id="vZnlz-b2NnY"]
+\[youtube id="vZnlz-b2NnY"\]

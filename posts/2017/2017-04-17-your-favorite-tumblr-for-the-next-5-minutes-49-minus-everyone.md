@@ -1,21 +1,20 @@
 ---
 title: "Your favorite tumblr for the next 5 minutes (49): Minus everyone"
 date: "2017-04-17"
-datetime: "2017-04-17 16:52:45"
+published_at: "2017-04-17T15:52:45Z"
 id: "32674"
 slug: "your-favorite-tumblr-for-the-next-5-minutes-49-minus-everyone"
-url: "https://eay.cc/2017/your-favorite-tumblr-for-the-next-5-minutes-49-minus-everyone/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2017/your-favorite-tumblr-for-the-next-5-minutes-49-minus-everyone/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - bot
-  - fanart
-  - webcomic
-  - your-favorite-tumblr-for-the-next-5-minutes
-meta:
-  - yourls_shorturl: "https://eay.li/2xp"
+  - "bot"
+  - "fanart"
+  - "webcomic"
+  - "your favorite tumblr for the next 5 minutes"
+short_url: "https://eay.li/2xp"
 ---
 
 ![](https://eay.cc/uploads/2017/minus-everyone.gif)

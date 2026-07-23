@@ -1,30 +1,23 @@
 ---
 title: "Rock am Ring kehrt zurück an den Nürburgring"
 date: "2016-12-05"
-datetime: "2016-12-05 17:06:01"
+published_at: "2016-12-05T15:06:01Z"
 id: "31823"
 slug: "rock-am-ring-kehrt-zurueck-an-den-nuerburgring"
-url: "https://eay.cc/2016/rock-am-ring-kehrt-zurueck-an-den-nuerburgring/"
-author: "eay"
+permalink: "https://eay.cc/2016/rock-am-ring-kehrt-zurueck-an-den-nuerburgring/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - festival
-  - musik
-  - rock-am-ring
-meta:
-  - linked_list_url: "http://www.spiegel.de/kultur/musik/rock-am-ring-kehrt-zurueck-an-den-nuerburgring-mendig-nicht-mehr-haltbar-a-1124475.html"
-  - linked_list_url: "http://www.spiegel.de/kultur/musik/rock-am-ring-kehrt-zurueck-an-den-nuerburgring-mendig-nicht-mehr-haltbar-a-1124475.html"
-  - linked_list_url: "http://www.spiegel.de/kultur/musik/rock-am-ring-kehrt-zurueck-an-den-nuerburgring-mendig-nicht-mehr-haltbar-a-1124475.html"
-  - linked_list_url: "http://www.spiegel.de/kultur/musik/rock-am-ring-kehrt-zurueck-an-den-nuerburgring-mendig-nicht-mehr-haltbar-a-1124475.html"
-  - linked_list_url: "http://www.spiegel.de/kultur/musik/rock-am-ring-kehrt-zurueck-an-den-nuerburgring-mendig-nicht-mehr-haltbar-a-1124475.html"
-  - linked_list_url: "http://www.spiegel.de/kultur/musik/rock-am-ring-kehrt-zurueck-an-den-nuerburgring-mendig-nicht-mehr-haltbar-a-1124475.html"
-  - linked_list_url: "http://www.spiegel.de/kultur/musik/rock-am-ring-kehrt-zurueck-an-den-nuerburgring-mendig-nicht-mehr-haltbar-a-1124475.html"
-  - linked_list_url: "http://www.spiegel.de/kultur/musik/rock-am-ring-kehrt-zurueck-an-den-nuerburgring-mendig-nicht-mehr-haltbar-a-1124475.html"
-  - linked_list_url: "http://www.spiegel.de/kultur/musik/rock-am-ring-kehrt-zurueck-an-den-nuerburgring-mendig-nicht-mehr-haltbar-a-1124475.html"
-  - yourls_shorturl: "https://eay.li/2vj"
+  - "festival"
+  - "musik"
+  - "rock am ring"
+external_url: "http://www.spiegel.de/kultur/musik/rock-am-ring-kehrt-zurueck-an-den-nuerburgring-mendig-nicht-mehr-haltbar-a-1124475.html"
+short_url: "https://eay.li/2vj"
 ---
+
+[Link →](http://www.spiegel.de/kultur/musik/rock-am-ring-kehrt-zurueck-an-den-nuerburgring-mendig-nicht-mehr-haltbar-a-1124475.html)
 
 [Nach zwei Jahren "auswärts"](https://eay.cc/2014/flugplatz-mendig-ist-neuer-schauplatz-von-rock-am-ring/) kehrt der Ring endlich wieder nach Hause zurück:
 

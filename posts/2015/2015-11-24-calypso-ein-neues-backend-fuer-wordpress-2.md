@@ -1,25 +1,26 @@
 ---
 title: "Calypso, ein neues Backend für WordPress"
 date: "2015-11-24"
-datetime: "2015-11-24 21:48:41"
+published_at: "2015-11-24T20:48:41Z"
 id: "31005"
 slug: "calypso-ein-neues-backend-fuer-wordpress-2"
-url: "https://eay.cc/2015/calypso-ein-neues-backend-fuer-wordpress-2/"
-author: "eay"
+permalink: "https://eay.cc/2015/calypso-ein-neues-backend-fuer-wordpress-2/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - api
-  - blogging
-  - javascript
-  - service
-  - technologie
-  - wordpress
-meta:
-  - linked_list_url: "http://ma.tt/2015/11/dance-to-calypso/"
-  - yourls_shorturl: "https://eay.li/2qy"
+  - "api"
+  - "blogging"
+  - "javascript"
+  - "service"
+  - "technologie"
+  - "wordpress"
+external_url: "http://ma.tt/2015/11/dance-to-calypso/"
+short_url: "https://eay.li/2qy"
 ---
+
+[Link →](http://ma.tt/2015/11/dance-to-calypso/)
 
 Automattic hat WordPress.com und allen selbstgehosteten Installationen, die Jetlack laufen haben, ein neues Backend auf JavaScript-Basis spendiert. Dazu liefert der weiterhin PHP-basierte Core eine REST API über die das neue, mit Node.js, React und Flux realisierte Adminstrations-Dashboard dann die Inhalte manipuliert. Eine [Mac-App](https://desktop.wordpress.com/) gibt's obendrauf.
 

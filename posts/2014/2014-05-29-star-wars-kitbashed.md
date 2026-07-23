@@ -1,27 +1,26 @@
 ---
 title: "Star Wars: Kitbashed"
 date: "2014-05-29"
-datetime: "2014-05-29 15:20:52"
+published_at: "2014-05-29T13:20:52Z"
 id: "28062"
 slug: "star-wars-kitbashed"
-url: "https://eay.cc/2014/star-wars-kitbashed/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2014/star-wars-kitbashed/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - fanart
-  - filme
-  - mashup
-  - star-wars
-meta:
-  - yourls_shorturl: "https://eay.li/2gf"
+  - "fanart"
+  - "filme"
+  - "mashup"
+  - "star wars"
+short_url: "https://eay.li/2gf"
 ---
 
-[vimeo id="90747105"]
+\[vimeo id="90747105"\]
 
 > The original Star Wars was a watershed moment, not only in film history, but in technology and modern culture. But where did it come from? What had come before, shaping it? This is Kitbashed, a mashup of Star Wars with many of its sources of inspiration, playing as a feature-length presentation.
 
-[Michael Heilemann](http://binarybonsai.com/), der mit [Kitbashed](http://kitbashed.com/) seit [Anfang 2013](//eay.cc/2013/kitbashed-michael-heilmanns-neues-blog-uber-die-kulturellen-und-asthetischen-wurzeln-von-star-wars/) ein beeindruckend gutes Blog über die kulturellen und ästhetischen Wurzeln und Einflüsse von Star Wars betreibt, hat mit »[Star Wars: Kitbashed](http://vimeo.com/90747105)« eine Version des Films geschaffen, in die er die diversen ("a lot of, but not all of") Vorbilder zu George Lucas' Sternensaga reingeschnitten hat. Hervorragende, monatelange Arbeit.
+[Michael Heilemann](http://binarybonsai.com/), der mit [Kitbashed](http://kitbashed.com/) seit [Anfang 2013](https://eay.cc/2013/kitbashed-michael-heilmanns-neues-blog-uber-die-kulturellen-und-asthetischen-wurzeln-von-star-wars/) ein beeindruckend gutes Blog über die kulturellen und ästhetischen Wurzeln und Einflüsse von Star Wars betreibt, hat mit »[Star Wars: Kitbashed](http://vimeo.com/90747105)« eine Version des Films geschaffen, in die er die diversen ("a lot of, but not all of") Vorbilder zu George Lucas' Sternensaga reingeschnitten hat. Hervorragende, monatelange Arbeit.
 
 Sicherheitshalber lädt meine Sicherheitskopie gerade.

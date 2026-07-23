@@ -1,24 +1,23 @@
 ---
 title: "Cybertruck in »Back to the Future«"
 date: "2020-02-07"
-datetime: "2020-02-07 08:56:22"
+published_at: "2020-02-07T07:56:22Z"
 id: "36254"
 slug: "cybertruck-in-back-to-the-future"
-url: "https://eay.cc/2020/cybertruck-in-back-to-the-future/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2020/cybertruck-in-back-to-the-future/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - back-to-the-future
-  - cybertruck
-  - fanart
-  - tesla
-meta:
-  - yourls_shorturl: "https://eay.li/3ct"
+  - "back to the future"
+  - "cybertruck"
+  - "fanart"
+  - "tesla"
+short_url: "https://eay.li/3ct"
 ---
 
-[youtube id="KUBEXK0_R2Q"]
+\[youtube id="KUBEXK0\_R2Q"\]
 
 > Doc and Marty send a new model into the future.
 

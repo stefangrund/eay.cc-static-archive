@@ -1,28 +1,27 @@
 ---
 title: "Bienvenue à Paris 2024"
 date: "2024-07-30"
-datetime: "2024-07-30 23:27:46"
+published_at: "2024-07-30T21:27:46Z"
 id: "39706"
 slug: "bienvenue-a-paris-2024"
-url: "https://eay.cc/2024/bienvenue-a-paris-2024/"
-author: "eay"
+permalink: "https://eay.cc/2024/bienvenue-a-paris-2024/"
+author: "Stefan Grund"
 format: "image"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - analogleben
-  - best-of
-  - fotos
-  - frankreich
-  - olympische-spiele
-  - paris
-meta:
-  - geo_latitude: "50.973821"
-  - geo_longitude: "6.683071"
-  - geo_public: "1"
-  - yourls_shorturl: "https://eay.li/3rl"
-  - _share_on_mastodon_url: "https://eay.social/@eay/112877559329135271"
-  - content_copy: "https://www.instagram.com/p/C-D-V1HskMt/"
+  - "analogleben"
+  - "best of"
+  - "fotos"
+  - "frankreich"
+  - "olympische spiele"
+  - "paris"
+short_url: "https://eay.li/3rl"
+content_copy:
+  - "https://www.instagram.com/p/C-D-V1HskMt/"
+  - "https://eay.social/@eay/112877559329135271"
+geo_latitude: "50.973821"
+geo_longitude: "6.683071"
 ---
 
 ![Collage von unserem Besuch im St. Nautique Vaires-sur-Marne](https://eay.cc/uploads/2024/paris-2024.jpg)

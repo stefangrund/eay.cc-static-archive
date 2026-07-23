@@ -1,25 +1,24 @@
 ---
 title: "\"Nothing can kill jQuery\""
 date: "2026-01-26"
-datetime: "2026-01-26 07:45:00"
+published_at: "2026-01-26T06:45:00Z"
 id: "41000"
 slug: "nothing-can-kill-jquery"
-url: "https://eay.cc/2026/nothing-can-kill-jquery/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2026/nothing-can-kill-jquery/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - frontend
-  - javascript
-  - web-entwicklung
-meta:
-  - geo_latitude: "50.973885"
-  - geo_longitude: "6.682901"
-  - geo_public: "1"
-  - yourls_shorturl: "https://eay.li/3yt"
-  - _share_on_mastodon_url: "https://eay.social/@eay/115960047381336483"
-  - content_copy: "https://bsky.app/profile/eay.social/post/3mdcnwf65o42t"
+  - "frontend"
+  - "javascript"
+  - "web-entwicklung"
+short_url: "https://eay.li/3yt"
+content_copy:
+  - "https://bsky.app/profile/eay.social/post/3mdcnwf65o42t"
+  - "https://eay.social/@eay/115960047381336483"
+geo_latitude: "50.973885"
+geo_longitude: "6.682901"
 ---
 
 Unglaublich, aber wahr: [jQuery](https://jquery.com/) existiert noch und ist in der vorletzten Woche [in Version 4.0 erschienen](https://blog.jquery.com/2026/01/17/jquery-4-0-0/). In der [aktuellen Ausgabe des Bytes-Newsletters](https://bytes.dev/archives/456) ("Your weekly dose of JS") heißt es dazu – neben der obigen Überschrift – sehr passend:
@@ -32,6 +31,6 @@ Ich bin recht froh, dass ich jQuery seit Hypercode-Gründung in 2019 tatsächlic
 
 Wenn ihr jQuery in 2026 immer noch benutzt, macht ihr vermutlich etwas falsch. Schließlich gibt es mit Vanilla JavaScript, also dem standardisierten Umfang unserer liebsten Script-Sprache, eigentlich alles, was das Frontend'ler-Herz begehrt. Spätestens in Kombination mit dem umfangreichen Node- und npm-Ökosystem. Wenn ihr jQuery in 2026 aber immer noch benutzen _müsst_, dann – auch cool – habt ihr jetzt eine neue Version.
 
----
+\---
 
-**Speaking of Frontend-Entwickler*innen:** [Bei Hypercode suchen wir gerade alle Ausprägungen davon](https://hypercode.de/karriere/) – Junior, Senior und Werkstudenten. Wenn ihr was braucht oder wen kennt, meldet euch gerne. Sagt mir, ich hab euch geschickt.
+**Speaking of Frontend-Entwickler\*innen:** [Bei Hypercode suchen wir gerade alle Ausprägungen davon](https://hypercode.de/karriere/) – Junior, Senior und Werkstudenten. Wenn ihr was braucht oder wen kennt, meldet euch gerne. Sagt mir, ich hab euch geschickt.

@@ -1,36 +1,34 @@
 ---
 title: "Liquid Glass. Why?"
 date: "2025-08-20"
-datetime: "2025-08-20 23:16:55"
+published_at: "2025-08-20T21:16:55Z"
 id: "40553"
 slug: "liquid-glass-why"
-url: "https://eay.cc/2025/liquid-glass-why/"
-author: "eay"
+permalink: "https://eay.cc/2025/liquid-glass-why/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - apple
-  - apple-vision-pro
-  - augmented-reality
-  - design
-meta:
-  - linked_list_url: "https://furbo.org/2025/08/17/liquid-glass-why/"
-  - geo_latitude: "50.973833"
-  - geo_longitude: "6.683003"
-  - geo_public: "1"
-  - yourls_shorturl: "https://eay.li/3w9"
-  - _share_on_mastodon_url: "https://eay.social/@eay/115063168449815509"
-  - linked_list_og-title: "Liquid Glass. Why? • furbo.org"
-  - linked_list_og-description: "Whether you love it or hate it, there is no shortage of opinion on Liquid Glass. I have thoughts about what it is, but today I want to focus on why it exists. Apple’s public rationale for the new design language is that it offers a universal solution across platforms that takes advantage of rec..."
-  - linked_list_og-image: "https://eay.cc/wordpress/uploads/og-cache/46d566a89c1c8a23c1f7a6ba7fdd2c76.webp"
-  - content_copy: "https://bsky.app/profile/eay.social/post/3lwue64fe7z2y"
+  - "apple"
+  - "apple vision pro"
+  - "augmented reality"
+  - "design"
+external_url: "https://furbo.org/2025/08/17/liquid-glass-why/"
+short_url: "https://eay.li/3w9"
+content_copy:
+  - "https://bsky.app/profile/eay.social/post/3lwue64fe7z2y"
+  - "https://eay.social/@eay/115063168449815509"
+geo_latitude: "50.973833"
+geo_longitude: "6.683003"
 ---
+
+[Link →](https://furbo.org/2025/08/17/liquid-glass-why/)
 
 Craig Hockenberry, seineszeichens Entwickler bei der [Iconfactory](https://iconfactory.com/), fragt sich, warum es Apples neue Designsprache, [Liquid Glass](https://youtu.be/jGztGfRujSE), überhaupt braucht:
 
 > I’m unaware of anyone outside of Apple who’s thinking “we really need to have more fluid glass in our designs”. Of particular note during the introduction is how much time they spend showing off glass blocks and talking about the physical effect itself. While not addressing the most important question: “why do we need this?”
-> 
+>
 > And I’m pretty sure the answer is “we don’t”. The answer is “Apple does.”
 
 Seine Vermutung: Apple braucht es, weil künftige Hardware besser damit funktionieren und harmonieren wird. Etwa weil die Bezels immer kleiner werden und [Flexible OLEDs](https://en.wikipedia.org/wiki/Flexible_organic_light-emitting_diode) den Übergang zwischen Rahmen und Software weiter verschwinden lassen werden.

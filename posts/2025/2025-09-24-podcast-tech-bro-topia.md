@@ -1,34 +1,32 @@
 ---
 title: "Podcast: Tech Bro Topia"
 date: "2025-09-24"
-datetime: "2025-09-24 23:02:11"
+published_at: "2025-09-24T21:02:11Z"
 id: "40607"
 slug: "podcast-tech-bro-topia"
-url: "https://eay.cc/2025/podcast-tech-bro-topia/"
-author: "eay"
+permalink: "https://eay.cc/2025/podcast-tech-bro-topia/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - elon-musk
-  - peter-thiel
-  - philosophie
-  - podcast
-  - politik
-  - technologie
-  - usa
-meta:
-  - linked_list_url: "https://www.deutschlandfunk.de/tech-bro-topia-f1-mit-der-roten-pille-zur-macht-100.html"
-  - geo_latitude: "50.973844"
-  - geo_longitude: "6.683037"
-  - geo_public: "1"
-  - yourls_shorturl: "https://eay.li/3wo"
-  - _share_on_mastodon_url: "https://eay.social/@eay/115261291371155663"
-  - linked_list_og-title: "Tech Bro Topia (1/6) - Mit der roten Pille zur Macht"
-  - linked_list_og-description: "Sommer 2025: Die USA vollziehen den Schwenk zum Autoritarismus. Mittendrin die Tech-Bros aus dem Silicon Valley."
-  - linked_list_og-image: "https://eay.cc/wordpress/uploads/og-cache/595ed79f60d84862eabe83d4f37ca2f6.webp"
-  - content_copy: "https://bsky.app/profile/eay.social/post/3lzmdmxbv2q2l"
+  - "elon musk"
+  - "peter thiel"
+  - "philosophie"
+  - "podcast"
+  - "politik"
+  - "technologie"
+  - "usa"
+external_url: "https://www.deutschlandfunk.de/tech-bro-topia-f1-mit-der-roten-pille-zur-macht-100.html"
+short_url: "https://eay.li/3wo"
+content_copy:
+  - "https://bsky.app/profile/eay.social/post/3lzmdmxbv2q2l"
+  - "https://eay.social/@eay/115261291371155663"
+geo_latitude: "50.973844"
+geo_longitude: "6.683037"
 ---
+
+[Link →](https://www.deutschlandfunk.de/tech-bro-topia-f1-mit-der-roten-pille-zur-macht-100.html)
 
 [André](https://andrepitz.de/) kommentierte neulich zu [meiner Verlinkung des "Die Peter Thiel Story"-Podcasts](https://eay.cc/2025/podcast-die-peter-thiel-story/) mit Verweis auf [seine Empfehlung](https://andrepitz.de/2025/08/07/tech-bro-topia-ist-der-podcast-der-die-peter-thiel-story-gerne-waere/) des "Tech Bro Topia"-Podcasts:
 

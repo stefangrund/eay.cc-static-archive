@@ -1,20 +1,19 @@
 ---
 title: "Now, I know what you're thinking"
 date: "2007-04-19"
-datetime: "2007-04-19 20:11:24"
+published_at: "2007-04-19T18:11:24Z"
 id: "69"
 slug: "now-i-know-what-youre-thinking"
-url: "https://eay.cc/2007/now-i-know-what-youre-thinking/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2007/now-i-know-what-youre-thinking/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - 0815
-  - the-others
+  - "08/15"
+  - "The Others"
 tags:
-  - bild
-  - comics
-meta:
-  - yourls_shorturl: "https://eay.li/4u"
+  - "bild"
+  - "comics"
+short_url: "https://eay.li/4u"
 ---
 
-[![](/uploads/2007/planetguy.jpg)](http://www.e-merl.com/phead.htm) "Just another Guy with a Planet for a Head" von [Daniel Merlin Goodbrey](http://www.e-merl.com/).
+[![](https://eay.cc/uploads/2007/planetguy.jpg)](http://www.e-merl.com/phead.htm) "Just another Guy with a Planet for a Head" von [Daniel Merlin Goodbrey](http://www.e-merl.com/).

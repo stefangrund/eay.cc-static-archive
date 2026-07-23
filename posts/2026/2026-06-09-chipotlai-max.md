@@ -1,30 +1,28 @@
 ---
 title: "Chipotlai Max"
 date: "2026-06-09"
-datetime: "2026-06-09 22:07:20"
+published_at: "2026-06-09T20:07:20Z"
 id: "42197"
 slug: "chipotlai-max"
-url: "https://eay.cc/2026/chipotlai-max/"
-author: "eay"
+permalink: "https://eay.cc/2026/chipotlai-max/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - bizarres
-  - kuenstliche-intelligenz
-  - programmieren
-meta:
-  - linked_list_url: "https://github.com/cyberpapiii/chipotlai-max"
-  - geo_latitude: "50.973824"
-  - geo_longitude: "6.683025"
-  - geo_public: "1"
-  - yourls_shorturl: "https://eay.li/42w"
-  - _share_on_mastodon_url: "https://eay.social/@eay/116721951886988582"
-  - linked_list_og-title: "GitHub - cyberpapiii/chipotlai-max: The AI coding agent that runs on stolen Chipotle compute 🌯..."
-  - linked_list_og-description: "The AI coding agent that runs on stolen Chipotle compute 🌯 Fork of OpenCode with Pepper AI as default model. Community project to add providers from Home Depot, Lowes, Target, Starbucks & more...."
-  - linked_list_og-image: "https://eay.cc/wordpress/uploads/og-cache/3941c728e07a51eb49bf1238c4e579d0_upload.webp"
-  - content_copy: "https://bsky.app/profile/eay.social/post/3mnuyteldvw2s"
+  - "bizarres"
+  - "künstliche intelligenz"
+  - "programmieren"
+external_url: "https://github.com/cyberpapiii/chipotlai-max"
+short_url: "https://eay.li/42w"
+content_copy:
+  - "https://bsky.app/profile/eay.social/post/3mnuyteldvw2s"
+  - "https://eay.social/@eay/116721951886988582"
+geo_latitude: "50.973824"
+geo_longitude: "6.683025"
 ---
+
+[Link →](https://github.com/cyberpapiii/chipotlai-max)
 
 > The AI coding agent that steals Chipotle's support bot. Free inference paid for by burritos.
 

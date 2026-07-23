@@ -1,24 +1,25 @@
 ---
 title: "Winamp Skin Museum"
 date: "2020-09-15"
-datetime: "2020-09-15 05:57:24"
+published_at: "2020-09-15T04:57:24Z"
 id: "36750"
 slug: "winamp-skin-museum"
-url: "https://eay.cc/2020/winamp-skin-museum/"
-author: "eay"
+permalink: "https://eay.cc/2020/winamp-skin-museum/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - fanart
-  - mp3
-  - musik
-  - netzkultur
-  - podcast
-meta:
-  - linked_list_url: "https://skins.webamp.org/"
-  - yourls_shorturl: "https://eay.li/3fp"
+  - "fanart"
+  - "mp3"
+  - "musik"
+  - "netzkultur"
+  - "podcast"
+external_url: "https://skins.webamp.org/"
+short_url: "https://eay.li/3fp"
 ---
+
+[Link →](https://skins.webamp.org/)
 
 ![](https://eay.cc/uploads/2020/winampskinmuseum.png)
 

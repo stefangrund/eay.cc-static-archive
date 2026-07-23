@@ -1,31 +1,29 @@
 ---
 title: "Last.fm is now independent"
 date: "2026-05-28"
-datetime: "2026-05-28 17:50:27"
+published_at: "2026-05-28T15:50:27Z"
 id: "42085"
 slug: "last-fm-is-now-independent"
-url: "https://eay.cc/2026/last-fm-is-now-independent/"
-author: "eay"
+permalink: "https://eay.cc/2026/last-fm-is-now-independent/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - last-fm
-  - musik
-  - social-web
-  - webservice
-meta:
-  - linked_list_url: "https://support.last.fm/t/last-fm-is-now-independent/118591"
-  - geo_latitude: "48.886234"
-  - geo_longitude: "2.720495"
-  - geo_public: "1"
-  - linked_list_og-title: "Last.fm is now independent"
-  - linked_list_og-description: "Today, Last.fm begins a new chapter as an independent company. Ownership has changed,  but the product you use every day has not.  Your account, your listening history, and your data remain exactly where they are. The team  building Last.fm is the same. The service continues as normal.  What stay..."
-  - linked_list_og-image: "https://eay.cc/wordpress/uploads/og-cache/540fdfebff2819b4be5a81a22bb91b2b.webp"
-  - yourls_shorturl: "https://eay.li/42h"
-  - _share_on_mastodon_url: "https://eay.social/@eay/116652996667700908"
-  - content_copy: "https://bsky.app/profile/eay.social/post/3mmwey6u5tw2t"
+  - "last.fm"
+  - "musik"
+  - "social web"
+  - "webservice"
+external_url: "https://support.last.fm/t/last-fm-is-now-independent/118591"
+short_url: "https://eay.li/42h"
+content_copy:
+  - "https://bsky.app/profile/eay.social/post/3mmwey6u5tw2t"
+  - "https://eay.social/@eay/116652996667700908"
+geo_latitude: "48.886234"
+geo_longitude: "2.720495"
 ---
+
+[Link →](https://support.last.fm/t/last-fm-is-now-independent/118591)
 
 > Same service. Same team. New chapter. Thanks for being part of it.
 
@@ -33,7 +31,7 @@ Nachgeschaut: Ich nutze Last.fm seit 20 Jahren und drei Monaten. Irgendwo mitten
 
 Auch wenn ich gerade nochmal [den ausführlichen Wikipedia-Artikel](https://en.wikipedia.org/wiki/Last.fm) quergelesen habe: Warum CBS den Dienst 2007 gekauft hat, erschließt sich mir ebenso wenig, wie die Tatsache, wie wenig man daraus gemacht hat. Daher umso besser, dass es größtenteils geräuschlos weiterlief – und jetzt ohne Corporate-Daumen-Drauf vielleicht nochmal aufblühen kann. (via [Waxy](https://waxy.org/2026/05/last-fm-goes-independent-after-19-years-at-cbs-interactive/))
 
----
+\---
 
 ![Ausschnitt aus meinem Last.fm-Profil mit dem Top Track »Dance Mode« von Blues & Joff Bush.](https://eay.cc/uploads/2026/last-fm-toptrack.png)
 

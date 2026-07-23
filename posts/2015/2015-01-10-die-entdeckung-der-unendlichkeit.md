@@ -1,20 +1,19 @@
 ---
 title: "Die Entdeckung der Unendlichkeit"
 date: "2015-01-10"
-datetime: "2015-01-10 09:00:47"
+published_at: "2015-01-10T08:00:47Z"
 id: "29826"
 slug: "die-entdeckung-der-unendlichkeit"
-url: "https://eay.cc/2015/die-entdeckung-der-unendlichkeit/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2015/die-entdeckung-der-unendlichkeit/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - filme
-  - kinolog
-  - stephen-hawking
-meta:
-  - yourls_shorturl: "https://eay.li/2mb"
+  - "filme"
+  - "kinolog"
+  - "stephen hawking"
+short_url: "https://eay.li/2mb"
 ---
 
 ![](https://eay.cc/uploads/movies/the-theory-of-everything_2014.jpg)Basierend auf der Autobiografie von Jane Wilde Hawking, der ersten Ehefrau des weltberühmten Physikers, hat [James Marsh](http://www.imdb.com/name/nm1016428/) das Leben von [Stephen Hawking](http://de.wikipedia.org/wiki/Stephen_Hawking) oder genauer gesagt ihr gemeinsames Leben verfilmt. So sehen wir die beiden bei ihrem Kennenlernen in den 1960ern, beim Ausbruch von Stephens Krankheit, seinen beruflichen Erfolgen, der Geburt ihrer Kinder, und der stetigen Verschlechterung des Zustands des Physikers. Und wie die junge, "ganz normale Familie" damit umgeht.

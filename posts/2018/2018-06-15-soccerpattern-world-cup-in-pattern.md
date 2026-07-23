@@ -1,25 +1,25 @@
 ---
 title: "Soccerpattern: World Cup in Pattern"
 date: "2018-06-15"
-datetime: "2018-06-15 13:53:14"
+published_at: "2018-06-15T11:53:14Z"
 id: "34670"
 slug: "soccerpattern-world-cup-in-pattern"
-url: "https://eay.cc/2018/soccerpattern-world-cup-in-pattern/"
-author: "eay"
+permalink: "https://eay.cc/2018/soccerpattern-world-cup-in-pattern/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - design
-  - fifa-worldcup
-  - fussball
-  - sport
-  - wm-2018
-meta:
-  - linked_list_url: "http://soccerpattern.com/"
-  - linked_list_url: "http://soccerpattern.com/"
-  - yourls_shorturl: "https://eay.li/35l"
+  - "design"
+  - "fifa worldcup"
+  - "fußball"
+  - "sport"
+  - "wm 2018"
+external_url: "http://soccerpattern.com/"
+short_url: "https://eay.li/35l"
 ---
+
+[Link →](http://soccerpattern.com/)
 
 > Soccerpattern brings forth to a retrospective of the greatest jerseys worn during soccer worldcups from 1930 to nowadays, as pattern designs, at the occasion of 2018 FIFA Worldcup in Russia.
 

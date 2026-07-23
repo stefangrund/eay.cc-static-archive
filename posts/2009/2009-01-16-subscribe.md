@@ -1,17 +1,16 @@
 ---
 title: "Subscribe!*"
 date: "2009-01-16"
-datetime: "2009-01-16 14:49:02"
+published_at: "2009-01-16T13:49:02Z"
 id: "4416"
 slug: "subscribe"
-url: "https://eay.cc/2009/subscribe/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2009/subscribe/"
+author: "Stefan Grund"
+format: "standard"
 tags:
-  - eayz
-  - feed
-meta:
-  - yourls_shorturl: "https://eay.li/ui"
+  - "eayz"
+  - "feed"
+short_url: "https://eay.li/ui"
 ---
 
- [![](/uploads/2009/blinkfeed.gif)](http://eay.cc/feed/) **Jetzt abonnieren!** Nur noch kurze Zeit verfügbar! * UVP, da noch 4 FR33!
+[![](https://eay.cc/uploads/2009/blinkfeed.gif)](http://eay.cc/feed/) **Jetzt abonnieren!** Nur noch kurze Zeit verfügbar! \* UVP, da noch 4 FR33!

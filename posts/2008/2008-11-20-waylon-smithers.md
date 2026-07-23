@@ -1,21 +1,20 @@
 ---
 title: "Waylon Smithers"
 date: "2008-11-20"
-datetime: "2008-11-20 23:43:08"
+published_at: "2008-11-20T22:43:08Z"
 id: "2611"
 slug: "waylon-smithers"
-url: "https://eay.cc/2008/waylon-smithers/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2008/waylon-smithers/"
+author: "Stefan Grund"
+format: "standard"
 tags:
-  - design
-  - kidrobot
-  - konsum
-  - kunst
-  - simpsons
-  - toys
-meta:
-  - yourls_shorturl: "https://eay.li/uo"
+  - "design"
+  - "kidrobot"
+  - "konsum"
+  - "kunst"
+  - "simpsons"
+  - "toys"
+short_url: "https://eay.li/uo"
 ---
 
-[![](/uploads/2008/wayland.jpg)](http://www.flickr.com/photos/eay/3046199296/) ... und Malibu Stacy hängen vor meinen DVDs ab.
+[![](https://eay.cc/uploads/2008/wayland.jpg)](http://www.flickr.com/photos/eay/3046199296/) ... und Malibu Stacy hängen vor meinen DVDs ab.

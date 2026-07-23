@@ -1,32 +1,30 @@
 ---
 title: "Token Anxiety"
 date: "2026-02-24"
-datetime: "2026-02-24 22:32:29"
+published_at: "2026-02-24T21:32:29Z"
 id: "41339"
 slug: "token-anxiety"
-url: "https://eay.cc/2026/token-anxiety/"
-author: "eay"
+permalink: "https://eay.cc/2026/token-anxiety/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - arbeit
-  - claude
-  - kuenstliche-intelligenz
-meta:
-  - linked_list_url: "https://writing.nikunjk.com/p/token-anxiety"
-  - geo_latitude: "51.000177"
-  - geo_longitude: "6.794151"
-  - geo_public: "1"
-  - yourls_shorturl: "https://eay.li/3zn"
-  - _share_on_mastodon_url: "https://eay.social/@eay/116127744039822403"
-  - linked_list_og-title: "Token Anxiety"
-  - linked_list_og-description: "Scenes from San Francisco, February 2026"
-  - linked_list_og-image: "https://eay.cc/wordpress/uploads/og-cache/6bd7fdf42e85763abd1e07a07f7d4dc4.webp"
-  - content_copy: "https://bsky.app/profile/eay.social/post/3mfn4u2vrkd26"
+  - "arbeit"
+  - "claude"
+  - "künstliche intelligenz"
+external_url: "https://writing.nikunjk.com/p/token-anxiety"
+short_url: "https://eay.li/3zn"
+content_copy:
+  - "https://bsky.app/profile/eay.social/post/3mfn4u2vrkd26"
+  - "https://eay.social/@eay/116127744039822403"
+geo_latitude: "51.000177"
+geo_longitude: "6.794151"
 ---
 
-Nikunj Kothari berichtet Szenen aus San Francisco von Februar 2026 ((Leider auf [Substack](https://eay.cc/2026/how-substack-makes-money-from-hosting-nazi-newsletters/).)):
+[Link →](https://writing.nikunjk.com/p/token-anxiety)
+
+Nikunj Kothari berichtet Szenen aus San Francisco von Februar 2026 [^1]:
 
 > A friend left a party at 9:30 on a Saturday. Not tired. Not sick. He wanted to get back to his agents.
 
@@ -39,3 +37,5 @@ Nikunj Kothari berichtet Szenen aus San Francisco von Februar 2026 ((Leider auf 
 Oh Mann. Ich müsste allerdings lügen, wenn ich sagen würde, dass mir diese Gedanken gänzlich fremd sind. Ich habe auch schon überlegt, was "die KI" denn machen könnte, während ich zu Mittag esse, einen Call habe oder das Kind ins Bett bringe.
 
 Ich glaube, man sollte nicht zu sehr auf AI-CEOs hören, die natürlich gänzlich ohne Eigeninteresse [monumentale Veränderungen proklamieren](https://shumer.dev/something-big-is-happening), aber dass sich in unserem Denken und Arbeiten etwas verändern wird und zum Teil schon hat, steht außer Frage.
+
+[^1]: Leider auf [Substack](https://eay.cc/2026/how-substack-makes-money-from-hosting-nazi-newsletters/).

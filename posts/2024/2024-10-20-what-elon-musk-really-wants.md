@@ -1,31 +1,29 @@
 ---
 title: "What Elon Musk really wants"
 date: "2024-10-20"
-datetime: "2024-10-20 09:32:09"
+published_at: "2024-10-20T07:32:09Z"
 id: "39845"
 slug: "what-elon-musk-really-wants"
-url: "https://eay.cc/2024/what-elon-musk-really-wants/"
-author: "eay"
+permalink: "https://eay.cc/2024/what-elon-musk-really-wants/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - donald-trump
-  - elon-musk
-  - peter-thiel
-  - politik
-  - usa
-meta:
-  - linked_list_url: "https://www.theatlantic.com/books/archive/2024/10/donald-trump-is-elon-musks-trojan-horse/680309/?gift=cg1XdqsyWjCIPVWKLR2XU92ofPcZZP7IOQ0yPmNvVwc"
-  - geo_latitude: "50.973827"
-  - geo_longitude: "6.683018"
-  - geo_public: "1"
-  - yourls_shorturl: "https://eay.li/3sf"
-  - _share_on_mastodon_url: "https://eay.social/@eay/113338583051472825"
-  - linked_list_og-title: "What Elon Musk Really Wants"
-  - linked_list_og-description: "Why is Elon Musk really all in for Trump? The mogul has long dreamed of redesigning the world to achieve his techno-authoritarian dreams. As @FranklinFoer writes, Trump is just the perfect Trojan horse:"
-  - linked_list_og-image: "https://eay.cc/wordpress/uploads/og-cache/8180d0af6864a300d48a3caa593efd3a.webp"
+  - "donald trump"
+  - "elon musk"
+  - "peter thiel"
+  - "politik"
+  - "usa"
+external_url: "https://www.theatlantic.com/books/archive/2024/10/donald-trump-is-elon-musks-trojan-horse/680309/?gift=cg1XdqsyWjCIPVWKLR2XU92ofPcZZP7IOQ0yPmNvVwc"
+short_url: "https://eay.li/3sf"
+content_copy:
+  - "https://eay.social/@eay/113338583051472825"
+geo_latitude: "50.973827"
+geo_longitude: "6.683018"
 ---
+
+[Link →](https://www.theatlantic.com/books/archive/2024/10/donald-trump-is-elon-musks-trojan-horse/680309/?gift=cg1XdqsyWjCIPVWKLR2XU92ofPcZZP7IOQ0yPmNvVwc)
 
 > The Tesla and X mogul has long dreamed of redesigning the world in his own extreme image. Trump may be his Trojan horse.
 

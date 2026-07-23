@@ -1,29 +1,27 @@
 ---
 title: "Flipper One – Linux-Multi-Tool von den Flipper-Zero-Machern"
 date: "2026-05-25"
-datetime: "2026-05-25 19:27:16"
+published_at: "2026-05-25T17:27:16Z"
 id: "42071"
 slug: "flipper-one-linux-multi-tool-von-den-flipper-zero-machern"
-url: "https://eay.cc/2026/flipper-one-linux-multi-tool-von-den-flipper-zero-machern/"
-author: "eay"
+permalink: "https://eay.cc/2026/flipper-one-linux-multi-tool-von-den-flipper-zero-machern/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - flipper
-  - technologie
-meta:
-  - linked_list_url: "https://blog.flipper.net/flipper-one-we-need-your-help/"
-  - geo_latitude: "48.886233"
-  - geo_longitude: "2.720464"
-  - geo_public: "1"
-  - linked_list_og-title: "Flipper One — we need your help"
-  - linked_list_og-description: "With Flipper One, we're reimagining what a Linux cyberdeck can be — it's a huge project. We're opening up the development process and asking the community for help."
-  - linked_list_og-image: "https://eay.cc/wordpress/uploads/og-cache/d1782a1578464b9dbbed59f6e1bc4c50.webp"
-  - yourls_shorturl: "https://eay.li/42e"
-  - _share_on_mastodon_url: "https://eay.social/@eay/116636407642163068"
-  - content_copy: "https://bsky.app/profile/eay.social/post/3mmozac5uxh2x"
+  - "flipper"
+  - "technologie"
+external_url: "https://blog.flipper.net/flipper-one-we-need-your-help/"
+short_url: "https://eay.li/42e"
+content_copy:
+  - "https://bsky.app/profile/eay.social/post/3mmozac5uxh2x"
+  - "https://eay.social/@eay/116636407642163068"
+geo_latitude: "48.886233"
+geo_longitude: "2.720464"
 ---
+
+[Link →](https://blog.flipper.net/flipper-one-we-need-your-help/)
 
 ![Schwarz-oranger Flipper One im robusten Cyberdeck-Design mit Netzwerkanschlüssen, Bedientasten, Steuerkreuz und orangefarbenem Display, auf dem eine Pixel-Art-Figur mit der Sprechblase „WHY SO HARD?!“ zu sehen ist.](https://eay.cc/uploads/2026/flipper-one.png)
 

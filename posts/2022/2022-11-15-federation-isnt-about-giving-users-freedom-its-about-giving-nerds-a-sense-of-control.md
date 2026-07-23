@@ -1,27 +1,28 @@
 ---
 title: "“Federation isn't about giving users freedom, it's about giving nerds a sense of control.“"
 date: "2022-11-15"
-datetime: "2022-11-15 15:50:35"
+published_at: "2022-11-15T13:50:35Z"
 id: "38197"
 slug: "federation-isnt-about-giving-users-freedom-its-about-giving-nerds-a-sense-of-control"
-url: "https://eay.cc/2022/federation-isnt-about-giving-users-freedom-its-about-giving-nerds-a-sense-of-control/"
-author: "eay"
+permalink: "https://eay.cc/2022/federation-isnt-about-giving-users-freedom-its-about-giving-nerds-a-sense-of-control/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - blogging
-  - mastodon
-  - netzkultur
-meta:
-  - linked_list_url: "https://cohost.org/tef/post/298638-sure-it-didn-t-work"
-  - geo_latitude: "50.973824"
-  - geo_longitude: "6.683037"
-  - geo_public: "1"
-  - yourls_shorturl: "https://eay.li/3jv"
-  - content_copy: "https://eay.social/@eay/109347808499331854"
-  - content_copy: "https://eay.social/@eay/109347808508702867"
+  - "blogging"
+  - "mastodon"
+  - "netzkultur"
+external_url: "https://cohost.org/tef/post/298638-sure-it-didn-t-work"
+short_url: "https://eay.li/3jv"
+content_copy:
+  - "https://eay.social/@eay/109347808499331854"
+  - "https://eay.social/@eay/109347808508702867"
+geo_latitude: "50.973824"
+geo_longitude: "6.683037"
 ---
+
+[Link →](https://cohost.org/tef/post/298638-sure-it-didn-t-work)
 
 > Which is funny, because when you use a federation protocol, that dictates how your software works and functions. You don't get to control how your social network functions, the people writing the software do, and even then they don't always have that much control either.
 

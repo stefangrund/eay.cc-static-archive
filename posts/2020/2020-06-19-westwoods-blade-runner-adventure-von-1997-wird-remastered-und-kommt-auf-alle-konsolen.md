@@ -1,22 +1,23 @@
 ---
 title: "Westwoods »Blade Runner«-Adventure von 1997 wird remastered und kommt auf alle Konsolen"
 date: "2020-06-19"
-datetime: "2020-06-19 22:45:24"
+published_at: "2020-06-19T21:45:24Z"
 id: "36597"
 slug: "westwoods-blade-runner-adventure-von-1997-wird-remastered-und-kommt-auf-alle-konsolen"
-url: "https://eay.cc/2020/westwoods-blade-runner-adventure-von-1997-wird-remastered-und-kommt-auf-alle-konsolen/"
-author: "eay"
+permalink: "https://eay.cc/2020/westwoods-blade-runner-adventure-von-1997-wird-remastered-und-kommt-auf-alle-konsolen/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - 90er
-  - blade-runner
-  - games
-meta:
-  - linked_list_url: "https://www.hollywoodreporter.com/heat-vision/classic-blade-runner-video-game-be-restored-consoles-steam-1283768"
-  - yourls_shorturl: "https://eay.li/3eo"
+  - "90er"
+  - "blade runner"
+  - "games"
+external_url: "https://www.hollywoodreporter.com/heat-vision/classic-blade-runner-video-game-be-restored-consoles-steam-1283768"
+short_url: "https://eay.li/3eo"
 ---
+
+[Link →](https://www.hollywoodreporter.com/heat-vision/classic-blade-runner-video-game-be-restored-consoles-steam-1283768)
 
 Eine Meldung die im März vollkommen an mir vorbei gegangen ist (call it "Versagen der Filterbubble"):
 

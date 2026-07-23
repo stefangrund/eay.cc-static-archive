@@ -1,26 +1,25 @@
 ---
 title: "LSR- und Depublizierungs-Rant"
 date: "2013-12-19"
-datetime: "2013-12-19 01:09:12"
+published_at: "2013-12-19T00:09:12Z"
 id: "26424"
 slug: "lsr-und-depublizierungs-rant"
-url: "https://eay.cc/2013/lsr-und-depublizierungs-rant/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2013/lsr-und-depublizierungs-rant/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - depublizieren
-  - deutschland
-  - journalismus
-  - leistungsschutzrecht
-  - offentlich-rechtliche
-  - politik
-meta:
-  - yourls_shorturl: "https://eay.li/2av"
+  - "depublizieren"
+  - "deutschland"
+  - "journalismus"
+  - "leistungsschutzrecht"
+  - "öffentlich-rechtliche"
+  - "politik"
+short_url: "https://eay.li/2av"
 ---
 
-Ich habe vorgestern die Übersetzung eines [Textes von Jeff Jarvis](//eay.cc/2013/jeff-jarvis-fordert-hippokratischen-eid-fuer-informatiker/) gelesen, dann aber das Original zitiert und verlinkt, weil der Akt der Überführung von Besuchern auf deutsche Verlagsangebote hierzulande ja eventuell - wer weiß das schon genau? - nicht rechtens ist. Stichwort [Leistungsschutzrecht](https://de.wikipedia.org/wiki/Leistungsschutzrecht_f%C3%BCr_Presseverleger).
+Ich habe vorgestern die Übersetzung eines [Textes von Jeff Jarvis](https://eay.cc/2013/jeff-jarvis-fordert-hippokratischen-eid-fuer-informatiker/) gelesen, dann aber das Original zitiert und verlinkt, weil der Akt der Überführung von Besuchern auf deutsche Verlagsangebote hierzulande ja eventuell - wer weiß das schon genau? - nicht rechtens ist. Stichwort [Leistungsschutzrecht](https://de.wikipedia.org/wiki/Leistungsschutzrecht_f%C3%BCr_Presseverleger).
 
 [Ron](http://edieh.de/) hat mich daraufhin [per Twitter](https://twitter.com/docron/status/413302568731672578) darauf aufmerksam gemacht, dass Der Freitag, bei dem Jarvis' Text u.a. auf deutsch erschienen ist, damals "feierlich" [erklärt hat](http://www.freitag.de/autoren/jaugstein/der-freitag-und-das-leistungsschutzrecht), das LSR nicht wahrnehmen zu wollen. Solche Erklärungen gibt's auch von SpOn und sicherlich auch Zeit.de, wo ich den Text ursprünglich gelesen habe. Das ist schön und gut und wäre auch ganz lobenswert, wenn die Branche als ganzes das LSR zuvor nicht, indem kaum bis gar nicht berichtet wurde, toleriert hätte. Ist ja auch klar: Man weiß nicht, wo die Reise hingeht und wenn da wer mit einer potentiellen Einnahmequellen daherkommt, hält man lieber die Füße still. Möglicherweise lesen die Kids bald gar nicht mehr. Oder noch schlimmer: Nur noch die Headlines via Google, Facebook und Konsorten. Oder aber sie "setzen" Links wie es ihnen beliebt. Womöglich sogar auf [Opel.de](http://blog.markus-mail.com/opel-de-zu-verlinken-ist-verboten/). Ich schweife ab.
 

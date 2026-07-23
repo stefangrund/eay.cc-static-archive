@@ -1,32 +1,30 @@
 ---
 title: "Sea Level Rise 3D Map"
 date: "2025-10-13"
-datetime: "2025-10-13 07:29:59"
+published_at: "2025-10-13T05:29:59Z"
 id: "40621"
 slug: "sea-level-rise-3d-map"
-url: "https://eay.cc/2025/sea-level-rise-3d-map/"
-author: "eay"
+permalink: "https://eay.cc/2025/sea-level-rise-3d-map/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - klimawandel
-  - koeln
-  - umwelt
-  - visualisierung
-  - webservice
-meta:
-  - linked_list_url: "https://nagix.github.io/sea-level-rise-3d-map/"
-  - geo_latitude: "50.973816"
-  - geo_longitude: "6.682962"
-  - geo_public: "1"
-  - linked_list_og-title: "Sea Level Rise 3D Map"
-  - linked_list_og-description: "A 3D map of sea level rise simulation. This data visualization was produced by Akihiko Kusanagi."
-  - linked_list_og-image: "https://eay.cc/wordpress/uploads/og-cache/71a00860dce278b9f91588cc529f13a0.webp"
-  - yourls_shorturl: "https://eay.li/3wq"
-  - _share_on_mastodon_url: "https://eay.social/@eay/115365274054841015"
-  - content_copy: "https://bsky.app/profile/eay.social/post/3m32jj7vmr22m"
+  - "klimawandel"
+  - "köln"
+  - "umwelt"
+  - "visualisierung"
+  - "webservice"
+external_url: "https://nagix.github.io/sea-level-rise-3d-map/"
+short_url: "https://eay.li/3wq"
+content_copy:
+  - "https://bsky.app/profile/eay.social/post/3m32jj7vmr22m"
+  - "https://eay.social/@eay/115365274054841015"
+geo_latitude: "50.973816"
+geo_longitude: "6.682962"
 ---
+
+[Link →](https://nagix.github.io/sea-level-rise-3d-map/)
 
 ![3D-Ansicht von Köln mit Blick auf den Kölner Dom, den Hauptbahnhof und die Hohenzollernbrücke über den Rhein. Der Meeresspiegel steigt. Ab 50m stehen die ersten Straßenzüge unter Wasser, ab 65m alle, ab 90m erkennt man nur noch den Dom.](https://eay.cc/uploads/2025/sea-level-rise-map.gif)
 

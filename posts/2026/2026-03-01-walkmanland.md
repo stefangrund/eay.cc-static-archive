@@ -1,31 +1,32 @@
 ---
 title: "WalkmanLand"
 date: "2026-03-01"
-datetime: "2026-03-01 23:43:54"
+published_at: "2026-03-01T22:43:54Z"
 id: "41374"
 slug: "walkmanland"
-url: "https://eay.cc/2026/walkmanland/"
-author: "eay"
+permalink: "https://eay.cc/2026/walkmanland/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - 80er
-  - 90er
-  - design
-  - musik
-  - retro
-  - sony
-  - technologie
-meta:
-  - linked_list_url: "https://walkman.land/"
-  - geo_latitude: "50.973894"
-  - geo_longitude: "6.68272"
-  - geo_public: "1"
-  - yourls_shorturl: "https://eay.li/3zt"
-  - _share_on_mastodon_url: "https://eay.social/@eay/116156352202434179"
-  - content_copy: "https://bsky.app/profile/eay.social/post/3mfzt7pnhta2k"
+  - "80er"
+  - "90er"
+  - "design"
+  - "musik"
+  - "retro"
+  - "sony"
+  - "technologie"
+external_url: "https://walkman.land/"
+short_url: "https://eay.li/3zt"
+content_copy:
+  - "https://bsky.app/profile/eay.social/post/3mfzt7pnhta2k"
+  - "https://eay.social/@eay/116156352202434179"
+geo_latitude: "50.973894"
+geo_longitude: "6.68272"
 ---
+
+[Link →](https://walkman.land/)
 
 ![Screenshot der WalkmanLand-Startseite.](https://eay.cc/uploads/2026/walkmanland.webp)
 

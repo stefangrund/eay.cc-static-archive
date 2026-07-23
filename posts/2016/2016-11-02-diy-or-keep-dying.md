@@ -1,20 +1,19 @@
 ---
 title: "DIY or keep dying"
 date: "2016-11-02"
-datetime: "2016-11-02 23:35:24"
+published_at: "2016-11-02T21:35:24Z"
 id: "31778"
 slug: "diy-or-keep-dying"
-url: "https://eay.cc/2016/diy-or-keep-dying/"
-author: "eay"
+permalink: "https://eay.cc/2016/diy-or-keep-dying/"
+author: "Stefan Grund"
 format: "aside"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - blogging
-  - diy
-  - netzkultur
-meta:
-  - yourls_shorturl: "https://eay.li/2va"
+  - "blogging"
+  - "diy"
+  - "netzkultur"
+short_url: "https://eay.li/2va"
 ---
 
 [![](https://eay.cc/uploads/2016/diyordie.png)](https://twitter.com/eay/status/793904835951230976)

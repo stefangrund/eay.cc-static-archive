@@ -1,28 +1,30 @@
 ---
 title: "xSearch, Extension für eigene Suchmaschinen in iOS 15"
 date: "2021-09-21"
-datetime: "2021-09-21 17:11:38"
+published_at: "2021-09-21T15:11:38Z"
 id: "37485"
 slug: "xsearch-extension-fuer-eigene-suchmaschinen-in-ios-15"
-url: "https://eay.cc/2021/xsearch-extension-fuer-eigene-suchmaschinen-in-ios-15/"
-author: "eay"
+permalink: "https://eay.cc/2021/xsearch-extension-fuer-eigene-suchmaschinen-in-ios-15/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - alfred
-  - app
-  - ios
-  - ipad
-  - iphone
-  - safari
-meta:
-  - linked_list_url: "https://apps.apple.com/de/app/xsearch-for-safari/id1579902068"
-  - content_copy: "https://twitter.com/eay/status/1440199849790492682"
-  - content_copy: "https://twitter.com/eay/status/1440200487039488001"
-  - content_copy: "https://twitter.com/eay/status/1440201078457257991"
-  - yourls_shorturl: "https://eay.li/2rn"
+  - "alfred"
+  - "app"
+  - "ios"
+  - "ipad"
+  - "iphone"
+  - "safari"
+external_url: "https://apps.apple.com/de/app/xsearch-for-safari/id1579902068"
+short_url: "https://eay.li/2rn"
+content_copy:
+  - "https://twitter.com/eay/status/1440199849790492682"
+  - "https://twitter.com/eay/status/1440200487039488001"
+  - "https://twitter.com/eay/status/1440201078457257991"
 ---
+
+[Link →](https://apps.apple.com/de/app/xsearch-for-safari/id1579902068)
 
 Meine bisherige Lieblings-Extension in iOS 15 ist – als langjähriger [Alfred](https://www.alfredapp.com/)-Nutzer unter macOS nicht verwunderlich – xSearch, das Such-Shortcuts zu Safari und Spotlight (!) hinzufügt, um z.B. per „g searchterm“ Google oder „d searchterm“ DuckDuckGo direkt durchsuchen zu können.
 

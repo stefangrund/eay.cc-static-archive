@@ -1,27 +1,28 @@
 ---
 title: "Apple Vision Pro"
 date: "2023-06-05"
-datetime: "2023-06-05 21:35:13"
+published_at: "2023-06-05T19:35:13Z"
 id: "38651"
 slug: "apple-vision-pro"
-url: "https://eay.cc/2023/apple-vision-pro/"
-author: "eay"
+permalink: "https://eay.cc/2023/apple-vision-pro/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - apple
-  - apple-vision-pro
-  - technologie
-  - virtual-reality
-meta:
-  - linked_list_url: "https://www.apple.com/apple-vision-pro/"
-  - geo_latitude: "50.973806"
-  - geo_longitude: "6.683118"
-  - geo_public: "1"
-  - yourls_shorturl: "https://eay.li/3mt"
-  - content_copy: "https://eay.social/@eay/110493300359156747"
+  - "apple"
+  - "apple vision pro"
+  - "technologie"
+  - "virtual reality"
+external_url: "https://www.apple.com/apple-vision-pro/"
+short_url: "https://eay.li/3mt"
+content_copy:
+  - "https://eay.social/@eay/110493300359156747"
+geo_latitude: "50.973806"
+geo_longitude: "6.683118"
 ---
+
+[Link →](https://www.apple.com/apple-vision-pro/)
 
 ![Eine Frau, die ein Apple Vision Pro-Headset trägt.](https://eay.cc/uploads/2023/apple-vision-pro.jpg)
 

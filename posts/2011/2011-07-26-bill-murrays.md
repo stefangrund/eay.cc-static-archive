@@ -1,21 +1,20 @@
 ---
 title: "Bill Murrays"
 date: "2011-07-26"
-datetime: "2011-07-26 21:43:42"
+published_at: "2011-07-26T19:43:42Z"
 id: "16922"
 slug: "bill-murrays"
-url: "https://eay.cc/2011/bill-murrays/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2011/bill-murrays/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - 0815
-  - the-others
+  - "08/15"
+  - "The Others"
 tags:
-  - bill-murray
-  - fanart
-  - filme
-meta:
-  - yourls_shorturl: "https://eay.li/1a7"
+  - "bill murray"
+  - "fanart"
+  - "filme"
+short_url: "https://eay.li/1a7"
 ---
 
 ![](https://eay.cc/uploads/2011/billmurrays.gif) by [Derek Eads](http://derekeads.tumblr.com/post/1648164879/bill-murray)

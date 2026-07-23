@@ -1,21 +1,20 @@
 ---
 title: "Bradley Manning zu 35 Jahren Haft verurteilt"
 date: "2013-08-21"
-datetime: "2013-08-21 23:36:48"
+published_at: "2013-08-21T21:36:48Z"
 id: "25004"
 slug: "bradley-manning-zu-35-jahren-haft-verurteilt"
-url: "https://eay.cc/2013/bradley-manning-zu-35-jahren-haft-verurteilt/"
-author: "eay"
+permalink: "https://eay.cc/2013/bradley-manning-zu-35-jahren-haft-verurteilt/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - politik
-  - usa
-  - wikileaks
-meta:
-  - linked_list_url: "https://netzpolitik.org/2013/bradley-manning-zu-35-jahren-haftstrafe-verurteilt/"
-  - yourls_shorturl: "https://eay.li/26i"
+  - "politik"
+  - "usa"
+  - "wikileaks"
+external_url: "https://netzpolitik.org/2013/bradley-manning-zu-35-jahren-haftstrafe-verurteilt/"
+short_url: "https://eay.li/26i"
 ---
 
-
+[Link →](https://netzpolitik.org/2013/bradley-manning-zu-35-jahren-haftstrafe-verurteilt/)

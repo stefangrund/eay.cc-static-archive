@@ -1,17 +1,17 @@
 ---
 title: "Kinostatistik 2020"
 date: "2020-12-31"
-datetime: "2020-12-31 19:22:58"
+published_at: "2020-12-31T18:22:58Z"
 id: "36963"
 slug: "kinostatistik-2020"
-url: "https://eay.cc/2020/kinostatistik-2020/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2020/kinostatistik-2020/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - 0815
-meta:
-  - yourls_shorturl: "https://eay.li/12d"
-  - content_copy: "https://twitter.com/eay/status/1344740333603721225"
+  - "08/15"
+short_url: "https://eay.li/12d"
+content_copy:
+  - "https://twitter.com/eay/status/1344740333603721225"
 ---
 
 Wie jedes Jahr möchte ich euch zum Jahresende meine quantifizierte Film­rezeption präsentieren, in der ich seit nunmehr vierzehn Jahren aufschlüssele, wie oft ich in den vergangen zwölf Monaten im Kino war und wieviel mich der Spaß insgesamt und im Durchschnitt kostete.
@@ -38,8 +38,10 @@ Diese 50 Filme habe ich hauptsächlich über den iTunes Store gesehen (19 Filme)
 
 ![](https://eay.cc/uploads/2020/kinostatistik2020_verteilung.png)
 
-Zuzüglich zu den Abogebühren der Streaming-Dienste ((Wir setzen da auf "Klotzen zum Glotzen" und haben so ziemlich alles im Abo: Netflix, Prime, Apple TV Plus, Disney+, Joyn, TVNow, DAZN und [neuerdings HBO Max](https://eay.cc/2020/ich-habe-hbo-max-in-deutschland-auf-einem-apple-tv-geguckt-so-you-dont-have-to/).)) haben wir **158,00 Euro in digitale Filme** gesteckt. Kostentechnischer Höhepunkt war zuletzt »Tenet« mit 16,99 Euro als Kaufversion, weil der zum Ausleihen noch nicht zur Verfügung stand. Ein ärgerlicher Trend.
+Zuzüglich zu den Abogebühren der Streaming-Dienste [^1] haben wir **158,00 Euro in digitale Filme** gesteckt. Kostentechnischer Höhepunkt war zuletzt »Tenet« mit 16,99 Euro als Kaufversion, weil der zum Ausleihen noch nicht zur Verfügung stand. Ein ärgerlicher Trend.
 
 Zeitlich bedeutet das alles: Ich habe neben meiner Frau rund 10 Stunden im Kinosessel verbracht, 76 Stunden mit anderen Filmen und rekordverdächtige 347 Stunden bzw. 14,5 Tage Serien geschaut. Die Erkenntnis [vom letzten Jahr](https://eay.cc/2019/kinostatistik-2019/), dass TV-Serien das Kino gekillt haben, bleibt dank Pandemie und Netflix also unverändert bestehen. Viel anderes war ja 2020 auch nicht zu tun. 🤷🏻‍♂️
 
 Hoffen wir, dass 2021 da wieder anders wird und wir wieder mehr Zeit im Kino, unseren Büros und mit anderen Menschen verbingen können. Die nächsten Monate werden aber auf jeden nochmal hart. In diesem Sinne diesmal nicht nur "auf ein filmisch, wie sonstwie gutes", sondern vor allem besseres und gesundes Jahr 2021!
+
+[^1]: Wir setzen da auf "Klotzen zum Glotzen" und haben so ziemlich alles im Abo: Netflix, Prime, Apple TV Plus, Disney+, Joyn, TVNow, DAZN und [neuerdings HBO Max](https://eay.cc/2020/ich-habe-hbo-max-in-deutschland-auf-einem-apple-tv-geguckt-so-you-dont-have-to/).

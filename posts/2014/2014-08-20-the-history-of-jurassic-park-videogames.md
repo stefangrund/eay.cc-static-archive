@@ -1,23 +1,22 @@
 ---
 title: "The History of »Jurassic Park« Videogames"
 date: "2014-08-20"
-datetime: "2014-08-20 10:32:28"
+published_at: "2014-08-20T08:32:28Z"
 id: "28540"
 slug: "the-history-of-jurassic-park-videogames"
-url: "https://eay.cc/2014/the-history-of-jurassic-park-videogames/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2014/the-history-of-jurassic-park-videogames/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - dinosaurier
-  - games
-  - jurassic-park
-  - retro
-meta:
-  - yourls_shorturl: "https://eay.li/2i7"
+  - "dinosaurier"
+  - "games"
+  - "jurassic park"
+  - "retro"
+short_url: "https://eay.li/2i7"
 ---
 
-[youtube id="OT_n5Xr2W9s"]
+\[youtube id="OT\_n5Xr2W9s"\]
 
 Mit der [SNES-Umsetzung](https://en.wikipedia.org/wiki/Jurassic_Park_(Super_Nintendo_Entertainment_System_video_game)) und [Trespasser](https://en.wikipedia.org/wiki/Jurassic_Park:_Trespasser) habe ich etliche Stunden meiner Kindheit verbracht. Also fast so viele wie mit der VHS-Kasette des Films (die meine Mutter mir endlich kaufte, nachdem sie die erst ein paar Wochen lang jedes Wochenende aus der Videothek ausleihen musste).

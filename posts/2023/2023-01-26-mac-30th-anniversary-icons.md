@@ -1,26 +1,27 @@
 ---
 title: "Mac 30th Anniversary Icons"
 date: "2023-01-26"
-datetime: "2023-01-26 23:39:16"
+published_at: "2023-01-26T21:39:16Z"
 id: "38411"
 slug: "mac-30th-anniversary-icons"
-url: "https://eay.cc/2023/mac-30th-anniversary-icons/"
-author: "eay"
+permalink: "https://eay.cc/2023/mac-30th-anniversary-icons/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - apple
-  - mac
-  - retro
-meta:
-  - linked_list_url: "https://rknightuk.github.io/mac-30-font-svg/"
-  - geo_latitude: "50.973834"
-  - geo_longitude: "6.683019"
-  - geo_public: "1"
-  - yourls_shorturl: "https://eay.li/3l5"
-  - content_copy: "https://twitter.com/eay/status/1618743507614580736"
+  - "apple"
+  - "mac"
+  - "retro"
+external_url: "https://rknightuk.github.io/mac-30-font-svg/"
+short_url: "https://eay.li/3l5"
+content_copy:
+  - "https://twitter.com/eay/status/1618743507614580736"
+geo_latitude: "50.973834"
+geo_longitude: "6.683019"
 ---
+
+[Link →](https://rknightuk.github.io/mac-30-font-svg/)
 
 ![Mac 30th Anniversary Icons](https://eay.cc/uploads/2023/mac-icons.svg)
 

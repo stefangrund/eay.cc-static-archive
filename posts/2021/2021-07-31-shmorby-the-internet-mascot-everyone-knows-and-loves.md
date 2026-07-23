@@ -1,19 +1,18 @@
 ---
 title: "\"Shmorby, the internet mascot everyone knows and loves\""
 date: "2021-07-31"
-datetime: "2021-07-31 21:44:01"
+published_at: "2021-07-31T19:44:01Z"
 id: "37421"
 slug: "shmorby-the-internet-mascot-everyone-knows-and-loves"
-url: "https://eay.cc/2021/shmorby-the-internet-mascot-everyone-knows-and-loves/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2021/shmorby-the-internet-mascot-everyone-knows-and-loves/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - bizarres
-  - netzkultur
-meta:
-  - yourls_shorturl: "https://eay.li/2qk"
+  - "bizarres"
+  - "netzkultur"
+short_url: "https://eay.li/2qk"
 ---
 
-[youtube id="lypo5pMkbgc"]
+\[youtube id="lypo5pMkbgc"\]

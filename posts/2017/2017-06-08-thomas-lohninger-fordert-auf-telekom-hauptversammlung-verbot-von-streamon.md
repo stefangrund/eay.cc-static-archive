@@ -1,29 +1,26 @@
 ---
 title: "Thomas Lohninger fordert auf Telekom-Hauptversammlung Verbot von \"StreamOn\""
 date: "2017-06-08"
-datetime: "2017-06-08 13:47:03"
+published_at: "2017-06-08T11:47:03Z"
 id: "33131"
 slug: "thomas-lohninger-fordert-auf-telekom-hauptversammlung-verbot-von-streamon"
-url: "https://eay.cc/2017/thomas-lohninger-fordert-auf-telekom-hauptversammlung-verbot-von-streamon/"
-author: "eay"
+permalink: "https://eay.cc/2017/thomas-lohninger-fordert-auf-telekom-hauptversammlung-verbot-von-streamon/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - deutschland
-  - netzkultur
-  - netzneutralitat
-  - politik
-  - telekom
-  - vortrag
-meta:
-  - linked_list_url: "https://www.youtube.com/watch?v=4Xt6yolzcJQ"
-  - linked_list_url: "https://www.youtube.com/watch?v=4Xt6yolzcJQ"
-  - linked_list_url: "https://www.youtube.com/watch?v=4Xt6yolzcJQ"
-  - linked_list_url: "https://www.youtube.com/watch?v=4Xt6yolzcJQ"
-  - linked_list_url: "https://www.youtube.com/watch?v=4Xt6yolzcJQ"
-  - yourls_shorturl: "https://eay.li/2zk"
+  - "deutschland"
+  - "netzkultur"
+  - "netzneutralität"
+  - "politik"
+  - "telekom"
+  - "vortrag"
+external_url: "https://www.youtube.com/watch?v=4Xt6yolzcJQ"
+short_url: "https://eay.li/2zk"
 ---
+
+[Link →](https://www.youtube.com/watch?v=4Xt6yolzcJQ)
 
 Guter Vortrag, vor allem bei diesem Rahmen. Snip von [Netzpolitik.org](https://netzpolitik.org/2017/bei-der-telekom-hauptversammlung-die-netzneutralitaet-verteidigen/):
 

@@ -1,25 +1,25 @@
 ---
 title: "“Facebook plans to change company name to focus on the metaverse”"
 date: "2021-10-20"
-datetime: "2021-10-20 16:07:23"
+published_at: "2021-10-20T14:07:23Z"
 id: "37551"
 slug: "facebook-plans-to-change-company-name-to-focus-on-the-metaverse"
-url: "https://eay.cc/2021/facebook-plans-to-change-company-name-to-focus-on-the-metaverse/"
-author: "eay"
+permalink: "https://eay.cc/2021/facebook-plans-to-change-company-name-to-focus-on-the-metaverse/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - facebook
-  - marketing
-  - metaverse
-meta:
-  - linked_list_url: "https://www.theverge.com/2021/10/19/22735612/facebook-change-company-name-metaverse"
-  - geo_latitude: "50.973896"
-  - geo_longitude: "6.68295"
-  - geo_public: "1"
-  - yourls_shorturl: "https://eay.li/2ss"
+  - "facebook"
+  - "marketing"
+  - "metaverse"
+external_url: "https://www.theverge.com/2021/10/19/22735612/facebook-change-company-name-metaverse"
+short_url: "https://eay.li/2ss"
+geo_latitude: "50.973896"
+geo_longitude: "6.68295"
 ---
+
+[Link →](https://www.theverge.com/2021/10/19/22735612/facebook-change-company-name-metaverse)
 
 > Facebook is planning to change its company name next week to reflect its focus on building the metaverse, according to a source with direct knowledge of the matter.
 

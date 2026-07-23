@@ -1,22 +1,21 @@
 ---
 title: "Good Science Fiction"
 date: "2017-10-05"
-datetime: "2017-10-05 09:34:15"
+published_at: "2017-10-05T07:34:15Z"
 id: "33478"
 slug: "good-science-fiction"
-url: "https://eay.cc/2017/good-science-fiction/"
-author: "eay"
+permalink: "https://eay.cc/2017/good-science-fiction/"
+author: "Stefan Grund"
 format: "quote"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - best-of
-  - literatur
-  - science-fiction
-  - strasenverkehr
-  - zukunft
-meta:
-  - yourls_shorturl: "https://eay.li/31g"
+  - "best of"
+  - "literatur"
+  - "science fiction"
+  - "straßenverkehr"
+  - "zukunft"
+short_url: "https://eay.li/31g"
 ---
 
 > A good science fiction story should be able to predict not the automobile but the traffic jam.

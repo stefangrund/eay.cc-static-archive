@@ -1,24 +1,25 @@
 ---
 title: "Die quantifizierte Agentur Sid Lee"
 date: "2015-03-03"
-datetime: "2015-03-03 21:20:09"
+published_at: "2015-03-03T20:20:09Z"
 id: "30267"
 slug: "die-quantifizierte-agentur-sid-lee"
-url: "https://eay.cc/2015/die-quantifizierte-agentur-sid-lee/"
-author: "eay"
+permalink: "https://eay.cc/2015/die-quantifizierte-agentur-sid-lee/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - arbeit
-  - buero
-  - internet-der-dinge
-  - internet-of-things
-  - quantified-self
-meta:
-  - linked_list_url: "http://dashboard.sidlee.com/"
-  - yourls_shorturl: "https://eay.li/2ng"
+  - "arbeit"
+  - "büro"
+  - "internet der dinge"
+  - "internet of things"
+  - "quantified self"
+external_url: "http://dashboard.sidlee.com/"
+short_url: "https://eay.li/2ng"
 ---
+
+[Link →](http://dashboard.sidlee.com/)
 
 [![](https://eay.cc/uploads/2015/sidleedashboard.gif)](http://dashboard.sidlee.com/)
 

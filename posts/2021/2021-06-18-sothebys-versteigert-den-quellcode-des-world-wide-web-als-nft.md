@@ -1,27 +1,25 @@
 ---
 title: "Sotheby's versteigert den Quellcode des World Wide Web als NFT"
 date: "2021-06-18"
-datetime: "2021-06-18 12:47:11"
+published_at: "2021-06-18T10:47:11Z"
 id: "37343"
 slug: "sothebys-versteigert-den-quellcode-des-world-wide-web-als-nft"
-url: "https://eay.cc/2021/sothebys-versteigert-den-quellcode-des-world-wide-web-als-nft/"
-author: "eay"
+permalink: "https://eay.cc/2021/sothebys-versteigert-den-quellcode-des-world-wide-web-als-nft/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - auktion
-  - konsum
-  - netzkultur
-  - nft
-  - tim-berners-lee
-meta:
-  - linked_list_url: "http://www.sothebys.com/en/digital-catalogues/this-changed-everything"
-  - yourls_shorturl: "https://eay.li/2ow"
-  - linked_list_og-title: "This Changed Everything:"
-  - linked_list_og-description: "Source Code for WWW x Time Berners-Lee
-An NFT"
+  - "auktion"
+  - "konsum"
+  - "netzkultur"
+  - "nft"
+  - "tim berners-lee"
+external_url: "http://www.sothebys.com/en/digital-catalogues/this-changed-everything"
+short_url: "https://eay.li/2ow"
 ---
+
+[Link →](http://www.sothebys.com/en/digital-catalogues/this-changed-everything)
 
 > In 1989, British Computer Scientist Sir Tim Berners-Lee invented the World Wide Web in a moment that changed the world forever. From June 23 - 30, Sotheby’s will auction the first historical artefact relating to this landmark moment ever to be sold, giving people the opportunity to look into the bare bones of the architecture of the web’s creation. ‘This Changed Everything’ is a one-of-one NFT including pivotal, timestamped documentation of the internet’s creation by Sir Tim.
 

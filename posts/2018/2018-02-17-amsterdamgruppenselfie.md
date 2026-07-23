@@ -1,23 +1,23 @@
 ---
 title: "Amsterdamgruppenselfie"
 date: "2018-02-17"
-datetime: "2018-02-17 16:00:06"
+published_at: "2018-02-17T15:00:06Z"
 id: "34198"
 slug: "amsterdamgruppenselfie"
-url: "https://eay.cc/2018/amsterdamgruppenselfie/"
-author: "eay"
+permalink: "https://eay.cc/2018/amsterdamgruppenselfie/"
+author: "Stefan Grund"
 format: "image"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - amsterdam
-  - analogleben
-  - fotos
-  - niederlande
-meta:
-  - content_copy: "https://www.instagram.com/p/BfV7ZYrla8k/"
-  - content_copy: "https://twitter.com/eay/status/965242653464977408"
-  - yourls_shorturl: "https://eay.li/33s"
+  - "amsterdam"
+  - "analogleben"
+  - "fotos"
+  - "niederlande"
+short_url: "https://eay.li/33s"
+content_copy:
+  - "https://www.instagram.com/p/BfV7ZYrla8k/"
+  - "https://twitter.com/eay/status/965242653464977408"
 ---
 
 ![](https://eay.cc/uploads/2018/amsterdamgruppenselfie.jpeg)

@@ -1,23 +1,24 @@
 ---
 title: "How much of your body is your own?"
 date: "2017-04-03"
-datetime: "2017-04-03 06:51:00"
+published_at: "2017-04-03T05:51:00Z"
 id: "32348"
 slug: "how-much-of-your-body-is-your-own"
-url: "https://eay.cc/2017/how-much-of-your-body-is-your-own/"
-author: "eay"
+permalink: "https://eay.cc/2017/how-much-of-your-body-is-your-own/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - quantified-self
-  - statistik
-  - visualisierung
-  - webservice
-meta:
-  - linked_list_url: "http://www.bbc.com/earth/story/the-making-of-me-and-you#/"
-  - yourls_shorturl: "https://eay.li/2xe"
+  - "quantified self"
+  - "statistik"
+  - "visualisierung"
+  - "webservice"
+external_url: "http://www.bbc.com/earth/story/the-making-of-me-and-you#/"
+short_url: "https://eay.li/2xe"
 ---
+
+[Link →](http://www.bbc.com/earth/story/the-making-of-me-and-you#/)
 
 > Our bodies are extraordinary. They contain elements that have a commercial value, megabytes of data, and trillions of cells, most of which aren't our own.
 

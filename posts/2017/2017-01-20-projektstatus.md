@@ -1,23 +1,22 @@
 ---
 title: "Projektstatus"
 date: "2017-01-20"
-datetime: "2017-01-20 20:32:56"
+published_at: "2017-01-20T19:32:56Z"
 id: "32115"
 slug: "projektstatus"
-url: "https://eay.cc/2017/projektstatus/"
-author: "eay"
+permalink: "https://eay.cc/2017/projektstatus/"
+author: "Stefan Grund"
 format: "aside"
 categories:
-  - 0815
-  - shortfil-ms
+  - "08/15"
+  - "shortfil.ms"
 tags:
-  - changelog
-  - projekte
-  - quantified-self
-  - shortfil-ms
-  - smarthome
-meta:
-  - yourls_shorturl: "https://eay.li/2wc"
+  - "changelog"
+  - "projekte"
+  - "quantified self"
+  - "shortfil.ms"
+  - "smarthome"
+short_url: "https://eay.li/2wc"
 ---
 
 Ich arbeite gerade übrigens wieder vermehrt an [shortfil.ms](http://shortfil.ms/) 2.0. Die im letzten Jahr begonnene Version habe ich mittlerweile wieder verworfen und stattdessen einen etwas anderen Ansatz verfolgt.

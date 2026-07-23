@@ -1,26 +1,27 @@
 ---
 title: "Dyslexia Typeface by Daniel Britton"
 date: "2024-07-23"
-datetime: "2024-07-23 06:30:00"
+published_at: "2024-07-23T04:30:00Z"
 id: "39695"
 slug: "dyslexia-typeface-by-daniel-britton"
-url: "https://eay.cc/2024/dyslexia-typeface-by-daniel-britton/"
-author: "eay"
+permalink: "https://eay.cc/2024/dyslexia-typeface-by-daniel-britton/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - barrierefreiheit
-  - design
-  - typographie
-meta:
-  - linked_list_url: "https://danielbritton.info/dyslexia/"
-  - geo_latitude: "50.973837"
-  - geo_longitude: "6.683015"
-  - geo_public: "1"
-  - yourls_shorturl: "https://eay.li/3ri"
-  - _share_on_mastodon_url: "https://eay.social/@eay/112833921193051478"
+  - "barrierefreiheit"
+  - "design"
+  - "typographie"
+external_url: "https://danielbritton.info/dyslexia/"
+short_url: "https://eay.li/3ri"
+content_copy:
+  - "https://eay.social/@eay/112833921193051478"
+geo_latitude: "50.973837"
+geo_longitude: "6.683015"
 ---
+
+[Link →](https://danielbritton.info/dyslexia/)
 
 ![](https://eay.cc/uploads/2024/dyslexia-typeface.png)
 

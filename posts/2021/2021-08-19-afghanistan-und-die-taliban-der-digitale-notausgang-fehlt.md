@@ -1,24 +1,26 @@
 ---
 title: "Afghanistan und die Taliban: Der digitale Notausgang fehlt"
 date: "2021-08-19"
-datetime: "2021-08-19 17:09:11"
+published_at: "2021-08-19T15:09:11Z"
 id: "37461"
 slug: "afghanistan-und-die-taliban-der-digitale-notausgang-fehlt"
-url: "https://eay.cc/2021/afghanistan-und-die-taliban-der-digitale-notausgang-fehlt/"
-author: "eay"
+permalink: "https://eay.cc/2021/afghanistan-und-die-taliban-der-digitale-notausgang-fehlt/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - afghanistan
-  - datenschutz
-  - politik
-  - ueberwachung
-meta:
-  - linked_list_url: "https://www.spiegel.de/netzwelt/netzpolitik/afghanistan-und-die-taliban-der-digitale-notausgang-fehlt-kommentar-a-af269f55-4200-4e0f-8498-0fee36954a7f"
-  - yourls_shorturl: "https://eay.li/2ra"
-  - content_copy: "https://twitter.com/eay/status/1428373723518840832"
+  - "afghanistan"
+  - "datenschutz"
+  - "politik"
+  - "überwachung"
+external_url: "https://www.spiegel.de/netzwelt/netzpolitik/afghanistan-und-die-taliban-der-digitale-notausgang-fehlt-kommentar-a-af269f55-4200-4e0f-8498-0fee36954a7f"
+short_url: "https://eay.li/2ra"
+content_copy:
+  - "https://twitter.com/eay/status/1428373723518840832"
 ---
+
+[Link →](https://www.spiegel.de/netzwelt/netzpolitik/afghanistan-und-die-taliban-der-digitale-notausgang-fehlt-kommentar-a-af269f55-4200-4e0f-8498-0fee36954a7f)
 
 > Technik, Internetdienste und Datenbanken könnten jene Menschen in Afghanistan verraten, die Rachetaten der Taliban fürchten müssen – das ist das Horrorszenario.
 

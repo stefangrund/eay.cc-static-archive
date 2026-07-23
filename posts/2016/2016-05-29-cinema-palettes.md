@@ -1,20 +1,19 @@
 ---
 title: "Cinema Palettes"
 date: "2016-05-29"
-datetime: "2016-05-29 23:16:21"
+published_at: "2016-05-29T22:16:21Z"
 id: "31550"
 slug: "cinema-palettes"
-url: "https://eay.cc/2016/cinema-palettes/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2016/cinema-palettes/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - fanart
-  - farben
-  - filme
-meta:
-  - yourls_shorturl: "https://eay.li/2ts"
+  - "fanart"
+  - "farben"
+  - "filme"
+short_url: "https://eay.li/2ts"
 ---
 
 ![](https://eay.cc/uploads/2016/cinema-palettes.jpg)

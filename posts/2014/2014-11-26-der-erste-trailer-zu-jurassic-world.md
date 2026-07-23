@@ -1,27 +1,26 @@
 ---
 title: "Der erste Trailer zu »Jurassic World«"
 date: "2014-11-26"
-datetime: "2014-11-26 02:57:32"
+published_at: "2014-11-26T00:57:32Z"
 id: "29335"
 slug: "der-erste-trailer-zu-jurassic-world"
-url: "https://eay.cc/2014/der-erste-trailer-zu-jurassic-world/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2014/der-erste-trailer-zu-jurassic-world/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - best-of
-  - dinosaurier
-  - filme
-  - jurassic-park
-  - trailer
-meta:
-  - yourls_shorturl: "https://eay.li/2l0"
+  - "best of"
+  - "dinosaurier"
+  - "filme"
+  - "jurassic park"
+  - "trailer"
+short_url: "https://eay.li/2l0"
 ---
 
-[Bleiben](//eay.cc/2014/trailer-zu-neill-blomkamps-chappie/) wir bei Trailern: Eigentlich sollte der ja bereits mit [einem eigenen Teaser](//eay.cc/2014/jurassic-world-teaser/) beworbene Trailer ja erst am Donnerstag veröffentlicht werden, aber wie das mit dem Internet nun mal so ist, kam er jetzt doch schon gestern. Und... ich bin überaus angetan!
+[Bleiben](https://eay.cc/2014/trailer-zu-neill-blomkamps-chappie/) wir bei Trailern: Eigentlich sollte der ja bereits mit [einem eigenen Teaser](https://eay.cc/2014/jurassic-world-teaser/) beworbene Trailer ja erst am Donnerstag veröffentlicht werden, aber wie das mit dem Internet nun mal so ist, kam er jetzt doch schon gestern. Und... ich bin überaus angetan!
 
-[youtube id="RFinNxS5KN4"]
+\[youtube id="RFinNxS5KN4"\]
 
 Endlich bekommen wir das zu sehen, was ich mir schon seit Kindertagen so sehr gewünscht habe: Einen Jurassic Park im Betrieb, mit tausenden von Besuchern, in dem dann alles furchtbar schief läuft. Scheinbar haben die Betreiber die Dinosaurier nun im Griff, weshalb dann wohl noch ein genetisch manipulierter Überdino als Grund für das Chaos herhalten muss. Zunächst nicht ganz so mein Fall, schließlich haben wir schon fleischfressende Riesenechsen, aber je mehr ich drüber nachdenke, umso mehr Sinn macht das. Und dann die Szene mit dem [Mosasaurus](http://www.pewpewpew.de/2014/11/09/jurassic-world-mosasaur/) – irre! Meine Kinderaugen würden sich selbst nicht trauen.
 

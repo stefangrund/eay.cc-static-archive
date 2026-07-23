@@ -1,18 +1,17 @@
 ---
 title: "Lists of fictional things"
 date: "2009-02-03"
-datetime: "2009-02-03 17:04:15"
+published_at: "2009-02-03T16:04:15Z"
 id: "5467"
 slug: "lists-of-fictional-things"
-url: "https://eay.cc/2009/lists-of-fictional-things/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2009/lists-of-fictional-things/"
+author: "Stefan Grund"
+format: "standard"
 tags:
-  - liste
-  - netzkultur
-  - wikipedia
-meta:
-  - yourls_shorturl: "https://eay.li/y4"
+  - "liste"
+  - "netzkultur"
+  - "wikipedia"
+short_url: "https://eay.li/y4"
 ---
 
 Ein weiterer Beweis für die allumfassende Großartigkeit der Wikipedia und dafür, dass man das Internet ausstöpseln sollte, wenn man eigentlich lernen sollte:

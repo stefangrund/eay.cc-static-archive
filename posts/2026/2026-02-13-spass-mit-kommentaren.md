@@ -1,29 +1,28 @@
 ---
 title: "Spaß mit Kommentaren"
 date: "2026-02-13"
-datetime: "2026-02-13 22:56:25"
+published_at: "2026-02-13T21:56:25Z"
 id: "41226"
 slug: "spass-mit-kommentaren"
-url: "https://eay.cc/2026/spass-mit-kommentaren/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2026/spass-mit-kommentaren/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - changelog
-  - eayz
-  - in-eigener-sache
-  - kommentare
-meta:
-  - geo_latitude: "50.973881"
-  - geo_longitude: "6.683007"
-  - geo_public: "1"
-  - yourls_shorturl: "https://eay.li/3zc"
-  - _share_on_mastodon_url: "https://eay.social/@eay/116065650480443027"
-  - content_copy: "https://bsky.app/profile/eay.social/post/3merkflf4uj2z"
+  - "changelog"
+  - "eayz"
+  - "in eigener sache"
+  - "kommentare"
+short_url: "https://eay.li/3zc"
+content_copy:
+  - "https://bsky.app/profile/eay.social/post/3merkflf4uj2z"
+  - "https://eay.social/@eay/116065650480443027"
+geo_latitude: "50.973881"
+geo_longitude: "6.683007"
 ---
 
-[Bleiben wir](https://eay.cc/2026/das-eigene-blogarchiv-lesen-oder-ki-zusammenfassungen-im-blogarchiv/) im Maschinenraum (([Der Maschinenraum](https://wirres.net/tag/aus+dem+maschinenraum) kommt von [Felix](https://wirres.net/), was eine schöne, treffsichere Umschreibung für "Wir basteln an unserem Blog und teilen das, auch wenn es womöglich niemanden oder nur andere Blogger interessiert" ist.)):
+[Bleiben wir](https://eay.cc/2026/das-eigene-blogarchiv-lesen-oder-ki-zusammenfassungen-im-blogarchiv/) im Maschinenraum [^1]:
 
 Eigentlich wollte ich, nachdem ich von [Felix](https://wirres.net/) ein [Bookmark per Webmention](https://eay.cc/2026/are-we-stuck-with-the-same-desktop-ux-forever/#comments) erhielt, nur sicherstellen, dass diese hier nun auch korrekt dargestellt werden. Bisher gab es diese nämlich fast nie, weshalb ich ihnen keine Beachtung schenkte und stattdessen nur Like-Herzchen anzeigte. Was jedoch recht irre­führend ist, wenn es z.B. Like und Bookmark vom gleichen Autor gibt (und eben kein Double-Like). Also brauchte es ein Bookmark-Icon. Gesagt, getan:
 
@@ -55,6 +54,8 @@ Bis wir das herausgefunden haben, habe ich die Interactions-Seite jedenfalls obe
 
 ![Screenshot-Auszug des erweiterten Menüs oben rechts](https://eay.cc/uploads/2026/interactions-menu.png)
 
----
+\---
 
 P.S.: Gibt es irgendeine menschenlesbare Beschreibung von Webmentions für Nicht-Techniker? Ich habe auf der Interactions-Seite jetzt [den IndieWeb-Wiki-Eintrag](https://indieweb.org/Webmention) verlinkt, aber danach muss man eigentlich [ein analoges IndieWebCamp besuchen](https://eay.cc/2016/indiewebcamp-duesseldorf/), um das zu verstehen. Ich würde die Webmention-Mentions hier gerne sinnvoller/zugänglicher verlinken.
+
+[^1]: [Der Maschinenraum](https://wirres.net/tag/aus+dem+maschinenraum) kommt von [Felix](https://wirres.net/), was eine schöne, treffsichere Umschreibung für "Wir basteln an unserem Blog und teilen das, auch wenn es womöglich niemanden oder nur andere Blogger interessiert" ist.

@@ -1,23 +1,22 @@
 ---
 title: "Bad Paintings of Barack Obama dot com"
 date: "2009-03-13"
-datetime: "2009-03-13 20:03:37"
+published_at: "2009-03-13T19:03:37Z"
 id: "6217"
 slug: "bad-paintings-of-barack-obama-dot-com"
-url: "https://eay.cc/2009/bad-paintings-of-barack-obama-dot-com/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2009/bad-paintings-of-barack-obama-dot-com/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - 0815
-  - the-others
+  - "08/15"
+  - "The Others"
 tags:
-  - barack-obama
-  - bizarres
-  - fanart
-  - kunst
-  - usa
-meta:
-  - yourls_shorturl: "https://eay.li/my"
+  - "barack obama"
+  - "bizarres"
+  - "fanart"
+  - "kunst"
+  - "usa"
+short_url: "https://eay.li/my"
 ---
 
-![](/uploads/2009/badobamapaintings.jpg) [-------------------------------------------------------------------------------------------->](http://badpaintingsofbarackobama.com/)
+![](https://eay.cc/uploads/2009/badobamapaintings.jpg) [-------------------------------------------------------------------------------------------->](http://badpaintingsofbarackobama.com/)

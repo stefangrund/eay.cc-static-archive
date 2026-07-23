@@ -1,21 +1,20 @@
 ---
 title: ".gif der Woche #94"
 date: "2012-10-04"
-datetime: "2012-10-04 09:49:12"
+published_at: "2012-10-04T07:49:12Z"
 id: "20930"
 slug: "gif-der-woche-94"
-url: "https://eay.cc/2012/gif-der-woche-94/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2012/gif-der-woche-94/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - gif-der-woche
-  - graffiti
-  - kunst
-  - streetart
-meta:
-  - yourls_shorturl: "https://eay.li/1mx"
+  - "gif der woche"
+  - "graffiti"
+  - "kunst"
+  - "streetart"
+short_url: "https://eay.li/1mx"
 ---
 
 ![](https://eay.cc/uploads/2012/graffitigif.gif) Es sollte eindeutig viel mehr Graffitigifs geben!

@@ -1,22 +1,21 @@
 ---
 title: "Qualität setzt sich durch"
 date: "2007-11-09"
-datetime: "2007-11-09 22:34:53"
+published_at: "2007-11-09T21:34:53Z"
 id: "288"
 slug: "qualitat-setzt-sich-durch"
-url: "https://eay.cc/2007/qualitat-setzt-sich-durch/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2007/qualitat-setzt-sich-durch/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - bizarres
-  - butterbrot
-  - katzencontent
-  - output
-  - youtube
-meta:
-  - yourls_shorturl: "https://eay.li/pp"
+  - "bizarres"
+  - "butterbrot"
+  - "katzencontent"
+  - "output"
+  - "youtube"
+short_url: "https://eay.li/pp"
 ---
 
 Mein Kurzfilm [Katze plus Butterbrot](http://de.youtube.com/watch?v=D_AGrgUB1UI) streicht ein Jahr nach [Uraufführung](http://eay.cc/blog/2006/05/katze_plus_butt.shtml) endlich den Ruhm ein, der ihm gebührt: Seitdem mein kleiner Cartoon gestern auf der [eingedeutschten Startseite](http://de.youtube.com/) von YouTube [gefeatured wurde](http://www.flickr.com/photos/eay/1935545088/), haben sich bereits über 12000 22000 Menschen angeguckt, was passiert wenn man eine Katze an einem Butterbrot befestigt.

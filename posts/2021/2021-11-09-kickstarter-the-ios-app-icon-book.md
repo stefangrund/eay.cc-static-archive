@@ -1,29 +1,29 @@
 ---
 title: "Kickstarter: The iOS App Icon Book"
 date: "2021-11-09"
-datetime: "2021-11-09 22:25:44"
+published_at: "2021-11-09T20:25:44Z"
 id: "37581"
 slug: "kickstarter-the-ios-app-icon-book"
-url: "https://eay.cc/2021/kickstarter-the-ios-app-icon-book/"
-author: "eay"
+permalink: "https://eay.cc/2021/kickstarter-the-ios-app-icon-book/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - apps
-  - buecher
-  - crowdfunding
-  - design
-  - ios
-meta:
-  - linked_list_url: "https://www.kickstarter.com/projects/flarup/the-ios-app-icon-book"
-  - geo_latitude: "50.973808"
-  - geo_longitude: "6.683048"
-  - geo_public: "1"
-  - yourls_shorturl: "https://eay.li/2tu"
+  - "apps"
+  - "bücher"
+  - "crowdfunding"
+  - "design"
+  - "ios"
+external_url: "https://www.kickstarter.com/projects/flarup/the-ios-app-icon-book"
+short_url: "https://eay.li/2tu"
+geo_latitude: "50.973808"
+geo_longitude: "6.683048"
 ---
 
-[youtube id="1pLTdesmUz8"]
+[Link →](https://www.kickstarter.com/projects/flarup/the-ios-app-icon-book)
+
+\[youtube id="1pLTdesmUz8"\]
 
 > A beautiful hardcover book that celebrates the art and craft of app icon design.
 

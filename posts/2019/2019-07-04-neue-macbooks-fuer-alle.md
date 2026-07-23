@@ -1,23 +1,23 @@
 ---
 title: "💸💸💸"
 date: "2019-07-04"
-datetime: "2019-07-04 18:30:12"
+published_at: "2019-07-04T16:30:12Z"
 id: "35801"
 slug: "neue-macbooks-fuer-alle"
-url: "https://eay.cc/2019/neue-macbooks-fuer-alle/"
-author: "eay"
+permalink: "https://eay.cc/2019/neue-macbooks-fuer-alle/"
+author: "Stefan Grund"
 format: "image"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - apple
-  - fotos
-  - konsum
-  - mac
-meta:
-  - content_copy: "https://www.instagram.com/p/Bzf9tFYo55I/"
-  - yourls_shorturl: "https://eay.li/3an"
-  - content_copy: "https://twitter.com/eay/status/1146909929887825920"
+  - "apple"
+  - "fotos"
+  - "konsum"
+  - "mac"
+short_url: "https://eay.li/3an"
+content_copy:
+  - "https://www.instagram.com/p/Bzf9tFYo55I/"
+  - "https://twitter.com/eay/status/1146909929887825920"
 ---
 
 ![](https://eay.cc/uploads/2019/macbooks.jpeg)

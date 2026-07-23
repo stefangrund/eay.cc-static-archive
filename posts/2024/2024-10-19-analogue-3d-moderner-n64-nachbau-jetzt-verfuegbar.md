@@ -1,28 +1,29 @@
 ---
 title: "Analogue 3D – Moderner N64-Nachbau jetzt verfügbar"
 date: "2024-10-19"
-datetime: "2024-10-19 22:28:39"
+published_at: "2024-10-19T20:28:39Z"
 id: "39841"
 slug: "analogue-3d-moderner-n64-nachbau-jetzt-verfuegbar"
-url: "https://eay.cc/2024/analogue-3d-moderner-n64-nachbau-jetzt-verfuegbar/"
-author: "eay"
+permalink: "https://eay.cc/2024/analogue-3d-moderner-n64-nachbau-jetzt-verfuegbar/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - analogue
-  - games
-  - konsum
-  - nintendo
-  - retro
-meta:
-  - linked_list_url: "https://www.analogue.co/3d"
-  - geo_latitude: "50.973797"
-  - geo_longitude: "6.683099"
-  - geo_public: "1"
-  - yourls_shorturl: "https://eay.li/3se"
-  - _share_on_mastodon_url: "https://eay.social/@eay/113335974043574034"
+  - "analogue"
+  - "games"
+  - "konsum"
+  - "nintendo"
+  - "retro"
+external_url: "https://www.analogue.co/3d"
+short_url: "https://eay.li/3se"
+content_copy:
+  - "https://eay.social/@eay/113335974043574034"
+geo_latitude: "50.973797"
+geo_longitude: "6.683099"
 ---
+
+[Link →](https://www.analogue.co/3d)
 
 ![Screenshot of the Analogue 3D landing page on an iPad](https://eay.cc/uploads/2024/analogue-3d.png)
 

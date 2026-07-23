@@ -1,26 +1,26 @@
 ---
 title: "»Colonia Dignidad - Aus dem Innern einer deutschen Sekte«"
 date: "2020-03-24"
-datetime: "2020-03-24 01:18:16"
+published_at: "2020-03-24T00:18:16Z"
 id: "36329"
 slug: "colonia-dignidad-aus-dem-innern-einer-deutschen-sekte"
-url: "https://eay.cc/2020/colonia-dignidad-aus-dem-innern-einer-deutschen-sekte/"
-author: "eay"
+permalink: "https://eay.cc/2020/colonia-dignidad-aus-dem-innern-einer-deutschen-sekte/"
+author: "Stefan Grund"
 format: "aside"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - chile
-  - deutschland
-  - fernsehen
-  - filme
-  - geschichte
-  - kriminalitat
-  - politik
-  - religion
-meta:
-  - yourls_shorturl: "https://eay.li/3da"
-  - content_copy: "https://twitter.com/eay/status/1242252798965710848"
+  - "chile"
+  - "deutschland"
+  - "fernsehen"
+  - "filme"
+  - "geschichte"
+  - "kriminalität"
+  - "politik"
+  - "religion"
+short_url: "https://eay.li/3da"
+content_copy:
+  - "https://twitter.com/eay/status/1242252798965710848"
 ---
 
 📺 Nachdem ich in der letzten Woche im linearen Fernsehen (ja, ich weiß, verrückte Zeiten!) die ARD-Dokumentation »[Colonia Dignidad - Aus dem Innern einer deutschen Sekte](https://www.daserste.de/information/reportage-dokumentation/dokus/sendung/colonia-dignidad-aus-dem-innern-einer-deutschen-sekte-folge-1-102.html)« gesehen habe, habe ich doch tatsächlich die Ausstrahlung des zweiten Teils in meinen digitalen (!) Kalender eingetragen und eben – auch wieder ganz linear – geschaut.

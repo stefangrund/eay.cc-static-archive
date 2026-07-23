@@ -1,25 +1,26 @@
 ---
 title: "Kino-Reboot von »Battlestar Galactica«"
 date: "2014-04-08"
-datetime: "2014-04-08 15:47:04"
+published_at: "2014-04-08T14:47:04Z"
 id: "27537"
 slug: "kino-reboot-von-battlestar-galactica"
-url: "https://eay.cc/2014/kino-reboot-von-battlestar-galactica/"
-author: "eay"
+permalink: "https://eay.cc/2014/kino-reboot-von-battlestar-galactica/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - battlestar-galactica
-  - fernsehen
-  - filme
-  - geruechte
-  - science-fiction
-  - serien
-meta:
-  - linked_list_url: "http://variety.com/2014/film/news/battlestar-galactica-movie-gets-new-life-at-universal-exclusive-1201153687/"
-  - yourls_shorturl: "https://eay.li/2ed"
+  - "battlestar galactica"
+  - "fernsehen"
+  - "filme"
+  - "gerüchte"
+  - "science fiction"
+  - "serien"
+external_url: "http://variety.com/2014/film/news/battlestar-galactica-movie-gets-new-life-at-universal-exclusive-1201153687/"
+short_url: "https://eay.li/2ed"
 ---
+
+[Link →](http://variety.com/2014/film/news/battlestar-galactica-movie-gets-new-life-at-universal-exclusive-1201153687/)
 
 > Universal is ramping up a movie version of the sci-fi franchise »Battlestar Galactica«, aiming to develop the film as a complete reimagining of the story.
 

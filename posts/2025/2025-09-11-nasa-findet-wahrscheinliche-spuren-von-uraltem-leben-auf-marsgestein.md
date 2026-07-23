@@ -1,32 +1,30 @@
 ---
 title: "NASA findet wahrscheinliche Spuren von uraltem Leben auf Marsgestein"
 date: "2025-09-11"
-datetime: "2025-09-11 14:03:42"
+published_at: "2025-09-11T12:03:42Z"
 id: "40588"
 slug: "nasa-findet-wahrscheinliche-spuren-von-uraltem-leben-auf-marsgestein"
-url: "https://eay.cc/2025/nasa-findet-wahrscheinliche-spuren-von-uraltem-leben-auf-marsgestein/"
-author: "eay"
+permalink: "https://eay.cc/2025/nasa-findet-wahrscheinliche-spuren-von-uraltem-leben-auf-marsgestein/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - best-of
-  - mars
-  - raumfahrt
-  - weltall
-  - wissenschaft
-meta:
-  - linked_list_url: "https://www.pewpewpew.de/2025/09/11/nasa-findet-wahrscheinliche-spuren-von-uraltem-leben-auf-marsgestein/"
-  - geo_latitude: "50.950737"
-  - geo_longitude: "6.935691"
-  - geo_public: "1"
-  - yourls_shorturl: "https://eay.li/3wi"
-  - _share_on_mastodon_url: "https://eay.social/@eay/115185563971625210"
-  - linked_list_og-title: "NASA findet wahrscheinliche Spuren von uraltem Leben auf Marsgestein - PewPewPew"
-  - linked_list_og-description: "Ich binde einfach die historische Pressekonferenz der NASA von heute ein, weil sie es wirklich wert ist, in Gänze gesehen zu werden. Denn die amerikanische Weltraumbehörde hat heute nichts anderes als außerirdisches Leben quasi bestätigt. Vor einem Jahr wurden Aufnahmen des Mars-Rovers Pe..."
-  - linked_list_og-image: "https://eay.cc/wordpress/uploads/og-cache/92bfc579afe31a1d70d2510b0864a1ea.webp"
-  - content_copy: "https://bsky.app/profile/eay.social/post/3lykpfi2clu2h"
+  - "best of"
+  - "mars"
+  - "raumfahrt"
+  - "weltall"
+  - "wissenschaft"
+external_url: "https://www.pewpewpew.de/2025/09/11/nasa-findet-wahrscheinliche-spuren-von-uraltem-leben-auf-marsgestein/"
+short_url: "https://eay.li/3wi"
+content_copy:
+  - "https://bsky.app/profile/eay.social/post/3lykpfi2clu2h"
+  - "https://eay.social/@eay/115185563971625210"
+geo_latitude: "50.950737"
+geo_longitude: "6.935691"
 ---
+
+[Link →](https://www.pewpewpew.de/2025/09/11/nasa-findet-wahrscheinliche-spuren-von-uraltem-leben-auf-marsgestein/)
 
 PewPewPew berichtet das, was untergeht, wenn parallel [Russland die NATO austestet](https://www.zdfheute.de/politik/ausland/polen-drohnen-ukraine-krieg-russland-100.html):
 

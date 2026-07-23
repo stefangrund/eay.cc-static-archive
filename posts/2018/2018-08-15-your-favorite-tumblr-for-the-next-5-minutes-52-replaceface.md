@@ -1,24 +1,24 @@
 ---
 title: "Your favorite tumblr for the next 5 minutes (52): replaceface"
 date: "2018-08-15"
-datetime: "2018-08-15 08:41:27"
+published_at: "2018-08-15T06:41:27Z"
 id: "34877"
 slug: "your-favorite-tumblr-for-the-next-5-minutes-52-replaceface"
-url: "https://eay.cc/2018/your-favorite-tumblr-for-the-next-5-minutes-52-replaceface/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2018/your-favorite-tumblr-for-the-next-5-minutes-52-replaceface/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - best-of
-  - fanart
-  - kunst
-  - mashup
-  - your-favorite-tumblr-for-the-next-5-minutes
-meta:
-  - yourls_shorturl: "https://eay.li/36e"
-  - content_copy: "https://mastodon.social/@eay/100552899625214584"
-  - content_copy: "https://twitter.com/eay/status/1029619711686922240"
+  - "best of"
+  - "fanart"
+  - "kunst"
+  - "mashup"
+  - "your favorite tumblr for the next 5 minutes"
+short_url: "https://eay.li/36e"
+content_copy:
+  - "https://mastodon.social/@eay/100552899625214584"
+  - "https://twitter.com/eay/status/1029619711686922240"
 ---
 
 ![](https://eay.cc/uploads/2018/replaceface.jpeg)

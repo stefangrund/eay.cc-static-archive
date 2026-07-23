@@ -1,28 +1,27 @@
 ---
 title: "Über #BreakingMyTwitter und Microblogging-Alternativen"
 date: "2018-08-16"
-datetime: "2018-08-16 23:55:01"
+published_at: "2018-08-16T21:55:01Z"
 id: "34879"
 slug: "breakingmytwitter-und-microblogging-alternativen"
-url: "https://eay.cc/2018/breakingmytwitter-und-microblogging-alternativen/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2018/breakingmytwitter-und-microblogging-alternativen/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - best-of
-  - blogging
-  - mastodon
-  - micro-blog
-  - netzkultur
-  - twitter
-meta:
-  - yourls_shorturl: "https://eay.li/36f"
-  - geo_latitude: "50.973771786748"
-  - geo_longitude: "6.6831240713644"
-  - geo_public: "1"
-  - content_copy: "https://twitter.com/eay/status/1030366815271243776"
-  - content_copy: "https://mastodon.social/@eay/100564571638760242"
+  - "best of"
+  - "blogging"
+  - "mastodon"
+  - "micro.blog"
+  - "netzkultur"
+  - "twitter"
+short_url: "https://eay.li/36f"
+content_copy:
+  - "https://twitter.com/eay/status/1030366815271243776"
+  - "https://mastodon.social/@eay/100564571638760242"
+geo_latitude: "50.973771786748"
+geo_longitude: "6.6831240713644"
 ---
 
 Twitter hat es heute nicht nur geschafft seine beeindruckende Negativserie von Fehlentscheidungen fortzusetzen, nein, sie haben heute nochmal einen drauf gesetzt, indem sie zahlreiche Schnittstellen offline genommen haben, die für Third-Party-Clients wie [Tweetbot](https://tapbots.com/tweetbot/) oder [Twitterrific](https://twitterrific.com/) elementar wichtig waren. Deren Funktionsumfang ist [seit heute beschnitten](https://www.macstories.net/news/third-party-twitter-clients-remove-features-as-api-changes-loom/).
@@ -37,5 +36,5 @@ Eine weitere, vielversprechende Alternative ist [Micro.blog](https://micro.blog/
 
 Ich bin aktuell schon auf beiden Plattformen anzutreffen und plane auch, das in den kommenden Wochen noch zu intensivieren. Würde mich freuen, die/den ein oder andere/n von euch hier wie da wiederzusehen. Solltet ihr Twitter-Aktien haben, würde ich in Betracht ziehen, diese langsam abzustoßen.
 
-- **[@eay@eay.social auf Mastodon](https://eay.social/@eay)**
-- **[@eay auf Micro.blog](https://micro.blog/eay)**
+-   **[@eay@eay.social auf Mastodon](https://eay.social/@eay)**
+-   **[@eay auf Micro.blog](https://micro.blog/eay)**

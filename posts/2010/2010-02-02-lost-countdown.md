@@ -1,18 +1,17 @@
 ---
 title: "Lost Countdown"
 date: "2010-02-02"
-datetime: "2010-02-02 08:17:25"
+published_at: "2010-02-02T07:17:25Z"
 id: "11449"
 slug: "lost-countdown"
-url: "https://eay.cc/2010/lost-countdown/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2010/lost-countdown/"
+author: "Stefan Grund"
+format: "standard"
 tags:
-  - fernsehen
-  - lost
-  - serien
-meta:
-  - yourls_shorturl: "https://eay.li/oi"
+  - "fernsehen"
+  - "lost"
+  - "serien"
+short_url: "https://eay.li/oi"
 ---
 
-
+[Embedded content](http://www.lost4815162342.com/flash/countdownmini.swf)

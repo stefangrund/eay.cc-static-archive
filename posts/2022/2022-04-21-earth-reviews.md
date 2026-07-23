@@ -1,25 +1,25 @@
 ---
 title: "Earth Reviews"
 date: "2022-04-21"
-datetime: "2022-04-21 08:38:40"
+published_at: "2022-04-21T06:38:40Z"
 id: "37913"
 slug: "earth-reviews"
-url: "https://eay.cc/2022/earth-reviews/"
-author: "eay"
+permalink: "https://eay.cc/2022/earth-reviews/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
-  - english
+  - "08/15"
+  - "English"
 tags:
-  - humor
-  - neal-agarwal
-meta:
-  - linked_list_url: "https://neal.fun/earth-reviews/"
-  - geo_latitude: "50.973812"
-  - geo_longitude: "6.683079"
-  - geo_public: "1"
-  - yourls_shorturl: "https://eay.li/3hr"
+  - "humor"
+  - "neal agarwal"
+external_url: "https://neal.fun/earth-reviews/"
+short_url: "https://eay.li/3hr"
+geo_latitude: "50.973812"
+geo_longitude: "6.683079"
 ---
+
+[Link →](https://neal.fun/earth-reviews/)
 
 > It turns out Earth is just a simulation. Luckily, the creators are looking for feedback.
 

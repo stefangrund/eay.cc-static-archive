@@ -1,22 +1,23 @@
 ---
 title: "\"Han Solo\"-Spinoff angekündigt"
 date: "2015-07-07"
-datetime: "2015-07-07 22:25:57"
+published_at: "2015-07-07T20:25:57Z"
 id: "30653"
 slug: "han-solo-spinoff-in-arbeit"
-url: "https://eay.cc/2015/han-solo-spinoff-in-arbeit/"
-author: "eay"
+permalink: "https://eay.cc/2015/han-solo-spinoff-in-arbeit/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - filme
-  - geruechtekueche
-  - star-wars
-meta:
-  - linked_list_url: "http://www.hollywoodreporter.com/heat-vision/han-solo-star-wars-spinoff-807153"
-  - yourls_shorturl: "https://eay.li/2ot"
+  - "filme"
+  - "gerüchteküche"
+  - "star wars"
+external_url: "http://www.hollywoodreporter.com/heat-vision/han-solo-star-wars-spinoff-807153"
+short_url: "https://eay.li/2ot"
 ---
+
+[Link →](http://www.hollywoodreporter.com/heat-vision/han-solo-star-wars-spinoff-807153)
 
 > The next adventure in the Anthology series of Star Wars films will be directed by Christopher Miller and Phil Lord, whose credits include the critically acclaimed The LEGO Movie and Cloudy with a Chance of Meatballs, as well as 21 Jump Street and 22 Jump Street.
 

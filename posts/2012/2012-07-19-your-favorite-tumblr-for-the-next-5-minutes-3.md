@@ -1,21 +1,20 @@
 ---
 title: "Your favorite tumblr for the next 5 minutes (3): Rich Kids of Instagram"
 date: "2012-07-19"
-datetime: "2012-07-19 10:25:17"
+published_at: "2012-07-19T08:25:17Z"
 id: "20249"
 slug: "your-favorite-tumblr-for-the-next-5-minutes-3"
-url: "https://eay.cc/2012/your-favorite-tumblr-for-the-next-5-minutes-3/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2012/your-favorite-tumblr-for-the-next-5-minutes-3/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - best-of
-  - geld
-  - instagram
-  - your-favorite-tumblr-for-the-next-5-minutes
-meta:
-  - yourls_shorturl: "https://eay.li/1kp"
+  - "best of"
+  - "geld"
+  - "instagram"
+  - "your favorite tumblr for the next 5 minutes"
+short_url: "https://eay.li/1kp"
 ---
 
 ![](https://eay.cc/uploads/2012/richkids.jpg)

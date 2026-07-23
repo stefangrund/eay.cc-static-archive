@@ -1,25 +1,27 @@
 ---
 title: "Spotify will Gimlet Media für mehr als 200 Millionen Dollar kaufen"
 date: "2019-02-02"
-datetime: "2019-02-02 14:59:10"
+published_at: "2019-02-02T13:59:10Z"
 id: "35418"
 slug: "spotify-will-gimlet-media-fuer-mehr-als-200-millionen-dollar-kaufen"
-url: "https://eay.cc/2019/spotify-will-gimlet-media-fuer-mehr-als-200-millionen-dollar-kaufen/"
-author: "eay"
+permalink: "https://eay.cc/2019/spotify-will-gimlet-media-fuer-mehr-als-200-millionen-dollar-kaufen/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - business
-  - netzkultur
-  - podcast
-  - spotify
-meta:
-  - linked_list_url: "https://www.recode.net/2019/2/1/18207198/spotify-gimlet-podcast-acquisition"
-  - yourls_shorturl: "https://eay.li/38w"
-  - content_copy: "https://twitter.com/eay/status/1091697931978264577"
-  - content_copy: "https://eay.social/@eay/101522863468436082"
+  - "business"
+  - "netzkultur"
+  - "podcast"
+  - "spotify"
+external_url: "https://www.recode.net/2019/2/1/18207198/spotify-gimlet-podcast-acquisition"
+short_url: "https://eay.li/38w"
+content_copy:
+  - "https://twitter.com/eay/status/1091697931978264577"
+  - "https://eay.social/@eay/101522863468436082"
 ---
+
+[Link →](https://www.recode.net/2019/2/1/18207198/spotify-gimlet-podcast-acquisition)
 
 Sehr krass, wenn man bedenkt, dass [Alex Blumberg](http://en.wikipedia.org/wiki/Alex_Blumberg) die Podcast-Produktionsfirma erst Ende 2014 gründete (und das natürlich mit [einem hervorragenden Podcast begleitete](https://eay.cc/2014/startup-ein-podcast-ueber-die-gruendung-eines-startups/)). Qualitativ wären Gimlets Podcasts auf jeden Fall eine Bereicherung für Spotify, aber dass mit der Übernahme wahrscheinlich wie einst bei Schulz & Böhmermann die Podcast-Feeds eingestellt werden und die Inhalte dann (offiziell) nur noch über die Spotify-App erreichbar sind, ist mir jetzt schon ein Dorn im Auge.
 

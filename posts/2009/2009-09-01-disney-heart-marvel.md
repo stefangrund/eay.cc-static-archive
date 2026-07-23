@@ -1,24 +1,23 @@
 ---
 title: "Disney <3 Marvel"
 date: "2009-09-01"
-datetime: "2009-09-01 23:55:32"
+published_at: "2009-09-01T21:55:32Z"
 id: "9248"
 slug: "disney-heart-marvel"
-url: "https://eay.cc/2009/disney-heart-marvel/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2009/disney-heart-marvel/"
+author: "Stefan Grund"
+format: "standard"
 tags:
-  - apple
-  - comics
-  - disney
-  - marvel
-  - mashup
-  - steve-jobs
-meta:
-  - yourls_shorturl: "https://eay.li/ay"
+  - "apple"
+  - "comics"
+  - "disney"
+  - "marvel"
+  - "mashup"
+  - "steve jobs"
+short_url: "https://eay.li/ay"
 ---
 
-![](https://eay.cc/uploads/2009/gooflactus.gif) [Good Ol' Disney hat sich also Marvel einverleibt](http://www.spiegel.de/wirtschaft/unternehmen/0,1518,646099,00.html). Was wohl bedeutet, dass Steve Jobs unbedingt Spidey & Co. auf's iPhone (oder ein plötzlich auftauchendes, wie für Comics gemachtes [Tablet](//eay.cc/2009/apples-flachmann/)...) bringen will. Und dass die Disney-Vergnügungsparks demnächst mit Marvel-Rides aufwarten werden. Und dass dieser Tage allerhand Mashups (wie der äußert geniale [Gooflactus](http://www.flickr.com/photos/apelad/3876980936/) von [Adam Koford](http://apelad.blogspot.com/) hier oben) in den digitalen Äther geblassen werden. Exciting times ahead!
+![](https://eay.cc/uploads/2009/gooflactus.gif) [Good Ol' Disney hat sich also Marvel einverleibt](http://www.spiegel.de/wirtschaft/unternehmen/0,1518,646099,00.html). Was wohl bedeutet, dass Steve Jobs unbedingt Spidey & Co. auf's iPhone (oder ein plötzlich auftauchendes, wie für Comics gemachtes [Tablet](https://eay.cc/2009/apples-flachmann/)...) bringen will. Und dass die Disney-Vergnügungsparks demnächst mit Marvel-Rides aufwarten werden. Und dass dieser Tage allerhand Mashups (wie der äußert geniale [Gooflactus](http://www.flickr.com/photos/apelad/3876980936/) von [Adam Koford](http://apelad.blogspot.com/) hier oben) in den digitalen Äther geblassen werden. Exciting times ahead!
 
 And now it's your turn, Warner + DC!
 

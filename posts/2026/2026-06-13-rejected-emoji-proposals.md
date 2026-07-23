@@ -1,30 +1,28 @@
 ---
 title: "Rejected Emoji Proposals"
 date: "2026-06-13"
-datetime: "2026-06-13 23:58:06"
+published_at: "2026-06-13T21:58:06Z"
 id: "42226"
 slug: "rejected-emoji-proposals"
-url: "https://eay.cc/2026/rejected-emoji-proposals/"
-author: "eay"
+permalink: "https://eay.cc/2026/rejected-emoji-proposals/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - bizarres
-  - emojis
-  - netzkultur
-meta:
-  - linked_list_url: "https://charlottebuff.com/unicode/misc/rejected-emoji-proposals/"
-  - geo_latitude: "50.973885"
-  - geo_longitude: "6.682956"
-  - geo_public: "1"
-  - linked_list_og-title: "Rejected Emoji Proposals"
-  - linked_list_og-description: "Proposed emoji that didn’t make the cut."
-  - linked_list_og-image: "https://eay.cc/wordpress/uploads/og-cache/38fb23547a7fe2af930067bbf7a4ccd4.webp"
-  - yourls_shorturl: "https://eay.li/430"
-  - _share_on_mastodon_url: "https://eay.social/@eay/116745040723503490"
-  - content_copy: "https://bsky.app/profile/eay.social/post/3mo7b25ddkl2e"
+  - "bizarres"
+  - "emojis"
+  - "netzkultur"
+external_url: "https://charlottebuff.com/unicode/misc/rejected-emoji-proposals/"
+short_url: "https://eay.li/430"
+content_copy:
+  - "https://bsky.app/profile/eay.social/post/3mo7b25ddkl2e"
+  - "https://eay.social/@eay/116745040723503490"
+geo_latitude: "50.973885"
+geo_longitude: "6.682956"
 ---
+
+[Link →](https://charlottebuff.com/unicode/misc/rejected-emoji-proposals/)
 
 ![Collage aus acht verworfenen Emoji-Entwürfen, angeordnet in zwei Reihen auf weißem Hintergrund. Oben von links nach rechts: ein pinkes Mädchen-Gesicht mit asymmetrischem Ausdruck und Träne, ein grinsendes gelbes Gesicht mit dem Schriftzug „OK“ statt Augen, ein gelangweilt blickendes Emo-Gesicht mit schwarzem Pony sowie ein wütender Kackhaufen. Unten: eine Person, die ein Selfie mit einem Smartphone macht, eine grüne Giftflasche mit Totenkopf-Symbol, eine rosa Taschentuchbox und eine stilisierte Darstellung der Goldenen Spirale. Alle Emojis sind gleichmäßig groß dargestellt und im typischen plastischen Apple-Emoji-Look gestaltet.](https://eay.cc/uploads/2026/rejected-emojis.png)
 

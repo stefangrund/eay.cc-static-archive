@@ -1,23 +1,22 @@
 ---
 title: "was.ist.eigentlich.das.schlimmste.de/?"
 date: "2012-05-13"
-datetime: "2012-05-13 16:47:31"
+published_at: "2012-05-13T14:47:31Z"
 id: "19746"
 slug: "was-ist-eigentlich-das-schlimmste-de"
-url: "https://eay.cc/2012/was-ist-eigentlich-das-schlimmste-de/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2012/was-ist-eigentlich-das-schlimmste-de/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - alkohol
-  - best-of
-  - nonsens
-  - output
-  - projekte
-  - single-serving-site
-meta:
-  - yourls_shorturl: "https://eay.li/1ih"
+  - "alkohol"
+  - "best of"
+  - "nonsens"
+  - "output"
+  - "projekte"
+  - "single serving site"
+short_url: "https://eay.li/1ih"
 ---
 
 [→ → →](http://was.ist.eigentlich.das.schlimmste.de/?)

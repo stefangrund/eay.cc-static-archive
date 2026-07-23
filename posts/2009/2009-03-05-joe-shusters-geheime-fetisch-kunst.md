@@ -1,27 +1,26 @@
 ---
 title: "Joe Shusters geheime Fetisch-Kunst"
 date: "2009-03-05"
-datetime: "2009-03-05 01:51:17"
+published_at: "2009-03-05T00:51:17Z"
 id: "5937"
 slug: "joe-shusters-geheime-fetisch-kunst"
-url: "https://eay.cc/2009/joe-shusters-geheime-fetisch-kunst/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2009/joe-shusters-geheime-fetisch-kunst/"
+author: "Stefan Grund"
+format: "standard"
 tags:
-  - 50er
-  - bizarres
-  - buecher
-  - comics
-  - fetisch
-  - joe-shuster
-  - retro
-  - sex
-  - superman
-meta:
-  - yourls_shorturl: "https://eay.li/2a"
+  - "50er"
+  - "bizarres"
+  - "bücher"
+  - "comics"
+  - "fetisch"
+  - "joe shuster"
+  - "retro"
+  - "sex"
+  - "superman"
+short_url: "https://eay.li/2a"
 ---
 
-![](/uploads/2009/secretidentity.jpg)
+![](https://eay.cc/uploads/2009/secretidentity.jpg)
 
 > Secret Identity showcases rare and recently discovered erotic artwork by the most seminal artist in comics - Superman´s co-creator [Joe Shuster](http://en.wikipedia.org/wiki/Joe_Shuster). Created in the early 1950s when Shuster was down on his luck after trying to reclaim the copyright for Superman, he illustrated these images for an obscure series of magazines called Nights of Horror, sold under the counter until they were banned by the U.S. Supreme Court.
 

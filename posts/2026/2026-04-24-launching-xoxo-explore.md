@@ -1,31 +1,29 @@
 ---
 title: "Launching XOXO Explore"
 date: "2026-04-24"
-datetime: "2026-04-24 08:48:09"
+published_at: "2026-04-24T06:48:09Z"
 id: "41887"
 slug: "launching-xoxo-explore"
-url: "https://eay.cc/2026/launching-xoxo-explore/"
-author: "eay"
+permalink: "https://eay.cc/2026/launching-xoxo-explore/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - konferenz
-  - kreativitat
-  - netzkultur
-  - xoxo
-meta:
-  - linked_list_url: "https://xoxofest.com/blog/2026-launching-xoxo-explore/"
-  - geo_latitude: "50.97384"
-  - geo_longitude: "6.682996"
-  - geo_public: "1"
-  - yourls_shorturl: "https://eay.li/41g"
-  - _share_on_mastodon_url: "https://eay.social/@eay/116458343069685726"
-  - linked_list_og-title: "Launching XOXO Explore · Blog · XOXO"
-  - linked_list_og-description: "We launched a complete archive of all eight years of the festival, along with a limited-edition merch collection to mark the occasion."
-  - linked_list_og-image: "https://eay.cc/wordpress/uploads/og-cache/bd7cd79c5f25b2d640f18e69dfc18be1.webp"
-  - content_copy: "https://bsky.app/profile/eay.social/post/3mk7wrnztq42w"
+  - "konferenz"
+  - "kreativität"
+  - "netzkultur"
+  - "xoxo"
+external_url: "https://xoxofest.com/blog/2026-launching-xoxo-explore/"
+short_url: "https://eay.li/41g"
+content_copy:
+  - "https://bsky.app/profile/eay.social/post/3mk7wrnztq42w"
+  - "https://eay.social/@eay/116458343069685726"
+geo_latitude: "50.97384"
+geo_longitude: "6.682996"
 ---
+
+[Link →](https://xoxofest.com/blog/2026-launching-xoxo-explore/)
 
 Zwei Jahre nach dem Ende des XOXO Festivals, das von 2012 bis 2019 und 2024 "independent artists and creators from the internet" zelebrierte, haben [Andy](https://andymcmillan.com/) & [Andy](https://waxy.org/) zusammen mit [Collin Joyce](https://say.studio/) und [Friends of the Web](https://www.friendsoftheweb.com/) eine Website fertiggestellt, die das umfassende Archiv an herausragenden Talks zentral zugänglich macht. Das Stöbern darin lohnt sich; [im hiesigen #xoxo-Tag](https://eay.cc/tag/xoxo/) finden sich auch ein paar Empfehlungen.
 

@@ -1,25 +1,26 @@
 ---
 title: "kirby vs. this blog post"
 date: "2024-11-28"
-datetime: "2024-11-28 11:35:07"
+published_at: "2024-11-28T10:35:07Z"
 id: "40054"
 slug: "kirby-vs-this-blog-post"
-url: "https://eay.cc/2024/kirby-vs-this-blog-post/"
-author: "eay"
+permalink: "https://eay.cc/2024/kirby-vs-this-blog-post/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - blogging
-  - fanart
-  - nintendo
-meta:
-  - linked_list_url: "https://mgx.me/kirby-vs-this-blog-post"
-  - geo_latitude: "51.000108"
-  - geo_longitude: "6.794201"
-  - geo_public: "1"
-  - yourls_shorturl: "https://eay.li/3tf"
-  - _share_on_mastodon_url: "https://eay.social/@eay/113560132585049103"
+  - "blogging"
+  - "fanart"
+  - "nintendo"
+external_url: "https://mgx.me/kirby-vs-this-blog-post"
+short_url: "https://eay.li/3tf"
+content_copy:
+  - "https://eay.social/@eay/113560132585049103"
+geo_latitude: "51.000108"
+geo_longitude: "6.794201"
 ---
+
+[Link →](https://mgx.me/kirby-vs-this-blog-post)
 
 Nintendos [Kirby](https://en.wikipedia.org/wiki/Kirby_(series)) and a blog post walk into a bar…

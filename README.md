@@ -10,31 +10,30 @@ It consists of every blog post published between 2007-02-02 and 2026-07-02. The 
 ---
 title: "Kinostatistik 2019"
 date: "2019-12-31"
-datetime: "2019-12-31 12:15:07"
+published_at: "2019-12-31T10:15:07Z"
 id: "36083"
 slug: "kinostatistik-2019"
-url: "https://eay.cc/2019/kinostatistik-2019/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2019/kinostatistik-2019/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - 2019
-  - filme
-  - filmindustrie
-  - kino
-  - kinostatistik
-  - konsum
-  - kosten
-  - quantified-self
-  - statistik
-meta:
-  - geo_latitude: "55.652412490167"
-  - geo_longitude: "12.540413807503"
-  - geo_public: "1"
-  - yourls_shorturl: "http://eay.li/3c6"
-  - content_copy: "https://twitter.com/eay/status/1212000692497461254"
-  - content_copy: "https://eay.social/@eay/103402603466779713"
+  - "2019"
+  - "filme"
+  - "filmindustrie"
+  - "kino"
+  - "kinostatistik"
+  - "konsum"
+  - "kosten"
+  - "quantified self"
+  - "statistik"
+short_url: "https://eay.li/3c6"
+content_copy:
+  - "https://twitter.com/eay/status/1212000692497461254"
+  - "https://eay.social/@eay/103402603466779713"
+geo_latitude: "55.652412490167"
+geo_longitude: "12.540413807503"
 ---
 Wie sich herausstellt, bleiben die Hobbies in dem Jahr, in dem man seinen Job kündigt und fast jede wache Minute in die Gründung der [eigenen Firma](https://hypercode.de/) steckt, schon mal auf der Strecke. Kein Wunder also...
 ```
@@ -53,6 +52,13 @@ I hope you are well! In order to update the static copy of your blog, you'll nee
 
 ```
 npm run build
+```
+
+Run the fixture tests and validate the complete generated archive with:
+
+```
+npm test
+npm run validate:posts
 ```
 
 Best regards,

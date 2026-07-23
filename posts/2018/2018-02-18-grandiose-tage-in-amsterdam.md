@@ -1,28 +1,28 @@
 ---
 title: ""
 date: "2018-02-18"
-datetime: "2018-02-18 16:00:03"
+published_at: "2018-02-18T15:00:03Z"
 id: "34200"
 slug: "grandiose-tage-in-amsterdam"
-url: "https://eay.cc/2018/grandiose-tage-in-amsterdam/"
-author: "eay"
+permalink: "https://eay.cc/2018/grandiose-tage-in-amsterdam/"
+author: "Stefan Grund"
 format: "image"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - amsterdam
-  - analogleben
-  - best-of
-  - fotos
-  - frontend
-  - geburtstag
-  - kira-und-ich
-  - konferenz
-  - vue-js
-meta:
-  - content_copy: "https://www.instagram.com/p/BfWaFt6lQKD/"
-  - content_copy: "https://twitter.com/eay/status/965310316950192128"
-  - yourls_shorturl: "https://eay.li/33t"
+  - "amsterdam"
+  - "analogleben"
+  - "best of"
+  - "fotos"
+  - "frontend"
+  - "geburtstag"
+  - "kira und ich"
+  - "konferenz"
+  - "vue.js"
+short_url: "https://eay.li/33t"
+content_copy:
+  - "https://www.instagram.com/p/BfWaFt6lQKD/"
+  - "https://twitter.com/eay/status/965310316950192128"
 ---
 
 ![](https://eay.cc/uploads/2018/amsterdam.jpeg)

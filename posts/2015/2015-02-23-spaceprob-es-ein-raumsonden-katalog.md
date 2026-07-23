@@ -1,21 +1,20 @@
 ---
 title: "Spaceprob.es, ein Raumsonden-Katalog"
 date: "2015-02-23"
-datetime: "2015-02-23 07:42:42"
+published_at: "2015-02-23T06:42:42Z"
 id: "30232"
 slug: "spaceprob-es-ein-raumsonden-katalog"
-url: "https://eay.cc/2015/spaceprob-es-ein-raumsonden-katalog/"
-author: "eay"
+permalink: "https://eay.cc/2015/spaceprob-es-ein-raumsonden-katalog/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - raumfahrt
-  - technologie
-  - weltall
-  - wissenschaft
-meta:
-  - yourls_shorturl: "https://eay.li/2n4"
+  - "raumfahrt"
+  - "technologie"
+  - "weltall"
+  - "wissenschaft"
+short_url: "https://eay.li/2n4"
 ---
 
 > Spaceprob.es catalogs the active human-made machines that freckle our solar system and dot our galaxy. For each space probe, we've affectionately crafted a short-and-sweet summary as well as handpicked geeky hyperlinks we think are worth exploring.

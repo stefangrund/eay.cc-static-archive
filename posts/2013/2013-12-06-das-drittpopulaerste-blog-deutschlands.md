@@ -1,20 +1,19 @@
 ---
 title: "Das drittpopulärste Blog Deutschlands"
 date: "2013-12-06"
-datetime: "2013-12-06 11:25:39"
+published_at: "2013-12-06T10:25:39Z"
 id: "26271"
 slug: "das-drittpopulaerste-blog-deutschlands"
-url: "https://eay.cc/2013/das-drittpopulaerste-blog-deutschlands/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2013/das-drittpopulaerste-blog-deutschlands/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - blogging
-  - deutschland
-  - in-eigener-sache
-meta:
-  - yourls_shorturl: "https://eay.li/2ah"
+  - "blogging"
+  - "deutschland"
+  - "in eigener sache"
+short_url: "https://eay.li/2ah"
 ---
 
 Guten Morgen und willkommen beim drittpopulärsten Blog Deutschlands. Denn wenn es nach [Ebuzzing](http://www.ebuzzing.com/de/) (ehemals Wikio) geht, befinde ich mich seit gestern endlich da, wo ich nach Jahren der Mittelmäßigkeit hingehöre: in der Spitze der deutschen Blogosphäre! :D
@@ -23,6 +22,6 @@ Guten Morgen und willkommen beim drittpopulärsten Blog Deutschlands. Denn wenn 
 
 ![](https://eay.cc/uploads/2013/top3blog.gif)
 
-Natürlich besteht kein Zweifel daran, dass ich dies durch jahrelange harte Bloggerei mehr als verdient habe - außer dass das so nicht stimmt. Es sieht nämlich so aus, als käme Ebuzzing nicht (mehr?) mit meinen [Link-Posts](//eay.cc/type/link/) zurecht. Auf die verlinkten Seiten wird im Feed nämlich direkt im Titel verwiesen, wie es auch bei vielen [anderen](http://daringfireball.net/) Blogs der Fall ist (das Wordpress-Plugin [Daring Fireball-Style Linked List](https://github.com/yjsoon/df-style-linked-list_wordpress-plugin) macht's möglich), und anscheinend rechnet Ebuzzing mir nun fälschlicherweise die Facebook-Likes der Originalposts zu und hat mich daher nach oben katapultiert ([vgl. Screenshot](http://d.pr/i/nQnj)).
+Natürlich besteht kein Zweifel daran, dass ich dies durch jahrelange harte Bloggerei mehr als verdient habe - außer dass das so nicht stimmt. Es sieht nämlich so aus, als käme Ebuzzing nicht (mehr?) mit meinen [Link-Posts](https://eay.cc/type/link/) zurecht. Auf die verlinkten Seiten wird im Feed nämlich direkt im Titel verwiesen, wie es auch bei vielen [anderen](http://daringfireball.net/) Blogs der Fall ist (das Wordpress-Plugin [Daring Fireball-Style Linked List](https://github.com/yjsoon/df-style-linked-list_wordpress-plugin) macht's möglich), und anscheinend rechnet Ebuzzing mir nun fälschlicherweise die Facebook-Likes der Originalposts zu und hat mich daher nach oben katapultiert ([vgl. Screenshot](http://d.pr/i/nQnj)).
 
 Ich bin mal gespannt, wann sie das fixen – hoffentlich nie! – und ob es wirklich daran lag. Wenn ja, dürfte das ja noch ein paar mehr Blogs betreffen, schätze ich. Solange genieße ich jedenfalls meine unverhoffte Top-Platzierung und begrüße an dieser Stelle schon mal alle neuen Leserinnen und Leser. Und als nächstes dann die [Deutschen Blogcharts](http://www.deutscheblogcharts.de/). B)

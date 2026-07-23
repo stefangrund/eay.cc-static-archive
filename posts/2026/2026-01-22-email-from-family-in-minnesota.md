@@ -1,32 +1,30 @@
 ---
 title: "Email from Family in Minnesota"
 date: "2026-01-22"
-datetime: "2026-01-22 07:03:38"
+published_at: "2026-01-22T06:03:38Z"
 id: "40988"
 slug: "email-from-family-in-minnesota"
-url: "https://eay.cc/2026/email-from-family-in-minnesota/"
-author: "eay"
+permalink: "https://eay.cc/2026/email-from-family-in-minnesota/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - donald-trump
-  - politik
-  - usa
-meta:
-  - linked_list_url: "https://inessential.com/2026/01/21/email-from-minnesota-family.html"
-  - geo_latitude: "50.973873"
-  - geo_longitude: "6.68293"
-  - geo_public: "1"
-  - yourls_shorturl: "https://eay.li/3yp"
-  - _share_on_mastodon_url: "https://eay.social/@eay/115937235406250950"
-  - linked_list_og-title: "inessential: Email from Family in Minnesota"
-  - linked_list_og-description: "Our family in Minnesota knows we worry about them, and so yesterday they sent a family-wide email."
-  - content_copy: "https://bsky.app/profile/eay.social/post/3mcyjctk5bz2t"
-  - linked_list_og-image: "https://eay.cc/wordpress/uploads/og-cache/2b8a8fd5c40c1fca826d85a695169ca7_upload.webp"
+  - "donald trump"
+  - "politik"
+  - "usa"
+external_url: "https://inessential.com/2026/01/21/email-from-minnesota-family.html"
+short_url: "https://eay.li/3yp"
+content_copy:
+  - "https://bsky.app/profile/eay.social/post/3mcyjctk5bz2t"
+  - "https://eay.social/@eay/115937235406250950"
+geo_latitude: "50.973873"
+geo_longitude: "6.68293"
 ---
 
-Brent Simmons (of [NetNewsWire](https://netnewswire.com/) ((Btw: Nach all den Jahren [immer noch](https://eay.cc/2020/netnewswire/) mein Desktop-Feedreader der Wahl.))) hat eine E-Mail von Familienangehörigen aus Minnesota geteilt, wo Trumps ICE-Agenten nach [der Ermordung der 37-jährigen, 3-fachen Mutter Renée Good](https://de.wikipedia.org/wiki/T%C3%B6tung_von_Ren%C3%A9e_Good) weiterhin ihr Unwesen treiben.
+[Link →](https://inessential.com/2026/01/21/email-from-minnesota-family.html)
+
+Brent Simmons (of [NetNewsWire](https://netnewswire.com/) [^1]) hat eine E-Mail von Familienangehörigen aus Minnesota geteilt, wo Trumps ICE-Agenten nach [der Ermordung der 37-jährigen, 3-fachen Mutter Renée Good](https://de.wikipedia.org/wiki/T%C3%B6tung_von_Ren%C3%A9e_Good) weiterhin ihr Unwesen treiben.
 
 Ein paar unkommentierte Auszüge:
 
@@ -37,3 +35,5 @@ Ein paar unkommentierte Auszüge:
 > These people are not targeting the “worst of the worst” as they claimed they would do.
 
 > I don’t know what is going to happen. I don’t know what has happened to empathy and humanity.
+
+[^1]: Btw: Nach all den Jahren [immer noch](https://eay.cc/2020/netnewswire/) mein Desktop-Feedreader der Wahl.

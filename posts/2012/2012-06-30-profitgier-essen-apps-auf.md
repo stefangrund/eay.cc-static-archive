@@ -1,23 +1,22 @@
 ---
 title: "Profitgier essen Apps auf"
 date: "2012-06-30"
-datetime: "2012-06-30 15:14:33"
+published_at: "2012-06-30T13:14:33Z"
 id: "20055"
 slug: "profitgier-essen-apps-auf"
-url: "https://eay.cc/2012/profitgier-essen-apps-auf/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2012/profitgier-essen-apps-auf/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - apps
-  - best-of
-  - development
-  - netzkultur
-  - social-media
-  - twitter
-meta:
-  - yourls_shorturl: "https://eay.li/1jy"
+  - "apps"
+  - "best of"
+  - "development"
+  - "netzkultur"
+  - "social media"
+  - "twitter"
+short_url: "https://eay.li/1jy"
 ---
 
 Wie wohl fast jeder _ernsthafte_ Twitter-User nutze ich den Service hauptsächlich durch Apps von Drittanbietern (mein Favorit ist seit jeher [Echofon](http://www.echofon.com/twitter/iphone/)). Die vielen guten Clients sind das, was Twitter groß gemacht hat und der (einzige?) große Vorteil gegenüber allen anderen Social Networks. Twitter scheint das aber zunehmend zu vergessen: [Im März 2011](http://mashable.com/2011/03/12/twitter-api-clients/) legte man externen Entwicklern bereits nahe, keine kompletten Clients mehr zu programmieren ([hier der Originalpost](https://groups.google.com/forum/#!msg/twitter-development-talk/yCzVnHqHIWo/sC34r_ZyMLYJ) von Twitter-Developer Ryan Sarver), gestern wurde Product Manager Michael Sippey dann [nochmal konkreter und kündigte an](https://dev.twitter.com/blog/delivering-consistent-twitter-experience), dass die API-Guidelines in den kommender Wochen verschärft werden. In Twitter-Neusprech liest sich das dann so:
@@ -30,6 +29,8 @@ Die Beweggründe dafür sind natürlich offensichtlich: Twitter muss Geld verdie
 
 Marcel schlägt also zu Recht [kostenpflichtige Pro-Accounts vor](http://uarrr.org/2012/06/30/brett-simmons-imagines-a-twitter-without-twitter/), deren Nutzer dann nicht mit dem ganzen Werbeblödsinn behelligt werden. Ich würde sogar soweit gehen: Twitter sollte die Nutzung von Drittanbieter-Clients ausschließlich zahlenden Pro-Usern zugänglich machen. So wären (bis auf die Werbeindustrie) alle glücklich: Die Intensivnutzer, Twitters Finanzabteilung und die App-Entwickler. Andernfalls bzw. wenn alles so kommt wie jetzt angekündigt, ist das den Entwicklern gegenüber ziemlich genau das, was [Gruber](http://daringfireball.net/) als "dick move" bezeichnen würde.
 
-Wenn iOS- und Mac-Entwickler Brent Simmons, der Mann hinter [Glassboard](http://glassboard.com/) und zuvor [NetNewsWire](http://netnewswireapp.com/), nun also [eine Twitter-Alternative fordert](http://inessential.com/2012/06/29/matthew_on_twitter_restrictions), ist das überaus verständlich. Wer [Dave Winers Blog](http://scripting.com/) liest, wird sowieso jeden zweiten Tag mit dem Gedanken konfrontiert. Nach Simmons würde sich eine Art Parallelsystem anbieten, die von den Drittanbietern zusätzlich zum Twitter-Support integriert wird und die auf Basis von RSS und OPML Tweets und Follow-Informationen bereitstellt, ohne dabei eine zentrale Plattform zu benötigen. Sobald das System dann etabliert ist, sollte man den Twitter-Support rauswerfen und Dick Costolo & Co. mit ihren Werbefuzzis allein lassen. Prinzipiell eine gute Idee, auch wenn die meines Erachtens technisch schwierig zu bewerkstelligen ist. (( Der RSS-Feed müsste irgendwo gehostet werden (von einer dahinter liegenden Datenbank, die als Archiv für die eigenen Statusmeldungen - formerly known as Tweets - fungiert, mal abgesehen). Und das könnte dann wiederum der eigene Webspace sein (und würde unsere Eltern somit ausschließen), der einer zentralen Plattform (herzlichen Glückwunsch, you created the next Twitter!) oder direkt auf Servern der App-Entwickler passieren (eigentlich gut, nur was ist, wenn der App-Entwickler pleite geht?) )) Hoffen wir also, dass es gar nicht erst soweit kommen muss.
+Wenn iOS- und Mac-Entwickler Brent Simmons, der Mann hinter [Glassboard](http://glassboard.com/) und zuvor [NetNewsWire](http://netnewswireapp.com/), nun also [eine Twitter-Alternative fordert](http://inessential.com/2012/06/29/matthew_on_twitter_restrictions), ist das überaus verständlich. Wer [Dave Winers Blog](http://scripting.com/) liest, wird sowieso jeden zweiten Tag mit dem Gedanken konfrontiert. Nach Simmons würde sich eine Art Parallelsystem anbieten, die von den Drittanbietern zusätzlich zum Twitter-Support integriert wird und die auf Basis von RSS und OPML Tweets und Follow-Informationen bereitstellt, ohne dabei eine zentrale Plattform zu benötigen. Sobald das System dann etabliert ist, sollte man den Twitter-Support rauswerfen und Dick Costolo & Co. mit ihren Werbefuzzis allein lassen. Prinzipiell eine gute Idee, auch wenn die meines Erachtens technisch schwierig zu bewerkstelligen ist. [^1] Hoffen wir also, dass es gar nicht erst soweit kommen muss.
 
 Andererseits: Microblogging wird ja auch total überschätzt. Oder um es nochmal mit Grubers Worten zu sagen: "Twitter = Jackass of the Week"
+
+[^1]: Der RSS-Feed müsste irgendwo gehostet werden (von einer dahinter liegenden Datenbank, die als Archiv für die eigenen Statusmeldungen - formerly known as Tweets - fungiert, mal abgesehen). Und das könnte dann wiederum der eigene Webspace sein (und würde unsere Eltern somit ausschließen), der einer zentralen Plattform (herzlichen Glückwunsch, you created the next Twitter!) oder direkt auf Servern der App-Entwickler passieren (eigentlich gut, nur was ist, wenn der App-Entwickler pleite geht?)

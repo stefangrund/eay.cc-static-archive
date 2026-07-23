@@ -1,30 +1,28 @@
 ---
 title: "Inside the $621 Million Legal Battle for the 'Soul of the Internet'"
 date: "2024-10-02"
-datetime: "2024-10-02 08:56:37"
+published_at: "2024-10-02T06:56:37Z"
 id: "39822"
 slug: "inside-the-621-million-legal-battle-for-the-soul-of-the-internet"
-url: "https://eay.cc/2024/inside-the-621-million-legal-battle-for-the-soul-of-the-internet/"
-author: "eay"
+permalink: "https://eay.cc/2024/inside-the-621-million-legal-battle-for-the-soul-of-the-internet/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - geschichte
-  - musik
-  - netzkultur
-  - urheberrecht
-meta:
-  - linked_list_url: "https://www.rollingstone.com/music/music-features/internet-archive-major-label-music-lawsuit-1235105273/"
-  - geo_latitude: "50.973835"
-  - geo_longitude: "6.68302"
-  - geo_public: "1"
-  - yourls_shorturl: "https://eay.li/3s9"
-  - _share_on_mastodon_url: "https://eay.social/@eay/113236521807205939"
-  - linked_list_og-title: "Inside the $621 Million Legal Battle for the 'Soul of the Internet'"
-  - linked_list_og-description: "Major record labels have sued the Internet Archive for $621 million over thousands of old recordings, raising the question: Who owns the past?"
-  - linked_list_og-image: "https://eay.cc/wordpress/uploads/og-cache/7c94f7c3c64c16033b9926793685f32a.webp"
+  - "geschichte"
+  - "musik"
+  - "netzkultur"
+  - "urheberrecht"
+external_url: "https://www.rollingstone.com/music/music-features/internet-archive-major-label-music-lawsuit-1235105273/"
+short_url: "https://eay.li/3s9"
+content_copy:
+  - "https://eay.social/@eay/113236521807205939"
+geo_latitude: "50.973835"
+geo_longitude: "6.68302"
 ---
+
+[Link →](https://www.rollingstone.com/music/music-features/internet-archive-major-label-music-lawsuit-1235105273/)
 
 > Major record labels have sued the online library Internet Archive over thousands of old recordings, raising the question: Who owns the past?
 

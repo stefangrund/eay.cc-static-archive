@@ -1,23 +1,23 @@
 ---
 title: "shoutouts.lol – A place for everything you love, like or want to shout out about on your website"
 date: "2022-11-02"
-datetime: "2022-11-02 18:05:44"
+published_at: "2022-11-02T16:05:44Z"
 id: "38155"
 slug: "shoutouts-lol"
-url: "https://eay.cc/2022/shoutouts-lol/"
-author: "eay"
+permalink: "https://eay.cc/2022/shoutouts-lol/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - webservice
-meta:
-  - linked_list_url: "https://shoutouts.lol/"
-  - geo_latitude: "50.973823"
-  - geo_longitude: "6.68305"
-  - geo_public: "1"
-  - yourls_shorturl: "https://eay.li/3jl"
+  - "webservice"
+external_url: "https://shoutouts.lol/"
+short_url: "https://eay.li/3jl"
+geo_latitude: "50.973823"
+geo_longitude: "6.68305"
 ---
+
+[Link →](https://shoutouts.lol/)
 
 > Shoutouts are things you want to shout out about on your website. May it be things you love, like your favourite social network, some random software developer (hi 👋), or just a tonne of affiliate links you have no idea where and when to show.
 

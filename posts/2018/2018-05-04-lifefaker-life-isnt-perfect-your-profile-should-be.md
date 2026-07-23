@@ -1,22 +1,23 @@
 ---
 title: "Lifefaker – Life isn’t perfect. Your profile should be."
 date: "2018-05-04"
-datetime: "2018-05-04 07:07:30"
+published_at: "2018-05-04T05:07:30Z"
 id: "34596"
 slug: "lifefaker-life-isnt-perfect-your-profile-should-be"
-url: "https://eay.cc/2018/lifefaker-life-isnt-perfect-your-profile-should-be/"
-author: "eay"
+permalink: "https://eay.cc/2018/lifefaker-life-isnt-perfect-your-profile-should-be/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - parodie
-  - social-media
-  - social-web
-meta:
-  - linked_list_url: "http://lifefaker.com/"
-  - yourls_shorturl: "https://eay.li/350"
+  - "parodie"
+  - "social media"
+  - "social web"
+external_url: "http://lifefaker.com/"
+short_url: "https://eay.li/350"
 ---
+
+[Link →](http://lifefaker.com/)
 
 > Lifefaker is the world’s first online life faking service. Instead of going through the hassle of living a perfect life, now you can just get the photos.
 

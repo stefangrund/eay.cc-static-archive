@@ -1,36 +1,21 @@
 ---
 title: "Is Progressive Enhancement dead yet?"
 date: "2021-01-07"
-datetime: "2021-01-07 15:13:09"
+published_at: "2021-01-07T14:13:09Z"
 id: "36997"
 slug: "is-progressive-enhancement-dead-yet"
-url: "https://eay.cc/2021/is-progressive-enhancement-dead-yet/"
-author: "eay"
+permalink: "https://eay.cc/2021/is-progressive-enhancement-dead-yet/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - web-entwicklung
-meta:
-  - linked_list_url: "https://briefs.video/videos/is-progressive-enhancement-dead-yet/"
-  - linked_list_url: "https://briefs.video/videos/is-progressive-enhancement-dead-yet/"
-  - linked_list_url: "https://briefs.video/videos/is-progressive-enhancement-dead-yet/"
-  - linked_list_url: "https://briefs.video/videos/is-progressive-enhancement-dead-yet/"
-  - linked_list_url: "https://briefs.video/videos/is-progressive-enhancement-dead-yet/"
-  - linked_list_url: "https://briefs.video/videos/is-progressive-enhancement-dead-yet/"
-  - linked_list_url: "https://briefs.video/videos/is-progressive-enhancement-dead-yet/"
-  - linked_list_url: "https://briefs.video/videos/is-progressive-enhancement-dead-yet/"
-  - linked_list_url: "https://briefs.video/videos/is-progressive-enhancement-dead-yet/"
-  - linked_list_url: "https://briefs.video/videos/is-progressive-enhancement-dead-yet/"
-  - linked_list_url: "https://briefs.video/videos/is-progressive-enhancement-dead-yet/"
-  - linked_list_url: "https://briefs.video/videos/is-progressive-enhancement-dead-yet/"
-  - linked_list_url: "https://briefs.video/videos/is-progressive-enhancement-dead-yet/"
-  - linked_list_url: "https://briefs.video/videos/is-progressive-enhancement-dead-yet/"
-  - linked_list_url: "https://briefs.video/videos/is-progressive-enhancement-dead-yet/"
-  - linked_list_url: "https://briefs.video/videos/is-progressive-enhancement-dead-yet/"
-  - linked_list_url: "https://briefs.video/videos/is-progressive-enhancement-dead-yet/"
-  - yourls_shorturl: "https://eay.li/12f"
+  - "web-entwicklung"
+external_url: "https://briefs.video/videos/is-progressive-enhancement-dead-yet/"
+short_url: "https://eay.li/12f"
 ---
+
+[Link →](https://briefs.video/videos/is-progressive-enhancement-dead-yet/)
 
 > Progressive Enhancement is a strategy in web design that puts emphasis on web content first. This strategy involves separating the presentation semantics from the content, with presentation being implemented in one or more optional layers, activated based on aspects of the browser or Internet connection of the user.
 

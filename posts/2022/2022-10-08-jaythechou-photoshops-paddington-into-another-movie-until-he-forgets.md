@@ -1,25 +1,24 @@
 ---
 title: "@jaythechou photoshops Paddington into another movie until he forgets"
 date: "2022-10-08"
-datetime: "2022-10-08 09:06:42"
+published_at: "2022-10-08T07:06:42Z"
 id: "38131"
 slug: "jaythechou-photoshops-paddington-into-another-movie-until-he-forgets"
-url: "https://eay.cc/2022/jaythechou-photoshops-paddington-into-another-movie-until-he-forgets/"
-author: "eay"
+permalink: "https://eay.cc/2022/jaythechou-photoshops-paddington-into-another-movie-until-he-forgets/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - fanart
-  - filme
-  - mashup
-  - paddington
-meta:
-  - linked_list_url: "https://twitter.com/jaythechou"
-  - geo_latitude: "50.97389"
-  - geo_longitude: "6.682902"
-  - yourls_shorturl: "https://eay.li/3je"
+  - "fanart"
+  - "filme"
+  - "mashup"
+  - "paddington"
+external_url: "https://twitter.com/jaythechou"
+short_url: "https://eay.li/3je"
 ---
+
+[Link →](https://twitter.com/jaythechou)
 
 ![](https://eay.cc/uploads/2022/i-photoshop-paddington-into-another-movie-until-i-forget.jpg)
 

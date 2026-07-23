@@ -1,28 +1,27 @@
 ---
 title: "Quantified Eay 2018"
 date: "2019-01-02"
-datetime: "2019-01-02 22:42:28"
+published_at: "2019-01-02T21:42:28Z"
 id: "35272"
 slug: "quantified-eay-2018"
-url: "https://eay.cc/2019/quantified-eay-2018/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2019/quantified-eay-2018/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - 2018
-  - quantified-self
-  - statistik
-meta:
-  - content_copy: "https://twitter.com/eay/status/1080578860079558657"
-  - content_copy: "https://twitter.com/eay/status/1080578861497233408"
-  - content_copy: "https://twitter.com/eay/status/1080578862906523648"
-  - content_copy: "https://twitter.com/eay/status/1080578864512946176"
-  - content_copy: "https://twitter.com/eay/status/1080578866819801089"
-  - yourls_shorturl: "https://eay.li/38d"
-  - geo_latitude: "50.973828540652"
-  - geo_longitude: "6.6830661046568"
-  - geo_public: "1"
+  - "2018"
+  - "quantified self"
+  - "statistik"
+short_url: "https://eay.li/38d"
+content_copy:
+  - "https://twitter.com/eay/status/1080578860079558657"
+  - "https://twitter.com/eay/status/1080578861497233408"
+  - "https://twitter.com/eay/status/1080578862906523648"
+  - "https://twitter.com/eay/status/1080578864512946176"
+  - "https://twitter.com/eay/status/1080578866819801089"
+geo_latitude: "50.973828540652"
+geo_longitude: "6.6830661046568"
 ---
 
 Frohes Neues! Verbleiben wir noch einen Moment im vergangenen Jahr. Es folgen [abermals](https://eay.cc/2018/quantified-eay-2017/) einige Quantified-Self-Daten, die ich soeben für 2018 ausgewertet habe:

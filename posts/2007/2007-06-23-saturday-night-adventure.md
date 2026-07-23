@@ -1,21 +1,20 @@
 ---
 title: "Saturday Night Adventure"
 date: "2007-06-23"
-datetime: "2007-06-23 23:01:25"
+published_at: "2007-06-23T21:01:25Z"
 id: "138"
 slug: "saturday-night-adventure"
-url: "https://eay.cc/2007/saturday-night-adventure/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2007/saturday-night-adventure/"
+author: "Stefan Grund"
+format: "standard"
 tags:
-  - analogleben
-  - deutschland
-  - krankheit
-  - nachtleben
-  - tagebuchblogging
-  - zaehne
-meta:
-  - yourls_shorturl: "https://eay.li/v1"
+  - "analogleben"
+  - "deutschland"
+  - "krankheit"
+  - "nachtleben"
+  - "tagebuchblogging"
+  - "zähne"
+short_url: "https://eay.li/v1"
 ---
 
 Stellt euch folgende Situation vor: Gegen 3:30 Uhr Nachts verlasst ihr eine Party. Während ihr an der Straße auf euer Taxi wartet, findet ihr euch in einem dieser Wortgefechte wieder, die in unserem Alter schon mal ausgetragen werden müssen. Unvermittelt plötzlich spuckt ihr Blut, Kopf küsst Asphalt, eure Brille ist kaputt (sofern ihr Brillenträger seid) und der linke Schneidezahn geht in die Geschichte ein. Was nun? Ärztlicher Support wäre ganz nett...

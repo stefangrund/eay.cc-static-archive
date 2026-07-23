@@ -1,21 +1,22 @@
 ---
 title: "Mac-Version von \"The Incident\" heute kostenlos"
 date: "2012-08-11"
-datetime: "2012-08-11 18:20:09"
+published_at: "2012-08-11T17:20:09Z"
 id: "22654"
 slug: "sehr-nice-die-mac-version-vom-grosartigen"
-url: "https://eay.cc/2012/sehr-nice-die-mac-version-vom-grosartigen/"
-author: "eay"
+permalink: "https://eay.cc/2012/sehr-nice-die-mac-version-vom-grosartigen/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - apps
-  - games
-  - mac
-meta:
-  - yourls_shorturl: "https://eay.li/1wm"
-  - linked_list_url: "https://itunes.apple.com/de/app/the-incident/id408679233?mt=12"
+  - "apps"
+  - "games"
+  - "mac"
+external_url: "https://itunes.apple.com/de/app/the-incident/id408679233?mt=12"
+short_url: "https://eay.li/1wm"
 ---
+
+[Link →](https://itunes.apple.com/de/app/the-incident/id408679233?mt=12)
 
 Sehr nice. Das Jump'n'Run "The Incident" ist und bleibt eines meiner liebsten iOS-Spiele ever.

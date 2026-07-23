@@ -1,22 +1,21 @@
 ---
 title: "Wohnungsgrundrisse von TV-Serien"
 date: "2013-05-20"
-datetime: "2013-05-20 17:13:01"
+published_at: "2013-05-20T15:13:01Z"
 id: "22372"
 slug: "wohnungsgrundrisse-von-tv-serien"
-url: "https://eay.cc/2013/wohnungsgrundrisse-von-tv-serien/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2013/wohnungsgrundrisse-von-tv-serien/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - fanart
-  - fernsehen
-  - himym
-  - serien
-  - wohnen
-meta:
-  - yourls_shorturl: "https://eay.li/1vx"
+  - "fanart"
+  - "fernsehen"
+  - "himym"
+  - "serien"
+  - "wohnen"
+short_url: "https://eay.li/1vx"
 ---
 
 ![](https://eay.cc/uploads/2013/himymfloorplan.jpg)

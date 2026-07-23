@@ -1,31 +1,29 @@
 ---
 title: "Die (für uns) große Frage: Wie sieht es mit der internationalen Verfügbarkeit von Apple Vision Pro aus?"
 date: "2024-01-18"
-datetime: "2024-01-18 08:02:58"
+published_at: "2024-01-18T07:02:58Z"
 id: "39425"
 slug: "die-fuer-uns-grosse-frage-wie-sieht-es-mit-der-internationalen-verfuegbarkeit-von-apple-vision-pro-aus"
-url: "https://eay.cc/2024/die-fuer-uns-grosse-frage-wie-sieht-es-mit-der-internationalen-verfuegbarkeit-von-apple-vision-pro-aus/"
-author: "eay"
+permalink: "https://eay.cc/2024/die-fuer-uns-grosse-frage-wie-sieht-es-mit-der-internationalen-verfuegbarkeit-von-apple-vision-pro-aus/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - apple
-  - apple-vision-pro
-  - konsum
-  - technologie
-  - virtual-reality
-meta:
-  - linked_list_url: "https://www.iphoneblog.de/2024/01/17/die-fur-uns-grosse-frage-wie-sieht-es-mit-der-internationalen-verfugbarkeit-von-apple-vision-pro-aus/"
-  - geo_latitude: "50.973839"
-  - geo_longitude: "6.683"
-  - geo_public: "1"
-  - yourls_shorturl: "https://eay.li/3pj"
-  - _share_on_mastodon_url: "https://eay.social/@eay/111775670577292121"
-  - linked_list_og-title: "Die (für uns) große Frage: Wie sieht es mit der internationalen Verfügbarkeit von Apple Vision..."
-  - linked_list_og-description: "Keine Preview-Party und ungewöhnliche Pressearbeit: Am Dienstag schrieben The Verge und Engadget über eine vierte In-House-Demonstration von Apple Vision Pro. Andere Journalist:innen schreiben erst später darüber? Dürfen erst später publizieren oder entschieden sich für „Frage …"
-  - linked_list_og-image: "https://eay.cc/wordpress/uploads/og-cache/939edfd0000662442c9cab880ee9b83b.webp"
+  - "apple"
+  - "apple vision pro"
+  - "konsum"
+  - "technologie"
+  - "virtual reality"
+external_url: "https://www.iphoneblog.de/2024/01/17/die-fur-uns-grosse-frage-wie-sieht-es-mit-der-internationalen-verfugbarkeit-von-apple-vision-pro-aus/"
+short_url: "https://eay.li/3pj"
+content_copy:
+  - "https://eay.social/@eay/111775670577292121"
+geo_latitude: "50.973839"
+geo_longitude: "6.683"
 ---
+
+[Link →](https://www.iphoneblog.de/2024/01/17/die-fur-uns-grosse-frage-wie-sieht-es-mit-der-internationalen-verfugbarkeit-von-apple-vision-pro-aus/)
 
 Alex geht der Frage nach, wann die Vision Pro hierzulande erscheinen könnte.
 

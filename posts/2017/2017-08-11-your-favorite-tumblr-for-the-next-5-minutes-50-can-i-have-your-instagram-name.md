@@ -1,20 +1,19 @@
 ---
 title: "Your favorite tumblr for the next 5 minutes (50): Can I have your Instagram name?"
 date: "2017-08-11"
-datetime: "2017-08-11 16:51:38"
+published_at: "2017-08-11T14:51:38Z"
 id: "33326"
 slug: "your-favorite-tumblr-for-the-next-5-minutes-50-can-i-have-your-instagram-name"
-url: "https://eay.cc/2017/your-favorite-tumblr-for-the-next-5-minutes-50-can-i-have-your-instagram-name/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2017/your-favorite-tumblr-for-the-next-5-minutes-50-can-i-have-your-instagram-name/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - instagram
-  - netzkultur
-  - your-favorite-tumblr-for-the-next-5-minutes
-meta:
-  - yourls_shorturl: "https://eay.li/30p"
+  - "instagram"
+  - "netzkultur"
+  - "your favorite tumblr for the next 5 minutes"
+short_url: "https://eay.li/30p"
 ---
 
 ![](https://eay.cc/uploads/2017/instagram-nico.gif)

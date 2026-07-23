@@ -1,27 +1,26 @@
 ---
 title: "\"The USA is no longer considered a democracy\""
 date: "2025-02-14"
-datetime: "2025-02-14 06:33:48"
+published_at: "2025-02-14T05:33:48Z"
 id: "40213"
 slug: "the-usa-is-no-longer-considered-a-democracy"
-url: "https://eay.cc/2025/the-usa-is-no-longer-considered-a-democracy/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2025/the-usa-is-no-longer-considered-a-democracy/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - 0815
-  - english
+  - "08/15"
+  - "English"
 tags:
-  - donald-trump
-  - frankreich
-  - politik
-  - usa
-meta:
-  - geo_latitude: "50.973844"
-  - geo_longitude: "6.683008"
-  - geo_public: "1"
-  - yourls_shorturl: "https://eay.li/3ui"
-  - _share_on_mastodon_url: "https://eay.social/@eay/114000607968593835"
-  - content_copy: "https://bsky.app/profile/eay.social/post/3li4i722ctq2a"
+  - "donald trump"
+  - "frankreich"
+  - "politik"
+  - "usa"
+short_url: "https://eay.li/3ui"
+content_copy:
+  - "https://bsky.app/profile/eay.social/post/3li4i722ctq2a"
+  - "https://eay.social/@eay/114000607968593835"
+geo_latitude: "50.973844"
+geo_longitude: "6.683008"
 ---
 
 Full quote of [a short, horrifying Kottke post](https://kottke.org/25/02/0046213-on-a-scale-of-10):

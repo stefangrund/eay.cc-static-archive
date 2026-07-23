@@ -1,27 +1,26 @@
 ---
 title: "Kickstarter-Kampagne für »Trüberbrook«, das Sci-Fi-Mystery-Adventure der bildundtonfabrik"
 date: "2017-11-17"
-datetime: "2017-11-17 12:00:21"
+published_at: "2017-11-17T10:00:21Z"
 id: "33723"
 slug: "kickstarter-kampagne-fuer-trueberbrook-das-sci-fi-mystery-adventure-der-bildundtonfabrik"
-url: "https://eay.cc/2017/kickstarter-kampagne-fuer-trueberbrook-das-sci-fi-mystery-adventure-der-bildundtonfabrik/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2017/kickstarter-kampagne-fuer-trueberbrook-das-sci-fi-mystery-adventure-der-bildundtonfabrik/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - adventure
-  - crowdfunding
-  - games
-  - kickstarter
-  - koeln
-meta:
-  - yourls_shorturl: "https://eay.li/32b"
+  - "adventure"
+  - "crowdfunding"
+  - "games"
+  - "kickstarter"
+  - "köln"
+short_url: "https://eay.li/32b"
 ---
 
 Köln schreint sich zur Hochburg für handgemachte Indie-Adventures zu entwickeln: Nach dem leider nicht erfolgreich per Crowdfunding finanzierten Stop-Motion-Game [Harold Halibut](https://eay.cc/2017/harold-halibut-a-handmade-adventure-game/) kommt mit [Trüberbrook](http://trueberbrook.com/) nun schon ein zweites Point-and-Click-Adventure aus der schönsten Stadt Deutschlands – diesmal mit IRL gebauten und per [Photogrammetrie](https://de.wikipedia.org/wiki/Photogrammetrie) digitaliersten Modell­landschaften als Hintergrund.
 
-[youtube id="unNPxeHq-fo"]
+\[youtube id="unNPxeHq-fo"\]
 
 Trüberbrook ist dabei der Name des abgelegenen 60er-Jahre-Luftkurörtchens, der als Schauplatz des Mystery-Abenteuers herält und dessen Geheimnisse es für den amerikanischen Physikers Tannhauser zu lüften gilt. Stimmung und Dramaturgie sind von TV-Serien wie »Twin Peaks« und »Akte X« inspiriert, verwoben mit einem ähnlich subtilen Humor.
 

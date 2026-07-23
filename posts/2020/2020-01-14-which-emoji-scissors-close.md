@@ -1,25 +1,23 @@
 ---
 title: "Which emoji scissors close"
 date: "2020-01-14"
-datetime: "2020-01-14 13:43:43"
+published_at: "2020-01-14T12:43:43Z"
 id: "36152"
 slug: "which-emoji-scissors-close"
-url: "https://eay.cc/2020/which-emoji-scissors-close/"
-author: "eay"
+permalink: "https://eay.cc/2020/which-emoji-scissors-close/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - bizarres
-  - emojis
-  - visualisierung
-meta:
-  - linked_list_url: "https://wh0.github.io/2020/01/02/scissors.html"
-  - linked_list_url: "https://wh0.github.io/2020/01/02/scissors.html"
-  - linked_list_url: "https://wh0.github.io/2020/01/02/scissors.html"
-  - yourls_shorturl: "https://eay.li/3ce"
-  - linked_list_og-title: "Which emoji scissors close"
+  - "bizarres"
+  - "emojis"
+  - "visualisierung"
+external_url: "https://wh0.github.io/2020/01/02/scissors.html"
+short_url: "https://eay.li/3ce"
 ---
+
+[Link →](https://wh0.github.io/2020/01/02/scissors.html)
 
 ![Which emoji scissors close](https://eay.cc/uploads/2020/scissors.png)
 

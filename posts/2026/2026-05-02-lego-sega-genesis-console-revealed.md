@@ -1,32 +1,30 @@
 ---
 title: "LEGO SEGA Genesis Console revealed!"
 date: "2026-05-02"
-datetime: "2026-05-02 23:01:24"
+published_at: "2026-05-02T21:01:24Z"
 id: "41943"
 slug: "lego-sega-genesis-console-revealed"
-url: "https://eay.cc/2026/lego-sega-genesis-console-revealed/"
-author: "eay"
+permalink: "https://eay.cc/2026/lego-sega-genesis-console-revealed/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - games
-  - konsum
-  - lego
-  - mega-drive
-  - sega
-meta:
-  - linked_list_url: "https://brickset.com/article/131571/lego-sega-genesis-console-revealed!"
-  - geo_latitude: "50.973818"
-  - geo_longitude: "6.683059"
-  - geo_public: "1"
-  - linked_list_og-title: "LEGO SEGA Genesis Console revealed!"
-  - linked_list_og-description: "It has been an extremely busy few hours and we are not done yet! 40926 SEGA Genesis Console will be available from June 1st and follows last year's 40769 SEGA Genesis Controller."
-  - linked_list_og-image: "https://eay.cc/wordpress/uploads/og-cache/27d1da0dbb77b9bb52d19ef6df8d6cac.webp"
-  - yourls_shorturl: "https://eay.li/41p"
-  - _share_on_mastodon_url: "https://eay.social/@eay/116507006603899784"
-  - content_copy: "https://bsky.app/profile/eay.social/post/3mkvkcukq2h2j"
+  - "games"
+  - "konsum"
+  - "lego"
+  - "mega drive"
+  - "sega"
+external_url: "https://brickset.com/article/131571/lego-sega-genesis-console-revealed!"
+short_url: "https://eay.li/41p"
+content_copy:
+  - "https://bsky.app/profile/eay.social/post/3mkvkcukq2h2j"
+  - "https://eay.social/@eay/116507006603899784"
+geo_latitude: "50.973818"
+geo_longitude: "6.683059"
 ---
+
+[Link →](https://brickset.com/article/131571/lego-sega-genesis-console-revealed!)
 
 ![Nahaufnahme eines aus LEGO gebauten Sega Mega Drive (Genesis) auf einem Tisch.](https://eay.cc/uploads/2026/lego-sega-genesis.jpg)
 

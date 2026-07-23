@@ -1,21 +1,22 @@
 ---
 title: "GIF CUP, the World Cup in GIFs"
 date: "2014-06-19"
-datetime: "2014-06-19 10:54:20"
+published_at: "2014-06-19T08:54:20Z"
 id: "28293"
 slug: "gif-cup-the-world-cup-in-gifs"
-url: "https://eay.cc/2014/gif-cup-the-world-cup-in-gifs/"
-author: "eay"
+permalink: "https://eay.cc/2014/gif-cup-the-world-cup-in-gifs/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - fifa-worldcup
-  - gifs
-  - wm-2014
-meta:
-  - linked_list_url: "http://www.gifcup.com/"
-  - yourls_shorturl: "https://eay.li/2h5"
+  - "fifa worldcup"
+  - "gifs"
+  - "wm 2014"
+external_url: "http://www.gifcup.com/"
+short_url: "https://eay.li/2h5"
 ---
+
+[Link →](http://www.gifcup.com/)
 
 Ich hätte dann gerne demnächst sämtliche Nachrichten in GIF-Form.

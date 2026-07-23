@@ -1,32 +1,31 @@
 ---
 title: "Webmentions Test-Posting"
 date: "2016-05-07"
-datetime: "2016-05-07 12:14:15"
+published_at: "2016-05-07T11:14:15Z"
 id: "31465"
 slug: "webmentions-rocks-test"
-url: "https://eay.cc/2016/webmentions-rocks-test/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2016/webmentions-rocks-test/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - 0815
-  - english
+  - "08/15"
+  - "English"
 tags:
-  - indieweb
-  - test
-  - webmentions
-meta:
-  - yourls_shorturl: "https://eay.li/2sz"
+  - "indieweb"
+  - "test"
+  - "webmentions"
+short_url: "https://eay.li/2sz"
 ---
 
 I'm at the [IndieWebCamp Düsseldorf](http://indiewebcamp.com/2016/Dusseldorf) right now, just learned about [Webmentions](https://indiewebcamp.com/Webmention) and want to give the [Webmentions-WordPress-Plugin](https://de.wordpress.org/plugins/webmention/) by [pfefferle](http://notizblog.org/) a try with [Webmention.rocks](https://webmention.rocks/), [Aaron](https://aaronparecki.com/)'s helpful validator for sending Webmentions.
 
 **Here are the different tests:** [Test 1](https://webmention.rocks/test/1) ✔ [Test 2](https://webmention.rocks/test/2) ✔ [Test 3](https://webmention.rocks/test/3) ✔ [Test 4](https://webmention.rocks/test/4) ✔ [Test 5](https://webmention.rocks/test/5) ✔ [Test 6](https://webmention.rocks/test/6) ✔ [Test 7](https://webmention.rocks/test/7) ✔ [Test 8](https://webmention.rocks/test/8) ✔ [Test 9](https://webmention.rocks/test/9) ✔ [Test 10](https://webmention.rocks/test/10) ✔ [Test 11](https://webmention.rocks/test/11) ✔ [Test 12](https://webmention.rocks/test/12) ✔ [Test 13](https://webmention.rocks/test/13) ✔ [Test 14](https://webmention.rocks/test/14) ✔ [Test 15](https://webmention.rocks/test/15) ✘
 
-> **Webmention href is an empty string** This post has a <link> tag where the href value is an empty string, meaning the page is its own Webmention endpoint. This tests the relative URL resolver of the sender to ensure an empty string is resolved to the page's URL.
+> **Webmention href is an empty string** This post has a \<link> tag where the href value is an empty string, meaning the page is its own Webmention endpoint. This tests the relative URL resolver of the sender to ensure an empty string is resolved to the page's URL.
 
 [Test 16](https://webmention.rocks/test/16) ✔ [Test 17](https://webmention.rocks/test/17) ✘
 
-> **Multiple Webmention endpoints advertised: <link>, <a>** This post advertises its Webmention endpoint in an HTML <link> tag followed by a later definition in an tag. Your Webmention client must only send a Webmention to the one in the <link> tag since it appears first in the document.
+> **Multiple Webmention endpoints advertised: \<link>, \<a>** This post advertises its Webmention endpoint in an HTML \<link> tag followed by a later definition in an tag. Your Webmention client must only send a Webmention to the one in the \<link> tag since it appears first in the document.
 
 [Test 18](https://webmention.rocks/test/18) ✔ [Test 19](https://webmention.rocks/test/19) ✔ [Test 20](https://webmention.rocks/test/20) ✔ [Test 21](https://webmention.rocks/test/21) ✔
 

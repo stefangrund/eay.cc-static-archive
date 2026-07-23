@@ -1,26 +1,27 @@
 ---
 title: "“Screening Room” will aktuelle Kinofilme in die eigenen vier Wände streamen"
 date: "2016-03-15"
-datetime: "2016-03-15 21:45:04"
+published_at: "2016-03-15T20:45:04Z"
 id: "31374"
 slug: "screening-room-will-aktuelle-kinofilme-in-die-eigenen-vier-waende-streamen"
-url: "https://eay.cc/2016/screening-room-will-aktuelle-kinofilme-in-die-eigenen-vier-waende-streamen/"
-author: "eay"
+permalink: "https://eay.cc/2016/screening-room-will-aktuelle-kinofilme-in-die-eigenen-vier-waende-streamen/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - filme
-  - filmindustrie
-  - heimkino
-  - jj-abrams
-  - netzkultur
-  - steven-spielberg
-  - technologie
-meta:
-  - linked_list_url: "http://www.cnet.com/news/napster-co-founder-sean-parker-launches-screening-room/"
-  - yourls_shorturl: "https://eay.li/2sa"
+  - "filme"
+  - "filmindustrie"
+  - "heimkino"
+  - "jj abrams"
+  - "netzkultur"
+  - "steven spielberg"
+  - "technologie"
+external_url: "http://www.cnet.com/news/napster-co-founder-sean-parker-launches-screening-room/"
+short_url: "https://eay.li/2sa"
 ---
+
+[Link →](http://www.cnet.com/news/napster-co-founder-sean-parker-launches-screening-room/)
 
 > Hollywood's biggest directors and Napster co-founder Sean Parker want to let you download films on the same day they hit theaters, but oh, that $50 price tag.
 

@@ -1,24 +1,23 @@
 ---
 title: "Blade Runner: San Francisco"
 date: "2020-09-10"
-datetime: "2020-09-10 21:04:49"
+published_at: "2020-09-10T20:04:49Z"
 id: "36737"
 slug: "blade-runner-san-francisco"
-url: "https://eay.cc/2020/blade-runner-san-francisco/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2020/blade-runner-san-francisco/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - blade-runner
-  - klimawandel
-  - san-francisco
-  - usa
-meta:
-  - yourls_shorturl: "https://eay.li/3fl"
+  - "blade runner"
+  - "klimawandel"
+  - "san francisco"
+  - "usa"
+short_url: "https://eay.li/3fl"
 ---
 
-[youtube id="x_m9TUP_t_Y"]
+\[youtube id="x\_m9TUP\_t\_Y"\]
 
 > SF drone footage during the #BayAreaFires on 9/9/20, set to Blade Runner 2049 music.
 

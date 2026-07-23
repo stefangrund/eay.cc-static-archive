@@ -1,21 +1,20 @@
 ---
 title: "Avengers: Age of Ultron"
 date: "2015-04-28"
-datetime: "2015-04-28 21:23:26"
+published_at: "2015-04-28T20:23:26Z"
 id: "30468"
 slug: "avengers-age-of-ultron"
-url: "https://eay.cc/2015/avengers-age-of-ultron/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2015/avengers-age-of-ultron/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - comicverfilmungen
-  - filme
-  - kinolog
-  - marvel
-meta:
-  - yourls_shorturl: "https://eay.li/2o1"
+  - "comicverfilmungen"
+  - "filme"
+  - "kinolog"
+  - "marvel"
+short_url: "https://eay.li/2o1"
 ---
 
 ![](https://eay.cc/uploads/2015/avengers2.jpg)

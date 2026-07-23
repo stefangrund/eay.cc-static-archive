@@ -1,22 +1,23 @@
 ---
 title: "Woman Acceptance Factor"
 date: "2017-03-19"
-datetime: "2017-03-19 12:16:51"
+published_at: "2017-03-19T11:16:51Z"
 id: "32300"
 slug: "woman-acceptance-factor"
-url: "https://eay.cc/2017/woman-acceptance-factor/"
-author: "eay"
+permalink: "https://eay.cc/2017/woman-acceptance-factor/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - best-of
-  - frauen
-  - konsum
-meta:
-  - linked_list_url: "https://de.wikipedia.org/wiki/Woman_acceptance_factor"
-  - yourls_shorturl: "https://eay.li/2x3"
+  - "best of"
+  - "frauen"
+  - "konsum"
+external_url: "https://de.wikipedia.org/wiki/Woman_acceptance_factor"
+short_url: "https://eay.li/2x3"
 ---
+
+[Link →](https://de.wikipedia.org/wiki/Woman_acceptance_factor)
 
 > Der Woman Acceptance Factor oder Woman Approval Factor (WAF) ist eine Einschätzung der Zustimmung oder Ablehnung der Ehefrau oder Partnerin bezüglich einer Neuanschaffung durch den Ehemann oder Partner.
 

@@ -1,20 +1,19 @@
 ---
 title: "Avatar Sequels"
 date: "2017-10-04"
-datetime: "2017-10-04 21:33:15"
+published_at: "2017-10-04T19:33:15Z"
 id: "33475"
 slug: "avatar-sequels"
-url: "https://eay.cc/2017/avatar-sequels/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2017/avatar-sequels/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - avatar
-  - filme
-  - sequel
-meta:
-  - yourls_shorturl: "https://eay.li/31f"
+  - "avatar"
+  - "filme"
+  - "sequel"
+short_url: "https://eay.li/31f"
 ---
 
 Dass James Cameron sein SciFi-Meisterwerk »[Avatar](https://eay.cc/2009/review-avatar-aufbruch-nach-pandora/)« mit zwei Sequels beehren wird, wusste ich. Dass es insgesamt vier Fortsetzungen sein sollen, die mit drei Jahren Unterbrechung von 2020 bis 2025 in die Kinos kommen, war mir neu:

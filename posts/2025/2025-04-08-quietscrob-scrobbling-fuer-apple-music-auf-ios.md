@@ -1,36 +1,30 @@
 ---
 title: "QuietScrob – „Scrobbling“ für Apple Music auf iOS"
 date: "2025-04-08"
-datetime: "2025-04-08 20:11:54"
+published_at: "2025-04-08T19:11:54Z"
 id: "40325"
 slug: "quietscrob-scrobbling-fuer-apple-music-auf-ios"
-url: "https://eay.cc/2025/quietscrob-scrobbling-fuer-apple-music-auf-ios/"
-author: "eay"
+permalink: "https://eay.cc/2025/quietscrob-scrobbling-fuer-apple-music-auf-ios/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - apps
-  - ios
-  - last-fm
-  - musik
-  - shortcuts
-meta:
-  - linked_list_url: "https://www.iphoneblog.de/2025/04/08/quietscrob-scrobbling-fur-apple-music-auf-ios/"
-  - geo_latitude: "50.973838"
-  - geo_longitude: "6.683011"
-  - geo_public: "1"
-  - yourls_shorturl: "https://eay.li/3v2"
-  - _share_on_mastodon_url: "https://eay.social/@eay/114303927329364088"
-  - content_copy: "https://bsky.app/profile/eay.social/post/3lmd6ozvmcr2c"
-  - linked_list_og-title: "QuietScrob – „Scrobbling“ für Apple Music auf iOS"
-  - linked_list_og-description: "Wegen ihrer Apple-Music-Replay-Rückblicke habe ich schon erwachsene Menschen weinen sehen – weil es Apple nicht so toll wie Spotify hinbekommt oder Kinderlieder die Jahrescharts dominieren.
-
-
-
-Für alle, denen diese Statistiken wirklich wichtig sind, bleibt Stream-übergreifend Last.fm. Und …"
-  - linked_list_og-image: "https://eay.cc/wordpress/uploads/og-cache/790a4c082b32fed2c3b589be44bacace.webp"
+  - "apps"
+  - "ios"
+  - "last.fm"
+  - "musik"
+  - "shortcuts"
+external_url: "https://www.iphoneblog.de/2025/04/08/quietscrob-scrobbling-fur-apple-music-auf-ios/"
+short_url: "https://eay.li/3v2"
+content_copy:
+  - "https://bsky.app/profile/eay.social/post/3lmd6ozvmcr2c"
+  - "https://eay.social/@eay/114303927329364088"
+geo_latitude: "50.973838"
+geo_longitude: "6.683011"
 ---
+
+[Link →](https://www.iphoneblog.de/2025/04/08/quietscrob-scrobbling-fur-apple-music-auf-ios/)
 
 [Weitere Empfehlung von Alex](https://eay.cc/2025/unauffaellige-dienste-die-einfach-funktionieren-heute-feedbin/), der ich nur beipflichten kann. Gerade nachgeguckt: Habe [QuietScrob](https://apps.apple.com/de/app/quietscrob-last-fm-scrobbler/id741599377) im Januar 2017 geladen und seitdem scrobbelt es zuverlässig meine Plays zu [Last.fm](https://www.last.fm/user/Eay).
 

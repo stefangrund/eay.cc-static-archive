@@ -1,21 +1,24 @@
 ---
 title: "..."
 date: "2009-02-02"
-datetime: "2009-02-02 12:35:09"
+published_at: "2009-02-02T11:35:09Z"
 id: "5440"
 slug: "i-would-do-anything-for-love-but-i-wont-do-that-oh-i-wont-do-that"
-url: "https://eay.cc/2009/i-would-do-anything-for-love-but-i-wont-do-that-oh-i-wont-do-that/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2009/i-would-do-anything-for-love-but-i-wont-do-that-oh-i-wont-do-that/"
+author: "Stefan Grund"
+format: "standard"
 tags:
-  - best-of
-  - diagramm
-  - liebe
-  - lyrics
-  - meat-loaf
-  - musik
-meta:
-  - yourls_shorturl: "https://eay.li/1w"
+  - "best of"
+  - "diagramm"
+  - "liebe"
+  - "lyrics"
+  - "meat loaf"
+  - "musik"
+short_url: "https://eay.li/1w"
 ---
 
-![](/uploads/2009/meatloaf.jpg)  ([via](http://www.delphinehauen.de/2009/02/02/3204/))
+![](https://eay.cc/uploads/2009/meatloaf.jpg)
+
+[Embedded content](http://www.youtube.com/v/788H0K5KrYI&hl=de&fs=1)
+
+ ([via](http://www.delphinehauen.de/2009/02/02/3204/))

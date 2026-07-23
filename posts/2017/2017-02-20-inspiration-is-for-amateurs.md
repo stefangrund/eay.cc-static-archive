@@ -1,20 +1,19 @@
 ---
 title: "Inspiration is for amateurs"
 date: "2017-02-20"
-datetime: "2017-02-20 21:18:49"
+published_at: "2017-02-20T20:18:49Z"
 id: "32187"
 slug: "inspiration-is-for-amateurs"
-url: "https://eay.cc/2017/inspiration-is-for-amateurs/"
-author: "eay"
+permalink: "https://eay.cc/2017/inspiration-is-for-amateurs/"
+author: "Stefan Grund"
 format: "quote"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - inspiration
-  - kreativitat
-  - kunst
-meta:
-  - yourls_shorturl: "https://eay.li/2wp"
+  - "inspiration"
+  - "kreativität"
+  - "kunst"
+short_url: "https://eay.li/2wp"
 ---
 
 > Inspiration is for amateurs — the rest of us just show up and get to work.

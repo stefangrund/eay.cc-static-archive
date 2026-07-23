@@ -1,26 +1,25 @@
 ---
 title: "Wunsch-Bild"
 date: "2008-06-19"
-datetime: "2008-06-19 11:48:28"
+published_at: "2008-06-19T09:48:28Z"
 id: "571"
 slug: "wunsch-bild"
-url: "https://eay.cc/2008/wunsch-bild/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2008/wunsch-bild/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - 2008
-  - bild
-  - europameisterschaft
-  - fake
-  - fussball
-  - sport
-  - zeitung
-meta:
-  - yourls_shorturl: "https://eay.li/k9"
+  - "2008"
+  - "bild"
+  - "europameisterschaft"
+  - "fake"
+  - "fußball"
+  - "sport"
+  - "zeitung"
+short_url: "https://eay.li/k9"
 ---
 
 Wenn's nach @[zuckerbrot](http://twitter.com/zuckerbrot) geht, sieht die morgige Bild-Zeitung so aus:
 
-[![](/uploads/2008/wunschbild.gif)](http://twitpic.com/2gnu)
+[![](https://eay.cc/uploads/2008/wunschbild.gif)](http://twitpic.com/2gnu)

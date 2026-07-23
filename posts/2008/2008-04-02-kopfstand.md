@@ -1,17 +1,16 @@
 ---
 title: "pu??s?do?"
 date: "2008-04-02"
-datetime: "2008-04-02 22:54:14"
+published_at: "2008-04-02T20:54:14Z"
 id: "468"
 slug: "kopfstand"
-url: "https://eay.cc/2008/kopfstand/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2008/kopfstand/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - 0815
-  - the-others
-meta:
-  - yourls_shorturl: "https://eay.li/hc"
+  - "08/15"
+  - "The Others"
+short_url: "https://eay.li/hc"
 ---
 
 ?[???? ???l?](http://www.revfad.com/flip.html) uu?p 'u????? pu??s?do? u?p ??n? np ?sll??

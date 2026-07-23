@@ -1,25 +1,26 @@
 ---
 title: "GIFs: Tod eines Mediums. Und sein Leben nach dem Tod."
 date: "2015-01-02"
-datetime: "2015-01-02 15:32:16"
+published_at: "2015-01-02T14:32:16Z"
 id: "29807"
 slug: "gifs-tod-eines-mediums-und-sein-leben-nach-dem-tod"
-url: "https://eay.cc/2015/gifs-tod-eines-mediums-und-sein-leben-nach-dem-tod/"
-author: "eay"
+permalink: "https://eay.cc/2015/gifs-tod-eines-mediums-und-sein-leben-nach-dem-tod/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - 31c3
-  - gifs
-  - medienwissenschaft
-  - netzkultur
-  - technologie
-  - vortrag
-meta:
-  - linked_list_url: "http://media.ccc.de/browse/congress/2014/31c3_-_6325_-_de_-_saal_g_-_201412281600_-_gifs_tod_eines_mediums_und_sein_leben_nach_dem_tod_-_felix_mutze.html#video"
-  - yourls_shorturl: "https://eay.li/2m3"
+  - "31c3"
+  - "gifs"
+  - "medienwissenschaft"
+  - "netzkultur"
+  - "technologie"
+  - "vortrag"
+external_url: "http://media.ccc.de/browse/congress/2014/31c3_-_6325_-_de_-_saal_g_-_201412281600_-_gifs_tod_eines_mediums_und_sein_leben_nach_dem_tod_-_felix_mutze.html#video"
+short_url: "https://eay.li/2m3"
 ---
+
+[Link →](http://media.ccc.de/browse/congress/2014/31c3_-_6325_-_de_-_saal_g_-_201412281600_-_gifs_tod_eines_mediums_und_sein_leben_nach_dem_tod_-_felix_mutze.html#video)
 
 > Im Grunde sind GIFs Schnee von gestern. Es gibt zahlreiche Alternativen, die das, was ein GIF kann, besser können. Und trotzdem haben sich GIFs als Kulturtechnik durchgesetzt. Oder war es nur ein letzter Hype vor dem Tod? Wie kommt es, dass ein Medium, das schon in den 90ern veraltet war, sich noch zwei Jahrzehnte später bester Beliebtheit erfreut? Und was können wir daraus über die Diskrepanz zwischen aktueller technischer Entwicklung einerseits und der tatsächlichen Nutzung von Technologie andererseits lernen?
 

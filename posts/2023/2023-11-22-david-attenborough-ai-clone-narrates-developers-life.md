@@ -1,29 +1,27 @@
 ---
 title: "“David Attenborough” AI clone narrates developer’s life"
 date: "2023-11-22"
-datetime: "2023-11-22 08:40:13"
+published_at: "2023-11-22T06:40:13Z"
 id: "38953"
 slug: "david-attenborough-ai-clone-narrates-developers-life"
-url: "https://eay.cc/2023/david-attenborough-ai-clone-narrates-developers-life/"
-author: "eay"
+permalink: "https://eay.cc/2023/david-attenborough-ai-clone-narrates-developers-life/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - dokumentation
-  - fanart
-  - kuenstliche-intelligenz
-meta:
-  - linked_list_url: "https://arstechnica.com/information-technology/2023/11/unauthorized-david-attenborough-ai-clone-narrates-developers-life-goes-viral/"
-  - geo_latitude: "50.973835"
-  - geo_longitude: "6.683006"
-  - geo_public: "1"
-  - yourls_shorturl: "https://eay.li/3ox"
-  - _share_on_mastodon_url: "https://eay.social/@eay/111452829385050916"
-  - linked_list_og-title: "Unauthorized “David Attenborough” AI clone narrates developer’s life, goes viral"
-  - linked_list_og-description: "“We observe the sophisticated Homo sapiens engaging in the ritual of hydration.”…"
-  - linked_list_og-image: "https://eay.cc/wordpress/uploads/og-cache/1425f118216daa2c117f94eb9e3320b8.webp"
+  - "dokumentation"
+  - "fanart"
+  - "künstliche intelligenz"
+external_url: "https://arstechnica.com/information-technology/2023/11/unauthorized-david-attenborough-ai-clone-narrates-developers-life-goes-viral/"
+short_url: "https://eay.li/3ox"
+content_copy:
+  - "https://eay.social/@eay/111452829385050916"
+geo_latitude: "50.973835"
+geo_longitude: "6.683006"
 ---
+
+[Link →](https://arstechnica.com/information-technology/2023/11/unauthorized-david-attenborough-ai-clone-narrates-developers-life-goes-viral/)
 
 > We observe the sophisticated Homo sapiens engaging in the ritual of hydration.
 

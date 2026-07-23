@@ -1,31 +1,29 @@
 ---
 title: "Apple in Education – Wallpaper"
 date: "2026-04-16"
-datetime: "2026-04-16 08:00:51"
+published_at: "2026-04-16T06:00:51Z"
 id: "41843"
 slug: "apple-in-education-wallpaper"
-url: "https://eay.cc/2026/apple-in-education-wallpaper/"
-author: "eay"
+permalink: "https://eay.cc/2026/apple-in-education-wallpaper/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - apple
-  - fanart
-  - wallpaper
-  - werbung
-meta:
-  - linked_list_url: "https://basicappleguy.com/haberdashery/apple-in-education"
-  - geo_latitude: "50.973876"
-  - geo_longitude: "6.682893"
-  - geo_public: "1"
-  - linked_list_og-title: "Apple in Education — Basic Apple Guy"
-  - linked_list_og-description: "Apple’s latest logo is… an apple?"
-  - linked_list_og-image: "https://eay.cc/wordpress/uploads/og-cache/13ee9e586de900eb06016e916c976fff.webp"
-  - yourls_shorturl: "https://eay.li/417"
-  - _share_on_mastodon_url: "https://eay.social/@eay/116412858544654607"
-  - content_copy: "https://bsky.app/profile/eay.social/post/3mjlqdnclcp2s"
+  - "apple"
+  - "fanart"
+  - "wallpaper"
+  - "werbung"
+external_url: "https://basicappleguy.com/haberdashery/apple-in-education"
+short_url: "https://eay.li/417"
+content_copy:
+  - "https://bsky.app/profile/eay.social/post/3mjlqdnclcp2s"
+  - "https://eay.social/@eay/116412858544654607"
+geo_latitude: "50.973876"
+geo_longitude: "6.682893"
 ---
+
+[Link →](https://basicappleguy.com/haberdashery/apple-in-education)
 
 > Apple’s latest logo is… an apple?
 

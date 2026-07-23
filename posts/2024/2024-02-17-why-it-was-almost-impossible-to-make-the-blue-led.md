@@ -1,27 +1,25 @@
 ---
 title: "Why it was almost impossible to make the blue LED"
 date: "2024-02-17"
-datetime: "2024-02-17 23:58:00"
+published_at: "2024-02-17T22:58:00Z"
 id: "39482"
 slug: "why-it-was-almost-impossible-to-make-the-blue-led"
-url: "https://eay.cc/2024/why-it-was-almost-impossible-to-make-the-blue-led/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2024/why-it-was-almost-impossible-to-make-the-blue-led/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - dokumentation
-  - technologie
-  - video
-  - wissenschaft
-meta:
-  - geo_latitude: "50.973838"
-  - geo_longitude: "6.683002"
-  - yourls_shorturl: "https://eay.li/3pz"
-  - _share_on_mastodon_url: "https://eay.social/@eay/111949338149747870"
+  - "dokumentation"
+  - "technologie"
+  - "video"
+  - "wissenschaft"
+short_url: "https://eay.li/3pz"
+content_copy:
+  - "https://eay.social/@eay/111949338149747870"
 ---
 
-[youtube id="AF8d72mA41M"]
+\[youtube id="AF8d72mA41M"\]
 
 > The blue LED was supposed to be impossible – until a young engineer proposed a moonshot idea.
 

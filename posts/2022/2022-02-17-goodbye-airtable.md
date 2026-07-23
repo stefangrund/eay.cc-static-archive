@@ -1,26 +1,26 @@
 ---
 title: "Goodbye Airtable"
 date: "2022-02-17"
-datetime: "2022-02-17 22:04:25"
+published_at: "2022-02-17T21:04:25Z"
 id: "37826"
 slug: "goodbye-airtable"
-url: "https://eay.cc/2022/goodbye-airtable/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2022/goodbye-airtable/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - airtable
-  - finanzen
-  - notion
-  - webservice
-meta:
-  - content_copy: "https://twitter.com/eay/status/1494374093197557762"
-  - content_copy: "https://twitter.com/eay/status/1494374098981605379"
-  - content_copy: "https://twitter.com/eay/status/1494374104069292040"
-  - content_copy: "https://twitter.com/eay/status/1494374110117318672"
-  - content_copy: "https://twitter.com/eay/status/1494374112382394385"
-  - yourls_shorturl: "https://eay.li/3h5"
+  - "airtable"
+  - "finanzen"
+  - "notion"
+  - "webservice"
+short_url: "https://eay.li/3h5"
+content_copy:
+  - "https://twitter.com/eay/status/1494374093197557762"
+  - "https://twitter.com/eay/status/1494374098981605379"
+  - "https://twitter.com/eay/status/1494374104069292040"
+  - "https://twitter.com/eay/status/1494374110117318672"
+  - "https://twitter.com/eay/status/1494374112382394385"
 ---
 
 Ich nutze [Airtable](https://airtable.com/) ja seit Jahren sehr gerne, aber mit dem Limit von 1.000 Records pro Base im Free-Account bei gleichzeitiger Abwesenheit eines bezahlbaren Pro-Tiers für Privatanwender/Familien bringt sich der Dienst langsam aber sicher selbst auf meine Abschussliste.

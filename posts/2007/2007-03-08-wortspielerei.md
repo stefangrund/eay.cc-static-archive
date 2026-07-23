@@ -1,18 +1,17 @@
 ---
 title: "Wortspielerei"
 date: "2007-03-08"
-datetime: "2007-03-08 16:29:31"
+published_at: "2007-03-08T15:29:31Z"
 id: "26"
 slug: "wortspielerei"
-url: "https://eay.cc/2007/wortspielerei/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2007/wortspielerei/"
+author: "Stefan Grund"
+format: "standard"
 tags:
-  - bastelei
-  - output
-  - weltfrauentag
-meta:
-  - yourls_shorturl: "https://eay.li/t1"
+  - "bastelei"
+  - "output"
+  - "weltfrauentag"
+short_url: "https://eay.li/t1"
 ---
 
-![](/uploads/2007/holz_vor_der_huette.gif) Weil ja heute Weltfrauentag ist. Na? Na?
+![](https://eay.cc/uploads/2007/holz_vor_der_huette.gif) Weil ja heute Weltfrauentag ist. Na? Na?

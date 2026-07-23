@@ -1,26 +1,27 @@
 ---
 title: "Festivitas.app – Weihnachtsdeko für das macOS-Dock & Menü"
 date: "2024-12-08"
-datetime: "2024-12-08 23:51:11"
+published_at: "2024-12-08T22:51:11Z"
 id: "40070"
 slug: "festivitas-app-weihnachtsdeko-fuer-das-macos-dock-menue"
-url: "https://eay.cc/2024/festivitas-app-weihnachtsdeko-fuer-das-macos-dock-menue/"
-author: "eay"
+permalink: "https://eay.cc/2024/festivitas-app-weihnachtsdeko-fuer-das-macos-dock-menue/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - apps
-  - mac
-  - weihnachten
-meta:
-  - linked_list_url: "https://www.festivitas.app/"
-  - geo_latitude: "50.973835"
-  - geo_longitude: "6.682998"
-  - geo_public: "1"
-  - yourls_shorturl: "https://eay.li/3tk"
-  - _share_on_mastodon_url: "https://eay.social/@eay/113619649982293111"
+  - "apps"
+  - "mac"
+  - "weihnachten"
+external_url: "https://www.festivitas.app/"
+short_url: "https://eay.li/3tk"
+content_copy:
+  - "https://eay.social/@eay/113619649982293111"
+geo_latitude: "50.973835"
+geo_longitude: "6.682998"
 ---
+
+[Link →](https://www.festivitas.app/)
 
 ![](https://eay.cc/uploads/2024/festivitas.png)
 

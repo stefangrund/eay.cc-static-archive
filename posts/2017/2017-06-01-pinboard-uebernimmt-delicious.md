@@ -1,23 +1,24 @@
 ---
 title: "Pinboard übernimmt Delicious"
 date: "2017-06-01"
-datetime: "2017-06-01 22:47:59"
+published_at: "2017-06-01T20:47:59Z"
 id: "33117"
 slug: "pinboard-uebernimmt-delicious"
-url: "https://eay.cc/2017/pinboard-uebernimmt-delicious/"
-author: "eay"
+permalink: "https://eay.cc/2017/pinboard-uebernimmt-delicious/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - del-icio-us
-  - maciej-ceglowski
-  - webservice
-  - yahoo
-meta:
-  - linked_list_url: "https://blog.pinboard.in/2017/06/pinboard_acquires_delicious/"
-  - yourls_shorturl: "https://eay.li/2zf"
+  - "del.icio.us"
+  - "maciej ceglowski"
+  - "webservice"
+  - "yahoo"
+external_url: "https://blog.pinboard.in/2017/06/pinboard_acquires_delicious/"
+short_url: "https://eay.li/2zf"
 ---
+
+[Link →](https://blog.pinboard.in/2017/06/pinboard_acquires_delicious/)
 
 Nach einer verrückten Aneinanderreihung von Übernahmen und Missmanagement hat Delicious a.k.a. del.icio.us heute zum fünften Mal den Besitzer gewechselt und gehört nun zu Pinboard, dem großartigen Delicious-Klon vom ebenso großartigen [Maciej Cegłowski](http://idlewords.com/).
 

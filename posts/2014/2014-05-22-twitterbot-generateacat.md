@@ -1,23 +1,24 @@
 ---
 title: "Your favorite Twitter account for the next 5 minutes: @GenerateACat"
 date: "2014-05-22"
-datetime: "2014-05-22 18:48:02"
+published_at: "2014-05-22T16:48:02Z"
 id: "27970"
 slug: "twitterbot-generateacat"
-url: "https://eay.cc/2014/twitterbot-generateacat/"
-author: "eay"
+permalink: "https://eay.cc/2014/twitterbot-generateacat/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - katzencontent
-  - twitter
-  - twitterbot
-  - your-favorite-twitter-account-for-the-next-5-minutes
-meta:
-  - linked_list_url: "https://twitter.com/GenerateACat"
-  - yourls_shorturl: "https://eay.li/2g1"
+  - "katzencontent"
+  - "twitter"
+  - "twitterbot"
+  - "your favorite twitter account for the next 5 minutes"
+external_url: "https://twitter.com/GenerateACat"
+short_url: "https://eay.li/2g1"
 ---
+
+[Link →](https://twitter.com/GenerateACat)
 
 ![](https://eay.cc/uploads/2014/generatedcat.gif)
 

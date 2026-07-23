@@ -1,25 +1,25 @@
 ---
 title: "All cables must die!"
 date: "2017-05-29"
-datetime: "2017-05-29 20:48:42"
+published_at: "2017-05-29T18:48:42Z"
 id: "33095"
 slug: "all-cables-must-die"
-url: "https://eay.cc/2017/all-cables-must-die/"
-author: "eay"
+permalink: "https://eay.cc/2017/all-cables-must-die/"
+author: "Stefan Grund"
 format: "image"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - airpods
-  - apple
-  - fotos
-  - konsum
-  - kopfhoerer
-  - technologie
-  - wearables
-meta:
-  - content_copy: "https://instagram.com/p/BUr4fqrlw0Y/"
-  - yourls_shorturl: "https://eay.li/2zb"
+  - "airpods"
+  - "apple"
+  - "fotos"
+  - "konsum"
+  - "kopfhörer"
+  - "technologie"
+  - "wearables"
+short_url: "https://eay.li/2zb"
+content_copy:
+  - "https://instagram.com/p/BUr4fqrlw0Y/"
 ---
 
 ![](https://eay.cc/uploads/2017/airpods.jpeg)

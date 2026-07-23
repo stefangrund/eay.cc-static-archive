@@ -1,24 +1,25 @@
 ---
 title: "Insider-Gag \"A113\" in Pixar- und Disney-Filmen"
 date: "2014-05-03"
-datetime: "2014-05-03 03:04:13"
+published_at: "2014-05-03T01:04:13Z"
 id: "27757"
 slug: "insider-gag-a113-in-pixar-und-disney-filmen"
-url: "https://eay.cc/2014/insider-gag-a113-in-pixar-und-disney-filmen/"
-author: "eay"
+permalink: "https://eay.cc/2014/insider-gag-a113-in-pixar-und-disney-filmen/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - animation
-  - disney
-  - fernsehen
-  - filme
-  - pixar
-meta:
-  - linked_list_url: "https://imgur.com/gallery/YcwCt"
-  - yourls_shorturl: "https://eay.li/2f5"
+  - "animation"
+  - "disney"
+  - "fernsehen"
+  - "filme"
+  - "pixar"
+external_url: "https://imgur.com/gallery/YcwCt"
+short_url: "https://eay.li/2f5"
 ---
+
+[Link →](https://imgur.com/gallery/YcwCt)
 
 ![](https://eay.cc/uploads/2014/a113.jpg)
 

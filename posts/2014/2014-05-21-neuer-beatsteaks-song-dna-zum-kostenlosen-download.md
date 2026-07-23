@@ -1,22 +1,23 @@
 ---
 title: "Neuer Beatsteaks-Song \"DNA\" zum kostenlosen Download"
 date: "2014-05-21"
-datetime: "2014-05-21 15:23:07"
+published_at: "2014-05-21T13:23:07Z"
 id: "27951"
 slug: "neuer-beatsteaks-song-dna-zum-kostenlosen-download"
-url: "https://eay.cc/2014/neuer-beatsteaks-song-dna-zum-kostenlosen-download/"
-author: "eay"
+permalink: "https://eay.cc/2014/neuer-beatsteaks-song-dna-zum-kostenlosen-download/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - beatsteaks
-  - mp3
-  - musik
-meta:
-  - linked_list_url: "http://dna.beatsteaks.com/"
-  - yourls_shorturl: "https://eay.li/2fx"
+  - "beatsteaks"
+  - "mp3"
+  - "musik"
+external_url: "http://dna.beatsteaks.com/"
+short_url: "https://eay.li/2fx"
 ---
+
+[Link →](http://dna.beatsteaks.com/)
 
 Dazu muss deren Newsletter abonniert werden. Mit der Download-Mail kommt aber auch direkt ein Unsubscribe-Link.
 

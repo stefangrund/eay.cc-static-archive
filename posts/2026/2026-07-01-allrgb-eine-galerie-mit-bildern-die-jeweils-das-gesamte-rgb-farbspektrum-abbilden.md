@@ -1,31 +1,30 @@
 ---
 title: "allRGB, eine Galerie mit Bildern, die jeweils das gesamte RGB-Farbspektrum abbilden"
 date: "2026-07-01"
-datetime: "2026-07-01 08:00:36"
+published_at: "2026-07-01T06:00:36Z"
 id: "42306"
 slug: "allrgb-eine-galerie-mit-bildern-die-jeweils-das-gesamte-rgb-farbspektrum-abbilden"
-url: "https://eay.cc/2026/allrgb-eine-galerie-mit-bildern-die-jeweils-das-gesamte-rgb-farbspektrum-abbilden/"
-author: "eay"
+permalink: "https://eay.cc/2026/allrgb-eine-galerie-mit-bildern-die-jeweils-das-gesamte-rgb-farbspektrum-abbilden/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - design
-  - farben
-  - kunst
-  - technologie
-meta:
-  - linked_list_url: "https://allrgb.com/"
-  - geo_latitude: "51.000174"
-  - geo_longitude: "6.794095"
-  - geo_public: "1"
-  - linked_list_og-title: "allRGB"
-  - linked_list_og-description: "The objective of allRGB is simple: To create images with one pixel for every RGB color (16777216); not one color missing, and not one color twice."
-  - linked_list_og-image: "https://eay.cc/wordpress/uploads/og-cache/21baa3c62f4fff153b9c585393afba73.webp"
-  - yourls_shorturl: "https://eay.li/43l"
-  - _share_on_mastodon_url: "https://eay.social/@eay/116843194361960853"
-  - content_copy: "https://bsky.app/profile/eay.social/post/3mpktrlab6k2f"
+  - "design"
+  - "farben"
+  - "kunst"
+  - "technologie"
+external_url: "https://allrgb.com/"
+short_url: "https://eay.li/43l"
+content_copy:
+  - "https://bsky.app/profile/eay.social/post/3mpktrlab6k2f"
+  - "https://bubbles.town/entry/44741340"
+  - "https://eay.social/@eay/116843194361960853"
+geo_latitude: "51.000174"
+geo_longitude: "6.794095"
 ---
+
+[Link →](https://allrgb.com/)
 
 ![Screenshot der allRGB-Website,](https://eay.cc/uploads/2026/allrgb.webp)
 

@@ -1,27 +1,27 @@
 ---
 title: "WorldWideWeb-Simulator"
 date: "2019-03-02"
-datetime: "2019-03-02 19:17:42"
+published_at: "2019-03-02T18:17:42Z"
 id: "35556"
 slug: "worldwideweb-simulator"
-url: "https://eay.cc/2019/worldwideweb-simulator/"
-author: "eay"
+permalink: "https://eay.cc/2019/worldwideweb-simulator/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - emulator
-  - geschichte
-  - internet
-  - netzkultur
-  - retro
-meta:
-  - linked_list_url: "https://worldwideweb.cern.ch/"
-  - yourls_shorturl: "https://eay.li/399"
-  - geo_latitude: "50.973823358213"
-  - geo_longitude: "6.683085272417"
-  - geo_public: "1"
+  - "emulator"
+  - "geschichte"
+  - "internet"
+  - "netzkultur"
+  - "retro"
+external_url: "https://worldwideweb.cern.ch/"
+short_url: "https://eay.li/399"
+geo_latitude: "50.973823358213"
+geo_longitude: "6.683085272417"
 ---
+
+[Link →](https://worldwideweb.cern.ch/)
 
 > A simulation of using the first ever web browser, recreated inside your web browser.
 

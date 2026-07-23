@@ -1,26 +1,24 @@
 ---
 title: "What Elon Musk's X is getting right"
 date: "2023-10-08"
-datetime: "2023-10-08 11:17:10"
+published_at: "2023-10-08T09:17:10Z"
 id: "38846"
 slug: "what-elon-musks-x-is-getting-right"
-url: "https://eay.cc/2023/what-elon-musks-x-is-getting-right/"
-author: "eay"
+permalink: "https://eay.cc/2023/what-elon-musks-x-is-getting-right/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
-  - english
+  - "08/15"
+  - "English"
 tags:
-  - elon-musk
-  - twitter
-meta:
-  - linked_list_url: "https://werd.io/2023/what-elon-musks-x-is-getting-right"
-  - geo_latitude: "51.000116"
-  - geo_longitude: "6.794244"
-  - geo_public: "1"
-  - yourls_shorturl: "https://eay.li/3o2"
-  - _oembed_6e97328d9099de30a2eb6a48fb0f0b8f: "{{unknown}}"
-  - _share_on_mastodon_url: "https://eay.social/@eay/111198642615009023"
+  - "elon musk"
+  - "twitter"
+external_url: "https://werd.io/2023/what-elon-musks-x-is-getting-right"
+short_url: "https://eay.li/3o2"
+content_copy:
+  - "https://eay.social/@eay/111198642615009023"
+geo_latitude: "51.000116"
+geo_longitude: "6.794244"
 ---
 
-
+[Link →](https://werd.io/2023/what-elon-musks-x-is-getting-right)

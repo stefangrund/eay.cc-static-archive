@@ -1,22 +1,21 @@
 ---
 title: "Ehrliche Logos"
 date: "2011-11-29"
-datetime: "2011-11-29 23:52:55"
+published_at: "2011-11-29T21:52:55Z"
 id: "17656"
 slug: "ehrliche-logos"
-url: "https://eay.cc/2011/ehrliche-logos/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2011/ehrliche-logos/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - 0815
-  - the-others
+  - "08/15"
+  - "The Others"
 tags:
-  - imdb
-  - konsum
-  - logo
-  - werbung
-meta:
-  - yourls_shorturl: "https://eay.li/1ct"
+  - "imdb"
+  - "konsum"
+  - "logo"
+  - "werbung"
+short_url: "https://eay.li/1ct"
 ---
 
 ![](https://eay.cc/uploads/2011/honestlogos.png)

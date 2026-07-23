@@ -1,27 +1,28 @@
 ---
 title: "Feedbin hat nun auch keinen Zugang mehr zur Twitter-API"
 date: "2023-04-01"
-datetime: "2023-04-01 07:31:29"
+published_at: "2023-04-01T06:31:29Z"
 id: "38526"
 slug: "feedbin-hat-nun-auch-keinen-zugang-mehr-zur-twitter-api"
-url: "https://eay.cc/2023/feedbin-hat-nun-auch-keinen-zugang-mehr-zur-twitter-api/"
-author: "eay"
+permalink: "https://eay.cc/2023/feedbin-hat-nun-auch-keinen-zugang-mehr-zur-twitter-api/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - feedbin
-  - netzkultur
-  - twitter
-meta:
-  - linked_list_url: "https://feedbin.com/blog/2023/03/30/twitter-access-revoked/"
-  - geo_latitude: "50.973836"
-  - geo_longitude: "6.683018"
-  - geo_public: "1"
-  - yourls_shorturl: "https://eay.li/3lw"
-  - content_copy: "https://eay.social/@eay/110122172201981238"
-  - content_copy: "https://twitter.com/eay/status/1642052747540193280"
+  - "feedbin"
+  - "netzkultur"
+  - "twitter"
+external_url: "https://feedbin.com/blog/2023/03/30/twitter-access-revoked/"
+short_url: "https://eay.li/3lw"
+content_copy:
+  - "https://eay.social/@eay/110122172201981238"
+  - "https://twitter.com/eay/status/1642052747540193280"
+geo_latitude: "50.973836"
+geo_longitude: "6.683018"
 ---
+
+[Link →](https://feedbin.com/blog/2023/03/30/twitter-access-revoked/)
 
 Die [Shit Show geht weiter](https://eay.cc/2023/twitterrific-end-of-an-era/), nun wurde auch Feedbin der Zugang zur Twitter-API abgedreht:
 

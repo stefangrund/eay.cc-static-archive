@@ -1,25 +1,24 @@
 ---
 title: "Mountain Duck als Alternative für die Dropbox- und Google Drive-Integrationen bei einem 256 GB Mac mini"
 date: "2024-12-27"
-datetime: "2024-12-27 08:09:00"
+published_at: "2024-12-27T07:09:00Z"
 id: "40099"
 slug: "mountain-duck-als-alternative-fuer-die-dropbox-und-google-drive-integrationen-bei-einem-256-gb-mac-mini"
-url: "https://eay.cc/2024/mountain-duck-als-alternative-fuer-die-dropbox-und-google-drive-integrationen-bei-einem-256-gb-mac-mini/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2024/mountain-duck-als-alternative-fuer-die-dropbox-und-google-drive-integrationen-bei-einem-256-gb-mac-mini/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - apps
-  - dropbox
-  - google
-  - mac
-meta:
-  - geo_latitude: "50.973836"
-  - geo_longitude: "6.682999"
-  - geo_public: "1"
-  - yourls_shorturl: "https://eay.li/3tw"
-  - _share_on_mastodon_url: "https://eay.social/@eay/113723529183366596"
+  - "apps"
+  - "dropbox"
+  - "google"
+  - "mac"
+short_url: "https://eay.li/3tw"
+content_copy:
+  - "https://eay.social/@eay/113723529183366596"
+geo_latitude: "50.973836"
+geo_longitude: "6.682999"
 ---
 
 Da ich mir ja den M4 Mac mini in der Minimal­ausstattung [gegönnt habe](https://eay.cc/2024/hello-little-one/) (der weiterhin super performed), habe ich natürlich nur die 256 GB SSD an Bord. Diese möchte ich ungern von den nativen Dropbox- und Google Drive- Integrationen zumüllen lassen, weshalb ich auf der Suche nach einer Alternative war.

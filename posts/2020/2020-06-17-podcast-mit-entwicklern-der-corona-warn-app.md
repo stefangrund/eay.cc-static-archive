@@ -1,24 +1,24 @@
 ---
 title: "Podcast mit Entwicklern der Corona-Warn-App"
 date: "2020-06-17"
-datetime: "2020-06-17 15:59:51"
+published_at: "2020-06-17T14:59:51Z"
 id: "36571"
 slug: "podcast-mit-entwicklern-der-corona-warn-app"
-url: "https://eay.cc/2020/podcast-mit-entwicklern-der-corona-warn-app/"
-author: "eay"
+permalink: "https://eay.cc/2020/podcast-mit-entwicklern-der-corona-warn-app/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - coronavirus
-  - podcast
-meta:
-  - linked_list_url: "https://ukw.fm/ukw030-die-corona-warn-app/"
-  - yourls_shorturl: "https://eay.li/3el"
-  - geo_latitude: "50.97386307081"
-  - geo_longitude: "6.6829250538498"
-  - geo_public: "1"
+  - "coronavirus"
+  - "podcast"
+external_url: "https://ukw.fm/ukw030-die-corona-warn-app/"
+short_url: "https://eay.li/3el"
+geo_latitude: "50.97386307081"
+geo_longitude: "6.6829250538498"
 ---
+
+[Link →](https://ukw.fm/ukw030-die-corona-warn-app/)
 
 Gestern ist bekanntlich die [Corona-Warn-App](https://www.coronawarn.app/de/) erschienen, die wir alle schleunigst installieren sollten ([iOS-Download](https://apps.apple.com/de/app/corona-warn-app/id1512595757), [Android-Download](https://play.google.com/store/apps/details?id=de.rki.coronawarnapp)). Die Rezeption und Berichterstattung zur App war/ist mitunter durchwachsen, weshalb ein Podcast wie dieser hier, in dem [Tim Pritlove](https://metaebene.me/timpritlove/) mit zwei Entwicklern der App spricht, sehr erfrischend ist und interessante Einblicke bietet:
 

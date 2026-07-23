@@ -1,24 +1,25 @@
 ---
 title: "Andrea Voßhoff wird neue oberste Daten\"schützerin\""
 date: "2013-12-19"
-datetime: "2013-12-19 21:46:41"
+published_at: "2013-12-19T20:46:41Z"
 id: "26458"
 slug: "andrea-vosshoff-wird-neue-oberste-datenschuetzerin"
-url: "https://eay.cc/2013/andrea-vosshoff-wird-neue-oberste-datenschuetzerin/"
-author: "eay"
+permalink: "https://eay.cc/2013/andrea-vosshoff-wird-neue-oberste-datenschuetzerin/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - datenschutz
-  - deutschland
-  - netzkultur
-  - politik
-  - ueberwachung
-meta:
-  - linked_list_url: "http://www.br.de/nachrichten/vosshoff-datenschutz-bundesbeauftragte-100.html"
-  - yourls_shorturl: "https://eay.li/2ay"
+  - "datenschutz"
+  - "deutschland"
+  - "netzkultur"
+  - "politik"
+  - "überwachung"
+external_url: "http://www.br.de/nachrichten/vosshoff-datenschutz-bundesbeauftragte-100.html"
+short_url: "https://eay.li/2ay"
 ---
+
+[Link →](http://www.br.de/nachrichten/vosshoff-datenschutz-bundesbeauftragte-100.html)
 
 [Andrea Voßhoff](https://de.wikipedia.org/wiki/Andrea_Vo%C3%9Fhoff) wurde heute zur neuen Bundesbeauftragten für Datenschutz und Informationsfreiheit gewählt. Die Mini-Opposition bezeichnet Voßhoff zu Recht als Fehlbesetzung, was vor allem in Hinblick auf ihre bisherige netzpolitische Vita deutlich wird:
 

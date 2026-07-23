@@ -1,21 +1,20 @@
 ---
 title: "Your favorite tumblr for the next 5 minutes (34): The World Cup Draw"
 date: "2014-06-26"
-datetime: "2014-06-26 16:29:52"
+published_at: "2014-06-26T14:29:52Z"
 id: "28324"
 slug: "your-favorite-tumblr-for-the-next-5-minutes-34-the-world-cup-draw"
-url: "https://eay.cc/2014/your-favorite-tumblr-for-the-next-5-minutes-34-the-world-cup-draw/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2014/your-favorite-tumblr-for-the-next-5-minutes-34-the-world-cup-draw/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - fifa-worldcup
-  - fussball
-  - wm-2014
-  - your-favorite-tumblr-for-the-next-5-minutes
-meta:
-  - yourls_shorturl: "https://eay.li/2ha"
+  - "fifa worldcup"
+  - "fußball"
+  - "wm 2014"
+  - "your favorite tumblr for the next 5 minutes"
+short_url: "https://eay.li/2ha"
 ---
 
 ![](https://eay.cc/uploads/2014/wmdraw.gif)

@@ -1,23 +1,22 @@
 ---
 title: "Vote He-Man for Future Good!"
 date: "2009-12-13"
-datetime: "2009-12-13 02:32:06"
+published_at: "2009-12-13T01:32:06Z"
 id: "10374"
 slug: "vote-he-man-for-future-good"
-url: "https://eay.cc/2009/vote-he-man-for-future-good/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2009/vote-he-man-for-future-good/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - 0815
-  - the-others
+  - "08/15"
+  - "The Others"
 tags:
-  - fanart
-  - he-man
-  - kunst
-  - politik
-  - streetart
-meta:
-  - yourls_shorturl: "https://eay.li/if"
+  - "fanart"
+  - "he-man"
+  - "kunst"
+  - "politik"
+  - "streetart"
+short_url: "https://eay.li/if"
 ---
 
 ![](https://eay.cc/uploads/2009/voteheman.jpg) Obiges Bild stammt von den Street-Artists [Miss Bugs](http://www.missbugs.com/) (ja, dahinter verbergen sich tatsächlich zwei Künstler, nämlich Miss und Bugs), deren Arbeiten ganz nach meinem Geschmack sind: popkulturell und politisch. Und mit He-Man und den Looney Tunes macht man bei mir eh nichts verkehrt. Die tollen Kunstwerke der beiden, lassen sich auf [deren Webseite](http://www.missbugs.com/) bestaunen. Ein [Interview gibt's bei Artasty](http://www.artasty.com/interviews.php?entry=27&type=interviews).

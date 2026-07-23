@@ -1,29 +1,28 @@
 ---
 title: "LibRedirect – Browser extension that redirects to alternative privacy friendly frontends of YouTube, TikTok & Co."
 date: "2023-05-15"
-datetime: "2023-05-15 23:56:11"
+published_at: "2023-05-15T21:56:11Z"
 id: "38586"
 slug: "libredirect-browser-extension-that-redirects-to-alternative-privacy-friendly-frontends-of-youtube-tiktok-co"
-url: "https://eay.cc/2023/libredirect-browser-extension-that-redirects-to-alternative-privacy-friendly-frontends-of-youtube-tiktok-co/"
-author: "eay"
+permalink: "https://eay.cc/2023/libredirect-browser-extension-that-redirects-to-alternative-privacy-friendly-frontends-of-youtube-tiktok-co/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - datenschutz
-  - open-source
-  - webservice
-meta:
-  - linked_list_url: "https://libredirect.github.io/"
-  - geo_latitude: "50.973845"
-  - geo_longitude: "6.682957"
-  - geo_public: "1"
-  - yourls_shorturl: "https://eay.li/3md"
-  - content_copy: "https://eay.social/@eay/110375046199319447"
-  - content_copy: "https://bsky.app/profile/eay.social/post/3jvsfvq7zee2b"
-  - linked_list_og-title: "LibRedirect - Privacy-friendly Redirector"
-  - linked_list_og-description: "A web extension that redirects YouTube, Twitter, Instagram, etc. requests to alternative privacy-friendly frontends"
+  - "datenschutz"
+  - "open source"
+  - "webservice"
+external_url: "https://libredirect.github.io/"
+short_url: "https://eay.li/3md"
+content_copy:
+  - "https://eay.social/@eay/110375046199319447"
+  - "https://bsky.app/profile/eay.social/post/3jvsfvq7zee2b"
+geo_latitude: "50.973845"
+geo_longitude: "6.682957"
 ---
+
+[Link →](https://libredirect.github.io/)
 
 [Via René](https://flip.de/libredirect-leitet-auf-datenschutzfreundliche-frontends-um/), der direkt auch auf einen sehr netten Nebeneffekt hinweist: "Auf der verlinkten Webseite bekommt man praktischerweise gleich eine schöne Übersicht, welche alternativen Dienste es gibt." Und dort habe ich dann von [ProxiTok](https://github.com/pablouser1/ProxiTok) erfahren, ein alternatives Frontend für – ihr ahnt es – TikTok, das auch gleich RSS-Feeds anbietet.
 

@@ -1,21 +1,20 @@
 ---
 title: "Der Mythos vom atomaren Internet"
 date: "2011-06-25"
-datetime: "2011-06-25 21:42:35"
+published_at: "2011-06-25T19:42:35Z"
 id: "16582"
 slug: "der-mythos-vom-atomaren-internet"
-url: "https://eay.cc/2011/der-mythos-vom-atomaren-internet/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2011/der-mythos-vom-atomaren-internet/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - atombombe
-  - geschichte
-  - netzkultur
-  - technologie
-meta:
-  - yourls_shorturl: "https://eay.li/198"
+  - "atombombe"
+  - "geschichte"
+  - "netzkultur"
+  - "technologie"
+short_url: "https://eay.li/198"
 ---
 
 Ich lerne gerade für eine Prüfung und stoße in jedem zweiten Lehrbuch auf eine dieser Urban Legends, die gerne überall rezitiert und stehen dürfen - außer in Lehrbüchern.

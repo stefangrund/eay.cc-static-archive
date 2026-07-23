@@ -1,26 +1,25 @@
 ---
 title: "OnlyFans > Spotify"
 date: "2024-10-28"
-datetime: "2024-10-28 23:58:40"
+published_at: "2024-10-28T22:58:40Z"
 id: "39929"
 slug: "onlyfans-spotify"
-url: "https://eay.cc/2024/onlyfans-spotify/"
-author: "eay"
+permalink: "https://eay.cc/2024/onlyfans-spotify/"
+author: "Stefan Grund"
 format: "aside"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - business
-  - musik
-  - netzkultur
-  - spotify
-  - streaming
-meta:
-  - geo_latitude: "53.930549"
-  - geo_longitude: "11.381352"
-  - geo_public: "1"
-  - yourls_shorturl: "https://eay.li/3so"
-  - _share_on_mastodon_url: "https://eay.social/@eay/113387524714432964"
+  - "business"
+  - "musik"
+  - "netzkultur"
+  - "spotify"
+  - "streaming"
+short_url: "https://eay.li/3so"
+content_copy:
+  - "https://eay.social/@eay/113387524714432964"
+geo_latitude: "53.930549"
+geo_longitude: "11.381352"
 ---
 
 > Imagine being an artist and having nearly 8 million monthly listeners on Spotify but earning more money from having 1,000 people subscribe to pictures of your feet. [#](https://x.com/lilyallen/status/1849803776753893639)

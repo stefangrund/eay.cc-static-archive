@@ -1,23 +1,24 @@
 ---
 title: "Der Link, wie wir ihn kennen, könnte bald ausgedient haben, denn Politik und Wirtschaft sind dabei, diese zentrale Funktion des Internets umzuformen"
 date: "2015-12-08"
-datetime: "2015-12-08 08:27:20"
+published_at: "2015-12-08T07:27:20Z"
 id: "31097"
 slug: "der-link-wie-wir-ihn-kennen-koennte-bald-ausgedient-haben-denn-politik-und-wirtschaft-sind-dabei-diese-zentrale-funktion-des-internets-umzuformen"
-url: "https://eay.cc/2015/der-link-wie-wir-ihn-kennen-koennte-bald-ausgedient-haben-denn-politik-und-wirtschaft-sind-dabei-diese-zentrale-funktion-des-internets-umzuformen/"
-author: "eay"
+permalink: "https://eay.cc/2015/der-link-wie-wir-ihn-kennen-koennte-bald-ausgedient-haben-denn-politik-und-wirtschaft-sind-dabei-diese-zentrale-funktion-des-internets-umzuformen/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - europa
-  - netzkultur
-  - politik
-  - urheberrecht
-meta:
-  - linked_list_url: "http://www.netzpiloten.de/link-urheberrecht-eu-kommission/"
-  - yourls_shorturl: "https://eay.li/2rc"
+  - "europa"
+  - "netzkultur"
+  - "politik"
+  - "urheberrecht"
+external_url: "http://www.netzpiloten.de/link-urheberrecht-eu-kommission/"
+short_url: "https://eay.li/2rc"
 ---
+
+[Link →](http://www.netzpiloten.de/link-urheberrecht-eu-kommission/)
 
 > Die Content-Industrie hat schon die Idee eingebracht, dass YouTube-Einbettungen kostenpflichtig werden könnten.
 

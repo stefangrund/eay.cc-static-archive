@@ -1,22 +1,23 @@
 ---
 title: "SmugMug kauft flickr"
 date: "2018-04-21"
-datetime: "2018-04-21 23:09:50"
+published_at: "2018-04-21T21:09:50Z"
 id: "34580"
 slug: "smugmug-kauft-flickr"
-url: "https://eay.cc/2018/smugmug-kauft-flickr/"
-author: "eay"
+permalink: "https://eay.cc/2018/smugmug-kauft-flickr/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - flickr
-  - webservice
-  - yahoo
-meta:
-  - linked_list_url: "https://www.usatoday.com/story/tech/2018/04/20/smugmug-buys-flickr-verizon-oath/537377002/"
-  - yourls_shorturl: "https://eay.li/34x"
+  - "flickr"
+  - "webservice"
+  - "yahoo"
+external_url: "https://www.usatoday.com/story/tech/2018/04/20/smugmug-buys-flickr-verizon-oath/537377002/"
+short_url: "https://eay.li/34x"
 ---
+
+[Link →](https://www.usatoday.com/story/tech/2018/04/20/smugmug-buys-flickr-verizon-oath/537377002/)
 
 Das familiengeführte Photo-Sharing-Unternehmen [SmugMug](https://www.smugmug.com/) – "mit 100 Angestellten und einem geschätzten Jahresumsatz im niedrigen einstelligen Millionenbereich" ([iPhoneBlog](https://www.iphoneblog.de/2018/04/21/smugmug-flickr/)) – kauft den Web 2.0- und Photo-Sharing-Pionier flickr von Yahoo frei (und folgt damit [Upcoming](https://waxy.org/2014/05/the_return_of_upcomingorg/) und [del.icio.us](https://eay.cc/2017/pinboard-uebernimmt-delicious/)). Gute Sache, aber vermutlich zu spät, leider.
 

@@ -1,27 +1,25 @@
 ---
 title: "The Hives – Bogus Operandi"
 date: "2023-05-07"
-datetime: "2023-05-07 15:22:32"
+published_at: "2023-05-07T13:22:32Z"
 id: "38579"
 slug: "the-hives-bogus-operandi"
-url: "https://eay.cc/2023/the-hives-bogus-operandi/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2023/the-hives-bogus-operandi/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - evil-dead
-  - musik
-  - musikvideo
-  - the-hives
-meta:
-  - geo_latitude: "50.973836"
-  - geo_longitude: "6.683017"
-  - geo_public: "1"
-  - yourls_shorturl: "https://eay.li/3mb"
+  - "evil dead"
+  - "musik"
+  - "musikvideo"
+  - "the hives"
+short_url: "https://eay.li/3mb"
+geo_latitude: "50.973836"
+geo_longitude: "6.683017"
 ---
 
-[youtube id="XVKHeBRox0k"]
+\[youtube id="XVKHeBRox0k"\]
 
 > We left the throne for a decade just to prove that we could. No one sat on it, so we did, again. If you are feeling like you are number one, get ready to be number two because we are back!
 

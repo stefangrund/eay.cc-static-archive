@@ -1,33 +1,31 @@
 ---
 title: "iPhanpy – The best Mastodon client now has an iOS version"
 date: "2026-02-01"
-datetime: "2026-02-01 14:47:05"
+published_at: "2026-02-01T13:47:05Z"
 id: "41098"
 slug: "iphanpy-the-best-mastodon-client-now-has-an-ios-version"
-url: "https://eay.cc/2026/iphanpy-the-best-mastodon-client-now-has-an-ios-version/"
-author: "eay"
+permalink: "https://eay.cc/2026/iphanpy-the-best-mastodon-client-now-has-an-ios-version/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - altstore
-  - apps
-  - fediverse
-  - ios
-  - mastodon
-  - social-web
-meta:
-  - linked_list_url: "https://fantinel.dev/blog/iphanpy-mastodon-client"
-  - geo_latitude: "51.000144"
-  - geo_longitude: "6.794104"
-  - geo_public: "1"
-  - linked_list_og-title: "The best Mastodon client now has an iOS version! - Matt Fantinel"
-  - linked_list_og-description: "Meet iPhanpy, the best way to use Phanpy on iOS."
-  - linked_list_og-image: "https://eay.cc/wordpress/uploads/og-cache/57ba84a4e40769f838a6ec91af3bdf0b.webp"
-  - yourls_shorturl: "https://eay.li/3z0"
-  - _share_on_mastodon_url: "https://eay.social/@eay/115995700205988266"
-  - content_copy: "https://bsky.app/profile/eay.social/post/3mdsiakoi6g2r"
+  - "altstore"
+  - "apps"
+  - "fediverse"
+  - "ios"
+  - "mastodon"
+  - "social web"
+external_url: "https://fantinel.dev/blog/iphanpy-mastodon-client"
+short_url: "https://eay.li/3z0"
+content_copy:
+  - "https://bsky.app/profile/eay.social/post/3mdsiakoi6g2r"
+  - "https://eay.social/@eay/115995700205988266"
+geo_latitude: "51.000144"
+geo_longitude: "6.794104"
 ---
+
+[Link →](https://fantinel.dev/blog/iphanpy-mastodon-client)
 
 > TL;DR: I've just released an iOS version of [Phanpy](https://phanpy.social/) on the App Store and AltStore. It provides better performance and a Liquid Glass icon compared to the installed web app.
 

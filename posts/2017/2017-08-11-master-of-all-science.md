@@ -1,26 +1,19 @@
 ---
 title: "Master of all Science"
 date: "2017-08-11"
-datetime: "2017-08-11 18:25:37"
+published_at: "2017-08-11T16:25:37Z"
 id: "33336"
 slug: "master-of-all-science"
-url: "https://eay.cc/2017/master-of-all-science/"
-author: "eay"
+permalink: "https://eay.cc/2017/master-of-all-science/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
-meta:
-  - linked_list_url: "https://masterofallscience.com/"
-  - linked_list_url: "https://masterofallscience.com/"
-  - linked_list_url: "https://masterofallscience.com/"
-  - linked_list_url: "https://masterofallscience.com/"
-  - linked_list_url: "https://masterofallscience.com/"
-  - linked_list_url: "https://masterofallscience.com/"
-  - linked_list_url: "https://masterofallscience.com/"
-  - linked_list_url: "https://masterofallscience.com/"
-  - linked_list_url: "https://masterofallscience.com/"
-  - yourls_shorturl: "https://eay.li/30q"
+  - "08/15"
+external_url: "https://masterofallscience.com/"
+short_url: "https://eay.li/30q"
 ---
+
+[Link →](https://masterofallscience.com/)
 
 Nach [Frinkiac](https://frinkiac.com/) (Simpsons) und [Morbotron](https://morbotron.com/) (Futurama) haben [Paul Kehrer](https://twitter.com/reaperhulk), [Sean Schulte](https://twitter.com/sirsean) und [Allie Young](https://twitter.com/seriousallie) mit "Master of all Science" nun auch eine Screenshot- und Dialogdatenbank zu Rick and Morty gestartet, mit der sich auch gleich passende GIFs wie das folgende erstellen lassen. (via [Nerdcore](http://www.nerdcore.de/2017/08/06/rick-morty-gif-database/))
 

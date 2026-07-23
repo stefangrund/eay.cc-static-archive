@@ -1,19 +1,18 @@
 ---
 title: "Die wundersame Welt des Farin U."
 date: "2007-08-20"
-datetime: "2007-08-20 15:40:59"
+published_at: "2007-08-20T13:40:59Z"
 id: "201"
 slug: "die-wundersame-welt-des-farin-u"
-url: "https://eay.cc/2007/die-wundersame-welt-des-farin-u/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2007/die-wundersame-welt-des-farin-u/"
+author: "Stefan Grund"
+format: "standard"
 tags:
-  - buecher
-  - die-aerzte
-  - farin-urlaub
-  - konsum
-meta:
-  - yourls_shorturl: "https://eay.li/am"
+  - "bücher"
+  - "die ärzte"
+  - "farin urlaub"
+  - "konsum"
+short_url: "https://eay.li/am"
 ---
 
 > Farin Urlaub und seine Kamera: ein halbes Jahr durch Indien und Bhutan. Entstanden sind bezaubernde Fotos von bestechender Klarheit. Aus ihnen sprechen die Neugier und die Offenheit, das Sich-Einlassen auf das Neue, Unbekannte, auf Menschen, auf Kultur.

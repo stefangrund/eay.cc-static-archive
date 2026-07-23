@@ -1,23 +1,24 @@
 ---
 title: "IFTTT Maker Channel"
 date: "2015-06-25"
-datetime: "2015-06-25 22:10:02"
+published_at: "2015-06-25T20:10:02Z"
 id: "30636"
 slug: "ifttt-maker-channel"
-url: "https://eay.cc/2015/ifttt-maker-channel/"
-author: "eay"
+permalink: "https://eay.cc/2015/ifttt-maker-channel/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - ifttt
-  - mashup
-  - netzkultur
-  - webservice
-meta:
-  - linked_list_url: "https://ifttt.com/maker"
-  - yourls_shorturl: "https://eay.li/2oq"
+  - "ifttt"
+  - "mashup"
+  - "netzkultur"
+  - "webservice"
+external_url: "https://ifttt.com/maker"
+short_url: "https://eay.li/2oq"
 ---
+
+[Link →](https://ifttt.com/maker)
 
 > The Maker Channel allows you to connect IFTTT to your personal DIY projects. With Maker, you can connect a Recipe to any device or service that can make or receive a web request.
 

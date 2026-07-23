@@ -1,24 +1,23 @@
 ---
 title: "Your favorite tumblr for the next 5 minutes (26): Garfbert"
 date: "2013-12-20"
-datetime: "2013-12-20 12:29:32"
+published_at: "2013-12-20T11:29:32Z"
 id: "26464"
 slug: "your-favorite-tumblr-for-the-next-5-minutes-26-garfbert"
-url: "https://eay.cc/2013/your-favorite-tumblr-for-the-next-5-minutes-26-garfbert/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2013/your-favorite-tumblr-for-the-next-5-minutes-26-garfbert/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - comics
-  - dilbert
-  - fanart
-  - garfield
-  - mashup
-  - webcomic
-  - your-favorite-tumblr-for-the-next-5-minutes
-meta:
-  - yourls_shorturl: "https://eay.li/2az"
+  - "comics"
+  - "dilbert"
+  - "fanart"
+  - "garfield"
+  - "mashup"
+  - "webcomic"
+  - "your favorite tumblr for the next 5 minutes"
+short_url: "https://eay.li/2az"
 ---
 
 ![](https://eay.cc/uploads/2013/garfbert1.gif) ![](https://eay.cc/uploads/2013/garfbert2.gif)

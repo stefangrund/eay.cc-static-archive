@@ -1,31 +1,29 @@
 ---
 title: "The Magic Highlighter"
 date: "2023-04-25"
-datetime: "2023-04-25 22:51:48"
+published_at: "2023-04-25T21:51:48Z"
 id: "38556"
 slug: "the-magic-highlighter"
-url: "https://eay.cc/2023/the-magic-highlighter/"
-author: "eay"
+permalink: "https://eay.cc/2023/the-magic-highlighter/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
-  - english
+  - "08/15"
+  - "English"
 tags:
-  - apps
-  - browser
-  - ios
-  - safari
-meta:
-  - linked_list_url: "https://themagichighlighter.com/blog/introducing-the-magic-highlighter/"
-  - geo_latitude: "50.973808"
-  - geo_longitude: "6.683077"
-  - geo_public: "1"
-  - yourls_shorturl: "https://eay.li/3m3"
-  - content_copy: "https://eay.social/@eay/110261667078231024"
-  - linked_list_og-title: "Introducing The Magic Highlighter"
-  - linked_list_og-description: "Friends don’t let friends use old-fashioned ⌘-F."
-  - linked_list_og-image: "https://eay.cc/wordpress/uploads/og-cache/8d0006a7851d3e03e9b91197b5ae3764.webp"
+  - "apps"
+  - "browser"
+  - "ios"
+  - "safari"
+external_url: "https://themagichighlighter.com/blog/introducing-the-magic-highlighter/"
+short_url: "https://eay.li/3m3"
+content_copy:
+  - "https://eay.social/@eay/110261667078231024"
+geo_latitude: "50.973808"
+geo_longitude: "6.683077"
 ---
+
+[Link →](https://themagichighlighter.com/blog/introducing-the-magic-highlighter/)
 
 > The Magic Highlighter is a brand new Safari Extension for iPhone, iPad, and Mac that automatically highlights search terms and phrases on search result web pages.
 

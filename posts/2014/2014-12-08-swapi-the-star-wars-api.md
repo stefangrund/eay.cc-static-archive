@@ -1,24 +1,25 @@
 ---
 title: "SWAPI, The Star Wars API"
 date: "2014-12-08"
-datetime: "2014-12-08 19:03:09"
+published_at: "2014-12-08T18:03:09Z"
 id: "29523"
 slug: "swapi-the-star-wars-api"
-url: "https://eay.cc/2014/swapi-the-star-wars-api/"
-author: "eay"
+permalink: "https://eay.cc/2014/swapi-the-star-wars-api/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - api
-  - development
-  - fanart
-  - filme
-  - star-wars
-meta:
-  - linked_list_url: "http://swapi.co/"
-  - yourls_shorturl: "https://eay.li/2lh"
+  - "api"
+  - "development"
+  - "fanart"
+  - "filme"
+  - "star wars"
+external_url: "http://swapi.co/"
+short_url: "https://eay.li/2lh"
 ---
+
+[Link →](http://swapi.co/)
 
 > The Star Wars API will provide a RESTful API for Planets, People, Starships, Vehicles, Species and Films from the six major Star Wars films.
 

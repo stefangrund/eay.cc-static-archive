@@ -1,18 +1,17 @@
 ---
 title: "Aaaand it's done!"
 date: "2016-06-23"
-datetime: "2016-06-23 23:55:28"
+published_at: "2016-06-23T21:55:28Z"
 id: "31622"
 slug: "aaaand-its-done"
-url: "https://eay.cc/2016/aaaand-its-done/"
-author: "eay"
+permalink: "https://eay.cc/2016/aaaand-its-done/"
+author: "Stefan Grund"
 format: "aside"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - backup
-meta:
-  - yourls_shorturl: "https://eay.li/2uf"
+  - "backup"
+short_url: "https://eay.li/2uf"
 ---
 
 Aaaand it's done!

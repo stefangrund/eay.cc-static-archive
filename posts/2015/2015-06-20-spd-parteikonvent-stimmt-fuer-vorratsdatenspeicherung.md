@@ -1,25 +1,26 @@
 ---
 title: "SPD-Parteikonvent stimmt für Vorratsdatenspeicherung"
 date: "2015-06-20"
-datetime: "2015-06-20 18:44:52"
+published_at: "2015-06-20T16:44:52Z"
 id: "30633"
 slug: "spd-parteikonvent-stimmt-fuer-vorratsdatenspeicherung"
-url: "https://eay.cc/2015/spd-parteikonvent-stimmt-fuer-vorratsdatenspeicherung/"
-author: "eay"
+permalink: "https://eay.cc/2015/spd-parteikonvent-stimmt-fuer-vorratsdatenspeicherung/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - deutschland
-  - netzkultur
-  - politik
-  - spd
-  - ueberwachung
-  - vorratsdatenspeicherung
-meta:
-  - linked_list_url: "https://netzpolitik.org/2015/spd-parteikonvent-stimmt-fuer-vorratsdatenspeicherung/"
-  - yourls_shorturl: "https://eay.li/2op"
+  - "deutschland"
+  - "netzkultur"
+  - "politik"
+  - "spd"
+  - "überwachung"
+  - "vorratsdatenspeicherung"
+external_url: "https://netzpolitik.org/2015/spd-parteikonvent-stimmt-fuer-vorratsdatenspeicherung/"
+short_url: "https://eay.li/2op"
 ---
+
+[Link →](https://netzpolitik.org/2015/spd-parteikonvent-stimmt-fuer-vorratsdatenspeicherung/)
 
 Sie ist wieder da! [Netzpolitik.org](https://netzpolitik.org/2015/spd-parteikonvent-stimmt-fuer-vorratsdatenspeicherung/):
 
@@ -28,5 +29,5 @@ Sie ist wieder da! [Netzpolitik.org](https://netzpolitik.org/2015/spd-parteikonv
 Christian Stöckers Fazit dazu [auf SpOn](http://m.spiegel.de/netzwelt/netzpolitik/a-1039891.html):
 
 > Die Freiheit aller wird eingeschränkt, damit man sich im Fall der Fälle nicht vorwerfen lassen muss, man habe sie nicht rechtzeitig eingeschränkt.
-> 
+>
 > Man könnte es auch so formulieren: Die Terroristen haben schon gewonnen.

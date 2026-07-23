@@ -1,21 +1,20 @@
 ---
 title: "Attack of the Film-Fanboys"
 date: "2007-05-07"
-datetime: "2007-05-07 12:55:45"
+published_at: "2007-05-07T10:55:45Z"
 id: "86"
 slug: "attack-of-the-film-fanboys"
-url: "https://eay.cc/2007/attack-of-the-film-fanboys/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2007/attack-of-the-film-fanboys/"
+author: "Stefan Grund"
+format: "standard"
 tags:
-  - dvd
-  - fanboys
-  - filme
-  - spiderman
-  - stoeckchen
-  - zombies
-meta:
-  - yourls_shorturl: "https://eay.li/rp"
+  - "dvd"
+  - "fanboys"
+  - "filme"
+  - "spiderman"
+  - "stöckchen"
+  - "zombies"
+short_url: "https://eay.li/rp"
 ---
 
 Aus Richtung des [Affenheimtheaters](http://blog.affenheimtheater.de/2007/05/01/filmstoeckchen-2/) habe ich ein Filmstöckchen erhalten. Und daher geht's im folgenden um Filme, die ich mag, Filme, bei denen ich geweint habe, erste Filme, letzte Filme, Filme, die ich im dunkeln geguckt habe, Filme, die ich nicht geguckt habe und Filme, bei denen ich mitgesunden habe. Nicht zu vergessen: Popcorn!
@@ -28,7 +27,7 @@ Aus Richtung des [Affenheimtheaters](http://blog.affenheimtheater.de/2007/05/01/
 
 **Ein Film, aus dem Du regelmäßig zitierstâ¦** Tu ich nicht, weil auf große Kraft große Verantwortung folgt.
 
-**Ein Film-Musical, von dem Du alle Texte der Songs auswendig weißtâ¦** [Spider-Man 3](//eay.cc/2007/der-tanzende-peter-parker/)! Nee, ich hab noch nix für Musicals übrig.
+**Ein Film-Musical, von dem Du alle Texte der Songs auswendig weißtâ¦** [Spider-Man 3](https://eay.cc/2007/der-tanzende-peter-parker/)! Nee, ich hab noch nix für Musicals übrig.
 
 **Ein Film, bei dem Du mitgesungen hastâ¦** Spider-Man 3! [Awesome: I fuckin' shot that!](http://www.imdb.com/title/tt0488953/), the Beastie Boys Movie.
 
@@ -50,9 +49,9 @@ Aus Richtung des [Affenheimtheaters](http://blog.affenheimtheater.de/2007/05/01/
 
 **Popcorn?** Nein. Nur M&M's und Nachos mit Käse und Pepperonis.
 
-**Wie oft gehst Du ins Kino?** Da Freundin+ich [offensichtlich](//eay.cc/uploads/2007/spiderman3.jpg) die Financiers der deutschen Filmindustrie sind, gehen wir [so ziemlich jede Woche](//eay.cc/themen/kinolog/) ein mal ins Lichtspielhaus. Arbeitsplätze sichern. Einer muss es ja tun.
+**Wie oft gehst Du ins Kino?** Da Freundin+ich [offensichtlich](https://eay.cc/uploads/2007/spiderman3.jpg) die Financiers der deutschen Filmindustrie sind, gehen wir [so ziemlich jede Woche](https://eay.cc/themen/kinolog/) ein mal ins Lichtspielhaus. Arbeitsplätze sichern. Einer muss es ja tun.
 
-**Welchen Film hast Du zuletzt im Kino gesehen?** Spider-Man 3, [war super](//eay.cc/2007/der-tanzende-peter-parker/)...
+**Welchen Film hast Du zuletzt im Kino gesehen?** Spider-Man 3, [war super](https://eay.cc/2007/der-tanzende-peter-parker/)...
 
 **Welches ist Dein Lieblingsgenre?** Ich guck eigentlich alles ganz gerne. Kommt halt auf den Film im einzelnen an, wa?
 

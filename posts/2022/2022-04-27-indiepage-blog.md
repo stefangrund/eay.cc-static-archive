@@ -1,28 +1,29 @@
 ---
 title: "indieblog.page"
 date: "2022-04-27"
-datetime: "2022-04-27 23:37:46"
+published_at: "2022-04-27T21:37:46Z"
 id: "37927"
 slug: "indiepage-blog"
-url: "https://eay.cc/2022/indiepage-blog/"
-author: "eay"
+permalink: "https://eay.cc/2022/indiepage-blog/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - blogging
-  - indieweb
-  - netzkultur
-  - social-web
-meta:
-  - linked_list_url: "https://indieblog.page/"
-  - geo_latitude: "50.973805"
-  - geo_longitude: "6.683061"
-  - geo_public: "1"
-  - yourls_shorturl: "https://eay.li/3hu"
-  - content_copy: "https://eay.social/@eay/108206217186667806"
-  - content_copy: "https://twitter.com/eay/status/1519431561862602755"
+  - "blogging"
+  - "indieweb"
+  - "netzkultur"
+  - "social web"
+external_url: "https://indieblog.page/"
+short_url: "https://eay.li/3hu"
+content_copy:
+  - "https://eay.social/@eay/108206217186667806"
+  - "https://twitter.com/eay/status/1519431561862602755"
+geo_latitude: "50.973805"
+geo_longitude: "6.683061"
 ---
+
+[Link →](https://indieblog.page/)
 
 > Discover the IndieWeb, one blog post at a time.
 

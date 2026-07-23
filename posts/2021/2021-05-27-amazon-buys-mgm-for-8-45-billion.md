@@ -1,22 +1,23 @@
 ---
 title: "Amazon buys MGM for $8.45 billion"
 date: "2021-05-27"
-datetime: "2021-05-27 02:29:04"
+published_at: "2021-05-27T00:29:04Z"
 id: "37310"
 slug: "amazon-buys-mgm-for-8-45-billion"
-url: "https://eay.cc/2021/amazon-buys-mgm-for-8-45-billion/"
-author: "eay"
+permalink: "https://eay.cc/2021/amazon-buys-mgm-for-8-45-billion/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - amazon
-  - filmindustrie
-  - streaming
-meta:
-  - linked_list_url: "https://www.theverge.com/2021/5/26/22441644/amazon-mgm-acquisition-prime-video-subscription-service-james-bond"
-  - yourls_shorturl: "https://eay.li/2o7"
+  - "amazon"
+  - "filmindustrie"
+  - "streaming"
+external_url: "https://www.theverge.com/2021/5/26/22441644/amazon-mgm-acquisition-prime-video-subscription-service-james-bond"
+short_url: "https://eay.li/2o7"
 ---
+
+[Link →](https://www.theverge.com/2021/5/26/22441644/amazon-mgm-acquisition-prime-video-subscription-service-james-bond)
 
 > Amazon has [reached a deal](https://press.aboutamazon.com/news-releases/news-release-details/amazon-and-mgm-have-signed-agreement-amazon-acquire-mgm) to acquire the film and TV company MGM for $8.45 billion, the companies announced today. It’s a significant acquisition for the e-commerce giant, and it means it will own a library of content that’s reported to consist of around [4,000 films and 17,000 hours of TV](https://www.theguardian.com/business/2020/dec/22/hollywood-giant-mgm-puts-itself-up-for-sale-at-5bn). The acquisition is likely to help Amazon attract even more big-spending Prime subscribers as its Prime Video service competes with the likes of Netflix and Disney Plus.
 

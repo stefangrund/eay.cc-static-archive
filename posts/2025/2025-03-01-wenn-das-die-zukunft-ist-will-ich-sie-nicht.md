@@ -1,31 +1,30 @@
 ---
 title: "Wenn das die Zukunft ist, will ich sie nicht"
 date: "2025-03-01"
-datetime: "2025-03-01 11:11:20"
+published_at: "2025-03-01T10:11:20Z"
 id: "40243"
 slug: "wenn-das-die-zukunft-ist-will-ich-sie-nicht"
-url: "https://eay.cc/2025/wenn-das-die-zukunft-ist-will-ich-sie-nicht/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2025/wenn-das-die-zukunft-ist-will-ich-sie-nicht/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - best-of
-  - btw25
-  - bundestagswahl
-  - deutschland
-  - donald-trump
-  - europa
-  - politik
-  - russland
-  - ukraine
-  - usa
-meta:
-  - geo_latitude: "50.973814"
-  - geo_longitude: "6.682961"
-  - geo_public: "1"
-  - yourls_shorturl: "https://eay.li/3uo"
-  - _share_on_mastodon_url: "https://eay.social/@eay/114086743306728726"
+  - "best of"
+  - "btw25"
+  - "bundestagswahl"
+  - "deutschland"
+  - "donald trump"
+  - "europa"
+  - "politik"
+  - "russland"
+  - "ukraine"
+  - "usa"
+short_url: "https://eay.li/3uo"
+content_copy:
+  - "https://eay.social/@eay/114086743306728726"
+geo_latitude: "50.973814"
+geo_longitude: "6.682961"
 ---
 
 Erwartungsgemäß hat die von Friedrich Merz geführte und von Markus Söder flankierte Union am Sonntag [den Wahlabend gewonnen](https://www.bundeswahlleiterin.de/bundestagswahlen/2025/ergebnisse/bund-99.html): 28%. Die AfD wurde – nach der Wahlempfehlung von jedem rechten Spinner weltweit – mit 20% zweitstärkste Kraft. Die Ampelparteien schwächeln irgendwo dahinter, die FDP verliert [zu Recht ihre "offene Feldschlacht"](https://eay.cc/2024/christian-lindner-das-liberale-drehbuch-fuer-den-regierungssturz/) und verpasst die 5%-Hürde. Staats­streichler Christian Lindner beendet seine politische Karriere, die Chefin der Grünen Jugend macht einen [Super-Gag auf seine Kosten](https://x.com/jetteniz/status/1893781958108319970) und erntet dafür meiner Meinung nach [zu Unrecht Kritik](https://www.spiegel.de/politik/deutschland/jette-nietzard-schiesst-gegen-christian-lindner-empoerung-ueber-post-der-gruene-jugend-chefin-a-025d8bb4-0c10-4722-b37f-7908e5d2c51a).

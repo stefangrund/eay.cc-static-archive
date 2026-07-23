@@ -1,21 +1,20 @@
 ---
 title: "Retro-Gaming on real backgrounds"
 date: "2008-06-28"
-datetime: "2008-06-28 21:10:42"
+published_at: "2008-06-28T19:10:42Z"
 id: "583"
 slug: "retro-gaming-on-real-backgrounds"
-url: "https://eay.cc/2008/retro-gaming-on-real-backgrounds/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2008/retro-gaming-on-real-backgrounds/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - 0815
-  - the-others
+  - "08/15"
+  - "The Others"
 tags:
-  - fanart
-  - games
-  - retro
-meta:
-  - yourls_shorturl: "https://eay.li/dg"
+  - "fanart"
+  - "games"
+  - "retro"
+short_url: "https://eay.li/dg"
 ---
 
-![](/uploads/2008/realvideogames.jpg) [Hier gibt's](http://www.fubiz.net/blog/index.php?2008/06/24/1820-retro-gaming-on-real-backgrounds) Mario, Donkey Kong, Street Fighter und Advance Wars in der echten Welt.
+![](https://eay.cc/uploads/2008/realvideogames.jpg) [Hier gibt's](http://www.fubiz.net/blog/index.php?2008/06/24/1820-retro-gaming-on-real-backgrounds) Mario, Donkey Kong, Street Fighter und Advance Wars in der echten Welt.

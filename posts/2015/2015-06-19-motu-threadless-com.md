@@ -1,24 +1,25 @@
 ---
 title: "motu.threadless.com"
 date: "2015-06-19"
-datetime: "2015-06-19 22:47:09"
+published_at: "2015-06-19T20:47:09Z"
 id: "30630"
 slug: "motu-threadless-com"
-url: "https://eay.cc/2015/motu-threadless-com/"
-author: "eay"
+permalink: "https://eay.cc/2015/motu-threadless-com/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - fanboys
-  - he-man
-  - konsum
-  - motu
-  - tshirt
-meta:
-  - linked_list_url: "https://motu.threadless.com/"
-  - yourls_shorturl: "https://eay.li/2on"
+  - "fanboys"
+  - "he-man"
+  - "konsum"
+  - "motu"
+  - "tshirt"
+external_url: "https://motu.threadless.com/"
+short_url: "https://eay.li/2on"
 ---
+
+[Link →](https://motu.threadless.com/)
 
 [![](https://eay.cc/uploads/2015/threadless_motu.jpg)](https://motu.threadless.com/)
 

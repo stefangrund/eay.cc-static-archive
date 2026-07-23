@@ -1,26 +1,25 @@
 ---
 title: "Bestes kleines Accessoire. 🥰"
 date: "2022-11-16"
-datetime: "2022-11-16 21:30:30"
+published_at: "2022-11-16T19:30:30Z"
 id: "38214"
 slug: "bestes-kleines-accessoire"
-url: "https://eay.cc/2022/bestes-kleines-accessoire/"
-author: "eay"
+permalink: "https://eay.cc/2022/bestes-kleines-accessoire/"
+author: "Stefan Grund"
 format: "image"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - analogleben
-  - ariane
-  - best-of
-meta:
-  - geo_latitude: "50.973825"
-  - geo_longitude: "6.683035"
-  - geo_public: "1"
-  - yourls_shorturl: "https://eay.li/3k0"
-  - content_copy: "https://www.instagram.com/p/ClCHxtfsl2t/"
-  - content_copy: "https://eay.social/@eay/109355123025816603"
-  - content_copy: "https://twitter.com/eay/status/1592960150331179008"
+  - "analogleben"
+  - "ariane"
+  - "best of"
+short_url: "https://eay.li/3k0"
+content_copy:
+  - "https://www.instagram.com/p/ClCHxtfsl2t/"
+  - "https://eay.social/@eay/109355123025816603"
+  - "https://twitter.com/eay/status/1592960150331179008"
+geo_latitude: "50.973825"
+geo_longitude: "6.683035"
 ---
 
 ![](https://eay.cc/uploads/2022/bestes-kleines-accessoire.jpg)

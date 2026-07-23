@@ -1,28 +1,24 @@
 ---
 title: "Seating possibilities at #btconf."
 date: "2018-05-08"
-datetime: "2018-05-08 20:00:29"
+published_at: "2018-05-08T18:00:29Z"
 id: "34605"
 slug: "seating-possibilities-at-btconf"
-url: "https://eay.cc/2018/seating-possibilities-at-btconf/"
-author: "eay"
+permalink: "https://eay.cc/2018/seating-possibilities-at-btconf/"
+author: "Stefan Grund"
 format: "image"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - beyond-tellerrand
-  - fotos
-  - html
-  - konferenz
-meta:
-  - content_copy: "https://instagram.com/p/Biht7HABxsW/"
-  - yourls_shorturl: "https://eay.li/353"
-  - geo_latitude: "51.223639"
-  - geo_longitude: "6.799466"
-  - geo_public: "1"
-  - geo_latitude: "51.223639"
-  - geo_longitude: "6.799466"
-  - geo_public: "1"
+  - "beyond tellerrand"
+  - "fotos"
+  - "html"
+  - "konferenz"
+short_url: "https://eay.li/353"
+content_copy:
+  - "https://instagram.com/p/Biht7HABxsW/"
+geo_latitude: "51.223639"
+geo_longitude: "6.799466"
 ---
 
 ![](https://eay.cc/uploads/2018/i-need-a-br.jpeg)

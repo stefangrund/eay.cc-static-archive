@@ -1,29 +1,28 @@
 ---
 title: "Free Wile E."
 date: "2026-04-22"
-datetime: "2026-04-22 22:54:41"
+published_at: "2026-04-22T20:54:41Z"
 id: "41875"
 slug: "free-wile-e"
-url: "https://eay.cc/2026/free-wile-e/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2026/free-wile-e/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - bizarres
-  - filme
-  - looney-tunes
-  - warner-bros
-meta:
-  - geo_latitude: "50.973819"
-  - geo_longitude: "6.683055"
-  - geo_public: "1"
-  - yourls_shorturl: "https://eay.li/41e"
-  - _share_on_mastodon_url: "https://eay.social/@eay/116450392020383884"
-  - content_copy: "https://bsky.app/profile/eay.social/post/3mk4fsoz25r2t"
+  - "bizarres"
+  - "filme"
+  - "looney tunes"
+  - "warner bros."
+short_url: "https://eay.li/41e"
+content_copy:
+  - "https://bsky.app/profile/eay.social/post/3mk4fsoz25r2t"
+  - "https://eay.social/@eay/116450392020383884"
+geo_latitude: "50.973819"
+geo_longitude: "6.683055"
 ---
 
-[youtube id="H-43VeYGiPM"]
+\[youtube id="H-43VeYGiPM"\]
 
 In dem Live-Action-Animations-Mashup »[Coyote vs. Acme](https://www.imdb.com/de/title/tt1756855/)« verklagt [Wile E. Coyote](https://en.wikipedia.org/wiki/Wile_E._Coyote_and_the_Road_Runner) die [Acme Corporation](https://en.wikipedia.org/wiki/Acme_Corporation), nachdem die Nutzung ihrer Produkte beim Versuch, den Road Runner einzufangen, bekanntlich regelmäßig in Katastrophen endet.
 

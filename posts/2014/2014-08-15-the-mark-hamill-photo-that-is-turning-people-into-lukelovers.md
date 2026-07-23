@@ -1,23 +1,22 @@
 ---
 title: "The Mark Hamill photo that is turning people into Lukelovers"
 date: "2014-08-15"
-datetime: "2014-08-15 11:40:37"
+published_at: "2014-08-15T09:40:37Z"
 id: "28834"
 slug: "the-mark-hamill-photo-that-is-turning-people-into-lukelovers"
-url: "https://eay.cc/2014/the-mark-hamill-photo-that-is-turning-people-into-lukelovers/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2014/the-mark-hamill-photo-that-is-turning-people-into-lukelovers/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - episode-7
-  - filme
-  - mark-hamill
-  - star-wars
-meta:
-  - yourls_shorturl: "https://eay.li/2ja"
+  - "episode 7"
+  - "filme"
+  - "mark hamill"
+  - "star wars"
+short_url: "https://eay.li/2ja"
 ---
 
-<iframe src="//instagram.com/p/rpj5ckQ_7v/embed/" width="612" height="612" frameborder="0" scrolling="no" allowtransparency="true"></iframe>
+[Embedded content](https://instagram.com/p/rpj5ckQ_7v/embed/)
 
 (Headline und Bild via [Club Jade](http://clubjade.net/?p=60181))

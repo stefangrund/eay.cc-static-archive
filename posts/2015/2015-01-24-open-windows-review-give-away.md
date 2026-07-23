@@ -1,21 +1,20 @@
 ---
 title: "Open Windows – Review + Give-Away"
 date: "2015-01-24"
-datetime: "2015-01-24 09:20:37"
+published_at: "2015-01-24T08:20:37Z"
 id: "30103"
 slug: "open-windows-review-give-away"
-url: "https://eay.cc/2015/open-windows-review-give-away/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2015/open-windows-review-give-away/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - netzkultur
-  - rezension
-  - thriller
-  - ueberwachung
-meta:
-  - yourls_shorturl: "https://eay.li/2mq"
+  - "netzkultur"
+  - "rezension"
+  - "thriller"
+  - "überwachung"
+short_url: "https://eay.li/2mq"
 ---
 
 ![](https://eay.cc/uploads/movies/open-windows_2014.jpg)Das Fanleben ist wahrlich kein leichtes: Einmal verguckt, sammelt und verfolgt man bedingungslos alles, was Star und Medien hergeben. Meist ohne Gegenleistung und spätestens beim Aufeinandertreffen mit seinem Idol (oder beim Release des nächsten ach-so-innovativen Albums) regelmäßig eine große Enttäuschung.
@@ -32,4 +31,4 @@ Wer darüber hinwegsehen kann, bekommt einen gut unterhaltenden und vor allem in
 
 _»Open Windows« erscheint am 27.1. bei [Maritim Pictures](http://maritim-pictures.de/) auf DVD und Blu-ray. Hier der [Trailer auf YouTube](https://www.youtube.com/watch?v=nNij7AMA6qI). Von [Firstview PR](http://www.firstview-pr.de/) wurde mir freundlicherweise ein Rezensionsexemplar zur Verfügung gestellt._
 
-**Give-Away:** Wer uns seinen Lieblingsfilm von Sasha Grey verrät am Sonntag (25.01.) um 13:37 Uhr als erstes [hier kommentiert](//eay.cc/2015/open-windows-review-give-away/#comments) bzw. diesem Zeitpunkt mit seinem Kommentar am nächsten kommt, bekommt »Open Windows« auf DVD zugeschickt. Zur Adressnachfrage bitte eine erreichbare Email-Adresse angeben.
+**Give-Away:** Wer uns seinen Lieblingsfilm von Sasha Grey verrät am Sonntag (25.01.) um 13:37 Uhr als erstes [hier kommentiert](https://eay.cc/2015/open-windows-review-give-away/#comments) bzw. diesem Zeitpunkt mit seinem Kommentar am nächsten kommt, bekommt »Open Windows« auf DVD zugeschickt. Zur Adressnachfrage bitte eine erreichbare Email-Adresse angeben.

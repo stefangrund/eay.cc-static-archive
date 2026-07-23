@@ -1,27 +1,28 @@
 ---
 title: "Achtung, Fisting-Attacken!"
 date: "2009-10-07"
-datetime: "2009-10-07 19:04:44"
+published_at: "2009-10-07T17:04:44Z"
 id: "9588"
 slug: "achtung-fisting-attacken"
-url: "https://eay.cc/2009/achtung-fisting-attacken/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2009/achtung-fisting-attacken/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - email
-  - fernsehen
-  - netzkultur
-  - phishing
-  - zdf
-meta:
-  - yourls_shorturl: "https://eay.li/e6"
+  - "email"
+  - "fernsehen"
+  - "netzkultur"
+  - "phishing"
+  - "zdf"
+short_url: "https://eay.li/e6"
 ---
 
 > Auch die Konzerne Yahoo und Google sind Opfer sogenannter Fisting-Attacken geworden.
 
 Da kommt man von der Arbeit, ahnt nichts böses, liest überall von Fisting-Attacken, ohne zu wissen, was sich dahinter verbirgt, öffnet das entsprechende Video und dann sowas: das ZDF berichtet von Fisting-Attacken auf die Gmail & Co. - Kinders, habe ich mich weggeschmissen! (Und dann direkt mal meine Passwörter geändert, damit mir eine solche Attacke erspart bleibt.)
+
+[Embedded content](http://www.youtube.com/v/USMQq5crkaY&hl=de&fs=1&)
 
  ([YouTube Direktfisting](http://www.youtube.com/watch?v=USMQq5crkaY), via so ziemlich jedem Twitter-Account)
 

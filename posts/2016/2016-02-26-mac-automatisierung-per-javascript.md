@@ -1,22 +1,21 @@
 ---
 title: "Mac-Automatisierung per JavaScript"
 date: "2016-02-26"
-datetime: "2016-02-26 23:33:40"
+published_at: "2016-02-26T22:33:40Z"
 id: "31269"
 slug: "mac-automatisierung-per-javascript"
-url: "https://eay.cc/2016/mac-automatisierung-per-javascript/"
-author: "eay"
+permalink: "https://eay.cc/2016/mac-automatisierung-per-javascript/"
+author: "Stefan Grund"
 format: "aside"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - applescript
-  - automation
-  - imessage
-  - javascript
-  - mac
-meta:
-  - yourls_shorturl: "https://eay.li/2rr"
+  - "applescript"
+  - "automation"
+  - "imessage"
+  - "javascript"
+  - "mac"
+short_url: "https://eay.li/2rr"
 ---
 
 Habe mich heute mal an der Mac-Automatisierung per JavaScript versucht (guter Einstiegspunkt ist das [JXA-Cookbook](https://github.com/dtinth/JXA-Cookbook/wiki)). Das ganze Unterfangen war allerdings ziemlich ernüchternd, da die Dokumentation innerhalb des [Skript-Editors](https://en.wikipedia.org/wiki/AppleScript_Editor) sehr unvollständig ist und die Schnittstellen teilweise einfach nicht funktionieren.

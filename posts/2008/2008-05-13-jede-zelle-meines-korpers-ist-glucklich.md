@@ -1,20 +1,21 @@
 ---
 title: "Jede Zelle meines Körpers ist glücklich"
 date: "2008-05-13"
-datetime: "2008-05-13 13:25:11"
+published_at: "2008-05-13T11:25:11Z"
 id: "518"
 slug: "jede-zelle-meines-korpers-ist-glucklich"
-url: "https://eay.cc/2008/jede-zelle-meines-korpers-ist-glucklich/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2008/jede-zelle-meines-korpers-ist-glucklich/"
+author: "Stefan Grund"
+format: "standard"
 tags:
-  - bizarres
-  - musik
-meta:
-  - yourls_shorturl: "https://eay.li/a2"
+  - "bizarres"
+  - "musik"
+short_url: "https://eay.li/a2"
 ---
 
 Ein Lied über jede Zelle an jeder Stelle, die voll gut drauf ist. Ich höre beim GTA IV spielen praktisch nichts anderes mehr. Find ich so schön passend. Ja, das könnte der Sommerhit 2008 werden. Must-See-Glücksvideo nach dem Klick.
+
+[Embedded content](http://www.youtube.com/v/ZTjyRu88PRE&hl=en)
 
  ([YouTube Direktglück](http://www.youtube.com/watch?v=ZTjyRu88PRE))
 

@@ -1,29 +1,30 @@
 ---
 title: "Die Animationsfilme von Don Hertzfeldt"
 date: "2010-01-04"
-datetime: "2010-01-04 11:45:50"
+published_at: "2010-01-04T10:45:50Z"
 id: "10840"
 slug: "die-animationsfilme-von-don-hertzfeldt"
-url: "https://eay.cc/2010/die-animationsfilme-von-don-hertzfeldt/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2010/die-animationsfilme-von-don-hertzfeldt/"
+author: "Stefan Grund"
+format: "standard"
 tags:
-  - 00er
-  - animation
-  - animationsfilm
-  - best-of
-  - blogging
-  - don-hertzfeldt
-  - filme
-  - kurzfilm
-  - oscar-nominiert
-meta:
-  - yourls_shorturl: "https://eay.li/5x"
+  - "00er"
+  - "animation"
+  - "animationsfilm"
+  - "best of"
+  - "blogging"
+  - "don hertzfeldt"
+  - "filme"
+  - "kurzfilm"
+  - "oscar-nominiert"
+short_url: "https://eay.li/5x"
 ---
 
-Auch wenn wir ständig [nur hin und her verlinken](//eay.cc/2010/diy-or-die/), einen gewissen Charme haben Blogs auch 2010 noch. Nehmen wir zum Beispiel das hiesige [.gif der Woche](//eay.cc/tag/gif-der-woche/): In den Tiefen des Netzes finde ich sehenswerte .gifs, die ich zum allgemeinen Amüsement hier weiterverbreite. Meistens lassen sich Urheber oder Ursprungsmaterial jedoch nicht allzu leicht ausmachen - hier aber kommt _der Blogzauber_ ins Spiel. Während ich [das letzte .gif der Woche](//eay.cc/2009/gif-der-woche-34/) einfach nur ulkig fand, kannte sich einer meiner Leser, namentlich Mo, besser aus und machte mich dankenswerterweise [per Kommentar](//eay.cc/2009/gif-der-woche-34/#comment-16789) darauf aufmerksam, dass es einem Kurzfilm entliehen wurde.
+Auch wenn wir ständig [nur hin und her verlinken](https://eay.cc/2010/diy-or-die/), einen gewissen Charme haben Blogs auch 2010 noch. Nehmen wir zum Beispiel das hiesige [.gif der Woche](https://eay.cc/tag/gif-der-woche/): In den Tiefen des Netzes finde ich sehenswerte .gifs, die ich zum allgemeinen Amüsement hier weiterverbreite. Meistens lassen sich Urheber oder Ursprungsmaterial jedoch nicht allzu leicht ausmachen - hier aber kommt _der Blogzauber_ ins Spiel. Während ich [das letzte .gif der Woche](https://eay.cc/2009/gif-der-woche-34/) einfach nur ulkig fand, kannte sich einer meiner Leser, namentlich Mo, besser aus und machte mich dankenswerterweise [per Kommentar](https://eay.cc/2009/gif-der-woche-34/#comment-16789) darauf aufmerksam, dass es einem Kurzfilm entliehen wurde.
 
 Und siehe da: die nächsten zwei, drei Stunden sitzt yours truly vor seinem Rechner und führt sich das Gesamtwerk des - wie ich mittlerweile auch finde - großartigen Animationskünstlers [Don Hertzfeldt](http://en.wikipedia.org/wiki/Don_Hertzfeldt) vor Augen. Genanntes .gif stammt nämlich aus seinem Oscar nominierten Animationskurzfilm [Rejected](http://www.imdb.com/title/tt0234588/) von 2000, der trotz diverser universitärer Animationsseminare irgendwie an mir vorüber ging und den ihr euch im folgenden direkt ansehen könnt und solltet:
+
+[Embedded content](http://www.youtube.com/v/MuOvqeABHvQ&hl=de_DE&fs=1&)
 
  ([YouTube Direktrejected](http://www.youtube.com/watch?v=MuOvqeABHvQ))
 

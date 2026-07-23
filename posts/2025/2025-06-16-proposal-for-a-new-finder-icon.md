@@ -1,30 +1,28 @@
 ---
 title: "Proposal For A New Finder Icon"
 date: "2025-06-16"
-datetime: "2025-06-16 23:11:32"
+published_at: "2025-06-16T21:11:32Z"
 id: "40499"
 slug: "proposal-for-a-new-finder-icon"
-url: "https://eay.cc/2025/proposal-for-a-new-finder-icon/"
-author: "eay"
+permalink: "https://eay.cc/2025/proposal-for-a-new-finder-icon/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - apple
-  - design
-  - mac
-meta:
-  - linked_list_url: "https://www.dgriffinjones.com/extraordinary/proposal-for-a-new-finder-icon.html"
-  - geo_latitude: "50.973834"
-  - geo_longitude: "6.682993"
-  - geo_public: "1"
-  - yourls_shorturl: "https://eay.li/3vx"
-  - _share_on_mastodon_url: "https://eay.social/@eay/114695097112067713"
-  - linked_list_og-title: "Proposal For A New Finder Icon"
-  - linked_list_og-description: "I would like to present, in response to the widely criticized Finder icon in macOS Tahoe Developer Beta 1, the icon I created in literally fifteen minutes."
-  - linked_list_og-image: "https://eay.cc/wordpress/uploads/og-cache/aa0b1dd1fbab3453e20321cd40f56d4c_upload.webp"
-  - content_copy: "https://bsky.app/profile/eay.social/post/3lrqvjap4mf26"
+  - "apple"
+  - "design"
+  - "mac"
+external_url: "https://www.dgriffinjones.com/extraordinary/proposal-for-a-new-finder-icon.html"
+short_url: "https://eay.li/3vx"
+content_copy:
+  - "https://bsky.app/profile/eay.social/post/3lrqvjap4mf26"
+  - "https://eay.social/@eay/114695097112067713"
+geo_latitude: "50.973834"
+geo_longitude: "6.682993"
 ---
+
+[Link →](https://www.dgriffinjones.com/extraordinary/proposal-for-a-new-finder-icon.html)
 
 > Apple could very easily keep the icon’s historical appearance without compromising the Liquid Glass aesthetic by just… flipping the color palette.
 

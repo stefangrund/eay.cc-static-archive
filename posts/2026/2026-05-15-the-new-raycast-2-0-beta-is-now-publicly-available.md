@@ -1,31 +1,29 @@
 ---
 title: "The New Raycast (2.0 Beta is now publicly available)"
 date: "2026-05-15"
-datetime: "2026-05-15 23:59:13"
+published_at: "2026-05-15T21:59:13Z"
 id: "42002"
 slug: "the-new-raycast-2-0-beta-is-now-publicly-available"
-url: "https://eay.cc/2026/the-new-raycast-2-0-beta-is-now-publicly-available/"
-author: "eay"
+permalink: "https://eay.cc/2026/the-new-raycast-2-0-beta-is-now-publicly-available/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - apps
-  - mac
-  - raycast
-  - windows
-meta:
-  - linked_list_url: "https://www.raycast.com/blog/the-new-raycast"
-  - geo_latitude: "50.973834"
-  - geo_longitude: "6.683019"
-  - geo_public: "1"
-  - linked_list_og-title: "The New Raycast - Raycast Blog"
-  - linked_list_og-description: "Introducing the next generation of Raycast for macOS."
-  - linked_list_og-image: "https://eay.cc/wordpress/uploads/og-cache/3c08ddf8b08aa5038b5cd98aae424935.webp"
-  - yourls_shorturl: "https://eay.li/423"
-  - _share_on_mastodon_url: "https://eay.social/@eay/116580852415613570"
-  - content_copy: "https://bsky.app/profile/eay.social/post/3mlwdqtyjv72h"
+  - "apps"
+  - "mac"
+  - "raycast"
+  - "windows"
+external_url: "https://www.raycast.com/blog/the-new-raycast"
+short_url: "https://eay.li/423"
+content_copy:
+  - "https://bsky.app/profile/eay.social/post/3mlwdqtyjv72h"
+  - "https://eay.social/@eay/116580852415613570"
+geo_latitude: "50.973834"
+geo_longitude: "6.683019"
 ---
+
+[Link →](https://www.raycast.com/blog/the-new-raycast)
 
 > Toward the end of last year, we [teased](https://youtu.be/Mi173xGb0ZA) something we'd been working on for a long time. Now you can finally get your hands on it: a brand new Raycast, rebuilt from the ground up for the next era of personal computing. It's in public beta as of today and you can [try it out here](https://raycast.com/new).
 

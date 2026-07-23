@@ -1,22 +1,23 @@
 ---
 title: "Mein Beitrag im Filmblog-Adventskalender"
 date: "2013-12-05"
-datetime: "2013-12-05 11:09:34"
+published_at: "2013-12-05T10:09:34Z"
 id: "26257"
 slug: "mein-beitrag-im-filmblog-adventskalender"
-url: "https://eay.cc/2013/mein-beitrag-im-filmblog-adventskalender/"
-author: "eay"
+permalink: "https://eay.cc/2013/mein-beitrag-im-filmblog-adventskalender/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - adventskalender
-  - filme
-  - konsum
-  - weihnachten
-meta:
-  - linked_list_url: "http://realvirtuality.wordpress.com/2013/12/05/film-blog-group-hug-adventskalender-tag-5-stefan-von-eay/"
-  - yourls_shorturl: "https://eay.li/2ad"
+  - "adventskalender"
+  - "filme"
+  - "konsum"
+  - "weihnachten"
+external_url: "http://realvirtuality.wordpress.com/2013/12/05/film-blog-group-hug-adventskalender-tag-5-stefan-von-eay/"
+short_url: "https://eay.li/2ad"
 ---
 
-Hinter dem heutigen, fünften Türchen im [Film-Blog-Group-Hug-Adventskalender](//eay.cc/2013/filmblog-adventskalender/) auf [Real Virtuality](http://realvirtuality.wordpress.com/) verbirgt sich ein Beitrag und Geschenktipp von mir.
+[Link →](http://realvirtuality.wordpress.com/2013/12/05/film-blog-group-hug-adventskalender-tag-5-stefan-von-eay/)
+
+Hinter dem heutigen, fünften Türchen im [Film-Blog-Group-Hug-Adventskalender](https://eay.cc/2013/filmblog-adventskalender/) auf [Real Virtuality](http://realvirtuality.wordpress.com/) verbirgt sich ein Beitrag und Geschenktipp von mir.

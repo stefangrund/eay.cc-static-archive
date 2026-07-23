@@ -1,24 +1,23 @@
 ---
 title: "Patrick Duffy & The Crab"
 date: "2009-08-09"
-datetime: "2009-08-09 03:53:39"
+published_at: "2009-08-09T01:53:39Z"
 id: "8917"
 slug: "patrick-duffy-the-crab"
-url: "https://eay.cc/2009/patrick-duffy-the-crab/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2009/patrick-duffy-the-crab/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - bizarres
-  - patrick-duffy
-  - puppen
-  - webserie
-  - youtube
-meta:
-  - yourls_shorturl: "https://eay.li/of"
+  - "bizarres"
+  - "patrick duffy"
+  - "puppen"
+  - "webserie"
+  - "youtube"
+short_url: "https://eay.li/of"
 ---
 
 Das folgende Video ist der äußerst skurrilen YouTube-Serie [Patrick Duffy & The Crab](http://www.youtube.com/user/pdd330) entliehen, in dem sich die 80er-Jahre-Fernsehikone [Patrick Duffy](http://de.wikipedia.org/wiki/Patrick_Duffy) (Bobby Ewing aus Dallas) mit einer Krabbe unterhält. Beispielsweise etwa über einen Threesome. Sehr schräg das ganze, aber so mögen wir's ja. Bitte mehr davon.
 
-[youtube id="403yeN5op1o"]
+\[youtube id="403yeN5op1o"\]

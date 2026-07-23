@@ -1,20 +1,19 @@
 ---
 title: "The Next Microsoft"
 date: "2012-07-03"
-datetime: "2012-07-03 23:59:29"
+published_at: "2012-07-03T21:59:29Z"
 id: "20123"
 slug: "the-next-microsoft"
-url: "https://eay.cc/2012/the-next-microsoft/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2012/the-next-microsoft/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - corporate-identity
-  - design
-  - microsoft
-meta:
-  - yourls_shorturl: "https://eay.li/1k3"
+  - "corporate identity"
+  - "design"
+  - "microsoft"
+short_url: "https://eay.li/1k3"
 ---
 
 Andrew Kim hat sich ein [Rebranding für Microsoft](http://www.minimallyminimal.com/journal/2012/7/3/the-next-microsoft.html) ausgedacht. Und Redmond wäre gut damit beraten, den Mann mit Geld zu überschütten. (via [Waxy.org Links](http://waxy.org/links/))

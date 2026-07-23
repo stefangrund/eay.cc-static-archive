@@ -1,22 +1,23 @@
 ---
 title: "The Very Slow Movie Player"
 date: "2018-12-28"
-datetime: "2018-12-28 13:25:14"
+published_at: "2018-12-28T12:25:14Z"
 id: "35176"
 slug: "the-very-slow-movie-player"
-url: "https://eay.cc/2018/the-very-slow-movie-player/"
-author: "eay"
+permalink: "https://eay.cc/2018/the-very-slow-movie-player/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - filme
-  - kunst
-  - technologie
-meta:
-  - linked_list_url: "https://medium.com/@bryan/very-slow-movie-player-499f76c48b62"
-  - yourls_shorturl: "https://eay.li/38b"
+  - "filme"
+  - "kunst"
+  - "technologie"
+external_url: "https://medium.com/@bryan/very-slow-movie-player-499f76c48b62"
+short_url: "https://eay.li/38b"
 ---
+
+[Link →](https://medium.com/@bryan/very-slow-movie-player-499f76c48b62)
 
 ![](https://eay.cc/uploads/2018/vsmp.jpg)
 

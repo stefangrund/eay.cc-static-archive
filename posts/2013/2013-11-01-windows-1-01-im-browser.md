@@ -1,23 +1,24 @@
 ---
 title: "Windows 1.01 im Browser"
 date: "2013-11-01"
-datetime: "2013-11-01 13:04:07"
+published_at: "2013-11-01T12:04:07Z"
 id: "25840"
 slug: "windows-1-01-im-browser"
-url: "https://eay.cc/2013/windows-1-01-im-browser/"
-author: "eay"
+permalink: "https://eay.cc/2013/windows-1-01-im-browser/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - betriebssysteme
-  - microsoft
-  - retro
-  - technologie
-  - windows
-meta:
-  - linked_list_url: "http://jsmachines.net/demos/pc/cga-win101/"
-  - yourls_shorturl: "https://eay.li/292"
+  - "betriebssysteme"
+  - "microsoft"
+  - "retro"
+  - "technologie"
+  - "windows"
+external_url: "http://jsmachines.net/demos/pc/cga-win101/"
+short_url: "https://eay.li/292"
 ---
+
+[Link →](http://jsmachines.net/demos/pc/cga-win101/)
 
 Simuliert auf einem 4.77 Mhz-Rechner mit 256 Kb RAM, einem CGA-Display und 10MB Festplattenspeicher.

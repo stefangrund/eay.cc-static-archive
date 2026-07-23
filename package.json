@@ -6,6 +6,8 @@
   "repository": "https://github.com/stefangrund/eay.cc-static-archive.git",
   "scripts": {
     "build": "node ./scripts/wordpress-export-to-markdown/index.js --wizard=false",
+    "test": "node --test",
+    "validate:posts": "node ./scripts/validate-markdown.js posts",
     "stats": "bash ./scripts/count-posts.sh && bash ./scripts/count-post-types.sh",
     "links-stats": "node ./scripts/count-external-links.js",
     "summaries": "node ./scripts/combine-yearly-summaries.js && node ./scripts/export-yearly-summaries.js"
@@ -22,6 +24,7 @@
     "inquirer": "^14.0.2",
     "luxon": "^3.5.0",
     "turndown": "^7.2.0",
-    "xml2js": "^0.6.2"
+    "xml2js": "^0.6.2",
+    "yaml": "^2.9.0"
   }
 }

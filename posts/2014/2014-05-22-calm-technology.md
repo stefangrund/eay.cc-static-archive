@@ -1,20 +1,21 @@
 ---
 title: "Calm Technology"
 date: "2014-05-22"
-datetime: "2014-05-22 02:01:15"
+published_at: "2014-05-22T00:01:15Z"
 id: "27954"
 slug: "calm-technology"
-url: "https://eay.cc/2014/calm-technology/"
-author: "eay"
+permalink: "https://eay.cc/2014/calm-technology/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - technologie
-meta:
-  - linked_list_url: "http://calmtechnology.com/"
-  - yourls_shorturl: "https://eay.li/2fy"
+  - "technologie"
+external_url: "http://calmtechnology.com/"
+short_url: "https://eay.li/2fy"
 ---
+
+[Link →](http://calmtechnology.com/)
 
 > We cannot interact with our everyday life in the same way we interact with a desktop computer. **Technology shouldn't require all of our attention**, just some of it, and only when necessary. Take a teapot, for example. It tells us when it is ready, and is off or quiet the rest of the time. If technology works well, we can ignore it most of the time.
 

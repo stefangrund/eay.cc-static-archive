@@ -1,21 +1,20 @@
 ---
 title: "See Mike Draw"
 date: "2008-03-24"
-datetime: "2008-03-24 01:28:46"
+published_at: "2008-03-24T00:28:46Z"
 id: "447"
 slug: "see-mike-draw"
-url: "https://eay.cc/2008/see-mike-draw/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2008/see-mike-draw/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - 0815
-  - the-others
+  - "08/15"
+  - "The Others"
 tags:
-  - comics
-  - religion
-  - webcomic
-meta:
-  - yourls_shorturl: "https://eay.li/2g"
+  - "comics"
+  - "religion"
+  - "webcomic"
+short_url: "https://eay.li/2g"
 ---
 
-[![](/uploads/2008/seemikedraw.jpg "by Mike via See Mike Draw")](http://seemikedraw.wordpress.com/) Bei [See Mike Draw](http://seemikedraw.wordpress.com/) gibt's wunderbare Webcomics. (Der zittrige Strich erinnert mich an [Doug](http://en.wikipedia.org/wiki/Doug).)
+[![](https://eay.cc/uploads/2008/seemikedraw.jpg "by Mike via See Mike Draw")](http://seemikedraw.wordpress.com/) Bei [See Mike Draw](http://seemikedraw.wordpress.com/) gibt's wunderbare Webcomics. (Der zittrige Strich erinnert mich an [Doug](http://en.wikipedia.org/wiki/Doug).)

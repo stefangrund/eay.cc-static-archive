@@ -1,25 +1,24 @@
 ---
 title: "Apple Special Event, live kommentiert"
 date: "2010-01-27"
-datetime: "2010-01-27 01:16:31"
+published_at: "2010-01-27T00:16:31Z"
 id: "11261"
 slug: "apple-special-event-live-kommentiert"
-url: "https://eay.cc/2010/apple-special-event-live-kommentiert/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2010/apple-special-event-live-kommentiert/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - apple
-  - ipad
-  - keynote
-  - konsum
-  - tablet
-meta:
-  - yourls_shorturl: "https://eay.li/4"
+  - "apple"
+  - "ipad"
+  - "keynote"
+  - "konsum"
+  - "tablet"
+short_url: "https://eay.li/4"
 ---
 
-![](https://eay.cc/uploads/2010/applespecialevent.gif) Heute findet das sagenumwobene Special Event ("Come see our latest creation") statt, bei dem Apple allem Anschein nach [das sagenumwobene Tablet](//eay.cc/2009/apples-flachmann/) präsentieren wird. Wie schon damals bei den Macworld Keynotes (hier [2009](//eay.cc/2009/macworld-2009/) und [2008](//eay.cc/2008/macworld-2008/)) werde ich auch dieses Event wieder beobachten, hier live kommentieren und zusammen mit euch die von unser aller Steve gedroschenen Phrasen auseinandernehmen. Gegen 19 Uhr geht's los; vielleicht sind ja einige von euch dabei. :)
+![](https://eay.cc/uploads/2010/applespecialevent.gif) Heute findet das sagenumwobene Special Event ("Come see our latest creation") statt, bei dem Apple allem Anschein nach [das sagenumwobene Tablet](https://eay.cc/2009/apples-flachmann/) präsentieren wird. Wie schon damals bei den Macworld Keynotes (hier [2009](https://eay.cc/2009/macworld-2009/) und [2008](https://eay.cc/2008/macworld-2008/)) werde ich auch dieses Event wieder beobachten, hier live kommentieren und zusammen mit euch die von unser aller Steve gedroschenen Phrasen auseinandernehmen. Gegen 19 Uhr geht's los; vielleicht sind ja einige von euch dabei. :)
 
 **Update:** Wie erwartet wurde heute das Apple Tablet mit dem merkwürdigen Namen "iPad" vorgestellt. Wie genau das von statten ging, könnt ihr im folgenden meineer Live-Berichterstattung entnehmen.
 
@@ -61,9 +60,9 @@ meta:
 
 **19:43** NYT zeigt quasi eine digitale, interaktive Zeitung. Das ist cool. (Hierbei handelt es sich um eine App. Im Foto oben sieht man die normale NYT-Webseite.)
 
-**19:46** Steve Sprang, der Mann hinter der Grafik-App [Brushes](http://brushesapp.com/), hat gerade die iPad-Version gezeigt. Sehr, sehr cool - vor allem, weil Brushes auf dem iPhone schon ein ziemlich cooles Programm ist. Siehe [mein erstes Bild](//eay.cc/2009/domokun-painted-with-brushes/).
+**19:46** Steve Sprang, der Mann hinter der Grafik-App [Brushes](http://brushesapp.com/), hat gerade die iPad-Version gezeigt. Sehr, sehr cool - vor allem, weil Brushes auf dem iPhone schon ein ziemlich cooles Programm ist. Siehe [mein erstes Bild](https://eay.cc/2009/domokun-painted-with-brushes/).
 
-**19:51** Electronic Arts zeigt ein Need for Speed. Blabla. Mich würde ja eher Comics auf dem iPad interessieren. Bietet sich ja auch an, [seitdem Steves Disney Marvel gekauft hat](//eay.cc/2009/disney-heart-marvel/).
+**19:51** Electronic Arts zeigt ein Need for Speed. Blabla. Mich würde ja eher Comics auf dem iPad interessieren. Bietet sich ja auch an, [seitdem Steves Disney Marvel gekauft hat](https://eay.cc/2009/disney-heart-marvel/).
 
 **19:53** Aha, Steve stellt die eBook-App des iPad vor: **iBooks**. Wusste ich doch, dass ich mit [meinem Tipp](http://twitter.com/Eay/status/8278970105) nicht total daneben liege.
 
@@ -75,7 +74,7 @@ meta:
 
 **20:02** [Der Live-Stream](http://www.justin.tv//twit#r=) bietet mittlerweile auch Bewegtbild. Zumindest ab und an.
 
-**20:04** Erschreckend auch, dass [dieses furchtbare Mockup](//eay.cc/2009/so-cool-wird-das-neue-iphone/) eher am iPad war als [dieses ansehnliche](//eay.cc/2009/apples-flachmann/). Und über den Namen müssen wir auch nochmal reden...
+**20:04** Erschreckend auch, dass [dieses furchtbare Mockup](https://eay.cc/2009/so-cool-wird-das-neue-iphone/) eher am iPad war als [dieses ansehnliche](https://eay.cc/2009/apples-flachmann/). Und über den Namen müssen wir auch nochmal reden...
 
 **20:09** Sieht jedenfalls ganz brauchbar aus. #iWork
 
@@ -91,4 +90,4 @@ meta:
 
 **20:36** That's all Folks!
 
-**20:42** Tja, was soll man jetzt davon halten... Wie [HerrK in den Kommentaren](//eay.cc/2010/apple-special-event-live-kommentiert/#comment-16914) schon sagt: als iPhone-Besitzer scheint mir das jetzt kein absolutes Must-Have zu sein. Eher was für diejenigen, die noch kein iPhone ihr Eigen nennen. Spontan würde ich eher dazu tendieren, auf die zweite iPad-Generation (mit Kamera und 128 GB SSD) zu warten und mir stattdessen das nächste iPhone zuzulegen.
+**20:42** Tja, was soll man jetzt davon halten... Wie [HerrK in den Kommentaren](https://eay.cc/2010/apple-special-event-live-kommentiert/#comment-16914) schon sagt: als iPhone-Besitzer scheint mir das jetzt kein absolutes Must-Have zu sein. Eher was für diejenigen, die noch kein iPhone ihr Eigen nennen. Spontan würde ich eher dazu tendieren, auf die zweite iPad-Generation (mit Kamera und 128 GB SSD) zu warten und mir stattdessen das nächste iPhone zuzulegen.

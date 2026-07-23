@@ -1,30 +1,27 @@
 ---
 title: "Apple introduces new features for cognitive accessibility, along with Live Speech, Personal Voice, and Point and Speak in Magnifier"
 date: "2023-05-16"
-datetime: "2023-05-16 23:49:07"
+published_at: "2023-05-16T21:49:07Z"
 id: "38593"
 slug: "apple-previews-live-speech-personal-voice-and-more-new-accessibility-features"
-url: "https://eay.cc/2023/apple-previews-live-speech-personal-voice-and-more-new-accessibility-features/"
-author: "eay"
+permalink: "https://eay.cc/2023/apple-previews-live-speech-personal-voice-and-more-new-accessibility-features/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - apple
-  - barrierefreiheit
-  - gesundheit
-  - ios
-  - muttje
-meta:
-  - linked_list_url: "https://www.apple.com/hr/newsroom/2023/05/apple-previews-live-speech-personal-voice-and-more-new-accessibility-features/"
-  - geo_latitude: "50.973801"
-  - geo_longitude: "6.683036"
-  - geo_public: "1"
-  - yourls_shorturl: "https://eay.li/3me"
-  - linked_list_og-title: "Apple previews Live Speech, Personal Voice, and more new accessibility features"
-  - linked_list_og-description: "Apple today previewed software features for cognitive, vision, hearing, and mobility accessibility, along with innovative tools for individuals who are nonspeaking or at risk of losing their ability to speak."
-  - linked_list_og-image: "https://eay.cc/wordpress/uploads/og-cache/cca8e10516966716508bc45670401b5e.webp"
+  - "apple"
+  - "barrierefreiheit"
+  - "gesundheit"
+  - "ios"
+  - "muttje"
+external_url: "https://www.apple.com/hr/newsroom/2023/05/apple-previews-live-speech-personal-voice-and-more-new-accessibility-features/"
+short_url: "https://eay.li/3me"
+geo_latitude: "50.973801"
+geo_longitude: "6.683036"
 ---
+
+[Link →](https://www.apple.com/hr/newsroom/2023/05/apple-previews-live-speech-personal-voice-and-more-new-accessibility-features/)
 
 Apple hat heute im Rahmen des [Global Accessibility Awareness Day](https://accessibility.day/) neue Barriere­freiheits­funktionen angekündigt, die später in diesem Jahr (also mit iOS 17) veröffentlicht werden sollen. Darunter einige Features, wie reduzierte Home Screens und App-Interfaces, die Menschen mit kognitiven Ein­schrän­kungen helfen sollen, insbesondere weiterhin mit ihren Angehörigen kommunizieren zu können.
 

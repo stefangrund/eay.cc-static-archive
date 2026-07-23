@@ -1,20 +1,21 @@
 ---
 title: "Spacehack"
 date: "2016-05-27"
-datetime: "2016-05-27 13:50:07"
+published_at: "2016-05-27T12:50:07Z"
 id: "31540"
 slug: "spacehack"
-url: "https://eay.cc/2016/spacehack/"
-author: "eay"
+permalink: "https://eay.cc/2016/spacehack/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - weltall
-  - wissenschaft
-meta:
-  - linked_list_url: "https://spacehack.org/"
-  - yourls_shorturl: "https://eay.li/2tn"
+  - "weltall"
+  - "wissenschaft"
+external_url: "https://spacehack.org/"
+short_url: "https://eay.li/2tn"
 ---
+
+[Link →](https://spacehack.org/)
 
 > Spacehack.org is a directory of ways to participate in space exploration. We curate awesome projects that allow for anyone, with or without a formal science background, to make an active contribution to the furthering of space exploration and knowledge.

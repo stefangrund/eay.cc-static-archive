@@ -1,31 +1,29 @@
 ---
 title: "Amazon has invented the world's least necessary podcast"
 date: "2026-06-02"
-datetime: "2026-06-02 22:56:58"
+published_at: "2026-06-02T20:56:58Z"
 id: "42134"
 slug: "amazon-has-invented-the-worlds-least-necessary-podcast"
-url: "https://eay.cc/2026/amazon-has-invented-the-worlds-least-necessary-podcast/"
-author: "eay"
+permalink: "https://eay.cc/2026/amazon-has-invented-the-worlds-least-necessary-podcast/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - amazon
-  - bizarres
-  - kuenstliche-intelligenz
-  - podcast
-meta:
-  - linked_list_url: "https://www.businessinsider.com/amazon-ai-generated-podcasts-products-2026-4"
-  - geo_latitude: "50.97382"
-  - geo_longitude: "6.682967"
-  - geo_public: "1"
-  - linked_list_og-title: "Amazon has invented the world's least necessary podcast"
-  - linked_list_og-description: "Amazon's new AI shopping podcasts are like QVC without the humans. They turn product reviews into mini-shows — complete with a live Q&A."
-  - linked_list_og-image: "https://eay.cc/wordpress/uploads/og-cache/246b4b10bc2104de539f88f789ab72ca.webp"
-  - yourls_shorturl: "https://eay.li/42m"
-  - _share_on_mastodon_url: "https://eay.social/@eay/116682516437922010"
-  - content_copy: "https://bsky.app/profile/eay.social/post/3mndikgutl425"
+  - "amazon"
+  - "bizarres"
+  - "künstliche intelligenz"
+  - "podcast"
+external_url: "https://www.businessinsider.com/amazon-ai-generated-podcasts-products-2026-4"
+short_url: "https://eay.li/42m"
+content_copy:
+  - "https://bsky.app/profile/eay.social/post/3mndikgutl425"
+  - "https://eay.social/@eay/116682516437922010"
+geo_latitude: "50.97382"
+geo_longitude: "6.682967"
 ---
+
+[Link →](https://www.businessinsider.com/amazon-ai-generated-podcasts-products-2026-4)
 
 > Amazon has launched a new feature that uses AI to generate a short, podcast-like audio segment where two "hosts" discuss the merits and reviews of a specific product.
 

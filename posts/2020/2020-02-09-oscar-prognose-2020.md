@@ -1,28 +1,27 @@
 ---
 title: "Oscar-Prognose 2020"
 date: "2020-02-09"
-datetime: "2020-02-09 23:14:25"
+published_at: "2020-02-09T22:14:25Z"
 id: "36257"
 slug: "oscar-prognose-2020"
-url: "https://eay.cc/2020/oscar-prognose-2020/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2020/oscar-prognose-2020/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - filme
-  - oscar-prognose
-  - oscars
-meta:
-  - content_copy: "https://twitter.com/eay/status/1226630368985481223"
-  - content_copy: "https://twitter.com/eay/status/1226765542146691077"
-  - content_copy: "https://twitter.com/eay/status/1226767950931275776"
-  - content_copy: "https://twitter.com/eay/status/1226770077099470848"
-  - content_copy: "https://twitter.com/eay/status/1226774313078054912"
-  - yourls_shorturl: "https://eay.li/3cu"
-  - geo_latitude: "50.973903145012"
-  - geo_longitude: "6.6829939608911"
-  - geo_public: "1"
+  - "filme"
+  - "oscar-prognose"
+  - "oscars"
+short_url: "https://eay.li/3cu"
+content_copy:
+  - "https://twitter.com/eay/status/1226630368985481223"
+  - "https://twitter.com/eay/status/1226765542146691077"
+  - "https://twitter.com/eay/status/1226767950931275776"
+  - "https://twitter.com/eay/status/1226770077099470848"
+  - "https://twitter.com/eay/status/1226774313078054912"
+geo_latitude: "50.973903145012"
+geo_longitude: "6.6829939608911"
 ---
 
 Hier noch meine diesjährigen Oscar-Tipps. Ich sehe »1917« ganz vorne mit Best-Picture-Sieg und fünf weiteren Trophäen.

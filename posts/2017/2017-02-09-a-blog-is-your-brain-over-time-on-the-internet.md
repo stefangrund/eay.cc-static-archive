@@ -1,22 +1,23 @@
 ---
 title: "A blog is your brain, over time, on the internet"
 date: "2017-02-09"
-datetime: "2017-02-09 23:30:20"
+published_at: "2017-02-09T22:30:20Z"
 id: "32142"
 slug: "a-blog-is-your-brain-over-time-on-the-internet"
-url: "https://eay.cc/2017/a-blog-is-your-brain-over-time-on-the-internet/"
-author: "eay"
+permalink: "https://eay.cc/2017/a-blog-is-your-brain-over-time-on-the-internet/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - best-of
-  - blogging
-  - own-your-content
-meta:
-  - linked_list_url: "https://gilest.org/blog-brain.html"
-  - yourls_shorturl: "https://eay.li/2wj"
+  - "best of"
+  - "blogging"
+  - "own your content"
+external_url: "https://gilest.org/blog-brain.html"
+short_url: "https://eay.li/2wj"
 ---
+
+[Link →](https://gilest.org/blog-brain.html)
 
 Giles Turnbull über eine der größten Stärken des Bloggens:
 

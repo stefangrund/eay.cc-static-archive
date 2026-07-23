@@ -1,22 +1,21 @@
 ---
 title: "Kunden, die diesen Artikel gekauft haben, haben auch ein T-Rex Skelett gekauft"
 date: "2012-04-05"
-datetime: "2012-04-05 13:42:55"
+published_at: "2012-04-05T11:42:55Z"
 id: "19497"
 slug: "kunden-die-diesen-artikel-gekauft-haben-haben-auch-ein-t-rex-skelett-gekauft"
-url: "https://eay.cc/2012/kunden-die-diesen-artikel-gekauft-haben-haben-auch-ein-t-rex-skelett-gekauft/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2012/kunden-die-diesen-artikel-gekauft-haben-haben-auch-ein-t-rex-skelett-gekauft/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - amazon
-  - best-of
-  - bizarres
-  - dinosaurier
-  - konsum
-meta:
-  - yourls_shorturl: "https://eay.li/1hk"
+  - "amazon"
+  - "best of"
+  - "bizarres"
+  - "dinosaurier"
+  - "konsum"
+short_url: "https://eay.li/1hk"
 ---
 
 ![](https://eay.cc/uploads/2012/t-rex-skelett.jpg) Die Wege des Algorithmus sind unergründlich: Soeben hat mir Amazon den Kauf eines lebensgroßen [T-Rex Skeletts](http://www.amazon.de/exec/obidos/ASIN/B007O743H8/eayznet-21) vorgeschlagen. Kostenpunkt 22.831 Euro, fast vier Meter hoch und neun Meter lang. Da kommt man natürlich ins Grübeln. Besonders wenn man die Rezensionen anderer Kunden liest:

@@ -1,25 +1,26 @@
 ---
 title: "\"Kaltgestellt – Endspiel für Assange\""
 date: "2019-02-11"
-datetime: "2019-02-11 08:14:44"
+published_at: "2019-02-11T07:14:44Z"
 id: "35515"
 slug: "kaltgestellt-endspiel-fuer-assange"
-url: "https://eay.cc/2019/kaltgestellt-endspiel-fuer-assange/"
-author: "eay"
+permalink: "https://eay.cc/2019/kaltgestellt-endspiel-fuer-assange/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - julian-assange
-  - london
-  - politik
-  - ueberwachung
-  - usa
-  - wikileaks
-meta:
-  - linked_list_url: "https://www.freitag.de/autoren/der-freitag/endspiel-fuer-assange"
-  - yourls_shorturl: "https://eay.li/392"
+  - "julian assange"
+  - "london"
+  - "politik"
+  - "überwachung"
+  - "usa"
+  - "wikileaks"
+external_url: "https://www.freitag.de/autoren/der-freitag/endspiel-fuer-assange"
+short_url: "https://eay.li/392"
 ---
+
+[Link →](https://www.freitag.de/autoren/der-freitag/endspiel-fuer-assange)
 
 Was macht eigentlich Julian Assange? Theaterregisseurin Angela Richter hat ihn in der ecuadorianischen Botschaft in London besucht, in der er seit sieben Jahren ausharrt, um einer Auslieferung in die USA zu entgehen, in der, [wie sich zwischenzeitlich herausstellte](https://www.zeit.de/politik/ausland/2018-11/wikileaks-gruender-julian-assage-anklage-usa), tatsächlich undurchsichtige Strafanzeigen gehen ihn bestehen.
 

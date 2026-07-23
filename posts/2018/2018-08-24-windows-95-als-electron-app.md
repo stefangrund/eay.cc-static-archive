@@ -1,25 +1,26 @@
 ---
 title: "Windows 95 als Electron-App"
 date: "2018-08-24"
-datetime: "2018-08-24 12:15:13"
+published_at: "2018-08-24T10:15:13Z"
 id: "34898"
 slug: "windows-95-als-electron-app"
-url: "https://eay.cc/2018/windows-95-als-electron-app/"
-author: "eay"
+permalink: "https://eay.cc/2018/windows-95-als-electron-app/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - fanart
-  - fron
-  - frontend
-  - javascript
-  - microsoft
-  - windows
-meta:
-  - linked_list_url: "https://github.com/felixrieseberg/windows95"
-  - yourls_shorturl: "https://eay.li/36i"
+  - "electron"
+  - "fanart"
+  - "frontend"
+  - "javascript"
+  - "microsoft"
+  - "windows"
+external_url: "https://github.com/felixrieseberg/windows95"
+short_url: "https://eay.li/36i"
 ---
+
+[Link →](https://github.com/felixrieseberg/windows95)
 
 ![](https://eay.cc/uploads/2018/windows-electron.jpg)
 

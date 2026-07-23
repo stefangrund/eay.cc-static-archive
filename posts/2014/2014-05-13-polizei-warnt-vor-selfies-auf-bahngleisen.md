@@ -1,22 +1,23 @@
 ---
 title: "Polizei warnt vor Selfies auf Bahngleisen"
 date: "2014-05-13"
-datetime: "2014-05-13 19:14:58"
+published_at: "2014-05-13T17:14:58Z"
 id: "27920"
 slug: "polizei-warnt-vor-selfies-auf-bahngleisen"
-url: "https://eay.cc/2014/polizei-warnt-vor-selfies-auf-bahngleisen/"
-author: "eay"
+permalink: "https://eay.cc/2014/polizei-warnt-vor-selfies-auf-bahngleisen/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - bizarres
-  - kinder
-  - smart-phones-stupid-people
-meta:
-  - linked_list_url: "http://www.heise.de/newsticker/meldung/Foto-als-Mutprobe-Polizei-warnt-vor-Handyfotos-an-Bahngleisen-2188039.html"
-  - yourls_shorturl: "https://eay.li/2fo"
+  - "bizarres"
+  - "kinder"
+  - "smart phones stupid people"
+external_url: "http://www.heise.de/newsticker/meldung/Foto-als-Mutprobe-Polizei-warnt-vor-Handyfotos-an-Bahngleisen-2188039.html"
+short_url: "https://eay.li/2fo"
 ---
+
+[Link →](http://www.heise.de/newsticker/meldung/Foto-als-Mutprobe-Polizei-warnt-vor-Handyfotos-an-Bahngleisen-2188039.html)
 
 > Das BKA schlägt Alarm: Immer mehr Mädchen setzten für eine Handy-Aufnahme im Gleisbett das Leben aufs Spiel. Bereits vier Todesfälle junger Mädchen ließen sich in den vergangenen drei Jahren auf diesen Trend zurückführen.
 

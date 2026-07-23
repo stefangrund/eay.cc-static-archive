@@ -1,30 +1,30 @@
 ---
 title: "Kagi Translate to LinkedIn Speak"
 date: "2026-03-17"
-datetime: "2026-03-17 22:01:10"
+published_at: "2026-03-17T21:01:10Z"
 id: "41577"
 slug: "kagi-translate-to-linkedin-speak"
-url: "https://eay.cc/2026/kagi-translate-to-linkedin-speak/"
-author: "eay"
+permalink: "https://eay.cc/2026/kagi-translate-to-linkedin-speak/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - humor
-  - kagi
-  - linkedin
-  - sprache
-  - webservice
-meta:
-  - linked_list_url: "https://translate.kagi.com/?from=en&to=LinkedIn+speak"
-  - geo_latitude: "51.000124"
-  - geo_longitude: "6.794157"
-  - geo_public: "1"
-  - yourls_shorturl: "https://eay.li/40c"
-  - _share_on_mastodon_url: "https://eay.social/@eay/116246529412033947"
-  - _linked_list_og-suppressed: "1"
-  - content_copy: "https://bsky.app/profile/eay.social/post/3mhbvkkazzc2g"
+  - "humor"
+  - "kagi"
+  - "linkedin"
+  - "sprache"
+  - "webservice"
+external_url: "https://translate.kagi.com/?from=en&to=LinkedIn+speak"
+short_url: "https://eay.li/40c"
+content_copy:
+  - "https://bsky.app/profile/eay.social/post/3mhbvkkazzc2g"
+  - "https://eay.social/@eay/116246529412033947"
+geo_latitude: "51.000124"
+geo_longitude: "6.794157"
 ---
+
+[Link →](https://translate.kagi.com/?from=en&to=LinkedIn+speak)
 
 ![Screenshot des Übersetzungstools Kagi Translate in einem Browserfenster. Links steht als englischer Eingabetext „This is a Test.](https://eay.cc/uploads/2026/kagi-linkedin.webp)
 

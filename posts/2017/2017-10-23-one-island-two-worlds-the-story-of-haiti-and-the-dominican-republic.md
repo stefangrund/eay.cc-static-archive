@@ -1,27 +1,26 @@
 ---
 title: "One island, two worlds: The story of Haiti and the Dominican Republic"
 date: "2017-10-23"
-datetime: "2017-10-23 23:10:07"
+published_at: "2017-10-23T21:10:07Z"
 id: "33616"
 slug: "one-island-two-worlds-the-story-of-haiti-and-the-dominican-republic"
-url: "https://eay.cc/2017/one-island-two-worlds-the-story-of-haiti-and-the-dominican-republic/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2017/one-island-two-worlds-the-story-of-haiti-and-the-dominican-republic/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - dominikanische-republik
-  - gesellschaft
-  - haiti
-  - kolonialismus
-  - politik
-  - rassismus
-  - video-essay
-meta:
-  - yourls_shorturl: "https://eay.li/31z"
+  - "dominikanische republik"
+  - "gesellschaft"
+  - "haiti"
+  - "kolonialismus"
+  - "politik"
+  - "rassismus"
+  - "video-essay"
+short_url: "https://eay.li/31z"
 ---
 
-[youtube id="4WvKeYuwifc"]
+\[youtube id="4WvKeYuwifc"\]
 
 > Haiti and the Dominican Republic share a border, and an island. But the two countries are very different today: the Dominican Republic enjoys higher quality of life for many factors than Haiti. I went to this island and visited both countries, to try and understand when and how their paths diverged. And I began to learn how those differences are playing out in the present.
 

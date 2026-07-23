@@ -1,24 +1,25 @@
 ---
 title: "Star Wars: Vierte Trilogie und Live-Action-Serie"
 date: "2017-11-10"
-datetime: "2017-11-10 12:30:29"
+published_at: "2017-11-10T10:30:29Z"
 id: "33671"
 slug: "star-wars-vierte-trilogie-und-live-action-serie"
-url: "https://eay.cc/2017/star-wars-vierte-trilogie-und-live-action-serie/"
-author: "eay"
+permalink: "https://eay.cc/2017/star-wars-vierte-trilogie-und-live-action-serie/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - disney
-  - fernsehen
-  - filme
-  - serien
-  - star-wars
-meta:
-  - linked_list_url: "http://variety.com/2017/biz/news/star-wars-tv-series-disney-streaming-service-1202611408/"
-  - yourls_shorturl: "https://eay.li/327"
+  - "disney"
+  - "fernsehen"
+  - "filme"
+  - "serien"
+  - "star wars"
+external_url: "http://variety.com/2017/biz/news/star-wars-tv-series-disney-streaming-service-1202611408/"
+short_url: "https://eay.li/327"
 ---
+
+[Link →](http://variety.com/2017/biz/news/star-wars-tv-series-disney-streaming-service-1202611408/)
 
 [Episode 8](https://eay.cc/tag/episode-8/) ist noch nicht mal im Kino, da kündigt Disney schon an, wie es mit unser aller Lieblingssternenfranchise nach Episode 9 weitergehen wird. So wird [Rian Johnson](https://en.wikipedia.org/wiki/Rian_Johnson), der Regisseur und Autor von »The Last Jedi« (noch 33 Tage!), nämlich an einer neuen, von der bisherigen Skywalker-Saga komplett losgelösten Trilogie arbeiten.
 

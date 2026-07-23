@@ -1,31 +1,29 @@
 ---
 title: "»Baphomets Fluch«-Verfilmung in Arbeit"
 date: "2026-05-21"
-datetime: "2026-05-21 22:11:49"
+published_at: "2026-05-21T20:11:49Z"
 id: "42049"
 slug: "baphomets-fluch-verfilmung-in-arbeit"
-url: "https://eay.cc/2026/baphomets-fluch-verfilmung-in-arbeit/"
-author: "eay"
+permalink: "https://eay.cc/2026/baphomets-fluch-verfilmung-in-arbeit/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - baphomets-fluch
-  - filme
-  - games
-  - videospielverfilmung
-meta:
-  - linked_list_url: "https://variety.com/2026/gaming/news/broken-sword-movie-adaptation-1236753695/"
-  - geo_latitude: "50.973803"
-  - geo_longitude: "6.683044"
-  - geo_public: "1"
-  - yourls_shorturl: "https://eay.li/42a"
-  - _share_on_mastodon_url: "https://eay.social/@eay/116614385545179089"
-  - linked_list_og-title: "‘Broken Sword’ Movie in the Works From Live-Action ‘Beauty and the Beast’ Screenwriter, S..."
-  - linked_list_og-description: "A film adaptation of mystery-adventure video game franchise "Broken Sword" is being developed by Story Kitchen"
-  - linked_list_og-image: "https://eay.cc/wordpress/uploads/og-cache/753557714999b158a4384da2a262015f.webp"
-  - content_copy: "https://bsky.app/profile/eay.social/post/3mmfacf457r2o"
+  - "baphomets fluch"
+  - "filme"
+  - "games"
+  - "videospielverfilmung"
+external_url: "https://variety.com/2026/gaming/news/broken-sword-movie-adaptation-1236753695/"
+short_url: "https://eay.li/42a"
+content_copy:
+  - "https://bsky.app/profile/eay.social/post/3mmfacf457r2o"
+  - "https://eay.social/@eay/116614385545179089"
+geo_latitude: "50.973803"
+geo_longitude: "6.683044"
 ---
+
+[Link →](https://variety.com/2026/gaming/news/broken-sword-movie-adaptation-1236753695/)
 
 > A film adaptation of mystery-adventure video game franchise “Broken Sword” is being developed by game maker Revolution Software, producer Story Kitchen and Disney’s live-action “Beauty and the Beast” screenwriter Evan Spiliotopoulos.
 

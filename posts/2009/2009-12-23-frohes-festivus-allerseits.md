@@ -1,23 +1,22 @@
 ---
 title: "Frohes Festivus allerseits!"
 date: "2009-12-23"
-datetime: "2009-12-23 23:59:41"
+published_at: "2009-12-23T22:59:41Z"
 id: "10618"
 slug: "frohes-festivus-allerseits"
-url: "https://eay.cc/2009/frohes-festivus-allerseits/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2009/frohes-festivus-allerseits/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - feiertage
-  - fernsehen
-  - seinfeld
-  - weihnachten
-meta:
-  - yourls_shorturl: "https://eay.li/2s"
+  - "feiertage"
+  - "fernsehen"
+  - "seinfeld"
+  - "weihnachten"
+short_url: "https://eay.li/2s"
 ---
 
-[youtube id="DWcf7Ul1smY"]
+\[youtube id="DWcf7Ul1smY"\]
 
 → [http://en.wikipedia.org/wiki/Festivus](http://en.wikipedia.org/wiki/Festivus)

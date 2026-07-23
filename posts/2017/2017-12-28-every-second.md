@@ -1,26 +1,23 @@
 ---
 title: "Every Second"
 date: "2017-12-28"
-datetime: "2017-12-28 20:28:59"
+published_at: "2017-12-28T19:28:59Z"
 id: "33840"
 slug: "every-second"
-url: "https://eay.cc/2017/every-second/"
-author: "eay"
+permalink: "https://eay.cc/2017/every-second/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - neal-agarwal
-  - statistik
-  - visualisierung
-meta:
-  - linked_list_url: "http://www.everysecond.io/"
-  - linked_list_url: "http://www.everysecond.io/"
-  - linked_list_url: "http://www.everysecond.io/"
-  - linked_list_url: "http://www.everysecond.io/"
-  - linked_list_url: "http://www.everysecond.io/"
-  - yourls_shorturl: "https://eay.li/32u"
+  - "neal agarwal"
+  - "statistik"
+  - "visualisierung"
+external_url: "http://www.everysecond.io/"
+short_url: "https://eay.li/32u"
 ---
+
+[Link →](http://www.everysecond.io/)
 
 > Every Second is a site aimed at visualizing the things that happen every second around the world.
 

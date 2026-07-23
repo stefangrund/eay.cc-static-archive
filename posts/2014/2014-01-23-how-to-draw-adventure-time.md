@@ -1,24 +1,25 @@
 ---
 title: "How to draw Adventure Time"
 date: "2014-01-23"
-datetime: "2014-01-23 07:45:53"
+published_at: "2014-01-23T06:45:53Z"
 id: "26984"
 slug: "how-to-draw-adventure-time"
-url: "https://eay.cc/2014/how-to-draw-adventure-time/"
-author: "eay"
+permalink: "https://eay.cc/2014/how-to-draw-adventure-time/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - adventure-time
-  - animation
-  - fernsehen
-  - how-to
-  - serien
-meta:
-  - linked_list_url: "http://de.scribd.com/doc/14686737/How-to-Draw-Adventure-Time"
-  - yourls_shorturl: "https://eay.li/2cc"
+  - "adventure time"
+  - "animation"
+  - "fernsehen"
+  - "how to"
+  - "serien"
+external_url: "http://de.scribd.com/doc/14686737/How-to-Draw-Adventure-Time"
+short_url: "https://eay.li/2cc"
 ---
+
+[Link →](http://de.scribd.com/doc/14686737/How-to-Draw-Adventure-Time)
 
 ![](https://eay.cc/uploads/2014/howtodrawadventuretime.jpg)
 

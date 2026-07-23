@@ -1,20 +1,21 @@
 ---
 title: "Futurama cancelled, again"
 date: "2013-04-22"
-datetime: "2013-04-22 22:13:03"
+published_at: "2013-04-22T20:13:03Z"
 id: "1207"
 slug: "futurama-cancelled-again"
-url: "https://eay.cc/2013/futurama-cancelled-again/"
-author: "eay"
+permalink: "https://eay.cc/2013/futurama-cancelled-again/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - fernsehen
-  - futurama
-meta:
-  - yourls_shorturl: "https://eay.li/232"
-  - linked_list_url: "http://www.slashfilm.com/futurama-cancelled-again/"
+  - "fernsehen"
+  - "futurama"
+external_url: "http://www.slashfilm.com/futurama-cancelled-again/"
+short_url: "https://eay.li/232"
 ---
+
+[Link →](http://www.slashfilm.com/futurama-cancelled-again/)
 
 Der letzten 13 Episoden werden ab dem 19. Juni ausgestrahlt. Und dann... Hat dahinten jemand Kickstarter-Kampagne gesagt?

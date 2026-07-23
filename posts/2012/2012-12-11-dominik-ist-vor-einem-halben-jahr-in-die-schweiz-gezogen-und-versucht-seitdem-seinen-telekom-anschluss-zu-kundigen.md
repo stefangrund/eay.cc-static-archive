@@ -1,23 +1,24 @@
 ---
 title: "Dominik ist vor einem halben Jahr in die Schweiz gezogen und versucht seitdem seinen Telekom-Anschluss zu kündigen"
 date: "2012-12-11"
-datetime: "2012-12-11 22:20:48"
+published_at: "2012-12-11T20:20:48Z"
 id: "651"
 slug: "dominik-ist-vor-einem-halben-jahr-in-die-schweiz-gezogen-und-versucht-seitdem-seinen-telekom-anschluss-zu-kundigen"
-url: "https://eay.cc/2012/dominik-ist-vor-einem-halben-jahr-in-die-schweiz-gezogen-und-versucht-seitdem-seinen-telekom-anschluss-zu-kundigen/"
-author: "eay"
+permalink: "https://eay.cc/2012/dominik-ist-vor-einem-halben-jahr-in-die-schweiz-gezogen-und-versucht-seitdem-seinen-telekom-anschluss-zu-kundigen/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - burokratie
-  - deutschland
-  - smart-phones-stupid-people
-  - telekom
-  - wahnsinn
-meta:
-  - yourls_shorturl: "https://eay.li/20v"
-  - linked_list_url: "http://www.dominik-schwarz.net/telekom-kuendigen/"
+  - "bürokratie"
+  - "deutschland"
+  - "smart phones stupid people"
+  - "telekom"
+  - "wahnsinn"
+external_url: "http://www.dominik-schwarz.net/telekom-kuendigen/"
+short_url: "https://eay.li/20v"
 ---
+
+[Link →](http://www.dominik-schwarz.net/telekom-kuendigen/)
 
 Spoiler: Bisher vergeblich. Aber immerhin hat das dieses überaus unterhaltsame Schriftstück hervorgebracht. (via [Nerdcore](http://www.crackajack.de/2012/12/11/kafkaesque-telekom-kundigung/))

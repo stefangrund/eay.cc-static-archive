@@ -1,22 +1,24 @@
 ---
 title: "Stefan Zweifel's Alfred Setup"
 date: "2021-04-18"
-datetime: "2021-04-18 11:34:28"
+published_at: "2021-04-18T09:34:28Z"
 id: "37251"
 slug: "stefan-zweifels-alfred-setup"
-url: "https://eay.cc/2021/stefan-zweifels-alfred-setup/"
-author: "eay"
+permalink: "https://eay.cc/2021/stefan-zweifels-alfred-setup/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - alfred
-  - mac
-meta:
-  - linked_list_url: "https://stefanzweifel.io/posts/2021/02/03/my-alfred-setup/"
-  - yourls_shorturl: "https://eay.li/2mu"
-  - content_copy: "https://twitter.com/eay/status/1383814415821144069"
+  - "alfred"
+  - "mac"
+external_url: "https://stefanzweifel.io/posts/2021/02/03/my-alfred-setup/"
+short_url: "https://eay.li/2mu"
+content_copy:
+  - "https://twitter.com/eay/status/1383814415821144069"
 ---
+
+[Link →](https://stefanzweifel.io/posts/2021/02/03/my-alfred-setup/)
 
 Bei [René](https://microblog.renem.net/2021/04/13/hatte-den-beitrag.html) bin ich auf die Website und diesen lesenswerten Artikel von Stefan aufmerksam geworden, in dem er erklärt, wie und wofür er den macOS-Launcher [Alfred](https://www.alfredapp.com/) nutzt.
 

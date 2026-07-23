@@ -1,33 +1,26 @@
 ---
 title: "How I made my own iPhone – in China"
 date: "2017-04-14"
-datetime: "2017-04-14 15:44:03"
+published_at: "2017-04-14T14:44:03Z"
 id: "32633"
 slug: "how-i-made-my-own-iphone-in-china"
-url: "https://eay.cc/2017/how-i-made-my-own-iphone-in-china/"
-author: "eay"
+permalink: "https://eay.cc/2017/how-i-made-my-own-iphone-in-china/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - apple
-  - china
-  - diy
-  - iphone
-  - smartphones
-  - technologie
-meta:
-  - linked_list_url: "https://strangeparts.com/how-i-made-my-own-iphone-in-china/"
-  - linked_list_url: "https://strangeparts.com/how-i-made-my-own-iphone-in-china/"
-  - linked_list_url: "https://strangeparts.com/how-i-made-my-own-iphone-in-china/"
-  - linked_list_url: "https://strangeparts.com/how-i-made-my-own-iphone-in-china/"
-  - linked_list_url: "https://strangeparts.com/how-i-made-my-own-iphone-in-china/"
-  - linked_list_url: "https://strangeparts.com/how-i-made-my-own-iphone-in-china/"
-  - linked_list_url: "https://strangeparts.com/how-i-made-my-own-iphone-in-china/"
-  - linked_list_url: "https://strangeparts.com/how-i-made-my-own-iphone-in-china/"
-  - linked_list_url: "https://strangeparts.com/how-i-made-my-own-iphone-in-china/"
-  - yourls_shorturl: "https://eay.li/2xk"
+  - "apple"
+  - "china"
+  - "diy"
+  - "iphone"
+  - "smartphones"
+  - "technologie"
+external_url: "https://strangeparts.com/how-i-made-my-own-iphone-in-china/"
+short_url: "https://eay.li/2xk"
 ---
+
+[Link →](https://strangeparts.com/how-i-made-my-own-iphone-in-china/)
 
 > Coming to Shenzen is like visiting the future. But it's this crazy, dystopian, Blade-Runner-esque future.
 

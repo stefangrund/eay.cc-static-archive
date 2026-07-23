@@ -1,27 +1,26 @@
 ---
 title: "Microsoft HoloLens"
 date: "2015-01-22"
-datetime: "2015-01-22 13:04:51"
+published_at: "2015-01-22T12:04:51Z"
 id: "30075"
 slug: "microsoft-hololens"
-url: "https://eay.cc/2015/microsoft-hololens/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2015/microsoft-hololens/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - augmented-reality
-  - brillen
-  - microsoft
-  - technologie
-  - windows
-  - xbox
-  - zukunft
-meta:
-  - yourls_shorturl: "https://eay.li/2mp"
+  - "augmented reality"
+  - "brillen"
+  - "microsoft"
+  - "technologie"
+  - "windows"
+  - "xbox"
+  - "zukunft"
+short_url: "https://eay.li/2mp"
 ---
 
-[youtube id="aThCr0PsyuA"]
+\[youtube id="aThCr0PsyuA"\]
 
 Microsoft hat mit HoloLens eine Brille vorgestellt, die das Sichtfeld des Trägers um virtuelle Objekte, Bildschirme zum Fernsehen und für Skype-Konferenzen, Spiele ("Minecraft") oder gleich ganze Marslandschaften _erweitert_. Das Ganze soll so gut funktionieren, dass es Google Glass und Oculus Rift alt aussehen lässt. [Bei The Verge](http://www.theverge.com/2015/1/21/7868251/microsoft-hololens-hologram-hands-on-experience) ist man begeistert:
 
@@ -29,6 +28,6 @@ Microsoft hat mit HoloLens eine Brille vorgestellt, die das Sichtfeld des Träge
 
 Einzig die Interaktionsmöglichkeiten mit den digitalen Objekten wird bisher (noch) bemängelt, da sich diese natürlich nicht anfassen lassen und die Illusion etwas zerstörende Gesten und Sprachkommandos notwendig sind.
 
-Doch so oder so scheint Microsofts Research-Abteilung eine überzeugende, tatsächliche Implementierung von Augmented Reality gelungen zu sein. Etwas, was [bei Google Glass bisher nur im Werbevideo funktionierte](//eay.cc/2012/project-glass-und-die-contactlinsen-der-zukunft/). Offenkundig möchte man bei der nächsten technologischen Revolution vor Anfang an mitmischen. Erscheinen soll das alles "in the Windows 10 timeframe". Man darf gespannt sein, denn innovative Ideen, wie das vergleichsweise leicht zu realisierende [IllumiRoom Project](//eay.cc/2013/microsofts-illumiroom-project-erweitert-das-ganze-wohnzimmer-zum-konsolen-display/) lassen immer noch auf sich warten.
+Doch so oder so scheint Microsofts Research-Abteilung eine überzeugende, tatsächliche Implementierung von Augmented Reality gelungen zu sein. Etwas, was [bei Google Glass bisher nur im Werbevideo funktionierte](https://eay.cc/2012/project-glass-und-die-contactlinsen-der-zukunft/). Offenkundig möchte man bei der nächsten technologischen Revolution vor Anfang an mitmischen. Erscheinen soll das alles "in the Windows 10 timeframe". Man darf gespannt sein, denn innovative Ideen, wie das vergleichsweise leicht zu realisierende [IllumiRoom Project](https://eay.cc/2013/microsofts-illumiroom-project-erweitert-das-ganze-wohnzimmer-zum-konsolen-display/) lassen immer noch auf sich warten.
 
 Auf dem gleichen Event hat Microsoft [übrigens auch verkündet](http://www.theverge.com/2015/1/21/7865539/microsoft-windows-10-event-what-you-need-to-know), dass Windows 10 im ersten Jahr ein kostenloses Upgrade für Windows 7 und 8.1 sein wird, dass der Sprachassistent Cortana auf den Desktop kommt, dass Xbox-Spiele bald auf alle Windows-Systeme gestreamt werden können und dass das gute alte Startmenü im Kachel-Look zurückkehrt. Und es wird eine Tafelversion ihres Surface-Tischs geben, womit wir wieder bei so einem prinzipiell guten, aber nie wirklich marktreifen Microsoft-Research-Produkt wären.

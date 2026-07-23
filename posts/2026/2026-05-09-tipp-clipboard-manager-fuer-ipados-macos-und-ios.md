@@ -1,36 +1,30 @@
 ---
 title: "Tipp: Clipboard Manager für iPadOS, macOS und iOS"
 date: "2026-05-09"
-datetime: "2026-05-09 23:51:57"
+published_at: "2026-05-09T21:51:57Z"
 id: "41979"
 slug: "tipp-clipboard-manager-fuer-ipados-macos-und-ios"
-url: "https://eay.cc/2026/tipp-clipboard-manager-fuer-ipados-macos-und-ios/"
-author: "eay"
+permalink: "https://eay.cc/2026/tipp-clipboard-manager-fuer-ipados-macos-und-ios/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - app
-  - ios
-  - ipad
-  - iphone
-  - mac
-meta:
-  - linked_list_url: "https://www.iphoneblog.de/2026/05/08/tipp-clipboard-manager-fur-ipados-macos-und-ios/"
-  - geo_latitude: "50.973837"
-  - geo_longitude: "6.683022"
-  - geo_public: "1"
-  - linked_list_og-title: "Tipp: Clipboard Manager für iPadOS, macOS und iOS"
-  - linked_list_og-description: "➝ YouTube
-
-
-
-Die im Video genannten Apps heißen: PastePal, ClipBook und Clip."
-  - linked_list_og-image: "https://eay.cc/wordpress/uploads/og-cache/5b7526aba37990263dffad986eb5d2d1.webp"
-  - yourls_shorturl: "https://eay.li/41x"
-  - _share_on_mastodon_url: "https://eay.social/@eay/116546838088767917"
-  - content_copy: "https://bsky.app/profile/eay.social/post/3mlhac2z7ov2x"
+  - "app"
+  - "ios"
+  - "ipad"
+  - "iphone"
+  - "mac"
+external_url: "https://www.iphoneblog.de/2026/05/08/tipp-clipboard-manager-fur-ipados-macos-und-ios/"
+short_url: "https://eay.li/41x"
+content_copy:
+  - "https://bsky.app/profile/eay.social/post/3mlhac2z7ov2x"
+  - "https://eay.social/@eay/116546838088767917"
+geo_latitude: "50.973837"
+geo_longitude: "6.683022"
 ---
+
+[Link →](https://www.iphoneblog.de/2026/05/08/tipp-clipboard-manager-fur-ipados-macos-und-ios/)
 
 Gute Tipps von Alex. Ich möchte ergänzen: Bei mir ist es auf dem Mac, [klar](https://eay.cc/2026/raycafe-in-koeln/), der hervorragende [Clipboard-Manager von Raycast](https://www.raycast.com/core-features/clipboard-history). Auf iPhone und iPad ist es das erwähnte [PastePal](https://indiegoodies.com/PastePal), das ich via Shortcut im Control Center (links im Screenshot) und in meinem Action-Button-Menü (rechts) positioniert habe. Über die PastePal-Tastatur kopiere ich dann die so hinzugefügten Inhalte wieder raus.
 

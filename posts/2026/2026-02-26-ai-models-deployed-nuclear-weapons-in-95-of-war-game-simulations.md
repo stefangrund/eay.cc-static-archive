@@ -1,30 +1,28 @@
 ---
 title: "AI models deployed nuclear weapons in 95% of war game simulations"
 date: "2026-02-26"
-datetime: "2026-02-26 23:57:05"
+published_at: "2026-02-26T22:57:05Z"
 id: "41346"
 slug: "ai-models-deployed-nuclear-weapons-in-95-of-war-game-simulations"
-url: "https://eay.cc/2026/ai-models-deployed-nuclear-weapons-in-95-of-war-game-simulations/"
-author: "eay"
+permalink: "https://eay.cc/2026/ai-models-deployed-nuclear-weapons-in-95-of-war-game-simulations/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - atombombe
-  - krieg
-  - kuenstliche-intelligenz
-meta:
-  - linked_list_url: "https://www.implicator.ai/ai-models-deployed-nuclear-weapons-in-95-of-war-game-simulations-study-finds/"
-  - geo_latitude: "50.973823"
-  - geo_longitude: "6.683062"
-  - geo_public: "1"
-  - yourls_shorturl: "https://eay.li/3zp"
-  - _share_on_mastodon_url: "https://eay.social/@eay/116139401339119514"
-  - linked_list_og-title: "AI Models Used Nukes in 95% of War Games, Study Finds"
-  - linked_list_og-description: "King's College study finds GPT-5.2, Claude, and Gemini reached for nuclear weapons in nearly every simulated crisis. No model ever surrendered."
-  - linked_list_og-image: "https://eay.cc/wordpress/uploads/og-cache/6b24972cb178014c74c16a868d21f16a.webp"
-  - content_copy: "https://bsky.app/profile/eay.social/post/3mfscdm4ni62l"
+  - "atombombe"
+  - "krieg"
+  - "künstliche intelligenz"
+external_url: "https://www.implicator.ai/ai-models-deployed-nuclear-weapons-in-95-of-war-game-simulations-study-finds/"
+short_url: "https://eay.li/3zp"
+content_copy:
+  - "https://bsky.app/profile/eay.social/post/3mfscdm4ni62l"
+  - "https://eay.social/@eay/116139401339119514"
+geo_latitude: "50.973823"
+geo_longitude: "6.683062"
 ---
+
+[Link →](https://www.implicator.ai/ai-models-deployed-nuclear-weapons-in-95-of-war-game-simulations-study-finds/)
 
 > King's College study finds GPT-5.2, Claude, and Gemini reached for nuclear weapons in nearly every simulated crisis. No model ever surrendered.
 

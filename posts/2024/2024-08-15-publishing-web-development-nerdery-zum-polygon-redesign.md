@@ -1,27 +1,26 @@
 ---
 title: "Publishing-/Web-Development-Nerdery zum Polygon-Redesign"
 date: "2024-08-15"
-datetime: "2024-08-15 12:27:39"
+published_at: "2024-08-15T10:27:39Z"
 id: "39763"
 slug: "publishing-web-development-nerdery-zum-polygon-redesign"
-url: "https://eay.cc/2024/publishing-web-development-nerdery-zum-polygon-redesign/"
-author: "eay"
+permalink: "https://eay.cc/2024/publishing-web-development-nerdery-zum-polygon-redesign/"
+author: "Stefan Grund"
 format: "aside"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - blogging
-  - journalismus
-  - technologie
-  - the-verge
-  - web-development
-  - webdesign
-meta:
-  - geo_latitude: "51.000151"
-  - geo_longitude: "6.794358"
-  - geo_public: "1"
-  - yourls_shorturl: "https://eay.li/3rt"
-  - _share_on_mastodon_url: "https://eay.social/@eay/112965560708304835"
+  - "blogging"
+  - "journalismus"
+  - "technologie"
+  - "the verge"
+  - "web development"
+  - "webdesign"
+short_url: "https://eay.li/3rt"
+content_copy:
+  - "https://eay.social/@eay/112965560708304835"
+geo_latitude: "51.000151"
+geo_longitude: "6.794358"
 ---
 
 _Achtung, Publishing-/Web-Development-Nerdery:_

@@ -1,28 +1,29 @@
 ---
 title: "Build The Earth – Recreating the whole Earth in Minecraft"
 date: "2024-08-13"
-datetime: "2024-08-13 12:03:16"
+published_at: "2024-08-13T10:03:16Z"
 id: "39744"
 slug: "build-the-earth-recreating-the-whole-earth-in-minecraft"
-url: "https://eay.cc/2024/build-the-earth-recreating-the-whole-earth-in-minecraft/"
-author: "eay"
+permalink: "https://eay.cc/2024/build-the-earth-recreating-the-whole-earth-in-minecraft/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - bizarres
-  - games
-  - minecraft
-  - netzkultur
-  - technologie
-meta:
-  - linked_list_url: "https://buildtheearth.net/"
-  - geo_latitude: "51.000164"
-  - geo_longitude: "6.794301"
-  - geo_public: "1"
-  - yourls_shorturl: "https://eay.li/3rp"
-  - _share_on_mastodon_url: "https://eay.social/@eay/112954140140561943"
+  - "bizarres"
+  - "games"
+  - "minecraft"
+  - "netzkultur"
+  - "technologie"
+external_url: "https://buildtheearth.net/"
+short_url: "https://eay.li/3rp"
+content_copy:
+  - "https://eay.social/@eay/112954140140561943"
+geo_latitude: "51.000164"
+geo_longitude: "6.794301"
 ---
+
+[Link →](https://buildtheearth.net/)
 
 > We want to create a complete 1:1 scale replicate of every building on Earth in the computer game Minecraft, a virtual copy of our whole world that showcases the diversity of culture and living space on our planet and stands as a testament for what we can achieve when we work together as a global humanity.
 

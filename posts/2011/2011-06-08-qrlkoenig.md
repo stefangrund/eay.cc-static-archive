@@ -1,20 +1,19 @@
 ---
 title: "Qrlkönig"
 date: "2011-06-08"
-datetime: "2011-06-08 15:28:05"
+published_at: "2011-06-08T13:28:05Z"
 id: "16415"
 slug: "qrlkoenig"
-url: "https://eay.cc/2011/qrlkoenig/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2011/qrlkoenig/"
+author: "Stefan Grund"
+format: "standard"
 tags:
-  - erlkonig
-  - gedicht
-  - goethe
-  - output
-  - qr-codes
-meta:
-  - yourls_shorturl: "https://eay.li/goetheay"
+  - "erlkönig"
+  - "gedicht"
+  - "goethe"
+  - "output"
+  - "qr codes"
+short_url: "https://eay.li/goetheay"
 ---
 
 ![](https://eay.cc/uploads/2011/erlkoenig_vers1.gif)

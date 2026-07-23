@@ -1,23 +1,24 @@
 ---
 title: "Mord zur Verhinderung eines Atomkriegs"
 date: "2018-01-16"
-datetime: "2018-01-16 11:30:07"
+published_at: "2018-01-16T10:30:07Z"
 id: "34058"
 slug: "mord-zur-verhinderung-eines-atomkriegs"
-url: "https://eay.cc/2018/mord-zur-verhinderung-eines-atomkriegs/"
-author: "eay"
+permalink: "https://eay.cc/2018/mord-zur-verhinderung-eines-atomkriegs/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - atombombe
-  - krieg
-  - sicherheit
-  - usa
-meta:
-  - linked_list_url: "https://kottke.org/18/01/murder-as-a-deterrent-to-nuclear-war"
-  - yourls_shorturl: "https://eay.li/338"
+  - "atombombe"
+  - "krieg"
+  - "sicherheit"
+  - "usa"
+external_url: "https://kottke.org/18/01/murder-as-a-deterrent-to-nuclear-war"
+short_url: "https://eay.li/338"
 ---
+
+[Link →](https://kottke.org/18/01/murder-as-a-deterrent-to-nuclear-war)
 
 Wo wir gerade [schon fast](https://eay.cc/2018/bad-ux-will-destroy-the-world/) beim Atomkrieg waren: Jason Kottke hat eine "schöne" Idee des Rechtwissenschaftler [Roger Fisher](https://de.m.wikipedia.org/wiki/Roger_Fisher) zur Verhinderung eines Atomkriegs ausgegraben, die dieser 1981 in einem Artikel namens "Preventing nuclear war" propagierte. Danach sollte der US-Präsident, vor der Nutzung von Nuklearwaffen zunächst eine unschuldige Person mit bloßen Händen umbringen müssen, um an die Abschusscodes zu kommen – um so aus erster Hand zu erfahren, wie es ist, Mord an Unschuldigen zu begehen:
 

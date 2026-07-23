@@ -1,31 +1,30 @@
 ---
 title: "Review: The Dark Knight Rises"
 date: "2012-08-01"
-datetime: "2012-08-01 09:48:39"
+published_at: "2012-08-01T07:48:39Z"
 id: "20289"
 slug: "review-the-dark-knight-rises"
-url: "https://eay.cc/2012/review-the-dark-knight-rises/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2012/review-the-dark-knight-rises/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - batman
-  - christian-bale
-  - christopher-nolan
-  - comicverfilmungen
-  - dc
-  - filme
-  - kinolog
-  - the-dark-knight
-  - the-dark-knight-rises
-meta:
-  - yourls_shorturl: "https://eay.li/1ky"
+  - "batman"
+  - "christian bale"
+  - "christopher nolan"
+  - "comicverfilmungen"
+  - "dc"
+  - "filme"
+  - "kinolog"
+  - "the dark knight"
+  - "the dark knight rises"
+short_url: "https://eay.li/1ky"
 ---
 
 ![](https://eay.cc/uploads/2012/thedarkknightrises.jpg)(Für die folgende Rezension gilt eine **leichte Spoiler-Warnung**, da die Ausgangssituation der Handlung beschrieben wird. Also auch nicht mehr als sonst.)
 
-Nach vier Jahren des Wartens war es letzte Woche in der Nacht von Dienstag auf Mittwoch für mich und die Fanboys der Republik endlich soweit: »[The Dark Knight Rises](http://www.imdb.com/title/tt1345836/)« in der Mitternachtspremiere, das Grand Finale von [Christopher Nolans](http://en.wikipedia.org/wiki/Christopher_Nolan) Batman-Trilogie. Je nach Sitzfleisch natürlich im Triple oder Double Feature mit den beiden Vorgängern »Batman Begins« und »[The Dark Knight](//eay.cc/2008/christopher-nolans-batman/)« (bei mir war's das Double; »Batman Begins« hab ich mir Tags zuvor nochmal angesehen). Nun würden wir also endlich erfahren, wie es dem dunklen Ritter ergangen ist, seitdem er zuletzt die vom einst schillernden Hoffnungsträger Harvey Dent alias Two-Face verübten Morde auf sich genommen und das Batcape an den Nagel gehangen hat.
+Nach vier Jahren des Wartens war es letzte Woche in der Nacht von Dienstag auf Mittwoch für mich und die Fanboys der Republik endlich soweit: »[The Dark Knight Rises](http://www.imdb.com/title/tt1345836/)« in der Mitternachtspremiere, das Grand Finale von [Christopher Nolans](http://en.wikipedia.org/wiki/Christopher_Nolan) Batman-Trilogie. Je nach Sitzfleisch natürlich im Triple oder Double Feature mit den beiden Vorgängern »Batman Begins« und »[The Dark Knight](https://eay.cc/2008/christopher-nolans-batman/)« (bei mir war's das Double; »Batman Begins« hab ich mir Tags zuvor nochmal angesehen). Nun würden wir also endlich erfahren, wie es dem dunklen Ritter ergangen ist, seitdem er zuletzt die vom einst schillernden Hoffnungsträger Harvey Dent alias Two-Face verübten Morde auf sich genommen und das Batcape an den Nagel gehangen hat.
 
 TDKR spielt acht Jahre nach dem ersten Aufeinandertreffen von Bats und dem Joker. Der damals von Batman und Commissioner Gordon gefasste Plan das geistige Erbe von Harvey Dent zu schützen, um die von ihm begonnene Veränderung Gothams fortzuführen, ging voll auf: Es gibt so gut wie keine Kriminalität mehr und der wegen Mordes gesuchte Fledermausmann wurde nicht mehr gesehen und wird nicht mehr gebraucht. Auch Bruce Wayne hat sich aus dem öffentlichen Leben zurückgezogen und verwahrlost in einem verwaisten Flügel des wieder erbauten [Wayne Manor](http://en.wikipedia.org/wiki/Wayne_Manor). Doch als mit Bane und seinen Mannen eine neue, unberechenbare Bedrohung über Gotham hereinbricht, wird es Zeit für den Batman zurückzukehren.
 
@@ -35,4 +34,4 @@ Während wir also an akutem Fledermausmangel leiden, bekommen wir immerhin gute 
 
 Also halten wir fest: »The Dark Knight Rises« bietet zu wenig Dark Knight, teilweise miserables Zeitmanagement und hat einen blassen Schurken. Hat mir der Film trotzdem gefallen? Oh ja! Denn trotz allem ist es dennoch ein waschechter Nolan-Batman: Die Präsentation ist fantastisch und wenn man von den genannten Punkten absieht, dreht und wendet man sich vor Spannung im Kinosessel. Der größte Flaw ist halt der, dass »Rises« der Nachfolger von »The Dark Knight« ist. Er ist eine ideale Fortsetzung zu »Batman Begins«, hält jedoch dem unausweichlichen Vergleich zur Joker-Episode nicht stand. Viel mehr wirkt »The Dark Knight« ob seiner Großartig nun wie ein Fremdkörper in der Dark Knight-Trilogie, die mit TDKR aber dennoch einen guten, würdigen Abschluss gefunden hat.
 
- **[![EMDb](/uploads/pages/emdb/emdb_mini.gif)](http://eay.cc/emdb/) - Rating:** ![3,5/5](/uploads/pages/emdb/s_3-5.gif)
+ **[![EMDb](https://eay.cc/uploads/pages/emdb/emdb_mini.gif)](http://eay.cc/emdb/) - Rating:** ![3,5/5](https://eay.cc/uploads/pages/emdb/s_3-5.gif)

@@ -1,22 +1,22 @@
 ---
 title: "Home is where the wifi connects automatically."
 date: "2016-10-23"
-datetime: "2016-10-23 23:00:36"
+published_at: "2016-10-23T21:00:36Z"
 id: "32954"
 slug: "home-is-where-the-wifi-connects-automatically"
-url: "https://eay.cc/2016/home-is-where-the-wifi-connects-automatically/"
-author: "eay"
+permalink: "https://eay.cc/2016/home-is-where-the-wifi-connects-automatically/"
+author: "Stefan Grund"
 format: "image"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - fotos
-  - haus
-  - sticken
-  - wlan
-meta:
-  - content_copy: "https://instagram.com/p/BL6533qgxD1/"
-  - yourls_shorturl: "https://eay.li/2yg"
+  - "fotos"
+  - "haus"
+  - "sticken"
+  - "wlan"
+short_url: "https://eay.li/2yg"
+content_copy:
+  - "https://instagram.com/p/BL6533qgxD1/"
 ---
 
 ![](https://eay.cc/uploads/2016/home-is-where-the-wifi-connects-automatically.jpeg)

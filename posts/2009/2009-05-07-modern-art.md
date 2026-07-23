@@ -1,22 +1,21 @@
 ---
 title: "Modern Art"
 date: "2009-05-07"
-datetime: "2009-05-07 11:51:33"
+published_at: "2009-05-07T09:51:33Z"
 id: "7104"
 slug: "modern-art"
-url: "https://eay.cc/2009/modern-art/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2009/modern-art/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - 0815
-  - the-others
+  - "08/15"
+  - "The Others"
 tags:
-  - ebay
-  - fanart
-  - kunst
-  - netzkultur
-meta:
-  - yourls_shorturl: "https://eay.li/qn"
+  - "ebay"
+  - "fanart"
+  - "kunst"
+  - "netzkultur"
+short_url: "https://eay.li/qn"
 ---
 
-![](/uploads/2009/ebayart.jpg) "Ebay", 2007 by [FranÃ§ois Curlet](http://www.curlet.com/). ([via](http://www.iheartpluto.de/kunst-und-design/ebay/))
+![](https://eay.cc/uploads/2009/ebayart.jpg) "Ebay", 2007 by [FranÃ§ois Curlet](http://www.curlet.com/). ([via](http://www.iheartpluto.de/kunst-und-design/ebay/))

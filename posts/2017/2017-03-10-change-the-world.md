@@ -1,19 +1,18 @@
 ---
 title: "You don’t change the world by doing what you’re told"
 date: "2017-03-10"
-datetime: "2017-03-10 15:25:07"
+published_at: "2017-03-10T14:25:07Z"
 id: "32262"
 slug: "change-the-world"
-url: "https://eay.cc/2017/change-the-world/"
-author: "eay"
+permalink: "https://eay.cc/2017/change-the-world/"
+author: "Stefan Grund"
 format: "quote"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - preis
-  - ziviler-ungehorsam
-meta:
-  - yourls_shorturl: "https://eay.li/2wv"
+  - "preis"
+  - "ziviler ungehorsam"
+short_url: "https://eay.li/2wv"
 ---
 
 > You don’t change the world by doing what you’re told.

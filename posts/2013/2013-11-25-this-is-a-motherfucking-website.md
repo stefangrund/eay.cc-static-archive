@@ -1,20 +1,21 @@
 ---
 title: "\"This is a motherfucking website.\""
 date: "2013-11-25"
-datetime: "2013-11-25 01:43:21"
+published_at: "2013-11-25T00:43:21Z"
 id: "26176"
 slug: "this-is-a-motherfucking-website"
-url: "https://eay.cc/2013/this-is-a-motherfucking-website/"
-author: "eay"
+permalink: "https://eay.cc/2013/this-is-a-motherfucking-website/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - netzkultur
-  - webdesign
-meta:
-  - linked_list_url: "http://motherfuckingwebsite.com/"
-  - yourls_shorturl: "https://eay.li/29u"
+  - "netzkultur"
+  - "webdesign"
+external_url: "http://motherfuckingwebsite.com/"
+short_url: "https://eay.li/29u"
 ---
+
+[Link →](http://motherfuckingwebsite.com/)
 
 Angry web designer is angry. And right.

@@ -1,20 +1,19 @@
 ---
 title: "Colon Slash Slash"
 date: "2014-02-12"
-datetime: "2014-02-12 12:39:10"
+published_at: "2014-02-12T11:39:10Z"
 id: "27144"
 slug: "colon-slash-slash"
-url: "https://eay.cc/2014/colon-slash-slash/"
-author: "eay"
+permalink: "https://eay.cc/2014/colon-slash-slash/"
+author: "Stefan Grund"
 format: "quote"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - best-of
-  - netzkultur
-  - tim-berners-lee
-meta:
-  - yourls_shorturl: "https://eay.li/2cv"
+  - "best of"
+  - "netzkultur"
+  - "tim berners-lee"
+short_url: "https://eay.li/2cv"
 ---
 
 > I would have got rid of the slash slash after the colon. You don't really need it. It just seemed like a good idea at the time.

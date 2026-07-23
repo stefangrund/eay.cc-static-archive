@@ -1,25 +1,24 @@
 ---
 title: "\"The code was never the important part\""
 date: "2020-05-18"
-datetime: "2020-05-18 22:41:59"
+published_at: "2020-05-18T21:41:59Z"
 id: "36519"
 slug: "the-code-was-never-the-important-part"
-url: "https://eay.cc/2020/the-code-was-never-the-important-part/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2020/the-code-was-never-the-important-part/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - kreativitat
-  - netzkultur
-  - programmieren
-  - technologie
-  - web-2-0
-meta:
-  - yourls_shorturl: "https://eay.li/3e9"
+  - "kreativität"
+  - "netzkultur"
+  - "programmieren"
+  - "technologie"
+  - "web 2.0"
+short_url: "https://eay.li/3e9"
 ---
 
-[youtube id="BxV14h0kFs0"]
+\[youtube id="BxV14h0kFs0"\]
 
 [Speaking of APIs](https://eay.cc/2020/facebook-kauft-giphy-fuer-400-millionen-dollar/): Dieses Video von [Tom Scott](https://en.wikipedia.org/wiki/Tom_Scott_(entertainer)), den ich bis zu eben diesem Video zu meiner und seiner Überraschung nicht kannte, ist vor kurzem vielerorts dadurch aufgepoppt, dass er den Videotitel über die YouTube-API ständig mit dem (fast) aktuellen View-Count aktualisiert hat ("This Video Has 11,385,557 Views").
 

@@ -1,23 +1,22 @@
 ---
 title: "Can YOU Fix Climate Change?"
 date: "2021-09-23"
-datetime: "2021-09-23 21:23:29"
+published_at: "2021-09-23T19:23:29Z"
 id: "37492"
 slug: "can-you-fix-climate-change"
-url: "https://eay.cc/2021/can-you-fix-climate-change/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2021/can-you-fix-climate-change/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - deutschland
-  - klimawandel
-  - politik
-meta:
-  - yourls_shorturl: "https://eay.li/2rq"
+  - "deutschland"
+  - "klimawandel"
+  - "politik"
+short_url: "https://eay.li/2rq"
 ---
 
-[youtube id="yiw6_JakZFc"]
+\[youtube id="yiw6\_JakZFc"\]
 
 Man könnte jede Woche auf das neue Video von [Kurzgesagt a.k.a. In a Nutshell](https://youtube.com/c/inanutshell) verweisen, aber ihr könntet die Videos ja auch einfach selbst abonnieren und jede Woche ohne weitere Aufforderung gucken. Aber ich kenn euch ja.
 

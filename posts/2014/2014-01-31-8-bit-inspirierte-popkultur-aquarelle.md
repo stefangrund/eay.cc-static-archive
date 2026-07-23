@@ -1,22 +1,21 @@
 ---
 title: "8-bit inspirierte Popkultur-Aquarelle"
 date: "2014-01-31"
-datetime: "2014-01-31 18:06:43"
+published_at: "2014-01-31T17:06:43Z"
 id: "27046"
 slug: "8-bit-inspirierte-popkultur-aquarelle"
-url: "https://eay.cc/2014/8-bit-inspirierte-popkultur-aquarelle/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2014/8-bit-inspirierte-popkultur-aquarelle/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - 8bit
-  - fanart
-  - kunst
-  - serien
-  - star-wars
-meta:
-  - yourls_shorturl: "https://eay.li/2cn"
+  - "8bit"
+  - "fanart"
+  - "kunst"
+  - "serien"
+  - "star wars"
+short_url: "https://eay.li/2cn"
 ---
 
 ![](https://eay.cc/uploads/2014/adamlister_vader.jpg)

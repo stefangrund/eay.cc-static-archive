@@ -1,22 +1,21 @@
 ---
 title: "Wieviel kostet es, den Todesstern zu bauen?"
 date: "2012-02-24"
-datetime: "2012-02-24 11:24:47"
+published_at: "2012-02-24T10:24:47Z"
 id: "18847"
 slug: "wieviel-kostet-es-den-todesstern-zu-bauen"
-url: "https://eay.cc/2012/wieviel-kostet-es-den-todesstern-zu-bauen/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2012/wieviel-kostet-es-den-todesstern-zu-bauen/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - batman
-  - fake-science
-  - fanboys
-  - geld
-  - star-wars
-meta:
-  - yourls_shorturl: "https://eay.li/1g8"
+  - "batman"
+  - "fake science"
+  - "fanboys"
+  - "geld"
+  - "star wars"
+short_url: "https://eay.li/1g8"
 ---
 
 > Building a massive space weapon is all very well, but you have to find the materials to build it with. It's easy to say that "sure, the Death Star would be expensive" but is there actually enough iron in the Earth to make the first Death Star?.

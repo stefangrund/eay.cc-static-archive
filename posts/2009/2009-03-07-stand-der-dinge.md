@@ -1,18 +1,17 @@
 ---
 title: "Stand der Dinge"
 date: "2009-03-07"
-datetime: "2009-03-07 13:38:42"
+published_at: "2009-03-07T12:38:42Z"
 id: "6043"
 slug: "stand-der-dinge"
-url: "https://eay.cc/2009/stand-der-dinge/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2009/stand-der-dinge/"
+author: "Stefan Grund"
+format: "standard"
 tags:
-  - alkohol
-  - analogleben
-  - party
-meta:
-  - yourls_shorturl: "https://eay.li/4w"
+  - "alkohol"
+  - "analogleben"
+  - "party"
+short_url: "https://eay.li/4w"
 ---
 
 :voll:

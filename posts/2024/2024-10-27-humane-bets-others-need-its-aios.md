@@ -1,30 +1,28 @@
 ---
 title: "Humane bets others need its AIOS"
 date: "2024-10-27"
-datetime: "2024-10-27 18:30:18"
+published_at: "2024-10-27T16:30:18Z"
 id: "39920"
 slug: "humane-bets-others-need-its-aios"
-url: "https://eay.cc/2024/humane-bets-others-need-its-aios/"
-author: "eay"
+permalink: "https://eay.cc/2024/humane-bets-others-need-its-aios/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - betriebssysteme
-  - humane
-  - kuenstliche-intelligenz
-  - technologie
-meta:
-  - linked_list_url: "https://crazystupidtech.com/archive/Humane-CosmOS/"
-  - geo_latitude: "53.930541"
-  - geo_longitude: "11.381364"
-  - geo_public: "1"
-  - yourls_shorturl: "https://eay.li/3sn"
-  - _share_on_mastodon_url: "https://eay.social/@eay/113380335683068099"
-  - linked_list_og-title: "AI Pin: From Promise to Reality in Personal Computing"
-  - linked_list_og-description: "Explore the challenges and innovations behind the AI Pin as co-founders navigate product criticism and pivot to an AI operating system."
-  - linked_list_og-image: "https://eay.cc/wordpress/uploads/og-cache/96ab6c11935ff6e8e5f21f2a212c7aef.webp"
+  - "betriebssysteme"
+  - "humane"
+  - "künstliche intelligenz"
+  - "technologie"
+external_url: "https://crazystupidtech.com/archive/Humane-CosmOS/"
+short_url: "https://eay.li/3sn"
+content_copy:
+  - "https://eay.social/@eay/113380335683068099"
+geo_latitude: "53.930541"
+geo_longitude: "11.381364"
 ---
+
+[Link →](https://crazystupidtech.com/archive/Humane-CosmOS/)
 
 _Was macht eigentlich [Humane](https://humane.com/), die Firma hinter dem [gescheiterten AI Pin](https://www.theverge.com/24126502/humane-ai-pin-review)?_
 

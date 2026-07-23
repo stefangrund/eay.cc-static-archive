@@ -1,21 +1,20 @@
 ---
 title: "iPadOS 13.4 – Cursorcalypse"
 date: "2020-03-26"
-datetime: "2020-03-26 23:21:06"
+published_at: "2020-03-26T22:21:06Z"
 id: "36373"
 slug: "ipados-13-4-cursorcalypse"
-url: "https://eay.cc/2020/ipados-13-4-cursorcalypse/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2020/ipados-13-4-cursorcalypse/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - apple
-  - ios
-  - ipad
-  - technologie
-meta:
-  - yourls_shorturl: "https://eay.li/3de"
+  - "apple"
+  - "ios"
+  - "ipad"
+  - "technologie"
+short_url: "https://eay.li/3de"
 ---
 
 ![iPad zwischen Bildschirmen](https://eay.cc/uploads/2020/ipados.jpeg)
@@ -28,4 +27,9 @@ Soll heißen: Mit optionaler Tastatur und Cursor-Steuerung ist das sicherlich de
 
 There, I said it.
 
-(Selbstredend wurde dieser Blogeintrag komplett auf dem iPad geschrieben ((In [Drafts](https://getdrafts.com/), das zum Glück ja auch meine [TextExpander](https://textexpander.com/)-Snippets versteht, die ich beim Schreiben definitiv brauche.)) und veröffentlicht ((Über das WordPress-Admin-Interface im Browser.)), inklusive Bildbearbeitung ((Mit [Annotable](https://apps.apple.com/de/app/annotable-bilder-annotieren/id1099850421), [Darkroom](https://darkroom.co/) und [Desqueeze](https://apps.apple.com/de/app/desqueeze-batch-resizer/id1046809993).)) und -upload ((Per SFTP via [Secure ShellFish](https://secureshellfish.app/).)), was tatsächlich nur minimal langsamer zuging als auf dem Mac.)
+(Selbstredend wurde dieser Blogeintrag komplett auf dem iPad geschrieben [^1] und veröffentlicht [^2], inklusive Bildbearbeitung [^3] und -upload [^4], was tatsächlich nur minimal langsamer zuging als auf dem Mac.)
+
+[^1]: In [Drafts](https://getdrafts.com/), das zum Glück ja auch meine [TextExpander](https://textexpander.com/)-Snippets versteht, die ich beim Schreiben definitiv brauche.
+[^2]: Über das WordPress-Admin-Interface im Browser.
+[^3]: Mit [Annotable](https://apps.apple.com/de/app/annotable-bilder-annotieren/id1099850421), [Darkroom](https://darkroom.co/) und [Desqueeze](https://apps.apple.com/de/app/desqueeze-batch-resizer/id1046809993).
+[^4]: Per SFTP via [Secure ShellFish](https://secureshellfish.app/).

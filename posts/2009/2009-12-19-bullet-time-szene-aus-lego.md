@@ -1,25 +1,26 @@
 ---
 title: "Bullet Time-Szene aus Lego"
 date: "2009-12-19"
-datetime: "2009-12-19 03:01:36"
+published_at: "2009-12-19T02:01:36Z"
 id: "10503"
 slug: "bullet-time-szene-aus-lego"
-url: "https://eay.cc/2009/bullet-time-szene-aus-lego/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2009/bullet-time-szene-aus-lego/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - 0815
-  - the-others
+  - "08/15"
+  - "The Others"
 tags:
-  - fanart
-  - filme
-  - lego
-  - the-matrix
-meta:
-  - yourls_shorturl: "https://eay.li/k7"
+  - "fanart"
+  - "filme"
+  - "lego"
+  - "the matrix"
+short_url: "https://eay.li/k7"
 ---
 
 > Zehn Jahre nachdem der Film Matrix erschien, haben zwei Fans eine Schlüsselszene mit Lego nachgefilmt. Für eine 44-sekündige Schießerei brauchten sie länger als ein Jahr. ([TAZ](http://www.taz.de/1/leben/internet/artikel/1/die-bausteine-der-matrix/))
+
+[Embedded content](http://www.youtube.com/v/iDe4v318f64&hl=de_DE&fs=1&)
 
  ([YouTube Direktyellowpill](http://www.youtube.com/watch?v=iDe4v318f64))
 

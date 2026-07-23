@@ -1,23 +1,22 @@
 ---
 title: "Der Hobbit: Die Schlacht der fünf Heere"
 date: "2015-01-08"
-datetime: "2015-01-08 19:09:16"
+published_at: "2015-01-08T18:09:16Z"
 id: "29833"
 slug: "der-hobbit-die-schlacht-der-fuenf-heere"
-url: "https://eay.cc/2015/der-hobbit-die-schlacht-der-fuenf-heere/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2015/der-hobbit-die-schlacht-der-fuenf-heere/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - filme
-  - kinolog
-  - lord-of-the-rings
-meta:
-  - yourls_shorturl: "https://eay.li/2m8"
+  - "filme"
+  - "kinolog"
+  - "lord of the rings"
+short_url: "https://eay.li/2m8"
 ---
 
-![](https://eay.cc/uploads/movies/thehobbit3_2014.jpg)Bekanntlich kann ich mit dem "Herr der Ringeâ-Kosmos nicht allzu viel anfangen. Dennoch fiel [mein Urteil zum ersten Hobbit](//eay.cc/2013/review-rundumschlag-17/) gut, [zum zweiten](//eay.cc/2013/review-rundumschlag-dezember-2013/#derhobbit2) sogar noch besser aus. Anscheinend nur, um mit der Schlacht der fünf Heere wieder auf den Boden der Fantasy-Realität zurückgeholt zu werden, denn vom dritten und letzten Teil von [Peter Jackson](http://www.imdb.com/name/nm0001392/)s Filmadaption von J.R.R. Tolkiens kleinem Hobbit war ich alles andere als angetan.
+![](https://eay.cc/uploads/movies/thehobbit3_2014.jpg)Bekanntlich kann ich mit dem "Herr der Ringeâ-Kosmos nicht allzu viel anfangen. Dennoch fiel [mein Urteil zum ersten Hobbit](https://eay.cc/2013/review-rundumschlag-17/) gut, [zum zweiten](https://eay.cc/2013/review-rundumschlag-dezember-2013/#derhobbit2) sogar noch besser aus. Anscheinend nur, um mit der Schlacht der fünf Heere wieder auf den Boden der Fantasy-Realität zurückgeholt zu werden, denn vom dritten und letzten Teil von [Peter Jackson](http://www.imdb.com/name/nm0001392/)s Filmadaption von J.R.R. Tolkiens kleinem Hobbit war ich alles andere als angetan.
 
 Das fängt gleich zu Beginn des 144 Minuten langen Finales an: Smaug, der mächtige, böse Drache, auf den wir letztes Jahr 161 Minuten hinfiebern mussten, erweist sich jetzt in den gefühlten ersten fünf Minuten als doch gar nicht so mächtig und segnet auch gleich das Zeitliche. Es folgt das Vorspiel des Showdowns in typischer HdR-Manier, um dann in der chaotischsten und am schlechtesten inszenierten Schlacht der Filmgeschichte zu enden.
 

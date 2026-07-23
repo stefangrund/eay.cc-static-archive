@@ -1,20 +1,19 @@
 ---
 title: "Rize of the Fenix"
 date: "2012-02-03"
-datetime: "2012-02-03 14:39:33"
+published_at: "2012-02-03T13:39:33Z"
 id: "18638"
 slug: "rize-of-the-fenix"
-url: "https://eay.cc/2012/rize-of-the-fenix/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2012/rize-of-the-fenix/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - album
-  - musik
-  - tenacious-d
-meta:
-  - yourls_shorturl: "https://eay.li/1fl"
+  - "album"
+  - "musik"
+  - "tenacious d"
+short_url: "https://eay.li/1fl"
 ---
 
 Als [Tenacious D](http://de.wikipedia.org/wiki/Tenacious_D) für Rock am Ring angekündigt würden, stürmten meine Freunde und ich die Ticketschalter der Republik und kauften RaR-Tickets als gäbe es kein morgen mehr. Und das obwohl wir schon alle eine RaR-Karte unser eigen nannten. Denn dass wir die großartigste Rockcombo unserer Zeit jemals live erleben würden, glaubte niemand von uns. Ein Wunschtraum, mit dem wir alle abgeschlossen hatten. Und dann wurde er doch wahr: The D, right in front of us! Im Juni ist es soweit!

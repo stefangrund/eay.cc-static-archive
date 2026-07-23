@@ -1,21 +1,22 @@
 ---
 title: "Preisgekrönte Schriftstellerin ekelt sich vor auf \"abartigen Wegen\" gezeugten Halbmenschen"
 date: "2014-03-06"
-datetime: "2014-03-06 10:50:50"
+published_at: "2014-03-06T09:50:50Z"
 id: "27351"
 slug: "preisgekroente-schriftstellerin-ekelt-sich-vor-auf-abartigen-wegen-gezeugten-halbmenschen"
-url: "https://eay.cc/2014/preisgekroente-schriftstellerin-ekelt-sich-vor-auf-abartigen-wegen-gezeugten-halbmenschen/"
-author: "eay"
+permalink: "https://eay.cc/2014/preisgekroente-schriftstellerin-ekelt-sich-vor-auf-abartigen-wegen-gezeugten-halbmenschen/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - kinder
-  - literatur
-meta:
-  - linked_list_url: "http://www.stefan-niggemeier.de/blog/buechner-preistraegerin-ekelt-sich-vor-auf-abartigen-wegen-gezeugten-halbmenschen/"
-  - yourls_shorturl: "https://eay.li/2dp"
+  - "kinder"
+  - "literatur"
+external_url: "http://www.stefan-niggemeier.de/blog/buechner-preistraegerin-ekelt-sich-vor-auf-abartigen-wegen-gezeugten-halbmenschen/"
+short_url: "https://eay.li/2dp"
 ---
+
+[Link →](http://www.stefan-niggemeier.de/blog/buechner-preistraegerin-ekelt-sich-vor-auf-abartigen-wegen-gezeugten-halbmenschen/)
 
 Stefan Niggemeier – anderswo wird nicht darüber berichtet:
 

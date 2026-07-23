@@ -1,25 +1,25 @@
 ---
 title: "Quantified Eay 2017"
 date: "2018-01-02"
-datetime: "2018-01-02 23:17:05"
+published_at: "2018-01-02T22:17:05Z"
 id: "33947"
 slug: "quantified-eay-2017"
-url: "https://eay.cc/2018/quantified-eay-2017/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2018/quantified-eay-2017/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - 2017
-  - quantified-self
-  - statistik
-meta:
-  - content_copy: "https://twitter.com/eay/status/948312114460086273"
-  - content_copy: "https://twitter.com/eay/status/948312192142729216"
-  - content_copy: "https://twitter.com/eay/status/948312312087236616"
-  - content_copy: "https://twitter.com/eay/status/948312397919514624"
-  - content_copy: "https://twitter.com/eay/status/948312524214231045"
-  - yourls_shorturl: "https://eay.li/330"
+  - "2017"
+  - "quantified self"
+  - "statistik"
+short_url: "https://eay.li/330"
+content_copy:
+  - "https://twitter.com/eay/status/948312114460086273"
+  - "https://twitter.com/eay/status/948312192142729216"
+  - "https://twitter.com/eay/status/948312312087236616"
+  - "https://twitter.com/eay/status/948312397919514624"
+  - "https://twitter.com/eay/status/948312524214231045"
 ---
 
 Es folgen einige Quantified-Self-Daten, die ich eben für 2017 ausgewertet habe:

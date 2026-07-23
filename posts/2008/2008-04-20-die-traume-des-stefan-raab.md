@@ -1,21 +1,20 @@
 ---
 title: "Die Träume des Stefan Raab"
 date: "2008-04-20"
-datetime: "2008-04-20 18:07:36"
+published_at: "2008-04-20T16:07:36Z"
 id: "492"
 slug: "die-traume-des-stefan-raab"
-url: "https://eay.cc/2008/die-traume-des-stefan-raab/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2008/die-traume-des-stefan-raab/"
+author: "Stefan Grund"
+format: "standard"
 tags:
-  - effzeh
-  - fernsehen
-  - interview
-  - sport
-  - stefan-raab
-  - tv-total
-meta:
-  - yourls_shorturl: "https://eay.li/ua"
+  - "effzeh"
+  - "fernsehen"
+  - "interview"
+  - "sport"
+  - "stefan raab"
+  - "tv total"
+short_url: "https://eay.li/ua"
 ---
 
 Stefan Raab - wer war das denn nochmal? Falls man sich erinnern möchte, gibt's [bei der SZ ein Interview](http://www.sueddeutsche.de/kultur/artikel/651/167171/) mit ihm, in dem Raabs Unmut gegenüber den SZ-Fritzen durchaus zum Vorschein tritt. Ist aber auch alles egal, schließlich sagt er das hier:

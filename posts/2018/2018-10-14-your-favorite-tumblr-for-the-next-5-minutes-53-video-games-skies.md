@@ -1,20 +1,19 @@
 ---
 title: "Your favorite tumblr for the next 5 minutes (53): Video Games Skies"
 date: "2018-10-14"
-datetime: "2018-10-14 22:15:19"
+published_at: "2018-10-14T20:15:19Z"
 id: "34992"
 slug: "your-favorite-tumblr-for-the-next-5-minutes-53-video-games-skies"
-url: "https://eay.cc/2018/your-favorite-tumblr-for-the-next-5-minutes-53-video-games-skies/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2018/your-favorite-tumblr-for-the-next-5-minutes-53-video-games-skies/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - games
-  - retro
-  - your-favorite-tumblr-for-the-next-5-minutes
-meta:
-  - yourls_shorturl: "https://eay.li/373"
+  - "games"
+  - "retro"
+  - "your favorite tumblr for the next 5 minutes"
+short_url: "https://eay.li/373"
 ---
 
 ![](https://eay.cc/uploads/2018/videogamesskies.gif)

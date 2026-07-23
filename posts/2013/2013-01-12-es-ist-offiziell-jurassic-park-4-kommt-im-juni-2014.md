@@ -1,24 +1,25 @@
 ---
 title: "Es ist offiziell: Jurassic Park 4 kommt im Juni 2014"
 date: "2013-01-12"
-datetime: "2013-01-12 15:01:43"
+published_at: "2013-01-12T13:01:43Z"
 id: "683"
 slug: "es-ist-offiziell-jurassic-park-4-kommt-im-juni-2014"
-url: "https://eay.cc/2013/es-ist-offiziell-jurassic-park-4-kommt-im-juni-2014/"
-author: "eay"
+permalink: "https://eay.cc/2013/es-ist-offiziell-jurassic-park-4-kommt-im-juni-2014/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - 2014
-  - dinosaurier
-  - filme
-  - geruechte
-  - jurassic-park
-meta:
-  - yourls_shorturl: "https://eay.li/21e"
-  - linked_list_url: "http://www.comingsoon.net/news/movienews.php?id=98802"
+  - "2014"
+  - "dinosaurier"
+  - "filme"
+  - "gerüchte"
+  - "jurassic park"
+external_url: "http://www.comingsoon.net/news/movienews.php?id=98802"
+short_url: "https://eay.li/21e"
 ---
+
+[Link →](http://www.comingsoon.net/news/movienews.php?id=98802)
 
 Yay, denn ich liebe Jurassic Park (1)! :yeah:
 

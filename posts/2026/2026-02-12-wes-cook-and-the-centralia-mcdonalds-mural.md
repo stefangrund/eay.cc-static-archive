@@ -1,31 +1,29 @@
 ---
 title: "Wes Cook and the Centralia McDonald's Mural"
 date: "2026-02-12"
-datetime: "2026-02-12 23:57:36"
+published_at: "2026-02-12T22:57:36Z"
 id: "41216"
 slug: "wes-cook-and-the-centralia-mcdonalds-mural"
-url: "https://eay.cc/2026/wes-cook-and-the-centralia-mcdonalds-mural/"
-author: "eay"
+permalink: "https://eay.cc/2026/wes-cook-and-the-centralia-mcdonalds-mural/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - kunst
-  - mcdonalds
-  - panic
-  - xoxo
-meta:
-  - linked_list_url: "https://cabel.com/wes-cook-and-the-mcdonalds-mural/"
-  - geo_latitude: "50.973833"
-  - geo_longitude: "6.682999"
-  - geo_public: "1"
-  - yourls_shorturl: "https://eay.li/3zb"
-  - _share_on_mastodon_url: "https://eay.social/@eay/116060131002933086"
-  - linked_list_og-title: "Wes Cook and the Centralia McDonald's Mural"
-  - linked_list_og-description: "A personal story about discovering a mural in a McDonald's, an unknown artist named Wes Cook, trying to save the mural, and a conference talk about it all."
-  - linked_list_og-image: "https://eay.cc/wordpress/uploads/og-cache/228a3c867cd3309e7a648e43553b0736.webp"
-  - content_copy: "https://bsky.app/profile/eay.social/post/3mep3r7iw4c24"
+  - "kunst"
+  - "mcdonalds"
+  - "panic"
+  - "xoxo"
+external_url: "https://cabel.com/wes-cook-and-the-mcdonalds-mural/"
+short_url: "https://eay.li/3zb"
+content_copy:
+  - "https://bsky.app/profile/eay.social/post/3mep3r7iw4c24"
+  - "https://eay.social/@eay/116060131002933086"
+geo_latitude: "50.973833"
+geo_longitude: "6.682999"
 ---
+
+[Link →](https://cabel.com/wes-cook-and-the-mcdonalds-mural/)
 
 [Cabel Sasser](https://cabel.com/about/) von [Panic](https://panic.com/) hat 2024 auf der letzten [XOXO-Konferenz](https://xoxofest.com/?) einen wunderbaren Vortrag über … McDonald's und ein außergewöhnliches Ronald-McDonald-Wandbild von 1980 gehalten, das er in einem Vintage McDonald's gefunden hat.
 

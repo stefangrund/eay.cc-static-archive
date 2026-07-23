@@ -1,22 +1,23 @@
 ---
 title: "Cartoon Kevin"
 date: "2018-03-19"
-datetime: "2018-03-19 13:55:18"
+published_at: "2018-03-19T12:55:18Z"
 id: "34428"
 slug: "cartoon-kevin"
-url: "https://eay.cc/2018/cartoon-kevin/"
-author: "eay"
+permalink: "https://eay.cc/2018/cartoon-kevin/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - fanart
-  - kunst
-  - mashup
-meta:
-  - linked_list_url: "http://cartoonkevin.com/"
-  - yourls_shorturl: "https://eay.li/349"
+  - "fanart"
+  - "kunst"
+  - "mashup"
+external_url: "http://cartoonkevin.com/"
+short_url: "https://eay.li/349"
 ---
+
+[Link →](http://cartoonkevin.com/)
 
 ![](https://eay.cc/uploads/2018/cartoon-kevin.jpg)
 

@@ -1,24 +1,25 @@
 ---
 title: "Der Verlust der physischen Realität im Film"
 date: "2015-11-29"
-datetime: "2015-11-29 15:47:14"
+published_at: "2015-11-29T14:47:14Z"
 id: "31071"
 slug: "der-verlust-der-physischen-realitaet-im-film"
-url: "https://eay.cc/2015/der-verlust-der-physischen-realitaet-im-film/"
-author: "eay"
+permalink: "https://eay.cc/2015/der-verlust-der-physischen-realitaet-im-film/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - digitalisierung
-  - filme
-  - filmwissenschaft
-  - technologie
-  - zukunft
-meta:
-  - linked_list_url: "http://www.kino-zeit.de/blog/b-roll/der-verlust-der-physischen-realitaet-teil-1"
-  - yourls_shorturl: "https://eay.li/2ra"
+  - "digitalisierung"
+  - "filme"
+  - "filmwissenschaft"
+  - "technologie"
+  - "zukunft"
+external_url: "http://www.kino-zeit.de/blog/b-roll/der-verlust-der-physischen-realitaet-teil-1"
+short_url: "https://eay.li/2ra"
 ---
+
+[Link →](http://www.kino-zeit.de/blog/b-roll/der-verlust-der-physischen-realitaet-teil-1)
 
 > Die Digitalisierung des Alltags stellt das Kino vor ein Problem: Unsere Lebenswelt entzieht sich immer mehr der filmischen Darstellbarkeit.
 

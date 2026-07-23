@@ -1,29 +1,28 @@
 ---
 title: "New Apple TV Intro"
 date: "2025-11-04"
-datetime: "2025-11-04 18:05:09"
+published_at: "2025-11-04T17:05:09Z"
 id: "40730"
 slug: "new-apple-tv-intro"
-url: "https://eay.cc/2025/new-apple-tv-intro/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2025/new-apple-tv-intro/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - apple
-  - apple-tv
-  - design
-  - streaming
-meta:
-  - geo_latitude: "50.973819"
-  - geo_longitude: "6.683067"
-  - geo_public: "1"
-  - yourls_shorturl: "https://eay.li/3xb"
-  - _share_on_mastodon_url: "https://eay.social/@eay/115492514032885481"
-  - content_copy: "https://bsky.app/profile/eay.social/post/3m4szijjojo2e"
+  - "apple"
+  - "apple tv"
+  - "design"
+  - "streaming"
+short_url: "https://eay.li/3xb"
+content_copy:
+  - "https://bsky.app/profile/eay.social/post/3m4szijjojo2e"
+  - "https://eay.social/@eay/115492514032885481"
+geo_latitude: "50.973819"
+geo_longitude: "6.683067"
 ---
 
-[youtube id="6sX_BfDnyrg"]
+\[youtube id="6sX\_BfDnyrg"\]
 
 [Nach der Umbenennung](https://eay.cc/2025/alles-ist-apple-tv/) hier nun die neuen Visuals. Das Sound Design stammt von [Finneas](https://de.wikipedia.org/wiki/Finneas_O%E2%80%99Connell).
 

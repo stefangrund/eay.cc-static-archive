@@ -1,31 +1,29 @@
 ---
 title: "\"Enable Mastodon Apps\"-WordPress-Plugin"
 date: "2024-03-28"
-datetime: "2024-03-28 23:56:09"
+published_at: "2024-03-28T22:56:09Z"
 id: "39543"
 slug: "enable-mastodon-apps-wordpress-plugin"
-url: "https://eay.cc/2024/enable-mastodon-apps-wordpress-plugin/"
-author: "eay"
+permalink: "https://eay.cc/2024/enable-mastodon-apps-wordpress-plugin/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - apps
-  - blogging
-  - mastodon
-  - social-web
-  - wordpress
-meta:
-  - linked_list_url: "https://github.com/akirk/enable-mastodon-apps"
-  - geo_latitude: "50.973836"
-  - geo_longitude: "6.683014"
-  - geo_public: "1"
-  - yourls_shorturl: "https://eay.li/3qf"
-  - _share_on_mastodon_url: "https://eay.social/@eay/112175780449169622"
-  - linked_list_og-title: "GitHub - akirk/enable-mastodon-apps: Allow accessing your WordPress blog with Mastodon clients"
-  - linked_list_og-description: "Allow accessing your WordPress blog with Mastodon clients - akirk/enable-mastodon-apps"
-  - linked_list_og-image: "https://eay.cc/wordpress/uploads/og-cache/bbf6fc21d26bcafa4a358dd3c914da57.webp"
+  - "apps"
+  - "blogging"
+  - "mastodon"
+  - "social web"
+  - "wordpress"
+external_url: "https://github.com/akirk/enable-mastodon-apps"
+short_url: "https://eay.li/3qf"
+content_copy:
+  - "https://eay.social/@eay/112175780449169622"
+geo_latitude: "50.973836"
+geo_longitude: "6.683014"
 ---
+
+[Link →](https://github.com/akirk/enable-mastodon-apps)
 
 > Allow accessing your WordPress with Mastodon clients. Just enter your own blog URL as your instance.
 

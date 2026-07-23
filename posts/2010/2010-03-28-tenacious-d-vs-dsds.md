@@ -1,22 +1,21 @@
 ---
 title: "Tenacious D vs. DSDS"
 date: "2010-03-28"
-datetime: "2010-03-28 23:45:08"
+published_at: "2010-03-28T22:45:08Z"
 id: "11766"
 slug: "tenacious-d-vs-dsds"
-url: "https://eay.cc/2010/tenacious-d-vs-dsds/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2010/tenacious-d-vs-dsds/"
+author: "Stefan Grund"
+format: "standard"
 tags:
-  - dsds
-  - medienkritik
-  - musik
-  - musikindustrie
-  - netzkultur
-  - single
-  - tenacious-d
-meta:
-  - yourls_shorturl: "https://eay.li/47"
+  - "dsds"
+  - "medienkritik"
+  - "musik"
+  - "musikindustrie"
+  - "netzkultur"
+  - "single"
+  - "tenacious d"
+short_url: "https://eay.li/47"
 ---
 
 Leser Dominik hat mich dankenswerterweise darauf aufmerksam gemacht, dass man hierzulande zur Zeit versucht dem Vorbild der Briten, die im Dezember den [RATM](http://de.wikipedia.org/wiki/Rage_Against_the_Machine)-Oldie "[Killing in the name](http://www.youtube.com/watch?v=fkuOAY-S6OY)" anstelle des Weihnachtssongs einer schnöden TV-Casting-Combo auf Platz 1 der Single-Charts brachten, nachzueifern.

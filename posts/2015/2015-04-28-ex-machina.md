@@ -1,21 +1,20 @@
 ---
 title: "Ex Machina"
 date: "2015-04-28"
-datetime: "2015-04-28 21:26:55"
+published_at: "2015-04-28T20:26:55Z"
 id: "30462"
 slug: "ex-machina"
-url: "https://eay.cc/2015/ex-machina/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2015/ex-machina/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - filme
-  - kinolog
-  - kuenstliche-intelligenz
-  - roboter
-meta:
-  - yourls_shorturl: "https://eay.li/2o3"
+  - "filme"
+  - "kinolog"
+  - "künstliche intelligenz"
+  - "roboter"
+short_url: "https://eay.li/2o3"
 ---
 
 ![](https://eay.cc/uploads/2015/ex-machina.jpg)

@@ -1,23 +1,24 @@
 ---
 title: "Cloudwash, eine vernetzte Waschmaschine"
 date: "2014-02-26"
-datetime: "2014-02-26 02:06:36"
+published_at: "2014-02-26T01:06:36Z"
 id: "27275"
 slug: "cloudwash-eine-vernetzte-waschmaschine"
-url: "https://eay.cc/2014/cloudwash-eine-vernetzte-waschmaschine/"
-author: "eay"
+permalink: "https://eay.cc/2014/cloudwash-eine-vernetzte-waschmaschine/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - internet-of-things
-  - netzkultur
-  - technologie
-  - zukunft
-meta:
-  - linked_list_url: "http://bergcloud.com/case-studies/cloudwash/"
-  - yourls_shorturl: "https://eay.li/2dc"
+  - "internet of things"
+  - "netzkultur"
+  - "technologie"
+  - "zukunft"
+external_url: "http://bergcloud.com/case-studies/cloudwash/"
+short_url: "https://eay.li/2dc"
 ---
+
+[Link →](http://bergcloud.com/case-studies/cloudwash/)
 
 [Berg](http://bergcloud.com/), das Produktdesignstudio hinter [Little Printer](http://littleprinter.com/), hat den Prototyp einer vernetzten, per Smartphone steuerbaren Waschmaschine gebaut, die ich sofort haben will. Push-Notifications über durchgelaufene Wäschen, mobile Steuerung und ein "Do Not Disturb"-Modus, der die Maschine erst dann waschen lässt, wenn's keinen mehr stört, sind schließlich lange überfällig. Dahinter steckt eine ziemlich interessante Device-API, die in Zukunft noch sehr viel mehr "[Internet of Things](http://de.wikipedia.org/wiki/Internet_der_Dinge)" ermöglichen soll. (via [Waxy](http://waxy.org/links))
 

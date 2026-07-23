@@ -1,17 +1,16 @@
 ---
 title: "eBooks werden Bücher nicht ersetzen"
 date: "2009-03-13"
-datetime: "2009-03-13 19:55:40"
+published_at: "2009-03-13T18:55:40Z"
 id: "6208"
 slug: "ebooks-werden-bucher-nicht-ersetzen"
-url: "https://eay.cc/2009/ebooks-werden-bucher-nicht-ersetzen/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2009/ebooks-werden-bucher-nicht-ersetzen/"
+author: "Stefan Grund"
+format: "standard"
 tags:
-  - buecher
-  - ebooks
-meta:
-  - yourls_shorturl: "https://eay.li/i4"
+  - "bücher"
+  - "ebooks"
+short_url: "https://eay.li/i4"
 ---
 
 weil man sie sich nicht ins Regal stellen kann. So einfach ist das. Diskussion Ende.

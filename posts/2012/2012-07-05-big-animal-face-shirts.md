@@ -1,20 +1,19 @@
 ---
 title: "Big Animal Face Shirts"
 date: "2012-07-05"
-datetime: "2012-07-05 23:46:07"
+published_at: "2012-07-05T21:46:07Z"
 id: "20151"
 slug: "big-animal-face-shirts"
-url: "https://eay.cc/2012/big-animal-face-shirts/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2012/big-animal-face-shirts/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - konsum
-  - tiere
-  - tshirt
-meta:
-  - yourls_shorturl: "https://eay.li/1k7"
+  - "konsum"
+  - "tiere"
+  - "tshirt"
+short_url: "https://eay.li/1k7"
 ---
 
 ![](https://eay.cc/uploads/2012/bigcatfaceshirt.jpg)

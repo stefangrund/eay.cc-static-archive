@@ -1,23 +1,22 @@
 ---
 title: "IndieWebCamp Düsseldorf"
 date: "2016-05-08"
-datetime: "2016-05-08 22:35:52"
+published_at: "2016-05-08T21:35:52Z"
 id: "31491"
 slug: "indiewebcamp-duesseldorf"
-url: "https://eay.cc/2016/indiewebcamp-duesseldorf/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2016/indiewebcamp-duesseldorf/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - 0815
-  - english
+  - "08/15"
+  - "English"
 tags:
-  - best-of
-  - event
-  - indieweb
-  - netzkultur
-  - technologie
-meta:
-  - yourls_shorturl: "https://eay.li/2ta"
+  - "best of"
+  - "event"
+  - "indieweb"
+  - "netzkultur"
+  - "technologie"
+short_url: "https://eay.li/2ta"
 ---
 
 [![](https://eay.cc/uploads/2016/indiewebcamp-dus-2016.gif)](https://www.flickr.com/photos/tollwerk/26266222363/) Photo by [Julie Anne Noying](http://julieannenoying.com/) & [tollwerk](https://tollwerk.de/) under Creative Commons (by-nc-sa), [see flickr](https://www.flickr.com/photos/tollwerk/26266222363/).

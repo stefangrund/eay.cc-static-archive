@@ -1,23 +1,24 @@
 ---
 title: "Responsive Logos"
 date: "2015-01-13"
-datetime: "2015-01-13 15:30:52"
+published_at: "2015-01-13T14:30:52Z"
 id: "29917"
 slug: "responsive-logos"
-url: "https://eay.cc/2015/responsive-logos/"
-author: "eay"
+permalink: "https://eay.cc/2015/responsive-logos/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - design
-  - logo
-  - responsive
-  - webdesign
-meta:
-  - linked_list_url: "http://www.responsivelogos.co.uk/"
-  - yourls_shorturl: "https://eay.li/2mg"
+  - "design"
+  - "logo"
+  - "responsive"
+  - "webdesign"
+external_url: "http://www.responsivelogos.co.uk/"
+short_url: "https://eay.li/2mg"
 ---
+
+[Link →](http://www.responsivelogos.co.uk/)
 
 ![](https://eay.cc/uploads/2015/responsivelogos.gif)
 

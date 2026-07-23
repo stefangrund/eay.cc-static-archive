@@ -1,20 +1,19 @@
 ---
 title: "Praktikum"
 date: "2009-08-16"
-datetime: "2009-08-16 03:10:56"
+published_at: "2009-08-16T01:10:56Z"
 id: "8998"
 slug: "praktikum"
-url: "https://eay.cc/2009/praktikum/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2009/praktikum/"
+author: "Stefan Grund"
+format: "standard"
 tags:
-  - analogleben
-  - praktikum
-  - streetart
-  - studium
-  - wdr
-meta:
-  - yourls_shorturl: "https://eay.li/t7"
+  - "analogleben"
+  - "praktikum"
+  - "streetart"
+  - "studium"
+  - "wdr"
+short_url: "https://eay.li/t7"
 ---
 
 > Hey, Eay, warum hast du eigentlich die letzten Tage so wenig gebloggt?

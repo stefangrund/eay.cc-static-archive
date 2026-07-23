@@ -1,31 +1,29 @@
 ---
 title: "Kickstarter-Kampagne für Glitch Boy, ein 8-Bit-Video-Instrument und Chiptune-Synthesizer"
 date: "2026-04-17"
-datetime: "2026-04-17 23:58:54"
+published_at: "2026-04-17T21:58:54Z"
 id: "41846"
 slug: "kickstarter-kampagne-fuer-glitch-boy-ein-8-bit-video-instrument-und-chiptune-synthesizer"
-url: "https://eay.cc/2026/kickstarter-kampagne-fuer-glitch-boy-ein-8-bit-video-instrument-und-chiptune-synthesizer/"
-author: "eay"
+permalink: "https://eay.cc/2026/kickstarter-kampagne-fuer-glitch-boy-ein-8-bit-video-instrument-und-chiptune-synthesizer/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - chiptunes
-  - games
-  - musik
-  - retro
-meta:
-  - linked_list_url: "https://www.kickstarter.com/projects/meltedelectronics/glitch-boy"
-  - geo_latitude: "50.97374"
-  - geo_longitude: "6.683181"
-  - geo_public: "1"
-  - yourls_shorturl: "https://eay.li/418"
-  - _share_on_mastodon_url: "https://eay.social/@eay/116422370109514402"
-  - linked_list_og-title: "Glitch Boy: 8-bit Video Instrument & Chiptune Synth"
-  - linked_list_og-description: "I'm Martino from Melted Electronics, and I'm excited to finally announce the Glitch Boy: a compact device that turns a retro console into a video synthesizer and chiptune instrument."
-  - linked_list_og-image: "https://eay.cc/wordpress/uploads/og-cache/8788dbfda45b9b071b36177ab89ac271_upload.webp"
-  - content_copy: "https://bsky.app/profile/eay.social/post/3mjpxla46yp26"
+  - "chiptunes"
+  - "games"
+  - "musik"
+  - "retro"
+external_url: "https://www.kickstarter.com/projects/meltedelectronics/glitch-boy"
+short_url: "https://eay.li/418"
+content_copy:
+  - "https://bsky.app/profile/eay.social/post/3mjpxla46yp26"
+  - "https://eay.social/@eay/116422370109514402"
+geo_latitude: "50.97374"
+geo_longitude: "6.683181"
 ---
+
+[Link →](https://www.kickstarter.com/projects/meltedelectronics/glitch-boy)
 
 > A retro console that turns 8-bit games into glitch visuals. It also doubles as a chiptune synth and syncs with the rest of your setup!
 

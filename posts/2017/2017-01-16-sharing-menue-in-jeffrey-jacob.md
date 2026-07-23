@@ -1,21 +1,20 @@
 ---
 title: "Sharing-Menü in Jeffrey Jacob"
 date: "2017-01-16"
-datetime: "2017-01-16 20:30:09"
+published_at: "2017-01-16T18:30:09Z"
 id: "32084"
 slug: "sharing-menue-in-jeffrey-jacob"
-url: "https://eay.cc/2017/sharing-menue-in-jeffrey-jacob/"
-author: "eay"
+permalink: "https://eay.cc/2017/sharing-menue-in-jeffrey-jacob/"
+author: "Stefan Grund"
 format: "aside"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - changelog
-  - eayz
-  - in-eigener-sache
-  - jeffrey-jacob
-meta:
-  - yourls_shorturl: "https://eay.li/2w7"
+  - "changelog"
+  - "eayz"
+  - "in eigener sache"
+  - "jeffrey jacob"
+short_url: "https://eay.li/2w7"
 ---
 
 ![](https://d3vv6lp55qjaqc.cloudfront.net/items/2f003l0R1f0G3l3J0X2z/Screen%20Recording%202017-01-13%20at%2001.52%20PM.gif)

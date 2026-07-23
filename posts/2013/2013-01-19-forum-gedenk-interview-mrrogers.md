@@ -1,22 +1,21 @@
 ---
 title: "Forum-Gedenk-Interview: MrRogers"
 date: "2013-01-19"
-datetime: "2013-01-19 18:30:01"
+published_at: "2013-01-19T17:30:01Z"
 id: "21923"
 slug: "forum-gedenk-interview-mrrogers"
-url: "https://eay.cc/2013/forum-gedenk-interview-mrrogers/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2013/forum-gedenk-interview-mrrogers/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - forum
-  - forum-gedenk-interview
-meta:
-  - yourls_shorturl: "https://eay.li/1rr"
+  - "forum"
+  - "forum-gedenk-interview"
+short_url: "https://eay.li/1rr"
 ---
 
-Vor ziemlich genau fünf Jahren wurde das eayz.net Forum geschlossen, das bis dahin einer kleinen, aber außerordentlich feinen Community ein digitales Dach über dem Kopf bot. [Im Gedenken ans Forum](//eay.cc/2013/remembering-das-forum/) habe ich mich gefragt, was die Leute, die hier damals zum Mobiliar gehörten, heute eigentlich so machen. Ein paar Emails später hatte ich dankenswerterweise einige interessante Antworten zusammen. [Unter anderem](//eay.cc/tag/forum-gedenk-interview/) von Sir Eugene Cornelius Nicodemus Rogers, kurz und knapp MrRogers und seltener Matthias genannt. Eugene war das gefühlte Zentrum des ganzen Wahnsinns.
+Vor ziemlich genau fünf Jahren wurde das eayz.net Forum geschlossen, das bis dahin einer kleinen, aber außerordentlich feinen Community ein digitales Dach über dem Kopf bot. [Im Gedenken ans Forum](https://eay.cc/2013/remembering-das-forum/) habe ich mich gefragt, was die Leute, die hier damals zum Mobiliar gehörten, heute eigentlich so machen. Ein paar Emails später hatte ich dankenswerterweise einige interessante Antworten zusammen. [Unter anderem](https://eay.cc/tag/forum-gedenk-interview/) von Sir Eugene Cornelius Nicodemus Rogers, kurz und knapp MrRogers und seltener Matthias genannt. Eugene war das gefühlte Zentrum des ganzen Wahnsinns.
 
 ![](https://eay.cc/uploads/2013/forum_interview_mrrogers.jpg)
 

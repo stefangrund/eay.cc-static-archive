@@ -1,26 +1,27 @@
 ---
 title: "Rede der Queen für Nuklearkrieg"
 date: "2013-08-03"
-datetime: "2013-08-03 23:01:41"
+published_at: "2013-08-03T21:01:41Z"
 id: "24486"
 slug: "rede-der-queen-fuer-nuklearkrieg"
-url: "https://eay.cc/2013/rede-der-queen-fuer-nuklearkrieg/"
-author: "eay"
+permalink: "https://eay.cc/2013/rede-der-queen-fuer-nuklearkrieg/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - atombombe
-  - england
-  - geschichte
-  - kalter-krieg
-  - krieg
-  - politik
-  - queen-elizabeth
-meta:
-  - linked_list_url: "http://www.slate.com/blogs/the_vault/2013/08/01/queen_elizabeth_speech_written_for_her_to_give_in_case_of_nuclear_war.html"
-  - yourls_shorturl: "https://eay.li/25s"
+  - "atombombe"
+  - "england"
+  - "geschichte"
+  - "kalter krieg"
+  - "krieg"
+  - "politik"
+  - "queen elizabeth"
+external_url: "http://www.slate.com/blogs/the_vault/2013/08/01/queen_elizabeth_speech_written_for_her_to_give_in_case_of_nuclear_war.html"
+short_url: "https://eay.li/25s"
 ---
+
+[Link →](http://www.slate.com/blogs/the_vault/2013/08/01/queen_elizabeth_speech_written_for_her_to_give_in_case_of_nuclear_war.html)
 
 > We all know the dangers facing us today are greater by far than at any time in our long history. The enemy is not the soldier with his rifle nor even the airman prowling the skies above our cities and towns but the deadly power of abused technology.
 

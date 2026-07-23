@@ -1,20 +1,19 @@
 ---
 title: "Jesus = Das Beste vom Zombie, Frankenstein und Dracula"
 date: "2009-11-02"
-datetime: "2009-11-02 01:14:26"
+published_at: "2009-11-02T00:14:26Z"
 id: "9862"
 slug: "jesus-das-beste-vom-zombie-frankenstein-und-dracula"
-url: "https://eay.cc/2009/jesus-das-beste-vom-zombie-frankenstein-und-dracula/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2009/jesus-das-beste-vom-zombie-frankenstein-und-dracula/"
+author: "Stefan Grund"
+format: "standard"
 tags:
-  - bizarres
-  - diagramm
-  - religion
-  - vampire
-  - zombies
-meta:
-  - yourls_shorturl: "https://eay.li/b9"
+  - "bizarres"
+  - "diagramm"
+  - "religion"
+  - "vampire"
+  - "zombies"
+short_url: "https://eay.li/b9"
 ---
 
 ![](http://eay.cc//uploads/2009/jesusdiagram.gif)

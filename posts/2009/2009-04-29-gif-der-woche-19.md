@@ -1,22 +1,23 @@
 ---
 title: ".gif der Woche #19"
 date: "2009-04-29"
-datetime: "2009-04-29 14:13:58"
+published_at: "2009-04-29T12:13:58Z"
 id: "6910"
 slug: "gif-der-woche-19"
-url: "https://eay.cc/2009/gif-der-woche-19/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2009/gif-der-woche-19/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - 0815
-  - the-others
+  - "08/15"
+  - "The Others"
 tags:
-  - 90er
-  - genesis
-  - gif-der-woche
-  - musik
-meta:
-  - yourls_shorturl: "https://eay.li/eo"
+  - "90er"
+  - "genesis"
+  - "gif der woche"
+  - "musik"
+short_url: "https://eay.li/eo"
 ---
 
-![](/uploads/2009/icantdance.gif)
+![](https://eay.cc/uploads/2009/icantdance.gif)
+
+[Embedded content](http://www.youtube.com/v/hGI2d31M7Ns&hl=de&fs=1)

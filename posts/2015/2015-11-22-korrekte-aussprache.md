@@ -1,24 +1,23 @@
 ---
 title: "Korrekte Aussprache"
 date: "2015-11-22"
-datetime: "2015-11-22 22:28:08"
+published_at: "2015-11-22T21:28:08Z"
 id: "30996"
 slug: "korrekte-aussprache"
-url: "https://eay.cc/2015/korrekte-aussprache/"
-author: "eay"
+permalink: "https://eay.cc/2015/korrekte-aussprache/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - deutsch
-  - humor
-  - sprache
-  - youtube
-meta:
-  - linked_list_url: "https://www.youtube.com/playlist?list=PL45xb3ujEhqUexNt53jb9WT2mS-uUaUrn"
-  - linked_list_url: "https://www.youtube.com/playlist?list=PL45xb3ujEhqUexNt53jb9WT2mS-uUaUrn"
-  - linked_list_url: "https://www.youtube.com/playlist?list=PL45xb3ujEhqUexNt53jb9WT2mS-uUaUrn"
-  - yourls_shorturl: "https://eay.li/2qx"
+  - "deutsch"
+  - "humor"
+  - "sprache"
+  - "youtube"
+external_url: "https://www.youtube.com/playlist?list=PL45xb3ujEhqUexNt53jb9WT2mS-uUaUrn"
+short_url: "https://eay.li/2qx"
 ---
+
+[Link →](https://www.youtube.com/playlist?list=PL45xb3ujEhqUexNt53jb9WT2mS-uUaUrn)
 
 Herrliche Parodie der unzähligen Pronounciation-Channels. (via [Mediasteak](http://mediasteak.com/korrekte-aussprache-die-lustigsten-videos-ueber-die-richtige-aussprache-von-woertern/))

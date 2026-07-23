@@ -1,23 +1,24 @@
 ---
 title: "Charlie Brooker's Black Mirror to become a Netflix show"
 date: "2015-09-09"
-datetime: "2015-09-09 08:46:15"
+published_at: "2015-09-09T06:46:15Z"
 id: "30871"
 slug: "charlie-brookers-black-mirror-to-become-a-netflix-show"
-url: "https://eay.cc/2015/charlie-brookers-black-mirror-to-become-a-netflix-show/"
-author: "eay"
+permalink: "https://eay.cc/2015/charlie-brookers-black-mirror-to-become-a-netflix-show/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - black-mirror
-  - fernsehen
-  - netflix
-  - serien
-meta:
-  - linked_list_url: "http://www.radiotimes.com/news/2015-09-07/charlie-brookers-black-mirror-to-become-a-netflix-show"
-  - yourls_shorturl: "https://eay.li/2q1"
+  - "black mirror"
+  - "fernsehen"
+  - "netflix"
+  - "serien"
+external_url: "http://www.radiotimes.com/news/2015-09-07/charlie-brookers-black-mirror-to-become-a-netflix-show"
+short_url: "https://eay.li/2q1"
 ---
+
+[Link →](http://www.radiotimes.com/news/2015-09-07/charlie-brookers-black-mirror-to-become-a-netflix-show)
 
 > Sources say the US streaming giant has agreed terms to make original episodes of the hit dystopian drama.
 

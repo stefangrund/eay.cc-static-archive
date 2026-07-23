@@ -1,23 +1,24 @@
 ---
 title: "The Legacy of Firefox OS"
 date: "2019-02-09"
-datetime: "2019-02-09 23:19:44"
+published_at: "2019-02-09T22:19:44Z"
 id: "35508"
 slug: "the-legacy-of-firefox-os"
-url: "https://eay.cc/2019/the-legacy-of-firefox-os/"
-author: "eay"
+permalink: "https://eay.cc/2019/the-legacy-of-firefox-os/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - betriebssysteme
-  - firefox
-  - mozilla
-  - technologie
-meta:
-  - linked_list_url: "https://medium.com/@bfrancis/the-legacy-of-firefox-os-c58ec32d94f0"
-  - yourls_shorturl: "https://eay.li/391"
+  - "betriebssysteme"
+  - "firefox"
+  - "mozilla"
+  - "technologie"
+external_url: "https://medium.com/@bfrancis/the-legacy-of-firefox-os-c58ec32d94f0"
+short_url: "https://eay.li/391"
 ---
+
+[Link →](https://medium.com/@bfrancis/the-legacy-of-firefox-os-c58ec32d94f0)
 
 [Ben Francis](http://tola.me.uk/), seineszeichens Mitarbeiter bei Mozilla und dort mit deren IoT-Bemühungen beschäftigt, blickt drei Jahre nachdem sie "Firefox OS" eingestellt haben, darauf, wie sich das Open-Source-Betriebssystem weiterentwickelt hat.
 

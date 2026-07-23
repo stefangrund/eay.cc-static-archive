@@ -1,22 +1,22 @@
 ---
 title: "Unsere neuen shortfil.ms-Shirts!"
 date: "2016-10-23"
-datetime: "2016-10-23 18:00:27"
+published_at: "2016-10-23T16:00:27Z"
 id: "32960"
 slug: "unsere-neuen-shortfil-ms-shirts"
-url: "https://eay.cc/2016/unsere-neuen-shortfil-ms-shirts/"
-author: "eay"
+permalink: "https://eay.cc/2016/unsere-neuen-shortfil-ms-shirts/"
+author: "Stefan Grund"
 format: "image"
 categories:
-  - 0815
-  - shortfil-ms
+  - "08/15"
+  - "shortfil.ms"
 tags:
-  - fotos
-  - shortfil-ms
-  - tshirt
-meta:
-  - content_copy: "https://www.instagram.com/p/BL4pQJzgsSV/"
-  - yourls_shorturl: "https://eay.li/2yn"
+  - "fotos"
+  - "shortfil.ms"
+  - "tshirt"
+short_url: "https://eay.li/2yn"
+content_copy:
+  - "https://www.instagram.com/p/BL4pQJzgsSV/"
 ---
 
 ![](https://eay.cc/uploads/2016/shortfilms-shirt.jpg)

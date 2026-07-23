@@ -1,27 +1,27 @@
 ---
 title: "Orion's End – Adventure Beyond the Stars"
 date: "2022-12-26"
-datetime: "2022-12-26 17:38:31"
+published_at: "2022-12-26T15:38:31Z"
 id: "38297"
 slug: "orions-end-adventure-beyond-the-stars"
-url: "https://eay.cc/2022/orions-end-adventure-beyond-the-stars/"
-author: "eay"
+permalink: "https://eay.cc/2022/orions-end-adventure-beyond-the-stars/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - games
-  - pixelart
-  - science-fiction
-meta:
-  - linked_list_url: "https://www.orionsend.com/"
-  - geo_latitude: "50.973853"
-  - geo_longitude: "6.683084"
-  - yourls_shorturl: "https://eay.li/3kk"
-  - content_copy: "https://eay.social/@eay/109580759364494243"
+  - "games"
+  - "pixelart"
+  - "science fiction"
+external_url: "https://www.orionsend.com/"
+short_url: "https://eay.li/3kk"
+content_copy:
+  - "https://eay.social/@eay/109580759364494243"
 ---
 
-[youtube id="8X1PHEQieu0"]
+[Link →](https://www.orionsend.com/)
+
+\[youtube id="8X1PHEQieu0"\]
 
 > Orion’s End is space trading life sim. Trading, smuggling, pirate hunting, or pirating. Be a hero or a rogue. But also be a friend - there are residents on each planet who need someone like you to talk to, help them with quests, or to just gift them with loot from your adventures.
 

@@ -1,23 +1,24 @@
 ---
 title: "Terrorists to Cowards"
 date: "2015-11-14"
-datetime: "2015-11-14 21:37:26"
+published_at: "2015-11-14T20:37:26Z"
 id: "30993"
 slug: "terrorists-to-cowards"
-url: "https://eay.cc/2015/terrorists-to-cowards/"
-author: "eay"
+permalink: "https://eay.cc/2015/terrorists-to-cowards/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - addon
-  - chrome
-  - terrorismus
-  - terroristen
-meta:
-  - linked_list_url: "https://chrome.google.com/webstore/detail/terrorist-to-coward/camjpbmlpgfcgilkohfkglmeojghicik"
-  - yourls_shorturl: "https://eay.li/2qw"
+  - "addon"
+  - "chrome"
+  - "terrorismus"
+  - "terroristen"
+external_url: "https://chrome.google.com/webstore/detail/terrorist-to-coward/camjpbmlpgfcgilkohfkglmeojghicik"
+short_url: "https://eay.li/2qw"
 ---
+
+[Link →](https://chrome.google.com/webstore/detail/terrorist-to-coward/camjpbmlpgfcgilkohfkglmeojghicik)
 
 > This chrome extension changes the word "terrorist" (and variations of) to "coward" on web pages.
 

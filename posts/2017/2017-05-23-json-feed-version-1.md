@@ -1,28 +1,24 @@
 ---
 title: "JSON Feed: Version 1"
 date: "2017-05-23"
-datetime: "2017-05-23 23:30:22"
+published_at: "2017-05-23T21:30:22Z"
 id: "32991"
 slug: "json-feed-version-1"
-url: "https://eay.cc/2017/json-feed-version-1/"
-author: "eay"
+permalink: "https://eay.cc/2017/json-feed-version-1/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - blogging
-  - changelog
-  - json-feed
-  - web-development
-meta:
-  - linked_list_url: "https://jsonfeed.org/version/1"
-  - yourls_shorturl: "https://eay.li/2yy"
-  - linked_list_og-title: "JSON Feed - JSON Feed Version 1"
-  - linked_list_og-description: "by Brent Simmons and Manton Reece
-There is a new version available: JSON Feed Version 1.1
-The JSON Feed format is a pragmatic syndication format, like RSS and Atom, but with one big difference: it’s JSON instead of XML.
-For most developers, JSON is far easier to read and write than XML. Develop..."
+  - "blogging"
+  - "changelog"
+  - "json feed"
+  - "web development"
+external_url: "https://jsonfeed.org/version/1"
+short_url: "https://eay.li/2yy"
 ---
+
+[Link →](https://jsonfeed.org/version/1)
 
 [Brent Simmons](http://inessential.com/) und [Manton Reece](http://manton.org/) haben einen neuen Feed-Standard spezifiziert, der die Arbeit mit diversen News-, Blog- und Whatever-Feeds erleichtern soll, indem auf JSON anstelle von XML gesetzt wird, das bei RSS und Atom zum Einsatz kommt.
 

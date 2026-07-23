@@ -1,29 +1,27 @@
 ---
 title: "World’s top climate scientists expect global heating to blast past 1.5C target"
 date: "2024-05-14"
-datetime: "2024-05-14 08:02:46"
+published_at: "2024-05-14T06:02:46Z"
 id: "39639"
 slug: "worlds-top-climate-scientists-expect-global-heating-to-blast-past-1-5c-target"
-url: "https://eay.cc/2024/worlds-top-climate-scientists-expect-global-heating-to-blast-past-1-5c-target/"
-author: "eay"
+permalink: "https://eay.cc/2024/worlds-top-climate-scientists-expect-global-heating-to-blast-past-1-5c-target/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
-  - english
+  - "08/15"
+  - "English"
 tags:
-  - klimawandel
-  - wissenschaft
-meta:
-  - linked_list_url: "https://www.theguardian.com/environment/article/2024/may/08/world-scientists-climate-failure-survey-global-temperature"
-  - geo_latitude: "50.973837"
-  - geo_longitude: "6.683014"
-  - geo_public: "1"
-  - yourls_shorturl: "https://eay.li/3r1"
-  - _share_on_mastodon_url: "https://eay.social/@eay/112437924210482012"
-  - linked_list_og-title: "World’s top climate scientists expect global heating to blast past 1.5C target"
-  - linked_list_og-description: "Exclusive: Planet is headed for at least 2.5C of heating with disastrous results for humanity, poll of hundreds of scientists finds"
-  - linked_list_og-image: "https://eay.cc/wordpress/uploads/og-cache/f31fec30ef65923d81c6cf9f7469d66c.webp"
+  - "klimawandel"
+  - "wissenschaft"
+external_url: "https://www.theguardian.com/environment/article/2024/may/08/world-scientists-climate-failure-survey-global-temperature"
+short_url: "https://eay.li/3r1"
+content_copy:
+  - "https://eay.social/@eay/112437924210482012"
+geo_latitude: "50.973837"
+geo_longitude: "6.683014"
 ---
+
+[Link →](https://www.theguardian.com/environment/article/2024/may/08/world-scientists-climate-failure-survey-global-temperature)
 
 > Planet is headed for at least 2.5C of heating with disastrous results for humanity, poll of hundreds of scientists finds
 

@@ -1,38 +1,37 @@
 ---
 title: "Kinostatistik 2019"
 date: "2019-12-31"
-datetime: "2019-12-31 12:15:07"
+published_at: "2019-12-31T10:15:07Z"
 id: "36083"
 slug: "kinostatistik-2019"
-url: "https://eay.cc/2019/kinostatistik-2019/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2019/kinostatistik-2019/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - 2019
-  - filme
-  - filmindustrie
-  - kino
-  - kinostatistik
-  - konsum
-  - kosten
-  - quantified-self
-  - statistik
-meta:
-  - geo_latitude: "55.652412490167"
-  - geo_longitude: "12.540413807503"
-  - geo_public: "1"
-  - yourls_shorturl: "https://eay.li/3c6"
-  - content_copy: "https://twitter.com/eay/status/1212000692497461254"
-  - content_copy: "https://eay.social/@eay/103402603466779713"
+  - "2019"
+  - "filme"
+  - "filmindustrie"
+  - "kino"
+  - "kinostatistik"
+  - "konsum"
+  - "kosten"
+  - "quantified self"
+  - "statistik"
+short_url: "https://eay.li/3c6"
+content_copy:
+  - "https://twitter.com/eay/status/1212000692497461254"
+  - "https://eay.social/@eay/103402603466779713"
+geo_latitude: "55.652412490167"
+geo_longitude: "12.540413807503"
 ---
 
 Wie sich herausstellt, bleiben die Hobbies in dem Jahr, in dem man seinen Job kündigt und fast jede wache Minute in die Gründung der [eigenen Firma](https://hypercode.de/) steckt, schon mal auf der Strecke. Kein Wunder also, dass das dreizehnte Jahr meiner Kinostatistik leider das ernüchterndste und All-Time Low war, was meine Aufenthalte in den hiesigen Lichtspielhäusern anging.
 
 ![Kinostatistik 2019 – Besuche](https://eay.cc/uploads/2019/kinostatistik2019_besuche.png)
 
-So kam ich in 2019 auf nur **27 Kinobesuche** – 12 Filme weniger als 2018, was zusammen mit 2015 bisher mein All-Time Low war. Ich liege damit bei nur noch **0,52 Kinobesuchen pro Woche**, war also jede zweite Woche im Kino. Der Durch­schnitts­deutsche kommt derweil, wie schon im letzten Jahr ermittelt, weiterhin auf 1,61 Kinobesuche pro Jahr (!). ((Vgl. [Statistisches Jahrbuch 2019](https://www.destatis.de/DE/Themen/Querschnitt/Jahrbuch/_inhalt.html), S. 666. 🤘🏻))
+So kam ich in 2019 auf nur **27 Kinobesuche** – 12 Filme weniger als 2018, was zusammen mit 2015 bisher mein All-Time Low war. Ich liege damit bei nur noch **0,52 Kinobesuchen pro Woche**, war also jede zweite Woche im Kino. Der Durch­schnitts­deutsche kommt derweil, wie schon im letzten Jahr ermittelt, weiterhin auf 1,61 Kinobesuche pro Jahr (!). [^1]
 
 ![Kinostatistik 2019 – Gesamtkosten](https://eay.cc/uploads/2019/kinostatistik2019_kosten.png)
 
@@ -42,7 +41,7 @@ Die 27 Kinobesuche kosteten mich ohne Speisen und Getränke **ingesamt 256,52 Eu
 
 Fast ein Viertel der Filme wurde in 3D gezeigt. Konkret bedeutete dies **74,80 Euro für sechs 3D-Filme** bzw. einen Durchschnitt von **12,47 Euro pro 3D-Film**, was 42 Cent teurer ist, als noch im letzten Jahr. Von einem Preissturz kann also keinesfalls die Rede sein, auch wenn der Durchschnittspreis dieses Jahr mal etwas gesunken ist.
 
-Insgesamt saß ich **3.278 Minuten im Kinosessel**, was 54,64 Stunden oder einer Filmlänge von 121 Minuten im Durchschnitt entspricht. Am häufigsten war ich Mittwochs im Kino ((Genaue Verteilung: 9x Mittwochs, 4x Donnerstags, 4x Sonntags, 3x Dienstags, 3x Samstags, 2x Montags, 2x Sonntags.)), mein Kino der Wahl war dabei – ihr wisst schon: _Support your local cinema!_ – einmal mehr [mein Stammkino in Kerpen](http://www.euromax-cinemas.de/), wobei das nicht schwer ist, suchte ich dieses Jahr auch nur drei unterschiedliche Lichtspielhäuser auf. ((Genaue Verteilung: 22x Euromax, Kerpen; 4x Cinedom, Köln; 1x Residenz, Köln)) Da muss 2020 wieder mehr Vielfalt her!
+Insgesamt saß ich **3.278 Minuten im Kinosessel**, was 54,64 Stunden oder einer Filmlänge von 121 Minuten im Durchschnitt entspricht. Am häufigsten war ich Mittwochs im Kino [^2], mein Kino der Wahl war dabei – ihr wisst schon: _Support your local cinema!_ – einmal mehr [mein Stammkino in Kerpen](http://www.euromax-cinemas.de/), wobei das nicht schwer ist, suchte ich dieses Jahr auch nur drei unterschiedliche Lichtspielhäuser auf. [^3] Da muss 2020 wieder mehr Vielfalt her!
 
 ![Kinostatistik 2019 – Genres](https://eay.cc/uploads/2019/kinostatistik2019_genres.png)
 
@@ -59,3 +58,7 @@ Und auch ich habe mich Abends nach langen Arbeitstagen allzu oft auch für Netfl
 Aber die knapp **55 Stunden Kino stehen 272 Stunden Serienschauen gegen­über**. Und das fast ausschließlich über Streaming-Dienste und Mediatheken. D.h. 2019 wurden nur knapp 17 Prozent meiner audiovisuellen Mediennutzung vom Kino bestimmt. Und auch 2017 (23 Prozent) und 2018 (19 Prozent) zeigen bereits genau diesen Trend auf. Mit anderen Worten: **TV-Serien haben das Kino gekillt** – sicherlich nicht nur was mein Rezeptions­verhalten angeht.
 
 Es bleibt spannend, wie sich die ganze Filmindustrie dahingehend weiter­entwickeln wird. Hoffen wir, dass ich sie im nächsten Jahr(zehnt) wieder etwas mehr befeuern kann als zuletzt. In diesem Sinne wie immer: Auf ein filmisch, wie sonstwie gutes 2020! ✌🏻
+
+[^1]: Vgl. [Statistisches Jahrbuch 2019](https://www.destatis.de/DE/Themen/Querschnitt/Jahrbuch/_inhalt.html), S. 666. 🤘🏻
+[^2]: Genaue Verteilung: 9x Mittwochs, 4x Donnerstags, 4x Sonntags, 3x Dienstags, 3x Samstags, 2x Montags, 2x Sonntags.
+[^3]: Genaue Verteilung: 22x Euromax, Kerpen; 4x Cinedom, Köln; 1x Residenz, Köln

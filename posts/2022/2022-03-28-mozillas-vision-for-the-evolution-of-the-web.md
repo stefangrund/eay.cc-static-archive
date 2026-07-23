@@ -1,27 +1,24 @@
 ---
 title: "Mozilla’s vision for the evolution of the Web"
 date: "2022-03-28"
-datetime: "2022-03-28 21:35:25"
+published_at: "2022-03-28T20:35:25Z"
 id: "37887"
 slug: "mozillas-vision-for-the-evolution-of-the-web"
-url: "https://eay.cc/2022/mozillas-vision-for-the-evolution-of-the-web/"
-author: "eay"
+permalink: "https://eay.cc/2022/mozillas-vision-for-the-evolution-of-the-web/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - mozilla
-  - netzkultur
-  - tim-berners-lee
-  - web3
-meta:
-  - linked_list_url: "https://webvision.mozilla.org/"
-  - geo_latitude: "50.973805"
-  - geo_longitude: "6.683075"
-  - yourls_shorturl: "https://eay.li/3hk"
-  - linked_list_og-title: "Mozilla's Vision of the Web"
-  - linked_list_og-image: "https://eay.cc/wordpress/uploads/og-cache/d1339f9cbffa4ddd976d19a4183848c5.webp"
+  - "mozilla"
+  - "netzkultur"
+  - "tim berners-lee"
+  - "web3"
+external_url: "https://webvision.mozilla.org/"
+short_url: "https://eay.li/3hk"
 ---
+
+[Link →](https://webvision.mozilla.org/)
 
 > The Web is the most important communication system in the world today and is an essential part of the daily lives of many. The Web gets many things right — hence its wild success — but is nonetheless imperfect. Our objective is to preserve what is good about the Web while improving what is less good and fixing what is actively harmful.
 

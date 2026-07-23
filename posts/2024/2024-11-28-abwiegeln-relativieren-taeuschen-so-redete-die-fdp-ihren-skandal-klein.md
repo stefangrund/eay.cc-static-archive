@@ -1,26 +1,27 @@
 ---
 title: "“Abwiegeln, relativieren, täuschen – so redete die FDP ihren Skandal klein”"
 date: "2024-11-28"
-datetime: "2024-11-28 21:31:14"
+published_at: "2024-11-28T20:31:14Z"
 id: "40056"
 slug: "abwiegeln-relativieren-taeuschen-so-redete-die-fdp-ihren-skandal-klein"
-url: "https://eay.cc/2024/abwiegeln-relativieren-taeuschen-so-redete-die-fdp-ihren-skandal-klein/"
-author: "eay"
+permalink: "https://eay.cc/2024/abwiegeln-relativieren-taeuschen-so-redete-die-fdp-ihren-skandal-klein/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - christian-lindner
-  - deutschland
-  - politik
-meta:
-  - linked_list_url: "https://www.spiegel.de/politik/deutschland/fdp-abwiegeln-relativieren-taeuschen-so-redeten-die-liberalen-ihren-skandal-klein-a-89dd0185-fa3b-4965-8094-d702fb209e49"
-  - geo_latitude: "50.973829"
-  - geo_longitude: "6.683008"
-  - geo_public: "1"
-  - yourls_shorturl: "https://eay.li/3tg"
-  - _share_on_mastodon_url: "https://eay.social/@eay/113562476568334805"
+  - "christian lindner"
+  - "deutschland"
+  - "politik"
+external_url: "https://www.spiegel.de/politik/deutschland/fdp-abwiegeln-relativieren-taeuschen-so-redeten-die-liberalen-ihren-skandal-klein-a-89dd0185-fa3b-4965-8094-d702fb209e49"
+short_url: "https://eay.li/3tg"
+content_copy:
+  - "https://eay.social/@eay/113562476568334805"
+geo_latitude: "50.973829"
+geo_longitude: "6.683008"
 ---
+
+[Link →](https://www.spiegel.de/politik/deutschland/fdp-abwiegeln-relativieren-taeuschen-so-redeten-die-liberalen-ihren-skandal-klein-a-89dd0185-fa3b-4965-8094-d702fb209e49)
 
 > "Es ist Wahlkampf. Wo ist die Nachricht?", "Ich halte das für eine glatte Lüge.", "Dieser Begriff wurde nicht genutzt."
 

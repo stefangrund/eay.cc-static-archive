@@ -1,26 +1,26 @@
 ---
 title: "Mudita Bell"
 date: "2019-10-30"
-datetime: "2019-10-30 14:58:16"
+published_at: "2019-10-30T12:58:16Z"
 id: "36018"
 slug: "mudita-bell"
-url: "https://eay.cc/2019/mudita-bell/"
-author: "eay"
+permalink: "https://eay.cc/2019/mudita-bell/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - design
-  - gesundheit
-  - konsum
-  - schlaf
-meta:
-  - yourls_shorturl: "https://eay.li/3bp"
-  - geo_latitude: "51.28098500862"
-  - geo_longitude: "6.7660680730889"
-  - geo_public: "1"
-  - linked_list_url: "https://mudita.com/products/bell/"
+  - "design"
+  - "gesundheit"
+  - "konsum"
+  - "schlaf"
+external_url: "https://mudita.com/products/bell/"
+short_url: "https://eay.li/3bp"
+geo_latitude: "51.28098500862"
+geo_longitude: "6.7660680730889"
 ---
+
+[Link →](https://mudita.com/products/bell/)
 
 ![Mudita Bell Produktfoto](https://eay.cc/uploads/2019/medita-bell.jpeg)
 

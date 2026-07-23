@@ -1,28 +1,27 @@
 ---
 title: "Der Einfluss von »Batman: The Animated Series«"
 date: "2016-06-13"
-datetime: "2016-06-13 23:48:14"
+published_at: "2016-06-13T22:48:14Z"
 id: "31583"
 slug: "der-einfluss-von-batman-the-animated-series"
-url: "https://eay.cc/2016/der-einfluss-von-batman-the-animated-series/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2016/der-einfluss-von-batman-the-animated-series/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - animation
-  - batman
-  - comics
-  - dc
-  - fernsehen
-  - kaptain-kristian
-  - serien
-  - video-essay
-meta:
-  - yourls_shorturl: "https://eay.li/2u8"
+  - "animation"
+  - "batman"
+  - "comics"
+  - "dc"
+  - "fernsehen"
+  - "kaptain kristian"
+  - "serien"
+  - "video-essay"
+short_url: "https://eay.li/2u8"
 ---
 
-[youtube id="u5Cdguyut8s"]
+\[youtube id="u5Cdguyut8s"\]
 
 Eigentlich könnte ich hier jedes Video-Essay von [Kristian Williams](https://twitter.com/kaptainkristian) ungeprüft und trotzdem besten Gewissens posten, so gut sind seine popkulturellen Bewegtbild­abhandlungen. Und dieses mal hat er sich mit »[Batman: The Animated Series](https://en.wikipedia.org/wiki/Batman:_The_Animated_Series)« einer Lieblingsserie meiner Kindheit angenommen und zeigt, wie diese DC und Batman selbst geprägt hat.
 

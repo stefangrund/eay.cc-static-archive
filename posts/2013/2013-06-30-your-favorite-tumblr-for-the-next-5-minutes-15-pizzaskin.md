@@ -1,19 +1,18 @@
 ---
 title: "Your favorite tumblr for the next 5 minutes (15): PizzaSkin"
 date: "2013-06-30"
-datetime: "2013-06-30 23:11:07"
+published_at: "2013-06-30T21:11:07Z"
 id: "23563"
 slug: "your-favorite-tumblr-for-the-next-5-minutes-15-pizzaskin"
-url: "https://eay.cc/2013/your-favorite-tumblr-for-the-next-5-minutes-15-pizzaskin/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2013/your-favorite-tumblr-for-the-next-5-minutes-15-pizzaskin/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - 3d
-  - your-favorite-tumblr-for-the-next-5-minutes
-meta:
-  - yourls_shorturl: "https://eay.li/24n"
+  - "3d"
+  - "your favorite tumblr for the next 5 minutes"
+short_url: "https://eay.li/24n"
 ---
 
 ![](https://eay.cc/uploads/2013/pizzaskin.gif)

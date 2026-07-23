@@ -1,27 +1,26 @@
 ---
 title: "HyperCard changed everything"
 date: "2026-03-19"
-datetime: "2026-03-19 23:52:55"
+published_at: "2026-03-19T22:52:55Z"
 id: "41594"
 slug: "hypercard-changed-everything"
-url: "https://eay.cc/2026/hypercard-changed-everything/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2026/hypercard-changed-everything/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - netzkultur
-  - technologie
-  - video-essay
-meta:
-  - geo_latitude: "50.973804"
-  - geo_longitude: "6.683091"
-  - geo_public: "1"
-  - yourls_shorturl: "https://eay.li/40e"
-  - _share_on_mastodon_url: "https://eay.social/@eay/116258300686400681"
+  - "netzkultur"
+  - "technologie"
+  - "video-essay"
+short_url: "https://eay.li/40e"
+content_copy:
+  - "https://eay.social/@eay/116258300686400681"
+geo_latitude: "50.973804"
+geo_longitude: "6.683091"
 ---
 
-[youtube id="hxHkNToXga8"]
+\[youtube id="hxHkNToXga8"\]
 
 Sehr schönes Video-Essay von YouTuber [dreamwieber](https://youtube.com/@dreamwieber?si=1UljXnYLuUVJ5Eov) über [HyperCard](https://en.wikipedia.org/wiki/HyperCard), die Hypermedia-Application von [Bill Atkinson](https://en.wikipedia.org/wiki/Bill_Atkinson) und Apple von 1987, die vor dem Web das Verlinken von (Medien-)Inhalten – auch zu kleinen Anwendungen – erstmals für die breite Masse (der Mac-OS-Nutzer) verfügbar machte.
 

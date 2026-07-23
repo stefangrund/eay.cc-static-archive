@@ -1,23 +1,22 @@
 ---
 title: "The Pink & Blue Project"
 date: "2010-01-09"
-datetime: "2010-01-09 03:00:51"
+published_at: "2010-01-09T02:00:51Z"
 id: "10950"
 slug: "the-pink-blue-project"
-url: "https://eay.cc/2010/the-pink-blue-project/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2010/the-pink-blue-project/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - 0815
-  - the-others
+  - "08/15"
+  - "The Others"
 tags:
-  - farben
-  - fotografie
-  - gender
-  - kinder
-  - kunst
-meta:
-  - yourls_shorturl: "https://eay.li/cu"
+  - "farben"
+  - "fotografie"
+  - "gender"
+  - "kinder"
+  - "kunst"
+short_url: "https://eay.li/cu"
 ---
 
 [![](https://eay.cc/uploads/2010/pinkblue.jpg)](http://www.jeongmeeyoon.com/aw_pinkblue.htm)

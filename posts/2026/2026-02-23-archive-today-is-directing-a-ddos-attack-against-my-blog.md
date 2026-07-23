@@ -1,38 +1,36 @@
 ---
 title: "archive.today is directing a DDOS attack against my blog"
 date: "2026-02-23"
-datetime: "2026-02-23 15:55:54"
+published_at: "2026-02-23T14:55:54Z"
 id: "41326"
 slug: "archive-today-is-directing-a-ddos-attack-against-my-blog"
-url: "https://eay.cc/2026/archive-today-is-directing-a-ddos-attack-against-my-blog/"
-author: "eay"
+permalink: "https://eay.cc/2026/archive-today-is-directing-a-ddos-attack-against-my-blog/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - journalismus
-  - netzkultur
-  - paywall
-  - urheberrecht
-  - webservice
-meta:
-  - linked_list_url: "https://gyrovague.com/2026/02/01/archive-today-is-directing-a-ddos-attack-against-my-blog/"
-  - geo_latitude: "50.973921"
-  - geo_longitude: "6.682875"
-  - geo_public: "1"
-  - linked_list_og-title: "archive.today is directing a DDOS attack against my blog"
-  - linked_list_og-description: "Around January 11, 2026, archive.today (aka archive.is, archive.md, etc) started using its users as proxies to conduct a distributed denial of service (DDOS) attack against Gyrovague, my personal b…"
-  - linked_list_og-image: "https://eay.cc/wordpress/uploads/og-cache/0354422af629d2bb632afed73d82c6dc.webp"
-  - yourls_shorturl: "https://eay.li/3zm"
-  - _share_on_mastodon_url: "https://eay.social/@eay/116120551481116819"
-  - content_copy: "https://bsky.app/profile/eay.social/post/3mfjwfjht5226"
+  - "journalismus"
+  - "netzkultur"
+  - "paywall"
+  - "urheberrecht"
+  - "webservice"
+external_url: "https://gyrovague.com/2026/02/01/archive-today-is-directing-a-ddos-attack-against-my-blog/"
+short_url: "https://eay.li/3zm"
+content_copy:
+  - "https://bsky.app/profile/eay.social/post/3mfjwfjht5226"
+  - "https://eay.social/@eay/116120551481116819"
+geo_latitude: "50.973921"
+geo_longitude: "6.682875"
 ---
+
+[Link →](https://gyrovague.com/2026/02/01/archive-today-is-directing-a-ddos-attack-against-my-blog/)
 
 Ich habe gerade [bei Thomas vom Fall archive.today gelesen](https://gigold.me/blog/fall-archive-today), dem offen­sicht­lich in einer Grauzone operierenden Archivierugs­dienst, den ich auch schon mal nutze und [hier erwähnt habe](https://eay.cc/?s=Archive.ph), um Paywalls zu umgehen.
 
 Dieser wurde nun nämlich von Wikipedia verbannt, die auf immerhin 400.000 Seiten auf archive.today-Kopien verweist. Diese müssen nun manuell ausge­tauscht werden, [wie heise berichtet](https://www.heise.de/news/Hunderttausende-Links-Wikipedia-verbannt-Archive-today-nach-Cyberangriff-11185323.html):
 
-> Die Dimension des Vorhabens ist gewaltig. […] Sie sollen nun sukzessive entfernt oder durch sicherere Alternativen wie Internet Archive (archive.org) oder Ghostarchive ersetzt werden. An die Editoren ging der Appell, Links manuell zu prüfen und – sofern die Originalquelle noch online ist – den Archivlink komplett zu löschen oder auf seriöse Anbieter umzustellen.
+> Die Dimension des Vorhabens ist gewaltig. \[…\] Sie sollen nun sukzessive entfernt oder durch sicherere Alternativen wie Internet Archive (archive.org) oder Ghostarchive ersetzt werden. An die Editoren ging der Appell, Links manuell zu prüfen und – sofern die Originalquelle noch online ist – den Archivlink komplett zu löschen oder auf seriöse Anbieter umzustellen.
 
 Die Ursache dafür – und jetzt wird es gleichermaßen interessant wie bizarr – ist [dieser zweieinhalb Jahre alte Blogeintrag](https://gyrovague.com/2023/08/05/archive-today-on-the-trail-of-the-mysterious-guerrilla-archivist-of-the-internet/) von [Jani Patokallio](https://www.patokallio.name/), in dem er die Hinter­gründe, Betreiber und Finanzierung von archive.today beleuchtet und dabei mit der Namens­nennung wohl auch voll ins Schwarze trifft. Ohne wirklich jemanden zu doxxen, listet Jani hier nämlich, die verschiedenen Aliasse von vermutlich einer Person auf, die wohl aus Russland kommt:
 

@@ -1,27 +1,26 @@
 ---
 title: "Siri und das Branding von KI-Systemen"
 date: "2024-05-04"
-datetime: "2024-05-04 11:39:26"
+published_at: "2024-05-04T09:39:26Z"
 id: "39625"
 slug: "siri-und-das-branding-von-ki-systemen"
-url: "https://eay.cc/2024/siri-und-das-branding-von-ki-systemen/"
-author: "eay"
+permalink: "https://eay.cc/2024/siri-und-das-branding-von-ki-systemen/"
+author: "Stefan Grund"
 format: "aside"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - apple
-  - google
-  - kuenstliche-intelligenz
-  - meta
-  - microsoft
-  - openai
-meta:
-  - geo_latitude: "51.000083"
-  - geo_longitude: "6.794247"
-  - geo_public: "1"
-  - yourls_shorturl: "https://eay.li/3qx"
-  - _share_on_mastodon_url: "https://eay.social/@eay/112382153084052775"
+  - "apple"
+  - "google"
+  - "künstliche intelligenz"
+  - "meta"
+  - "microsoft"
+  - "openai"
+short_url: "https://eay.li/3qx"
+content_copy:
+  - "https://eay.social/@eay/112382153084052775"
+geo_latitude: "51.000083"
+geo_longitude: "6.794247"
 ---
 
 [Alex hat im iPhoneBlog über das Branding der KI-Systeme von Apple & Co. geschrieben](https://www.iphoneblog.de/2024/05/02/apples-zukunftige-ki-systeme-besitzen-bereits-ein-branding/) und dass Apple hier mit "Siri" bereits eine hervorragende Marke besitzt. Eine Einschätzung die ich sehr teile, denn auch wenn Siri aufgrund ihrer begrenzten Fähigkeiten oft der Lächerlichkeit preisgegeben wird, ist es doch der einzige Assistent (neben [J.A.R.V.I.S.](https://en.wikipedia.org/wiki/J.A.R.V.I.S.)), der popkulturelle Bedeutung erlangt hat. Siri ist für digitale Assistenten das, was die Marke Twitter für Microblogging war – allgegenwärtig.

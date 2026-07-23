@@ -1,23 +1,22 @@
 ---
 title: "Review: Skyfall"
 date: "2012-11-07"
-datetime: "2012-11-07 02:17:46"
+published_at: "2012-11-07T00:17:46Z"
 id: "21192"
 slug: "review-skyfall"
-url: "https://eay.cc/2012/review-skyfall/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2012/review-skyfall/"
+author: "Stefan Grund"
+format: "standard"
 tags:
-  - action
-  - filme
-  - james-bond
-  - kinolog
-  - serien
-meta:
-  - yourls_shorturl: "https://eay.li/1os"
+  - "action"
+  - "filme"
+  - "james bond"
+  - "kinolog"
+  - "serien"
+short_url: "https://eay.li/1os"
 ---
 
-![](https://eay.cc/uploads/2012/skyfall.jpg)Alle Jahre wieder bekommen wir einen neuen [James Bond](//eay.cc/tag/james-bond/)-Streifen vorgesetzt. Zuletzt mal besser (»Casino Royale«), mal schlechter (»[Ein Quantum Trost](//eay.cc/2008/ein-quantum-bond/)«) oder davor direkt vollkommen durchstilisiertes "Popcorn-Kino" - gut, aber ohne jeglichen Belang (die Pierce Brosnan-Filme). Der neueste Film dieses seit jeher durchwachsenen Franchises heißt »[Skyfall](http://www.imdb.com/title/tt1074638/)« und 007 wird darin zum dritten Mal vom immer noch blonden Daniel Craig verkörpert. Und bereits Tage bevor »Skyfall« dem von Jason Bourne und ADS geschädigten Publikum gezeigt wurde, waren sich die Kritiker einig: Das hier ist der beste Bond der letzten hundert Jahre! Oder zumindest seit Sean Connery! Und Javier Bardem, lecko mio, ist der bösartigste Bösewicht seit Kritikergedenken!
+![](https://eay.cc/uploads/2012/skyfall.jpg)Alle Jahre wieder bekommen wir einen neuen [James Bond](https://eay.cc/tag/james-bond/)-Streifen vorgesetzt. Zuletzt mal besser (»Casino Royale«), mal schlechter (»[Ein Quantum Trost](https://eay.cc/2008/ein-quantum-bond/)«) oder davor direkt vollkommen durchstilisiertes "Popcorn-Kino" - gut, aber ohne jeglichen Belang (die Pierce Brosnan-Filme). Der neueste Film dieses seit jeher durchwachsenen Franchises heißt »[Skyfall](http://www.imdb.com/title/tt1074638/)« und 007 wird darin zum dritten Mal vom immer noch blonden Daniel Craig verkörpert. Und bereits Tage bevor »Skyfall« dem von Jason Bourne und ADS geschädigten Publikum gezeigt wurde, waren sich die Kritiker einig: Das hier ist der beste Bond der letzten hundert Jahre! Oder zumindest seit Sean Connery! Und Javier Bardem, lecko mio, ist der bösartigste Bösewicht seit Kritikergedenken!
 
 Freude strahlend suchte ich am vergangenen Wochenende also das hiesige Lichtspielhaus auf, um die folgenden 143 Minuten den vielleicht besten Bond aller Zeiten zu Gesicht zu bekommen. Gut, meine Erwartungen waren also recht hoch und - der eine oder andere wird sich denken können, wohin die Reise gehtâ¦ - zunächst sollte ich auch nicht enttäuscht werden. Bond verfolgt Leute, prügelt sich, tötet. Eine wunderschöne Titelsequenz später geht es überraschenderweise genauso weiter. Alles bestens. Doch dann, irgendwann als Craig auf Bardem trifft, bemerke ich still, leise und heimlich, dass irgendwo in meinem Hinterkopf das Kartenhaus namens »Skyfall« beginnt, langsam aber sicher in sich zusammen zu fallen. Anderthalb Stunden später stehen Bond und ich vor den Trümmern unserer Existenz.
 
@@ -25,6 +24,6 @@ Was schief gelaufen ist, lässt sich meines Erachtens auch sehr leicht benennen:
 
 Versteht mich nicht falsch, "es war nicht alles schlecht". Im Gegenteil: Die erste Hälfte macht sehr viel Spaß, alles sieht fantastisch aus (vor allem auch der ansonsten von mir bemängelte, letzte Showdown) und Craig ist nach wie vor Bond und sollte es auch erst mal bleiben. Durch sein wie erwartet großartiges Spiel beweist Javier Bardem derweil sogar, dass er nicht mal mehr viel Sinn in Figuren braucht, um diese fantastisch aussehen zu lassen.
 
-Das Schlimme ist halt, dass alles so unglaublich gewollt ist. _Skyfall_. Zum 50. Jubiläum sollte es halt was großes werden. Da darf der Sinn schon mal auf der Strecke bleiben. Wenn man von den Negativpunkten absieht, ist »Skyfall« sicherlich solide und auf jeden Fall besser als der unsägliche letzte Bond, »Ein Quantum Trost«. Ich kann das jedoch nicht, empfinde »Casino Royale« weiterhin als besten Bond der letzten Jahre und setze mich nun hin und freue mich auf den nächsten Bond mit Daniel Craig. Wirklich.
+Das Schlimme ist halt, dass alles so unglaublich gewollt ist. \_Skyfall\_. Zum 50. Jubiläum sollte es halt was großes werden. Da darf der Sinn schon mal auf der Strecke bleiben. Wenn man von den Negativpunkten absieht, ist »Skyfall« sicherlich solide und auf jeden Fall besser als der unsägliche letzte Bond, »Ein Quantum Trost«. Ich kann das jedoch nicht, empfinde »Casino Royale« weiterhin als besten Bond der letzten Jahre und setze mich nun hin und freue mich auf den nächsten Bond mit Daniel Craig. Wirklich.
 
- **[![EMDb](/uploads/pages/emdb/emdb_mini.gif)](http://eay.cc/emdb/) - Rating:** ![2/5](/uploads/pages/emdb/s_2.gif)
+ **[![EMDb](https://eay.cc/uploads/pages/emdb/emdb_mini.gif)](http://eay.cc/emdb/) - Rating:** ![2/5](https://eay.cc/uploads/pages/emdb/s_2.gif)

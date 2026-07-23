@@ -1,25 +1,24 @@
 ---
 title: "Randall Munroe @ TED über \"What if?\""
 date: "2014-06-04"
-datetime: "2014-06-04 15:17:24"
+published_at: "2014-06-04T13:17:24Z"
 id: "28131"
 slug: "randall-munroe-ted-ueber-what-if"
-url: "https://eay.cc/2014/randall-munroe-ted-ueber-what-if/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2014/randall-munroe-ted-ueber-what-if/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - best-of
-  - ted
-  - webcomic
-  - wissenschaft
-  - xkcd
-meta:
-  - yourls_shorturl: "https://eay.li/2gp"
+  - "best of"
+  - "ted"
+  - "webcomic"
+  - "wissenschaft"
+  - "xkcd"
+short_url: "https://eay.li/2gp"
 ---
 
-[youtube id="I64CQp6z0Pk"]
+\[youtube id="I64CQp6z0Pk"\]
 
 > Web cartoonist Randall Munroe [answers simple what-if questions](https://what-if.xkcd.com/) ("what if you hit a baseball moving at the speed of light?") using math, physics, logic and deadpan humor. In this charming talk, a reader's question about Google's data warehouse leads Munroe down a circuitous path to a hilariously over-detailed answer â in which, shhh, you might actually learn something.
 

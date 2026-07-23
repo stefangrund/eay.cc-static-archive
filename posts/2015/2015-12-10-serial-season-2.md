@@ -1,23 +1,24 @@
 ---
 title: "Serial, Season 2"
 date: "2015-12-10"
-datetime: "2015-12-10 14:20:46"
+published_at: "2015-12-10T13:20:46Z"
 id: "31101"
 slug: "serial-season-2"
-url: "https://eay.cc/2015/serial-season-2/"
-author: "eay"
+permalink: "https://eay.cc/2015/serial-season-2/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - krieg
-  - podcast
-  - serial
-  - terrorismus
-  - usa
-meta:
-  - linked_list_url: "https://serialpodcast.org/season-two/1/dustwun"
-  - yourls_shorturl: "https://eay.li/2re"
+  - "krieg"
+  - "podcast"
+  - "serial"
+  - "terrorismus"
+  - "usa"
+external_url: "https://serialpodcast.org/season-two/1/dustwun"
+short_url: "https://eay.li/2re"
 ---
+
+[Link →](https://serialpodcast.org/season-two/1/dustwun)
 
 Die zweite Staffel des erfolgreichen Über-Podcast "[Serial](https://serialpodcast.org/)" ist heute gestartet. Nachdem es im letzten Jahr um den (nicht-fiktionalen) Mord an einer Jugendlichen ging, beschäftigen sich Sarah Koenig und ihr Team diesmal mit dem Fall des US-Soldaten [Bowe Bergdahl](https://en.wikipedia.org/wiki/Bowe_Bergdahl), der 2009 in Afghanistan von den Taliban entführt und fünf Jahre gefangen gehalten wurde.

@@ -1,24 +1,25 @@
 ---
 title: "The future is here today: You can't play Bach on Facebook because Sony says they own his compositions"
 date: "2018-09-12"
-datetime: "2018-09-12 23:12:35"
+published_at: "2018-09-12T21:12:35Z"
 id: "34939"
 slug: "the-future-is-here-today-you-cant-play-bach-on-facebook-because-sony-says-they-own-his-compositions"
-url: "https://eay.cc/2018/the-future-is-here-today-you-cant-play-bach-on-facebook-because-sony-says-they-own-his-compositions/"
-author: "eay"
+permalink: "https://eay.cc/2018/the-future-is-here-today-you-cant-play-bach-on-facebook-because-sony-says-they-own-his-compositions/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - facebook
-  - musik
-  - netzkultur
-  - sony
-  - urheberrecht
-meta:
-  - linked_list_url: "https://boingboing.net/2018/09/05/mozart-bach-sorta-mach.html"
-  - yourls_shorturl: "https://eay.li/36q"
+  - "facebook"
+  - "musik"
+  - "netzkultur"
+  - "sony"
+  - "urheberrecht"
+external_url: "https://boingboing.net/2018/09/05/mozart-bach-sorta-mach.html"
+short_url: "https://eay.li/36q"
 ---
+
+[Link →](https://boingboing.net/2018/09/05/mozart-bach-sorta-mach.html)
 
 Boing Boing-Posting von letzter Woche, das zeigt, was für ein Wahnsinn nach der [Pro-Upload-Filter-Abstimmung von heute](https://eay.cc/2018/europaparlament-stimmt-fuer-upload-filter-und-ein-eu-leistungsschutzrecht/) absofort noch viel häufiger auf uns zukommen wird:
 

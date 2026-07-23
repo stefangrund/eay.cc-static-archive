@@ -1,24 +1,23 @@
 ---
 title: "She's armed and dangerous"
 date: "2008-10-12"
-datetime: "2008-10-12 16:04:54"
+published_at: "2008-10-12T14:04:54Z"
 id: "2599"
 slug: "shes-armed-and-dangerous"
-url: "https://eay.cc/2008/shes-armed-and-dangerous/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2008/shes-armed-and-dangerous/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - 0815
-  - the-others
+  - "08/15"
+  - "The Others"
 tags:
-  - fanart
-  - illustrationen
-  - roberlan
-  - sarah-palin
-  - usa
-  - wahlkampf
-meta:
-  - yourls_shorturl: "https://eay.li/vc"
+  - "fanart"
+  - "illustrationen"
+  - "roberlan"
+  - "sarah palin"
+  - "usa"
+  - "wahlkampf"
+short_url: "https://eay.li/vc"
 ---
 
-![](/uploads/2008/dirtysarah.jpg) [Roberlan](//eay.cc/tag/roberlan/), mein Lieblingsillustrator aus Brasilien, hat es [wieder](//eay.cc/2008/sarah-palin-fan-art/) getan. Diesmal hat er Sarah Palin zur Ikone eines Grindhouse-Retro-Posters gemacht. Toll wie immer. Hier [in groß](http://roberlan.deviantart.com/art/Dirty-Sarah-Grunge-100506720).
+![](https://eay.cc/uploads/2008/dirtysarah.jpg) [Roberlan](https://eay.cc/tag/roberlan/), mein Lieblingsillustrator aus Brasilien, hat es [wieder](https://eay.cc/2008/sarah-palin-fan-art/) getan. Diesmal hat er Sarah Palin zur Ikone eines Grindhouse-Retro-Posters gemacht. Toll wie immer. Hier [in groß](http://roberlan.deviantart.com/art/Dirty-Sarah-Grunge-100506720).

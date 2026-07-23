@@ -1,30 +1,28 @@
 ---
 title: "The RoboCop Statue arrives in Detroit"
 date: "2025-12-04"
-datetime: "2025-12-04 21:19:27"
+published_at: "2025-12-04T20:19:27Z"
 id: "40766"
 slug: "the-robocop-statue-arrives-in-detroit"
-url: "https://eay.cc/2025/the-robocop-statue-arrives-in-detroit/"
-author: "eay"
+permalink: "https://eay.cc/2025/the-robocop-statue-arrives-in-detroit/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - detroit
-  - fanart
-  - robocop
-meta:
-  - linked_list_url: "https://www.dailydetroit.com/first-look-the-robocop-statue-arrives-in-detroit/"
-  - geo_latitude: "50.973883"
-  - geo_longitude: "6.68289"
-  - geo_public: "1"
-  - yourls_shorturl: "https://eay.li/3xl"
-  - _share_on_mastodon_url: "https://eay.social/@eay/115663147550508533"
-  - linked_list_og-title: "FIRST LOOK: The RoboCop Statue Arrives In Detroit"
-  - linked_list_og-description: "In Eastern Market, there's a statue happening"
-  - linked_list_og-image: "https://eay.cc/wordpress/uploads/og-cache/7749db35a563debe4f8c7b7d4db2da4f.webp"
-  - content_copy: "https://bsky.app/profile/eay.social/post/3m76sbxptac26"
+  - "detroit"
+  - "fanart"
+  - "robocop"
+external_url: "https://www.dailydetroit.com/first-look-the-robocop-statue-arrives-in-detroit/"
+short_url: "https://eay.li/3xl"
+content_copy:
+  - "https://bsky.app/profile/eay.social/post/3m76sbxptac26"
+  - "https://eay.social/@eay/115663147550508533"
+geo_latitude: "50.973883"
+geo_longitude: "6.68289"
 ---
+
+[Link →](https://www.dailydetroit.com/first-look-the-robocop-statue-arrives-in-detroit/)
 
 > Sparked by a viral 2011 tweet comparing Detroit's need for a RoboCop statue to [Philadelphia's Rocky statue](https://en.wikipedia.org/wiki/Rocky_Steps), the project grew through massive community collaboration.
 

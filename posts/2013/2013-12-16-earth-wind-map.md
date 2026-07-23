@@ -1,22 +1,23 @@
 ---
 title: "Earth Wind Map"
 date: "2013-12-16"
-datetime: "2013-12-16 22:07:13"
+published_at: "2013-12-16T21:07:13Z"
 id: "26403"
 slug: "earth-wind-map"
-url: "https://eay.cc/2013/earth-wind-map/"
-author: "eay"
+permalink: "https://eay.cc/2013/earth-wind-map/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - visualisierung
-  - webservice
-  - wetter
-meta:
-  - linked_list_url: "http://earth.nullschool.net/"
-  - yourls_shorturl: "https://eay.li/2ar"
+  - "visualisierung"
+  - "webservice"
+  - "wetter"
+external_url: "http://earth.nullschool.net/"
+short_url: "https://eay.li/2ar"
 ---
+
+[Link →](http://earth.nullschool.net/)
 
 > A visualization of global weather conditions, forecast by supercomputers, updated every three hours.
 

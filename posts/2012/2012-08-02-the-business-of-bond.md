@@ -1,20 +1,19 @@
 ---
 title: "The Business of Bond"
 date: "2012-08-02"
-datetime: "2012-08-02 22:03:57"
+published_at: "2012-08-02T20:03:57Z"
 id: "20449"
 slug: "the-business-of-bond"
-url: "https://eay.cc/2012/the-business-of-bond/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2012/the-business-of-bond/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - james-bond
-  - statistik
-  - visualisierung
-meta:
-  - yourls_shorturl: "https://eay.li/1l0"
+  - "james bond"
+  - "statistik"
+  - "visualisierung"
+short_url: "https://eay.li/1l0"
 ---
 
 > Investigate how budgets and box office returns have varied over the 22 Bond films thus far and adjust by inflation to see the data in real terms.

@@ -1,16 +1,15 @@
 ---
 title: "Instagram der Woche: Stormdupers"
 date: "2016-02-16"
-datetime: "2016-02-16 23:16:02"
+published_at: "2016-02-16T22:16:02Z"
 id: "31260"
 slug: "instagram-der-woche-stormdupers"
-url: "https://eay.cc/2016/instagram-der-woche-stormdupers/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2016/instagram-der-woche-stormdupers/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - 0815
-meta:
-  - yourls_shorturl: "https://eay.li/2rp"
+  - "08/15"
+short_url: "https://eay.li/2rp"
 ---
 
 [![](https://eay.cc/uploads/2016/stormdupers.jpg)](https://www.instagram.com/stormdupers/)

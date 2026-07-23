@@ -1,23 +1,22 @@
 ---
 title: "»The Dark Age / Modern Age of DC Comics« got CANCELLED"
 date: "2016-07-17"
-datetime: "2016-07-17 20:46:57"
+published_at: "2016-07-17T19:46:57Z"
 id: "31660"
 slug: "the-dark-age-modern-age-of-dc-comics-got-cancelled"
-url: "https://eay.cc/2016/the-dark-age-modern-age-of-dc-comics-got-cancelled/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2016/the-dark-age-modern-age-of-dc-comics-got-cancelled/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - 0815
-  - english
+  - "08/15"
+  - "English"
 tags:
-  - buecher
-  - comics
-  - dc
-  - english
-  - geschichte
-meta:
-  - yourls_shorturl: "https://eay.li/3dq"
+  - "bücher"
+  - "comics"
+  - "dc"
+  - "english"
+  - "geschichte"
+short_url: "https://eay.li/3dq"
 ---
 
 ![](https://eay.cc/uploads/2016/dark-modern-age-of-dc-comics.jpg)

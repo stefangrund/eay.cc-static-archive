@@ -1,21 +1,21 @@
 ---
 title: "There she is."
 date: "2021-06-09"
-datetime: "2021-06-09 22:18:14"
+published_at: "2021-06-09T20:18:14Z"
 id: "37328"
 slug: "there-she-is"
-url: "https://eay.cc/2021/there-she-is/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2021/there-she-is/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - games
-  - microsoft
-  - xbox
-meta:
-  - content_copy: "https://twitter.com/eay/status/1402643241057587211"
-  - yourls_shorturl: "https://eay.li/2oj"
+  - "games"
+  - "microsoft"
+  - "xbox"
+short_url: "https://eay.li/2oj"
+content_copy:
+  - "https://twitter.com/eay/status/1402643241057587211"
 ---
 
 ![](https://eay.cc/uploads/2021/xbox-series-x.jpg)

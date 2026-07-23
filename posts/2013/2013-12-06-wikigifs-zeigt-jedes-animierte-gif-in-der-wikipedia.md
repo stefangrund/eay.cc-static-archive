@@ -1,21 +1,22 @@
 ---
 title: "WikiGIFs zeigt jedes animierte GIF in der Wikipedia"
 date: "2013-12-06"
-datetime: "2013-12-06 02:45:53"
+published_at: "2013-12-06T01:45:53Z"
 id: "26273"
 slug: "wikigifs-zeigt-jedes-animierte-gif-in-der-wikipedia"
-url: "https://eay.cc/2013/wikigifs-zeigt-jedes-animierte-gif-in-der-wikipedia/"
-author: "eay"
+permalink: "https://eay.cc/2013/wikigifs-zeigt-jedes-animierte-gif-in-der-wikipedia/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - gifs
-  - netzkultur
-  - wikipedia
-meta:
-  - linked_list_url: "http://www.wikigifs.org/"
-  - yourls_shorturl: "https://eay.li/2af"
+  - "gifs"
+  - "netzkultur"
+  - "wikipedia"
+external_url: "http://www.wikigifs.org/"
+short_url: "https://eay.li/2af"
 ---
+
+[Link →](http://www.wikigifs.org/)
 
 (via [Waxy](http://waxy.org/links))

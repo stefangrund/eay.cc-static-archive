@@ -1,25 +1,25 @@
 ---
 title: "Reply All: The Founder"
 date: "2019-02-21"
-datetime: "2019-02-21 22:51:27"
+published_at: "2019-02-21T21:51:27Z"
 id: "35540"
 slug: "reply-all-the-founder"
-url: "https://eay.cc/2019/reply-all-the-founder/"
-author: "eay"
+permalink: "https://eay.cc/2019/reply-all-the-founder/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - kriminalitat
-  - netzkultur
-  - podcast
-meta:
-  - linked_list_url: "https://www.gimletmedia.com/reply-all/the-founder"
-  - yourls_shorturl: "https://eay.li/397"
-  - geo_latitude: "50.973860410728"
-  - geo_longitude: "6.6829651866407"
-  - geo_public: "1"
+  - "kriminalität"
+  - "netzkultur"
+  - "podcast"
+external_url: "https://www.gimletmedia.com/reply-all/the-founder"
+short_url: "https://eay.li/397"
+geo_latitude: "50.973860410728"
+geo_longitude: "6.6829651866407"
 ---
+
+[Link →](https://www.gimletmedia.com/reply-all/the-founder)
 
 Podcast-Empfehlung! In der aktuellen Folge von [Reply All](https://www.gimletmedia.com/reply-all/) spricht PJ Vogt mit dem Journalisten [Evan Ratliff](http://www.cazart.net/homesite) über den Programmierer-Gone-Drogenboss [Paul Le Roux](https://en.wikipedia.org/wiki/Paul_Le_Roux). Der hat – bevor er sich mit einer zwielichtigen Online-Apotheke dumm und dusselig verdiente – zunächst die Verschlüsselungs­software erfunden, die später zu [TrueCrypt](https://en.wikipedia.org/wiki/TrueCrypt) wurde, und sich dann auf dem finanziellen Höhepunkt seiner Karriere dazu entschieden, sein Geschäftsfeld auf Drogen, Gold und Mord zu erweitern.
 

@@ -1,26 +1,25 @@
 ---
 title: "Twitter's early and Mastodon's current app ecosystem"
 date: "2022-11-19"
-datetime: "2022-11-19 19:23:29"
+published_at: "2022-11-19T17:23:29Z"
 id: "38233"
 slug: "twitters-early-and-mastodons-current-app-ecosystem"
-url: "https://eay.cc/2022/twitters-early-and-mastodons-current-app-ecosystem/"
-author: "eay"
+permalink: "https://eay.cc/2022/twitters-early-and-mastodons-current-app-ecosystem/"
+author: "Stefan Grund"
 format: "aside"
 categories:
-  - 0815
-  - english
+  - "08/15"
+  - "English"
 tags:
-  - apps
-  - mastodon
-  - twitter
-meta:
-  - geo_latitude: "50.973825"
-  - geo_longitude: "6.683034"
-  - geo_public: "1"
-  - content_copy: "https://eay.social/@eay/109367297699501695"
-  - content_copy: "https://eay.social/@eay/109367298624071205"
-  - yourls_shorturl: "https://eay.li/3k2"
+  - "apps"
+  - "mastodon"
+  - "twitter"
+short_url: "https://eay.li/3k2"
+content_copy:
+  - "https://eay.social/@eay/109367297699501695"
+  - "https://eay.social/@eay/109367298624071205"
+geo_latitude: "50.973825"
+geo_longitude: "6.683034"
 ---
 
 A lot of my affection for Twitter comes from it‘s early & rich ecosystem of great third-party apps: [Twitterrific](https://apps.apple.com/de/app/twitterrific-tweet-your-way/id580311103) was the first one, Echofon my first app love, Tweetie had a superb design and even invented pull-to-refresh, YoruFukurou had an outstanding desktop keyboard navigation, while Birdhouse saved our tweet drafts. [Tweetbot](https://apps.apple.com/de/app/tweetbot-for-twitter/id1527500834) brought Twitter clients to perfection.

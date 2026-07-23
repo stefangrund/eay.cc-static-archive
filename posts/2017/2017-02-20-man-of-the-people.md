@@ -1,24 +1,25 @@
 ---
 title: "Podcast: Man of the People"
 date: "2017-02-20"
-datetime: "2017-02-20 21:57:21"
+published_at: "2017-02-20T20:57:21Z"
 id: "32189"
 slug: "man-of-the-people"
-url: "https://eay.cc/2017/man-of-the-people/"
-author: "eay"
+permalink: "https://eay.cc/2017/man-of-the-people/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - bizarres
-  - geschichte
-  - medizin
-  - podcast
-  - radio
-meta:
-  - linked_list_url: "https://gimletmedia.com/episode/86-man-of-the-people/"
-  - yourls_shorturl: "https://eay.li/2wq"
+  - "bizarres"
+  - "geschichte"
+  - "medizin"
+  - "podcast"
+  - "radio"
+external_url: "https://gimletmedia.com/episode/86-man-of-the-people/"
+short_url: "https://eay.li/2wq"
 ---
+
+[Link →](https://gimletmedia.com/episode/86-man-of-the-people/)
 
 Bei [Reply All](https://gimletmedia.com/reply-all/) gab's zuletzt eine großartige Folge ([MP3-Direktlink](http://traffic.megaphone.fm/GLT1103232835.mp3)) über das wahnwitzige Leben von [Dr. John Romulus Brinkley](https://en.wikipedia.org/wiki/John_R._Brinkley), einem Quacksalber und Self-Made-Man aus dem frühen 20. Jahrhundert, der impotente Männer mit Ziegenhoden bestückte, Radiowerbung erfandt, fast Gouverneur von Kansas wurde, zahlreiche Menschen tötete, so die Gründung der Ärztevereinigung provozierte, Country- und Westernmusik populär machte und mit einem Radiosender nach Mexiko zog, um von dort aus die USA zu bespielen, ohne sich an deren Gesetzen halten zu müssen.
 

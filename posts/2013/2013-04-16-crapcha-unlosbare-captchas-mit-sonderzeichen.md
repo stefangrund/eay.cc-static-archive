@@ -1,21 +1,22 @@
 ---
 title: "Crapcha, unlösbare Captchas mit Sonderzeichen"
 date: "2013-04-16"
-datetime: "2013-04-16 09:25:36"
+published_at: "2013-04-16T07:25:36Z"
 id: "1196"
 slug: "crapcha-unlosbare-captchas-mit-sonderzeichen"
-url: "https://eay.cc/2013/crapcha-unlosbare-captchas-mit-sonderzeichen/"
-author: "eay"
+permalink: "https://eay.cc/2013/crapcha-unlosbare-captchas-mit-sonderzeichen/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - netzkultur
-  - parodie
-  - webservice
-meta:
-  - yourls_shorturl: "https://eay.li/22y"
-  - linked_list_url: "http://crapcha.com/"
+  - "netzkultur"
+  - "parodie"
+  - "webservice"
+external_url: "http://crapcha.com/"
+short_url: "https://eay.li/22y"
 ---
+
+[Link →](http://crapcha.com/)
 
 Jeder hasst Captchas. Das hier ist ihre nächste Entwicklungsstufe. (via [@anutron](https://twitter.com/anutron/status/324055967572586496))

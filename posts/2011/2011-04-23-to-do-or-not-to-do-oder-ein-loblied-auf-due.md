@@ -1,25 +1,24 @@
 ---
 title: "To do or not to do (oder: Ein Loblied auf Due)"
 date: "2011-04-23"
-datetime: "2011-04-23 20:58:20"
+published_at: "2011-04-23T18:58:20Z"
 id: "16016"
 slug: "to-do-or-not-to-do-oder-ein-loblied-auf-due"
-url: "https://eay.cc/2011/to-do-or-not-to-do-oder-ein-loblied-auf-due/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2011/to-do-or-not-to-do-oder-ein-loblied-auf-due/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - apple
-  - apps
-  - appstore
-  - ipad
-  - iphone
-  - konsum
-  - netzkultur
-  - to-do
-meta:
-  - yourls_shorturl: "https://eay.li/17e"
+  - "apple"
+  - "apps"
+  - "appstore"
+  - "ipad"
+  - "iphone"
+  - "konsum"
+  - "netzkultur"
+  - "to do"
+short_url: "https://eay.li/17e"
 ---
 
 Auf die Frage, wie seine Eltern ihn beschreiben würden, entgegnete einer meiner Freunde neulich in einem Bewerbungsgespräch: "Als faule Socke." Obwohl das wahrscheinlich der Wahrheit entspricht (ich kenne seine Eltern, Gruß an der Stelle) und obwohl ich ihn ansonsten wegen genau dieser Mit-nichts-was-zu-tun-heit schätze, war das wohl nicht der klügste Moment seinen Humor spielen zu lassen. Die meisten anderen (und ich) hätten wohl irgendwas von "engagiert", "verantwortungsbewusst" und "zielstrebig" geschwafelt - und gelogen.

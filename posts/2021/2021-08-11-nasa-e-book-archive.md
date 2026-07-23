@@ -1,23 +1,24 @@
 ---
 title: "NASA e-Book Archive"
 date: "2021-08-11"
-datetime: "2021-08-11 23:54:33"
+published_at: "2021-08-11T21:54:33Z"
 id: "37427"
 slug: "nasa-e-book-archive"
-url: "https://eay.cc/2021/nasa-e-book-archive/"
-author: "eay"
+permalink: "https://eay.cc/2021/nasa-e-book-archive/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - buecher
-  - ebooks
-  - nasa
-  - raumfahrt
-  - weltall
-meta:
-  - linked_list_url: "https://www.nasa.gov/connect/ebooks/ebooks_archive_1.html"
-  - yourls_shorturl: "https://eay.li/2qu"
+  - "bücher"
+  - "ebooks"
+  - "nasa"
+  - "raumfahrt"
+  - "weltall"
+external_url: "https://www.nasa.gov/connect/ebooks/ebooks_archive_1.html"
+short_url: "https://eay.li/2qu"
 ---
+
+[Link →](https://www.nasa.gov/connect/ebooks/ebooks_archive_1.html)
 
 Es gibt ein "NASA e-Book Archive" mit ein paar Dutzend Veröffentlichungen jeweils kostenlos als EPUB, Mobi und PDFs. (via [Eli](https://eli.li/2021/08/11/til-that-nasa-has-an-archive-of-ebooks))

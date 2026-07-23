@@ -1,27 +1,27 @@
 ---
 title: "Corona-Dämmerung für Neoliberalismus: Ende einer Theorie"
 date: "2020-03-22"
-datetime: "2020-03-22 17:20:38"
+published_at: "2020-03-22T16:20:38Z"
 id: "36312"
 slug: "corona-daemmerung-fuer-neoliberalismus-ende-einer-theorie"
-url: "https://eay.cc/2020/corona-daemmerung-fuer-neoliberalismus-ende-einer-theorie/"
-author: "eay"
+permalink: "https://eay.cc/2020/corona-daemmerung-fuer-neoliberalismus-ende-einer-theorie/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - coronavirus
-  - kapitalismus
-  - neoliberalismus
-  - politik
-  - wirtschaft
-meta:
-  - linked_list_url: "https://taz.de/Corona-Daemmerung-fuer-Neoliberalismus/!5669238/"
-  - yourls_shorturl: "https://eay.li/3d5"
-  - geo_latitude: "50.973905496744"
-  - geo_longitude: "6.6829886116612"
-  - geo_public: "1"
+  - "coronavirus"
+  - "kapitalismus"
+  - "neoliberalismus"
+  - "politik"
+  - "wirtschaft"
+external_url: "https://taz.de/Corona-Daemmerung-fuer-Neoliberalismus/!5669238/"
+short_url: "https://eay.li/3d5"
+geo_latitude: "50.973905496744"
+geo_longitude: "6.6829886116612"
 ---
+
+[Link →](https://taz.de/Corona-Daemmerung-fuer-Neoliberalismus/!5669238/)
 
 [Ulrike Herrmann](https://de.wikipedia.org/wiki/Ulrike_Herrmann) in der taz zur pandemie­gemachten Wirtschaftskrise:
 

@@ -1,23 +1,24 @@
 ---
 title: "\"Marketing by funny failing\""
 date: "2018-01-15"
-datetime: "2018-01-15 21:03:18"
+published_at: "2018-01-15T20:03:18Z"
 id: "34054"
 slug: "marketing-by-funny-failing"
-url: "https://eay.cc/2018/marketing-by-funny-failing/"
-author: "eay"
+permalink: "https://eay.cc/2018/marketing-by-funny-failing/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - alexa
-  - amazon
-  - marketing
-  - technologie
-meta:
-  - linked_list_url: "http://spiegel.de/netzwelt/gadgets/sprachsteuerung-im-alltag-ohne-geht-es-nicht-mehr-kolumne-a-1187056.html"
-  - yourls_shorturl: "https://eay.li/337"
+  - "alexa"
+  - "amazon"
+  - "marketing"
+  - "technologie"
+external_url: "http://spiegel.de/netzwelt/gadgets/sprachsteuerung-im-alltag-ohne-geht-es-nicht-mehr-kolumne-a-1187056.html"
+short_url: "https://eay.li/337"
 ---
+
+[Link →](http://spiegel.de/netzwelt/gadgets/sprachsteuerung-im-alltag-ohne-geht-es-nicht-mehr-kolumne-a-1187056.html)
 
 In der letzten Kolumne von Sascha Lobo ging es um die Revolution der Interaktion von Mensch und Maschine durch Sprachassistenten wie Alexa und Google Home. So unstrittig, wie absehbar.
 

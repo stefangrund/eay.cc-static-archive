@@ -1,25 +1,24 @@
 ---
 title: "Scotland 2019, Day 1 of 4ish"
 date: "2019-10-31"
-datetime: "2019-10-31 23:30:58"
+published_at: "2019-10-31T21:30:58Z"
 id: "36030"
 slug: "scotland-2019-day-1-of-4ish"
-url: "https://eay.cc/2019/scotland-2019-day-1-of-4ish/"
-author: "eay"
+permalink: "https://eay.cc/2019/scotland-2019-day-1-of-4ish/"
+author: "Stefan Grund"
 format: "image"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - analogleben
-  - fotos
-  - schottland
-meta:
-  - geo_latitude: "55.958349626956"
-  - geo_longitude: "-3.1987506080847"
-  - geo_public: "1"
-  - yourls_shorturl: "https://eay.li/3bs"
-  - content_copy: "https://www.instagram.com/p/B4YFz4rIeGM/"
-  - content_copy: "https://twitter.com/eay/status/1190727124241571840"
+  - "analogleben"
+  - "fotos"
+  - "schottland"
+short_url: "https://eay.li/3bs"
+content_copy:
+  - "https://www.instagram.com/p/B4YFz4rIeGM/"
+  - "https://twitter.com/eay/status/1190727124241571840"
+geo_latitude: "55.958349626956"
+geo_longitude: "-3.1987506080847"
 ---
 
 ![](https://eay.cc/uploads/2019/scotland2019-1.jpeg)

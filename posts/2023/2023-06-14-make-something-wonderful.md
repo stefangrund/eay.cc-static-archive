@@ -1,27 +1,25 @@
 ---
 title: "Make Something Wonderful"
 date: "2023-06-14"
-datetime: "2023-06-14 22:39:04"
+published_at: "2023-06-14T20:39:04Z"
 id: "38663"
 slug: "make-something-wonderful"
-url: "https://eay.cc/2023/make-something-wonderful/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2023/make-something-wonderful/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - 0815
-  - english
+  - "08/15"
+  - "English"
 tags:
-  - apple
-  - best-of
-  - buecher
-  - geschichte
-  - steve-jobs
-  - technologie
-meta:
-  - geo_latitude: "50.973826"
-  - geo_longitude: "6.683003"
-  - geo_public: "1"
-  - yourls_shorturl: "https://eay.li/3mx"
+  - "apple"
+  - "best of"
+  - "bücher"
+  - "geschichte"
+  - "steve jobs"
+  - "technologie"
+short_url: "https://eay.li/3mx"
+geo_latitude: "50.973826"
+geo_longitude: "6.683003"
 ---
 
 ![Close-up of the book cover of Make Something Wonderful, held by me.](https://eay.cc/uploads/2023/make-something-wonderful.jpg)

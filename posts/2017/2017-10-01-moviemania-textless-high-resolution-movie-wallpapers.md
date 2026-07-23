@@ -1,23 +1,24 @@
 ---
 title: "Moviemania is the largest textless high-resolution movie wallpapers database on the Internet"
 date: "2017-10-01"
-datetime: "2017-10-01 19:13:05"
+published_at: "2017-10-01T17:13:05Z"
 id: "33471"
 slug: "moviemania-textless-high-resolution-movie-wallpapers"
-url: "https://eay.cc/2017/moviemania-textless-high-resolution-movie-wallpapers/"
-author: "eay"
+permalink: "https://eay.cc/2017/moviemania-textless-high-resolution-movie-wallpapers/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - fanart
-  - filme
-  - iphone
-  - serien
-  - service
-meta:
-  - linked_list_url: "https://www.moviemania.io/"
-  - yourls_shorturl: "https://eay.li/31e"
+  - "fanart"
+  - "filme"
+  - "iphone"
+  - "serien"
+  - "service"
+external_url: "https://www.moviemania.io/"
+short_url: "https://eay.li/31e"
 ---
+
+[Link →](https://www.moviemania.io/)
 
 (via [OMGWTFBBQ1337](http://www.omgwtfbbq1337.de/2017/09/20/moviemania-textless-high-resolution-movie-wallpapers/))

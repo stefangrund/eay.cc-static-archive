@@ -1,24 +1,23 @@
 ---
 title: "R.E.D. - Retired Extremely Dull"
 date: "2010-11-28"
-datetime: "2010-11-28 15:38:40"
+published_at: "2010-11-28T14:38:40Z"
 id: "13757"
 slug: "r-e-d-retired-extremely-dull"
-url: "https://eay.cc/2010/r-e-d-retired-extremely-dull/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2010/r-e-d-retired-extremely-dull/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - bruce-willis
-  - comics
-  - comicverfilmungen
-  - dc
-  - filme
-  - kinolog
-  - warren-ellis
-meta:
-  - yourls_shorturl: "https://eay.li/12l"
+  - "bruce willis"
+  - "comics"
+  - "comicverfilmungen"
+  - "dc"
+  - "filme"
+  - "kinolog"
+  - "warren ellis"
+short_url: "https://eay.li/12l"
 ---
 
 ![](https://eay.cc/uploads/2010/red1.gif)[Warren Ellis](http://en.wikipedia.org/wiki/Warren_Ellis) ist einer der ganz großen Autoren im Comic-Business. Sobald man "[Transmetropolitan](http://en.wikipedia.org/wiki/Transmetropolitan)" sagt, erstarren gewöhnlich alle vor Ehrfurcht. Im Normalfall kann man also nicht viel verkehrt machen, wenn man im Comicladen blindlings eins der Hefte greift, auf dem sein Name prangt.
@@ -31,6 +30,6 @@ Das klingt eigentlich recht solide, ist es aber nicht. Tötungsmaschine Moses is
 
 Es stellt sich also die Frage, warum man hier überhaupt die Comic-Lizenz eingekauft hat, anstatt sein eigenes Ding zu machen. Denn alles, was hier zu sehen ist, ist besser als im Print-Pendant. Besonders der im Comic gänzlich abhandene Humor, sorgt hier für gute, leicht überdurchschnittliche Unterhaltung, so dass man sich wünschen würde, ein weiteres Mal in die Welt von Frank Moses und vor allem dem von Malkovich paranoid-genial dargestellten Marvin zurückzukehren.
 
- **[![EMDb](/uploads/pages/emdb/emdb_mini.gif)](http://eay.cc/emdb/) - Rating:** ![3/5](/uploads/pages/emdb/s_3.gif)
+ **[![EMDb](https://eay.cc/uploads/pages/emdb/emdb_mini.gif)](http://eay.cc/emdb/) - Rating:** ![3/5](https://eay.cc/uploads/pages/emdb/s_3.gif)
 
 PS: Und jetzt wisst ihr auch, dass sich die Headline natürlich auf's Comic bezieht.

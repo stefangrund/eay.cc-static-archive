@@ -1,25 +1,26 @@
 ---
 title: "Bundesregierung befürchtet \"bürokratisches Monster\" weil neues EU-Leistungsschutzrecht auch für freie Software-Entwickler gelten soll"
 date: "2018-11-14"
-datetime: "2018-11-14 08:28:07"
+published_at: "2018-11-14T06:28:07Z"
 id: "35067"
 slug: "bundesregierung-befuerchtet-buerokratisches-monster-weil-neues-eu-leistungsschutzrecht-auch-fuer-freie-software-entwickler-gelten-soll"
-url: "https://eay.cc/2018/bundesregierung-befuerchtet-buerokratisches-monster-weil-neues-eu-leistungsschutzrecht-auch-fuer-freie-software-entwickler-gelten-soll/"
-author: "eay"
+permalink: "https://eay.cc/2018/bundesregierung-befuerchtet-buerokratisches-monster-weil-neues-eu-leistungsschutzrecht-auch-fuer-freie-software-entwickler-gelten-soll/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - europa
-  - leistungsschutzrecht
-  - politik
-  - programmieren
-  - technologie
-  - urheberrecht
-meta:
-  - linked_list_url: "https://www.welt.de/politik/deutschland/article183795474/Leistungsschutzrecht-Was-die-Digitalstrategie-der-Regierung-durchkreuzen-kann.html"
-  - yourls_shorturl: "https://eay.li/37n"
+  - "europa"
+  - "leistungsschutzrecht"
+  - "politik"
+  - "programmieren"
+  - "technologie"
+  - "urheberrecht"
+external_url: "https://www.welt.de/politik/deutschland/article183795474/Leistungsschutzrecht-Was-die-Digitalstrategie-der-Regierung-durchkreuzen-kann.html"
+short_url: "https://eay.li/37n"
 ---
+
+[Link →](https://www.welt.de/politik/deutschland/article183795474/Leistungsschutzrecht-Was-die-Digitalstrategie-der-Regierung-durchkreuzen-kann.html)
 
 Filed under: "Die Geister, die ich rief". Denn damit hätte jeder an einem Projekt beteiligte, freie Entwickler die Möglichkeit Anspruch auf einzelne Codezeilen zu erheben und das Projekt so rechtlich schachmatt zu setzen.
 

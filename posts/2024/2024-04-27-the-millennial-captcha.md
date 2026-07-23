@@ -1,25 +1,26 @@
 ---
 title: "The Millennial CAPTCHA"
 date: "2024-04-27"
-datetime: "2024-04-27 22:03:22"
+published_at: "2024-04-27T20:03:22Z"
 id: "39619"
 slug: "the-millennial-captcha"
-url: "https://eay.cc/2024/the-millennial-captcha/"
-author: "eay"
+permalink: "https://eay.cc/2024/the-millennial-captcha/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - netzkultur
-  - parodie
-meta:
-  - linked_list_url: "https://www.mcsweeneys.net/articles/the-millennial-captcha"
-  - geo_latitude: "50.973838"
-  - geo_longitude: "6.683014"
-  - geo_public: "1"
-  - yourls_shorturl: "https://eay.li/3qv"
-  - _share_on_mastodon_url: "https://eay.social/@eay/112344970268495193"
+  - "netzkultur"
+  - "parodie"
+external_url: "https://www.mcsweeneys.net/articles/the-millennial-captcha"
+short_url: "https://eay.li/3qv"
+content_copy:
+  - "https://eay.social/@eay/112344970268495193"
+geo_latitude: "50.973838"
+geo_longitude: "6.683014"
 ---
+
+[Link →](https://www.mcsweeneys.net/articles/the-millennial-captcha)
 
 ![](https://eay.cc/uploads/2024/millennial-captcha.jpg)
 

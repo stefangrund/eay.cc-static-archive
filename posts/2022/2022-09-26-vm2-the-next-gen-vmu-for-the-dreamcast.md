@@ -1,32 +1,29 @@
 ---
 title: "VM2: The Next-Gen VMU for the Dreamcast"
 date: "2022-09-26"
-datetime: "2022-09-26 08:15:26"
+published_at: "2022-09-26T06:15:26Z"
 id: "38103"
 slug: "vm2-the-next-gen-vmu-for-the-dreamcast"
-url: "https://eay.cc/2022/vm2-the-next-gen-vmu-for-the-dreamcast/"
-author: "eay"
+permalink: "https://eay.cc/2022/vm2-the-next-gen-vmu-for-the-dreamcast/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - crowdfunding
-  - dreamcast
-  - games
-  - konsum
-  - retro
-  - sega
-  - technologie
-meta:
-  - linked_list_url: "https://www.indiegogo.com/projects/vm2-the-next-gen-vmu-for-the-dreamcast"
-  - geo_latitude: "50.973857"
-  - geo_longitude: "6.683011"
-  - geo_public: "1"
-  - yourls_shorturl: "https://eay.li/3j3"
-  - linked_list_og-title: "VM2: The Next-Gen VMU for the Dreamcast"
-  - linked_list_og-description: "Micro-SD storage. Upgraded LCD. Embedded Battery. USB-C port. | Check out 'VM2: The Next-Gen VMU for the Dreamcast' on Indiegogo."
-  - linked_list_og-image: "https://eay.cc/wordpress/uploads/og-cache/3a130491aebdf4c738a8c138181fb732.webp"
+  - "crowdfunding"
+  - "dreamcast"
+  - "games"
+  - "konsum"
+  - "retro"
+  - "sega"
+  - "technologie"
+external_url: "https://www.indiegogo.com/projects/vm2-the-next-gen-vmu-for-the-dreamcast"
+short_url: "https://eay.li/3j3"
+geo_latitude: "50.973857"
+geo_longitude: "6.683011"
 ---
+
+[Link →](https://www.indiegogo.com/projects/vm2-the-next-gen-vmu-for-the-dreamcast)
 
 Bereits finanzierte Crowdfunding-Kampagne für eine zeitgemäße, mit MicroSD und USB-C ausgestattete Version der [Visual Memory Unit](https://de.wikipedia.org/wiki/Visual_Memory), der kurisosen Handheld-Memory-Card der Sega Dreamcast.
 

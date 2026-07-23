@@ -1,28 +1,29 @@
 ---
 title: "PDF Squeezer"
 date: "2025-03-22"
-datetime: "2025-03-22 14:50:32"
+published_at: "2025-03-22T13:50:32Z"
 id: "40281"
 slug: "pdf-squeezer"
-url: "https://eay.cc/2025/pdf-squeezer/"
-author: "eay"
+permalink: "https://eay.cc/2025/pdf-squeezer/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - app
-  - ios
-  - mac
-  - pdf
-meta:
-  - linked_list_url: "https://www.witt-software.com/pdfsqueezer/"
-  - geo_latitude: "50.973879"
-  - geo_longitude: "6.682879"
-  - geo_public: "1"
-  - yourls_shorturl: "https://eay.li/3ut"
-  - _share_on_mastodon_url: "https://eay.social/@eay/114206404370666797"
-  - content_copy: "https://bsky.app/profile/eay.social/post/3lkxuro47rv23"
+  - "app"
+  - "ios"
+  - "mac"
+  - "pdf"
+external_url: "https://www.witt-software.com/pdfsqueezer/"
+short_url: "https://eay.li/3ut"
+content_copy:
+  - "https://bsky.app/profile/eay.social/post/3lkxuro47rv23"
+  - "https://eay.social/@eay/114206404370666797"
+geo_latitude: "50.973879"
+geo_longitude: "6.682879"
 ---
+
+[Link →](https://www.witt-software.com/pdfsqueezer/)
 
 ![Screenshot der App PDF Squeezer, das die erfolgreiche starke Komprimierung eines PDFs zeigt. Die Dateigröße wurde von 315,7 MB auf 21,7 MB reduziert. Rechts sind Metadaten zur Originaldatei eingeblendet, darunter Seitenanzahl, Bildanzahl und Auflösungswerte.](https://eay.cc/uploads/2025/pdf-squeezer.png)
 

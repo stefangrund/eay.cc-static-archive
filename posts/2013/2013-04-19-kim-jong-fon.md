@@ -1,20 +1,19 @@
 ---
 title: "Kim Jong-fon"
 date: "2013-04-19"
-datetime: "2013-04-19 19:22:26"
+published_at: "2013-04-19T18:22:26Z"
 id: "22409"
 slug: "kim-jong-fon"
-url: "https://eay.cc/2013/kim-jong-fon/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2013/kim-jong-fon/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - iphone
-  - kim-jong-un
-  - nordkorea
-meta:
-  - yourls_shorturl: "https://eay.li/1uy"
+  - "iphone"
+  - "kim jong-un"
+  - "nordkorea"
+short_url: "https://eay.li/1uy"
 ---
 
 [![](https://eay.cc/uploads/2013/kimjongfon.jpg)](http://d.pr/i/8KI)

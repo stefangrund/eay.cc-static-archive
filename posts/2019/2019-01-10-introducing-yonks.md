@@ -1,28 +1,28 @@
 ---
 title: "Introducing Yonks"
 date: "2019-01-10"
-datetime: "2019-01-10 11:16:20"
+published_at: "2019-01-10T10:16:20Z"
 id: "35304"
 slug: "introducing-yonks"
-url: "https://eay.cc/2019/introducing-yonks/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2019/introducing-yonks/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - 0815
-  - yonks
+  - "08/15"
+  - "Yonks"
 tags:
-  - android
-  - app
-  - best-of
-  - ios
-  - projekte
-  - yonks
-  - zeit
-meta:
-  - yourls_shorturl: "https://eay.li/38j"
-  - content_copy: "https://twitter.com/eay/status/1083307045045047301"
-  - content_copy: "https://eay.social/@eay/101392006104963059"
-  - content_copy: "https://www.instagram.com/p/BsdGMpQHMi6/"
+  - "android"
+  - "app"
+  - "best of"
+  - "ios"
+  - "projekte"
+  - "yonks"
+  - "zeit"
+short_url: "https://eay.li/38j"
+content_copy:
+  - "https://twitter.com/eay/status/1083307045045047301"
+  - "https://eay.social/@eay/101392006104963059"
+  - "https://www.instagram.com/p/BsdGMpQHMi6/"
 ---
 
 Vor 252 Tagen habe ich euch mit [diesem Sneak Peak](https://eay.cc/2018/status-2018-05-03-2251/) ein Side Project angeteasert, das heute nach Dutzenden feierabendlichen Programmier­sessions endlich seine Vollendung findet und soeben veröffentlich wurde: [**Yonks**](https://yonks.app/), meine neue Day Counter App für [iOS](https://itunes.apple.com/us/app/yonks/id1382419586?&mt=8&uo=4&at=11lohW) und [Android](https://play.google.com/store/apps/details?id=com.eay.daycounter)! 🎉
@@ -37,10 +37,12 @@ Für jeden Counter werden zudem die nächsten Milestones angezeigt, also z.B. wa
 
 [![Yonks, day counter app for iOS & Android](https://eay.cc/uploads/2019/yonks-2.jpg)](https://yonks.app/)
 
-Yonks ist ganz bewusst eine kostenpflichtige App und kostet 2,29 Euro. Nicht weil ich damit reich werden will ((Die Hoffung stirbt aber ja bekanntlich zuletzt. 😅)), sondern weil Arbeit entlohnt werden muss und ich auf Tracking, Werbung oder In-App-Purchases verzichten wollte.
+Yonks ist ganz bewusst eine kostenpflichtige App und kostet 2,29 Euro. Nicht weil ich damit reich werden will [^1], sondern weil Arbeit entlohnt werden muss und ich auf Tracking, Werbung oder In-App-Purchases verzichten wollte.
 
 "Yonks" ist übrigens [britischer Slang](https://www.urbandictionary.com/define.php?term=Yonk) und bedeutet so viel wie "a long time". Und die hat es, obwohl der Prototyp bereits nach ein paar Abenden fertig war, auch gebraucht, um die App _nebenbei_ fertig zu stellen. Noch länger hätte es allerdings gedauert, wenn da nicht all die wunderbaren Betatester gewesen wären, die mich mit Feedback, Bug Reports und Feature Requests versorgt hätten. Euch allen nochmals vielen Dank! Insbesondere möchte ich mich namentlich nochmal herzlichst bei [Andreas](https://twitter.com/dantz), [Guido](https://twitter.com/foodfindr), [Jens](https://twitter.com/heydtjens), [Kira](https://eay.cc/tag/kira-und-ich/), [Marcel](https://twitter.com/_cyress), [Melli](https://www.instagram.com/weitreich/), [Michael](https://twitter.com/michsch) und [Omar](https://twitter.com/omarmarie10) bedanken. 🙏
 
 Ich würde mich freuen, wenn ihr mal einen Blick riskiert und mir anschließend euer Feedback und – noch spannender – eure Use Cases mitteilen würdet: Was zählt ihr mit Yonks?
 
 🌍 [**Yonks Webseite**](https://yonks.app/) 📱 [**Yonks für iOS im Apple App Store**](https://itunes.apple.com/us/app/yonks/id1382419586?&mt=8&uo=4&at=11lohW) 🤖 [**Yonks für Android im Google Play Store**](https://play.google.com/store/apps/details?id=com.eay.daycounter)
+
+[^1]: Die Hoffung stirbt aber ja bekanntlich zuletzt. 😅

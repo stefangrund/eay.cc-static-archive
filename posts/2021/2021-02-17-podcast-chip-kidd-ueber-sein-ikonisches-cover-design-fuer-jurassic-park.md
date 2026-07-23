@@ -1,24 +1,25 @@
 ---
 title: "Podcast: Chip Kidd über sein ikonisches Cover-Design für »Jurassic Park«"
 date: "2021-02-17"
-datetime: "2021-02-17 09:02:35"
+published_at: "2021-02-17T08:02:35Z"
 id: "37129"
 slug: "podcast-chip-kidd-ueber-sein-ikonisches-cover-design-fuer-jurassic-park"
-url: "https://eay.cc/2021/podcast-chip-kidd-ueber-sein-ikonisches-cover-design-fuer-jurassic-park/"
-author: "eay"
+permalink: "https://eay.cc/2021/podcast-chip-kidd-ueber-sein-ikonisches-cover-design-fuer-jurassic-park/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - buecher
-  - chip-kidd
-  - design
-  - jurassic-park
-  - podcast
-meta:
-  - linked_list_url: "https://sparkandfire.com/chipkidd/"
-  - yourls_shorturl: "https://eay.li/2k3"
+  - "bücher"
+  - "chip kidd"
+  - "design"
+  - "jurassic park"
+  - "podcast"
+external_url: "https://sparkandfire.com/chipkidd/"
+short_url: "https://eay.li/2k3"
 ---
+
+[Link →](https://sparkandfire.com/chipkidd/)
 
 > Designer [Chip Kidd](http://chipkidd.com/) got a dream assignment: Create an iconic book cover for a soon-to-be-blockbuster: Michael Crichton’s Jurassic Park. And when the pressure to perform is that high, it’s easy to get creatively paralyzed. [Spark & Fire](https://sparkandfire.com/) follows Chip on his journey in and out of stuck-ness as he creates one of the best-known book covers of the 20th century.
 

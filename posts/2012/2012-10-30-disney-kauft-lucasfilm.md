@@ -1,22 +1,21 @@
 ---
 title: "Disney kauft Lucasfilm"
 date: "2012-10-30"
-datetime: "2012-10-30 22:43:48"
+published_at: "2012-10-30T20:43:48Z"
 id: "21139"
 slug: "disney-kauft-lucasfilm"
-url: "https://eay.cc/2012/disney-kauft-lucasfilm/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2012/disney-kauft-lucasfilm/"
+author: "Stefan Grund"
+format: "standard"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - disney
-  - episode-7
-  - filme
-  - lucasfilm
-  - star-wars
-meta:
-  - yourls_shorturl: "https://eay.li/1of"
+  - "disney"
+  - "episode 7"
+  - "filme"
+  - "lucasfilm"
+  - "star wars"
+short_url: "https://eay.li/1of"
 ---
 
 [Andi](https://twitter.com/AndiH) schickte mir soeben die Breaking News des Tages: Disney kauft Lucasfilm für 4,05 Milliarden Dollar. Aus den Absichten dahinter machen beide Firmen natürlich keinen Hehl: es geht um Star Wars. In der [Pressemitteilung](http://thewaltdisneycompany.com/disney-news/press-releases/2012/10/disney-acquire-lucasfilm-ltd) heißt es konkret, dass demnächst Episode 7 & Co. auf uns zukommen:

@@ -1,32 +1,24 @@
 ---
 title: "The Nintendo Switch and Labo make pieces of cardboard feel like magic"
 date: "2018-02-04"
-datetime: "2018-02-04 11:17:02"
+published_at: "2018-02-04T10:17:02Z"
 id: "34136"
 slug: "the-nintendo-switch-and-labo-make-pieces-of-cardboard-feel-like-magic"
-url: "https://eay.cc/2018/the-nintendo-switch-and-labo-make-pieces-of-cardboard-feel-like-magic/"
-author: "eay"
+permalink: "https://eay.cc/2018/the-nintendo-switch-and-labo-make-pieces-of-cardboard-feel-like-magic/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - basteln
-  - diy
-  - games
-  - nintendo
-meta:
-  - linked_list_url: "https://www.theverge.com/circuitbreaker/2018/2/3/16965900/nintendo-switch-labo-cardboard-features-youtube-video"
-  - linked_list_url: "https://www.theverge.com/circuitbreaker/2018/2/3/16965900/nintendo-switch-labo-cardboard-features-youtube-video"
-  - linked_list_url: "https://www.theverge.com/circuitbreaker/2018/2/3/16965900/nintendo-switch-labo-cardboard-features-youtube-video"
-  - linked_list_url: "https://www.theverge.com/circuitbreaker/2018/2/3/16965900/nintendo-switch-labo-cardboard-features-youtube-video"
-  - linked_list_url: "https://www.theverge.com/circuitbreaker/2018/2/3/16965900/nintendo-switch-labo-cardboard-features-youtube-video"
-  - linked_list_url: "https://www.theverge.com/circuitbreaker/2018/2/3/16965900/nintendo-switch-labo-cardboard-features-youtube-video"
-  - linked_list_url: "https://www.theverge.com/circuitbreaker/2018/2/3/16965900/nintendo-switch-labo-cardboard-features-youtube-video"
-  - linked_list_url: "https://www.theverge.com/circuitbreaker/2018/2/3/16965900/nintendo-switch-labo-cardboard-features-youtube-video"
-  - linked_list_url: "https://www.theverge.com/circuitbreaker/2018/2/3/16965900/nintendo-switch-labo-cardboard-features-youtube-video"
-  - linked_list_url: "https://www.theverge.com/circuitbreaker/2018/2/3/16965900/nintendo-switch-labo-cardboard-features-youtube-video"
-  - yourls_shorturl: "https://eay.li/33j"
+  - "basteln"
+  - "diy"
+  - "games"
+  - "nintendo"
+external_url: "https://www.theverge.com/circuitbreaker/2018/2/3/16965900/nintendo-switch-labo-cardboard-features-youtube-video"
+short_url: "https://eay.li/33j"
 ---
+
+[Link →](https://www.theverge.com/circuitbreaker/2018/2/3/16965900/nintendo-switch-labo-cardboard-features-youtube-video)
 
 The Verge hat ein interessantes Hands-On inkl. Video zu "Labo", der letzten Monat vorgestellten Kartonerweiterung zur Nintendo Switch. Während das [bisher vorgestellte Promovideo](https://www.youtube.com/watch?v=P3Bd3HUMkyU) noch nicht auf die eigentliche Technik einging, ist nun bekannt, dass die Karton-Sets exzessiven Gebrauch von den Infrarot­sensoren der Joy-Cons machen, um z.B. "zu sehen" oder spezielle Barcodes auszulesen.
 

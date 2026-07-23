@@ -1,20 +1,19 @@
 ---
 title: "Privatsphäre durch Desinformation"
 date: "2014-08-11"
-datetime: "2014-08-11 12:33:58"
+published_at: "2014-08-11T10:33:58Z"
 id: "28491"
 slug: "privatsphaere-durch-desinformation"
-url: "https://eay.cc/2014/privatsphaere-durch-desinformation/"
-author: "eay"
+permalink: "https://eay.cc/2014/privatsphaere-durch-desinformation/"
+author: "Stefan Grund"
 format: "quote"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - datenschutz
-  - privatsphare
-  - sicherheit
-meta:
-  - yourls_shorturl: "https://eay.li/2i0"
+  - "datenschutz"
+  - "privatsphäre"
+  - "sicherheit"
+short_url: "https://eay.li/2i0"
 ---
 
 > Privatsphäre haben nur jene, die es schaffen, ständig falsche Informationen über sich selbst zu verbreiten.

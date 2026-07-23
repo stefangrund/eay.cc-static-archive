@@ -1,17 +1,16 @@
 ---
 title: "Neue Handynummer"
 date: "2008-03-12"
-datetime: "2008-03-12 21:42:27"
+published_at: "2008-03-12T20:42:27Z"
 id: "436"
 slug: "neue-handynummer"
-url: "https://eay.cc/2008/neue-handynummer/"
-author: "eay"
-format: "post"
+permalink: "https://eay.cc/2008/neue-handynummer/"
+author: "Stefan Grund"
+format: "standard"
 tags:
-  - analogleben
-  - mobilfunk
-meta:
-  - yourls_shorturl: "https://eay.li/5u"
+  - "analogleben"
+  - "mobilfunk"
+short_url: "https://eay.li/5u"
 ---
 
 Alle die meine alte Nummer haben, können sich die neue selbst erbasteln:

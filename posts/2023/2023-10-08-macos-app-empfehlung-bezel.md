@@ -1,30 +1,28 @@
 ---
 title: "macOS-App-Empfehlung: Bezel"
 date: "2023-10-08"
-datetime: "2023-10-08 09:49:46"
+published_at: "2023-10-08T07:49:46Z"
 id: "38844"
 slug: "macos-app-empfehlung-bezel"
-url: "https://eay.cc/2023/macos-app-empfehlung-bezel/"
-author: "eay"
+permalink: "https://eay.cc/2023/macos-app-empfehlung-bezel/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - apps
-  - ios
-  - mac
-meta:
-  - linked_list_url: "https://getbezel.app/"
-  - geo_latitude: "51.000116"
-  - geo_longitude: "6.794244"
-  - geo_public: "1"
-  - yourls_shorturl: "https://eay.li/3o1"
-  - _share_on_mastodon_url: "https://eay.social/@eay/111198298915637487"
-  - content_copy: "https://bsky.app/profile/eay.social/post/3kb7yvy224n2p"
-  - linked_list_og-title: "Bezel • Mirror any iPhone on your Mac"
-  - linked_list_og-description: "Bezel mirrors any iPhone onto your Mac by just plugging it in. Beautifully designed for Mac, with ease of use in mind."
-  - linked_list_og-image: "https://eay.cc/wordpress/uploads/og-cache/32eef44fab5bd589e8035432e16d30c8.webp"
+  - "apps"
+  - "ios"
+  - "mac"
+external_url: "https://getbezel.app/"
+short_url: "https://eay.li/3o1"
+content_copy:
+  - "https://bsky.app/profile/eay.social/post/3kb7yvy224n2p"
+  - "https://eay.social/@eay/111198298915637487"
+geo_latitude: "51.000116"
+geo_longitude: "6.794244"
 ---
+
+[Link →](https://getbezel.app/)
 
 > Bezel is the easiest way to view, present and record an iPhone.
 

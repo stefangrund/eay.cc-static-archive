@@ -1,25 +1,26 @@
 ---
 title: "\"Willkommen!: Im gelobten Land\""
 date: "2015-08-25"
-datetime: "2015-08-25 23:49:58"
+published_at: "2015-08-25T21:49:58Z"
 id: "30843"
 slug: "willkommen-im-gelobten-land"
-url: "https://eay.cc/2015/willkommen-im-gelobten-land/"
-author: "eay"
+permalink: "https://eay.cc/2015/willkommen-im-gelobten-land/"
+author: "Stefan Grund"
 format: "link"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - bayern
-  - deutschland
-  - must-read
-  - passau
-  - politik
-  - weltgeschehen
-meta:
-  - linked_list_url: "http://www.zeit.de/2015/32/fluechtlinge-bayern-passau/komplettansicht"
-  - yourls_shorturl: "https://eay.li/2pt"
+  - "bayern"
+  - "deutschland"
+  - "must-read"
+  - "passau"
+  - "politik"
+  - "weltgeschehen"
+external_url: "http://www.zeit.de/2015/32/fluechtlinge-bayern-passau/komplettansicht"
+short_url: "https://eay.li/2pt"
 ---
+
+[Link →](http://www.zeit.de/2015/32/fluechtlinge-bayern-passau/komplettansicht)
 
 > Eine irakische Familie, ausgesetzt auf der Autobahn. Polizisten im ständigen Kampf gegen Schleuser. Kriegsopfer, die durch eine bayerische Idylle irren. In Passau stranden täglich Hunderte Flüchtlinge – Geschichten aus Deutschlands Lampedusa.
 

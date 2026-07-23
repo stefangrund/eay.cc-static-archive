@@ -1,26 +1,25 @@
 ---
 title: "Wochenende in München."
 date: "2018-07-22"
-datetime: "2018-07-22 21:39:42"
+published_at: "2018-07-22T19:39:42Z"
 id: "34825"
 slug: "wochenende-in-muenchen"
-url: "https://eay.cc/2018/wochenende-in-muenchen/"
-author: "eay"
+permalink: "https://eay.cc/2018/wochenende-in-muenchen/"
+author: "Stefan Grund"
 format: "image"
 categories:
-  - 0815
+  - "08/15"
 tags:
-  - analogleben
-  - fotos
-  - munchen
-  - urlaub
-meta:
-  - content_copy: "https://instagram.com/p/Bli7jdnBIZf/"
-  - yourls_shorturl: "https://eay.li/362"
-  - content_copy: "https://twitter.com/eay/status/1021116236300734470"
-  - geo_latitude: "48.137994"
-  - geo_longitude: "11.559891"
-  - geo_public: "1"
+  - "analogleben"
+  - "fotos"
+  - "münchen"
+  - "urlaub"
+short_url: "https://eay.li/362"
+content_copy:
+  - "https://instagram.com/p/Bli7jdnBIZf/"
+  - "https://twitter.com/eay/status/1021116236300734470"
+geo_latitude: "48.137994"
+geo_longitude: "11.559891"
 ---
 
 ![](https://eay.cc/uploads/2018/muenchen.jpeg)
