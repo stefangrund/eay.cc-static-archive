@@ -31,3 +31,7 @@ geo_longitude: "6.682902"
 > Gleichzeitig treibt die Hitze den Stromverbrauch durch Klimaanlagen auf Rekordhöhe. Analysen von Vaisala und Commodity Weather Group erwarten Allzeithochs bei der Kühlnachfrage. Frankreichs Energiesystem gerät damit von zwei Seiten unter Druck: steigende Nachfrage bei sinkender Erzeugungskapazität.
 
 Das Thema hatten wir [schon vor vier Jahren](https://eay.cc/2022/regierung-bereitet-frankreich-auf-den-atom-blackout-vor/). Und dennoch dürfen konservative und libertäre Politiker weiterhin in den Polittalkshows dieses Landes fast unwidersprochen die Mär vom billigen und verlässlichen Atomstrom verbreiten. 🤷‍♂️
+
+–
+
+**Update, 03.08.:** Keine Sorge, es trifft nun auch [andere europäische Atomkraftwerke](https://eay.cc/2026/updates-zu-posts-ueber-desktop-ux-den-lil-finder-guy-open-minis-und-hitzegeplagten-atomstrom/).

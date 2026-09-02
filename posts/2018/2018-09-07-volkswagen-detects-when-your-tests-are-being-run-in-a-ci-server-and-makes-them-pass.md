@@ -10,7 +10,7 @@ format: "link"
 categories:
   - "08/15"
 tags:
-  - "web-development"
+  - "web-entwicklung"
 external_url: "https://github.com/auchenberg/volkswagen"
 short_url: "https://eay.li/36l"
 ---

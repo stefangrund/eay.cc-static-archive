@@ -13,9 +13,9 @@ tags:
   - "fanboys"
   - "fernsehen"
   - "filme"
+  - "fotos"
   - "konsum"
   - "merchandising"
-  - "photos"
   - "simpsons"
 short_url: "https://eay.li/ub"
 ---

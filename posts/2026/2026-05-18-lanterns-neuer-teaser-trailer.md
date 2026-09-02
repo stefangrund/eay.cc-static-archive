@@ -10,7 +10,7 @@ format: "standard"
 categories:
   - "08/15"
 tags:
-  - "comicverfilmung"
+  - "comicverfilmungen"
   - "dc"
   - "green lantern"
   - "serien"

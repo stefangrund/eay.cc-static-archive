@@ -11,7 +11,7 @@ categories:
   - "08/15"
 tags:
   - "games"
-  - "habdhelds"
+  - "handhelds"
   - "panic"
   - "playdate"
 external_url: "https://play.date/games/catalog/"

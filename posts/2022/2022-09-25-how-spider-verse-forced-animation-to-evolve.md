@@ -13,7 +13,7 @@ tags:
   - "animation"
   - "filme"
   - "pixar"
-  - "spider-man"
+  - "spiderman"
   - "video"
 short_url: "https://eay.li/3j2"
 geo_latitude: "50.97384"

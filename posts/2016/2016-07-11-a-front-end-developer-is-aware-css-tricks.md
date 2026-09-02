@@ -11,7 +11,7 @@ categories:
   - "08/15"
 tags:
   - "frontend"
-  - "web development"
+  - "web-entwicklung"
 external_url: "https://css-tricks.com/front-end-developer-aware/"
 short_url: "https://eay.li/2um"
 ---

@@ -11,7 +11,7 @@ categories:
   - "08/15"
 tags:
   - "visualisierung"
-  - "web development"
+  - "web-entwicklung"
   - "weltall"
   - "wissenschaft"
 external_url: "http://stuffin.space/"

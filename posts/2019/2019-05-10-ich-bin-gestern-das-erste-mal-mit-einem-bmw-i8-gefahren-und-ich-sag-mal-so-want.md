@@ -10,7 +10,7 @@ format: "image"
 categories:
   - "08/15"
 tags:
-  - "auto"
+  - "autos"
   - "bmw"
 short_url: "https://eay.li/3a8"
 content_copy:

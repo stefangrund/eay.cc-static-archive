@@ -10,7 +10,7 @@ format: "link"
 categories:
   - "08/15"
 tags:
-  - "bloggen"
+  - "blogging"
   - "netzkultur"
   - "social web"
   - "star trek"

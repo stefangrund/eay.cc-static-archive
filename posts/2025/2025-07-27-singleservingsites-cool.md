@@ -11,7 +11,7 @@ categories:
   - "08/15"
 tags:
   - "netzkultur"
-  - "singe serving sites"
+  - "single serving site"
 external_url: "https://singleservingsites.cool/"
 short_url: "https://eay.li/3w3"
 content_copy:

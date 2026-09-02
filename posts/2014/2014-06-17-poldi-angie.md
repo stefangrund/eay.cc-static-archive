@@ -14,7 +14,7 @@ tags:
   - "fifa worldcup"
   - "fußball"
   - "lukas podolski"
-  - "selfie"
+  - "selfies"
   - "sport"
   - "wm 2014"
 short_url: "https://eay.li/2h1"

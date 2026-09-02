@@ -11,7 +11,7 @@ categories:
   - "08/15"
 tags:
   - "black mirror"
-  - "feensehen"
+  - "fernsehen"
   - "filme"
   - "serien"
   - "weihnachten"

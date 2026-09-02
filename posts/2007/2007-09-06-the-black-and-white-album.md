@@ -14,7 +14,7 @@ tags:
   - "konsum"
   - "musik"
   - "plattenschrank"
-  - "thehives"
+  - "the hives"
 short_url: "https://eay.li/ac"
 ---
 

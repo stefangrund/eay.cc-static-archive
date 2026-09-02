@@ -1,5 +1,6 @@
 import { readdir, readFile, writeFile, mkdir } from "node:fs/promises";
 import path from "node:path";
+import { validateSummaryInfo } from "./validate-summary-info.js";
 
 const ROOT = process.cwd();
 const POSTS_DIR = path.join(ROOT, "posts");
@@ -20,8 +21,7 @@ for (const yearDir of yearDirs) {
 
   try {
     const raw = await readFile(summaryPath, "utf8");
-    // Validate JSON before writing to keep outputs consistent
-    JSON.parse(raw);
+    validateSummaryInfo(JSON.parse(raw));
     await writeFile(outputPath, raw.endsWith("\n") ? raw : raw + "\n", "utf8");
   } catch (error) {
     if (error?.code === "ENOENT") {

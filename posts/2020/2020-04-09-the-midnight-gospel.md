@@ -14,7 +14,7 @@ tags:
   - "bizarres"
   - "netflix"
   - "pendleton ward"
-  - "serie"
+  - "serien"
 short_url: "https://eay.li/3dr"
 ---
 

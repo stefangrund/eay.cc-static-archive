@@ -39,6 +39,10 @@ Open Minis kommt von einem chinesischen Indie-Entwickler namens Ethan Wang ([hie
 
 Ich habe Open Minis gerade installiert, erste, spannende Tests gemacht und werde das weiter beobachten. Egal, ob es nun diese App oder eine andere wird: Die iOS-Büchse der KI-Agenten-Pandora ist geöffnet und ich bin gespannt, was da noch kommen wird. Siri AI wird sicherlich eine schöne Convenience-Lösung für den Alltag, dürfte für unsereins aber doch recht schnell an seine Grenzen stoßen.
 
+–
+
+**Update, 03.08.:** [In der aktuellen Folge des AppStories-Podcast](https://eay.cc/2026/updates-zu-posts-ueber-desktop-ux-den-lil-finder-guy-open-minis-und-hitzegeplagten-atomstrom/) gibt Federico nochmal eine Einführung in die App und berichtet auch von einigen seiner Use Cases.
+
 [^1]: Alles Links zu Erwähnung der Apps in diesem Blog – allerdings habe ich [Obsidian](https://obsidian.md/), das ich auch nutze, tatsächlich nie hier erwähnt.
 [^2]: [Im GitHub-Repo der App](https://github.com/OpenMinis/OpenMinis) heißt es: "At the moment, the public source code is still being organized, cleaned up, and optimized for release. We expect to open more of the project in the near future."
 [^3]: Ob ihr dieser App und/oder der Bewertungs­fähigkeit des Apple-Reviews vertrauen möchtet, ist natürlich noch eine andere Frage, aber da die Daten, die in die KI-Modelle fließen, ohnehin als öffentlich zu behandeln sind, vielleicht zu vernachlässigen.

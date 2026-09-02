@@ -74,13 +74,19 @@ npm run stats
 
 ## Summaries
 
-There are AI-generated monthly summaries per year in `posts/YYYY/_summary.json`. They’re intended for archive pages and similar overviews. The process and rules to generate them live in this guide: `docs/guides/monthly-summaries-guide.md`.
+There are AI-generated monthly summaries per year in `posts/YYYY/_summary.json`. They’re intended for archive pages and similar overviews. The process and rules to generate them live in this guide: [Monthly summaries](docs/monthly-summaries-guide.md).
 
 To generate one combined summary file (→ `summaries/all.json`) and/or to export them for further usage (→ creates `summaries/YYYY.json` files), run:
 
 ```
 npm run summaries
 ```
+
+Each month contains its own `info` disclosure with the generation date and exact
+model version used. All existing summaries have been migrated from the former
+year-level `info` field. Both exports require month-level disclosures.
+Archive templates must now render the selected month's `info`, alongside its
+`summary` and `highlights`. The WordPress template is outside this repository.
 
 ## Acknowledgements
 

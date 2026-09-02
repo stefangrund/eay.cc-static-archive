@@ -12,7 +12,7 @@ categories:
 tags:
   - "apple"
   - "fernsehen"
-  - "foto"
+  - "fotos"
   - "konsum"
 short_url: "https://eay.li/319"
 content_copy:

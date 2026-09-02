@@ -5,7 +5,7 @@ This guide describes how to create and maintain yearly `_summary.json` files ins
 ## Purpose
 
 Each yearly `_summary.json` contains:
-- **Info**: Metadata about when/with which LLM the summaries were generated
+- **Monthly info**: Disclosure with the generation date and model for each month's summary
 - **Monthly summaries**: 200-500 character summary per month
 - **Monthly highlights**: 2-3 key topics per month, stored in the month object
 
@@ -19,12 +19,12 @@ Each yearly `_summary.json` contains:
 ```json
 {
   "year": 2025,
-  "info": "Diese Zusammen&shy;fassung wurde durch KI erstellt. Alle Posts des Monats wurden dazu von generativer KI analysiert und die wichtigsten Themen in 200-500 Zeichen durch sie zusammen&shy;gefasst. Die Text&shy;generierung fand im Februar 2026 durch OpenAI GPT-5.3 statt und kann Ungenauig&shy;keiten oder Fehler enthalten.",
   "months": [
     {
       "month": 1,
       "monthName": "Januar",
       "monthISO": "2025-01",
+      "info": "Diese Zusammen&shy;fassung wurde durch KI erstellt. Alle Posts des Monats wurden dazu von generativer KI analysiert und die wichtigsten Themen in 200-500 Zeichen durch sie zusammen&shy;gefasst. Die Text&shy;generierung fand im Februar 2026 durch Anthropic Claude Sonnet 4.5 statt und kann Ungenauig&shy;keiten oder Fehler enthalten.",
       "postCount": 10,
       "highlights": "22. Blog-Jubiläum (4.000+ Posts), Merz & AfD-Brandmauer, Musk-Hitlergruß",
       "summary": "..."
@@ -37,16 +37,43 @@ Each yearly `_summary.json` contains:
 
 **Year level:**
 - **year**: Year number (Number)
-- **info**: Provenance string with date and LLM used (String)
-  - Must include the month/year of generation and the exact LLM name when used
 
 **Month level:**
 - **month**: Month number 1-12 (Number)
 - **monthName**: German month name (String)
 - **monthISO**: ISO format "YYYY-MM" (String)
+- **info**: Full AI disclosure for this month's summary (String, required)
+  - Include the generation month/year and the exact name and version of the single model that generated this text.
+  - Verify the model version from the generation session metadata or the author's explicit confirmation. Never guess a version or copy it from a previous month.
+  - The generation date is separate from the archive month in `monthISO`.
+  - When regenerating a month, update only that month's provenance.
+  - When migrating existing text, preserve the recorded model and date; do not replace them with the current model or migration date.
 - **postCount**: Number of posts in the month (Number)
 - **highlights**: Comma-separated list of 2-3 key topics/events (String, 50-100 characters)
 - **summary**: Summary of the month (String, 200-500 characters)
+
+### Migration and Recorded Generation Models
+
+- Archive years 2007-2021: OpenAI GPT-5.3, generated in February 2026.
+- Archive years 2022-2025: Anthropic Claude Sonnet 4.5, generated in February 2026.
+- January and February 2026: OpenAI GPT-5.3, generated in February 2026.
+- March through June 2026: OpenAI GPT-5.5, generated in July 2026, as confirmed by the author.
+- Future months: record the actual model version and generation month/year for each new text.
+
+All 232 existing months in 20 yearly source files were migrated to month-level
+`info`. For 2007-2025, the old year-level disclosure was copied verbatim to each
+month. The mixed 2026 disclosure was split using the assignments above. Summary
+text, highlights, dates, counts, and month ordering were preserved.
+
+`npm run summaries` validates that each month has a non-empty `info` and rejects
+year-level disclosures before exporting. Both `summaries/YYYY.json` and
+`summaries/all.json` contain the same month-level metadata as the source files.
+The outer `info` in `all.json` only describes the generated file; it is not an AI
+disclosure.
+
+Archive templates must render the selected month's `info` alongside its `summary`
+and `highlights`. The WordPress template is maintained outside this repository and
+must switch from year-level to month-level `info` when deploying these exports.
 
 ## Monthly Summary Rules
 
@@ -203,13 +230,14 @@ After drafting/updating summaries, run this pass for **every month in every year
 3. Read all posts of the month (titles, tags, content)
 4. Write the summary to the correct length range
 5. Add month highlights
-6. Update `posts/YYYY/_summary.json`
+6. Add or update that month's `info` with its actual generation month/year and exact model version
+7. Update `posts/YYYY/_summary.json` and run `npm run summaries`
 
 ### Adding a New Year
 
 1. Create `posts/YYYY/_summary.json`
-2. Add `year`, `info`, and initial `months` entries
-3. Keep field order: `year` → `info` → `months`
+2. Add `year` and initial `months` entries, each with its own `info`
+3. Keep field order: `year` → `months`; within each month place `info` after `monthISO`
 
 ## JSON Escaping
 
@@ -307,7 +335,9 @@ Examples:
 ### Technical
 - [ ] JSON valid, no trailing commas
 - [ ] Indentation: 2 spaces
-- [ ] Field order: year → info → months
+- [ ] Field order: year → months; monthly info after monthISO
+- [ ] Each month has its own info naming one model version and its generation month/year
+- [ ] Existing provenance is preserved unless corrected by the author or regenerated
 
 ## Common Mistakes to Avoid
 

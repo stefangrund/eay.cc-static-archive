@@ -12,7 +12,7 @@ categories:
 tags:
   - "bookmarklet"
   - "google"
-  - "web development"
+  - "web-entwicklung"
   - "webdesign"
 external_url: "http://design.google.com/resizer/"
 short_url: "https://eay.li/2ry"

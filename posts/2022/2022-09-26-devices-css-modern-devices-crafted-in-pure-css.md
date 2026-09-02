@@ -12,7 +12,7 @@ categories:
 tags:
   - "css"
   - "frontend"
-  - "web development"
+  - "web-entwicklung"
 external_url: "https://devicescss.xyz/"
 short_url: "https://eay.li/3j4"
 geo_latitude: "51.000123"

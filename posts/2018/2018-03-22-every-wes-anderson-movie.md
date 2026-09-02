@@ -13,7 +13,7 @@ tags:
   - "fanart"
   - "filme"
   - "hommage"
-  - "honest trailer"
+  - "honest trailers"
   - "trailer"
   - "wes anderson"
 short_url: "https://eay.li/34d"

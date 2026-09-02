@@ -10,7 +10,7 @@ format: "link"
 categories:
   - "08/15"
 tags:
-  - "auto"
+  - "autos"
   - "electroeay"
 external_url: "https://www.adac.de/rund-ums-fahrzeug/autokatalog/autotest/beste-elektroautos/"
 short_url: "https://eay.li/3nv"

@@ -11,7 +11,7 @@ categories:
   - "08/15"
 tags:
   - "apple"
-  - "auto"
+  - "autos"
   - "energie"
   - "google"
   - "self-driving cars"

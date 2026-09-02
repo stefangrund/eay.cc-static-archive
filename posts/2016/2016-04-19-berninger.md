@@ -12,7 +12,7 @@ categories:
 tags:
   - "output"
   - "theme"
-  - "web development"
+  - "web-entwicklung"
   - "wordpress"
 short_url: "https://eay.li/2sn"
 ---

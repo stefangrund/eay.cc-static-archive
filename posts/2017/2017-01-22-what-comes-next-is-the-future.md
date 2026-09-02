@@ -15,7 +15,7 @@ tags:
   - "geschichte"
   - "kurzfilm"
   - "netzkultur"
-  - "web development"
+  - "web-entwicklung"
 external_url: "http://shortfil.ms/film/what-comes-next-is-the-future-2016"
 short_url: "https://eay.li/2we"
 ---

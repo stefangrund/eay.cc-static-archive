@@ -11,7 +11,7 @@ categories:
   - "08/15"
 tags:
   - "medien"
-  - "netzkuktur"
+  - "netzkultur"
   - "social web"
 external_url: "https://mkln.org/p/wir-content-maschinen"
 short_url: "https://eay.li/3ia"

@@ -11,7 +11,7 @@ categories:
   - "08/15"
 tags:
   - "fernsehen"
-  - "serie"
+  - "serien"
 short_url: "https://eay.li/3dz"
 content_copy:
   - "https://twitter.com/eay/status/1254870501115207682"

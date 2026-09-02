@@ -20,6 +20,7 @@ tags:
 short_url: "https://eay.li/428"
 content_copy:
   - "https://bsky.app/profile/eay.social/post/3mmcsxhfjyd2i"
+  - "https://bsky.app/profile/eay.social/post/3msapinmnef2e"
   - "https://eay.social/@eay/116608935488381463"
 geo_latitude: "50.97384"
 geo_longitude: "6.682995"
@@ -33,4 +34,4 @@ Nur: es handelt sich nicht um eine TV-Produktion, sondern um einen Kinofilm. »T
 
 Die bisherigen Staffeln waren immer roundabout 260 Minuten lang. Anstatt also hieraus einfach ein verkürz­tes, halb so langes Abenteuer zu machen, ist es ein abend­füllender Film geworden. Warum? Das wissen nur die Verantwort­lichen von Disney. Vermutlich hat es mit Geld zu tun. Mir erschließt es sich jedenfalls nicht, denn bringt es die Storyline der beiden weiter? Mit­nichten. Aber es hat eine Menge Spaß gemacht.
 
-So bleibt: Ein Spektakel ohne das Spektakel eines Star-Wars-Films. Quasi Star Wars für die Generation TikTok. Verrückt. \[rating value=7 inline=true\]
+So bleibt: Ein Spektakel ohne das Spektakel eines Star-Wars-Films. Quasi Star Wars für die Generation TikTok. Verrückt. \[rating value=6 inline=true\]

@@ -10,7 +10,7 @@ format: "standard"
 categories:
   - "08/15"
 tags:
-  - "bloggen"
+  - "blogging"
   - "journalismus"
   - "künstliche intelligenz"
 short_url: "https://eay.li/3x7"

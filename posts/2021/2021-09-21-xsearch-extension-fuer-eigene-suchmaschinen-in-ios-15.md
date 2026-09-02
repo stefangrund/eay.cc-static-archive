@@ -11,7 +11,7 @@ categories:
   - "08/15"
 tags:
   - "alfred"
-  - "app"
+  - "apps"
   - "ios"
   - "ipad"
   - "iphone"

@@ -12,7 +12,7 @@ categories:
 tags:
   - "blogging"
   - "netzkultur"
-  - "webentwicklung"
+  - "web-entwicklung"
 external_url: "https://mxb.dev/blog/the-return-of-the-90s-web/"
 short_url: "https://eay.li/3en"
 geo_latitude: "50.97380486121"

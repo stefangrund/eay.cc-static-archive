@@ -14,7 +14,7 @@ tags:
   - "javascript"
   - "netzkultur"
   - "snapchat"
-  - "web-development"
+  - "web-entwicklung"
 external_url: "https://ramon.codes/projects/zuck.js"
 short_url: "https://eay.li/2xt"
 ---
