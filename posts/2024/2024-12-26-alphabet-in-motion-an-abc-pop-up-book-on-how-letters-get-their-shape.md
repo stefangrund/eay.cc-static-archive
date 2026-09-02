@@ -11,7 +11,7 @@ categories:
   - "08/15"
 tags:
   - "bücher"
-  - "crowdfuncing"
+  - "crowdfunding"
   - "design"
   - "kickstarter"
   - "typographie"

@@ -10,7 +10,7 @@ format: "aside"
 categories:
   - "08/15"
 tags:
-  - "app"
+  - "apps"
   - "köln"
   - "mac"
   - "meetup"

@@ -16,7 +16,7 @@ tags:
   - "javascript"
   - "projekte"
   - "to do"
-  - "web development"
+  - "web-entwicklung"
   - "zeit"
 short_url: "https://eay.li/2mn"
 ---

@@ -13,7 +13,7 @@ tags:
   - "blogging"
   - "changelog"
   - "json feed"
-  - "web development"
+  - "web-entwicklung"
 external_url: "https://jsonfeed.org/version/1"
 short_url: "https://eay.li/2yy"
 ---

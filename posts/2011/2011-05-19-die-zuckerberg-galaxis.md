@@ -11,7 +11,7 @@ categories:
   - "08/15"
 tags:
   - "facebook"
-  - "medienw"
+  - "medienwissenschaft"
   - "netzkultur"
   - "social media"
   - "twitter"

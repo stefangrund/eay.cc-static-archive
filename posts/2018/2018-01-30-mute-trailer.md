@@ -13,7 +13,7 @@ tags:
   - "duncan jones"
   - "filme"
   - "netflix"
-  - "scifi"
+  - "science fiction"
   - "trailer"
 short_url: "https://eay.li/33g"
 content_copy:

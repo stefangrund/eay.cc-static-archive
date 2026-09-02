@@ -22,7 +22,7 @@ tags:
   - "recut"
   - "star wars"
   - "trailer"
-  - "web development"
+  - "web-entwicklung"
 short_url: "https://eay.li/2ro"
 ---
 

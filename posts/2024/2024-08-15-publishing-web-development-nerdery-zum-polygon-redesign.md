@@ -14,7 +14,7 @@ tags:
   - "journalismus"
   - "technologie"
   - "the verge"
-  - "web development"
+  - "web-entwicklung"
   - "webdesign"
 short_url: "https://eay.li/3rt"
 content_copy:

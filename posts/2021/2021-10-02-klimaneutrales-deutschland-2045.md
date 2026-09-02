@@ -11,7 +11,7 @@ categories:
   - "08/15"
 tags:
   - "deutschland"
-  - "e-mobilität"
+  - "e-mobility"
   - "erneuerbare energien"
   - "klimawandel"
   - "politik"

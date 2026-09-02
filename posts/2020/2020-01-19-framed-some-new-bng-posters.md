@@ -14,7 +14,7 @@ tags:
   - "fotos"
   - "kunst"
   - "poster"
-  - "spider-man"
+  - "spiderman"
   - "star wars"
 short_url: "https://eay.li/3ci"
 content_copy:

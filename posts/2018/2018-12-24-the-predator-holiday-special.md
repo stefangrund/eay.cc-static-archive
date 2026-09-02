@@ -12,7 +12,7 @@ categories:
 tags:
   - "filme"
   - "humor"
-  - "stopmotion"
+  - "stop motion"
   - "weihnachten"
 short_url: "https://eay.li/388"
 ---

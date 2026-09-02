@@ -33,3 +33,7 @@ Großartiger Vortrag beim [Ubuntu Summit 25.10](https://events.canonical.com/eve
 Während Jenson über die UX unserer Desktop-Betriebssysteme und fehlende Innovationen in dem Bereich von Apple & Co. spricht und sich damit natürlich an die Linux-Entwickler im Raum richtet, droppt er so viele Konzepte und Ideen, dass ich – ohne selbst Operating Systems zu designen, sondern nur kleine und manchmal große Anwendungen – vor Inspiration geflasht war, den Talk schon drei Mal geguckt habe und natürlich auch den Studierenden [meines User-Experience-Seminars](https://eay.cc/2024/lehre-an-der-hmkw/) nahegelegt habe.
 
 Wenn ihr euch für das Feld interessiert, also eine große Empfehlung!
+
+–
+
+**Update, 03.08.:** Hier berichte ich über [einen Follow-Up-Vortrag von Jenson](https://eay.cc/2026/updates-zu-posts-ueber-desktop-ux-den-lil-finder-guy-open-minis-und-hitzegeplagten-atomstrom/) zur Weiterentwicklung der Desktop-UX.

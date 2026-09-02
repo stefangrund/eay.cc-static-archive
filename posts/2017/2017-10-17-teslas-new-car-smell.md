@@ -10,7 +10,7 @@ format: "link"
 categories:
   - "08/15"
 tags:
-  - "auto"
+  - "autos"
   - "elon musk"
   - "technologie"
   - "tesla"

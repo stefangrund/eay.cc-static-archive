@@ -10,7 +10,7 @@ format: "link"
 categories:
   - "08/15"
 tags:
-  - "konzert"
+  - "konzerte"
   - "kraftklub"
   - "musik"
 external_url: "https://jonas-haller.de/2025/05/sterben-in-karl-marx-stadt-kraftklub/"

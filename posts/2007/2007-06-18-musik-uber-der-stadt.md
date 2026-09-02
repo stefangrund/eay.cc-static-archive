@@ -7,14 +7,16 @@ slug: "musik-uber-der-stadt"
 permalink: "https://eay.cc/2007/musik-uber-der-stadt/"
 author: "Stefan Grund"
 format: "standard"
+categories:
+  - "08/15"
 tags:
   - "analogleben"
   - "eayzlies"
+  - "fotos"
   - "ghvc"
   - "köln"
   - "konzerte"
   - "musik"
-  - "photos"
   - "tomte"
 short_url: "https://eay.li/m8"
 ---

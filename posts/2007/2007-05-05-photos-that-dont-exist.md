@@ -7,10 +7,12 @@ slug: "photos-that-dont-exist"
 permalink: "https://eay.cc/2007/photos-that-dont-exist/"
 author: "Stefan Grund"
 format: "standard"
+categories:
+  - "08/15"
 tags:
   - "bastelei"
+  - "fotos"
   - "output"
-  - "photos"
 short_url: "https://eay.li/pq"
 ---
 

@@ -13,7 +13,8 @@ tags:
   - "bücher"
   - "dune"
   - "filme"
-  - "scifi"
+  - "science fiction"
+  - "tiktok"
 external_url: "https://www.tiktok.com/@naturebased0"
 short_url: "https://eay.li/40k"
 content_copy:

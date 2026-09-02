@@ -10,7 +10,7 @@ format: "standard"
 categories:
   - "08/15"
 tags:
-  - "auto"
+  - "autos"
   - "deutsch"
   - "frankreich"
   - "sprache"

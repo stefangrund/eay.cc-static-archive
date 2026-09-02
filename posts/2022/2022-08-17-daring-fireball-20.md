@@ -12,7 +12,7 @@ categories:
 tags:
   - "apple"
   - "bloggeburtstag"
-  - "bloggen"
+  - "blogging"
 external_url: "https://daringfireball.net/linked/2022/08/13/20"
 short_url: "https://eay.li/3in"
 geo_latitude: "50.973809"

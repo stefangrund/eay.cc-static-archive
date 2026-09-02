@@ -36,4 +36,8 @@ Außerdem zu sehen: Der Close-Button oben rechts, der bei euch – solltet ihr e
 
 Anstatt also die Medien­inhalte direkt im Content größer zu machen, dürfte ihr jetzt nochmal extra klicken. Na super.
 
+–
+
+**Nachtrag, 23.07.2026:** Weil ich jetzt schon ein paar Mal selbst nachgucken musste, hier ein kleines How-To für Future Stefan: Einfach `data-lightbox` auf einen `img`, `video` oder `a`-Tag werfen und schon wird die referenzierte Quelle in groß geöffnet. Für die Captions werden die `alt`-Texte (`img` und `img`-Fallback im `video`) genutzt, sowie das `title`-Attribut bei `a`s.
+
 [^1]: Internet-Archive-Snapshot der Wired-Seite von 2006, aufgenommen 2019, weil Condé Nast irgendwann zwischen dann und jetzt glaubte, so einen kleinen, historischen Artikel hinter die Paywall legen zu müssen.

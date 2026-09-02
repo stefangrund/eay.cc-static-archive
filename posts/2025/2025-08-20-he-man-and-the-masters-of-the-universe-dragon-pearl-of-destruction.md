@@ -26,3 +26,5 @@ geo_longitude: "6.683003"
 \[youtube id="f\_KaYk3gnmQ"\]
 
 MotU als Side-Scrolling Beat ‘em up in Pixeloptik? [Von sowas träumen wir seit 2014](https://eay.cc/2014/he-man-beat-em-up/) – count me in!
+
+**Update, 20.08.2026:** Ein Jahr später warten wir immer noch. [Der Release wurde nun ein zweites Mal verschoben](https://eay.cc/2026/dragon-pearl-of-destruction-erneut-verschoben/).

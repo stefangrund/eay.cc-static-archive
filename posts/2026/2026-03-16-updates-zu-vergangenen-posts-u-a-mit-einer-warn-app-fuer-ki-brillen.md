@@ -10,6 +10,10 @@ format: "aside"
 categories:
   - "08/15"
 tags:
+  - "apple"
+  - "brillen"
+  - "design"
+  - "meta"
   - "post-update"
 short_url: "https://eay.li/40a"
 content_copy:

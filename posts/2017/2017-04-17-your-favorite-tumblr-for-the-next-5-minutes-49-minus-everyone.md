@@ -10,7 +10,7 @@ format: "standard"
 categories:
   - "08/15"
 tags:
-  - "bot"
+  - "bots"
   - "fanart"
   - "webcomic"
   - "your favorite tumblr for the next 5 minutes"

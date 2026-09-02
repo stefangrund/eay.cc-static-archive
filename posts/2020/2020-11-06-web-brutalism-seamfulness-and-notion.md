@@ -14,7 +14,7 @@ tags:
   - "design"
   - "kunst"
   - "notion"
-  - "web development"
+  - "web-entwicklung"
 external_url: "https://www.viget.com/articles/web-brutalism-seamfulness-and-notion/"
 short_url: "https://eay.li/3g3"
 ---

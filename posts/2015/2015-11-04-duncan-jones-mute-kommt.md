@@ -12,7 +12,7 @@ categories:
 tags:
   - "duncan jones"
   - "filme"
-  - "scifi"
+  - "science fiction"
 external_url: "http://www.pewpewpew.de/2015/11/04/duncan-jones-mute-is-a-go/"
 short_url: "https://eay.li/2ql"
 ---

@@ -34,3 +34,5 @@ geo_longitude: "6.68299"
 \---
 
 **Update, 16.03.:** Stephan Hackett von 512 Pixels hat [den Little Finder Guy als 3D-Print veröffentlicht](https://512pixels.net/2026/03/3d-print-lil-finder/). Es bleibt fast zu hoffen, dass Apple das neue, liebge­wonnene Maskottchen selbst nur minimal einstreut und es ansonsten ein Community-Ding bleibt.
+
+**Update, 03.08.:** Der BasicAppleGuy hat ein Follow-Up mit weiteren Lil Finder Guy-Sichtungen veröffentlich, [wie ich hier berichte](https://eay.cc/2026/updates-zu-posts-ueber-desktop-ux-den-lil-finder-guy-open-minis-und-hitzegeplagten-atomstrom/).

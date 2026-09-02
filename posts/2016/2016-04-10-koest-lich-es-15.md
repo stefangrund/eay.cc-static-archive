@@ -20,7 +20,7 @@ tags:
   - "simpsons"
   - "star wars"
   - "virtual reality"
-  - "web development"
+  - "web-entwicklung"
 short_url: "https://eay.li/2sl"
 ---
 

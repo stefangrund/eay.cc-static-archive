@@ -11,7 +11,7 @@ categories:
   - "08/15"
 tags:
   - "apps"
-  - "netzkuktur"
+  - "netzkultur"
   - "social web"
 external_url: "https://ca98am79.medium.com/i-bought-friendster-for-30k-heres-what-i-m-doing-with-it-d5e8ddb3991d"
 short_url: "https://eay.li/41n"

@@ -12,7 +12,7 @@ categories:
 tags:
   - "javascript"
   - "technologie"
-  - "web development"
+  - "web-entwicklung"
 external_url: "https://github.com/jamiebuilds/the-super-tiny-compiler"
 short_url: "https://eay.li/39b"
 ---

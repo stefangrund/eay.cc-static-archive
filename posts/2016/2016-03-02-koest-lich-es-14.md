@@ -21,7 +21,7 @@ tags:
   - "streaming"
   - "superman"
   - "technologie"
-  - "web development"
+  - "web-entwicklung"
   - "zukunft"
 short_url: "https://eay.li/2s4"
 ---

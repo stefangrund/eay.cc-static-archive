@@ -10,7 +10,7 @@ format: "standard"
 categories:
   - "08/15"
 tags:
-  - "bloggen"
+  - "blogging"
   - "in eigener sache"
 short_url: "https://eay.li/3z8"
 content_copy:

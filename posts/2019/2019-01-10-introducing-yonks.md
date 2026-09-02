@@ -12,7 +12,7 @@ categories:
   - "Yonks"
 tags:
   - "android"
-  - "app"
+  - "apps"
   - "best of"
   - "ios"
   - "projekte"
